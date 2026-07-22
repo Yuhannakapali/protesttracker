@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProtestTracker</title>
+    <meta name="description"
+        content="An independent, automatically updated archive documenting major protest movements around the world.">
+    <style>
+        :root {
+            --ink: #14110f;
+            --paper: #f4f1ea;
+            --accent: #c8461e;
+            --muted: #6b635a;
+            --rule: #cfc7b8;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            -webkit-font-smoothing: antialiased;
+        }
+
+        body {
+            background: var(--paper);
+            color: var(--ink);
+            font-family: Georgia, "Times New Roman", serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            line-height: 1.5;
+        }
+
+        .stamp {
+            position: absolute;
+            top: 2rem;
+            right: 2rem;
+            border: 2px solid var(--accent);
+            color: var(--accent);
+            font-family: "Courier New", monospace;
+            font-size: 0.7rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            padding: 0.4rem 0.7rem;
+            transform: rotate(-6deg);
+            opacity: 0.85;
+        }
+
+        main {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 6rem 1.5rem 4rem;
+            width: 100%;
+        }
+
+        .eyebrow {
+            font-family: "Courier New", monospace;
+            font-size: 0.75rem;
+            letter-spacing: 0.25em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-bottom: 1.5rem;
+        }
+
+        h1 {
+            font-size: clamp(2.8rem, 9vw, 5rem);
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            line-height: 1;
+            margin-bottom: 1.5rem;
+        }
+
+        h1 .dot {
+            color: var(--accent);
+        }
+
+        .lede {
+            font-size: clamp(1.1rem, 3.5vw, 1.35rem);
+            color: var(--ink);
+            max-width: 34ch;
+            margin-bottom: 2.5rem;
+        }
+
+        .rule {
+            height: 1px;
+            background: var(--rule);
+            border: none;
+            margin: 0 0 2.5rem;
+        }
+
+        .status {
+            display: flex;
+            align-items: baseline;
+            gap: 0.75rem;
+            font-family: "Courier New", monospace;
+            font-size: 0.9rem;
+            color: var(--muted);
+        }
+
+        .status strong {
+            color: var(--ink);
+            font-weight: 700;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+
+        .pulse {
+            width: 9px;
+            height: 9px;
+            border-radius: 50%;
+            background: var(--accent);
+            display: inline-block;
+            align-self: center;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% {
+                box-shadow: 0 0 0 0 rgba(200, 70, 30, 0.5);
+            }
+
+            70% {
+                box-shadow: 0 0 0 8px rgba(200, 70, 30, 0);
+            }
+
+            100% {
+                box-shadow: 0 0 0 0 rgba(200, 70, 30, 0);
+            }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .pulse {
+                animation: none;
+            }
+        }
+
+        footer {
+            border-top: 1px solid var(--rule);
+            padding: 1.5rem;
+            text-align: center;
+            font-size: 0.8rem;
+            color: var(--muted);
+            font-family: "Courier New", monospace;
+        }
+
+        @media (max-width: 520px) {
+            .stamp {
+                top: 1rem;
+                right: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="stamp">Est. 2026</div>
+    <main>
+        <p class="eyebrow">Independent News Archive</p>
+        <h1>ProtestTracker<span class="dot">.</span></h1>
+        <p class="lede">An automatically updated record of major protest movements as they unfold around the world.</p>
+        <hr class="rule">
+        <p class="status"><span class="pulse"></span><span><strong>Building</strong> &nbsp;the archive goes live
+                soon</span></p>
+    </main>
+    <footer>
+        Independently maintained archive. Not affiliated with any political group, party, or government.
+    </footer>
+</body>
+
+</html>
