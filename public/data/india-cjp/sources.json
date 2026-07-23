@@ -1,0 +1,39 @@
+{
+  "sources": [
+    {
+      "name": "CNN",
+      "type": "International wire",
+      "note": "Periodic coverage of major developments"
+    },
+    {
+      "name": "Al Jazeera",
+      "type": "Broadcast news",
+      "note": "Frequent updates during escalations"
+    },
+    {
+      "name": "New Lines Magazine",
+      "type": "Long-form magazine",
+      "note": "In-depth analysis of key moments"
+    },
+    {
+      "name": "The Hindu",
+      "type": "National daily",
+      "note": "Steady day-to-day reporting"
+    },
+    {
+      "name": "Scroll.in",
+      "type": "Digital news",
+      "note": "On-the-ground updates and explainers"
+    },
+    {
+      "name": "Reuters",
+      "type": "Wire service",
+      "note": "Periodic coverage of major developments"
+    },
+    {
+      "name": "BBC News",
+      "type": "Broadcast news",
+      "note": "Occasional coverage of significant events"
+    }
+  ]
+}

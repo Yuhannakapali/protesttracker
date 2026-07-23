@@ -1,0 +1,108 @@
+name: Aggregate and Deploy
+
+# What this workflow does:
+#   1. Refreshes aggregated JSON (RSS -> public/data) via `npm run aggregate`.
+#   2. Commits the refreshed JSON back to main (only when something changed).
+#   3. Builds the Next.js static export (./out) and deploys it to GitHub Pages.
+#
+# Infinite-loop note:
+#   The commit-back step (step 5) pushes with "[skip ci]" in the message. GitHub
+#   Actions skips `push`-triggered runs when the head commit message contains
+#   "[skip ci]", so the auto-commit does NOT trigger another push-driven run.
+#   The scheduled (cron) and manual (workflow_dispatch) triggers are unaffected
+#   by "[skip ci]" and keep running on their own cadence.
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Every 2 hours, on the hour.
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+# contents: write  -> push refreshed JSON back to main
+# pages:    write  -> publish to GitHub Pages
+# id-token: write  -> OIDC token required by deploy-pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Serialize Pages runs. Do NOT cancel an in-progress deploy: a half-finished
+# deploy could leave the site in a bad state.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  aggregate-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Persist the token so we can push the refreshed JSON back to main.
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Aggregate data (RSS -> public/data)
+        # A single bad or empty feed must not block the deploy of existing data.
+        continue-on-error: true
+        run: npm run aggregate
+
+      - name: Commit refreshed data back to main
+        # Only on the canonical repo's main branch, never on forks or PRs.
+        # "[skip ci]" in the commit message prevents this push from
+        # triggering another workflow run (see loop note at top of file).
+        if: >-
+          github.ref == 'refs/heads/main' &&
+          github.event_name != 'pull_request' &&
+          github.repository == github.event.repository.full_name
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          # If nothing is staged, `git diff --cached --quiet` succeeds (exit 0)
+          # and we skip the commit. Otherwise it exits non-zero and we commit.
+          if git diff --cached --quiet; then
+            echo "No aggregated data changes to commit."
+          else
+            git commit -m "chore: refresh aggregated data [skip ci]"
+            git push
+          fi
+
+      - name: Type-check (TypeScript 7 native)
+        # The Next build skips Next's own TS pass (the TS 7 native compiler
+        # has no JS API for it), so `tsc` is the source of truth for types.
+        run: npm run typecheck
+
+      - name: Build static export
+        run: npm run build
+
+      - name: Ensure .nojekyll
+        # Without this, GitHub Pages runs Jekyll and strips the _next directory.
+        run: touch out/.nojekyll
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./out
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,125 @@
+{
+  "lastUpdated": "2026-07-22T23:54:59.718Z",
+  "movements": [
+    {
+      "id": "india-cjp",
+      "name": "Cockroach Janta Party / NEET Protests",
+      "status": "Escalating",
+      "active": true,
+      "region": "Asia",
+      "location": "India · Delhi & NCR",
+      "year": 2026,
+      "logged": "2026-05-20",
+      "articleCount": 194,
+      "updated": "1d ago",
+      "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
+      "latestHeadlines": [
+        {
+          "title": "Cockroach Janta Party and the Return of Street Politics",
+          "source": "Frontline Magazine",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "\"98% Of Policemen Suffered Only Minor Injuries\": CJP Spokespersons To NDTV",
+          "source": "NDTV",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "Abhijeet Dipke education background: The Boston University graduate behind the youth-led Cockroach Janta",
+          "source": "The Times of India",
+          "date": "2026-07-22"
+        }
+      ]
+    },
+    {
+      "id": "nigeria-fuel",
+      "name": "Fuel Subsidy Protests",
+      "status": "Active",
+      "active": true,
+      "region": "Africa",
+      "location": "Nigeria · Lagos & Abuja",
+      "year": 2026,
+      "logged": "2026-07-15",
+      "articleCount": 7,
+      "updated": "3h ago",
+      "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
+      "latestHeadlines": [
+        {
+          "title": "Nigeria fuel subsidy protests spread to Abuja as unions join",
+          "source": "Reuters",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "Lagos rallies grow over cost of living and fuel prices",
+          "source": "BBC News",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "Nigeria's government defends subsidy removal amid protests",
+          "source": "Al Jazeera",
+          "date": "2026-07-20"
+        }
+      ]
+    },
+    {
+      "id": "chile-pension",
+      "name": "Pension Reform Protests",
+      "status": "Quiet",
+      "active": false,
+      "region": "Americas",
+      "location": "Chile · Santiago",
+      "year": 2025,
+      "logged": "2025-09-15",
+      "articleCount": 5,
+      "updated": "6d ago",
+      "description": "A campaign calling for changes to the country's privately managed pension system.",
+      "latestHeadlines": [
+        {
+          "title": "Chile pension reform talks stall as street protests thin out",
+          "source": "Reuters",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "Santiago marchers renew calls for pension overhaul",
+          "source": "BBC News",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "Chile's pension debate: what is at stake",
+          "source": "Al Jazeera",
+          "date": "2026-07-04"
+        }
+      ]
+    },
+    {
+      "id": "kenya-finance",
+      "name": "Finance Bill Protests",
+      "status": "Concluded",
+      "active": false,
+      "region": "Africa",
+      "location": "Kenya · Nairobi",
+      "year": 2024,
+      "logged": "2024-06-10",
+      "articleCount": 7,
+      "updated": "over a year ago",
+      "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
+      "latestHeadlines": [
+        {
+          "title": "Kenya's president withdraws finance bill after weeks of protests",
+          "source": "Reuters",
+          "date": "2024-06-26"
+        },
+        {
+          "title": "Nairobi sees largest protests yet over finance bill",
+          "source": "BBC News",
+          "date": "2024-06-25"
+        },
+        {
+          "title": "Kenya finance bill: what the proposed taxes would change",
+          "source": "Al Jazeera",
+          "date": "2024-06-24"
+        }
+      ]
+    }
+  ]
+}

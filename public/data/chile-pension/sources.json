@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "name": "Reuters",
+      "type": "Wire service",
+      "note": "Occasional coverage of significant events"
+    },
+    {
+      "name": "BBC News",
+      "type": "Broadcast news",
+      "note": "Periodic coverage of major developments"
+    },
+    {
+      "name": "Al Jazeera",
+      "type": "Broadcast news",
+      "note": "Explainers and analysis of key moments"
+    }
+  ]
+}

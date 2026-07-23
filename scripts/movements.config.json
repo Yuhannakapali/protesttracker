@@ -1,0 +1,54 @@
+{
+  "india-cjp": {
+    "name": "Cockroach Janta Party (CJP) Protests",
+    "region": "Asia",
+    "location": "Delhi, India",
+    "year": 2026,
+    "keywords": ["cockroach", "NEET", "Jantar Mantar", "CJP", "Janta Party"],
+    "feeds": [
+      "https://news.google.com/rss/search?q=%22Cockroach%20Janta%20Party%22&hl=en-IN&gl=IN&ceid=IN:en",
+      "https://news.google.com/rss/search?q=%22NEET%20protest%20Delhi%22&hl=en-IN&gl=IN&ceid=IN:en",
+      "https://news.google.com/rss/search?q=%22Jantar%20Mantar%20protest%22&hl=en-IN&gl=IN&ceid=IN:en"
+    ],
+    "manualStatus": null
+  },
+  "nigeria-fuel": {
+    "name": "Nigeria Fuel Subsidy Protests",
+    "region": "Africa",
+    "location": "Lagos & Abuja, Nigeria",
+    "year": 2026,
+    "keywords": ["fuel subsidy", "petrol price", "NLC", "Tinubu", "cost of living", "protest"],
+    "feeds": [
+      "https://news.google.com/rss/search?q=%22fuel%20subsidy%20protest%22%20Nigeria&hl=en-NG&gl=NG&ceid=NG:en",
+      "https://news.google.com/rss/search?q=Nigeria%20petrol%20price%20protest&hl=en-NG&gl=NG&ceid=NG:en",
+      "https://news.google.com/rss/search?q=NLC%20strike%20Nigeria&hl=en-NG&gl=NG&ceid=NG:en"
+    ],
+    "manualStatus": null
+  },
+  "chile-pension": {
+    "name": "Chile Pension Reform Protests",
+    "region": "Americas",
+    "location": "Santiago, Chile",
+    "year": 2026,
+    "keywords": ["pension", "AFP", "jubilaciones", "reforma previsional", "no mas AFP", "protest"],
+    "feeds": [
+      "https://news.google.com/rss/search?q=%22reforma%20previsional%22%20Chile%20protesta&hl=es-419&gl=CL&ceid=CL:es",
+      "https://news.google.com/rss/search?q=%22No%20mas%20AFP%22%20Chile&hl=es-419&gl=CL&ceid=CL:es",
+      "https://news.google.com/rss/search?q=Chile%20pension%20protest&hl=en-US&gl=CL&ceid=CL:en"
+    ],
+    "manualStatus": null
+  },
+  "kenya-finance": {
+    "name": "Kenya Finance Bill Protests",
+    "region": "Africa",
+    "location": "Nairobi, Kenya",
+    "year": 2024,
+    "keywords": ["finance bill", "RejectFinanceBill", "Ruto", "tax", "Gen Z protest", "protest"],
+    "feeds": [
+      "https://news.google.com/rss/search?q=%22Finance%20Bill%22%20Kenya%20protest&hl=en-KE&gl=KE&ceid=KE:en",
+      "https://news.google.com/rss/search?q=%22RejectFinanceBill%22%20Kenya&hl=en-KE&gl=KE&ceid=KE:en",
+      "https://news.google.com/rss/search?q=Kenya%20Gen%20Z%20protest%20Ruto&hl=en-KE&gl=KE&ceid=KE:en"
+    ],
+    "manualStatus": "Concluded"
+  }
+}
