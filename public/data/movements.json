@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T22:57:38.335Z",
+  "lastUpdated": "2026-07-29T02:32:32.930Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -11,36 +11,36 @@
       "year": 2026,
       "logged": "2026-05-20",
       "articleCount": 500,
-      "updated": "23h ago",
+      "updated": "3h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
         {
-          "title": "\"No Protester Will Be Left Alone\": CJP After Midnight Talks With Government",
-          "source": "NDTV",
-          "date": "2026-07-28"
+          "title": "India’s cockroach party threatens new protest after court order",
+          "source": "The Japan Times",
+          "date": "2026-07-29"
         },
         {
-          "title": "India’s Cockroach movement threatens to restart protests after mass student arrests",
-          "source": "The Guardian",
-          "date": "2026-07-28"
+          "title": "Europe’s Wildfires & India’s Cockroach Party",
+          "source": "NewsForKids.net",
+          "date": "2026-07-29"
         },
         {
-          "title": "Centre 1st Offered To Change Dharmendra Pradhan's Portfolio, CJP Rejected: Sources",
-          "source": "NDTV",
-          "date": "2026-07-28"
+          "title": "‘Wounds from CAA are fresh’: Why young Muslims remained ambivalent about the ‘cockroach’ protests",
+          "source": "Scroll.in",
+          "date": "2026-07-29"
         }
       ]
     },
     {
       "id": "nigeria-fuel",
       "name": "Fuel Subsidy Protests",
-      "status": "Active",
-      "active": true,
+      "status": "Quiet",
+      "active": false,
       "region": "Africa",
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 265,
+      "articleCount": 270,
       "updated": "1w ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
@@ -64,16 +64,21 @@
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 210,
-      "updated": "23h ago",
+      "articleCount": 212,
+      "updated": "3h ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
+        {
+          "title": "Diputados define este miércoles la reforma previsional en medio de una fuerte protesta gremial",
+          "source": "R2820",
+          "date": "2026-07-29"
+        },
         {
           "title": "PARO DOCENTE Y MOVILIZACIÓN EN RECHAZO DE LA REFORMA PREVISIONAL Y LA PROTESTA SE SUMA A LA DE OTROS GREMIOS",
           "source": "Federal Al Día",
@@ -82,11 +87,6 @@
         {
           "title": "AMET también se suma al paro y movilización en rechazo a la reforma previsional",
           "source": "Diario Río Uruguay",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "Trabajadores de salud mental definieron sumarse a las protestas contra la reforma previsional",
-          "source": "APFDigital",
           "date": "2026-07-27"
         }
       ]
