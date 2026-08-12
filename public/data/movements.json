@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T22:40:07.972Z",
+  "lastUpdated": "2026-08-12T01:50:10.599Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -11,7 +11,7 @@
       "year": 2026,
       "logged": "2026-05-20",
       "articleCount": 500,
-      "updated": "23h ago",
+      "updated": "1d ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
         {
@@ -40,7 +40,7 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 313,
+      "articleCount": 314,
       "updated": "3w ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
@@ -70,10 +70,15 @@
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 255,
-      "updated": "6d ago",
+      "articleCount": 256,
+      "updated": "1d ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
+        {
+          "title": "AMSAFE anunció una jornada provincial de protesta contra la reforma previsional",
+          "source": "radioamanecer.com.ar",
+          "date": "2026-08-11"
+        },
         {
           "title": "A 10 años de la gran marcha NO+AFP: el cuestionamiento al modelo y la alternativa desde el mundo del trabajo",
           "source": "El Desconcierto",
@@ -83,11 +88,6 @@
           "title": "Luis Mesina: «Aléjense lo más que puedan del sistema chileno de AFP»",
           "source": "Noticias SIN",
           "date": "2026-08-06"
-        },
-        {
-          "title": "A 10 AÑOS DE LA GRAN MARCHA POR “NO MÁS AFP” EL PRESIDENTE NACIONAL EXPUSO EN EL ANIVERSARIO",
-          "source": "Colegio de Profesores",
-          "date": "2026-08-05"
         }
       ]
     },
