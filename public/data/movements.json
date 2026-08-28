@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T18:51:39.721Z",
+  "lastUpdated": "2026-08-28T04:02:57.368Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -11,22 +11,22 @@
       "year": 2026,
       "logged": "2026-05-20",
       "articleCount": 500,
-      "updated": "19h ago",
+      "updated": "4h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
         {
-          "title": "How has the Cockroach Janta Party changed India’s politics?",
-          "source": "BBC",
-          "date": "2026-08-27"
-        },
-        {
-          "title": "Do it Gen-Z way: CJP's Saurav Das's advice after law school's convocation cancelled",
+          "title": "Union Minister Holds Talks With Anti-Quota Protesters After Jantar Mantar Agitation - India Today",
           "source": "India Today",
-          "date": "2026-08-27"
+          "date": "2026-08-28"
         },
         {
-          "title": "CJP warns Delhi government over school conditions, sets deadline",
-          "source": "The New Indian Express",
+          "title": "JP Nadda Meets Reservation Hatao Andolan Group After Jantar Mantar Protest",
+          "source": "Daily Pioneer",
+          "date": "2026-08-28"
+        },
+        {
+          "title": "Would CJP get votes if it contested polls today? What Mood of the Nation says",
+          "source": "India Today",
           "date": "2026-08-27"
         }
       ]
@@ -34,16 +34,21 @@
     {
       "id": "nigeria-fuel",
       "name": "Fuel Subsidy Protests",
-      "status": "Quiet",
-      "active": false,
+      "status": "Active",
+      "active": true,
       "region": "Africa",
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 431,
-      "updated": "1w ago",
+      "articleCount": 432,
+      "updated": "4h ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
+        {
+          "title": "Labor Unions and Civil Society Groups Protest Rising Fuel Costs in Nigeria",
+          "source": "Head Topics",
+          "date": "2026-08-28"
+        },
         {
           "title": "Salary crisis: NLC warns of fresh health sector strike",
           "source": "Punch Newspapers",
@@ -52,11 +57,6 @@
         {
           "title": "NLC warns Nigerian govt of fresh health sector strike",
           "source": "Daily Post Nigeria",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "NLC warns of likely workers’ strike in health sector",
-          "source": "Ripples Nigeria",
           "date": "2026-08-19"
         }
       ]
@@ -70,7 +70,7 @@
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 296,
+      "articleCount": 297,
       "updated": "3d ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
@@ -100,8 +100,8 @@
       "location": "Kenya · Nairobi",
       "year": 2024,
       "logged": "2024-06-10",
-      "articleCount": 338,
-      "updated": "19h ago",
+      "articleCount": 339,
+      "updated": "1d ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
         {
