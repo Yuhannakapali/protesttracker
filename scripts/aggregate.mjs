@@ -130,6 +130,14 @@ function splitTitleSource(rawTitle) {
 // Turn "www.vanguardngr.com" into "vanguardngr.com" for use as a last-resort
 // publisher label, when a feed gives neither a <source> tag nor a configured
 // name.
+// Google News search feeds are already scoped by their query, so items from
+// them are on-topic by construction. Publisher feeds are site-wide and need a
+// tighter filter — this tells the two apart, for stored articles as well as
+// fresh ones.
+function isGoogleNewsUrl(url) {
+  return String(url || '').includes('news.google.com');
+}
+
 function hostLabel(url) {
   try {
     return new URL(url).hostname.replace(/^www\./, '');
@@ -306,6 +314,9 @@ async function main() {
     const dir = path.join(DATA_DIR, id);
     const articlesPath = path.join(dir, 'articles.json');
     const existingArticles = readJson(articlesPath, { articles: [] }).articles || [];
+    // Falling back to `keywords` keeps a movement that defines no strict list
+    // behaving exactly as before.
+    const strictKeywords = cfg.strictKeywords || cfg.keywords;
 
     let okFeeds = 0;
     let failedFeeds = 0;
@@ -315,12 +326,18 @@ async function main() {
     // object form names the publisher for feeds that do not identify
     // themselves in the item markup.
     for (const entry of cfg.feeds || []) {
-      const url = typeof entry === 'string' ? entry : entry.url;
-      const feedSource = typeof entry === 'string' ? '' : entry.source || '';
+      const isPublisherFeed = typeof entry !== 'string';
+      const url = isPublisherFeed ? entry.url : entry;
+      const feedSource = isPublisherFeed ? entry.source || '' : '';
       if (!url) continue;
+      // A publisher's site-wide feed carries its whole front page, so it is
+      // filtered on strictKeywords — topic phrases only. A bare name like
+      // "Tinubu" or "Ruto" is fine for a Google News query but would pull in
+      // unrelated national politics here.
+      const feedKeywords = isPublisherFeed ? strictKeywords : cfg.keywords;
       try {
         const xml = await fetchFeed(url);
-        const items = parseRss(xml, feedSource).filter((a) => matchesKeywords(a, cfg.keywords));
+        const items = parseRss(xml, feedSource).filter((a) => matchesKeywords(a, feedKeywords));
         fetched.push(...items);
         okFeeds += 1;
       } catch (err) {
@@ -331,10 +348,15 @@ async function main() {
 
     // Re-normalise stored excerpts too, so articles saved before the
     // decode/strip order was fixed lose their mangled markup in place.
-    const repaired = existingArticles.map((a) => ({
-      ...a,
-      excerpt: normalizeExcerpt(a.excerpt, a.title, a.source),
-    }));
+    const repaired = existingArticles
+      .map((a) => ({
+        ...a,
+        excerpt: normalizeExcerpt(a.excerpt, a.title, a.source),
+      }))
+      // Hold stored publisher-feed articles to the same strict list applied on
+      // the way in, so tightening it also clears entries admitted under a
+      // looser one. Google News items keep their place.
+      .filter((a) => isGoogleNewsUrl(a.url) || matchesKeywords(a, strictKeywords));
 
     const merged = sortNewestFirst(dedupe([...fetched, ...repaired])).slice(0, MAX_ARTICLES);
     writeJson(articlesPath, { articles: merged });
