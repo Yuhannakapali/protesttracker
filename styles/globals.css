@@ -423,6 +423,12 @@ hr.hairline { height: 1px; background: var(--line); border: none; margin: 0; }
 .article__title:hover { color: var(--accentink); }
 .article__title .ext { font-size: 0.7em; color: var(--ink3); vertical-align: super; margin-left: 3px; }
 .article__excerpt { color: var(--ink2); font-size: 0.95rem; margin-top: 6px; max-width: 68ch; }
+.article__more {
+  display: inline-block; margin-top: 8px; text-decoration: none;
+  font-family: var(--font-mono), monospace; font-size: 11px; color: var(--ink3);
+  letter-spacing: 0.05em; text-transform: uppercase;
+}
+.article__more:hover { color: var(--accentink); text-decoration: underline; }
 
 /* Timeline */
 .timeline { list-style: none; padding: 0; margin: 0; position: relative; }

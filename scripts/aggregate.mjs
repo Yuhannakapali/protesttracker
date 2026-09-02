@@ -24,6 +24,7 @@ const CONFIG_PATH = path.join(__dirname, 'movements.config.json');
 
 const FEED_TIMEOUT_MS = 15000;
 const MAX_ARTICLES = 500;
+const EXCERPT_MAX_CHARS = 320;
 const USER_AGENT =
   'Mozilla/5.0 (compatible; ProtestTrackerBot/1.0; +https://protesttracker.net)';
 
@@ -58,11 +59,43 @@ function decodeEntities(str) {
     });
 }
 
+// Order matters: decode entities FIRST, then strip tags. Google News puts
+// entity-encoded markup in <description> ("&lt;a href=...&gt;"), so stripping
+// first removes nothing and the later decode turns that markup into visible
+// text. Decoding twice covers feeds that double-encode.
 function stripHtml(str) {
   if (!str) return '';
-  return decodeEntities(String(str).replace(/<[^>]*>/g, ' '))
-    .replace(/\s+/g, ' ')
-    .trim();
+  const decoded = decodeEntities(String(str));
+  let out = decodeEntities(decoded.replace(/<[^>]*>/g, ' ')).replace(/<[^>]*>/g, ' ');
+  // A tag left unterminated by an earlier truncation ('<a href="https://…'
+  // cut at 240 chars) never matches the tag pattern, so remove a dangling
+  // fragment at either end explicitly.
+  out = out.replace(/<[^>]*$/, ' ').replace(/^[^<>]*>/, ' ');
+  return out.replace(/\s+/g, ' ').trim();
+}
+
+// True when an "excerpt" carries nothing the headline does not already say.
+// Google News descriptions are just the linked headline plus the publisher
+// name, so once cleaned they are pure duplication — worth nothing to a reader
+// and actively bad on the page as repeated text.
+function isEchoOfTitle(excerpt, title, source) {
+  const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+  const e = norm(excerpt);
+  const t = norm(title);
+  if (!e) return true;
+  if (!t) return false;
+  if (e === t) return true;
+  if (!e.startsWith(t)) return false;
+  const rest = e.slice(t.length).trim();
+  return rest === '' || rest === norm(source);
+}
+
+// Clean an excerpt and drop it if it adds nothing. Applied to freshly fetched
+// items and, on every run, to already-stored ones so previously mangled
+// excerpts repair themselves without a separate migration.
+function normalizeExcerpt(raw, title, source) {
+  const text = stripHtml(raw).slice(0, EXCERPT_MAX_CHARS);
+  return isEchoOfTitle(text, title, source) ? '' : text;
 }
 
 // Extract CDATA or inner text of the first matching tag inside a block.
@@ -94,7 +127,18 @@ function splitTitleSource(rawTitle) {
 
 // ---- RSS parsing (no external deps) --------------------------------------
 
-function parseRss(xml) {
+// Turn "www.vanguardngr.com" into "vanguardngr.com" for use as a last-resort
+// publisher label, when a feed gives neither a <source> tag nor a configured
+// name.
+function hostLabel(url) {
+  try {
+    return new URL(url).hostname.replace(/^www\./, '');
+  } catch {
+    return '';
+  }
+}
+
+function parseRss(xml, feedSource = '') {
   const items = [];
   const itemBlocks = xml.match(/<item[\s\S]*?<\/item>/gi) || [];
   for (const block of itemBlocks) {
@@ -105,11 +149,14 @@ function parseRss(xml) {
       link = stripHtml(tag(block, 'guid'));
     }
     const pubDate = tag(block, 'pubDate');
-    const description = stripHtml(tag(block, 'description'));
+    const description = tag(block, 'description');
     const sourceTag = stripHtml(tag(block, 'source'));
 
     const split = splitTitleSource(rawTitle);
-    const source = sourceTag || split.source || 'Unknown';
+    // Publisher feeds carry no <source> tag and no " - Publisher" title
+    // suffix, so fall back to the name configured for the feed, then to the
+    // link's hostname.
+    const source = sourceTag || split.source || feedSource || hostLabel(link) || 'Unknown';
     // Always drop the trailing " - Publisher" suffix Google News appends.
     const title = split.title;
     const date = toISODate(pubDate);
@@ -120,7 +167,7 @@ function parseRss(xml) {
       source,
       url: link,
       date: date || toISODate(new Date().toISOString()),
-      excerpt: description.slice(0, 240),
+      excerpt: normalizeExcerpt(description, title, source),
     });
   }
   return items;
@@ -264,10 +311,16 @@ async function main() {
     let failedFeeds = 0;
     const fetched = [];
 
-    for (const url of cfg.feeds || []) {
+    // A feed entry is either a bare url string or { url, source }. The
+    // object form names the publisher for feeds that do not identify
+    // themselves in the item markup.
+    for (const entry of cfg.feeds || []) {
+      const url = typeof entry === 'string' ? entry : entry.url;
+      const feedSource = typeof entry === 'string' ? '' : entry.source || '';
+      if (!url) continue;
       try {
         const xml = await fetchFeed(url);
-        const items = parseRss(xml).filter((a) => matchesKeywords(a, cfg.keywords));
+        const items = parseRss(xml, feedSource).filter((a) => matchesKeywords(a, cfg.keywords));
         fetched.push(...items);
         okFeeds += 1;
       } catch (err) {
@@ -276,7 +329,14 @@ async function main() {
       }
     }
 
-    const merged = sortNewestFirst(dedupe([...fetched, ...existingArticles])).slice(0, MAX_ARTICLES);
+    // Re-normalise stored excerpts too, so articles saved before the
+    // decode/strip order was fixed lose their mangled markup in place.
+    const repaired = existingArticles.map((a) => ({
+      ...a,
+      excerpt: normalizeExcerpt(a.excerpt, a.title, a.source),
+    }));
+
+    const merged = sortNewestFirst(dedupe([...fetched, ...repaired])).slice(0, MAX_ARTICLES);
     writeJson(articlesPath, { articles: merged });
 
     const status = computeStatus(merged, cfg.manualStatus);

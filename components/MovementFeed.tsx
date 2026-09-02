@@ -99,6 +99,15 @@ export default function MovementFeed({
                   <span className="ext" aria-hidden="true">↗</span>
                 </a>
                 {a.excerpt && <p className="article__excerpt">{a.excerpt}</p>}
+                <a
+                  className="article__more"
+                  href={a.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Read the full article at {a.source}
+                  <span aria-hidden="true"> →</span>
+                </a>
               </article>
             ))}
           </div>
