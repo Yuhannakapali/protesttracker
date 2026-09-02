@@ -1,5 +1,3 @@
-import fs from 'node:fs';
-import path from 'node:path';
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
 import type { GetStaticPaths, GetStaticProps } from 'next';
@@ -20,6 +18,7 @@ import { isActiveStatus } from '@/lib/status';
 import { longDate } from '@/lib/dates';
 import { useActiveSection } from '@/lib/useActiveSection';
 import { useFirstLoad } from '@/lib/useFirstLoad';
+import { SITE_NAME, absoluteUrl } from '@/lib/seo';
 import type {
   Article,
   BackgroundBlock,
@@ -39,7 +38,14 @@ const SECTIONS = [
 
 interface PageProps {
   id: string;
+  initialBundle: Bundle;
 }
+
+// How many articles to bake into the prerendered HTML. The full feed runs to
+// several hundred, which would put roughly a megabyte on the page once the
+// rendered DOM and the __NEXT_DATA__ copy of the props are counted. A recent
+// slice is enough for crawlers to index; the client refetch loads the rest.
+const PRERENDER_ARTICLE_LIMIT = 60;
 
 interface Bundle {
   movement: Movement | null;
@@ -50,9 +56,12 @@ interface Bundle {
   sources: Source[];
 }
 
-export default function MovementPage({ id }: PageProps) {
+export default function MovementPage({ id, initialBundle }: PageProps) {
   const router = useRouter();
-  const [data, setData] = useState<Bundle | null>(null);
+  // Seeded from the build so the headline feed, timeline and background are
+  // in the prerendered HTML; the effect below refreshes them from the live
+  // JSON, which the aggregator rewrites every two hours.
+  const [data, setData] = useState<Bundle | null>(initialBundle);
   const loading = useFirstLoad(data !== null);
   const activeSection = useActiveSection(
     SECTIONS.map((s) => s.id),
@@ -94,8 +103,53 @@ export default function MovementPage({ id }: PageProps) {
   const active = movement ? isActiveStatus(movement.status) : false;
   const title = movement?.name || 'Movement';
 
+  const canonicalPath = `/movements/${id}/`;
+
   return (
-    <Layout title={movement?.name} description={movement?.description}>
+    <Layout
+      title={movement?.name}
+      description={movement?.description}
+      path={canonicalPath}
+      jsonLd={
+        movement
+          ? [
+              {
+                '@context': 'https://schema.org',
+                '@type': 'CollectionPage',
+                name: movement.name,
+                description: movement.description,
+                url: absoluteUrl(canonicalPath),
+                isPartOf: { '@type': 'WebSite', name: SITE_NAME, url: absoluteUrl('/') },
+                about: {
+                  '@type': 'Event',
+                  name: movement.name,
+                  description: movement.description,
+                  location: { '@type': 'Place', name: movement.location },
+                  startDate: movement.logged,
+                },
+              },
+              {
+                '@context': 'https://schema.org',
+                '@type': 'BreadcrumbList',
+                itemListElement: [
+                  {
+                    '@type': 'ListItem',
+                    position: 1,
+                    name: SITE_NAME,
+                    item: absoluteUrl('/'),
+                  },
+                  {
+                    '@type': 'ListItem',
+                    position: 2,
+                    name: movement.name,
+                    item: absoluteUrl(canonicalPath),
+                  },
+                ],
+              },
+            ]
+          : undefined
+      }
+    >
       <div className="container">
         <div className="page-head">
           {loading || !movement ? (
@@ -253,18 +307,14 @@ export default function MovementPage({ id }: PageProps) {
   );
 }
 
-// Enumerate movement pages from movements.json at build time. The page
-// content itself is fetched client-side at runtime, so overwriting the
-// JSON does not require a rebuild (only adding a brand-new id does).
+// Enumerate movement pages from movements.json at build time, and read
+// each movement's content so the page is prerendered with it. The deploy
+// workflow rebuilds after every aggregation run, so the HTML never lags
+// the JSON by more than one cycle; the client refetch closes the gap for
+// anyone already on the page.
 export const getStaticPaths: GetStaticPaths = async () => {
-  const file = path.join(process.cwd(), 'public', 'data', 'movements.json');
-  let ids: string[] = [];
-  try {
-    const raw = JSON.parse(fs.readFileSync(file, 'utf8')) as { movements?: { id: string }[] };
-    ids = (raw.movements || []).map((m) => m.id);
-  } catch {
-    ids = [];
-  }
+  const { readMovements } = await import('@/lib/server-data');
+  const ids = readMovements().movements.map((m) => m.id);
   return {
     paths: ids.map((id) => ({ params: { id } })),
     fallback: false,
@@ -272,5 +322,19 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const getStaticProps: GetStaticProps<PageProps> = async ({ params }) => {
-  return { props: { id: String(params?.id) } };
+  const id = String(params?.id);
+  const server = await import('@/lib/server-data');
+  return {
+    props: {
+      id,
+      initialBundle: {
+        movement: server.readMovements().movements.find((m) => m.id === id) || null,
+        articles: server.readArticles(id).slice(0, PRERENDER_ARTICLE_LIMIT),
+        timeline: server.readTimeline(id),
+        background: server.readBackground(id),
+        legal: server.readLegal(id),
+        sources: server.readSources(id),
+      },
+    },
+  };
 };

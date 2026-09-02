@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
+import type { GetStaticProps } from 'next';
 import Layout from '@/components/Layout';
 import MovementCard from '@/components/MovementCard';
 import LiveDot from '@/components/LiveDot';
@@ -8,10 +9,17 @@ import { fetchMovements } from '@/lib/data';
 import { byRecencyDesc } from '@/lib/sort';
 import { isActiveStatus } from '@/lib/status';
 import { useFirstLoad } from '@/lib/useFirstLoad';
+import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from '@/lib/seo';
 import type { Movement } from '@/lib/types';
 
-export default function Home() {
-  const [movements, setMovements] = useState<Movement[] | null>(null);
+interface PageProps {
+  initialMovements: Movement[];
+}
+
+export default function Home({ initialMovements }: PageProps) {
+  // Seeded from the build so the movement list is present in the HTML a
+  // crawler receives; the effect below refreshes it from the live JSON.
+  const [movements, setMovements] = useState<Movement[] | null>(initialMovements);
   const loading = useFirstLoad(movements !== null);
 
   useEffect(() => {
@@ -29,7 +37,17 @@ export default function Home() {
   const count = active.length;
 
   return (
-    <Layout description="Active and escalating protest movements, updated automatically from public reporting.">
+    <Layout
+      description="Active and escalating protest movements, updated automatically from public reporting."
+      path="/"
+      jsonLd={{
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: SITE_NAME,
+        url: SITE_URL,
+        description: SITE_DESCRIPTION,
+      }}
+    >
       <div className="container">
         <div className="page-head">
           <p className="eyebrow">Independent news archive</p>
@@ -86,3 +104,10 @@ export default function Home() {
     </Layout>
   );
 }
+
+// Read the movement index at build time so the page ships with content.
+// The workflow rebuilds after every aggregation run, so this stays current.
+export const getStaticProps: GetStaticProps<PageProps> = async () => {
+  const { readMovements } = await import('@/lib/server-data');
+  return { props: { initialMovements: readMovements().movements } };
+};

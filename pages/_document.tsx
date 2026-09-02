@@ -19,10 +19,11 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <meta
-          name="description"
-          content="An independent, automatically updated archive documenting major protest movements around the world."
-        />
+        {/*
+          No <meta name="description"> here: every page supplies its own via
+          components/Layout. next/head cannot dedupe against _document, so a
+          copy here would emit two description tags on every page.
+        */}
         <link
           rel="icon"
           href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%23c1402b'/%3E%3C/svg%3E"

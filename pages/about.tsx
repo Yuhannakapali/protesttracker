@@ -4,7 +4,11 @@ import { STATUSES, STATUS_MEANINGS } from '@/lib/status';
 
 export default function About() {
   return (
-    <Layout title="About" description="How ProtestTracker works, and its stance of documentary neutrality.">
+    <Layout
+      title="About"
+      description="How ProtestTracker works, and its stance of documentary neutrality."
+      path="/about/"
+    >
       <div className="container">
         <div className="page-head">
           <p className="eyebrow">About</p>

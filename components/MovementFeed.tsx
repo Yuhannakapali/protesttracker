@@ -85,7 +85,9 @@ export default function MovementFeed({
                 <div className="article__meta">
                   <span className="article__source">{a.source}</span>
                   <span aria-hidden="true">·</span>
-                  <span>{timeAgo(a.date)}</span>
+                  {/* Relative to render time, so the prerendered string and
+                      the hydrated one legitimately differ. */}
+                  <span suppressHydrationWarning>{timeAgo(a.date)}</span>
                 </div>
                 <a
                   className="article__title"

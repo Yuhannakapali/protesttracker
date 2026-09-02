@@ -1,0 +1,8 @@
+# ProtestTracker — https://protesttracker.net
+# Everything here is a public archive of published reporting; nothing is
+# private, so the whole site is crawlable.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://protesttracker.net/sitemap.xml

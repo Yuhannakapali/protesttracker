@@ -5,6 +5,7 @@
   "description": "An independent, automatically updated archive of protest movements worldwide.",
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/sitemap.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",

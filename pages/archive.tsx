@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
+import type { GetStaticProps } from 'next';
 import Layout from '@/components/Layout';
 import MovementCard from '@/components/MovementCard';
 import { SkeletonCards } from '@/components/Skeleton';
@@ -10,8 +11,13 @@ import type { Movement } from '@/lib/types';
 
 const ALL = 'All';
 
-export default function Archive() {
-  const [movements, setMovements] = useState<Movement[] | null>(null);
+interface PageProps {
+  initialMovements: Movement[];
+}
+
+export default function Archive({ initialMovements }: PageProps) {
+  // Seeded from the build; see the note in pages/index.tsx.
+  const [movements, setMovements] = useState<Movement[] | null>(initialMovements);
   const [region, setRegion] = useState<string>(ALL);
   const [year, setYear] = useState<string>(ALL);
   const loading = useFirstLoad(movements !== null);
@@ -50,7 +56,11 @@ export default function Archive() {
     .sort(byRecencyDesc);
 
   return (
-    <Layout title="Archive" description="Quiet, dormant, and concluded protest movements documented in the archive.">
+    <Layout
+      title="Archive"
+      description="Quiet, dormant, and concluded protest movements documented in the archive."
+      path="/archive/"
+    >
       <div className="container">
         <div className="page-head">
           <p className="eyebrow">The record</p>
@@ -114,3 +124,8 @@ export default function Archive() {
     </Layout>
   );
 }
+
+export const getStaticProps: GetStaticProps<PageProps> = async () => {
+  const { readMovements } = await import('@/lib/server-data');
+  return { props: { initialMovements: readMovements().movements } };
+};
