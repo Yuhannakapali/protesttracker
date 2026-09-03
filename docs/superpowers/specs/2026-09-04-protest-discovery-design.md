@@ -103,7 +103,13 @@ English-only querying was measured to skew heavily India/US (26 of 30 results). 
 
 Per article: tokenize title, strip per-language stopwords, retain **distinctive terms** — tokens appearing in fewer than 5% of the run's protest corpus, capped at the 8 rarest per title. This is what suppresses `police`, `government`, and `protest` itself. The 5% figure is a starting value to be tuned against captured fixtures, not a derived constant.
 
-Incremental matching against existing state: an article joins a cluster when `sourcecountry` matches **and** Jaccard overlap of distinctive terms `>= 0.4`; otherwise it seeds a new cluster.
+Before clustering, **collapse syndication**: articles whose normalized titles are identical are one story carried by several domains, not several independent reports. Measured at 8 of 241 in a dense sample; in a sparse one it dominated the similarity signal entirely.
+
+Incremental matching against existing state: an article joins a cluster when `sourcecountry` matches **and** it shares **at least 2 distinctive terms** with the cluster; otherwise it seeds a new cluster.
+
+**Jaccard was measured and rejected.** On 241 real Indian protest stories, Jaccard `>= 0.4` graduated **zero** clusters (0.3: zero; 0.2: one), because it penalizes set-size differences — two outlets covering one protest carry ~8 terms each and share 2–3, scoring ~0.2. A raw shared-term count graduated 5 correct, well-separated clusters from the same data. With small term sets drawn from truncated titles, overlap count beats overlap ratio.
+
+**Query density is load-bearing.** A sparse global sample (75 articles, 2 days) produced 63 singleton clusters and one false positive. Per-country queries at `maxrecords=250` over `timespan=7d` produced the 5 real clusters above. Tier 2 must query per country with a wide window, not globally with a narrow one.
 
 Each cluster accumulates: `domains` (set), `daysSeen` (set of ISO dates), `articleCount`, `firstSeen`, `lastSeen`, and up to 5 sample articles.
 

@@ -35,7 +35,7 @@
 |---|---|
 | `scripts/lib/discovery/gdelt.mjs` | Query matrix, URL building, article normalization. Pure. |
 | `scripts/lib/discovery/tokenize.mjs` | Tokenization, multilingual stopwords, distinctive terms. Pure. |
-| `scripts/lib/discovery/cluster.mjs` | Jaccard, incremental matching, accumulation, eviction. Pure. |
+| `scripts/lib/discovery/cluster.mjs` | Syndication collapse, shared-term matching, accumulation, eviction. Pure. |
 | `scripts/lib/discovery/graduate.mjs` | Domain denylist, graduation thresholds, cluster→entity naming. Pure. |
 | `scripts/discover.mjs` | Modified — runs both tiers into one queue. |
 | `test/discovery/*.test.mjs` | `node --test` suites. |
@@ -102,6 +102,14 @@ test('omits the country filter for a global pass', () => {
   assert.ok(!decodeURIComponent(url).includes('sourcecountry:'));
 });
 
+test('defaults to a wide window and a high record cap', () => {
+  // Measured: a sparse 2d/75 global sample produced 63 singleton clusters and
+  // one false positive. 7d/250 per country produced 5 real movements.
+  const url = buildGdeltUrl({ lang: 'eng', terms: ['protest'], country: 'India' });
+  assert.ok(url.includes('timespan=7d'));
+  assert.ok(url.includes('maxrecords=250'));
+});
+
 test('never uses the rejected theme:PROTEST operator', () => {
   for (const row of QUERY_MATRIX) {
     const url = buildGdeltUrl({ lang: row.lang, terms: row.terms, country: row.countries[0] });
@@ -159,7 +167,7 @@ export const GDELT_ENDPOINT = 'https://api.gdeltproject.org/api/v2/doc/doc';
 // skew heavily India/US, which is why the non-English rows exist.
 export const QUERY_MATRIX = [
   { lang: 'eng', terms: ['protest', 'demonstration', 'rally', 'strike', 'march', 'walkout', 'blockade'],
-    countries: [null, 'Nigeria', 'Kenya', 'India', 'SouthAfrica', 'Philippines'] },
+    countries: ['Nigeria', 'Kenya', 'India', 'SouthAfrica', 'Philippines', 'UnitedKingdom'] },
   { lang: 'spa', terms: ['protesta', 'manifestacion', 'huelga', 'paro', 'marcha'],
     countries: ['Spain', 'Chile', 'Argentina', 'Mexico', 'Colombia', 'Peru'] },
   { lang: 'ind', terms: ['unjuk rasa', 'demo', 'mogok'], countries: ['Indonesia'] },
@@ -167,7 +175,7 @@ export const QUERY_MATRIX = [
   { lang: 'por', terms: ['protesto', 'greve', 'manifestacao'], countries: ['Brazil', 'Portugal'] },
 ];
 
-export function buildGdeltUrl({ lang, terms, country, timespan = '2d', maxrecords = 75 }) {
+export function buildGdeltUrl({ lang, terms, country, timespan = '7d', maxrecords = 250 }) {
   const phrase = terms.map((t) => (t.includes(' ') ? `"${t}"` : t)).join(' OR ');
   const parts = [`(${phrase})`, `sourcelang:${lang}`];
   if (country) parts.push(`sourcecountry:${country}`);
@@ -370,10 +378,13 @@ git commit -m "feat: add title tokenization and distinctive-term extraction"
 **Interfaces:**
 - Consumes: the article shape from Task 1.
 - Produces:
-  - `jaccard(a: string[], b: string[]): number`
+  - `sharedTermCount(a: string[], b: Iterable<string>): number`
+  - `collapseSyndication(articles): Array<article & { domains: string[], days: string[] }>`
   - `clusterKey(article): string`
-  - `assignToClusters(articlesWithTerms, clusters, opts?: { threshold?: number }): object` — returns the updated clusters map
+  - `assignToClusters(articlesWithTerms, clusters, opts?: { minShared?: number }): object` — returns the updated clusters map
   - `evictStale(clusters, nowMs, opts?: { maxIdleDays?: number }): object`
+
+**Measured rationale:** Jaccard `>= 0.4` graduated **zero** clusters from 241 real Indian protest stories (0.3: zero, 0.2: one). Shared-term count `>= 2` graduated 5 correct, well-separated clusters from the same data. Jaccard penalizes set-size differences; with ~8 terms per truncated title and 2-3 shared, real pairs score ~0.2.
 
 **Cluster shape:** `{ id, country, terms: string[], domains: string[], daysSeen: string[], articleCount, firstSeen, lastSeen, samples: Array<{title,url,domain,date}> }`. Sets are stored as arrays because the cluster is persisted as JSON.
 
@@ -384,21 +395,29 @@ Create `test/discovery/cluster.test.mjs`:
 ```javascript
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { jaccard, assignToClusters, evictStale } from '../../scripts/lib/discovery/cluster.mjs';
+import { sharedTermCount, collapseSyndication, assignToClusters, evictStale } from '../../scripts/lib/discovery/cluster.mjs';
 
 const art = (over = {}) => ({
   title: 'x', url: 'https://a.test/1', domain: 'a.test',
   country: 'Kenya', date: '2026-09-01', terms: ['import', 'duty'], ...over,
 });
 
-test('jaccard measures overlap', () => {
-  assert.equal(jaccard(['a', 'b'], ['a', 'b']), 1);
-  assert.equal(jaccard(['a', 'b'], ['c', 'd']), 0);
-  assert.equal(jaccard(['a', 'b'], ['a', 'c']), 1 / 3);
+test('sharedTermCount counts overlapping terms', () => {
+  assert.equal(sharedTermCount(['a', 'b'], ['a', 'b']), 2);
+  assert.equal(sharedTermCount(['a', 'b'], ['c', 'd']), 0);
+  assert.equal(sharedTermCount(['a', 'b'], new Set(['a', 'c'])), 1);
 });
 
-test('jaccard of two empty term sets is zero, never NaN', () => {
-  assert.equal(jaccard([], []), 0);
+test('sharedTermCount of empty sets is zero, never NaN', () => {
+  assert.equal(sharedTermCount([], []), 0);
+});
+
+test('collapseSyndication treats identical titles as one story across domains', () => {
+  const same = (dom, day) => ({ title: 'Traders Reject Duty Rise', url: `https://${dom}/1`, domain: dom, country: 'Kenya', date: day, terms: ['traders', 'duty'] });
+  const out = collapseSyndication([same('a.test', '2026-09-01'), same('b.test', '2026-09-02')]);
+  assert.equal(out.length, 1);
+  assert.deepEqual(out[0].domains.sort(), ['a.test', 'b.test']);
+  assert.deepEqual(out[0].days.sort(), ['2026-09-01', '2026-09-02']);
 });
 
 test('articles sharing terms in the same country join one cluster', () => {
@@ -419,6 +438,14 @@ test('the same terms in a different country do not merge', () => {
 
 test('unrelated terms seed separate clusters', () => {
   const clusters = assignToClusters([art(), art({ terms: ['fuel', 'subsidy'] })], {});
+  assert.equal(Object.keys(clusters).length, 2);
+});
+
+test('a single shared term is not enough to merge', () => {
+  // Requires >=2 shared terms; one common word must not glue two movements.
+  const clusters = assignToClusters(
+    [art({ terms: ['import', 'duty'] }), art({ terms: ['import', 'fuel'] })], {},
+  );
   assert.equal(Object.keys(clusters).length, 2);
 });
 
@@ -474,14 +501,37 @@ Create `scripts/lib/discovery/cluster.mjs`:
 
 const DAY_MS = 24 * 60 * 60 * 1000;
 
-export function jaccard(a, b) {
-  const A = new Set(a);
-  const B = new Set(b);
-  if (A.size === 0 && B.size === 0) return 0;
-  let inter = 0;
-  for (const t of A) if (B.has(t)) inter += 1;
-  const union = A.size + B.size - inter;
-  return union === 0 ? 0 : inter / union;
+// Overlap COUNT, not ratio. Jaccard was measured and rejected: it graduated
+// zero clusters from 241 real stories because it penalizes set-size
+// differences, and titles here are truncated to ~8 usable terms.
+export function sharedTermCount(a, b) {
+  const B = b instanceof Set ? b : new Set(b);
+  let n = 0;
+  for (const t of new Set(a)) if (B.has(t)) n += 1;
+  return n;
+}
+
+// One wire story republished across domains is not multi-outlet corroboration.
+// Identical normalized titles collapse into a single story carrying every
+// domain and day it appeared under. Mirrors normTitle() in aggregate.mjs.
+function normTitle(t) {
+  return String(t || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+}
+
+export function collapseSyndication(articles) {
+  const byTitle = new Map();
+  for (const a of articles) {
+    const k = normTitle(a.title);
+    if (!k) continue;
+    const hit = byTitle.get(k);
+    if (!hit) {
+      byTitle.set(k, { ...a, domains: [a.domain], days: [a.date] });
+    } else {
+      if (!hit.domains.includes(a.domain)) hit.domains.push(a.domain);
+      if (!hit.days.includes(a.date)) hit.days.push(a.date);
+    }
+  }
+  return [...byTitle.values()];
 }
 
 export function clusterKey(article) {
@@ -494,8 +544,8 @@ function seed(article) {
     id: clusterKey(article),
     country: article.country,
     terms: [...article.terms],
-    domains: [article.domain],
-    daysSeen: [article.date],
+    domains: [...(article.domains || [article.domain])],
+    daysSeen: [...(article.days || [article.date])],
     articleCount: 1,
     firstSeen: article.date,
     lastSeen: article.date,
@@ -505,8 +555,12 @@ function seed(article) {
 
 function absorb(cluster, article) {
   cluster.terms = [...new Set([...cluster.terms, ...article.terms])];
-  if (!cluster.domains.includes(article.domain)) cluster.domains.push(article.domain);
-  if (!cluster.daysSeen.includes(article.date)) cluster.daysSeen.push(article.date);
+  for (const d of article.domains || [article.domain]) {
+    if (!cluster.domains.includes(d)) cluster.domains.push(d);
+  }
+  for (const d of article.days || [article.date]) {
+    if (!cluster.daysSeen.includes(d)) cluster.daysSeen.push(d);
+  }
   cluster.articleCount += 1;
   if (article.date < cluster.firstSeen) cluster.firstSeen = article.date;
   if (article.date > cluster.lastSeen) cluster.lastSeen = article.date;
@@ -516,7 +570,7 @@ function absorb(cluster, article) {
   return cluster;
 }
 
-export function assignToClusters(articles, clusters, { threshold = 0.4 } = {}) {
+export function assignToClusters(articles, clusters, { minShared = 2 } = {}) {
   const out = { ...clusters };
   for (const article of articles) {
     if (!article.terms || article.terms.length === 0) continue;
@@ -524,8 +578,8 @@ export function assignToClusters(articles, clusters, { threshold = 0.4 } = {}) {
     let bestScore = 0;
     for (const [id, c] of Object.entries(out)) {
       if (c.country !== article.country) continue;
-      const score = jaccard(c.terms, article.terms);
-      if (score >= threshold && score > bestScore) {
+      const score = sharedTermCount(article.terms, c.terms);
+      if (score >= minShared && score > bestScore) {
         bestScore = score;
         bestId = id;
       }
@@ -1145,51 +1199,44 @@ git commit -m "feat: run Wikidata and GDELT tiers into one candidate queue"
 
 ---
 
-### Task 8: Threshold validation against captured fixtures
+### Task 8: Threshold validation against a real fixture
 
 **Files:**
 - Create: `test/fixtures/README.md`
 - Test: `test/discovery/thresholds.test.mjs`
+- (Fixture `test/fixtures/gdelt-india-7d.json` is already committed.)
 
 **Interfaces:**
-- Consumes: `tokenize`, `documentFrequency`, `distinctiveTerms`, `assignToClusters`.
+- Consumes: `parseArticles`, `tokenize`, `documentFrequency`, `distinctiveTerms`, `collapseSyndication`, `assignToClusters`, `isGraduated`.
 
-**Why:** the spec states the 5% document-frequency cut and the 0.4 Jaccard threshold are **starting values to be tuned against fixtures, not derived constants**. This task locks in evidence that they behave sanely on real titles, so a future change to either number has a test that will notice.
+**Why this fixture and not a global one:** a sparse global sample (75 articles, 2 days) was measured to produce 63 singleton clusters and a single false positive — a syndicated non-protest story. The committed fixture is a realistic per-country slice (India, 7 days, 250 articles), which is the shape Tier 2 actually queries. These tests assert the pipeline finds real movements in it, so a regression in tokenization, matching, or the graduation bar fails loudly.
 
-- [ ] **Step 1: Capture a fixture from the live API**
-
-Run this once, then commit the file (it makes the suite reproducible and offline):
-
-```bash
-curl -s -m 45 --compressed --fail --retry 4 --retry-delay 10 --retry-all-errors \
-  -A "ProtestTrackerBot/1.0 (https://protesttracker.net)" \
-  "https://api.gdeltproject.org/api/v2/doc/doc?query=%28protest%20OR%20demonstration%29%20sourcelang%3Aeng&mode=artlist&maxrecords=75&format=json&timespan=2d" \
-  -o test/fixtures/gdelt-eng.json
-node -e "const d=require('./test/fixtures/gdelt-eng.json');console.log('articles:',d.articles.length)"
-```
-
-Expected: a non-zero article count.
-
-- [ ] **Step 2: Write `test/fixtures/README.md`**
+- [ ] **Step 1: Write `test/fixtures/README.md`**
 
 ```markdown
 # Test fixtures
 
-`gdelt-eng.json` — a real GDELT DOC 2.0 `artlist` response, captured so the
-clustering tests run offline and reproducibly.
+`gdelt-india-7d.json` — a real GDELT DOC 2.0 `artlist` response: India,
+English, 7 days, 250 records. Committed so the clustering tests run offline
+and reproducibly.
+
+It is a per-country slice on purpose. A sparse global sample (2 days, 75
+records) was measured to yield 63 singleton clusters and one false positive,
+which is why Tier 2 queries per country over a wide window.
 
 Recapture with:
 
-    curl -s --compressed --fail --retry 4 --retry-delay 10 --retry-all-errors \
-      -A "ProtestTrackerBot/1.0 (https://protesttracker.net)" \
-      "https://api.gdeltproject.org/api/v2/doc/doc?query=%28protest%20OR%20demonstration%29%20sourcelang%3Aeng&mode=artlist&maxrecords=75&format=json&timespan=2d" \
-      -o test/fixtures/gdelt-eng.json
+    curl -s --compressed -A "ProtestTrackerBot/1.0 (https://protesttracker.net)" \
+      "https://api.gdeltproject.org/api/v2/doc/doc?query=%28protest%20OR%20demonstration%20OR%20strike%29%20sourcelang%3Aeng%20sourcecountry%3AIndia&mode=artlist&maxrecords=250&format=json&timespan=7d" \
+      -o test/fixtures/gdelt-india-7d.json
 
-GDELT allows one request every 5 seconds; a violation returns HTTP 200 with
-a plain-text body, so `--fail` is required for `--retry` to trigger.
+GDELT allows one request every 5 seconds and answers a violation with HTTP
+200 and a plain-text body, so check the file starts with `{` before trusting
+it. OR'd terms must be wrapped in parentheses or it returns an error, also
+as HTTP 200.
 ```
 
-- [ ] **Step 3: Write the threshold test**
+- [ ] **Step 2: Write the threshold test**
 
 Create `test/discovery/thresholds.test.mjs`:
 
@@ -1199,64 +1246,79 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import { parseArticles } from '../../scripts/lib/discovery/gdelt.mjs';
 import { tokenize, documentFrequency, distinctiveTerms } from '../../scripts/lib/discovery/tokenize.mjs';
-import { assignToClusters } from '../../scripts/lib/discovery/cluster.mjs';
+import { collapseSyndication, assignToClusters } from '../../scripts/lib/discovery/cluster.mjs';
+import { isGraduated } from '../../scripts/lib/discovery/graduate.mjs';
 
-const fixture = JSON.parse(fs.readFileSync(new URL('../fixtures/gdelt-eng.json', import.meta.url), 'utf8'));
+const fixture = JSON.parse(fs.readFileSync(new URL('../fixtures/gdelt-india-7d.json', import.meta.url), 'utf8'));
 const articles = parseArticles(fixture);
 
-function withTerms(list) {
-  const tokenLists = list.map((a) => tokenize(a.title));
+function pipeline(list) {
+  const stories = collapseSyndication(list);
+  const tokenLists = stories.map((a) => tokenize(a.title));
   const df = documentFrequency(tokenLists);
-  return list.map((a, i) => ({ ...a, terms: distinctiveTerms(tokenLists[i], df, list.length) }));
+  const withTerms = stories.map((a, i) => ({ ...a, terms: distinctiveTerms(tokenLists[i], df, stories.length) }));
+  return assignToClusters(withTerms, {});
 }
 
-test('the fixture parses into usable articles', () => {
-  assert.ok(articles.length > 10, `expected >10 articles, got ${articles.length}`);
+test('the fixture parses into a dense set of articles', () => {
+  assert.ok(articles.length > 200, `expected >200 articles, got ${articles.length}`);
 });
 
-test('the 5% document-frequency cut removes corpus-wide vocabulary', () => {
-  const terms = withTerms(articles);
-  const all = terms.flatMap((a) => a.terms);
-  // "protest" is a stopword; nothing that appears in most documents should
-  // survive as a distinctive term.
+test('syndication collapse removes duplicate titles carried by several domains', () => {
+  const stories = collapseSyndication(articles);
+  assert.ok(stories.length < articles.length, 'no syndication was collapsed at all');
+  assert.ok(stories.some((s) => s.domains.length > 1), 'expected at least one syndicated story');
+});
+
+test('corpus-wide vocabulary does not survive as a distinctive term', () => {
+  const stories = collapseSyndication(articles);
+  const tokenLists = stories.map((a) => tokenize(a.title));
+  const df = documentFrequency(tokenLists);
+  const all = stories.flatMap((_, i) => distinctiveTerms(tokenLists[i], df, stories.length));
   assert.ok(!all.includes('protest'));
-  assert.ok(!all.includes('police') || all.filter((t) => t === 'police').length < articles.length * 0.5);
+  assert.ok(!all.includes('police'));
 });
 
-test('most articles retain at least one distinctive term to cluster on', () => {
-  const terms = withTerms(articles);
-  const withAny = terms.filter((a) => a.terms.length > 0).length;
-  assert.ok(withAny > articles.length * 0.6,
-    `only ${withAny}/${articles.length} articles had distinctive terms`);
+test('clustering is neither degenerate nor collapsed', () => {
+  const clusters = pipeline(articles);
+  const n = Object.keys(clusters).length;
+  const stories = collapseSyndication(articles).length;
+  assert.ok(n < stories, 'every story became its own cluster — matching too tight');
+  const biggest = Math.max(...Object.values(clusters).map((c) => c.articleCount));
+  assert.ok(biggest < stories * 0.5, `largest cluster holds ${biggest}/${stories} — matching too loose`);
 });
 
-test('the 0.4 Jaccard threshold does not collapse the corpus into one cluster', () => {
-  const clusters = assignToClusters(withTerms(articles), {});
-  const sizes = Object.values(clusters).map((c) => c.articleCount);
-  const biggest = Math.max(...sizes);
-  assert.ok(biggest < articles.length * 0.5,
-    `largest cluster holds ${biggest}/${articles.length} articles — threshold too loose`);
+test('real movements clear the 3-outlet, 3-day graduation bar', () => {
+  // Measured on this fixture: 5 clusters graduate, including the Supreme
+  // Court / CJP protest coverage and the SFI Secretariat march.
+  const graduated = Object.values(pipeline(articles)).filter((c) => isGraduated(c));
+  assert.ok(graduated.length >= 3,
+    `expected >=3 graduating clusters, got ${graduated.length} — the tier finds nothing`);
+  for (const c of graduated) {
+    assert.ok(c.domains.length >= 3);
+    assert.ok(c.daysSeen.length >= 3);
+  }
 });
 
-test('clustering is not degenerate: it groups at least some articles together', () => {
-  const clusters = assignToClusters(withTerms(articles), {});
-  assert.ok(Object.keys(clusters).length < articles.length,
-    'every article became its own cluster — threshold too tight');
+test('graduated clusters are distinct movements, not one blob', () => {
+  const graduated = Object.values(pipeline(articles)).filter((c) => isGraduated(c));
+  const ids = new Set(graduated.map((c) => c.id));
+  assert.equal(ids.size, graduated.length, 'graduated clusters share ids');
 });
 ```
 
-- [ ] **Step 4: Run the tests**
+- [ ] **Step 3: Run the tests**
 
 Run: `npm test`
-Expected: PASS, 93 tests total.
+Expected: PASS, 94 tests total.
 
-If the two threshold tests fail, the constants need tuning rather than the tests deleting: adjust `maxDocFreq` in `tokenize.mjs` or `threshold` in `cluster.mjs`, re-run, and record the chosen value in the spec.
+If the graduation test fails, the constants need tuning rather than the test weakening: adjust `maxDocFreq` in `tokenize.mjs` or `minShared` in `cluster.mjs`, re-run, and record the chosen values in the spec.
 
-- [ ] **Step 5: Commit**
+- [ ] **Step 4: Commit**
 
 ```bash
 git add test/fixtures test/discovery/thresholds.test.mjs
-git commit -m "test: validate clustering thresholds against a real GDELT fixture"
+git commit -m "test: validate clustering against a real dense GDELT fixture"
 ```
 
 ---
