@@ -91,7 +91,7 @@
     },
     {
       "start": "2016-09-01",
-      "count": 1
+      "count": 2
     },
     {
       "start": "2016-10-01",
@@ -259,7 +259,7 @@
     },
     {
       "start": "2020-03-01",
-      "count": 2
+      "count": 3
     },
     {
       "start": "2020-04-01",
@@ -275,7 +275,7 @@
     },
     {
       "start": "2020-07-01",
-      "count": 12
+      "count": 13
     },
     {
       "start": "2020-08-01",
@@ -387,7 +387,7 @@
     },
     {
       "start": "2022-11-01",
-      "count": 2
+      "count": 3
     },
     {
       "start": "2022-12-01",
@@ -559,7 +559,7 @@
     },
     {
       "start": "2026-06-01",
-      "count": 6
+      "count": 7
     },
     {
       "start": "2026-07-01",
@@ -576,15 +576,9 @@
   ],
   "sources": [
     {
-      "name": "La Izquierda Diario",
-      "count": 14,
-      "first": "2015-04-23",
-      "last": "2026-06-24"
-    },
-    {
       "name": "La Izquierda Diario Chile",
-      "count": 11,
-      "first": "2015-06-19",
+      "count": 22,
+      "first": "2015-04-23",
       "last": "2025-03-26"
     },
     {
@@ -636,16 +630,16 @@
       "last": "2025-12-04"
     },
     {
+      "name": "Americas Quarterly",
+      "count": 5,
+      "first": "2017-07-25",
+      "last": "2025-02-06"
+    },
+    {
       "name": "La Tercera",
       "count": 5,
       "first": "2018-06-04",
       "last": "2025-01-15"
-    },
-    {
-      "name": "Americas Quarterly",
-      "count": 4,
-      "first": "2017-07-25",
-      "last": "2025-02-06"
     },
     {
       "name": "Clarin.com",
@@ -700,6 +694,12 @@
       "count": 3,
       "first": "2016-08-21",
       "last": "2026-08-06"
+    },
+    {
+      "name": "La Izquierda Diario",
+      "count": 3,
+      "first": "2017-07-24",
+      "last": "2026-06-24"
     },
     {
       "name": "Remezcla",
@@ -786,10 +786,22 @@
       "last": "2022-11-06"
     },
     {
+      "name": "Flipr.news",
+      "count": 2,
+      "first": "2026-07-15",
+      "last": "2026-07-29"
+    },
+    {
       "name": "Interferencia |",
       "count": 2,
       "first": "2019-09-25",
       "last": "2019-10-16"
+    },
+    {
+      "name": "Macau Business",
+      "count": 2,
+      "first": "2019-10-22",
+      "last": "2020-07-24"
     },
     {
       "name": "Mexico Solidarity Media",
@@ -844,6 +856,12 @@
       "count": 1,
       "first": "2020-05-27",
       "last": "2020-05-27"
+    },
+    {
+      "name": "African American Intellectual History Society",
+      "count": 1,
+      "first": "2016-09-24",
+      "last": "2016-09-24"
     },
     {
       "name": "AGMER",
@@ -972,16 +990,16 @@
       "last": "2025-03-31"
     },
     {
+      "name": "diarioantofagasta.cl",
+      "count": 1,
+      "first": "2020-07-20",
+      "last": "2020-07-20"
+    },
+    {
       "name": "El Destape",
       "count": 1,
       "first": "2017-12-17",
       "last": "2017-12-17"
-    },
-    {
-      "name": "El Diario de Antofagasta",
-      "count": 1,
-      "first": "2020-07-20",
-      "last": "2020-07-20"
     },
     {
       "name": "El Grito del Sur",
@@ -1024,12 +1042,6 @@
       "count": 1,
       "first": "2023-07-25",
       "last": "2023-07-25"
-    },
-    {
-      "name": "Flipr.news",
-      "count": 1,
-      "first": "2026-07-15",
-      "last": "2026-07-15"
     },
     {
       "name": "Foreign Policy",
@@ -1098,6 +1110,12 @@
       "last": "2020-02-19"
     },
     {
+      "name": "independent.co.uk",
+      "count": 1,
+      "first": "2019-11-30",
+      "last": "2019-11-30"
+    },
+    {
       "name": "Infinita",
       "count": 1,
       "first": "2021-12-14",
@@ -1114,12 +1132,6 @@
       "count": 1,
       "first": "2020-07-16",
       "last": "2020-07-16"
-    },
-    {
-      "name": "Jony Colombini",
-      "count": 1,
-      "first": "2026-07-29",
-      "last": "2026-07-29"
     },
     {
       "name": "La Gaceta",
@@ -1170,12 +1182,6 @@
       "last": "2019-01-24"
     },
     {
-      "name": "Macau Business",
-      "count": 1,
-      "first": "2019-10-22",
-      "last": "2019-10-22"
-    },
-    {
       "name": "Mala Espina",
       "count": 1,
       "first": "2024-12-27",
@@ -1218,7 +1224,7 @@
       "last": "2019-09-07"
     },
     {
-      "name": "Newsweek",
+      "name": "newsweek.com",
       "count": 1,
       "first": "2019-12-24",
       "last": "2019-12-24"
@@ -1362,6 +1368,12 @@
       "last": "2024-09-05"
     },
     {
+      "name": "Sydney Criminal Lawyers",
+      "count": 1,
+      "first": "2020-03-17",
+      "last": "2020-03-17"
+    },
+    {
       "name": "The Bogotá Post",
       "count": 1,
       "first": "2020-02-21",
@@ -1372,12 +1384,6 @@
       "count": 1,
       "first": "2019-11-11",
       "last": "2019-11-11"
-    },
-    {
-      "name": "The Independent",
-      "count": 1,
-      "first": "2019-11-30",
-      "last": "2019-11-30"
     },
     {
       "name": "The Militant",
@@ -1432,6 +1438,12 @@
       "count": 1,
       "first": "2018-04-23",
       "last": "2018-04-23"
+    },
+    {
+      "name": "World Socialist Web Site",
+      "count": 1,
+      "first": "2026-06-11",
+      "last": "2026-06-11"
     },
     {
       "name": "WSJ",

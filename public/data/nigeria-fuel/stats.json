@@ -691,7 +691,7 @@
     },
     {
       "start": "2024-02-01",
-      "count": 7
+      "count": 8
     },
     {
       "start": "2024-03-01",
@@ -707,7 +707,7 @@
     },
     {
       "start": "2024-06-01",
-      "count": 21
+      "count": 22
     },
     {
       "start": "2024-07-01",
@@ -763,7 +763,7 @@
     },
     {
       "start": "2025-08-01",
-      "count": 5
+      "count": 6
     },
     {
       "start": "2025-09-01",
@@ -821,15 +821,15 @@
   "sources": [
     {
       "name": "The Guardian Nigeria News",
-      "count": 44,
+      "count": 46,
       "first": "2015-10-02",
       "last": "2026-06-08"
     },
     {
       "name": "Vanguard News",
-      "count": 41,
+      "count": 40,
       "first": "2012-03-08",
-      "last": "2026-06-08"
+      "last": "2026-06-03"
     },
     {
       "name": "BBC",
@@ -838,26 +838,26 @@
       "last": "2025-12-17"
     },
     {
-      "name": "Premium Times Nigeria",
-      "count": 34,
-      "first": "2013-04-18",
-      "last": "2026-02-02"
-    },
-    {
-      "name": "Daily Post Nigeria",
-      "count": 33,
-      "first": "2012-01-05",
-      "last": "2026-09-02"
-    },
-    {
       "name": "Channels Television",
       "count": 32,
       "first": "2012-01-04",
       "last": "2026-06-03"
     },
     {
+      "name": "Daily Post Nigeria",
+      "count": 32,
+      "first": "2012-01-05",
+      "last": "2026-09-02"
+    },
+    {
+      "name": "Premium Times Nigeria",
+      "count": 29,
+      "first": "2016-05-18",
+      "last": "2026-02-02"
+    },
+    {
       "name": "Punch Newspapers",
-      "count": 23,
+      "count": 24,
       "first": "2020-09-04",
       "last": "2026-08-19"
     },
@@ -875,7 +875,7 @@
     },
     {
       "name": "Arise News",
-      "count": 12,
+      "count": 13,
       "first": "2023-06-02",
       "last": "2026-06-04"
     },
@@ -886,16 +886,16 @@
       "last": "2025-09-16"
     },
     {
+      "name": "The Sun Nigeria",
+      "count": 12,
+      "first": "2022-11-30",
+      "last": "2026-06-08"
+    },
+    {
       "name": "TheCable",
       "count": 12,
       "first": "2020-09-05",
       "last": "2026-03-15"
-    },
-    {
-      "name": "The Sun Nigeria",
-      "count": 11,
-      "first": "2022-11-30",
-      "last": "2026-06-04"
     },
     {
       "name": "Al Jazeera",
@@ -910,16 +910,16 @@
       "last": "2026-06-03"
     },
     {
+      "name": "THISDAYLIVE",
+      "count": 10,
+      "first": "2023-01-26",
+      "last": "2026-03-11"
+    },
+    {
       "name": "Business News Nigeria",
       "count": 9,
       "first": "2022-01-21",
       "last": "2026-06-04"
-    },
-    {
-      "name": "THISDAYLIVE",
-      "count": 9,
-      "first": "2023-01-26",
-      "last": "2026-03-11"
     },
     {
       "name": "Independent Newspaper Nigeria",
@@ -929,15 +929,21 @@
     },
     {
       "name": "The Guardian",
-      "count": 8,
+      "count": 7,
       "first": "2012-01-03",
-      "last": "2023-09-05"
+      "last": "2022-01-07"
     },
     {
       "name": "The Nation Newspaper",
       "count": 7,
       "first": "2022-01-10",
       "last": "2026-06-03"
+    },
+    {
+      "name": "premiumtimesng.com",
+      "count": 6,
+      "first": "2013-04-18",
+      "last": "2025-10-13"
     },
     {
       "name": "Reuters",
@@ -1030,13 +1036,13 @@
       "last": "2026-01-27"
     },
     {
-      "name": "Mail & Guardian",
+      "name": "mg.co.za",
       "count": 2,
       "first": "2012-01-16",
       "last": "2024-03-02"
     },
     {
-      "name": "Modern Ghana",
+      "name": "modernghana.com",
       "count": 2,
       "first": "2012-01-05",
       "last": "2012-01-06"
@@ -1084,6 +1090,12 @@
       "last": "2026-03-14"
     },
     {
+      "name": "- OGUN STATE TELEVISION",
+      "count": 1,
+      "first": "2026-06-08",
+      "last": "2026-06-08"
+    },
+    {
       "name": "ABC News & Headlines – Australian Broadcasting Corporation",
       "count": 1,
       "first": "2012-01-17",
@@ -1108,12 +1120,6 @@
       "last": "2020-09-10"
     },
     {
-      "name": "arise.tv",
-      "count": 1,
-      "first": "2026-02-02",
-      "last": "2026-02-02"
-    },
-    {
       "name": "BellaNaija",
       "count": 1,
       "first": "2021-03-12",
@@ -1132,7 +1138,7 @@
       "last": "2025-09-27"
     },
     {
-      "name": "Business Post Nigeria",
+      "name": "businesspost.ng",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
@@ -1150,7 +1156,7 @@
       "last": "2026-08-19"
     },
     {
-      "name": "firstpost.com",
+      "name": "Firstpost",
       "count": 1,
       "first": "2024-02-15",
       "last": "2024-02-15"
@@ -1268,12 +1274,6 @@
       "count": 1,
       "first": "2023-11-15",
       "last": "2023-11-15"
-    },
-    {
-      "name": "premiumtimesng.com",
-      "count": 1,
-      "first": "2024-06-03",
-      "last": "2024-06-03"
     },
     {
       "name": "Proshare",
