@@ -791,11 +791,11 @@
     },
     {
       "start": "2026-03-01",
-      "count": 9
+      "count": 10
     },
     {
       "start": "2026-04-01",
-      "count": 3
+      "count": 2
     },
     {
       "start": "2026-05-01",
@@ -819,6 +819,12 @@
     }
   ],
   "sources": [
+    {
+      "name": "The Guardian Nigeria News",
+      "count": 42,
+      "first": "2015-10-02",
+      "last": "2026-06-08"
+    },
     {
       "name": "Vanguard News",
       "count": 38,
@@ -850,22 +856,10 @@
       "last": "2026-09-02"
     },
     {
-      "name": "The Guardian",
-      "count": 27,
-      "first": "2012-01-03",
-      "last": "2026-02-12"
-    },
-    {
       "name": "Punch Newspapers",
       "count": 23,
       "first": "2020-09-04",
       "last": "2026-08-19"
-    },
-    {
-      "name": "The Guardian Nigeria News",
-      "count": 23,
-      "first": "2015-10-02",
-      "last": "2026-06-08"
     },
     {
       "name": "PM News Nigeria",
@@ -916,16 +910,22 @@
       "last": "2026-06-04"
     },
     {
-      "name": "Independent Newspaper Nigeria",
-      "count": 9,
-      "first": "2020-09-07",
-      "last": "2026-01-29"
-    },
-    {
       "name": "THISDAYLIVE",
       "count": 9,
       "first": "2023-01-26",
       "last": "2026-03-11"
+    },
+    {
+      "name": "Independent Newspaper Nigeria",
+      "count": 8,
+      "first": "2020-09-07",
+      "last": "2026-01-29"
+    },
+    {
+      "name": "The Guardian",
+      "count": 8,
+      "first": "2012-01-03",
+      "last": "2024-09-09"
     },
     {
       "name": "The Whistler Newspaper",
@@ -1078,12 +1078,6 @@
       "last": "2026-07-26"
     },
     {
-      "name": "TRT Afrika",
-      "count": 2,
-      "first": "2025-09-17",
-      "last": "2026-04-12"
-    },
-    {
       "name": "YNaija",
       "count": 2,
       "first": "2025-07-24",
@@ -1180,6 +1174,12 @@
       "last": "2019-01-25"
     },
     {
+      "name": "Gulf Times",
+      "count": 1,
+      "first": "2026-03-18",
+      "last": "2026-03-18"
+    },
+    {
       "name": "Head Topics",
       "count": 1,
       "first": "2026-08-28",
@@ -1196,6 +1196,12 @@
       "count": 1,
       "first": "2012-01-11",
       "last": "2012-01-11"
+    },
+    {
+      "name": "independent.ng",
+      "count": 1,
+      "first": "2026-01-23",
+      "last": "2026-01-23"
     },
     {
       "name": "instagram.com",
@@ -1322,6 +1328,12 @@
       "count": 1,
       "first": "2024-09-03",
       "last": "2024-09-03"
+    },
+    {
+      "name": "TRT Afrika",
+      "count": 1,
+      "first": "2025-09-17",
+      "last": "2025-09-17"
     },
     {
       "name": "UN Africa Renewal",
