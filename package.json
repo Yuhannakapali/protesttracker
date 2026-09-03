@@ -10,7 +10,10 @@
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
-    "aggregate": "node scripts/aggregate.mjs"
+    "aggregate": "node scripts/aggregate.mjs",
+    "test": "node --test \"test/**/*.test.mjs\"",
+    "discover": "node scripts/discover.mjs",
+    "promote": "node scripts/promote.mjs"
   },
   "dependencies": {
     "next": "^16.2.11",

@@ -95,7 +95,7 @@ Expected: FAIL — cannot find module `countries.mjs`.
 In `package.json`, inside `"scripts"`, add these three entries alongside the existing ones (do not remove any existing script):
 
 ```json
-    "test": "node --test test/",
+    "test": "node --test \"test/**/*.test.mjs\"",
     "discover": "node scripts/discover.mjs",
     "promote": "node scripts/promote.mjs"
 ```
