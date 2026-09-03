@@ -3,7 +3,7 @@
 // tokens each). So tokenization has to earn a lot from very little, and the
 // stopword list carries the weight.
 
-const DIACRITICS = /[̀-ͯ]/g;
+const DIACRITICS = /[\u0300-\u036f]/g;
 
 // Function words across the five query languages, plus the protest and
 // policing vocabulary that appears in nearly every document in this corpus
