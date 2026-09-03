@@ -29,6 +29,11 @@ test('rejects a one-day flash even with many outlets', () => {
   assert.equal(isGraduated(cluster({ daysSeen: ['2026-09-01'] })), false);
 });
 
+test('rejects one syndicated story even when it spans domains and days', () => {
+  // articleCount is post-syndication-collapse: 1 means one report republished.
+  assert.equal(isGraduated(cluster({ articleCount: 1 })), false);
+});
+
 test('denylisted domains do not count toward the outlet bar', () => {
   const c = cluster({ domains: ['a.test', 'b.test', 'indiankanoon.org'] });
   assert.equal(isGraduated(c), false);

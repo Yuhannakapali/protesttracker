@@ -21,10 +21,18 @@ export function isDeniedDomain(domain) {
   return DENYLIST.has(String(domain || '').toLowerCase().replace(/^www\./, ''));
 }
 
-export function isGraduated(cluster, { minDomains = 3, minDays = 3 } = {}) {
+// Three bars, all necessary:
+//   domains  - several outlets carried it
+//   days     - it persisted rather than flashing once
+//   stories  - several DISTINCT reports, not one wire story syndicated widely.
+// The third is not redundant: collapseSyndication folds identical titles into
+// a single story but keeps every domain it appeared on, so without a story
+// bar one republished article would clear the outlet bar by itself.
+export function isGraduated(cluster, { minDomains = 3, minDays = 3, minStories = 3 } = {}) {
   const domains = new Set((cluster.domains || []).filter((d) => !isDeniedDomain(d)));
   const days = new Set(cluster.daysSeen || []);
-  return domains.size >= minDomains && days.size >= minDays;
+  const stories = cluster.articleCount || 0;
+  return domains.size >= minDomains && days.size >= minDays && stories >= minStories;
 }
 
 function titleCase(s) {

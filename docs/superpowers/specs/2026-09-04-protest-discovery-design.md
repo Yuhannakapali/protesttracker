@@ -117,7 +117,7 @@ Clusters idle for **21 days** are evicted so state cannot grow without bound.
 
 ### 7.3 Graduation
 
-A cluster becomes a candidate when `domains.size >= 3 && daysSeen.size >= 3` — the sustained, multi-outlet bar. This is computable only because GDELT returns a real publisher `domain`; Google News RSS does not, which is why it cannot serve as the discovery source.
+A cluster becomes a candidate when `domains >= 3 && daysSeen >= 3 && distinctStories >= 3` — the sustained, multi-outlet bar. The third condition is not redundant: syndication collapse folds identical titles into one story but keeps every domain it ran on, so without a story bar a single republished wire report clears the outlet bar by itself. This is computable only because GDELT returns a real publisher `domain`; Google News RSS does not, which is why it cannot serve as the discovery source.
 
 Tier 2 candidates carry `confidence: "low"` and a best-effort `suggested` block.
 

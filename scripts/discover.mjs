@@ -17,6 +17,10 @@ import { SPARQL_ENDPOINT, buildQuery, parseBindings } from './lib/discovery/wiki
 import { buildSuggestion } from './lib/discovery/suggest.mjs';
 import { findTrackedMatch } from './lib/discovery/suppress.mjs';
 import { readState, writeState, writeCandidates } from './lib/discovery/store.mjs';
+import { fetchMatrix } from './lib/discovery/gdelt-fetch.mjs';
+import { tokenize, documentFrequency, distinctiveTerms } from './lib/discovery/tokenize.mjs';
+import { collapseSyndication, assignToClusters, evictStale } from './lib/discovery/cluster.mjs';
+import { isDeniedDomain, isGraduated, clusterToEntity } from './lib/discovery/graduate.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -50,6 +54,58 @@ export function buildCandidates({ entities, config, state }) {
     });
   }
   return out;
+}
+
+// Tier 2: cluster GDELT coverage and graduate only what is sustained across
+// days and carried by several independent outlets. Returns both the
+// candidates and the updated cluster map, which the caller persists.
+export function buildTier2Candidates({ articles, config, state, nowMs = Date.now(), maxDocFreq = 0.05 }) {
+  const usable = articles.filter((a) => !isDeniedDomain(a.domain));
+
+  // Collapse syndication BEFORE clustering: one wire story republished across
+  // five domains is one source, and would otherwise satisfy the outlet bar on
+  // its own.
+  const stories = collapseSyndication(usable);
+
+  const tokenLists = stories.map((a) => tokenize(a.title));
+  const df = documentFrequency(tokenLists);
+  const withTerms = stories.map((a, i) => ({
+    ...a,
+    terms: distinctiveTerms(tokenLists[i], df, stories.length, { maxDocFreq }),
+  }));
+
+  const carried = evictStale(state.clusters || {}, nowMs);
+  const clusters = assignToClusters(withTerms, carried);
+
+  const existingIds = Object.keys(config || {});
+  const seen = new Set(existingIds);
+  const candidates = [];
+
+  for (const cluster of Object.values(clusters)) {
+    if (!isGraduated(cluster)) continue;
+    const key = `gd-${cluster.id}`;
+    if (state.promoted.includes(key) || state.rejected.includes(key)) continue;
+    if (findTrackedMatch({ name: cluster.terms.join(' '), country: cluster.country }, config)) continue;
+    const suggested = buildSuggestion(clusterToEntity(cluster), [...seen]);
+    seen.add(suggested.id);
+    candidates.push({
+      key,
+      source: 'gdelt',
+      confidence: 'low',
+      country: cluster.country,
+      countries: [cluster.country],
+      domains: cluster.domains.filter((d) => !isDeniedDomain(d)),
+      daysSeen: cluster.daysSeen.length,
+      articleCount: cluster.articleCount,
+      firstSeen: cluster.firstSeen,
+      lastSeen: cluster.lastSeen,
+      samples: cluster.samples,
+      needsName: true,
+      suggested,
+    });
+  }
+
+  return { candidates, clusters };
 }
 
 function cutoffIso(months) {
