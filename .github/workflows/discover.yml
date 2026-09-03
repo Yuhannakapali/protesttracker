@@ -20,6 +20,10 @@ concurrency:
 jobs:
   discover:
     runs-on: ubuntu-latest
+    # Tier 2 serializes ~19 GDELT requests at 8s spacing, plus retry backoff
+    # when the API throttles. Bound the job so a hung upstream cannot hold a
+    # runner for the default six hours.
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -51,7 +55,7 @@ jobs:
             echo "## Protest discovery candidates"
             echo ""
             echo '```'
-            tail -n 40 discover.log 2>/dev/null || echo "no output"
+            tail -n 80 discover.log 2>/dev/null || echo "no output"
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 

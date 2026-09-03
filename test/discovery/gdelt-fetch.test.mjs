@@ -76,10 +76,11 @@ test('retries with escalating backoff when GDELT rate-limits', async () => {
   });
   assert.equal(calls, 3, 'should have retried twice before succeeding');
   assert.equal(out.length, 1);
-  // Backoff escalates rather than hammering at a fixed interval.
-  const backoffs = waits.filter((w) => w >= 15000);
-  assert.ok(backoffs.length >= 2, `expected escalating backoffs, got ${waits}`);
-  assert.ok(backoffs[1] > backoffs[0], 'backoff should escalate');
+  // Backoff escalates rather than hammering at a fixed interval. Asserted
+  // relatively, so tuning the base delay does not break the test.
+  assert.ok(waits.length >= 2, `expected at least two waits, got ${waits}`);
+  const [first, second] = waits;
+  assert.ok(second > first, `backoff should escalate, got ${waits}`);
 });
 
 test('gives up after the retry budget and reports the failure', async () => {

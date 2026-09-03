@@ -20,8 +20,11 @@ export async function fetchMatrix({
   delayMs = 8000,
   sleepImpl = sleep,
   onProgress = () => {},
-  maxRetries = 3,
-  backoffMs = 15000,
+  // Budget: 19 pairs x (8s spacing + 12s + 24s backoff) is ~14 min worst
+  // case, inside the workflow's 20-minute timeout. Three retries at 15s
+  // escalation overran it.
+  maxRetries = 2,
+  backoffMs = 12000,
 } = {}) {
   const all = [];
   const pairs = [];
