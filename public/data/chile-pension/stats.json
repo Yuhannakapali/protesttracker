@@ -87,7 +87,7 @@
     },
     {
       "start": "2016-08-01",
-      "count": 10
+      "count": 11
     },
     {
       "start": "2016-09-01",
@@ -191,7 +191,7 @@
     },
     {
       "start": "2018-10-01",
-      "count": 2
+      "count": 3
     },
     {
       "start": "2018-11-01",
@@ -203,7 +203,7 @@
     },
     {
       "start": "2019-01-01",
-      "count": 0
+      "count": 1
     },
     {
       "start": "2019-02-01",
@@ -239,11 +239,11 @@
     },
     {
       "start": "2019-10-01",
-      "count": 32
+      "count": 33
     },
     {
       "start": "2019-11-01",
-      "count": 15
+      "count": 16
     },
     {
       "start": "2019-12-01",
@@ -315,7 +315,7 @@
     },
     {
       "start": "2021-05-01",
-      "count": 3
+      "count": 4
     },
     {
       "start": "2021-06-01",
@@ -355,7 +355,7 @@
     },
     {
       "start": "2022-03-01",
-      "count": 3
+      "count": 4
     },
     {
       "start": "2022-04-01",
@@ -447,7 +447,7 @@
     },
     {
       "start": "2024-02-01",
-      "count": 0
+      "count": 1
     },
     {
       "start": "2024-03-01",
@@ -571,18 +571,18 @@
     },
     {
       "start": "2026-09-01",
-      "count": 1
+      "count": 2
     }
   ],
   "sources": [
     {
       "name": "La Izquierda Diario Chile",
-      "count": 21,
+      "count": 22,
       "first": "2015-04-23",
       "last": "2025-03-26"
     },
     {
-      "name": "dw.com",
+      "name": "DW.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -598,6 +598,12 @@
       "count": 7,
       "first": "2019-10-26",
       "last": "2020-03-09"
+    },
+    {
+      "name": "The Clinic",
+      "count": 7,
+      "first": "2016-07-27",
+      "last": "2026-09-03"
     },
     {
       "name": "Colegio de Profesores",
@@ -622,12 +628,6 @@
       "count": 6,
       "first": "2017-12-17",
       "last": "2025-12-04"
-    },
-    {
-      "name": "The Clinic",
-      "count": 6,
-      "first": "2016-07-27",
-      "last": "2026-09-02"
     },
     {
       "name": "La Tercera",
@@ -804,6 +804,12 @@
       "last": "2024-09-04"
     },
     {
+      "name": "South China Morning Post",
+      "count": 2,
+      "first": "2019-10-23",
+      "last": "2022-03-12"
+    },
+    {
       "name": "TN",
       "count": 2,
       "first": "2023-04-06",
@@ -846,7 +852,7 @@
       "last": "2019-12-13"
     },
     {
-      "name": "atlanticcouncil.org",
+      "name": "Atlantic Council",
       "count": 1,
       "first": "2019-12-09",
       "last": "2019-12-09"
@@ -1038,6 +1044,12 @@
       "last": "2017-03-27"
     },
     {
+      "name": "GIS Reports",
+      "count": 1,
+      "first": "2021-05-03",
+      "last": "2021-05-03"
+    },
+    {
       "name": "Global Voices",
       "count": 1,
       "first": "2026-05-16",
@@ -1050,7 +1062,13 @@
       "last": "2017-03-26"
     },
     {
-      "name": "guyanachronicle.com",
+      "name": "Gulf Times",
+      "count": 1,
+      "first": "2018-10-29",
+      "last": "2018-10-29"
+    },
+    {
+      "name": "Guyana Chronicle",
       "count": 1,
       "first": "2017-03-27",
       "last": "2017-03-27"
@@ -1074,7 +1092,7 @@
       "last": "2020-02-19"
     },
     {
-      "name": "Infinita",
+      "name": "infinita.cl",
       "count": 1,
       "first": "2021-12-14",
       "last": "2021-12-14"
@@ -1134,6 +1152,12 @@
       "last": "2022-03-11"
     },
     {
+      "name": "lefteast.org",
+      "count": 1,
+      "first": "2019-01-24",
+      "last": "2019-01-24"
+    },
+    {
       "name": "Macau Business",
       "count": 1,
       "first": "2019-10-22",
@@ -1162,6 +1186,12 @@
       "count": 1,
       "first": "2023-03-20",
       "last": "2023-03-20"
+    },
+    {
+      "name": "news.cgtn.com",
+      "count": 1,
+      "first": "2019-10-25",
+      "last": "2019-10-25"
     },
     {
       "name": "News4JAX",
@@ -1320,12 +1350,6 @@
       "last": "2024-09-05"
     },
     {
-      "name": "South China Morning Post",
-      "count": 1,
-      "first": "2019-10-23",
-      "last": "2019-10-23"
-    },
-    {
       "name": "The Bogotá Post",
       "count": 1,
       "first": "2020-02-21",
@@ -1366,6 +1390,18 @@
       "count": 1,
       "first": "2025-07-26",
       "last": "2025-07-26"
+    },
+    {
+      "name": "thenationonlineng.net",
+      "count": 1,
+      "first": "2024-02-07",
+      "last": "2024-02-07"
+    },
+    {
+      "name": "torontosun.com",
+      "count": 1,
+      "first": "2019-11-09",
+      "last": "2019-11-09"
     },
     {
       "name": "towardfreedom.org",
@@ -1411,5 +1447,5 @@
     }
   ],
   "firstDate": "2014-11-04",
-  "lastDate": "2026-09-02"
+  "lastDate": "2026-09-03"
 }
