@@ -43,13 +43,82 @@ export function bestTitle(candidates: string[]): string {
 }
 
 /**
- * The country a movement is in. `location` is stored as
- * "Nigeria · Lagos & Abuja", so the country is everything before the dot.
- * It matters because searches name the country first — "nigeria fuel
- * subsidy protests" — while the movement name alone never does.
+ * Split a stored location into its country and its named cities.
+ *
+ * Two shapes are in circulation. movements.json holds "Nigeria · Lagos &
+ * Abuja" — country first, dot separator — for every movement aggregate.mjs
+ * has already seen, because it reuses the location it wrote last time. A
+ * movement added since then arrives straight from movements.config.json,
+ * which is written the other way round: "Lagos & Abuja, Nigeria".
+ *
+ * A location with neither separator is read as a bare country, which is what
+ * headings and titles have always assumed of one.
+ */
+export function parseLocation(location: string): { country: string; cities: string[] } {
+  const raw = (location || '').trim();
+  const splitCities = (part: string) =>
+    part
+      .split(/[&,]/)
+      .map((city) => city.trim())
+      .filter(Boolean);
+
+  if (raw.includes('·')) {
+    const [head, ...rest] = raw.split('·');
+    return { country: head.trim(), cities: splitCities(rest.join(' ')) };
+  }
+  if (raw.includes(',')) {
+    const parts = raw.split(',');
+    const country = (parts.pop() || '').trim();
+    return { country, cities: splitCities(parts.join(',')) };
+  }
+  return { country: raw, cities: [] };
+}
+
+/**
+ * The country a movement is in. It matters because searches name the country
+ * first — "nigeria fuel subsidy protests" — while the movement name alone
+ * never does.
  */
 export function movementCountry(location: string): string {
-  return (location || '').split('·')[0].trim();
+  return parseLocation(location).country;
+}
+
+/**
+ * The named places a movement covers, as schema.org Place nodes.
+ *
+ * A movement can span more than one city. Each city gets its own Place rather
+ * than being flattened into a single addressLocality, because "Lagos & Abuja"
+ * is not the name of a city — and because Google reads a PostalAddress
+ * carrying nothing but a country as an incomplete address and warns about it.
+ */
+export function movementPlaces(
+  location: string,
+): Record<string, unknown> | Record<string, unknown>[] {
+  const { country, cities } = parseLocation(location);
+
+  if (cities.length === 0) {
+    return {
+      '@type': 'Place',
+      name: location || country,
+      // An address with no country at all is worth less than no address, so
+      // the node degrades to a bare name instead of an empty PostalAddress.
+      ...(country
+        ? { address: { '@type': 'PostalAddress', addressCountry: country } }
+        : {}),
+    };
+  }
+
+  const places = cities.map((city) => ({
+    '@type': 'Place',
+    name: country ? `${city}, ${country}` : city,
+    address: {
+      '@type': 'PostalAddress',
+      addressLocality: city,
+      ...(country ? { addressCountry: country } : {}),
+    },
+  }));
+
+  return places.length === 1 ? places[0] : places;
 }
 
 /** "Nigeria Fuel Subsidy Protests" — country prefixed unless already there. */
