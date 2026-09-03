@@ -115,7 +115,7 @@
     },
     {
       "start": "2017-03-01",
-      "count": 9
+      "count": 10
     },
     {
       "start": "2017-04-01",
@@ -211,7 +211,7 @@
     },
     {
       "start": "2019-03-01",
-      "count": 8
+      "count": 9
     },
     {
       "start": "2019-04-01",
@@ -243,7 +243,7 @@
     },
     {
       "start": "2019-11-01",
-      "count": 16
+      "count": 18
     },
     {
       "start": "2019-12-01",
@@ -275,7 +275,7 @@
     },
     {
       "start": "2020-07-01",
-      "count": 11
+      "count": 12
     },
     {
       "start": "2020-08-01",
@@ -563,7 +563,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 10
+      "count": 11
     },
     {
       "start": "2026-08-01",
@@ -571,18 +571,24 @@
     },
     {
       "start": "2026-09-01",
-      "count": 2
+      "count": 3
     }
   ],
   "sources": [
     {
-      "name": "La Izquierda Diario Chile",
-      "count": 22,
+      "name": "La Izquierda Diario",
+      "count": 14,
       "first": "2015-04-23",
+      "last": "2026-06-24"
+    },
+    {
+      "name": "La Izquierda Diario Chile",
+      "count": 11,
+      "first": "2015-06-19",
       "last": "2025-03-26"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -595,13 +601,13 @@
     },
     {
       "name": "Al Jazeera",
-      "count": 7,
+      "count": 8,
       "first": "2019-10-26",
-      "last": "2020-03-09"
+      "last": "2020-07-23"
     },
     {
       "name": "The Clinic",
-      "count": 7,
+      "count": 8,
       "first": "2016-07-27",
       "last": "2026-09-03"
     },
@@ -648,10 +654,22 @@
       "last": "2019-12-24"
     },
     {
+      "name": "Diario Junio",
+      "count": 4,
+      "first": "2026-04-20",
+      "last": "2026-07-15"
+    },
+    {
       "name": "NODAL - Noticias de América Latina y el Caribe",
       "count": 4,
       "first": "2016-08-26",
       "last": "2025-09-23"
+    },
+    {
+      "name": "SoyChile.cl",
+      "count": 4,
+      "first": "2016-08-10",
+      "last": "2019-03-31"
     },
     {
       "name": "Universidad de Chile",
@@ -678,12 +696,6 @@
       "last": "2019-10-29"
     },
     {
-      "name": "Diario Junio",
-      "count": 3,
-      "first": "2026-04-20",
-      "last": "2026-06-24"
-    },
-    {
       "name": "El Desconcierto",
       "count": 3,
       "first": "2016-08-21",
@@ -694,12 +706,6 @@
       "count": 3,
       "first": "2019-10-23",
       "last": "2020-10-16"
-    },
-    {
-      "name": "SoyChile.cl",
-      "count": 3,
-      "first": "2016-08-10",
-      "last": "2019-03-31"
     },
     {
       "name": "The Guardian",
@@ -768,6 +774,12 @@
       "last": "2019-03-21"
     },
     {
+      "name": "El Miércoles Digital",
+      "count": 2,
+      "first": "2026-07-24",
+      "last": "2026-07-30"
+    },
+    {
       "name": "Ex-ante",
       "count": 2,
       "first": "2022-11-06",
@@ -778,12 +790,6 @@
       "count": 2,
       "first": "2019-09-25",
       "last": "2019-10-16"
-    },
-    {
-      "name": "La Izquierda Diario",
-      "count": 2,
-      "first": "2017-09-04",
-      "last": "2026-06-24"
     },
     {
       "name": "Mexico Solidarity Media",
@@ -808,6 +814,12 @@
       "count": 2,
       "first": "2019-10-23",
       "last": "2022-03-12"
+    },
+    {
+      "name": "The Nation Newspaper",
+      "count": 2,
+      "first": "2024-02-07",
+      "last": "2025-11-29"
     },
     {
       "name": "TN",
@@ -862,6 +874,12 @@
       "count": 1,
       "first": "2017-12-12",
       "last": "2017-12-12"
+    },
+    {
+      "name": "Barron's",
+      "count": 1,
+      "first": "2019-11-08",
+      "last": "2019-11-08"
     },
     {
       "name": "Bella Caledonia",
@@ -972,18 +990,6 @@
       "last": "2025-06-27"
     },
     {
-      "name": "el miercoles digital",
-      "count": 1,
-      "first": "2026-07-24",
-      "last": "2026-07-24"
-    },
-    {
-      "name": "El Miércoles Digital",
-      "count": 1,
-      "first": "2026-07-30",
-      "last": "2026-07-30"
-    },
-    {
       "name": "El Nacional — La voz de todos",
       "count": 1,
       "first": "2022-03-27",
@@ -1092,7 +1098,7 @@
       "last": "2020-02-19"
     },
     {
-      "name": "infinita.cl",
+      "name": "Infinita",
       "count": 1,
       "first": "2021-12-14",
       "last": "2021-12-14"
@@ -1144,6 +1150,12 @@
       "count": 1,
       "first": "2016-10-12",
       "last": "2016-10-12"
+    },
+    {
+      "name": "LatinAmerican Post",
+      "count": 1,
+      "first": "2019-11-28",
+      "last": "2019-11-28"
     },
     {
       "name": "Latino Rebels -",
@@ -1380,25 +1392,13 @@
       "last": "2019-12-10"
     },
     {
-      "name": "The Nation Newspaper",
-      "count": 1,
-      "first": "2025-11-29",
-      "last": "2025-11-29"
-    },
-    {
       "name": "The Sun Nigeria",
       "count": 1,
       "first": "2025-07-26",
       "last": "2025-07-26"
     },
     {
-      "name": "thenationonlineng.net",
-      "count": 1,
-      "first": "2024-02-07",
-      "last": "2024-02-07"
-    },
-    {
-      "name": "torontosun.com",
+      "name": "Toronto Sun",
       "count": 1,
       "first": "2019-11-09",
       "last": "2019-11-09"

@@ -111,7 +111,7 @@
     },
     {
       "start": "2012-01-01",
-      "count": 34
+      "count": 35
     },
     {
       "start": "2012-02-01",
@@ -691,7 +691,7 @@
     },
     {
       "start": "2024-02-01",
-      "count": 5
+      "count": 7
     },
     {
       "start": "2024-03-01",
@@ -727,7 +727,7 @@
     },
     {
       "start": "2024-11-01",
-      "count": 8
+      "count": 9
     },
     {
       "start": "2024-12-01",
@@ -795,7 +795,7 @@
     },
     {
       "start": "2026-04-01",
-      "count": 2
+      "count": 3
     },
     {
       "start": "2026-05-01",
@@ -815,13 +815,19 @@
     },
     {
       "start": "2026-09-01",
-      "count": 11
+      "count": 12
     }
   ],
   "sources": [
     {
+      "name": "The Guardian Nigeria News",
+      "count": 44,
+      "first": "2015-10-02",
+      "last": "2026-06-08"
+    },
+    {
       "name": "Vanguard News",
-      "count": 40,
+      "count": 41,
       "first": "2012-03-08",
       "last": "2026-06-08"
     },
@@ -839,33 +845,21 @@
     },
     {
       "name": "Daily Post Nigeria",
-      "count": 32,
+      "count": 33,
       "first": "2012-01-05",
       "last": "2026-09-02"
     },
     {
       "name": "Channels Television",
-      "count": 31,
+      "count": 32,
       "first": "2012-01-04",
       "last": "2026-06-03"
-    },
-    {
-      "name": "The Guardian Nigeria News",
-      "count": 31,
-      "first": "2015-10-02",
-      "last": "2026-06-08"
     },
     {
       "name": "Punch Newspapers",
       "count": 23,
       "first": "2020-09-04",
       "last": "2026-08-19"
-    },
-    {
-      "name": "The Guardian",
-      "count": 20,
-      "first": "2012-01-03",
-      "last": "2026-01-27"
     },
     {
       "name": "PM News Nigeria",
@@ -880,6 +874,12 @@
       "last": "2026-09-01"
     },
     {
+      "name": "Arise News",
+      "count": 12,
+      "first": "2023-06-02",
+      "last": "2026-06-04"
+    },
+    {
       "name": "Legit News",
       "count": 12,
       "first": "2022-01-02",
@@ -892,10 +892,22 @@
       "last": "2026-03-15"
     },
     {
+      "name": "The Sun Nigeria",
+      "count": 11,
+      "first": "2022-11-30",
+      "last": "2026-06-04"
+    },
+    {
       "name": "Al Jazeera",
       "count": 10,
       "first": "2012-01-04",
       "last": "2024-08-02"
+    },
+    {
+      "name": "The Whistler Newspaper",
+      "count": 10,
+      "first": "2020-09-04",
+      "last": "2026-06-03"
     },
     {
       "name": "Business News Nigeria",
@@ -904,34 +916,22 @@
       "last": "2026-06-04"
     },
     {
-      "name": "The Sun Nigeria",
-      "count": 9,
-      "first": "2022-11-30",
-      "last": "2026-06-04"
-    },
-    {
-      "name": "The Whistler Newspaper",
-      "count": 9,
-      "first": "2020-09-04",
-      "last": "2026-06-03"
-    },
-    {
       "name": "THISDAYLIVE",
       "count": 9,
       "first": "2023-01-26",
       "last": "2026-03-11"
     },
     {
-      "name": "Arise News",
-      "count": 8,
-      "first": "2023-06-02",
-      "last": "2026-02-13"
-    },
-    {
       "name": "Independent Newspaper Nigeria",
       "count": 8,
       "first": "2020-09-07",
       "last": "2026-01-29"
+    },
+    {
+      "name": "The Guardian",
+      "count": 8,
+      "first": "2012-01-03",
+      "last": "2023-09-05"
     },
     {
       "name": "The Nation Newspaper",
@@ -946,22 +946,10 @@
       "last": "2026-05-19"
     },
     {
-      "name": "thesun.ng",
-      "count": 6,
-      "first": "2026-03-26",
-      "last": "2026-08-14"
-    },
-    {
       "name": "TVC News",
       "count": 6,
       "first": "2025-09-07",
       "last": "2026-06-03"
-    },
-    {
-      "name": "arise.tv",
-      "count": 5,
-      "first": "2024-06-04",
-      "last": "2026-06-04"
     },
     {
       "name": "CNN",
@@ -974,6 +962,12 @@
       "count": 5,
       "first": "2023-03-30",
       "last": "2026-06-03"
+    },
+    {
+      "name": "Vanguard",
+      "count": 5,
+      "first": "2026-09-02",
+      "last": "2026-09-03"
     },
     {
       "name": "VOA - Voice of America English News",
@@ -1000,12 +994,6 @@
       "last": "2026-01-26"
     },
     {
-      "name": "Vanguard",
-      "count": 4,
-      "first": "2026-09-02",
-      "last": "2026-09-03"
-    },
-    {
       "name": "FIJ NG",
       "count": 3,
       "first": "2024-09-04",
@@ -1022,6 +1010,12 @@
       "count": 3,
       "first": "2012-01-13",
       "last": "2025-10-14"
+    },
+    {
+      "name": "thesun.ng",
+      "count": 3,
+      "first": "2026-05-01",
+      "last": "2026-08-14"
     },
     {
       "name": "VOA Africa",
@@ -1054,7 +1048,7 @@
       "last": "2026-08-19"
     },
     {
-      "name": "opinionnigeria.com",
+      "name": "Opinion Nigeria",
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
@@ -1114,6 +1108,12 @@
       "last": "2020-09-10"
     },
     {
+      "name": "arise.tv",
+      "count": 1,
+      "first": "2026-02-02",
+      "last": "2026-02-02"
+    },
+    {
       "name": "BellaNaija",
       "count": 1,
       "first": "2021-03-12",
@@ -1132,7 +1132,7 @@
       "last": "2025-09-27"
     },
     {
-      "name": "businesspost.ng",
+      "name": "Business Post Nigeria",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
@@ -1214,6 +1214,12 @@
       "count": 1,
       "first": "2026-01-30",
       "last": "2026-01-30"
+    },
+    {
+      "name": "International Business Times",
+      "count": 1,
+      "first": "2012-01-09",
+      "last": "2012-01-09"
     },
     {
       "name": "International Socialist Alternative",
