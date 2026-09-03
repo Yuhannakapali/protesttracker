@@ -308,6 +308,10 @@ hr.hairline { height: 1px; background: var(--line); border: none; margin: 0; }
    Page headers / hero
    ========================================================================== */
 .page-head { padding: 44px 0 28px; border-bottom: 1px solid var(--line); }
+.page-head__note {
+  max-width: 62ch; margin-top: 14px;
+  color: var(--ink2); font-size: 14px; line-height: 1.65;
+}
 .page-head h1 {
   font-family: var(--font-serif), serif; font-weight: 600;
   font-size: clamp(2rem, 5vw, 2.9rem); line-height: 1.05; letter-spacing: -0.02em;

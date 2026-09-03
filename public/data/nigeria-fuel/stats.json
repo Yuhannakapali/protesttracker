@@ -807,7 +807,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 10
+      "count": 3
     },
     {
       "start": "2026-08-01",
@@ -880,12 +880,6 @@
       "last": "2026-06-04"
     },
     {
-      "name": "Al Jazeera",
-      "count": 12,
-      "first": "2012-01-04",
-      "last": "2026-07-20"
-    },
-    {
       "name": "Legit News",
       "count": 12,
       "first": "2022-01-02",
@@ -904,16 +898,22 @@
       "last": "2026-03-15"
     },
     {
+      "name": "Al Jazeera",
+      "count": 10,
+      "first": "2012-01-04",
+      "last": "2024-08-02"
+    },
+    {
       "name": "Business News Nigeria",
       "count": 9,
       "first": "2022-01-21",
       "last": "2026-06-04"
     },
     {
-      "name": "Reuters",
+      "name": "Independent Newspaper Nigeria",
       "count": 9,
-      "first": "2012-01-10",
-      "last": "2026-07-22"
+      "first": "2020-09-07",
+      "last": "2026-01-29"
     },
     {
       "name": "THISDAYLIVE",
@@ -928,12 +928,6 @@
       "last": "2026-06-03"
     },
     {
-      "name": "Independent Newspaper Nigeria",
-      "count": 7,
-      "first": "2020-09-07",
-      "last": "2026-01-27"
-    },
-    {
       "name": "The Nation Newspaper",
       "count": 7,
       "first": "2022-01-10",
@@ -944,6 +938,12 @@
       "count": 6,
       "first": "2023-03-30",
       "last": "2026-06-03"
+    },
+    {
+      "name": "Reuters",
+      "count": 6,
+      "first": "2012-01-10",
+      "last": "2026-05-19"
     },
     {
       "name": "The Guardian",
@@ -1012,12 +1012,6 @@
       "last": "2024-02-19"
     },
     {
-      "name": "BBC News",
-      "count": 2,
-      "first": "2026-07-18",
-      "last": "2026-07-21"
-    },
-    {
       "name": "Daily Trust",
       "count": 2,
       "first": "2025-10-13",
@@ -1028,12 +1022,6 @@
       "count": 2,
       "first": "2024-09-04",
       "last": "2024-09-05"
-    },
-    {
-      "name": "independent.ng",
-      "count": 2,
-      "first": "2026-01-23",
-      "last": "2026-01-29"
     },
     {
       "name": "Mail & Guardian",

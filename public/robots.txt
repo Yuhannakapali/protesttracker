@@ -5,4 +5,8 @@
 User-agent: *
 Allow: /
 
+# Search result pages are thin and parameterised; the movement pages they
+# point at are the ones worth crawling.
+Disallow: /search/?
+
 Sitemap: https://protesttracker.net/sitemap.xml

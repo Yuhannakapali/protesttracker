@@ -40,3 +40,6 @@ next-env.d.ts
 # generated at build time by scripts/search-index.mjs
 /public/data/search-index.json
 /public/data/search-urls.json
+
+# generated at build time by scripts/og-images.mjs
+/public/og/

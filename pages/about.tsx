@@ -6,7 +6,7 @@ export default function About() {
   return (
     <Layout
       title="About"
-      description="How ProtestTracker works, and its stance of documentary neutrality."
+      description="How ProtestTracker compiles its archive: which sources are aggregated, how movement status is decided, and why the record is kept neutral."
       path="/about/"
     >
       <div className="container">

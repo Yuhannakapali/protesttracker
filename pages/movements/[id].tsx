@@ -21,7 +21,16 @@ import { isActiveStatus } from '@/lib/status';
 import { longDate } from '@/lib/dates';
 import { useActiveSection } from '@/lib/useActiveSection';
 import { useFirstLoad } from '@/lib/useFirstLoad';
-import { SITE_NAME, absoluteUrl } from '@/lib/seo';
+import {
+  ORGANIZATION,
+  SITE_NAME,
+  SITE_URL,
+  absoluteUrl,
+  movementDescription,
+  movementCountry,
+  movementHeading,
+  movementTitle,
+} from '@/lib/seo';
 import type {
   Article,
   BackgroundBlock,
@@ -51,6 +60,11 @@ interface PageProps {
 // rendered DOM and the __NEXT_DATA__ copy of the props are counted. A recent
 // slice is enough for crawlers to index; the client refetch loads the rest.
 const PRERENDER_ARTICLE_LIMIT = 60;
+
+// How many articles to describe in the ItemList. Structured data is meant to
+// characterise the page, not duplicate it, and every entry is bytes in the
+// head of an already heavy document.
+const SCHEMA_ARTICLE_LIMIT = 20;
 
 interface Bundle {
   movement: Movement | null;
@@ -120,6 +134,7 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
 
   const movement = data?.movement || null;
   const active = movement ? isActiveStatus(movement.status) : false;
+  const stats = data?.stats || initialBundle.stats;
   const title = movement?.name || 'Movement';
 
   // The live slice, plus the older coverage once the reader has asked for it.
@@ -129,9 +144,12 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
 
   return (
     <Layout
-      title={movement?.name}
-      description={movement?.description}
+      title={movement ? movementTitle(movement.name, movement.location) : undefined}
+      description={
+        movement ? movementDescription(movement.description, movement.articleCount) : undefined
+      }
       path={canonicalPath}
+      image={`/og/${id}.png`}
       feed={`/movements/${id}/feed`}
       jsonLd={
         movement
@@ -139,18 +157,63 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
               {
                 '@context': 'https://schema.org',
                 '@type': 'CollectionPage',
-                name: movement.name,
+                name: movementHeading(movement.name, movement.location),
                 description: movement.description,
                 url: absoluteUrl(canonicalPath),
-                isPartOf: { '@type': 'WebSite', name: SITE_NAME, url: absoluteUrl('/') },
+                isPartOf: { '@type': 'WebSite', '@id': `${SITE_URL}/#website`, name: SITE_NAME },
+                publisher: { '@id': `${SITE_URL}/#organization` },
+                inLanguage: 'en',
+                // Coverage dates, not the date we started tracking: these are
+                // what tell a crawler the page is still being updated.
+                datePublished: stats.firstDate || movement.logged,
+                dateModified: stats.lastDate || movement.logged,
                 about: {
                   '@type': 'Event',
-                  name: movement.name,
+                  name: movementHeading(movement.name, movement.location),
                   description: movement.description,
-                  location: { '@type': 'Place', name: movement.location },
+                  location: {
+                    '@type': 'Place',
+                    name: movement.location,
+                    address: {
+                      '@type': 'PostalAddress',
+                      addressCountry: movementCountry(movement.location),
+                    },
+                  },
+                  // When this wave of protest began, not stats.firstDate:
+                  // the coverage reaches back years into earlier rounds of the
+                  // same dispute, which is a different event from this one.
                   startDate: movement.logged,
+                  // A concluded movement gets an end date; schema.org has no
+                  // "ended" eventStatus, and EventPostponed would claim it is
+                  // coming back, so the field is simply omitted there.
+                  ...(active
+                    ? { eventStatus: 'https://schema.org/EventScheduled' }
+                    : { endDate: stats.lastDate || undefined }),
+                  eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+                },
+                // The coverage itself, so the page is legible as a curated
+                // list of reporting rather than an undifferentiated wall.
+                mainEntity: {
+                  '@type': 'ItemList',
+                  name: `Coverage of ${movementHeading(movement.name, movement.location)}`,
+                  numberOfItems: movement.articleCount,
+                  itemListOrder: 'https://schema.org/ItemListOrderDescending',
+                  itemListElement: (data?.articles || []).slice(0, SCHEMA_ARTICLE_LIMIT).map(
+                    (a, i) => ({
+                      '@type': 'ListItem',
+                      position: i + 1,
+                      item: {
+                        '@type': 'NewsArticle',
+                        headline: a.title,
+                        url: a.url,
+                        datePublished: a.date,
+                        publisher: { '@type': 'Organization', name: a.source },
+                      },
+                    }),
+                  ),
                 },
               },
+              { '@context': 'https://schema.org', ...ORGANIZATION },
               {
                 '@context': 'https://schema.org',
                 '@type': 'BreadcrumbList',
@@ -187,14 +250,18 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
                   </span>
                 )}
               </div>
-              <h1 style={{ marginTop: 12 }}>{movement.name}</h1>
+              <h1 style={{ marginTop: 12 }}>
+                {movementHeading(movement.name, movement.location)}
+              </h1>
               <p className="lede">{movement.description}</p>
               <p className="count-line" style={{ marginTop: 14, gap: 16 }}>
                 <span>{movement.location}</span>
                 <span>·</span>
                 <span>{movement.articleCount} articles</span>
                 <span>·</span>
-                <span>logged {longDate(movement.logged)}</span>
+                <span>
+                  logged <time dateTime={movement.logged}>{longDate(movement.logged)}</time>
+                </span>
               </p>
             </>
           )}
@@ -297,9 +364,14 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
               </div>
               {data!.background.length > 0 ? (
                 <div className="prose">
-                  {data!.background.map((b, i) =>
-                    b.type === 'h' ? <h3 key={i}>{b.text}</h3> : <p key={i}>{b.text}</p>,
-                  )}
+                  {/* The stored blocks often open with their own "Background"
+                      heading, which would restate the section's h2 one level
+                      down. Drop it rather than edit every data file. */}
+                  {data!.background
+                    .filter((b, i) => !(i === 0 && b.type === 'h' && b.text === 'Background'))
+                    .map((b, i) =>
+                      b.type === 'h' ? <h3 key={i}>{b.text}</h3> : <p key={i}>{b.text}</p>,
+                    )}
                 </div>
               ) : (
                 <div className="empty-state">

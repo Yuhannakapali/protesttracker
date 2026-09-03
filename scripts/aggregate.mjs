@@ -223,6 +223,20 @@ function isExcluded(article, excludeKeywords) {
   return excludeKeywords.some((k) => hay.includes(String(k).toLowerCase()));
 }
 
+// The site shipped with hand-written seed articles pointing at example.com.
+// They outlived their purpose: every one is a dead link, and they reached the
+// feeds and the search index. Reject the reserved example domains outright —
+// no real coverage will ever come from them.
+const PLACEHOLDER_HOST = /(^|\.)(example\.(com|org|net)|localhost)$/i;
+
+function isPlaceholder(article) {
+  try {
+    return PLACEHOLDER_HOST.test(new URL(article.url).hostname);
+  } catch {
+    return true; // Unparseable URL: not something we can link a reader to.
+  }
+}
+
 function dedupe(articles) {
   const seenUrl = new Set();
   const seenTitle = new Set();
@@ -458,7 +472,8 @@ async function main() {
         const xml = await fetchFeed(url);
         const items = parseRss(xml, feedSource)
           .filter((a) => matchesKeywords(a, feedKeywords))
-          .filter((a) => !isExcluded(a, cfg.excludeKeywords));
+          .filter((a) => !isExcluded(a, cfg.excludeKeywords))
+          .filter((a) => !isPlaceholder(a));
         fetched.push(...items);
         okFeeds += 1;
       } catch (err) {
@@ -480,7 +495,8 @@ async function main() {
       .filter((a) => isGoogleNewsUrl(a.url) || matchesKeywords(a, strictKeywords))
       // Exclusions are retroactive: adding one clears matching articles that
       // were stored before the rule existed.
-      .filter((a) => !isExcluded(a, cfg.excludeKeywords));
+      .filter((a) => !isExcluded(a, cfg.excludeKeywords))
+      .filter((a) => !isPlaceholder(a));
 
     const merged = sortNewestFirst(dedupe([...fetched, ...repaired]));
     const feed = merged.slice(0, FEED_ARTICLES);

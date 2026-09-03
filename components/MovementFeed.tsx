@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react';
 import { groupByDate, longDate, timeAgo } from '@/lib/dates';
+import { outboundRel } from '@/lib/links';
 import type { Article } from '@/lib/types';
 
 const ALL = 'All';
@@ -78,7 +79,9 @@ export default function MovementFeed({
           <div className="date-group" key={group.key}>
             <div className="date-header">
               <span className="stamp">{group.key}</span>
-              <span className="label">{longDate(group.date)}</span>
+              <time className="label" dateTime={String(group.date)}>
+                {longDate(group.date)}
+              </time>
             </div>
             {group.items.map((a, i) => (
               <article className="article" key={`${a.url}-${i}`}>
@@ -86,14 +89,17 @@ export default function MovementFeed({
                   <span className="article__source">{a.source}</span>
                   <span aria-hidden="true">·</span>
                   {/* Relative to render time, so the prerendered string and
-                      the hydrated one legitimately differ. */}
-                  <span suppressHydrationWarning>{timeAgo(a.date)}</span>
+                      the hydrated one legitimately differ. The machine-readable
+                      date lives in the attribute either way. */}
+                  <time dateTime={a.date} suppressHydrationWarning>
+                    {timeAgo(a.date)}
+                  </time>
                 </div>
                 <a
                   className="article__title"
                   href={a.url}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel={outboundRel(a.url)}
                 >
                   {a.title}
                   <span className="ext" aria-hidden="true">↗</span>
@@ -103,7 +109,7 @@ export default function MovementFeed({
                   className="article__more"
                   href={a.url}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel={outboundRel(a.url)}
                 >
                   Read the full article at {a.source}
                   <span aria-hidden="true"> →</span>

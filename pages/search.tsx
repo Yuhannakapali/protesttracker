@@ -5,6 +5,7 @@ import type { GetStaticProps } from 'next';
 import { useRouter } from 'next/router';
 import Layout from '@/components/Layout';
 import { longDate } from '@/lib/dates';
+import { outboundRel } from '@/lib/links';
 import { loadSearchIndex, loadSearchUrls, search } from '@/lib/search';
 import type { SearchIndex } from '@/lib/search';
 import type { Movement } from '@/lib/types';
@@ -172,7 +173,7 @@ export default function SearchPage({ movements, articleCount }: PageProps) {
                         <li key={hit.ref}>
                           <h3>
                             {href ? (
-                              <a href={href} target="_blank" rel="noopener noreferrer">
+                              <a href={href} target="_blank" rel={outboundRel(href)}>
                                 {hit.title}
                               </a>
                             ) : (
@@ -181,7 +182,8 @@ export default function SearchPage({ movements, articleCount }: PageProps) {
                           </h3>
                           {hit.excerpt && <p className="search-page__excerpt">{hit.excerpt}</p>}
                           <p className="search-page__meta">
-                            {hit.source} · {longDate(hit.date)} ·{' '}
+                            {hit.source} · <time dateTime={hit.date}>{longDate(hit.date)}</time>{' '}
+                            ·{' '}
                             <Link href={`/movements/${hit.movement.id}/`}>{hit.movement.name}</Link>
                           </p>
                         </li>

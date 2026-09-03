@@ -559,11 +559,11 @@
     },
     {
       "start": "2026-06-01",
-      "count": 8
+      "count": 6
     },
     {
       "start": "2026-07-01",
-      "count": 13
+      "count": 10
     },
     {
       "start": "2026-08-01",
@@ -595,9 +595,9 @@
     },
     {
       "name": "Al Jazeera",
-      "count": 8,
+      "count": 7,
       "first": "2019-10-26",
-      "last": "2026-07-04"
+      "last": "2020-03-09"
     },
     {
       "name": "Colegio de Profesores",
@@ -642,10 +642,22 @@
       "last": "2025-02-06"
     },
     {
-      "name": "Clarin.com",
+      "name": "clarin.com",
       "count": 4,
       "first": "2017-12-18",
       "last": "2019-12-24"
+    },
+    {
+      "name": "NODAL - Noticias de América Latina y el Caribe",
+      "count": 4,
+      "first": "2016-08-26",
+      "last": "2025-09-23"
+    },
+    {
+      "name": "Universidad de Chile",
+      "count": 4,
+      "first": "2017-04-22",
+      "last": "2023-07-16"
     },
     {
       "name": "- CIPER Chile",
@@ -678,34 +690,16 @@
       "last": "2026-08-06"
     },
     {
-      "name": "radio.uchile.cl",
-      "count": 3,
-      "first": "2020-01-28",
-      "last": "2023-07-16"
-    },
-    {
       "name": "Remezcla",
       "count": 3,
       "first": "2019-10-23",
       "last": "2020-10-16"
     },
     {
-      "name": "Reuters",
-      "count": 3,
-      "first": "2025-01-29",
-      "last": "2026-07-12"
-    },
-    {
       "name": "SoyChile.cl",
       "count": 3,
       "first": "2016-08-10",
       "last": "2019-03-31"
-    },
-    {
-      "name": "The Guardian",
-      "count": 3,
-      "first": "2016-08-21",
-      "last": "2019-10-30"
     },
     {
       "name": "The New York Times",
@@ -736,12 +730,6 @@
       "count": 2,
       "first": "2026-05-28",
       "last": "2026-07-27"
-    },
-    {
-      "name": "BBC News",
-      "count": 2,
-      "first": "2026-06-27",
-      "last": "2026-07-08"
     },
     {
       "name": "Cooperativa",
@@ -804,22 +792,10 @@
       "last": "2026-03-20"
     },
     {
-      "name": "NBC News",
+      "name": "nbcnews.com",
       "count": 2,
       "first": "2019-10-30",
       "last": "2020-03-11"
-    },
-    {
-      "name": "NODAL - Noticias de América Latina y el Caribe",
-      "count": 2,
-      "first": "2016-08-26",
-      "last": "2021-04-26"
-    },
-    {
-      "name": "nodal.am",
-      "count": 2,
-      "first": "2018-04-23",
-      "last": "2025-09-23"
     },
     {
       "name": "Perfil",
@@ -828,16 +804,16 @@
       "last": "2024-09-04"
     },
     {
+      "name": "theguardian.com",
+      "count": 2,
+      "first": "2016-08-21",
+      "last": "2019-10-24"
+    },
+    {
       "name": "TN",
       "count": 2,
       "first": "2023-04-06",
       "last": "2025-12-04"
-    },
-    {
-      "name": "VOA - Voice of America English News",
-      "count": 2,
-      "first": "2019-10-29",
-      "last": "2022-03-12"
     },
     {
       "name": "7paginas",
@@ -1080,12 +1056,6 @@
       "last": "2017-03-27"
     },
     {
-      "name": "In These Times",
-      "count": 1,
-      "first": "2020-02-19",
-      "last": "2020-02-19"
-    },
-    {
       "name": "Infinita",
       "count": 1,
       "first": "2021-12-14",
@@ -1096,6 +1066,12 @@
       "count": 1,
       "first": "2026-06-02",
       "last": "2026-06-02"
+    },
+    {
+      "name": "inthesetimes.com",
+      "count": 1,
+      "first": "2020-02-19",
+      "last": "2020-02-19"
     },
     {
       "name": "Izquierda Web",
@@ -1188,7 +1164,7 @@
       "last": "2019-09-07"
     },
     {
-      "name": "newsweek.com",
+      "name": "Newsweek",
       "count": 1,
       "first": "2019-12-24",
       "last": "2019-12-24"
@@ -1212,7 +1188,7 @@
       "last": "2019-10-25"
     },
     {
-      "name": "OvejeroNoticias",
+      "name": "ovejeronoticias.cl",
       "count": 1,
       "first": "2018-10-17",
       "last": "2018-10-17"
@@ -1302,6 +1278,12 @@
       "last": "2025-03-20"
     },
     {
+      "name": "Reuters",
+      "count": 1,
+      "first": "2025-01-29",
+      "last": "2025-01-29"
+    },
+    {
       "name": "reutersconnect.com",
       "count": 1,
       "first": "2025-04-03",
@@ -1342,6 +1324,12 @@
       "count": 1,
       "first": "2019-11-11",
       "last": "2019-11-11"
+    },
+    {
+      "name": "The Guardian",
+      "count": 1,
+      "first": "2019-10-30",
+      "last": "2019-10-30"
     },
     {
       "name": "The Independent",
@@ -1386,12 +1374,6 @@
       "last": "2019-11-26"
     },
     {
-      "name": "Universidad de Chile",
-      "count": 1,
-      "first": "2017-04-22",
-      "last": "2017-04-22"
-    },
-    {
       "name": "Université catholique de Louvain",
       "count": 1,
       "first": "2026-08-02",
@@ -1408,6 +1390,18 @@
       "count": 1,
       "first": "2018-04-23",
       "last": "2018-04-23"
+    },
+    {
+      "name": "VOA - Voice of America English News",
+      "count": 1,
+      "first": "2019-10-29",
+      "last": "2019-10-29"
+    },
+    {
+      "name": "voanews.com",
+      "count": 1,
+      "first": "2022-03-12",
+      "last": "2022-03-12"
     },
     {
       "name": "WSJ",

@@ -58,7 +58,7 @@ export default function Archive({ initialMovements }: PageProps) {
   return (
     <Layout
       title="Archive"
-      description="Quiet, dormant, and concluded protest movements documented in the archive."
+      description="Concluded and dormant protest movements, kept with their full timelines, legal trackers and sourced coverage. Filter by region and year."
       path="/archive/"
     >
       <div className="container">
@@ -67,6 +67,13 @@ export default function Archive({ initialMovements }: PageProps) {
           <h1>Archive</h1>
           <p className="lede">
             Movements that are quiet, dormant, or concluded. Filter by region and year.
+          </p>
+          <p className="page-head__note">
+            A movement moves here when new reporting stops arriving: no coverage for several
+            weeks, or an outcome that closes the story — a bill withdrawn, a policy reversed, a
+            court case decided. Nothing is deleted. Each archived movement keeps its full
+            timeline, its legal tracker and every article gathered while it was live, so the
+            record stays readable after the news cycle has moved on.
           </p>
         </div>
 
