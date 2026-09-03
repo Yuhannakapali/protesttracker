@@ -36,6 +36,15 @@ export function longDate(value: DateLike): string {
   return `${d.getDate()} ${MONTHS[d.getMonth()]} ${d.getFullYear()}`;
 }
 
+// A coverage bucket's label: "week of 17 August 2026" or "September 2024".
+// Shared by the chart, the overview text and the key-facts block so a period
+// is never named two different ways on the same page.
+export function periodLabel(start: DateLike, granularity: 'week' | 'month'): string {
+  return granularity === 'week'
+    ? `week of ${longDate(start)}`
+    : longDate(start).replace(/^\d+ /, '');
+}
+
 // A relative "time ago" label. `now` is injectable for testing.
 export function timeAgo(value: DateLike, now: Date = new Date()): string {
   const d = toDate(value);

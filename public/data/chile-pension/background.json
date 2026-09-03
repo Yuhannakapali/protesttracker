@@ -1,36 +1,12 @@
 {
   "blocks": [
-    {
-      "type": "h",
-      "text": "Background"
-    },
-    {
-      "type": "p",
-      "text": "Chile's pension system is built around individually funded accounts managed by private administrators, a model introduced decades ago. Critics have long argued that it produces low payouts for many retirees, while defenders credit it with building national savings."
-    },
-    {
-      "type": "h",
-      "text": "The reform debate"
-    },
-    {
-      "type": "p",
-      "text": "This sample entry describes protests tied to a reform proposal aimed at changing how retirement savings are collected and paid out. Demonstrations centered on Santiago, with participants calling for higher guaranteed pensions."
-    },
-    {
-      "type": "h",
-      "text": "Why momentum eased"
-    },
-    {
-      "type": "p",
-      "text": "As negotiations moved into congressional hearings, turnout at street demonstrations declined and unions signaled a shift toward talks. The entry is marked quiet to reflect this slower phase of activity."
-    },
-    {
-      "type": "h",
-      "text": "Why it matters"
-    },
-    {
-      "type": "p",
-      "text": "Pension policy touches nearly every household, and the debate illustrates how a technical financial question can become a sustained focus of public demonstration."
-    }
+    { "type": "h", "text": "The AFP system" },
+    { "type": "p", "text": "Chile's pensions run on individual capitalisation: each worker pays into a personal account managed by a private administrator, an AFP, and draws a pension funded by what that account accumulated. Introduced in the early 1980s under the military government to replace a pay-as-you-go scheme, the model was studied and copied widely abroad. Its defenders credit it with building deep domestic capital markets; its critics point to what many retirees actually receive, with a large share of pensions falling below the minimum wage." },
+    { "type": "h", "text": "No + AFP and the wider unrest" },
+    { "type": "p", "text": "Organised opposition consolidated around the No + AFP coordinating group from 2016, which drew some of the largest marches Chile had seen since the return to democracy. Pension grievances were among the demands carried into the October 2019 social outburst, when protests over a metro fare rise broadened into sustained nationwide demonstrations about inequality and the cost of living. During the pandemic, Congress approved successive laws allowing workers to withdraw portions of their own retirement savings — a measure driven partly by immediate hardship and partly by frustration with the system itself." },
+    { "type": "h", "text": "The reform debate" },
+    { "type": "p", "text": "Successive governments have attempted to change how contributions are collected and how pensions are guaranteed, with proposals typically centring on raising employer contributions, adding a collective or solidarity component, and strengthening the state-guaranteed minimum. The debate has moved repeatedly between street mobilisation and congressional negotiation, and periods of quiet on the street have generally coincided with active phases in the legislature rather than with the question being settled." },
+    { "type": "h", "text": "Why it matters" },
+    { "type": "p", "text": "Pension policy reaches nearly every household and unfolds over decades, which makes it unusual as a protest subject: the grievance is cumulative rather than triggered by a single event. Chile's case is also watched internationally, because the system it is arguing about is the one many other countries adopted." }
   ]
 }

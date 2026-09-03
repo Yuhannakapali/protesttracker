@@ -1,36 +1,12 @@
 {
   "blocks": [
-    {
-      "type": "h",
-      "text": "Background"
-    },
-    {
-      "type": "p",
-      "text": "This sample entry describes the 2024 protests in Kenya against a proposed finance bill containing new tax measures. The government framed the levies as necessary to reduce borrowing, while opponents argued they would raise the cost of living."
-    },
-    {
-      "type": "h",
-      "text": "A youth-led movement"
-    },
-    {
-      "type": "p",
-      "text": "The demonstrations were notable for their largely youth-driven and decentralised character, with organising and information sharing taking place heavily online. Protests centered on Nairobi but spread to other cities."
-    },
-    {
-      "type": "h",
-      "text": "How it concluded"
-    },
-    {
-      "type": "p",
-      "text": "After weeks of sustained demonstrations, the government announced it would not sign the disputed measures into law. The entry is archived as concluded to reflect that outcome."
-    },
-    {
-      "type": "h",
-      "text": "Why it matters"
-    },
-    {
-      "type": "p",
-      "text": "The episode became a widely cited example of how online organising can translate into large-scale street mobilisation and influence national policy."
-    }
+    { "type": "h", "text": "The Finance Bill 2024" },
+    { "type": "p", "text": "In May 2024 the Kenyan government tabled a finance bill proposing a wide range of new and increased taxes, intended to raise hundreds of billions of shillings and reduce reliance on borrowing. Proposals included levies touching everyday goods and digital services. The government argued the measures were necessary to service a heavy debt burden; opponents argued they would push up the cost of living in a country already facing sustained inflation." },
+    { "type": "h", "text": "A leaderless, online movement" },
+    { "type": "p", "text": "Opposition to the bill grew into street protests through June 2024, notable for being largely young, decentralised and organised online rather than through parties or established civil society bodies. Participants circulated annotated copies of the bill, coordinated on social platforms, and explicitly rejected the idea of a single leadership. Demonstrations centred on Nairobi but spread to cities across the country." },
+    { "type": "h", "text": "25 and 26 June 2024" },
+    { "type": "p", "text": "On 25 June 2024, as Parliament passed the bill, protesters breached the parliamentary complex in Nairobi. Police used live fire against crowds that day and during the preceding demonstrations, and human rights bodies documented deaths in the dozens along with widespread injuries and arrests. The following day, President William Ruto announced he would not sign the bill and returned it to Parliament, and it was withdrawn." },
+    { "type": "h", "text": "Why it matters" },
+    { "type": "p", "text": "The episode is widely cited as a case of online organising translating into street mobilisation with a direct legislative outcome. Its aftermath — how far the withdrawn measures returned in other forms, and how the policing of the protests was accounted for — has continued to generate coverage well beyond 2024, which is why this entry remains in the archive after being marked concluded." }
   ]
 }

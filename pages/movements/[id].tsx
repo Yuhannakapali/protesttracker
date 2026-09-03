@@ -21,6 +21,7 @@ import {
   fetchLegal,
   fetchSources,
 } from '@/lib/data';
+import { coverageSummary } from '@/lib/overview';
 import { regionSlug } from '@/lib/regions';
 import { isActiveStatus } from '@/lib/status';
 import { longDate } from '@/lib/dates';
@@ -325,9 +326,11 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
               <div className="mv-section__head">
                 <h2>Overview</h2>
               </div>
-              {data!.brief.summary && (
-                <p className="mv-summary">{data!.brief.summary}</p>
-              )}
+              {/* The written account first when there is one, then the
+                  archive's own description of what it holds. The second is
+                  derived, so every movement has an overview from day one. */}
+              {brief.summary && <p className="mv-summary">{brief.summary}</p>}
+              <p className="mv-coverage-note">{coverageSummary(movement, stats)}</p>
               <KeyFacts movement={movement} stats={stats} />
             </section>
 

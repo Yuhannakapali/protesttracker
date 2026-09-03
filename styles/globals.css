@@ -639,6 +639,11 @@ hr.hairline { height: 1px; background: var(--line); border: none; margin: 0; }
   font-size: 18px; line-height: 1.62; color: var(--ink);
 }
 
+.mv-coverage-note {
+  max-width: 68ch; margin: 0 0 26px;
+  color: var(--ink2); font-size: 15px; line-height: 1.68;
+}
+
 .keyfacts { margin: 0; }
 .keyfacts__row {
   display: flex; flex-wrap: wrap; gap: 4px 20px;

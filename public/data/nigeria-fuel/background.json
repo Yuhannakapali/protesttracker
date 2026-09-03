@@ -1,36 +1,12 @@
 {
   "blocks": [
-    {
-      "type": "h",
-      "text": "Background"
-    },
-    {
-      "type": "p",
-      "text": "Fuel subsidies have long been a feature of Nigerian economic life, keeping pump prices below market rates. Efforts to reduce or remove them have repeatedly produced public backlash, because cheaper fuel is closely tied to the cost of transport, food and everyday goods."
-    },
-    {
-      "type": "h",
-      "text": "The current dispute"
-    },
-    {
-      "type": "p",
-      "text": "This sample entry describes a 2026 wave of protests sparked by a sharp rise in pump prices. Demonstrations began in Lagos and spread toward Abuja as labour unions and student groups joined, framing the issue as one of affordability and living standards."
-    },
-    {
-      "type": "h",
-      "text": "The government position"
-    },
-    {
-      "type": "p",
-      "text": "Officials in this scenario argue that subsidy removal is necessary to stabilise public finances, while pledging targeted support for the poorest households. Critics counter that relief measures have been slow to reach those most affected."
-    },
-    {
-      "type": "h",
-      "text": "Why it matters"
-    },
-    {
-      "type": "p",
-      "text": "Because fuel costs ripple through the wider economy, disputes over pricing tend to touch a broad cross-section of society. The movement illustrates how a single policy change can become a focal point for wider concerns about the cost of living."
-    }
+    { "type": "h", "text": "Why the subsidy exists" },
+    { "type": "p", "text": "Nigeria is one of Africa's largest crude producers, but for decades it has refined very little of its own fuel, importing most of the petrol it consumes. A government subsidy covered the gap between the import cost and the pump price, keeping fuel cheap at the till and expensive to the treasury — by the early 2020s the scheme was consuming trillions of naira a year. Because transport and food prices track the pump price closely, the subsidy became one of the few pieces of economic policy felt directly by almost every household." },
+    { "type": "h", "text": "A recurring flashpoint" },
+    { "type": "p", "text": "Attempts to remove it have repeatedly triggered mass protest. In January 2012 the government of Goodluck Jonathan ended the subsidy overnight and petrol prices roughly doubled, prompting the nationwide demonstrations and general strike known as Occupy Nigeria; within two weeks the government had partially restored it. In May 2023, at his inauguration, President Bola Tinubu declared that the subsidy was gone. Pump prices rose steeply over the months that followed, compounded by a sharp fall in the naira, and the labour movement has since called repeated strikes and protests over the resulting cost of living." },
+    { "type": "h", "text": "Who is involved" },
+    { "type": "p", "text": "The Nigeria Labour Congress and the Trade Union Congress have been the main organised actors, joined at various points by student groups, transport unions and civil society organisations. Governments across administrations have made broadly the same argument — that the subsidy is fiscally unsustainable and disproportionately benefits the better-off — while pledging targeted relief for poorer households. Critics counter that such relief has consistently been slower to arrive than the price rises it is meant to offset." },
+    { "type": "h", "text": "Why it matters" },
+    { "type": "p", "text": "Fuel pricing in Nigeria is rarely only about fuel. Because it moves the cost of getting to work, moving goods and running a generator in a country with unreliable grid power, a change at the pump reaches into wages, food and small business margins at once — which is why the subsidy has become a recurring focal point for much broader arguments about living standards and who bears the cost of fiscal reform." }
   ]
 }

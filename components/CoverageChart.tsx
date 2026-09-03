@@ -1,4 +1,4 @@
-import { longDate } from '@/lib/dates';
+import { longDate, periodLabel as label } from '@/lib/dates';
 import type { CoverageBucket } from '@/lib/types';
 
 interface Props {
@@ -16,10 +16,6 @@ const VH = PLOT_H + AXIS_H;
 // A single article must still paint a visible sliver, or a quiet period reads
 // as a gap in the record rather than as low coverage.
 const MIN_BAR_H = 1.5;
-
-function label(start: string, granularity: 'week' | 'month'): string {
-  return granularity === 'week' ? `week of ${longDate(start)}` : longDate(start).replace(/^\d+ /, '');
-}
 
 export default function CoverageChart({ buckets, granularity }: Props) {
   if (buckets.length === 0) return null;

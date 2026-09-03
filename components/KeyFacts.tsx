@@ -1,4 +1,4 @@
-import { longDate } from '@/lib/dates';
+import { longDate, periodLabel } from '@/lib/dates';
 import type { Movement, MovementStats } from '@/lib/types';
 
 /**
@@ -41,7 +41,7 @@ export default function KeyFacts({
   if (peak && peak.count > 0) {
     facts.push({
       label: 'Busiest period',
-      value: `${peak.count} articles in the ${stats.granularity} of ${longDate(peak.start)}`,
+      value: `${peak.count} articles in ${periodLabel(peak.start, stats.granularity)}`,
     });
   }
 
