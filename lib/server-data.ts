@@ -16,6 +16,7 @@ import type {
   Article,
   BackgroundBlock,
   LegalCase,
+  MovementStats,
   MovementsIndex,
   Source,
   TimelineEvent,
@@ -54,4 +55,14 @@ export function readLegal(id: string): LegalCase[] {
 
 export function readSources(id: string): Source[] {
   return readJson<{ sources?: Source[] }>(`${id}/sources.json`, {}).sources || [];
+}
+
+export function readStats(id: string): MovementStats {
+  return readJson<MovementStats>(`${id}/stats.json`, {
+    granularity: 'month',
+    buckets: [],
+    sources: [],
+    firstDate: null,
+    lastDate: null,
+  });
 }

@@ -5,10 +5,13 @@ import Layout from '@/components/Layout';
 import StatusBadge from '@/components/StatusBadge';
 import LiveDot from '@/components/LiveDot';
 import MovementFeed from '@/components/MovementFeed';
+import CoverageChart from '@/components/CoverageChart';
+import SourceTallyList from '@/components/SourceTally';
 import { SkeletonLines } from '@/components/Skeleton';
 import {
   fetchMovements,
   fetchArticles,
+  fetchArchivedArticles,
   fetchTimeline,
   fetchBackground,
   fetchLegal,
@@ -24,11 +27,13 @@ import type {
   BackgroundBlock,
   LegalCase,
   Movement,
+  MovementStats,
   Source,
   TimelineEvent,
 } from '@/lib/types';
 
 const SECTIONS = [
+  { id: 'coverage', label: 'Coverage' },
   { id: 'feed', label: 'Live Feed' },
   { id: 'timeline', label: 'Timeline' },
   { id: 'background', label: 'Background' },
@@ -49,6 +54,7 @@ const PRERENDER_ARTICLE_LIMIT = 60;
 
 interface Bundle {
   movement: Movement | null;
+  stats: MovementStats;
   articles: Article[];
   timeline: TimelineEvent[];
   background: BackgroundBlock[];
@@ -62,6 +68,9 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
   // in the prerendered HTML; the effect below refreshes them from the live
   // JSON, which the aggregator rewrites every two hours.
   const [data, setData] = useState<Bundle | null>(initialBundle);
+  // Coverage older than the live slice, fetched only if the reader asks.
+  const [archived, setArchived] = useState<Article[] | null>(null);
+  const [loadingArchive, setLoadingArchive] = useState(false);
   const loading = useFirstLoad(data !== null);
   const activeSection = useActiveSection(
     SECTIONS.map((s) => s.id),
@@ -81,7 +90,17 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
     ]).then(([index, articles, timeline, background, legal, sources]) => {
       if (!alive) return;
       const movement = index.movements.find((m) => m.id === id) || null;
-      setData({ movement, articles, timeline, background, legal, sources });
+      // stats.json is regenerated on the same schedule as the page, so the
+      // build-time copy is never staler than the rest of the page.
+      setData((prev) => ({
+        movement,
+        stats: prev?.stats || initialBundle.stats,
+        articles,
+        timeline,
+        background,
+        legal,
+        sources,
+      }));
     });
     return () => {
       alive = false;
@@ -102,6 +121,9 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
   const movement = data?.movement || null;
   const active = movement ? isActiveStatus(movement.status) : false;
   const title = movement?.name || 'Movement';
+
+  // The live slice, plus the older coverage once the reader has asked for it.
+  const feedArticles = archived ? [...(data?.articles || []), ...archived] : data?.articles || [];
 
   const canonicalPath = `/movements/${id}/`;
 
@@ -196,12 +218,50 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
           </div>
         ) : (
           <>
+            <section id="coverage" className="mv-section">
+              <div className="mv-section__head">
+                <h2>Coverage</h2>
+                <span className="mv-section__count">
+                  {data!.stats.sources.length} outlets
+                </span>
+              </div>
+              {data!.stats.buckets.length > 0 ? (
+                <CoverageChart
+                  buckets={data!.stats.buckets}
+                  granularity={data!.stats.granularity}
+                />
+              ) : (
+                <div className="empty-state">Not enough coverage to chart yet.</div>
+              )}
+            </section>
+
             <section id="feed" className="mv-section">
               <div className="mv-section__head">
                 <h2>Live Feed</h2>
-                <span className="mv-section__count">{data!.articles.length} articles</span>
+                <span className="mv-section__count">
+                  {feedArticles.length} of {movement.articleCount} articles
+                </span>
               </div>
-              <MovementFeed articles={data!.articles} active={active} />
+              <MovementFeed articles={feedArticles} active={active} />
+              {archived === null && movement.articleCount > data!.articles.length && (
+                <p className="feed-more">
+                  <button
+                    type="button"
+                    className="chip"
+                    disabled={loadingArchive}
+                    onClick={() => {
+                      setLoadingArchive(true);
+                      fetchArchivedArticles(id)
+                        .then((older) => setArchived(older))
+                        .finally(() => setLoadingArchive(false));
+                    }}
+                  >
+                    {loadingArchive
+                      ? 'Loading older coverage…'
+                      : `Load ${movement.articleCount - data!.articles.length} older articles`}
+                  </button>
+                </p>
+              )}
             </section>
 
             <section id="timeline" className="mv-section">
@@ -282,7 +342,7 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
               <div className="mv-section__head">
                 <h2>Sources</h2>
               </div>
-              {data!.sources.length > 0 ? (
+              {data!.sources.length > 0 && (
                 <ul className="source-list">
                   {data!.sources.map((s, i) => (
                     <li className="source-item" key={i}>
@@ -292,13 +352,10 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
                     </li>
                   ))}
                 </ul>
-              ) : (
-                <div className="empty-state">
-                  {active
-                    ? 'No sources have been listed yet.'
-                    : 'Source list for this archived movement is not available.'}
-                </div>
               )}
+              {/* Derived from the archive, so this is never empty once any
+                  article has been logged — unlike the curated list above. */}
+              <SourceTallyList sources={data!.stats.sources} />
             </section>
           </>
         )}
@@ -329,6 +386,7 @@ export const getStaticProps: GetStaticProps<PageProps> = async ({ params }) => {
       id,
       initialBundle: {
         movement: server.readMovements().movements.find((m) => m.id === id) || null,
+        stats: server.readStats(id),
         articles: server.readArticles(id).slice(0, PRERENDER_ARTICLE_LIMIT),
         timeline: server.readTimeline(id),
         background: server.readBackground(id),

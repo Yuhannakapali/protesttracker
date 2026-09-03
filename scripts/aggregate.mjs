@@ -23,7 +23,11 @@ const DATA_DIR = path.join(ROOT, 'public', 'data');
 const CONFIG_PATH = path.join(__dirname, 'movements.config.json');
 
 const FEED_TIMEOUT_MS = 15000;
-const MAX_ARTICLES = 500;
+// The live feed keeps the most recent slice; everything older moves to
+// articles-archive.json rather than being discarded. The previous single
+// 500-article cap silently deleted history — india-cjp had already lost
+// roughly three months of its own record to it.
+const FEED_ARTICLES = 250;
 const EXCERPT_MAX_CHARS = 320;
 const USER_AGENT =
   'Mozilla/5.0 (compatible; ProtestTrackerBot/1.0; +https://protesttracker.net)';
@@ -208,6 +212,17 @@ function matchesKeywords(article, keywords) {
   return keywords.some((k) => hay.includes(String(k).toLowerCase()));
 }
 
+// Some topic phrases are live political terms in more than one country:
+// "reforma previsional" is Argentine as often as Chilean, which filed 31
+// AMSAFE (Santa Fe teachers' union) articles under a Chilean movement.
+// excludeKeywords rejects an article outright, and is matched against the
+// source and url too so a country's domains can be excluded wholesale.
+function isExcluded(article, excludeKeywords) {
+  if (!excludeKeywords || excludeKeywords.length === 0) return false;
+  const hay = `${article.title} ${article.excerpt} ${article.source} ${article.url}`.toLowerCase();
+  return excludeKeywords.some((k) => hay.includes(String(k).toLowerCase()));
+}
+
 function dedupe(articles) {
   const seenUrl = new Set();
   const seenTitle = new Set();
@@ -270,6 +285,106 @@ function timeAgo(dateStr) {
   return 'over a year ago';
 }
 
+// ---- Derived statistics ---------------------------------------------------
+
+// Bucket boundaries: weekly reads well over a few months, monthly over years.
+// A movement spanning 75 months would otherwise produce 325 weekly bars.
+const WEEKLY_SPAN_LIMIT_DAYS = 120;
+
+function isoDay(t) {
+  return new Date(t).toISOString().slice(0, 10);
+}
+
+// Monday of the ISO week containing `t`.
+function weekStart(t) {
+  const d = new Date(t);
+  const day = (d.getUTCDay() + 6) % 7;
+  d.setUTCDate(d.getUTCDate() - day);
+  return isoDay(d);
+}
+
+function monthStart(t) {
+  return `${new Date(t).toISOString().slice(0, 7)}-01`;
+}
+
+// Coverage volume over time plus a per-outlet roll-up. Both are derived from
+// the article list alone, so they need no curation and stay correct as the
+// corpus grows.
+// One outlet reaches us under several labels: a feed says "NDTV", a bare
+// Google News link falls back to "ndtv.com". Both collapse to the same key so
+// the tally counts outlets rather than spellings.
+const HOST_SHAPED = /^[a-z0-9][a-z0-9.-]*\.[a-z]{2,}$/;
+
+function isHostShaped(name) {
+  return HOST_SHAPED.test(String(name).toLowerCase().trim());
+}
+
+function sourceKey(name) {
+  let s = String(name).toLowerCase().trim().replace(/^www\./, '');
+  if (isHostShaped(s)) {
+    // Drop the public suffix ("ndtv.co.in" -> "ndtv"), never an inner word.
+    s = s.replace(/\.[a-z]{2,4}(\.[a-z]{2})?$/, '').replace(/\./g, ' ');
+  }
+  return s.replace(/^the\s+/, '').replace(/[^a-z0-9]/g, '') || s;
+}
+
+function buildStats(articles) {
+  const times = articles
+    .map((a) => ({ t: new Date(a.date).getTime(), a }))
+    .filter((x) => !Number.isNaN(x.t))
+    .sort((x, y) => x.t - y.t);
+
+  if (times.length === 0) {
+    return { granularity: 'month', buckets: [], sources: [], firstDate: null, lastDate: null };
+  }
+
+  const spanDays = (times[times.length - 1].t - times[0].t) / DAY;
+  const granularity = spanDays <= WEEKLY_SPAN_LIMIT_DAYS ? 'week' : 'month';
+  const keyOf = granularity === 'week' ? weekStart : monthStart;
+
+  // Count per bucket, then fill the gaps so a quiet stretch reads as a
+  // trough rather than vanishing from the axis.
+  const counts = new Map();
+  for (const { t } of times) {
+    const k = keyOf(t);
+    counts.set(k, (counts.get(k) || 0) + 1);
+  }
+  const buckets = [];
+  const step = granularity === 'week' ? 7 : 0;
+  const cursor = new Date(`${keyOf(times[0].t)}T00:00:00Z`);
+  const end = new Date(`${keyOf(times[times.length - 1].t)}T00:00:00Z`);
+  while (cursor <= end) {
+    const k = isoDay(cursor);
+    buckets.push({ start: k, count: counts.get(k) || 0 });
+    if (step) cursor.setUTCDate(cursor.getUTCDate() + step);
+    else cursor.setUTCMonth(cursor.getUTCMonth() + 1);
+  }
+
+  const bySource = new Map();
+  for (const { a } of times) {
+    const name = a.source || 'Unknown';
+    const key = sourceKey(name);
+    const cur = bySource.get(key) || { name, count: 0, first: a.date, last: a.date };
+    // Feeds spell the same outlet several ways; keep the most human label.
+    if (isHostShaped(cur.name) && !isHostShaped(name)) cur.name = name;
+    cur.count += 1;
+    if (a.date < cur.first) cur.first = a.date;
+    if (a.date > cur.last) cur.last = a.date;
+    bySource.set(key, cur);
+  }
+  const sources = Array.from(bySource.values()).sort(
+    (x, y) => y.count - x.count || x.name.localeCompare(y.name),
+  );
+
+  return {
+    granularity,
+    buckets,
+    sources,
+    firstDate: isoDay(times[0].t),
+    lastDate: isoDay(times[times.length - 1].t),
+  };
+}
+
 // ---- IO helpers -----------------------------------------------------------
 
 function readJson(file, fallback) {
@@ -313,7 +428,11 @@ async function main() {
     }
     const dir = path.join(DATA_DIR, id);
     const articlesPath = path.join(dir, 'articles.json');
-    const existingArticles = readJson(articlesPath, { articles: [] }).articles || [];
+    const archivePath = path.join(dir, 'articles-archive.json');
+    const existingArticles = [
+      ...(readJson(articlesPath, { articles: [] }).articles || []),
+      ...(readJson(archivePath, { articles: [] }).articles || []),
+    ];
     // Falling back to `keywords` keeps a movement that defines no strict list
     // behaving exactly as before.
     const strictKeywords = cfg.strictKeywords || cfg.keywords;
@@ -337,7 +456,9 @@ async function main() {
       const feedKeywords = isPublisherFeed ? strictKeywords : cfg.keywords;
       try {
         const xml = await fetchFeed(url);
-        const items = parseRss(xml, feedSource).filter((a) => matchesKeywords(a, feedKeywords));
+        const items = parseRss(xml, feedSource)
+          .filter((a) => matchesKeywords(a, feedKeywords))
+          .filter((a) => !isExcluded(a, cfg.excludeKeywords));
         fetched.push(...items);
         okFeeds += 1;
       } catch (err) {
@@ -356,11 +477,22 @@ async function main() {
       // Hold stored publisher-feed articles to the same strict list applied on
       // the way in, so tightening it also clears entries admitted under a
       // looser one. Google News items keep their place.
-      .filter((a) => isGoogleNewsUrl(a.url) || matchesKeywords(a, strictKeywords));
+      .filter((a) => isGoogleNewsUrl(a.url) || matchesKeywords(a, strictKeywords))
+      // Exclusions are retroactive: adding one clears matching articles that
+      // were stored before the rule existed.
+      .filter((a) => !isExcluded(a, cfg.excludeKeywords));
 
-    const merged = sortNewestFirst(dedupe([...fetched, ...repaired])).slice(0, MAX_ARTICLES);
-    writeJson(articlesPath, { articles: merged });
+    const merged = sortNewestFirst(dedupe([...fetched, ...repaired]));
+    const feed = merged.slice(0, FEED_ARTICLES);
+    const archived = merged.slice(FEED_ARTICLES);
+    writeJson(articlesPath, { articles: feed });
+    // Written even when empty, so the client can request it unconditionally
+    // and get a valid empty response rather than a 404.
+    writeJson(archivePath, { articles: archived });
+    // Derived from the full record, not just the live slice.
+    writeJson(path.join(dir, 'stats.json'), buildStats(merged));
 
+    // Status and counts describe the whole record, not just the live slice.
     const status = computeStatus(merged, cfg.manualStatus);
     const active = status === 'Active' || status === 'Escalating';
     const prev = existingById.get(id) || {};
@@ -384,7 +516,8 @@ async function main() {
     });
 
     console.log(
-      `[${id}] feeds ok:${okFeeds} failed:${failedFeeds} | +${fetched.length} fetched | ${merged.length} total | status:${status}`,
+      `[${id}] feeds ok:${okFeeds} failed:${failedFeeds} | +${fetched.length} fetched | ` +
+        `${merged.length} total (${feed.length} feed + ${archived.length} archived) | status:${status}`,
     );
   }
 

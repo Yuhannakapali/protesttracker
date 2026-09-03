@@ -25,6 +25,28 @@ export interface Movement {
   latestHeadlines: Headline[];
 }
 
+// Derived by scripts/aggregate.mjs from the full article record, so the
+// chart and source list need no curation.
+export interface CoverageBucket {
+  start: string;
+  count: number;
+}
+
+export interface SourceTally {
+  name: string;
+  count: number;
+  first: string;
+  last: string;
+}
+
+export interface MovementStats {
+  granularity: 'week' | 'month';
+  buckets: CoverageBucket[];
+  sources: SourceTally[];
+  firstDate: string | null;
+  lastDate: string | null;
+}
+
 export interface MovementsIndex {
   lastUpdated: string | null;
   movements: Movement[];

@@ -1,0 +1,737 @@
+{
+  "granularity": "month",
+  "buckets": [
+    {
+      "start": "2023-10-01",
+      "count": 1
+    },
+    {
+      "start": "2023-11-01",
+      "count": 0
+    },
+    {
+      "start": "2023-12-01",
+      "count": 0
+    },
+    {
+      "start": "2024-01-01",
+      "count": 0
+    },
+    {
+      "start": "2024-02-01",
+      "count": 0
+    },
+    {
+      "start": "2024-03-01",
+      "count": 0
+    },
+    {
+      "start": "2024-04-01",
+      "count": 0
+    },
+    {
+      "start": "2024-05-01",
+      "count": 0
+    },
+    {
+      "start": "2024-06-01",
+      "count": 61
+    },
+    {
+      "start": "2024-07-01",
+      "count": 35
+    },
+    {
+      "start": "2024-08-01",
+      "count": 10
+    },
+    {
+      "start": "2024-09-01",
+      "count": 1
+    },
+    {
+      "start": "2024-10-01",
+      "count": 0
+    },
+    {
+      "start": "2024-11-01",
+      "count": 2
+    },
+    {
+      "start": "2024-12-01",
+      "count": 4
+    },
+    {
+      "start": "2025-01-01",
+      "count": 0
+    },
+    {
+      "start": "2025-02-01",
+      "count": 1
+    },
+    {
+      "start": "2025-03-01",
+      "count": 0
+    },
+    {
+      "start": "2025-04-01",
+      "count": 3
+    },
+    {
+      "start": "2025-05-01",
+      "count": 2
+    },
+    {
+      "start": "2025-06-01",
+      "count": 20
+    },
+    {
+      "start": "2025-07-01",
+      "count": 15
+    },
+    {
+      "start": "2025-08-01",
+      "count": 3
+    },
+    {
+      "start": "2025-09-01",
+      "count": 5
+    },
+    {
+      "start": "2025-10-01",
+      "count": 4
+    },
+    {
+      "start": "2025-11-01",
+      "count": 3
+    },
+    {
+      "start": "2025-12-01",
+      "count": 2
+    },
+    {
+      "start": "2026-01-01",
+      "count": 3
+    },
+    {
+      "start": "2026-02-01",
+      "count": 3
+    },
+    {
+      "start": "2026-03-01",
+      "count": 8
+    },
+    {
+      "start": "2026-04-01",
+      "count": 19
+    },
+    {
+      "start": "2026-05-01",
+      "count": 40
+    },
+    {
+      "start": "2026-06-01",
+      "count": 139
+    },
+    {
+      "start": "2026-07-01",
+      "count": 9
+    },
+    {
+      "start": "2026-08-01",
+      "count": 16
+    }
+  ],
+  "sources": [
+    {
+      "name": "People Daily",
+      "count": 40,
+      "first": "2026-03-01",
+      "last": "2026-08-27"
+    },
+    {
+      "name": "BBC",
+      "count": 35,
+      "first": "2024-06-18",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "Daily Nation",
+      "count": 31,
+      "first": "2024-06-19",
+      "last": "2026-06-27"
+    },
+    {
+      "name": "Citizen Digital",
+      "count": 28,
+      "first": "2026-03-18",
+      "last": "2026-08-27"
+    },
+    {
+      "name": "Al Jazeera",
+      "count": 20,
+      "first": "2024-06-14",
+      "last": "2026-06-27"
+    },
+    {
+      "name": "The Africa Report",
+      "count": 17,
+      "first": "2024-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "the-star.co.ke",
+      "count": 16,
+      "first": "2024-12-31",
+      "last": "2026-06-29"
+    },
+    {
+      "name": "The Eastleigh Voice",
+      "count": 13,
+      "first": "2025-12-21",
+      "last": "2026-08-27"
+    },
+    {
+      "name": "dw.com",
+      "count": 9,
+      "first": "2024-06-21",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "Kenyans.co.ke",
+      "count": 8,
+      "first": "2026-05-02",
+      "last": "2026-07-28"
+    },
+    {
+      "name": "The Kenya Times",
+      "count": 8,
+      "first": "2024-06-24",
+      "last": "2026-08-27"
+    },
+    {
+      "name": "nation.africa",
+      "count": 7,
+      "first": "2026-04-15",
+      "last": "2026-07-03"
+    },
+    {
+      "name": "VOA - Voice of America English News",
+      "count": 7,
+      "first": "2024-06-18",
+      "last": "2024-09-27"
+    },
+    {
+      "name": "facebook.com",
+      "count": 6,
+      "first": "2026-04-04",
+      "last": "2026-08-04"
+    },
+    {
+      "name": "Reuters",
+      "count": 6,
+      "first": "2024-06-10",
+      "last": "2025-07-09"
+    },
+    {
+      "name": "RFI",
+      "count": 6,
+      "first": "2024-06-26",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "standardmedia.co.ke",
+      "count": 6,
+      "first": "2026-04-03",
+      "last": "2026-06-24"
+    },
+    {
+      "name": "The Conversation",
+      "count": 6,
+      "first": "2024-06-22",
+      "last": "2026-06-23"
+    },
+    {
+      "name": "The EastAfrican",
+      "count": 6,
+      "first": "2024-06-18",
+      "last": "2026-06-21"
+    },
+    {
+      "name": "wsws.org",
+      "count": 6,
+      "first": "2025-10-26",
+      "last": "2026-07-07"
+    },
+    {
+      "name": "Capital FM Africa",
+      "count": 5,
+      "first": "2026-04-20",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "Context News",
+      "count": 5,
+      "first": "2024-06-26",
+      "last": "2025-07-03"
+    },
+    {
+      "name": "France 24",
+      "count": 5,
+      "first": "2024-06-26",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "allAfrica.com",
+      "count": 4,
+      "first": "2025-07-09",
+      "last": "2026-08-28"
+    },
+    {
+      "name": "Kenya Human Rights Commission (KHRC)",
+      "count": 4,
+      "first": "2024-06-24",
+      "last": "2026-01-05"
+    },
+    {
+      "name": "World Socialist Web Site",
+      "count": 4,
+      "first": "2025-06-25",
+      "last": "2026-04-22"
+    },
+    {
+      "name": "ACLED",
+      "count": 3,
+      "first": "2024-07-19",
+      "last": "2025-07-31"
+    },
+    {
+      "name": "africanews.com",
+      "count": 3,
+      "first": "2024-08-13",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "Business Daily",
+      "count": 3,
+      "first": "2024-06-18",
+      "last": "2026-05-24"
+    },
+    {
+      "name": "Dawan Africa",
+      "count": 3,
+      "first": "2026-06-21",
+      "last": "2026-06-23"
+    },
+    {
+      "name": "Democracy in Africa",
+      "count": 3,
+      "first": "2024-07-03",
+      "last": "2024-07-30"
+    },
+    {
+      "name": "Human Rights Watch",
+      "count": 3,
+      "first": "2024-11-05",
+      "last": "2025-06-26"
+    },
+    {
+      "name": "MalindiKenya.net",
+      "count": 3,
+      "first": "2024-07-22",
+      "last": "2026-06-20"
+    },
+    {
+      "name": "Modern Ghana",
+      "count": 3,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "The Kenyan Wallstreet",
+      "count": 3,
+      "first": "2024-06-24",
+      "last": "2026-08-01"
+    },
+    {
+      "name": "accord.org.za",
+      "count": 2,
+      "first": "2024-08-29",
+      "last": "2026-04-14"
+    },
+    {
+      "name": "Africa Confidential",
+      "count": 2,
+      "first": "2025-07-25",
+      "last": "2025-10-27"
+    },
+    {
+      "name": "Afrique XXI",
+      "count": 2,
+      "first": "2025-02-10",
+      "last": "2025-07-22"
+    },
+    {
+      "name": "Amnesty Kenya",
+      "count": 2,
+      "first": "2024-07-05",
+      "last": "2025-06-24"
+    },
+    {
+      "name": "BBC News",
+      "count": 2,
+      "first": "2024-06-20",
+      "last": "2024-06-25"
+    },
+    {
+      "name": "Capitalfm.co.ke",
+      "count": 2,
+      "first": "2026-04-21",
+      "last": "2026-06-22"
+    },
+    {
+      "name": "Channels Television",
+      "count": 2,
+      "first": "2026-06-25",
+      "last": "2026-06-27"
+    },
+    {
+      "name": "Kenya News Agency",
+      "count": 2,
+      "first": "2026-04-24",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "NTV Kenya",
+      "count": 2,
+      "first": "2026-03-23",
+      "last": "2026-04-15"
+    },
+    {
+      "name": "The New York Times",
+      "count": 2,
+      "first": "2025-07-14",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "theelephant.info",
+      "count": 2,
+      "first": "2024-06-26",
+      "last": "2026-04-24"
+    },
+    {
+      "name": "ABC News - Breaking News, Latest News and Videos",
+      "count": 1,
+      "first": "2024-06-20",
+      "last": "2024-06-20"
+    },
+    {
+      "name": "Afrobarometer",
+      "count": 1,
+      "first": "2026-02-16",
+      "last": "2026-02-16"
+    },
+    {
+      "name": "Anadolu Ajansı",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "AP News",
+      "count": 1,
+      "first": "2025-06-25",
+      "last": "2025-06-25"
+    },
+    {
+      "name": "Association for Progressive Communications",
+      "count": 1,
+      "first": "2024-07-19",
+      "last": "2024-07-19"
+    },
+    {
+      "name": "Bloomberg.com",
+      "count": 1,
+      "first": "2026-05-05",
+      "last": "2026-05-05"
+    },
+    {
+      "name": "Brookings",
+      "count": 1,
+      "first": "2026-04-07",
+      "last": "2026-04-07"
+    },
+    {
+      "name": "Business and Human Rights Centre",
+      "count": 1,
+      "first": "2025-06-25",
+      "last": "2025-06-25"
+    },
+    {
+      "name": "Business Today Kenya",
+      "count": 1,
+      "first": "2026-08-26",
+      "last": "2026-08-26"
+    },
+    {
+      "name": "Chatham House",
+      "count": 1,
+      "first": "2024-08-01",
+      "last": "2024-08-01"
+    },
+    {
+      "name": "Civicus Monitor",
+      "count": 1,
+      "first": "2023-10-20",
+      "last": "2023-10-20"
+    },
+    {
+      "name": "CNN",
+      "count": 1,
+      "first": "2024-06-27",
+      "last": "2024-06-27"
+    },
+    {
+      "name": "CSIS | Center for Strategic and International Studies",
+      "count": 1,
+      "first": "2024-06-27",
+      "last": "2024-06-27"
+    },
+    {
+      "name": "Daily Maverick",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "eNCA",
+      "count": 1,
+      "first": "2026-06-26",
+      "last": "2026-06-26"
+    },
+    {
+      "name": "Friedrich-Naumann-Stiftung für die Freiheit",
+      "count": 1,
+      "first": "2024-06-21",
+      "last": "2024-06-21"
+    },
+    {
+      "name": "Geeska",
+      "count": 1,
+      "first": "2025-11-10",
+      "last": "2025-11-10"
+    },
+    {
+      "name": "Global Bar Magazine",
+      "count": 1,
+      "first": "2026-06-24",
+      "last": "2026-06-24"
+    },
+    {
+      "name": "Hivileo",
+      "count": 1,
+      "first": "2026-06-20",
+      "last": "2026-06-20"
+    },
+    {
+      "name": "ICJ Kenya",
+      "count": 1,
+      "first": "2024-08-05",
+      "last": "2024-08-05"
+    },
+    {
+      "name": "impactpolicies.org",
+      "count": 1,
+      "first": "2026-02-17",
+      "last": "2026-02-17"
+    },
+    {
+      "name": "International Bar Association | IBA",
+      "count": 1,
+      "first": "2026-01-19",
+      "last": "2026-01-19"
+    },
+    {
+      "name": "International Socialist Alternative",
+      "count": 1,
+      "first": "2025-07-23",
+      "last": "2025-07-23"
+    },
+    {
+      "name": "IOL",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "ISS Africa",
+      "count": 1,
+      "first": "2025-04-01",
+      "last": "2025-04-01"
+    },
+    {
+      "name": "Jacobin",
+      "count": 1,
+      "first": "2025-09-20",
+      "last": "2025-09-20"
+    },
+    {
+      "name": "Kahawatungu",
+      "count": 1,
+      "first": "2026-08-28",
+      "last": "2026-08-28"
+    },
+    {
+      "name": "Kroc Institute for International Peace Studies",
+      "count": 1,
+      "first": "2024-08-12",
+      "last": "2024-08-12"
+    },
+    {
+      "name": "Nairobi Leo",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "openDemocracy",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "Peace Brigades International-Canada",
+      "count": 1,
+      "first": "2025-05-22",
+      "last": "2025-05-22"
+    },
+    {
+      "name": "peopledaily.digital",
+      "count": 1,
+      "first": "2026-06-24",
+      "last": "2026-06-24"
+    },
+    {
+      "name": "pesacheck.org",
+      "count": 1,
+      "first": "2026-04-28",
+      "last": "2026-04-28"
+    },
+    {
+      "name": "Radiokaya",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "reutersconnect.com",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "Sahara Reporters",
+      "count": 1,
+      "first": "2026-07-27",
+      "last": "2026-07-27"
+    },
+    {
+      "name": "Signs Tv",
+      "count": 1,
+      "first": "2026-05-27",
+      "last": "2026-05-27"
+    },
+    {
+      "name": "Techweez",
+      "count": 1,
+      "first": "2024-06-20",
+      "last": "2024-06-20"
+    },
+    {
+      "name": "The Economist",
+      "count": 1,
+      "first": "2024-07-09",
+      "last": "2024-07-09"
+    },
+    {
+      "name": "The Guardian",
+      "count": 1,
+      "first": "2024-07-01",
+      "last": "2024-07-01"
+    },
+    {
+      "name": "The Independent Uganda",
+      "count": 1,
+      "first": "2024-07-17",
+      "last": "2024-07-17"
+    },
+    {
+      "name": "The London School of Economics and Political Science",
+      "count": 1,
+      "first": "2024-08-01",
+      "last": "2024-08-01"
+    },
+    {
+      "name": "The Standard",
+      "count": 1,
+      "first": "2026-08-07",
+      "last": "2026-08-07"
+    },
+    {
+      "name": "The Washington Post",
+      "count": 1,
+      "first": "2025-09-01",
+      "last": "2025-09-01"
+    },
+    {
+      "name": "TheCable",
+      "count": 1,
+      "first": "2026-04-22",
+      "last": "2026-04-22"
+    },
+    {
+      "name": "theconversation.com",
+      "count": 1,
+      "first": "2024-07-03",
+      "last": "2024-07-03"
+    },
+    {
+      "name": "Tricontinental: Institute for Social Research",
+      "count": 1,
+      "first": "2026-03-31",
+      "last": "2026-03-31"
+    },
+    {
+      "name": "TRT Afrika",
+      "count": 1,
+      "first": "2025-09-26",
+      "last": "2025-09-26"
+    },
+    {
+      "name": "tuko.co.ke",
+      "count": 1,
+      "first": "2026-08-27",
+      "last": "2026-08-27"
+    },
+    {
+      "name": "universityworldnews.com",
+      "count": 1,
+      "first": "2024-07-10",
+      "last": "2024-07-10"
+    },
+    {
+      "name": "www.christiandaily.com",
+      "count": 1,
+      "first": "2026-06-15",
+      "last": "2026-06-15"
+    },
+    {
+      "name": "معهد الجزيرة للإعلام",
+      "count": 1,
+      "first": "2024-12-12",
+      "last": "2024-12-12"
+    }
+  ],
+  "firstDate": "2023-10-20",
+  "lastDate": "2026-08-28"
+}

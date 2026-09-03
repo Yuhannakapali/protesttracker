@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T03:04:17.673Z",
+  "lastUpdated": "2026-09-03T04:30:35.769Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -10,7 +10,7 @@
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 500,
+      "articleCount": 656,
       "updated": "1d ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
@@ -40,10 +40,15 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 486,
-      "updated": "1d ago",
+      "articleCount": 494,
+      "updated": "5h ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
+        {
+          "title": "Lies, damned lies about fuel subsidy removal in Nigeria, by Olu Fasan",
+          "source": "Vanguard",
+          "date": "2026-09-03"
+        },
         {
           "title": "Fuel price: Depot petrol cost may increase further in Nigeria as Brent crude surges to $95",
           "source": "Daily Post Nigeria",
@@ -52,11 +57,6 @@
         {
           "title": "Atiku’s subsidy reversal plan’ll let Nigerians breathe – Nwosu",
           "source": "Vanguard",
-          "date": "2026-09-02"
-        },
-        {
-          "title": "Real reason for latest fuel price increase in Nigeria – IPMAN, PETROAN",
-          "source": "Daily Post Nigeria",
           "date": "2026-09-02"
         }
       ]
@@ -70,24 +70,24 @@
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 330,
+      "articleCount": 264,
       "updated": "1d ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
-        {
-          "title": "“Estamos entre los sapos y un rey feudal”: el curioso descargo de Aníbal Mosa por el castigo a Javier Correa tras el superclásico",
-          "source": "The Clinic",
-          "date": "2026-09-02"
-        },
         {
           "title": "Fin a la era de los multifondos: Superintendencia emite el Régimen de Inversión para los nuevos Fondos Generacionales",
           "source": "The Clinic",
           "date": "2026-09-02"
         },
         {
-          "title": "AMSAFE protesta en Reconquista y Villa Ocampo contra la reforma previsional y por mejoras en IAPOS",
-          "source": "Radio EME",
-          "date": "2026-08-25"
+          "title": "Masiva protesta de movimientos sociales por la reforma previsional",
+          "source": "DIARIO DIGITAL COPAL",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "A 10 años de la gran marcha NO+AFP: el cuestionamiento al modelo y la alternativa desde el mundo del trabajo",
+          "source": "El Desconcierto",
+          "date": "2026-08-06"
         }
       ]
     },
@@ -100,7 +100,7 @@
       "location": "Kenya · Nairobi",
       "year": 2024,
       "logged": "2024-06-10",
-      "articleCount": 405,
+      "articleCount": 409,
       "updated": "6d ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [

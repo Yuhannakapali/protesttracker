@@ -1,0 +1,1427 @@
+{
+  "granularity": "month",
+  "buckets": [
+    {
+      "start": "2014-11-01",
+      "count": 1
+    },
+    {
+      "start": "2014-12-01",
+      "count": 0
+    },
+    {
+      "start": "2015-01-01",
+      "count": 0
+    },
+    {
+      "start": "2015-02-01",
+      "count": 0
+    },
+    {
+      "start": "2015-03-01",
+      "count": 0
+    },
+    {
+      "start": "2015-04-01",
+      "count": 1
+    },
+    {
+      "start": "2015-05-01",
+      "count": 0
+    },
+    {
+      "start": "2015-06-01",
+      "count": 1
+    },
+    {
+      "start": "2015-07-01",
+      "count": 0
+    },
+    {
+      "start": "2015-08-01",
+      "count": 0
+    },
+    {
+      "start": "2015-09-01",
+      "count": 0
+    },
+    {
+      "start": "2015-10-01",
+      "count": 0
+    },
+    {
+      "start": "2015-11-01",
+      "count": 0
+    },
+    {
+      "start": "2015-12-01",
+      "count": 2
+    },
+    {
+      "start": "2016-01-01",
+      "count": 0
+    },
+    {
+      "start": "2016-02-01",
+      "count": 0
+    },
+    {
+      "start": "2016-03-01",
+      "count": 0
+    },
+    {
+      "start": "2016-04-01",
+      "count": 0
+    },
+    {
+      "start": "2016-05-01",
+      "count": 0
+    },
+    {
+      "start": "2016-06-01",
+      "count": 0
+    },
+    {
+      "start": "2016-07-01",
+      "count": 5
+    },
+    {
+      "start": "2016-08-01",
+      "count": 10
+    },
+    {
+      "start": "2016-09-01",
+      "count": 1
+    },
+    {
+      "start": "2016-10-01",
+      "count": 5
+    },
+    {
+      "start": "2016-11-01",
+      "count": 5
+    },
+    {
+      "start": "2016-12-01",
+      "count": 0
+    },
+    {
+      "start": "2017-01-01",
+      "count": 0
+    },
+    {
+      "start": "2017-02-01",
+      "count": 1
+    },
+    {
+      "start": "2017-03-01",
+      "count": 9
+    },
+    {
+      "start": "2017-04-01",
+      "count": 1
+    },
+    {
+      "start": "2017-05-01",
+      "count": 0
+    },
+    {
+      "start": "2017-06-01",
+      "count": 0
+    },
+    {
+      "start": "2017-07-01",
+      "count": 2
+    },
+    {
+      "start": "2017-08-01",
+      "count": 0
+    },
+    {
+      "start": "2017-09-01",
+      "count": 3
+    },
+    {
+      "start": "2017-10-01",
+      "count": 0
+    },
+    {
+      "start": "2017-11-01",
+      "count": 1
+    },
+    {
+      "start": "2017-12-01",
+      "count": 11
+    },
+    {
+      "start": "2018-01-01",
+      "count": 1
+    },
+    {
+      "start": "2018-02-01",
+      "count": 0
+    },
+    {
+      "start": "2018-03-01",
+      "count": 0
+    },
+    {
+      "start": "2018-04-01",
+      "count": 3
+    },
+    {
+      "start": "2018-05-01",
+      "count": 0
+    },
+    {
+      "start": "2018-06-01",
+      "count": 2
+    },
+    {
+      "start": "2018-07-01",
+      "count": 0
+    },
+    {
+      "start": "2018-08-01",
+      "count": 0
+    },
+    {
+      "start": "2018-09-01",
+      "count": 0
+    },
+    {
+      "start": "2018-10-01",
+      "count": 2
+    },
+    {
+      "start": "2018-11-01",
+      "count": 0
+    },
+    {
+      "start": "2018-12-01",
+      "count": 0
+    },
+    {
+      "start": "2019-01-01",
+      "count": 0
+    },
+    {
+      "start": "2019-02-01",
+      "count": 0
+    },
+    {
+      "start": "2019-03-01",
+      "count": 8
+    },
+    {
+      "start": "2019-04-01",
+      "count": 0
+    },
+    {
+      "start": "2019-05-01",
+      "count": 0
+    },
+    {
+      "start": "2019-06-01",
+      "count": 0
+    },
+    {
+      "start": "2019-07-01",
+      "count": 0
+    },
+    {
+      "start": "2019-08-01",
+      "count": 0
+    },
+    {
+      "start": "2019-09-01",
+      "count": 2
+    },
+    {
+      "start": "2019-10-01",
+      "count": 32
+    },
+    {
+      "start": "2019-11-01",
+      "count": 15
+    },
+    {
+      "start": "2019-12-01",
+      "count": 11
+    },
+    {
+      "start": "2020-01-01",
+      "count": 4
+    },
+    {
+      "start": "2020-02-01",
+      "count": 3
+    },
+    {
+      "start": "2020-03-01",
+      "count": 2
+    },
+    {
+      "start": "2020-04-01",
+      "count": 0
+    },
+    {
+      "start": "2020-05-01",
+      "count": 2
+    },
+    {
+      "start": "2020-06-01",
+      "count": 0
+    },
+    {
+      "start": "2020-07-01",
+      "count": 11
+    },
+    {
+      "start": "2020-08-01",
+      "count": 2
+    },
+    {
+      "start": "2020-09-01",
+      "count": 0
+    },
+    {
+      "start": "2020-10-01",
+      "count": 1
+    },
+    {
+      "start": "2020-11-01",
+      "count": 0
+    },
+    {
+      "start": "2020-12-01",
+      "count": 1
+    },
+    {
+      "start": "2021-01-01",
+      "count": 3
+    },
+    {
+      "start": "2021-02-01",
+      "count": 0
+    },
+    {
+      "start": "2021-03-01",
+      "count": 1
+    },
+    {
+      "start": "2021-04-01",
+      "count": 1
+    },
+    {
+      "start": "2021-05-01",
+      "count": 3
+    },
+    {
+      "start": "2021-06-01",
+      "count": 1
+    },
+    {
+      "start": "2021-07-01",
+      "count": 2
+    },
+    {
+      "start": "2021-08-01",
+      "count": 0
+    },
+    {
+      "start": "2021-09-01",
+      "count": 2
+    },
+    {
+      "start": "2021-10-01",
+      "count": 1
+    },
+    {
+      "start": "2021-11-01",
+      "count": 0
+    },
+    {
+      "start": "2021-12-01",
+      "count": 2
+    },
+    {
+      "start": "2022-01-01",
+      "count": 0
+    },
+    {
+      "start": "2022-02-01",
+      "count": 0
+    },
+    {
+      "start": "2022-03-01",
+      "count": 3
+    },
+    {
+      "start": "2022-04-01",
+      "count": 1
+    },
+    {
+      "start": "2022-05-01",
+      "count": 0
+    },
+    {
+      "start": "2022-06-01",
+      "count": 0
+    },
+    {
+      "start": "2022-07-01",
+      "count": 0
+    },
+    {
+      "start": "2022-08-01",
+      "count": 2
+    },
+    {
+      "start": "2022-09-01",
+      "count": 1
+    },
+    {
+      "start": "2022-10-01",
+      "count": 0
+    },
+    {
+      "start": "2022-11-01",
+      "count": 2
+    },
+    {
+      "start": "2022-12-01",
+      "count": 0
+    },
+    {
+      "start": "2023-01-01",
+      "count": 0
+    },
+    {
+      "start": "2023-02-01",
+      "count": 0
+    },
+    {
+      "start": "2023-03-01",
+      "count": 2
+    },
+    {
+      "start": "2023-04-01",
+      "count": 2
+    },
+    {
+      "start": "2023-05-01",
+      "count": 0
+    },
+    {
+      "start": "2023-06-01",
+      "count": 1
+    },
+    {
+      "start": "2023-07-01",
+      "count": 3
+    },
+    {
+      "start": "2023-08-01",
+      "count": 1
+    },
+    {
+      "start": "2023-09-01",
+      "count": 0
+    },
+    {
+      "start": "2023-10-01",
+      "count": 0
+    },
+    {
+      "start": "2023-11-01",
+      "count": 0
+    },
+    {
+      "start": "2023-12-01",
+      "count": 0
+    },
+    {
+      "start": "2024-01-01",
+      "count": 0
+    },
+    {
+      "start": "2024-02-01",
+      "count": 0
+    },
+    {
+      "start": "2024-03-01",
+      "count": 0
+    },
+    {
+      "start": "2024-04-01",
+      "count": 0
+    },
+    {
+      "start": "2024-05-01",
+      "count": 0
+    },
+    {
+      "start": "2024-06-01",
+      "count": 0
+    },
+    {
+      "start": "2024-07-01",
+      "count": 0
+    },
+    {
+      "start": "2024-08-01",
+      "count": 1
+    },
+    {
+      "start": "2024-09-01",
+      "count": 4
+    },
+    {
+      "start": "2024-10-01",
+      "count": 0
+    },
+    {
+      "start": "2024-11-01",
+      "count": 0
+    },
+    {
+      "start": "2024-12-01",
+      "count": 3
+    },
+    {
+      "start": "2025-01-01",
+      "count": 5
+    },
+    {
+      "start": "2025-02-01",
+      "count": 1
+    },
+    {
+      "start": "2025-03-01",
+      "count": 8
+    },
+    {
+      "start": "2025-04-01",
+      "count": 1
+    },
+    {
+      "start": "2025-05-01",
+      "count": 0
+    },
+    {
+      "start": "2025-06-01",
+      "count": 1
+    },
+    {
+      "start": "2025-07-01",
+      "count": 1
+    },
+    {
+      "start": "2025-08-01",
+      "count": 0
+    },
+    {
+      "start": "2025-09-01",
+      "count": 6
+    },
+    {
+      "start": "2025-10-01",
+      "count": 0
+    },
+    {
+      "start": "2025-11-01",
+      "count": 1
+    },
+    {
+      "start": "2025-12-01",
+      "count": 2
+    },
+    {
+      "start": "2026-01-01",
+      "count": 0
+    },
+    {
+      "start": "2026-02-01",
+      "count": 0
+    },
+    {
+      "start": "2026-03-01",
+      "count": 2
+    },
+    {
+      "start": "2026-04-01",
+      "count": 2
+    },
+    {
+      "start": "2026-05-01",
+      "count": 4
+    },
+    {
+      "start": "2026-06-01",
+      "count": 8
+    },
+    {
+      "start": "2026-07-01",
+      "count": 13
+    },
+    {
+      "start": "2026-08-01",
+      "count": 5
+    },
+    {
+      "start": "2026-09-01",
+      "count": 1
+    }
+  ],
+  "sources": [
+    {
+      "name": "La Izquierda Diario Chile",
+      "count": 21,
+      "first": "2015-04-23",
+      "last": "2025-03-26"
+    },
+    {
+      "name": "dw.com",
+      "count": 10,
+      "first": "2016-07-26",
+      "last": "2025-09-14"
+    },
+    {
+      "name": "BBC",
+      "count": 9,
+      "first": "2016-08-22",
+      "last": "2021-12-20"
+    },
+    {
+      "name": "Al Jazeera",
+      "count": 8,
+      "first": "2019-10-26",
+      "last": "2026-07-04"
+    },
+    {
+      "name": "Colegio de Profesores",
+      "count": 6,
+      "first": "2017-09-26",
+      "last": "2026-08-05"
+    },
+    {
+      "name": "El Mostrador",
+      "count": 6,
+      "first": "2016-07-24",
+      "last": "2024-08-17"
+    },
+    {
+      "name": "elciudadano.com",
+      "count": 6,
+      "first": "2016-08-10",
+      "last": "2024-12-22"
+    },
+    {
+      "name": "Infobae",
+      "count": 6,
+      "first": "2017-12-17",
+      "last": "2025-12-04"
+    },
+    {
+      "name": "The Clinic",
+      "count": 6,
+      "first": "2016-07-27",
+      "last": "2026-09-02"
+    },
+    {
+      "name": "La Tercera",
+      "count": 5,
+      "first": "2018-06-04",
+      "last": "2025-01-15"
+    },
+    {
+      "name": "Americas Quarterly",
+      "count": 4,
+      "first": "2017-07-25",
+      "last": "2025-02-06"
+    },
+    {
+      "name": "Clarin.com",
+      "count": 4,
+      "first": "2017-12-18",
+      "last": "2019-12-24"
+    },
+    {
+      "name": "NODAL - Noticias de América Latina y el Caribe",
+      "count": 4,
+      "first": "2016-08-26",
+      "last": "2025-09-23"
+    },
+    {
+      "name": "Universidad de Chile",
+      "count": 4,
+      "first": "2017-04-22",
+      "last": "2023-07-16"
+    },
+    {
+      "name": "- CIPER Chile",
+      "count": 3,
+      "first": "2016-07-26",
+      "last": "2019-03-21"
+    },
+    {
+      "name": "BioBioChile",
+      "count": 3,
+      "first": "2014-11-04",
+      "last": "2017-09-03"
+    },
+    {
+      "name": "Democracy Now!",
+      "count": 3,
+      "first": "2017-03-27",
+      "last": "2019-10-29"
+    },
+    {
+      "name": "Diario Junio",
+      "count": 3,
+      "first": "2026-04-20",
+      "last": "2026-06-24"
+    },
+    {
+      "name": "El Desconcierto",
+      "count": 3,
+      "first": "2016-08-21",
+      "last": "2026-08-06"
+    },
+    {
+      "name": "Remezcla",
+      "count": 3,
+      "first": "2019-10-23",
+      "last": "2020-10-16"
+    },
+    {
+      "name": "Reuters",
+      "count": 3,
+      "first": "2025-01-29",
+      "last": "2026-07-12"
+    },
+    {
+      "name": "SoyChile.cl",
+      "count": 3,
+      "first": "2016-08-10",
+      "last": "2019-03-31"
+    },
+    {
+      "name": "The Guardian",
+      "count": 3,
+      "first": "2016-08-21",
+      "last": "2019-10-30"
+    },
+    {
+      "name": "The Washington Post",
+      "count": 3,
+      "first": "2019-10-30",
+      "last": "2019-11-21"
+    },
+    {
+      "name": "ai-cio.com",
+      "count": 2,
+      "first": "2020-01-22",
+      "last": "2022-04-19"
+    },
+    {
+      "name": "AIM Digital",
+      "count": 2,
+      "first": "2026-06-24",
+      "last": "2026-07-29"
+    },
+    {
+      "name": "Análisis Digital",
+      "count": 2,
+      "first": "2026-05-28",
+      "last": "2026-07-27"
+    },
+    {
+      "name": "BBC News",
+      "count": 2,
+      "first": "2026-06-27",
+      "last": "2026-07-08"
+    },
+    {
+      "name": "Cooperativa",
+      "count": 2,
+      "first": "2016-10-08",
+      "last": "2019-10-25"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "count": 2,
+      "first": "2019-11-01",
+      "last": "2022-08-25"
+    },
+    {
+      "name": "Daily Mail",
+      "count": 2,
+      "first": "2019-11-23",
+      "last": "2020-02-24"
+    },
+    {
+      "name": "Diario Digital de Concordia",
+      "count": 2,
+      "first": "2026-06-26",
+      "last": "2026-07-08"
+    },
+    {
+      "name": "diarioeldia.cl",
+      "count": 2,
+      "first": "2018-04-19",
+      "last": "2019-03-21"
+    },
+    {
+      "name": "Ex-ante",
+      "count": 2,
+      "first": "2022-11-06",
+      "last": "2022-11-06"
+    },
+    {
+      "name": "Interferencia |",
+      "count": 2,
+      "first": "2019-09-25",
+      "last": "2019-10-16"
+    },
+    {
+      "name": "La Izquierda Diario",
+      "count": 2,
+      "first": "2017-09-04",
+      "last": "2026-06-24"
+    },
+    {
+      "name": "Mexico Solidarity Media",
+      "count": 2,
+      "first": "2026-03-20",
+      "last": "2026-03-20"
+    },
+    {
+      "name": "NBC News",
+      "count": 2,
+      "first": "2019-10-30",
+      "last": "2020-03-11"
+    },
+    {
+      "name": "Perfil",
+      "count": 2,
+      "first": "2020-01-09",
+      "last": "2024-09-04"
+    },
+    {
+      "name": "The New York Times",
+      "count": 2,
+      "first": "2016-09-10",
+      "last": "2019-11-21"
+    },
+    {
+      "name": "TN",
+      "count": 2,
+      "first": "2023-04-06",
+      "last": "2025-12-04"
+    },
+    {
+      "name": "VOA - Voice of America English News",
+      "count": 2,
+      "first": "2019-10-29",
+      "last": "2022-03-12"
+    },
+    {
+      "name": "7paginas",
+      "count": 1,
+      "first": "2026-07-13",
+      "last": "2026-07-13"
+    },
+    {
+      "name": "Acento",
+      "count": 1,
+      "first": "2020-05-27",
+      "last": "2020-05-27"
+    },
+    {
+      "name": "AGMER",
+      "count": 1,
+      "first": "2026-06-18",
+      "last": "2026-06-18"
+    },
+    {
+      "name": "América TeVé",
+      "count": 1,
+      "first": "2025-03-30",
+      "last": "2025-03-30"
+    },
+    {
+      "name": "Atacama Noticias",
+      "count": 1,
+      "first": "2019-12-13",
+      "last": "2019-12-13"
+    },
+    {
+      "name": "Atlantic Council",
+      "count": 1,
+      "first": "2019-12-09",
+      "last": "2019-12-09"
+    },
+    {
+      "name": "BAE Negocios",
+      "count": 1,
+      "first": "2017-12-12",
+      "last": "2017-12-12"
+    },
+    {
+      "name": "Bella Caledonia",
+      "count": 1,
+      "first": "2020-08-09",
+      "last": "2020-08-09"
+    },
+    {
+      "name": "Bloomberg.com",
+      "count": 1,
+      "first": "2019-10-26",
+      "last": "2019-10-26"
+    },
+    {
+      "name": "Business News Nigeria",
+      "count": 1,
+      "first": "2021-09-22",
+      "last": "2021-09-22"
+    },
+    {
+      "name": "cambridge.org",
+      "count": 1,
+      "first": "2025-03-31",
+      "last": "2025-03-31"
+    },
+    {
+      "name": "Cato Institute",
+      "count": 1,
+      "first": "2022-08-03",
+      "last": "2022-08-03"
+    },
+    {
+      "name": "CBS17.com",
+      "count": 1,
+      "first": "2019-10-23",
+      "last": "2019-10-23"
+    },
+    {
+      "name": "Chatham House",
+      "count": 1,
+      "first": "2019-12-18",
+      "last": "2019-12-18"
+    },
+    {
+      "name": "CNN",
+      "count": 1,
+      "first": "2025-09-29",
+      "last": "2025-09-29"
+    },
+    {
+      "name": "Congreso",
+      "count": 1,
+      "first": "2021-03-23",
+      "last": "2021-03-23"
+    },
+    {
+      "name": "DIARIO DIGITAL COPAL",
+      "count": 1,
+      "first": "2026-08-20",
+      "last": "2026-08-20"
+    },
+    {
+      "name": "Diario El Debate Pregón",
+      "count": 1,
+      "first": "2026-07-08",
+      "last": "2026-07-08"
+    },
+    {
+      "name": "Diario El Día de La Plata",
+      "count": 1,
+      "first": "2017-12-19",
+      "last": "2017-12-19"
+    },
+    {
+      "name": "Diario La Quinta",
+      "count": 1,
+      "first": "2018-06-01",
+      "last": "2018-06-01"
+    },
+    {
+      "name": "Diario Río Uruguay",
+      "count": 1,
+      "first": "2026-07-27",
+      "last": "2026-07-27"
+    },
+    {
+      "name": "Diario Talca",
+      "count": 1,
+      "first": "2025-03-31",
+      "last": "2025-03-31"
+    },
+    {
+      "name": "El Destape",
+      "count": 1,
+      "first": "2017-12-17",
+      "last": "2017-12-17"
+    },
+    {
+      "name": "El Diario de Antofagasta",
+      "count": 1,
+      "first": "2020-07-20",
+      "last": "2020-07-20"
+    },
+    {
+      "name": "El Grito del Sur",
+      "count": 1,
+      "first": "2025-06-27",
+      "last": "2025-06-27"
+    },
+    {
+      "name": "el miercoles digital",
+      "count": 1,
+      "first": "2026-07-24",
+      "last": "2026-07-24"
+    },
+    {
+      "name": "El Miércoles Digital",
+      "count": 1,
+      "first": "2026-07-30",
+      "last": "2026-07-30"
+    },
+    {
+      "name": "El Nacional — La voz de todos",
+      "count": 1,
+      "first": "2022-03-27",
+      "last": "2022-03-27"
+    },
+    {
+      "name": "El Nuevo Diario",
+      "count": 1,
+      "first": "2022-09-22",
+      "last": "2022-09-22"
+    },
+    {
+      "name": "El Rancagüino",
+      "count": 1,
+      "first": "2021-05-19",
+      "last": "2021-05-19"
+    },
+    {
+      "name": "El Sol de Iquique",
+      "count": 1,
+      "first": "2025-03-31",
+      "last": "2025-03-31"
+    },
+    {
+      "name": "Elentrerios.com",
+      "count": 1,
+      "first": "2026-05-22",
+      "last": "2026-05-22"
+    },
+    {
+      "name": "elsiglo.cl",
+      "count": 1,
+      "first": "2023-07-25",
+      "last": "2023-07-25"
+    },
+    {
+      "name": "Flipr.news",
+      "count": 1,
+      "first": "2026-07-15",
+      "last": "2026-07-15"
+    },
+    {
+      "name": "Foreign Policy",
+      "count": 1,
+      "first": "2019-10-23",
+      "last": "2019-10-23"
+    },
+    {
+      "name": "France 24",
+      "count": 1,
+      "first": "2019-10-23",
+      "last": "2019-10-23"
+    },
+    {
+      "name": "Gephardt Daily News",
+      "count": 1,
+      "first": "2017-03-27",
+      "last": "2017-03-27"
+    },
+    {
+      "name": "Global Voices",
+      "count": 1,
+      "first": "2026-05-16",
+      "last": "2026-05-16"
+    },
+    {
+      "name": "Guioteca",
+      "count": 1,
+      "first": "2017-03-26",
+      "last": "2017-03-26"
+    },
+    {
+      "name": "Guyana Chronicle",
+      "count": 1,
+      "first": "2017-03-27",
+      "last": "2017-03-27"
+    },
+    {
+      "name": "Hoy Digital",
+      "count": 1,
+      "first": "2023-08-31",
+      "last": "2023-08-31"
+    },
+    {
+      "name": "hoy.com.do",
+      "count": 1,
+      "first": "2021-09-02",
+      "last": "2021-09-02"
+    },
+    {
+      "name": "Infinita",
+      "count": 1,
+      "first": "2021-12-14",
+      "last": "2021-12-14"
+    },
+    {
+      "name": "Informe Digital",
+      "count": 1,
+      "first": "2026-06-02",
+      "last": "2026-06-02"
+    },
+    {
+      "name": "inthesetimes.com",
+      "count": 1,
+      "first": "2020-02-19",
+      "last": "2020-02-19"
+    },
+    {
+      "name": "Izquierda Web",
+      "count": 1,
+      "first": "2020-07-16",
+      "last": "2020-07-16"
+    },
+    {
+      "name": "Jony Colombini",
+      "count": 1,
+      "first": "2026-07-29",
+      "last": "2026-07-29"
+    },
+    {
+      "name": "La Gaceta",
+      "count": 1,
+      "first": "2017-12-18",
+      "last": "2017-12-18"
+    },
+    {
+      "name": "La Izquierda Diario Uruguay",
+      "count": 1,
+      "first": "2016-10-25",
+      "last": "2016-10-25"
+    },
+    {
+      "name": "La Pirámide",
+      "count": 1,
+      "first": "2026-04-07",
+      "last": "2026-04-07"
+    },
+    {
+      "name": "ladiaria.com.uy",
+      "count": 1,
+      "first": "2025-09-22",
+      "last": "2025-09-22"
+    },
+    {
+      "name": "lared.cl",
+      "count": 1,
+      "first": "2016-10-12",
+      "last": "2016-10-12"
+    },
+    {
+      "name": "Latino Rebels -",
+      "count": 1,
+      "first": "2022-03-11",
+      "last": "2022-03-11"
+    },
+    {
+      "name": "Macau Business",
+      "count": 1,
+      "first": "2019-10-22",
+      "last": "2019-10-22"
+    },
+    {
+      "name": "Mala Espina",
+      "count": 1,
+      "first": "2024-12-27",
+      "last": "2024-12-27"
+    },
+    {
+      "name": "MercoPress",
+      "count": 1,
+      "first": "2017-03-27",
+      "last": "2017-03-27"
+    },
+    {
+      "name": "Mises Institute",
+      "count": 1,
+      "first": "2019-12-10",
+      "last": "2019-12-10"
+    },
+    {
+      "name": "Montevideo Portal",
+      "count": 1,
+      "first": "2023-03-20",
+      "last": "2023-03-20"
+    },
+    {
+      "name": "News4JAX",
+      "count": 1,
+      "first": "2019-11-04",
+      "last": "2019-11-04"
+    },
+    {
+      "name": "NewsClick",
+      "count": 1,
+      "first": "2019-09-07",
+      "last": "2019-09-07"
+    },
+    {
+      "name": "Newsweek",
+      "count": 1,
+      "first": "2019-12-24",
+      "last": "2019-12-24"
+    },
+    {
+      "name": "Nexofin",
+      "count": 1,
+      "first": "2017-12-22",
+      "last": "2017-12-22"
+    },
+    {
+      "name": "Noticias SIN",
+      "count": 1,
+      "first": "2026-08-06",
+      "last": "2026-08-06"
+    },
+    {
+      "name": "Novara Media",
+      "count": 1,
+      "first": "2019-10-25",
+      "last": "2019-10-25"
+    },
+    {
+      "name": "nytimes.com",
+      "count": 1,
+      "first": "2019-11-18",
+      "last": "2019-11-18"
+    },
+    {
+      "name": "ovejeronoticias.cl",
+      "count": 1,
+      "first": "2018-10-17",
+      "last": "2018-10-17"
+    },
+    {
+      "name": "Página|12",
+      "count": 1,
+      "first": "2023-03-28",
+      "last": "2023-03-28"
+    },
+    {
+      "name": "PBS",
+      "count": 1,
+      "first": "2019-10-20",
+      "last": "2019-10-20"
+    },
+    {
+      "name": "piensaChile",
+      "count": 1,
+      "first": "2017-03-22",
+      "last": "2017-03-22"
+    },
+    {
+      "name": "Política Obrera",
+      "count": 1,
+      "first": "2025-09-30",
+      "last": "2025-09-30"
+    },
+    {
+      "name": "Portal Puente Alto",
+      "count": 1,
+      "first": "2020-12-09",
+      "last": "2020-12-09"
+    },
+    {
+      "name": "Prensa Latina",
+      "count": 1,
+      "first": "2025-03-30",
+      "last": "2025-03-30"
+    },
+    {
+      "name": "Pressenza - International Press Agency",
+      "count": 1,
+      "first": "2015-12-12",
+      "last": "2015-12-12"
+    },
+    {
+      "name": "pulsoslp.com.mx",
+      "count": 1,
+      "first": "2025-03-30",
+      "last": "2025-03-30"
+    },
+    {
+      "name": "qz.com",
+      "count": 1,
+      "first": "2020-07-16",
+      "last": "2020-07-16"
+    },
+    {
+      "name": "Radio Dos Corrientes",
+      "count": 1,
+      "first": "2023-04-06",
+      "last": "2023-04-06"
+    },
+    {
+      "name": "Radio Gol",
+      "count": 1,
+      "first": "2024-09-24",
+      "last": "2024-09-24"
+    },
+    {
+      "name": "Radio JGM",
+      "count": 1,
+      "first": "2024-09-11",
+      "last": "2024-09-11"
+    },
+    {
+      "name": "Reflexión y Liberación",
+      "count": 1,
+      "first": "2016-11-03",
+      "last": "2016-11-03"
+    },
+    {
+      "name": "Resumen.cl",
+      "count": 1,
+      "first": "2025-03-20",
+      "last": "2025-03-20"
+    },
+    {
+      "name": "reutersconnect.com",
+      "count": 1,
+      "first": "2025-04-03",
+      "last": "2025-04-03"
+    },
+    {
+      "name": "Revista Caretas",
+      "count": 1,
+      "first": "2025-09-14",
+      "last": "2025-09-14"
+    },
+    {
+      "name": "RochesterFirst",
+      "count": 1,
+      "first": "2019-10-28",
+      "last": "2019-10-28"
+    },
+    {
+      "name": "RosarioPlus",
+      "count": 1,
+      "first": "2024-09-05",
+      "last": "2024-09-05"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 1,
+      "first": "2019-10-23",
+      "last": "2019-10-23"
+    },
+    {
+      "name": "The Bogotá Post",
+      "count": 1,
+      "first": "2020-02-21",
+      "last": "2020-02-21"
+    },
+    {
+      "name": "The Conversation",
+      "count": 1,
+      "first": "2019-11-11",
+      "last": "2019-11-11"
+    },
+    {
+      "name": "The Independent",
+      "count": 1,
+      "first": "2019-11-30",
+      "last": "2019-11-30"
+    },
+    {
+      "name": "The Militant",
+      "count": 1,
+      "first": "2019-12-09",
+      "last": "2019-12-09"
+    },
+    {
+      "name": "The Nation",
+      "count": 1,
+      "first": "2019-12-10",
+      "last": "2019-12-10"
+    },
+    {
+      "name": "The Nation Newspaper",
+      "count": 1,
+      "first": "2025-11-29",
+      "last": "2025-11-29"
+    },
+    {
+      "name": "The Sun Nigeria",
+      "count": 1,
+      "first": "2025-07-26",
+      "last": "2025-07-26"
+    },
+    {
+      "name": "towardfreedom.org",
+      "count": 1,
+      "first": "2019-11-29",
+      "last": "2019-11-29"
+    },
+    {
+      "name": "Truthout",
+      "count": 1,
+      "first": "2019-11-26",
+      "last": "2019-11-26"
+    },
+    {
+      "name": "Université catholique de Louvain",
+      "count": 1,
+      "first": "2026-08-02",
+      "last": "2026-08-02"
+    },
+    {
+      "name": "VICE",
+      "count": 1,
+      "first": "2019-10-28",
+      "last": "2019-10-28"
+    },
+    {
+      "name": "vietnamnews.vn",
+      "count": 1,
+      "first": "2018-04-23",
+      "last": "2018-04-23"
+    },
+    {
+      "name": "WSJ",
+      "count": 1,
+      "first": "2019-10-27",
+      "last": "2019-10-27"
+    },
+    {
+      "name": "Yeni Safak English",
+      "count": 1,
+      "first": "2019-10-24",
+      "last": "2019-10-24"
+    }
+  ],
+  "firstDate": "2014-11-04",
+  "lastDate": "2026-09-02"
+}

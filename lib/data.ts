@@ -63,3 +63,11 @@ export async function fetchSources(id: string): Promise<Source[]> {
   const data = await fetchJSON<{ sources?: Source[] }>(`${id}/sources.json`);
   return Array.isArray(data?.sources) ? data!.sources : [];
 }
+
+// Coverage older than the live feed slice, fetched only when asked for.
+// Always present (written even when empty), so a 404 here means a real
+// problem rather than an archive-free movement.
+export async function fetchArchivedArticles(id: string): Promise<Article[]> {
+  const data = await fetchJSON<{ articles?: Article[] }>(`${id}/articles-archive.json`);
+  return Array.isArray(data?.articles) ? data!.articles : [];
+}
