@@ -820,12 +820,6 @@
   ],
   "sources": [
     {
-      "name": "The Guardian Nigeria News",
-      "count": 42,
-      "first": "2015-10-02",
-      "last": "2026-06-08"
-    },
-    {
       "name": "Vanguard News",
       "count": 38,
       "first": "2012-03-08",
@@ -856,10 +850,22 @@
       "last": "2026-09-02"
     },
     {
+      "name": "The Guardian",
+      "count": 27,
+      "first": "2012-01-03",
+      "last": "2026-02-12"
+    },
+    {
       "name": "Punch Newspapers",
       "count": 23,
       "first": "2020-09-04",
       "last": "2026-08-19"
+    },
+    {
+      "name": "The Guardian Nigeria News",
+      "count": 23,
+      "first": "2015-10-02",
+      "last": "2026-06-08"
     },
     {
       "name": "PM News Nigeria",
@@ -910,22 +916,16 @@
       "last": "2026-06-04"
     },
     {
-      "name": "THISDAYLIVE",
-      "count": 9,
-      "first": "2023-01-26",
-      "last": "2026-03-11"
-    },
-    {
       "name": "Independent Newspaper Nigeria",
-      "count": 8,
+      "count": 9,
       "first": "2020-09-07",
       "last": "2026-01-29"
     },
     {
-      "name": "The Guardian",
-      "count": 8,
-      "first": "2012-01-03",
-      "last": "2024-09-09"
+      "name": "THISDAYLIVE",
+      "count": 9,
+      "first": "2023-01-26",
+      "last": "2026-03-11"
     },
     {
       "name": "The Whistler Newspaper",
@@ -1196,12 +1196,6 @@
       "count": 1,
       "first": "2012-01-11",
       "last": "2012-01-11"
-    },
-    {
-      "name": "independent.ng",
-      "count": 1,
-      "first": "2026-01-23",
-      "last": "2026-01-23"
     },
     {
       "name": "instagram.com",
