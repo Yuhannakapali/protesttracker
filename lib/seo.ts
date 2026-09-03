@@ -20,11 +20,9 @@ export function absoluteUrl(path: string): string {
   return `${SITE_URL}${path}`;
 }
 
-// Search Console / Bing verification. Set as a build-time environment
-// variable (a repository secret in CI) rather than committed, and rendered
-// only when present — an empty tag verifies nothing.
-export const GOOGLE_SITE_VERIFICATION =
-  process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || '';
+// Search Console ownership is proved by a DNS TXT record on the domain, not
+// by a meta tag, so nothing is emitted here for it. Adding a tag back would
+// only matter if the property were ever recreated as a URL-prefix one.
 
 // Open Graph cards are generated per movement by scripts/og-images.mjs.
 export const DEFAULT_OG_IMAGE = '/og/default.png';

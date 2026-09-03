@@ -4,7 +4,6 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import {
   DEFAULT_OG_IMAGE,
-  GOOGLE_SITE_VERIFICATION,
   OG_IMAGE_HEIGHT,
   OG_IMAGE_WIDTH,
   SITE_DESCRIPTION,
@@ -66,9 +65,6 @@ export default function Layout({
         <title>{fullTitle}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="description" content={metaDescription} />
-        {GOOGLE_SITE_VERIFICATION && (
-          <meta name="google-site-verification" content={GOOGLE_SITE_VERIFICATION} />
-        )}
         {canonical && <link rel="canonical" href={canonical} />}
         <link
           rel="alternate"
