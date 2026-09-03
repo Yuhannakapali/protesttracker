@@ -118,26 +118,58 @@ async function main() {
   const config = JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf8'));
   const state = readState(DISCOVERY_DIR);
 
+  // ---- Tier 1: Wikidata -------------------------------------------------
   const url = `${SPARQL_ENDPOINT}?query=${encodeURIComponent(buildQuery(cutoffIso(LOOKBACK_MONTHS)))}&format=json`;
-  let entities = [];
+  let tier1 = [];
   try {
-    entities = parseBindings(await fetchJson(url));
+    const entities = parseBindings(await fetchJson(url));
     console.log(`Wikidata returned ${entities.length} protest entities.`);
+    tier1 = buildCandidates({ entities, config, state });
   } catch (err) {
     console.warn(`Wikidata query failed: ${err.message}`);
-    console.warn('Leaving the existing candidate queue untouched.');
-    return;
   }
 
-  const candidates = buildCandidates({ entities, config, state });
+  // ---- Tier 2: GDELT ----------------------------------------------------
+  console.log('\nQuerying GDELT (serialized at 6s, this takes a few minutes)...');
+  let tier2 = [];
+  let clusters = state.clusters || {};
+  try {
+    const articles = await fetchMatrix({
+      onProgress: ({ lang, country, count, error }) => {
+        const where = country || 'global';
+        console.log(error ? `  ${lang}/${where}: ${error}` : `  ${lang}/${where}: ${count} articles`);
+      },
+    });
+    console.log(`GDELT returned ${articles.length} articles.`);
+    const res = buildTier2Candidates({ articles, config, state });
+    clusters = res.clusters;
+    // Wikidata wins when both tiers describe the same protest: it carries a
+    // real name and description, which a synthesized cluster name does not.
+    const tier1Countries = new Set(tier1.map((c) => c.country));
+    tier2 = res.candidates.filter((c) => {
+      if (!tier1Countries.has(c.country)) return true;
+      const terms = new Set(c.suggested.strictKeywords);
+      return !tier1.some(
+        (t) => t.country === c.country && t.suggested.strictKeywords.some((k) => terms.has(k)),
+      );
+    });
+  } catch (err) {
+    console.warn(`GDELT pass failed: ${err.message}`);
+  }
+
+  const candidates = [...tier1, ...tier2];
   writeCandidates(DISCOVERY_DIR, candidates);
-  writeState(DISCOVERY_DIR, state);
+  writeState(DISCOVERY_DIR, { ...state, clusters });
 
-  console.log(`\n${candidates.length} candidate(s) for review:`);
+  console.log(`\n${candidates.length} candidate(s) for review ` +
+    `(${tier1.length} wikidata, ${tier2.length} gdelt), ` +
+    `${Object.keys(clusters).length} clusters tracked:`);
   for (const c of candidates) {
-    console.log(`  ${c.key}  ${c.suggested.name}  (${c.country} / ${c.suggested.region || 'region?'})`);
+    const mark = c.source === 'gdelt' ? '~' : ' ';
+    console.log(` ${mark} ${c.key}  ${c.suggested.name}  (${c.country} / ${c.suggested.region || 'region?'})`);
   }
-  console.log(`\nPromote one with:  npm run promote -- <key>`);
+  console.log(`\n~ = low confidence, synthesized name — rename before promoting.`);
+  console.log(`Promote one with:  npm run promote -- <key>`);
 }
 
 // Only run the network path when executed directly, so tests can import
