@@ -132,6 +132,7 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
       title={movement?.name}
       description={movement?.description}
       path={canonicalPath}
+      feed={`/movements/${id}/feed`}
       jsonLd={
         movement
           ? [

@@ -31,3 +31,12 @@ next-env.d.ts
 
 # generated at build time by scripts/sitemap.mjs
 /public/sitemap.xml
+
+# generated at build time by scripts/feeds.mjs
+/public/feed.xml
+/public/feed.json
+/public/movements/
+
+# generated at build time by scripts/search-index.mjs
+/public/data/search-index.json
+/public/data/search-urls.json

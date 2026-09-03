@@ -17,11 +17,24 @@ interface Props {
   path?: string;
   /** JSON-LD structured data, serialised into a script tag in <head>. */
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+  /**
+   * Path prefix of this page's syndication feeds, without the extension —
+   * "/feed" resolves to /feed.xml and /feed.json. Movement pages point at
+   * their own feed so a reader subscribing from that page follows only it.
+   */
+  feed?: string;
 }
 
 const BASE_TITLE = SITE_NAME;
 
-export default function Layout({ children, title, description, path, jsonLd }: Props) {
+export default function Layout({
+  children,
+  title,
+  description,
+  path,
+  jsonLd,
+  feed = '/feed',
+}: Props) {
   const fullTitle = title ? `${title} · ${BASE_TITLE}` : BASE_TITLE;
   const metaDescription = description || SITE_DESCRIPTION;
   const canonical = path ? absoluteUrl(path) : null;
@@ -33,6 +46,18 @@ export default function Layout({ children, title, description, path, jsonLd }: P
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="description" content={metaDescription} />
         {canonical && <link rel="canonical" href={canonical} />}
+        <link
+          rel="alternate"
+          type="application/rss+xml"
+          title={`${fullTitle} (RSS)`}
+          href={absoluteUrl(`${feed}.xml`)}
+        />
+        <link
+          rel="alternate"
+          type="application/feed+json"
+          title={`${fullTitle} (JSON Feed)`}
+          href={absoluteUrl(`${feed}.json`)}
+        />
 
         <meta property="og:site_name" content={SITE_NAME} />
         <meta property="og:type" content="website" />
@@ -55,7 +80,7 @@ export default function Layout({ children, title, description, path, jsonLd }: P
       <main id="main" className="page">
         {children}
       </main>
-      <Footer />
+      <Footer feed={feed} />
     </>
   );
 }

@@ -24,6 +24,7 @@ const SITE_URL = 'https://protesttracker.net';
 const STATIC_PAGES = [
   { path: '/', priority: '1.0', changefreq: 'hourly' },
   { path: '/archive/', priority: '0.8', changefreq: 'daily' },
+  { path: '/search/', priority: '0.5', changefreq: 'daily' },
   { path: '/about/', priority: '0.3', changefreq: 'monthly' },
 ];
 

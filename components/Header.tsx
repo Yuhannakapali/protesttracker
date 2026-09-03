@@ -1,19 +1,13 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import ThemeToggle from '@/components/ThemeToggle';
-import { fetchMovements, fetchArticles } from '@/lib/data';
-import type { Article, Movement } from '@/lib/types';
+import { loadSearchIndex, search } from '@/lib/search';
+import type { SearchIndex } from '@/lib/search';
 
-interface ArticleHit extends Article {
-  movementId: string;
-  movementName: string;
-}
-
-interface SearchIndex {
-  movements: Movement[];
-  articles: ArticleHit[];
-}
+// The dropdown is a preview, not the results page: enough to recognise the
+// thing you were looking for, with /search/ one keystroke away.
+const PREVIEW_HITS = 6;
 
 const NAV = [
   { href: '/', label: 'Home' },
@@ -29,22 +23,13 @@ export default function Header() {
   const [loading, setLoading] = useState(false);
   const boxRef = useRef<HTMLDivElement>(null);
 
-  // Build the search index lazily on first focus.
+  // Pull the prebuilt index on first focus. It carries no article URLs, so
+  // this costs a fraction of what loading every movement's feed did.
   const ensureIndex = async () => {
     if (index || loading) return;
     setLoading(true);
-    const { movements } = await fetchMovements();
-    const lists = await Promise.all(
-      movements.map(async (m) => {
-        const articles = await fetchArticles(m.id);
-        return articles.map<ArticleHit>((a) => ({
-          ...a,
-          movementId: m.id,
-          movementName: m.name,
-        }));
-      }),
-    );
-    setIndex({ movements, articles: lists.flat() });
+    const loaded = await loadSearchIndex();
+    setIndex(loaded);
     setLoading(false);
   };
 
@@ -67,30 +52,18 @@ export default function Header() {
     return () => router.events.off('routeChangeComplete', done);
   }, [router.events]);
 
-  const q = query.trim().toLowerCase();
-  const movementHits = q && index
-    ? index.movements
-        .filter(
-          (m) =>
-            m.name.toLowerCase().includes(q) ||
-            m.location.toLowerCase().includes(q) ||
-            m.description.toLowerCase().includes(q),
-        )
-        .slice(0, 6)
-    : [];
-  const articleHits = q && index
-    ? index.articles
-        .filter(
-          (a) =>
-            a.title.toLowerCase().includes(q) ||
-            a.source.toLowerCase().includes(q) ||
-            a.excerpt.toLowerCase().includes(q),
-        )
-        .slice(0, 6)
-    : [];
+  const q = query.trim();
+  const results = useMemo(() => search(index, q, PREVIEW_HITS), [index, q]);
+  const movementHits = results.movements.slice(0, PREVIEW_HITS);
+  const articleHits = results.articles;
 
   const showResults = open && q.length > 0;
   const hasHits = movementHits.length > 0 || articleHits.length > 0;
+
+  const goToResults = () => {
+    setOpen(false);
+    router.push(`/search/?q=${encodeURIComponent(q)}`);
+  };
 
   return (
     <header className="site-header">
@@ -102,21 +75,29 @@ export default function Header() {
         </Link>
 
         <div className="header-search" ref={boxRef}>
-          <span className="header-search__glyph" aria-hidden="true">⌕</span>
-          <input
-            type="search"
-            value={query}
-            placeholder="Search movements and articles"
-            aria-label="Search movements and articles"
-            onFocus={() => {
-              ensureIndex();
-              setOpen(true);
+          <form
+            role="search"
+            onSubmit={(e) => {
+              e.preventDefault();
+              if (q) goToResults();
             }}
-            onChange={(e) => {
-              setQuery(e.target.value);
-              setOpen(true);
-            }}
-          />
+          >
+            <span className="header-search__glyph" aria-hidden="true">⌕</span>
+            <input
+              type="search"
+              value={query}
+              placeholder="Search movements and articles"
+              aria-label="Search movements and articles"
+              onFocus={() => {
+                ensureIndex();
+                setOpen(true);
+              }}
+              onChange={(e) => {
+                setQuery(e.target.value);
+                setOpen(true);
+              }}
+            />
+          </form>
           {showResults && (
             <div className="search-results" role="listbox" aria-label="Search results">
               {!index && loading && (
@@ -139,15 +120,23 @@ export default function Header() {
               {articleHits.length > 0 && (
                 <div className="search-results__group">
                   <div className="search-results__label">Articles</div>
-                  {articleHits.map((a, i) => (
-                    <a key={i} href={a.url} target="_blank" rel="noopener noreferrer">
+                  {articleHits.map((a) => (
+                    <Link key={a.ref} href={`/search/?q=${encodeURIComponent(q)}`}>
                       {a.title}
                       <small>
-                        {a.source} · {a.movementName}
+                        {a.source} · {a.movement.name}
                       </small>
-                    </a>
+                    </Link>
                   ))}
                 </div>
+              )}
+              {hasHits && (
+                <button type="button" className="search-results__all" onClick={goToResults}>
+                  {results.total > articleHits.length
+                    ? `See all ${results.total} articles`
+                    : 'Open in search'}
+                  <span aria-hidden="true"> →</span>
+                </button>
               )}
             </div>
           )}
