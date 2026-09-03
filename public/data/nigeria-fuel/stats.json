@@ -715,7 +715,7 @@
     },
     {
       "start": "2024-08-01",
-      "count": 12
+      "count": 13
     },
     {
       "start": "2024-09-01",
@@ -779,7 +779,7 @@
     },
     {
       "start": "2025-12-01",
-      "count": 19
+      "count": 20
     },
     {
       "start": "2026-01-01",
@@ -839,7 +839,7 @@
     },
     {
       "name": "Premium Times Nigeria",
-      "count": 33,
+      "count": 34,
       "first": "2013-04-18",
       "last": "2026-02-02"
     },
@@ -916,21 +916,27 @@
       "last": "2026-01-29"
     },
     {
+      "name": "Reuters",
+      "count": 9,
+      "first": "2012-01-10",
+      "last": "2026-07-22"
+    },
+    {
       "name": "THISDAYLIVE",
       "count": 9,
       "first": "2023-01-26",
       "last": "2026-03-11"
     },
     {
-      "name": "Reuters",
-      "count": 8,
-      "first": "2012-01-10",
-      "last": "2026-07-22"
-    },
-    {
       "name": "The Whistler Newspaper",
       "count": 8,
       "first": "2020-09-04",
+      "last": "2026-06-03"
+    },
+    {
+      "name": "The Nation Newspaper",
+      "count": 7,
+      "first": "2022-01-10",
       "last": "2026-06-03"
     },
     {
@@ -956,12 +962,6 @@
       "count": 5,
       "first": "2012-01-03",
       "last": "2024-06-03"
-    },
-    {
-      "name": "thenationonlineng.net",
-      "count": 5,
-      "first": "2022-01-10",
-      "last": "2026-06-03"
     },
     {
       "name": "VOA - Voice of America English News",
@@ -1072,12 +1072,6 @@
       "last": "2026-02-03"
     },
     {
-      "name": "The Nation Newspaper",
-      "count": 2,
-      "first": "2024-09-08",
-      "last": "2026-02-03"
-    },
-    {
       "name": "thesun.ng",
       "count": 2,
       "first": "2026-05-01",
@@ -1126,7 +1120,7 @@
       "last": "2020-09-10"
     },
     {
-      "name": "BellaNaija",
+      "name": "bellanaija.com",
       "count": 1,
       "first": "2021-03-12",
       "last": "2021-03-12"
@@ -1162,7 +1156,7 @@
       "last": "2026-08-19"
     },
     {
-      "name": "firstpost.com",
+      "name": "Firstpost",
       "count": 1,
       "first": "2024-02-15",
       "last": "2024-02-15"
