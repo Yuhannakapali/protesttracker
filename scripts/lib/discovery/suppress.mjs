@@ -11,7 +11,7 @@ const GENERIC = new Set([
 function terms(text) {
   return String(text || '')
     .normalize('NFD')
-    .replace(/[̀-ͯ]/g, '')
+    .replace(/[\u0300-\u036f]/g, '')
     .toLowerCase()
     .replace(/\b(19|20)\d{2}\b/g, ' ')
     .split(/[^a-z0-9]+/)
