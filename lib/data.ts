@@ -6,6 +6,7 @@
 import type {
   Article,
   BackgroundBlock,
+  Brief,
   LegalCase,
   MovementsIndex,
   Source,
@@ -62,6 +63,13 @@ export async function fetchLegal(id: string): Promise<LegalCase[]> {
 export async function fetchSources(id: string): Promise<Source[]> {
   const data = await fetchJSON<{ sources?: Source[] }>(`${id}/sources.json`);
   return Array.isArray(data?.sources) ? data!.sources : [];
+}
+
+// The curated brief. Absent for movements that have not been written up
+// yet, which the page renders as simply not having that section.
+export async function fetchBrief(id: string): Promise<Brief> {
+  const data = await fetchJSON<Partial<Brief>>(`${id}/brief.json`);
+  return { summary: data?.summary || '', faq: Array.isArray(data?.faq) ? data!.faq! : [] };
 }
 
 // Coverage older than the live feed slice, fetched only when asked for.

@@ -15,6 +15,7 @@ import path from 'node:path';
 import type {
   Article,
   BackgroundBlock,
+  Brief,
   LegalCase,
   MovementStats,
   MovementsIndex,
@@ -55,6 +56,11 @@ export function readLegal(id: string): LegalCase[] {
 
 export function readSources(id: string): Source[] {
   return readJson<{ sources?: Source[] }>(`${id}/sources.json`, {}).sources || [];
+}
+
+export function readBrief(id: string): Brief {
+  const data = readJson<Partial<Brief>>(`${id}/brief.json`, {});
+  return { summary: data.summary || '', faq: Array.isArray(data.faq) ? data.faq : [] };
 }
 
 export function readStats(id: string): MovementStats {

@@ -68,6 +68,20 @@ function main() {
         priority: p.priority,
       }),
     ),
+    // One hub per region present in the data, matching pages/regions/[region].
+    ...Array.from(new Set(movements.map((m) => m.region).filter(Boolean)))
+      .sort()
+      .map((region) =>
+        urlEntry({
+          loc: `${SITE_URL}/regions/${region
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, '-')
+            .replace(/^-|-$/g, '')}/`,
+          lastmod: indexDate,
+          changefreq: 'daily',
+          priority: '0.7',
+        }),
+      ),
     ...movements.map((m) =>
       urlEntry({
         loc: `${SITE_URL}/movements/${m.id}/`,

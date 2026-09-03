@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import Link from 'next/link';
 import { useRouter } from 'next/router';
 import type { GetStaticPaths, GetStaticProps } from 'next';
 import Layout from '@/components/Layout';
@@ -7,16 +8,20 @@ import LiveDot from '@/components/LiveDot';
 import MovementFeed from '@/components/MovementFeed';
 import CoverageChart from '@/components/CoverageChart';
 import SourceTallyList from '@/components/SourceTally';
+import KeyFacts from '@/components/KeyFacts';
+import RelatedMovements from '@/components/RelatedMovements';
 import { SkeletonLines } from '@/components/Skeleton';
 import {
   fetchMovements,
   fetchArticles,
   fetchArchivedArticles,
+  fetchBrief,
   fetchTimeline,
   fetchBackground,
   fetchLegal,
   fetchSources,
 } from '@/lib/data';
+import { regionSlug } from '@/lib/regions';
 import { isActiveStatus } from '@/lib/status';
 import { longDate } from '@/lib/dates';
 import { useActiveSection } from '@/lib/useActiveSection';
@@ -34,6 +39,7 @@ import {
 import type {
   Article,
   BackgroundBlock,
+  Brief,
   LegalCase,
   Movement,
   MovementStats,
@@ -42,11 +48,13 @@ import type {
 } from '@/lib/types';
 
 const SECTIONS = [
+  { id: 'overview', label: 'Overview' },
   { id: 'coverage', label: 'Coverage' },
   { id: 'feed', label: 'Live Feed' },
   { id: 'timeline', label: 'Timeline' },
   { id: 'background', label: 'Background' },
   { id: 'legal', label: 'Legal Tracker' },
+  { id: 'questions', label: 'Questions' },
   { id: 'sources', label: 'Sources' },
 ];
 
@@ -68,7 +76,10 @@ const SCHEMA_ARTICLE_LIMIT = 20;
 
 interface Bundle {
   movement: Movement | null;
+  /** The whole index, for cross-linking to sibling movements. */
+  allMovements: Movement[];
   stats: MovementStats;
+  brief: Brief;
   articles: Article[];
   timeline: TimelineEvent[];
   background: BackgroundBlock[];
@@ -101,14 +112,17 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
       fetchBackground(id),
       fetchLegal(id),
       fetchSources(id),
-    ]).then(([index, articles, timeline, background, legal, sources]) => {
+      fetchBrief(id),
+    ]).then(([index, articles, timeline, background, legal, sources, brief]) => {
       if (!alive) return;
       const movement = index.movements.find((m) => m.id === id) || null;
       // stats.json is regenerated on the same schedule as the page, so the
       // build-time copy is never staler than the rest of the page.
       setData((prev) => ({
         movement,
+        allMovements: index.movements,
         stats: prev?.stats || initialBundle.stats,
+        brief,
         articles,
         timeline,
         background,
@@ -135,6 +149,8 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
   const movement = data?.movement || null;
   const active = movement ? isActiveStatus(movement.status) : false;
   const stats = data?.stats || initialBundle.stats;
+  const brief = data?.brief || initialBundle.brief;
+  const allMovements = data?.allMovements || initialBundle.allMovements;
   const title = movement?.name || 'Movement';
 
   // The live slice, plus the older coverage once the reader has asked for it.
@@ -214,6 +230,19 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
                 },
               },
               { '@context': 'https://schema.org', ...ORGANIZATION },
+              ...(brief.faq.length > 0
+                ? [
+                    {
+                      '@context': 'https://schema.org',
+                      '@type': 'FAQPage',
+                      mainEntity: brief.faq.map((item) => ({
+                        '@type': 'Question',
+                        name: item.q,
+                        acceptedAnswer: { '@type': 'Answer', text: item.a },
+                      })),
+                    },
+                  ]
+                : []),
               {
                 '@context': 'https://schema.org',
                 '@type': 'BreadcrumbList',
@@ -255,7 +284,13 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
               </h1>
               <p className="lede">{movement.description}</p>
               <p className="count-line" style={{ marginTop: 14, gap: 16 }}>
-                <span>{movement.location}</span>
+                <span>
+                  <Link className="mv-region" href={`/regions/${regionSlug(movement.region)}/`}>
+                    {movement.region}
+                  </Link>
+                  {' · '}
+                  {movement.location}
+                </span>
                 <span>·</span>
                 <span>{movement.articleCount} articles</span>
                 <span>·</span>
@@ -286,6 +321,16 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
           </div>
         ) : (
           <>
+            <section id="overview" className="mv-section">
+              <div className="mv-section__head">
+                <h2>Overview</h2>
+              </div>
+              {data!.brief.summary && (
+                <p className="mv-summary">{data!.brief.summary}</p>
+              )}
+              <KeyFacts movement={movement} stats={stats} />
+            </section>
+
             <section id="coverage" className="mv-section">
               <div className="mv-section__head">
                 <h2>Coverage</h2>
@@ -411,6 +456,28 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
               )}
             </section>
 
+            <section id="questions" className="mv-section">
+              <div className="mv-section__head">
+                <h2>Questions</h2>
+              </div>
+              {data!.brief.faq.length > 0 ? (
+                <div className="faq">
+                  {data!.brief.faq.map((item) => (
+                    <details className="faq__item" key={item.q}>
+                      <summary>
+                        <h3>{item.q}</h3>
+                      </summary>
+                      <p>{item.a}</p>
+                    </details>
+                  ))}
+                </div>
+              ) : (
+                <div className="empty-state">
+                  Common questions for this movement have not been written up yet.
+                </div>
+              )}
+            </section>
+
             <section id="sources" className="mv-section">
               <div className="mv-section__head">
                 <h2>Sources</h2>
@@ -430,6 +497,8 @@ export default function MovementPage({ id, initialBundle }: PageProps) {
                   article has been logged — unlike the curated list above. */}
               <SourceTallyList sources={data!.stats.sources} />
             </section>
+
+            <RelatedMovements current={movement} movements={allMovements} />
           </>
         )}
       </div>
@@ -459,7 +528,9 @@ export const getStaticProps: GetStaticProps<PageProps> = async ({ params }) => {
       id,
       initialBundle: {
         movement: server.readMovements().movements.find((m) => m.id === id) || null,
+        allMovements: server.readMovements().movements,
         stats: server.readStats(id),
+        brief: server.readBrief(id),
         articles: server.readArticles(id).slice(0, PRERENDER_ARTICLE_LIMIT),
         timeline: server.readTimeline(id),
         background: server.readBackground(id),

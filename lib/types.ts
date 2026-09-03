@@ -85,3 +85,16 @@ export interface Source {
   type: string;
   note: string;
 }
+
+// Optional per-movement editorial layer: the plain-language summary a reader
+// (or an answer engine) needs before the chart and the feed make sense, plus
+// the questions that summary leaves open. Curated, never aggregated.
+export interface BriefQuestion {
+  q: string;
+  a: string;
+}
+
+export interface Brief {
+  summary: string;
+  faq: BriefQuestion[];
+}

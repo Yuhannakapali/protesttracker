@@ -7,6 +7,7 @@ import LiveDot from '@/components/LiveDot';
 import { SkeletonCards } from '@/components/Skeleton';
 import { fetchMovements } from '@/lib/data';
 import { byRecencyDesc } from '@/lib/sort';
+import { regionSlug, regionsOf } from '@/lib/regions';
 import { isActiveStatus } from '@/lib/status';
 import { useFirstLoad } from '@/lib/useFirstLoad';
 import { ORGANIZATION, SITE_DESCRIPTION, SITE_NAME, SITE_URL } from '@/lib/seo';
@@ -35,6 +36,7 @@ export default function Home({ initialMovements }: PageProps) {
   const active = (movements || []).filter((m) => isActiveStatus(m.status)).sort(byRecencyDesc);
   const archived = (movements || []).filter((m) => !isActiveStatus(m.status)).sort(byRecencyDesc);
   const count = active.length;
+  const regions = regionsOf(movements || []);
 
   return (
     <Layout
@@ -90,7 +92,15 @@ export default function Home({ initialMovements }: PageProps) {
                   <MovementCard key={m.id} movement={m} showHeadlines />
                 ))}
               </div>
-              <p style={{ marginTop: 32 }}>
+              <div className="region-row">
+                <span className="region-row__label">Browse by region</span>
+                {regions.map((r) => (
+                  <Link key={r} href={`/regions/${regionSlug(r)}/`} className="chip">
+                    {r}
+                  </Link>
+                ))}
+              </div>
+              <p style={{ marginTop: 24 }}>
                 <Link href="/archive/" className="mono">
                   Browse the full archive →
                 </Link>
