@@ -27,7 +27,14 @@ function mentionsCountry(cfg, country) {
   return hay.includes(String(country || '').toLowerCase());
 }
 
-export function findTrackedMatch(entity, config) {
+// `minShared` guards against over-suppression. One shared word is enough for
+// a Wikidata entity, whose name is short and specific. A GDELT cluster
+// accumulates terms from many headlines, so a single overlap is too loose:
+// an unrelated Kerala student march was suppressed as india-cjp purely
+// because both mention "student". Hiding a real movement is worse than
+// proposing a duplicate — a reviewer can reject a duplicate, but never sees
+// what was silently withheld.
+export function findTrackedMatch(entity, config, { minShared = 1 } = {}) {
   const entityTerms = new Set(terms(entity.name));
   if (entityTerms.size === 0) return null;
   for (const [id, cfg] of Object.entries(config || {})) {
@@ -36,8 +43,10 @@ export function findTrackedMatch(entity, config) {
       ...terms((cfg.keywords || []).join(' ')),
       ...terms((cfg.strictKeywords || []).join(' ')),
     ]);
+    let shared = 0;
     for (const t of entityTerms) {
-      if (configTerms.has(t)) return id;
+      if (configTerms.has(t)) shared += 1;
+      if (shared >= minShared) return id;
     }
   }
   return null;

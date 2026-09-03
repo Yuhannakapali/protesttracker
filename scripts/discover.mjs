@@ -85,7 +85,10 @@ export function buildTier2Candidates({ articles, config, state, nowMs = Date.now
     if (!isGraduated(cluster)) continue;
     const key = `gd-${cluster.id}`;
     if (state.promoted.includes(key) || state.rejected.includes(key)) continue;
-    if (findTrackedMatch({ name: cluster.terms.join(' '), country: cluster.country }, config)) continue;
+    // Match on the cluster's headlines as well as its terms, and require two
+    // overlaps: one is too loose for a term set this large.
+    const haystack = [...cluster.terms, ...(cluster.samples || []).map((s) => s.title)].join(' ');
+    if (findTrackedMatch({ name: haystack, country: cluster.country }, config, { minShared: 2 })) continue;
     const suggested = buildSuggestion(clusterToEntity(cluster), [...seen]);
     seen.add(suggested.id);
     candidates.push({

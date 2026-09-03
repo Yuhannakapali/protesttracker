@@ -5,8 +5,8 @@ import { findTrackedMatch } from '../../scripts/lib/discovery/suppress.mjs';
 const config = {
   'india-cjp': {
     name: 'CJP Protests', location: 'Delhi, India', region: 'Asia',
-    keywords: ['NEET', 'Jantar Mantar', 'CJP'],
-    strictKeywords: ['jantar mantar', 'neet', 'paper leak'],
+    keywords: ['NEET', 'Jantar Mantar', 'CJP', 'student protest'],
+    strictKeywords: ['jantar mantar', 'neet', 'paper leak', 'student protest'],
   },
   'kenya-finance': {
     name: 'Kenya Finance Bill Protests', location: 'Nairobi, Kenya', region: 'Africa',
@@ -34,4 +34,17 @@ test('returns null for a genuinely new movement', () => {
 test('ignores generic protest vocabulary when matching', () => {
   // "protests" alone must never match an existing movement.
   assert.equal(findTrackedMatch(entity('2026 Mumbai protests', 'India'), config), null);
+});
+
+test('minShared guards against over-suppression on a single common word', () => {
+  // A Kerala student march shares only "student" with india-cjp. One overlap
+  // suppressed it; requiring two correctly lets it through.
+  const kerala = entity('SFI stages Secretariat March student union Thiruvananthapuram', 'India');
+  assert.equal(findTrackedMatch(kerala, config), 'india-cjp');
+  assert.equal(findTrackedMatch(kerala, config, { minShared: 2 }), null);
+});
+
+test('a genuine match still suppresses at minShared 2', () => {
+  const real = entity('Jantar Mantar NEET paper leak protest', 'India');
+  assert.equal(findTrackedMatch(real, config, { minShared: 2 }), 'india-cjp');
 });
