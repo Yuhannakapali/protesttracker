@@ -35,7 +35,7 @@
     },
     {
       "start": "2024-06-01",
-      "count": 55
+      "count": 56
     },
     {
       "start": "2024-07-01",
@@ -151,7 +151,7 @@
     },
     {
       "name": "Daily Nation",
-      "count": 32,
+      "count": 34,
       "first": "2024-06-19",
       "last": "2026-06-27"
     },
@@ -163,7 +163,7 @@
     },
     {
       "name": "peopledaily.digital",
-      "count": 25,
+      "count": 26,
       "first": "2026-03-27",
       "last": "2026-08-27"
     },
@@ -180,16 +180,16 @@
       "last": "2026-06-25"
     },
     {
-      "name": "People Daily",
-      "count": 16,
-      "first": "2026-03-01",
-      "last": "2026-06-25"
-    },
-    {
       "name": "the-star.co.ke",
       "count": 16,
       "first": "2024-12-31",
       "last": "2026-06-29"
+    },
+    {
+      "name": "People Daily",
+      "count": 15,
+      "first": "2026-03-01",
+      "last": "2026-06-25"
     },
     {
       "name": "The Eastleigh Voice",
@@ -198,16 +198,16 @@
       "last": "2026-08-27"
     },
     {
+      "name": "World Socialist Web Site",
+      "count": 10,
+      "first": "2025-06-25",
+      "last": "2026-07-07"
+    },
+    {
       "name": "dw.com",
       "count": 9,
       "first": "2024-06-21",
       "last": "2026-06-25"
-    },
-    {
-      "name": "World Socialist Web Site",
-      "count": 9,
-      "first": "2025-06-25",
-      "last": "2026-07-07"
     },
     {
       "name": "Kenyans.co.ke",
@@ -216,10 +216,10 @@
       "last": "2026-07-28"
     },
     {
-      "name": "The Kenya Times",
-      "count": 8,
-      "first": "2024-06-24",
-      "last": "2026-08-27"
+      "name": "The EastAfrican",
+      "count": 7,
+      "first": "2024-06-18",
+      "last": "2026-06-21"
     },
     {
       "name": "VOA - Voice of America English News",
@@ -232,12 +232,6 @@
       "count": 6,
       "first": "2026-04-04",
       "last": "2026-08-04"
-    },
-    {
-      "name": "nation.africa",
-      "count": 6,
-      "first": "2026-05-21",
-      "last": "2026-07-03"
     },
     {
       "name": "RFI",
@@ -264,16 +258,16 @@
       "last": "2026-06-25"
     },
     {
-      "name": "Context News",
-      "count": 5,
-      "first": "2024-06-26",
-      "last": "2025-07-03"
-    },
-    {
       "name": "France 24",
       "count": 5,
       "first": "2024-06-26",
       "last": "2026-06-25"
+    },
+    {
+      "name": "thekenyatimes.com",
+      "count": 5,
+      "first": "2024-06-24",
+      "last": "2026-08-27"
     },
     {
       "name": "allAfrica.com",
@@ -282,16 +276,16 @@
       "last": "2026-08-28"
     },
     {
-      "name": "Kenya Human Rights Commission (KHRC)",
+      "name": "Context News",
       "count": 4,
-      "first": "2024-06-24",
-      "last": "2026-01-05"
+      "first": "2024-06-26",
+      "last": "2025-06-25"
     },
     {
-      "name": "theeastafrican.co.ke",
+      "name": "nation.africa",
       "count": 4,
-      "first": "2025-05-03",
-      "last": "2026-06-21"
+      "first": "2026-06-16",
+      "last": "2026-07-03"
     },
     {
       "name": "ACLED",
@@ -324,12 +318,6 @@
       "last": "2024-07-30"
     },
     {
-      "name": "Human Rights Watch",
-      "count": 3,
-      "first": "2024-11-05",
-      "last": "2025-06-26"
-    },
-    {
       "name": "MalindiKenya.net",
       "count": 3,
       "first": "2024-07-22",
@@ -348,10 +336,10 @@
       "last": "2025-07-09"
     },
     {
-      "name": "The EastAfrican",
+      "name": "The Kenya Times",
       "count": 3,
-      "first": "2024-06-18",
-      "last": "2025-06-24"
+      "first": "2025-08-08",
+      "last": "2026-08-26"
     },
     {
       "name": "The Kenyan Wallstreet",
@@ -396,10 +384,40 @@
       "last": "2026-06-27"
     },
     {
+      "name": "cnbcafrica.com",
+      "count": 2,
+      "first": "2024-06-27",
+      "last": "2025-07-04"
+    },
+    {
+      "name": "hrw.org",
+      "count": 2,
+      "first": "2024-11-05",
+      "last": "2024-11-25"
+    },
+    {
+      "name": "IOL",
+      "count": 2,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "Kenya Human Rights Commission (KHRC)",
+      "count": 2,
+      "first": "2024-06-24",
+      "last": "2024-06-28"
+    },
+    {
       "name": "Kenya News Agency",
       "count": 2,
       "first": "2026-04-24",
       "last": "2026-06-25"
+    },
+    {
+      "name": "khrc.or.ke",
+      "count": 2,
+      "first": "2025-09-20",
+      "last": "2026-01-05"
     },
     {
       "name": "NTV Kenya",
@@ -426,7 +444,7 @@
       "last": "2024-06-20"
     },
     {
-      "name": "Afrobarometer",
+      "name": "afrobarometer.org",
       "count": 1,
       "first": "2026-02-16",
       "last": "2026-02-16"
@@ -450,22 +468,16 @@
       "last": "2024-07-19"
     },
     {
-      "name": "bloomberg.com",
+      "name": "Bloomberg.com",
       "count": 1,
       "first": "2026-05-05",
       "last": "2026-05-05"
     },
     {
-      "name": "Brookings",
+      "name": "brookings.edu",
       "count": 1,
       "first": "2026-04-07",
       "last": "2026-04-07"
-    },
-    {
-      "name": "Business and Human Rights Centre",
-      "count": 1,
-      "first": "2025-06-25",
-      "last": "2025-06-25"
     },
     {
       "name": "Business Today Kenya",
@@ -474,10 +486,22 @@
       "last": "2026-08-26"
     },
     {
+      "name": "business-humanrights.org",
+      "count": 1,
+      "first": "2025-06-25",
+      "last": "2025-06-25"
+    },
+    {
       "name": "Chatham House",
       "count": 1,
       "first": "2024-08-01",
       "last": "2024-08-01"
+    },
+    {
+      "name": "christiandaily.com",
+      "count": 1,
+      "first": "2026-06-15",
+      "last": "2026-06-15"
     },
     {
       "name": "Civicus Monitor",
@@ -498,16 +522,10 @@
       "last": "2024-06-27"
     },
     {
-      "name": "Daily Maverick",
+      "name": "dailymaverick.co.za",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
-    },
-    {
-      "name": "eNCA",
-      "count": 1,
-      "first": "2026-06-26",
-      "last": "2026-06-26"
     },
     {
       "name": "Friedrich-Naumann-Stiftung für die Freiheit",
@@ -522,7 +540,7 @@
       "last": "2025-11-10"
     },
     {
-      "name": "Global Bar Magazine",
+      "name": "globalbar.se",
       "count": 1,
       "first": "2026-06-24",
       "last": "2026-06-24"
@@ -532,6 +550,12 @@
       "count": 1,
       "first": "2026-06-20",
       "last": "2026-06-20"
+    },
+    {
+      "name": "Human Rights Watch",
+      "count": 1,
+      "first": "2025-06-26",
+      "last": "2025-06-26"
     },
     {
       "name": "ICJ Kenya",
@@ -558,12 +582,6 @@
       "last": "2025-07-23"
     },
     {
-      "name": "IOL",
-      "count": 1,
-      "first": "2026-06-25",
-      "last": "2026-06-25"
-    },
-    {
       "name": "ISS Africa",
       "count": 1,
       "first": "2025-04-01",
@@ -576,7 +594,7 @@
       "last": "2025-09-20"
     },
     {
-      "name": "jurist.org",
+      "name": "Jurist.org",
       "count": 1,
       "first": "2025-06-13",
       "last": "2025-06-13"
@@ -606,7 +624,7 @@
       "last": "2026-06-25"
     },
     {
-      "name": "Peace Brigades International-Canada",
+      "name": "pbicanada.org",
       "count": 1,
       "first": "2025-05-22",
       "last": "2025-05-22"
@@ -642,7 +660,7 @@
       "last": "2026-05-27"
     },
     {
-      "name": "Techweez",
+      "name": "techweez.com",
       "count": 1,
       "first": "2024-06-20",
       "last": "2024-06-20"
@@ -718,18 +736,6 @@
       "count": 1,
       "first": "2024-07-10",
       "last": "2024-07-10"
-    },
-    {
-      "name": "wsws.org",
-      "count": 1,
-      "first": "2026-03-02",
-      "last": "2026-03-02"
-    },
-    {
-      "name": "www.christiandaily.com",
-      "count": 1,
-      "first": "2026-06-15",
-      "last": "2026-06-15"
     },
     {
       "name": "معهد الجزيرة للإعلام",

@@ -820,12 +820,6 @@
   ],
   "sources": [
     {
-      "name": "The Guardian Nigeria News",
-      "count": 44,
-      "first": "2015-10-02",
-      "last": "2026-06-08"
-    },
-    {
       "name": "Vanguard News",
       "count": 38,
       "first": "2012-03-08",
@@ -856,10 +850,22 @@
       "last": "2026-09-02"
     },
     {
+      "name": "The Guardian",
+      "count": 27,
+      "first": "2012-01-03",
+      "last": "2026-02-12"
+    },
+    {
       "name": "Punch Newspapers",
       "count": 23,
       "first": "2020-09-04",
       "last": "2026-08-19"
+    },
+    {
+      "name": "The Guardian Nigeria News",
+      "count": 23,
+      "first": "2015-10-02",
+      "last": "2026-06-08"
     },
     {
       "name": "PM News Nigeria",
@@ -944,12 +950,6 @@
       "count": 6,
       "first": "2012-01-10",
       "last": "2026-05-19"
-    },
-    {
-      "name": "The Guardian",
-      "count": 6,
-      "first": "2012-01-03",
-      "last": "2012-01-16"
     },
     {
       "name": "TVC News",
