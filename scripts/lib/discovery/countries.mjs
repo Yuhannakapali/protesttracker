@@ -10,12 +10,15 @@ const COUNTRIES = {
   Tanzania: ['Africa', 'TZ'], Zimbabwe: ['Africa', 'ZW'], Malawi: ['Africa', 'MW'],
   Cameroon: ['Africa', 'CM'], Mozambique: ['Africa', 'MZ'], Tunisia: ['Africa', 'TN'],
   Morocco: ['Africa', 'MA'], Algeria: ['Africa', 'DZ'], Egypt: ['Africa', 'EG'],
+  Mali: ['Africa', 'ML'], Togo: ['Africa', 'TG'], Madagascar: ['Africa', 'MG'],
+  Angola: ['Africa', 'AO'], Zambia: ['Africa', 'ZM'], Somalia: ['Africa', 'SO'],
   // Americas
   'United States': ['Americas', 'US'], Canada: ['Americas', 'CA'], Mexico: ['Americas', 'MX'],
   Brazil: ['Americas', 'BR'], Argentina: ['Americas', 'AR'], Chile: ['Americas', 'CL'],
   Colombia: ['Americas', 'CO'], Peru: ['Americas', 'PE'], Bolivia: ['Americas', 'BO'],
   Ecuador: ['Americas', 'EC'], Venezuela: ['Americas', 'VE'], Panama: ['Americas', 'PA'],
   Guatemala: ['Americas', 'GT'], Haiti: ['Americas', 'HT'], Cuba: ['Americas', 'CU'],
+  Paraguay: ['Americas', 'PY'], Uruguay: ['Americas', 'UY'], Honduras: ['Americas', 'HN'],
   // Asia
   India: ['Asia', 'IN'], Pakistan: ['Asia', 'PK'], Bangladesh: ['Asia', 'BD'],
   Indonesia: ['Asia', 'ID'], Philippines: ['Asia', 'PH'], Thailand: ['Asia', 'TH'],
@@ -23,6 +26,7 @@ const COUNTRIES = {
   'Sri Lanka': ['Asia', 'LK'], Nepal: ['Asia', 'NP'], Myanmar: ['Asia', 'MM'],
   China: ['Asia', 'CN'], Japan: ['Asia', 'JP'], 'South Korea': ['Asia', 'KR'],
   Mongolia: ['Asia', 'MN'], Kazakhstan: ['Asia', 'KZ'], Maldives: ['Asia', 'MV'],
+  'Timor-Leste': ['Asia', 'TL'], Cambodia: ['Asia', 'KH'], Taiwan: ['Asia', 'TW'],
   // Europe
   Spain: ['Europe', 'ES'], France: ['Europe', 'FR'], Germany: ['Europe', 'DE'],
   Italy: ['Europe', 'IT'], Portugal: ['Europe', 'PT'], 'United Kingdom': ['Europe', 'GB'],
@@ -31,6 +35,9 @@ const COUNTRIES = {
   Greece: ['Europe', 'GR'], Serbia: ['Europe', 'RS'], Bulgaria: ['Europe', 'BG'],
   Romania: ['Europe', 'RO'], Albania: ['Europe', 'AL'], Georgia: ['Europe', 'GE'],
   Ukraine: ['Europe', 'UA'], Russia: ['Europe', 'RU'], Slovakia: ['Europe', 'SK'],
+  // Wikidata files some events under a UK constituent country rather than the UK.
+  'Northern Ireland': ['Europe', 'GB'], Scotland: ['Europe', 'GB'], Wales: ['Europe', 'GB'],
+  Czechia: ['Europe', 'CZ'], Croatia: ['Europe', 'HR'], 'North Macedonia': ['Europe', 'MK'],
   // Middle East
   Iran: ['Middle East', 'IR'], Iraq: ['Middle East', 'IQ'], Israel: ['Middle East', 'IL'],
   Turkey: ['Middle East', 'TR'], Lebanon: ['Middle East', 'LB'], Syria: ['Middle East', 'SY'],

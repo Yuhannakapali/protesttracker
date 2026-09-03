@@ -23,3 +23,18 @@ test('maps countries to ISO2 codes for Google News locale params', () => {
   assert.equal(countryToIso2('Indonesia'), 'ID');
   assert.equal(countryToIso2('Nigeria'), 'NG');
 });
+
+test('covers countries the live Wikidata run returned but the table missed', () => {
+  // Found by running discovery against the real endpoint.
+  assert.equal(countryToRegion('Timor-Leste'), 'Asia');
+  assert.equal(countryToRegion('Madagascar'), 'Africa');
+  assert.equal(countryToRegion('Paraguay'), 'Americas');
+  assert.equal(countryToRegion('Togo'), 'Africa');
+  assert.equal(countryToRegion('Angola'), 'Africa');
+  assert.equal(countryToRegion('Mali'), 'Africa');
+});
+
+test('maps UK constituent countries, which Wikidata uses as P17 values', () => {
+  assert.equal(countryToRegion('Northern Ireland'), 'Europe');
+  assert.equal(countryToIso2('Northern Ireland'), 'GB');
+});
