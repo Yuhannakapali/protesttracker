@@ -150,6 +150,12 @@
       "last": "2026-06-25"
     },
     {
+      "name": "People Daily",
+      "count": 36,
+      "first": "2026-03-01",
+      "last": "2026-08-27"
+    },
+    {
       "name": "Daily Nation",
       "count": 34,
       "first": "2024-06-19",
@@ -159,12 +165,6 @@
       "name": "Citizen Digital",
       "count": 28,
       "first": "2026-03-18",
-      "last": "2026-08-27"
-    },
-    {
-      "name": "peopledaily.digital",
-      "count": 26,
-      "first": "2026-03-27",
       "last": "2026-08-27"
     },
     {
@@ -186,22 +186,10 @@
       "last": "2026-06-29"
     },
     {
-      "name": "People Daily",
-      "count": 15,
-      "first": "2026-03-01",
-      "last": "2026-06-25"
-    },
-    {
       "name": "The Eastleigh Voice",
       "count": 13,
       "first": "2025-12-21",
       "last": "2026-08-27"
-    },
-    {
-      "name": "World Socialist Web Site",
-      "count": 10,
-      "first": "2025-06-25",
-      "last": "2026-07-07"
     },
     {
       "name": "dw.com",
@@ -252,6 +240,12 @@
       "last": "2026-06-23"
     },
     {
+      "name": "wsws.org",
+      "count": 6,
+      "first": "2025-10-26",
+      "last": "2026-06-25"
+    },
+    {
       "name": "Capital FM Africa",
       "count": 5,
       "first": "2026-04-20",
@@ -262,6 +256,12 @@
       "count": 5,
       "first": "2024-06-26",
       "last": "2026-06-25"
+    },
+    {
+      "name": "peopledaily.digital",
+      "count": 5,
+      "first": "2026-06-18",
+      "last": "2026-07-30"
     },
     {
       "name": "thekenyatimes.com",
@@ -282,10 +282,22 @@
       "last": "2025-06-25"
     },
     {
+      "name": "Kenya Human Rights Commission (KHRC)",
+      "count": 4,
+      "first": "2024-06-24",
+      "last": "2026-01-05"
+    },
+    {
       "name": "nation.africa",
       "count": 4,
       "first": "2026-06-16",
       "last": "2026-07-03"
+    },
+    {
+      "name": "World Socialist Web Site",
+      "count": 4,
+      "first": "2025-06-25",
+      "last": "2026-07-07"
     },
     {
       "name": "ACLED",
@@ -316,6 +328,12 @@
       "count": 3,
       "first": "2024-07-03",
       "last": "2024-07-30"
+    },
+    {
+      "name": "Human Rights Watch",
+      "count": 3,
+      "first": "2024-11-05",
+      "last": "2025-06-26"
     },
     {
       "name": "MalindiKenya.net",
@@ -378,22 +396,16 @@
       "last": "2026-06-22"
     },
     {
-      "name": "channelstv.com",
+      "name": "Channels Television",
       "count": 2,
       "first": "2026-06-25",
       "last": "2026-06-27"
     },
     {
-      "name": "cnbcafrica.com",
+      "name": "CNBC Africa",
       "count": 2,
       "first": "2024-06-27",
       "last": "2025-07-04"
-    },
-    {
-      "name": "hrw.org",
-      "count": 2,
-      "first": "2024-11-05",
-      "last": "2024-11-25"
     },
     {
       "name": "IOL",
@@ -402,22 +414,10 @@
       "last": "2026-06-25"
     },
     {
-      "name": "Kenya Human Rights Commission (KHRC)",
-      "count": 2,
-      "first": "2024-06-24",
-      "last": "2024-06-28"
-    },
-    {
       "name": "Kenya News Agency",
       "count": 2,
       "first": "2026-04-24",
       "last": "2026-06-25"
-    },
-    {
-      "name": "khrc.or.ke",
-      "count": 2,
-      "first": "2025-09-20",
-      "last": "2026-01-05"
     },
     {
       "name": "NTV Kenya",
@@ -444,7 +444,7 @@
       "last": "2024-06-20"
     },
     {
-      "name": "afrobarometer.org",
+      "name": "Afrobarometer",
       "count": 1,
       "first": "2026-02-16",
       "last": "2026-02-16"
@@ -456,7 +456,7 @@
       "last": "2026-06-25"
     },
     {
-      "name": "AP News",
+      "name": "apnews.com",
       "count": 1,
       "first": "2025-06-25",
       "last": "2025-06-25"
@@ -474,10 +474,16 @@
       "last": "2026-05-05"
     },
     {
-      "name": "brookings.edu",
+      "name": "Brookings",
       "count": 1,
       "first": "2026-04-07",
       "last": "2026-04-07"
+    },
+    {
+      "name": "Business and Human Rights Centre",
+      "count": 1,
+      "first": "2025-06-25",
+      "last": "2025-06-25"
     },
     {
       "name": "Business Today Kenya",
@@ -486,22 +492,10 @@
       "last": "2026-08-26"
     },
     {
-      "name": "business-humanrights.org",
-      "count": 1,
-      "first": "2025-06-25",
-      "last": "2025-06-25"
-    },
-    {
       "name": "Chatham House",
       "count": 1,
       "first": "2024-08-01",
       "last": "2024-08-01"
-    },
-    {
-      "name": "christiandaily.com",
-      "count": 1,
-      "first": "2026-06-15",
-      "last": "2026-06-15"
     },
     {
       "name": "Civicus Monitor",
@@ -522,7 +516,7 @@
       "last": "2024-06-27"
     },
     {
-      "name": "dailymaverick.co.za",
+      "name": "Daily Maverick",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -540,7 +534,7 @@
       "last": "2025-11-10"
     },
     {
-      "name": "globalbar.se",
+      "name": "Global Bar Magazine",
       "count": 1,
       "first": "2026-06-24",
       "last": "2026-06-24"
@@ -550,12 +544,6 @@
       "count": 1,
       "first": "2026-06-20",
       "last": "2026-06-20"
-    },
-    {
-      "name": "Human Rights Watch",
-      "count": 1,
-      "first": "2025-06-26",
-      "last": "2025-06-26"
     },
     {
       "name": "ICJ Kenya",
@@ -624,7 +612,7 @@
       "last": "2026-06-25"
     },
     {
-      "name": "pbicanada.org",
+      "name": "Peace Brigades International-Canada",
       "count": 1,
       "first": "2025-05-22",
       "last": "2025-05-22"
@@ -660,7 +648,7 @@
       "last": "2026-05-27"
     },
     {
-      "name": "techweez.com",
+      "name": "Techweez",
       "count": 1,
       "first": "2024-06-20",
       "last": "2024-06-20"
@@ -694,12 +682,6 @@
       "count": 1,
       "first": "2026-08-07",
       "last": "2026-08-07"
-    },
-    {
-      "name": "The Washington Post",
-      "count": 1,
-      "first": "2025-09-01",
-      "last": "2025-09-01"
     },
     {
       "name": "TheCable",
@@ -736,6 +718,18 @@
       "count": 1,
       "first": "2024-07-10",
       "last": "2024-07-10"
+    },
+    {
+      "name": "washingtonpost.com",
+      "count": 1,
+      "first": "2025-09-01",
+      "last": "2025-09-01"
+    },
+    {
+      "name": "www.christiandaily.com",
+      "count": 1,
+      "first": "2026-06-15",
+      "last": "2026-06-15"
     },
     {
       "name": "معهد الجزيرة للإعلام",
