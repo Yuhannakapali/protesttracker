@@ -144,16 +144,16 @@
   ],
   "sources": [
     {
+      "name": "People Daily",
+      "count": 38,
+      "first": "2026-03-01",
+      "last": "2026-08-27"
+    },
+    {
       "name": "BBC",
       "count": 36,
       "first": "2024-06-18",
       "last": "2026-06-25"
-    },
-    {
-      "name": "Daily Nation",
-      "count": 34,
-      "first": "2024-06-19",
-      "last": "2026-06-27"
     },
     {
       "name": "Citizen Digital",
@@ -162,22 +162,16 @@
       "last": "2026-08-27"
     },
     {
-      "name": "peopledaily.digital",
+      "name": "nation.africa",
       "count": 23,
-      "first": "2026-03-27",
-      "last": "2026-08-27"
+      "first": "2024-06-19",
+      "last": "2026-07-03"
     },
     {
       "name": "Al Jazeera",
       "count": 21,
       "first": "2024-06-14",
       "last": "2026-06-27"
-    },
-    {
-      "name": "People Daily",
-      "count": 18,
-      "first": "2026-03-01",
-      "last": "2026-07-30"
     },
     {
       "name": "The Africa Report",
@@ -192,6 +186,12 @@
       "last": "2026-06-29"
     },
     {
+      "name": "Daily Nation",
+      "count": 15,
+      "first": "2024-06-25",
+      "last": "2026-06-27"
+    },
+    {
       "name": "The Eastleigh Voice",
       "count": 13,
       "first": "2025-12-21",
@@ -204,16 +204,16 @@
       "last": "2026-06-25"
     },
     {
-      "name": "World Socialist Web Site",
-      "count": 9,
-      "first": "2025-06-25",
-      "last": "2026-06-25"
-    },
-    {
       "name": "Kenyans.co.ke",
       "count": 8,
       "first": "2026-05-02",
       "last": "2026-07-28"
+    },
+    {
+      "name": "The Kenya Times",
+      "count": 8,
+      "first": "2024-06-24",
+      "last": "2026-08-27"
     },
     {
       "name": "The EastAfrican",
@@ -226,6 +226,12 @@
       "count": 7,
       "first": "2024-06-18",
       "last": "2024-09-27"
+    },
+    {
+      "name": "wsws.org",
+      "count": 7,
+      "first": "2025-10-26",
+      "last": "2026-07-07"
     },
     {
       "name": "facebook.com",
@@ -270,12 +276,6 @@
       "last": "2026-06-25"
     },
     {
-      "name": "thekenyatimes.com",
-      "count": 5,
-      "first": "2024-06-24",
-      "last": "2026-08-27"
-    },
-    {
       "name": "allAfrica.com",
       "count": 4,
       "first": "2025-07-09",
@@ -288,10 +288,10 @@
       "last": "2025-06-25"
     },
     {
-      "name": "nation.africa",
+      "name": "Kenya Human Rights Commission (KHRC)",
       "count": 4,
-      "first": "2026-06-16",
-      "last": "2026-07-03"
+      "first": "2024-06-24",
+      "last": "2026-01-05"
     },
     {
       "name": "ACLED",
@@ -342,16 +342,22 @@
       "last": "2026-06-25"
     },
     {
-      "name": "The Kenya Times",
+      "name": "peopledaily.digital",
       "count": 3,
-      "first": "2025-08-08",
-      "last": "2026-08-26"
+      "first": "2026-06-18",
+      "last": "2026-07-30"
     },
     {
       "name": "The Kenyan Wallstreet",
       "count": 3,
       "first": "2024-06-24",
       "last": "2026-08-01"
+    },
+    {
+      "name": "World Socialist Web Site",
+      "count": 3,
+      "first": "2025-06-25",
+      "last": "2026-04-22"
     },
     {
       "name": "accord.org.za",
@@ -390,7 +396,7 @@
       "last": "2026-06-22"
     },
     {
-      "name": "channelstv.com",
+      "name": "Channels Television",
       "count": 2,
       "first": "2026-06-25",
       "last": "2026-06-27"
@@ -402,22 +408,10 @@
       "last": "2026-06-25"
     },
     {
-      "name": "Kenya Human Rights Commission (KHRC)",
-      "count": 2,
-      "first": "2024-06-24",
-      "last": "2024-06-28"
-    },
-    {
       "name": "Kenya News Agency",
       "count": 2,
       "first": "2026-04-24",
       "last": "2026-06-25"
-    },
-    {
-      "name": "khrc.or.ke",
-      "count": 2,
-      "first": "2025-09-20",
-      "last": "2026-01-05"
     },
     {
       "name": "NTV Kenya",
@@ -444,7 +438,7 @@
       "last": "2024-06-20"
     },
     {
-      "name": "afrobarometer.org",
+      "name": "Afrobarometer",
       "count": 1,
       "first": "2026-02-16",
       "last": "2026-02-16"
@@ -456,7 +450,7 @@
       "last": "2026-06-25"
     },
     {
-      "name": "AP News",
+      "name": "apnews.com",
       "count": 1,
       "first": "2025-06-25",
       "last": "2025-06-25"
@@ -474,22 +468,22 @@
       "last": "2026-05-05"
     },
     {
-      "name": "brookings.edu",
+      "name": "Brookings",
       "count": 1,
       "first": "2026-04-07",
       "last": "2026-04-07"
+    },
+    {
+      "name": "Business and Human Rights Centre",
+      "count": 1,
+      "first": "2025-06-25",
+      "last": "2025-06-25"
     },
     {
       "name": "Business Today Kenya",
       "count": 1,
       "first": "2026-08-26",
       "last": "2026-08-26"
-    },
-    {
-      "name": "business-humanrights.org",
-      "count": 1,
-      "first": "2025-06-25",
-      "last": "2025-06-25"
     },
     {
       "name": "Chatham House",
@@ -504,7 +498,7 @@
       "last": "2023-10-20"
     },
     {
-      "name": "cnbcafrica.com",
+      "name": "CNBC Africa",
       "count": 1,
       "first": "2025-07-04",
       "last": "2025-07-04"
@@ -522,7 +516,7 @@
       "last": "2024-06-27"
     },
     {
-      "name": "dailymaverick.co.za",
+      "name": "Daily Maverick",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -540,13 +534,13 @@
       "last": "2025-11-10"
     },
     {
-      "name": "globalbar.se",
+      "name": "Global Bar Magazine",
       "count": 1,
       "first": "2026-06-24",
       "last": "2026-06-24"
     },
     {
-      "name": "hivileo.co.ke",
+      "name": "Hivileo",
       "count": 1,
       "first": "2026-06-20",
       "last": "2026-06-20"
@@ -612,7 +606,7 @@
       "last": "2026-06-25"
     },
     {
-      "name": "pbicanada.org",
+      "name": "Peace Brigades International-Canada",
       "count": 1,
       "first": "2025-05-22",
       "last": "2025-05-22"
@@ -684,13 +678,7 @@
       "last": "2026-08-07"
     },
     {
-      "name": "The Washington Post",
-      "count": 1,
-      "first": "2025-09-01",
-      "last": "2025-09-01"
-    },
-    {
-      "name": "thecable.ng",
+      "name": "TheCable",
       "count": 1,
       "first": "2026-04-22",
       "last": "2026-04-22"
@@ -726,10 +714,10 @@
       "last": "2024-07-10"
     },
     {
-      "name": "wsws.org",
+      "name": "washingtonpost.com",
       "count": 1,
-      "first": "2026-07-07",
-      "last": "2026-07-07"
+      "first": "2025-09-01",
+      "last": "2025-09-01"
     },
     {
       "name": "www.christiandaily.com",

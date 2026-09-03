@@ -771,7 +771,7 @@
     },
     {
       "start": "2025-10-01",
-      "count": 25
+      "count": 26
     },
     {
       "start": "2025-11-01",
@@ -779,11 +779,11 @@
     },
     {
       "start": "2025-12-01",
-      "count": 20
+      "count": 21
     },
     {
       "start": "2026-01-01",
-      "count": 33
+      "count": 34
     },
     {
       "start": "2026-02-01",
@@ -827,7 +827,7 @@
     },
     {
       "name": "Vanguard News",
-      "count": 36,
+      "count": 38,
       "first": "2012-03-08",
       "last": "2026-06-08"
     },
@@ -910,12 +910,6 @@
       "last": "2026-06-04"
     },
     {
-      "name": "Independent Newspaper Nigeria",
-      "count": 9,
-      "first": "2020-09-07",
-      "last": "2026-01-29"
-    },
-    {
       "name": "Reuters",
       "count": 9,
       "first": "2012-01-10",
@@ -932,6 +926,12 @@
       "count": 8,
       "first": "2020-09-04",
       "last": "2026-06-03"
+    },
+    {
+      "name": "Independent Newspaper Nigeria",
+      "count": 7,
+      "first": "2020-09-07",
+      "last": "2026-01-27"
     },
     {
       "name": "The Nation Newspaper",
@@ -994,6 +994,12 @@
       "last": "2024-09-07"
     },
     {
+      "name": "Nigerian Voice",
+      "count": 3,
+      "first": "2012-01-13",
+      "last": "2025-10-14"
+    },
+    {
       "name": "Vanguard",
       "count": 3,
       "first": "2026-09-02",
@@ -1024,6 +1030,12 @@
       "last": "2024-09-05"
     },
     {
+      "name": "independent.ng",
+      "count": 2,
+      "first": "2026-01-23",
+      "last": "2026-01-29"
+    },
+    {
       "name": "Mail & Guardian",
       "count": 2,
       "first": "2012-01-16",
@@ -1040,12 +1052,6 @@
       "count": 2,
       "first": "2024-09-02",
       "last": "2026-08-19"
-    },
-    {
-      "name": "Nigerian Voice",
-      "count": 2,
-      "first": "2012-01-13",
-      "last": "2021-12-18"
     },
     {
       "name": "Opinion Nigeria",
@@ -1120,7 +1126,7 @@
       "last": "2020-09-10"
     },
     {
-      "name": "bellanaija.com",
+      "name": "BellaNaija",
       "count": 1,
       "first": "2021-03-12",
       "last": "2021-03-12"
