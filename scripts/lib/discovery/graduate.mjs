@@ -39,11 +39,32 @@ function titleCase(s) {
   return s.replace(/\b[a-z]/g, (c) => c.toUpperCase());
 }
 
-// Clusters have no name. Synthesize a placeholder from the country and the
-// two most distinctive terms, and flag it so a reviewer renames it.
+// Clusters have no name. The distinctive terms make a poor one — they are
+// sorted rarest-first, so they surface odd words ("India Criminal Exempts
+// protests") rather than the topic. A cluster's earliest headline describes
+// it far better, so the placeholder is built from that, and needsName marks
+// it for a reviewer to rewrite.
+function nameFromSample(cluster) {
+  const first = (cluster.samples || [])[0];
+  if (!first?.title) return '';
+  // GDELT spaces its punctuation ("Protest : Police Deny , CDHR") and
+  // truncates mid-word; take a clean opening clause.
+  const words = String(first.title)
+    .replace(/\s*[,:;|]\s*/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .split(' ')
+    .slice(0, 7);
+  // A truncated trailing fragment ("Thos", "headquarte") helps nobody.
+  if (words.length === 7) words.pop();
+  return words.join(' ').trim();
+}
+
 export function clusterToEntity(cluster) {
+  const sample = nameFromSample(cluster);
   const topic = titleCase((cluster.terms || []).slice(0, 2).join(' '));
-  const name = topic ? `${cluster.country} ${topic} protests` : `${cluster.country} protests`;
+  const name = sample
+    || (topic ? `${cluster.country} ${topic} protests` : `${cluster.country} protests`);
   return {
     qid: cluster.id,
     name,

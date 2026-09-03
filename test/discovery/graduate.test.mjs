@@ -56,3 +56,23 @@ test('the synthesized entity works with the Phase 1 suggestion builder', async (
   assert.equal(s.location, 'Kenya');
   assert.ok(s.feeds.length >= 1);
 });
+
+test('names a cluster from its earliest headline, not its rarest terms', () => {
+  // Rarest-first terms produce unhelpful names like "India Criminal Exempts
+  // protests"; the headline says what actually happened.
+  const c = cluster({
+    country: 'India',
+    terms: ['criminal', 'exempts'],
+    samples: [{ title: 'Supreme Court Quashes FIRs Against CJP Protesters , Exempts Thos', url: '', domain: '', date: '2026-09-01' }],
+  });
+  const e = clusterToEntity(c);
+  assert.match(e.name, /Supreme Court Quashes/);
+  assert.ok(!/Exempts Thos/.test(e.name), 'truncated trailing fragment should be dropped');
+  assert.equal(e.needsName, true);
+});
+
+test('falls back to country and terms when a cluster has no samples', () => {
+  const e = clusterToEntity(cluster({ samples: [] }));
+  assert.match(e.name, /Kenya/);
+  assert.match(e.name, /protests/i);
+});
