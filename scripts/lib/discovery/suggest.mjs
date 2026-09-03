@@ -43,6 +43,10 @@ const GENERIC = new Set([
   'protest', 'protests', 'demonstration', 'demonstrations', 'rally', 'rallies',
   'strike', 'strikes', 'march', 'marches', 'riot', 'riots', 'unrest', 'clashes',
   'the', 'of', 'in', 'at', 'and', 'against', 'a', 'to',
+  // Month names are dates, not topics: "june" as a strict keyword would match
+  // any story published about June anywhere.
+  'january', 'february', 'march', 'april', 'may', 'june', 'july',
+  'august', 'september', 'october', 'november', 'december',
 ]);
 
 function nameTerms(name) {

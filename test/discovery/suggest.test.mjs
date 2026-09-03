@@ -57,3 +57,14 @@ test('an unknown country leaves region blank rather than guessing', () => {
   const s = buildSuggestion(entity({ country: 'Atlantis', countries: ['Atlantis'] }), []);
   assert.equal(s.region, '');
 });
+
+test('drops month names, which are dates rather than topics', () => {
+  // "June 2026 Indonesian protests" must not yield "june" as a strict keyword:
+  // it would match any story mentioning the month.
+  const s = buildSuggestion(entity({ name: 'June 2026 Indonesian protests', country: 'Indonesia', countries: ['Indonesia'] }), []);
+  assert.ok(!s.strictKeywords.includes('june'));
+  assert.ok(s.strictKeywords.includes('indonesian'));
+  // The id keeps the month: it disambiguates "June 2026 Indonesian protests"
+  // from an "August 2026 Indonesian protests" that would otherwise collide.
+  assert.equal(s.id, 'indonesia-june-indonesian-protests');
+});
