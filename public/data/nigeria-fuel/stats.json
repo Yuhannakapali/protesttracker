@@ -639,7 +639,7 @@
     },
     {
       "start": "2023-01-01",
-      "count": 4
+      "count": 5
     },
     {
       "start": "2023-02-01",
@@ -815,13 +815,19 @@
     },
     {
       "start": "2026-09-01",
-      "count": 16
+      "count": 17
     }
   ],
   "sources": [
     {
+      "name": "The Guardian Nigeria News",
+      "count": 43,
+      "first": "2015-10-02",
+      "last": "2026-02-12"
+    },
+    {
       "name": "Channels Television",
-      "count": 39,
+      "count": 40,
       "first": "2012-01-04",
       "last": "2026-09-04"
     },
@@ -838,28 +844,16 @@
       "last": "2026-09-04"
     },
     {
-      "name": "The Guardian Nigeria News",
-      "count": 32,
-      "first": "2015-10-02",
-      "last": "2026-02-12"
-    },
-    {
-      "name": "Vanguard News",
-      "count": 30,
-      "first": "2012-03-08",
-      "last": "2026-01-28"
-    },
-    {
       "name": "Premium Times Nigeria",
-      "count": 29,
-      "first": "2016-05-18",
+      "count": 33,
+      "first": "2016-05-17",
       "last": "2026-02-02"
     },
     {
-      "name": "The Guardian",
-      "count": 26,
-      "first": "2012-01-03",
-      "last": "2026-06-08"
+      "name": "Vanguard News",
+      "count": 32,
+      "first": "2012-03-08",
+      "last": "2026-01-28"
     },
     {
       "name": "Punch Newspapers",
@@ -886,21 +880,27 @@
       "last": "2026-09-01"
     },
     {
+      "name": "The Guardian",
+      "count": 15,
+      "first": "2012-01-03",
+      "last": "2026-06-08"
+    },
+    {
       "name": "TheCable",
       "count": 14,
       "first": "2020-09-05",
       "last": "2026-03-15"
     },
     {
+      "name": "Legit News",
+      "count": 12,
+      "first": "2022-01-02",
+      "last": "2025-09-16"
+    },
+    {
       "name": "The Sun Nigeria",
       "count": 12,
       "first": "2022-11-30",
-      "last": "2026-06-08"
-    },
-    {
-      "name": "vanguardngr.com",
-      "count": 12,
-      "first": "2012-09-19",
       "last": "2026-06-08"
     },
     {
@@ -910,16 +910,16 @@
       "last": "2024-08-02"
     },
     {
+      "name": "THISDAYLIVE",
+      "count": 11,
+      "first": "2023-01-26",
+      "last": "2026-03-11"
+    },
+    {
       "name": "Business News Nigeria",
       "count": 10,
       "first": "2022-01-21",
       "last": "2026-06-04"
-    },
-    {
-      "name": "premiumtimesng.com",
-      "count": 10,
-      "first": "2013-04-18",
-      "last": "2026-01-27"
     },
     {
       "name": "The Whistler Newspaper",
@@ -928,10 +928,10 @@
       "last": "2026-06-03"
     },
     {
-      "name": "THISDAYLIVE",
+      "name": "vanguardngr.com",
       "count": 10,
-      "first": "2023-01-26",
-      "last": "2026-03-11"
+      "first": "2025-09-29",
+      "last": "2026-06-08"
     },
     {
       "name": "Independent Newspaper Nigeria",
@@ -940,22 +940,16 @@
       "last": "2026-01-29"
     },
     {
-      "name": "legit.ng",
-      "count": 8,
-      "first": "2023-06-01",
-      "last": "2025-09-16"
-    },
-    {
-      "name": "Legit News",
-      "count": 7,
-      "first": "2022-01-02",
-      "last": "2025-06-25"
-    },
-    {
       "name": "Vanguard",
       "count": 7,
       "first": "2026-09-02",
       "last": "2026-09-04"
+    },
+    {
+      "name": "premiumtimesng.com",
+      "count": 6,
+      "first": "2013-04-18",
+      "last": "2026-01-27"
     },
     {
       "name": "TVC News",
@@ -980,6 +974,12 @@
       "count": 5,
       "first": "2012-01-10",
       "last": "2026-05-19"
+    },
+    {
+      "name": "VOA - Voice of America English News",
+      "count": 5,
+      "first": "2009-10-30",
+      "last": "2024-08-08"
     },
     {
       "name": "allAfrica.com",
@@ -1012,6 +1012,18 @@
       "last": "2026-01-27"
     },
     {
+      "name": "Legit.ng",
+      "count": 3,
+      "first": "2024-09-04",
+      "last": "2024-09-07"
+    },
+    {
+      "name": "Nigerian Voice",
+      "count": 3,
+      "first": "2012-01-13",
+      "last": "2025-10-14"
+    },
+    {
       "name": "thenationonlineng.net",
       "count": 3,
       "first": "2022-01-10",
@@ -1022,12 +1034,6 @@
       "count": 3,
       "first": "2026-05-01",
       "last": "2026-08-14"
-    },
-    {
-      "name": "VOA - Voice of America English News",
-      "count": 3,
-      "first": "2009-10-30",
-      "last": "2024-08-08"
     },
     {
       "name": "VOA Africa",
@@ -1084,12 +1090,6 @@
       "last": "2026-02-03"
     },
     {
-      "name": "thenigerianvoice.com",
-      "count": 2,
-      "first": "2012-01-13",
-      "last": "2021-12-18"
-    },
-    {
       "name": "tribuneonlineng.com",
       "count": 2,
       "first": "2026-06-02",
@@ -1100,12 +1100,6 @@
       "count": 2,
       "first": "2025-09-17",
       "last": "2026-04-12"
-    },
-    {
-      "name": "voanews.com",
-      "count": 2,
-      "first": "2012-01-01",
-      "last": "2012-01-02"
     },
     {
       "name": "YNaija",
@@ -1192,7 +1186,7 @@
       "last": "2024-02-15"
     },
     {
-      "name": "France 24",
+      "name": "france24.com",
       "count": 1,
       "first": "2012-01-16",
       "last": "2012-01-16"
@@ -1270,7 +1264,7 @@
       "last": "2025-07-27"
     },
     {
-      "name": "Naija News",
+      "name": "naijanews.com",
       "count": 1,
       "first": "2024-09-06",
       "last": "2024-09-06"
@@ -1286,12 +1280,6 @@
       "count": 1,
       "first": "2024-09-05",
       "last": "2024-09-05"
-    },
-    {
-      "name": "Nigerian Voice",
-      "count": 1,
-      "first": "2025-10-14",
-      "last": "2025-10-14"
     },
     {
       "name": "nigerianeye.com",
