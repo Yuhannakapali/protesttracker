@@ -691,7 +691,7 @@
     },
     {
       "start": "2024-02-01",
-      "count": 8
+      "count": 9
     },
     {
       "start": "2024-03-01",
@@ -707,7 +707,7 @@
     },
     {
       "start": "2024-06-01",
-      "count": 25
+      "count": 26
     },
     {
       "start": "2024-07-01",
@@ -838,28 +838,28 @@
       "last": "2026-06-03"
     },
     {
+      "name": "Premium Times Nigeria",
+      "count": 37,
+      "first": "2016-05-17",
+      "last": "2026-02-02"
+    },
+    {
       "name": "BBC",
       "count": 35,
       "first": "2018-09-26",
       "last": "2025-12-17"
     },
     {
-      "name": "Premium Times Nigeria",
-      "count": 35,
-      "first": "2016-05-17",
-      "last": "2026-02-02"
+      "name": "Daily Post Nigeria",
+      "count": 32,
+      "first": "2012-01-05",
+      "last": "2026-09-02"
     },
     {
       "name": "Punch Newspapers",
       "count": 25,
       "first": "2020-09-04",
       "last": "2026-08-19"
-    },
-    {
-      "name": "Daily Post Nigeria",
-      "count": 21,
-      "first": "2012-01-05",
-      "last": "2026-09-02"
     },
     {
       "name": "PM News Nigeria",
@@ -886,12 +886,6 @@
       "last": "2026-03-15"
     },
     {
-      "name": "dailypost.ng",
-      "count": 13,
-      "first": "2012-01-06",
-      "last": "2026-08-19"
-    },
-    {
       "name": "Legit News",
       "count": 12,
       "first": "2022-01-02",
@@ -910,6 +904,12 @@
       "last": "2024-08-02"
     },
     {
+      "name": "Business News Nigeria",
+      "count": 10,
+      "first": "2022-01-21",
+      "last": "2026-06-04"
+    },
+    {
       "name": "The Whistler Newspaper",
       "count": 10,
       "first": "2020-09-04",
@@ -920,12 +920,6 @@
       "count": 10,
       "first": "2023-01-26",
       "last": "2026-03-11"
-    },
-    {
-      "name": "Business News Nigeria",
-      "count": 8,
-      "first": "2022-01-21",
-      "last": "2026-06-04"
     },
     {
       "name": "Independent Newspaper Nigeria",
@@ -944,6 +938,12 @@
       "count": 6,
       "first": "2012-01-10",
       "last": "2026-05-19"
+    },
+    {
+      "name": "The Guardian",
+      "count": 6,
+      "first": "2012-01-03",
+      "last": "2022-01-07"
     },
     {
       "name": "TVC News",
@@ -988,18 +988,6 @@
       "last": "2026-06-04"
     },
     {
-      "name": "Nigeria Info FM",
-      "count": 4,
-      "first": "2025-12-17",
-      "last": "2026-01-26"
-    },
-    {
-      "name": "theguardian.com",
-      "count": 4,
-      "first": "2012-01-08",
-      "last": "2012-01-16"
-    },
-    {
       "name": "FIJ NG",
       "count": 3,
       "first": "2024-09-04",
@@ -1012,16 +1000,16 @@
       "last": "2024-09-07"
     },
     {
-      "name": "Nigerian Voice",
+      "name": "nigeriainfo.fm",
+      "count": 3,
+      "first": "2025-12-17",
+      "last": "2026-01-24"
+    },
+    {
+      "name": "thenigerianvoice.com",
       "count": 3,
       "first": "2012-01-13",
       "last": "2025-10-14"
-    },
-    {
-      "name": "The Guardian",
-      "count": 3,
-      "first": "2012-01-03",
-      "last": "2022-01-07"
     },
     {
       "name": "thesun.ng",
@@ -1036,16 +1024,16 @@
       "last": "2024-02-19"
     },
     {
-      "name": "businessday.ng",
-      "count": 2,
-      "first": "2025-10-13",
-      "last": "2025-12-04"
-    },
-    {
       "name": "Daily Trust",
       "count": 2,
       "first": "2025-10-13",
       "last": "2026-01-27"
+    },
+    {
+      "name": "dailypost.ng",
+      "count": 2,
+      "first": "2013-04-18",
+      "last": "2023-09-04"
     },
     {
       "name": "Mail & Guardian",
@@ -1276,6 +1264,12 @@
       "last": "2024-09-05"
     },
     {
+      "name": "Nigeria Info FM",
+      "count": 1,
+      "first": "2026-01-26",
+      "last": "2026-01-26"
+    },
+    {
       "name": "nigerianeye.com",
       "count": 1,
       "first": "2026-06-08",
@@ -1328,6 +1322,12 @@
       "count": 1,
       "first": "2026-06-08",
       "last": "2026-06-08"
+    },
+    {
+      "name": "theguardian.com",
+      "count": 1,
+      "first": "2012-01-16",
+      "last": "2012-01-16"
     },
     {
       "name": "TheNiche",

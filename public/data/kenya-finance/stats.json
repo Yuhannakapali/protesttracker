@@ -127,7 +127,7 @@
     },
     {
       "start": "2026-05-01",
-      "count": 40
+      "count": 41
     },
     {
       "start": "2026-06-01",
@@ -145,7 +145,7 @@
   "sources": [
     {
       "name": "Daily Nation",
-      "count": 46,
+      "count": 47,
       "first": "2024-06-19",
       "last": "2026-07-03"
     },
@@ -276,12 +276,6 @@
       "last": "2026-06-25"
     },
     {
-      "name": "Kenya Human Rights Commission (KHRC)",
-      "count": 4,
-      "first": "2024-06-24",
-      "last": "2026-01-05"
-    },
-    {
       "name": "Modern Ghana",
       "count": 4,
       "first": "2025-11-20",
@@ -390,10 +384,28 @@
       "last": "2024-07-01"
     },
     {
+      "name": "Hivileo",
+      "count": 2,
+      "first": "2026-05-28",
+      "last": "2026-06-20"
+    },
+    {
+      "name": "Kenya Human Rights Commission (KHRC)",
+      "count": 2,
+      "first": "2024-06-24",
+      "last": "2024-06-28"
+    },
+    {
       "name": "Kenya News Agency",
       "count": 2,
       "first": "2026-04-24",
       "last": "2026-06-25"
+    },
+    {
+      "name": "khrc.or.ke",
+      "count": 2,
+      "first": "2025-09-20",
+      "last": "2026-01-05"
     },
     {
       "name": "NTV Kenya",
@@ -432,7 +444,7 @@
       "last": "2026-06-25"
     },
     {
-      "name": "apnews.com",
+      "name": "AP News",
       "count": 1,
       "first": "2025-06-25",
       "last": "2025-06-25"
@@ -522,12 +534,6 @@
       "last": "2026-06-24"
     },
     {
-      "name": "Hivileo",
-      "count": 1,
-      "first": "2026-06-20",
-      "last": "2026-06-20"
-    },
-    {
       "name": "ICJ Kenya",
       "count": 1,
       "first": "2024-08-05",
@@ -600,12 +606,6 @@
       "last": "2026-06-25"
     },
     {
-      "name": "nation.africa",
-      "count": 1,
-      "first": "2026-06-23",
-      "last": "2026-06-23"
-    },
-    {
       "name": "New Age BD",
       "count": 1,
       "first": "2026-06-25",
@@ -666,7 +666,7 @@
       "last": "2026-05-27"
     },
     {
-      "name": "taipeitimes.com",
+      "name": "Taipei Times",
       "count": 1,
       "first": "2026-06-27",
       "last": "2026-06-27"
