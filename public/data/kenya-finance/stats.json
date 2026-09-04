@@ -131,7 +131,7 @@
     },
     {
       "start": "2026-06-01",
-      "count": 142
+      "count": 141
     },
     {
       "start": "2026-07-01",
@@ -140,6 +140,10 @@
     {
       "start": "2026-08-01",
       "count": 17
+    },
+    {
+      "start": "2026-09-01",
+      "count": 1
     }
   ],
   "sources": [
@@ -157,7 +161,7 @@
     },
     {
       "name": "BBC",
-      "count": 38,
+      "count": 37,
       "first": "2024-06-18",
       "last": "2026-06-25"
     },
@@ -222,6 +226,12 @@
       "last": "2026-07-28"
     },
     {
+      "name": "The Conversation",
+      "count": 7,
+      "first": "2024-06-22",
+      "last": "2026-06-23"
+    },
+    {
       "name": "VOA - Voice of America English News",
       "count": 7,
       "first": "2024-06-18",
@@ -256,12 +266,6 @@
       "count": 6,
       "first": "2026-04-03",
       "last": "2026-06-24"
-    },
-    {
-      "name": "The Conversation",
-      "count": 6,
-      "first": "2024-06-22",
-      "last": "2026-06-23"
     },
     {
       "name": "Context News",
@@ -424,6 +428,12 @@
       "count": 2,
       "first": "2025-07-14",
       "last": "2026-06-25"
+    },
+    {
+      "name": "The Standard",
+      "count": 2,
+      "first": "2026-08-07",
+      "last": "2026-09-04"
     },
     {
       "name": "ABC News - Breaking News, Latest News and Videos",
@@ -702,12 +712,6 @@
       "last": "2024-08-01"
     },
     {
-      "name": "The Standard",
-      "count": 1,
-      "first": "2026-08-07",
-      "last": "2026-08-07"
-    },
-    {
       "name": "The Washington Post",
       "count": 1,
       "first": "2025-09-01",
@@ -724,12 +728,6 @@
       "count": 1,
       "first": "2026-04-22",
       "last": "2026-04-22"
-    },
-    {
-      "name": "theconversation.com",
-      "count": 1,
-      "first": "2024-07-03",
-      "last": "2024-07-03"
     },
     {
       "name": "Tricontinental: Institute for Social Research",
@@ -775,5 +773,5 @@
     }
   ],
   "firstDate": "2023-10-20",
-  "lastDate": "2026-08-28"
+  "lastDate": "2026-09-04"
 }
