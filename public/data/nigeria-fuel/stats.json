@@ -319,7 +319,7 @@
     },
     {
       "start": "2016-05-01",
-      "count": 3
+      "count": 4
     },
     {
       "start": "2016-06-01",
@@ -820,28 +820,10 @@
   ],
   "sources": [
     {
-      "name": "The Guardian Nigeria News",
-      "count": 52,
-      "first": "2015-10-02",
-      "last": "2026-06-08"
-    },
-    {
-      "name": "Vanguard News",
-      "count": 42,
-      "first": "2012-03-08",
-      "last": "2026-06-08"
-    },
-    {
       "name": "Channels Television",
       "count": 39,
       "first": "2012-01-04",
       "last": "2026-09-04"
-    },
-    {
-      "name": "Premium Times Nigeria",
-      "count": 37,
-      "first": "2016-05-17",
-      "last": "2026-02-02"
     },
     {
       "name": "BBC",
@@ -851,9 +833,33 @@
     },
     {
       "name": "Daily Post Nigeria",
-      "count": 34,
+      "count": 35,
       "first": "2012-01-05",
       "last": "2026-09-04"
+    },
+    {
+      "name": "The Guardian Nigeria News",
+      "count": 32,
+      "first": "2015-10-02",
+      "last": "2026-02-12"
+    },
+    {
+      "name": "Vanguard News",
+      "count": 30,
+      "first": "2012-03-08",
+      "last": "2026-01-28"
+    },
+    {
+      "name": "Premium Times Nigeria",
+      "count": 29,
+      "first": "2016-05-18",
+      "last": "2026-02-02"
+    },
+    {
+      "name": "The Guardian",
+      "count": 26,
+      "first": "2012-01-03",
+      "last": "2026-06-08"
     },
     {
       "name": "Punch Newspapers",
@@ -886,15 +892,15 @@
       "last": "2026-03-15"
     },
     {
-      "name": "Legit News",
-      "count": 12,
-      "first": "2022-01-02",
-      "last": "2025-09-16"
-    },
-    {
       "name": "The Sun Nigeria",
       "count": 12,
       "first": "2022-11-30",
+      "last": "2026-06-08"
+    },
+    {
+      "name": "vanguardngr.com",
+      "count": 12,
+      "first": "2012-09-19",
       "last": "2026-06-08"
     },
     {
@@ -908,6 +914,12 @@
       "count": 10,
       "first": "2022-01-21",
       "last": "2026-06-04"
+    },
+    {
+      "name": "premiumtimesng.com",
+      "count": 10,
+      "first": "2013-04-18",
+      "last": "2026-01-27"
     },
     {
       "name": "The Whistler Newspaper",
@@ -928,10 +940,16 @@
       "last": "2026-01-29"
     },
     {
-      "name": "The Nation Newspaper",
+      "name": "legit.ng",
+      "count": 8,
+      "first": "2023-06-01",
+      "last": "2025-09-16"
+    },
+    {
+      "name": "Legit News",
       "count": 7,
-      "first": "2022-01-10",
-      "last": "2026-06-03"
+      "first": "2022-01-02",
+      "last": "2025-06-25"
     },
     {
       "name": "Vanguard",
@@ -964,12 +982,6 @@
       "last": "2026-05-19"
     },
     {
-      "name": "VOA - Voice of America English News",
-      "count": 5,
-      "first": "2009-10-30",
-      "last": "2024-08-08"
-    },
-    {
       "name": "allAfrica.com",
       "count": 4,
       "first": "2012-01-16",
@@ -988,10 +1000,10 @@
       "last": "2026-01-26"
     },
     {
-      "name": "The Guardian",
+      "name": "The Nation Newspaper",
       "count": 4,
-      "first": "2012-01-03",
-      "last": "2022-01-07"
+      "first": "2024-09-08",
+      "last": "2026-02-04"
     },
     {
       "name": "Daily Trust",
@@ -1000,28 +1012,22 @@
       "last": "2026-01-27"
     },
     {
-      "name": "Legit.ng",
+      "name": "thenationonlineng.net",
       "count": 3,
-      "first": "2024-09-04",
-      "last": "2024-09-07"
-    },
-    {
-      "name": "Nigerian Voice",
-      "count": 3,
-      "first": "2012-01-13",
-      "last": "2025-10-14"
-    },
-    {
-      "name": "theguardian.com",
-      "count": 3,
-      "first": "2012-01-08",
-      "last": "2012-01-16"
+      "first": "2022-01-10",
+      "last": "2026-06-03"
     },
     {
       "name": "thesun.ng",
       "count": 3,
       "first": "2026-05-01",
       "last": "2026-08-14"
+    },
+    {
+      "name": "VOA - Voice of America English News",
+      "count": 3,
+      "first": "2009-10-30",
+      "last": "2024-08-08"
     },
     {
       "name": "VOA Africa",
@@ -1054,7 +1060,7 @@
       "last": "2026-08-19"
     },
     {
-      "name": "opinionnigeria.com",
+      "name": "Opinion Nigeria",
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
@@ -1064,12 +1070,6 @@
       "count": 2,
       "first": "2025-10-16",
       "last": "2026-05-18"
-    },
-    {
-      "name": "premiumtimesng.com",
-      "count": 2,
-      "first": "2013-04-18",
-      "last": "2024-06-03"
     },
     {
       "name": "Sahara Reporters",
@@ -1084,6 +1084,12 @@
       "last": "2026-02-03"
     },
     {
+      "name": "thenigerianvoice.com",
+      "count": 2,
+      "first": "2012-01-13",
+      "last": "2021-12-18"
+    },
+    {
       "name": "tribuneonlineng.com",
       "count": 2,
       "first": "2026-06-02",
@@ -1094,6 +1100,12 @@
       "count": 2,
       "first": "2025-09-17",
       "last": "2026-04-12"
+    },
+    {
+      "name": "voanews.com",
+      "count": 2,
+      "first": "2012-01-01",
+      "last": "2012-01-02"
     },
     {
       "name": "YNaija",
@@ -1112,12 +1124,6 @@
       "count": 1,
       "first": "2024-08-13",
       "last": "2024-08-13"
-    },
-    {
-      "name": "africarenewal.un.org",
-      "count": 1,
-      "first": "2012-04-15",
-      "last": "2012-04-15"
     },
     {
       "name": "AIT LIVE",
@@ -1282,6 +1288,12 @@
       "last": "2024-09-05"
     },
     {
+      "name": "Nigerian Voice",
+      "count": 1,
+      "first": "2025-10-14",
+      "last": "2025-10-14"
+    },
+    {
       "name": "nigerianeye.com",
       "count": 1,
       "first": "2026-06-08",
@@ -1336,6 +1348,12 @@
       "last": "2026-06-08"
     },
     {
+      "name": "theguardian.com",
+      "count": 1,
+      "first": "2012-01-16",
+      "last": "2012-01-16"
+    },
+    {
       "name": "TheNiche",
       "count": 1,
       "first": "2020-09-11",
@@ -1354,22 +1372,28 @@
       "last": "2024-09-07"
     },
     {
+      "name": "Times of Malta",
+      "count": 1,
+      "first": "2012-01-09",
+      "last": "2012-01-09"
+    },
+    {
       "name": "TimesLIVE",
       "count": 1,
       "first": "2026-03-18",
       "last": "2026-03-18"
     },
     {
-      "name": "timesofmalta.com",
-      "count": 1,
-      "first": "2012-01-09",
-      "last": "2012-01-09"
-    },
-    {
       "name": "Tribune Online",
       "count": 1,
       "first": "2024-09-03",
       "last": "2024-09-03"
+    },
+    {
+      "name": "UN Africa Renewal",
+      "count": 1,
+      "first": "2012-04-15",
+      "last": "2012-04-15"
     }
   ],
   "firstDate": "2009-10-30",
