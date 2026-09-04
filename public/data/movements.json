@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T22:22:34.899Z",
+  "lastUpdated": "2026-09-04T03:08:48.518Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -10,38 +10,38 @@
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 783,
-      "updated": "22h ago",
+      "articleCount": 800,
+      "updated": "3h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
         {
-          "title": "Brahmbhatt launches CJP-Democratic, accuses Dipke-led platform of aligning with AAP",
-          "source": "The Hindu",
-          "date": "2026-09-03"
+          "title": "SC quashes Jantar Mantar protest FIRs across India, permits fresh FIR against 2873",
+          "source": "Supreme Court Observer",
+          "date": "2026-09-04"
         },
         {
-          "title": "Let’s both show our degrees: CJP’s Dipke to PM Modi",
-          "source": "The Hindu",
-          "date": "2026-09-03"
+          "title": "At least 25 murder, rape accused whom Delhi Police software caught at Jantar Mantar were in jail, records show",
+          "source": "indianexpress.com",
+          "date": "2026-09-04"
         },
         {
-          "title": "CJP splits, Manish Brahmbhatt launches 'democratic' faction",
-          "source": "Rediff",
-          "date": "2026-09-03"
+          "title": "Jantar Mantar assault case: Claims of political interference baseless, says Delhi Police",
+          "source": "indianexpress.com",
+          "date": "2026-09-04"
         }
       ]
     },
     {
       "id": "nigeria-fuel",
       "name": "Fuel Subsidy Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Africa",
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 510,
-      "updated": "22h ago",
+      "articleCount": 532,
+      "updated": "1d ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
         {
@@ -64,14 +64,14 @@
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
       "articleCount": 280,
-      "updated": "22h ago",
+      "updated": "1d ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
         {
@@ -100,7 +100,7 @@
       "location": "Kenya · Nairobi",
       "year": 2024,
       "logged": "2024-06-10",
-      "articleCount": 445,
+      "articleCount": 447,
       "updated": "1w ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [

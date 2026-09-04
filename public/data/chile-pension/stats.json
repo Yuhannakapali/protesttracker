@@ -582,7 +582,7 @@
       "last": "2025-03-26"
     },
     {
-      "name": "dw.com",
+      "name": "DW.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -642,12 +642,6 @@
       "last": "2025-01-15"
     },
     {
-      "name": "Clarin.com",
-      "count": 4,
-      "first": "2017-12-18",
-      "last": "2019-12-24"
-    },
-    {
       "name": "Diario Junio",
       "count": 4,
       "first": "2026-04-20",
@@ -682,6 +676,12 @@
       "count": 3,
       "first": "2014-11-04",
       "last": "2017-09-03"
+    },
+    {
+      "name": "Clarín",
+      "count": 3,
+      "first": "2017-12-18",
+      "last": "2019-12-24"
     },
     {
       "name": "Democracy Now!",
@@ -802,12 +802,6 @@
       "count": 2,
       "first": "2019-10-22",
       "last": "2020-07-24"
-    },
-    {
-      "name": "Mexico Solidarity Media",
-      "count": 2,
-      "first": "2026-03-20",
-      "last": "2026-03-20"
     },
     {
       "name": "NBC News",
@@ -942,6 +936,12 @@
       "last": "2019-12-18"
     },
     {
+      "name": "Clarin.com",
+      "count": 1,
+      "first": "2017-12-19",
+      "last": "2017-12-19"
+    },
+    {
       "name": "CNN",
       "count": 1,
       "first": "2025-09-29",
@@ -990,16 +990,22 @@
       "last": "2025-03-31"
     },
     {
-      "name": "diarioantofagasta.cl",
+      "name": "diarioepoca.com",
       "count": 1,
-      "first": "2020-07-20",
-      "last": "2020-07-20"
+      "first": "2023-04-06",
+      "last": "2023-04-06"
     },
     {
       "name": "El Destape",
       "count": 1,
       "first": "2017-12-17",
       "last": "2017-12-17"
+    },
+    {
+      "name": "El Diario de Antofagasta",
+      "count": 1,
+      "first": "2020-07-20",
+      "last": "2020-07-20"
     },
     {
       "name": "El Grito del Sur",
@@ -1110,12 +1116,6 @@
       "last": "2020-02-19"
     },
     {
-      "name": "independent.co.uk",
-      "count": 1,
-      "first": "2019-11-30",
-      "last": "2019-11-30"
-    },
-    {
       "name": "Infinita",
       "count": 1,
       "first": "2021-12-14",
@@ -1194,13 +1194,25 @@
       "last": "2017-03-27"
     },
     {
+      "name": "Mexico Solidarity Media",
+      "count": 1,
+      "first": "2026-03-20",
+      "last": "2026-03-20"
+    },
+    {
+      "name": "mexicosolidarity.com",
+      "count": 1,
+      "first": "2026-03-20",
+      "last": "2026-03-20"
+    },
+    {
       "name": "Mises Institute",
       "count": 1,
       "first": "2019-12-10",
       "last": "2019-12-10"
     },
     {
-      "name": "Montevideo Portal",
+      "name": "montevideo.com.uy",
       "count": 1,
       "first": "2023-03-20",
       "last": "2023-03-20"
@@ -1308,12 +1320,6 @@
       "last": "2020-07-16"
     },
     {
-      "name": "Radio Dos Corrientes",
-      "count": 1,
-      "first": "2023-04-06",
-      "last": "2023-04-06"
-    },
-    {
       "name": "Radio Gol",
       "count": 1,
       "first": "2024-09-24",
@@ -1374,16 +1380,16 @@
       "last": "2020-03-17"
     },
     {
-      "name": "The Bogotá Post",
-      "count": 1,
-      "first": "2020-02-21",
-      "last": "2020-02-21"
-    },
-    {
       "name": "The Conversation",
       "count": 1,
       "first": "2019-11-11",
       "last": "2019-11-11"
+    },
+    {
+      "name": "The Independent",
+      "count": 1,
+      "first": "2019-11-30",
+      "last": "2019-11-30"
     },
     {
       "name": "The Militant",
@@ -1402,6 +1408,12 @@
       "count": 1,
       "first": "2025-07-26",
       "last": "2025-07-26"
+    },
+    {
+      "name": "thebogotapost.com",
+      "count": 1,
+      "first": "2020-02-21",
+      "last": "2020-02-21"
     },
     {
       "name": "Toronto Sun",
