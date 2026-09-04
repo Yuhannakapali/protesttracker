@@ -1,352 +1,6 @@
 {
-  "generated": "2026-09-03T22:23:58.903Z",
+  "generated": "2026-09-03T23:07:38.747Z",
   "candidates": [
-    {
-      "key": "wd-Q133441461",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Turkey",
-      "countries": [
-        "Turkey"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Turkish_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "turkey-turkish-protests",
-        "name": "2025 Turkish protests",
-        "region": "Middle East",
-        "location": "Turkey",
-        "year": 2025,
-        "description": "protests against arrests of political figures",
-        "keywords": [
-          "turkish",
-          "turkey",
-          "protest"
-        ],
-        "strictKeywords": [
-          "turkish"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Turkish%20protests&hl=en-TR&gl=TR&ceid=TR%3Aen",
-          "https://news.google.com/rss/search?q=Turkey%20protest&hl=en-TR&gl=TR&ceid=TR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q133441461",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Turkish_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q133800245",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United States",
-      "countries": [
-        "United States"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Cory_Booker%27s_marathon_speech",
-      "needsName": false,
-      "suggested": {
-        "id": "united-states-cory-booker-s-marathon-speech",
-        "name": "Cory Booker's marathon speech",
-        "region": "Americas",
-        "location": "United States",
-        "year": 2026,
-        "description": "protest speech against the second Trump administration",
-        "keywords": [
-          "cory",
-          "booker",
-          "marathon",
-          "speech",
-          "united states",
-          "protest"
-        ],
-        "strictKeywords": [
-          "cory",
-          "booker",
-          "marathon",
-          "speech"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Cory%20Booker's%20marathon%20speech&hl=en-US&gl=US&ceid=US%3Aen",
-          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q133800245",
-          "wikipedia": "https://en.wikipedia.org/wiki/Cory_Booker%27s_marathon_speech"
-        }
-      }
-    },
-    {
-      "key": "wd-Q133822045",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United States",
-      "countries": [
-        "United States"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Hands_Off_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "united-states-hands-off-protests",
-        "name": "Hands Off protests",
-        "region": "Americas",
-        "location": "United States",
-        "year": 2026,
-        "description": "demonstrations opposing the 2nd Trump administration held April 5, 2025",
-        "keywords": [
-          "hands",
-          "off",
-          "united states",
-          "protest"
-        ],
-        "strictKeywords": [
-          "hands",
-          "off"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Hands%20Off%20protests&hl=en-US&gl=US&ceid=US%3Aen",
-          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q133822045",
-          "wikipedia": "https://en.wikipedia.org/wiki/Hands_Off_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q133830781",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Serbia",
-      "countries": [
-        "Serbia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Tour_de_Strasbourg",
-      "needsName": false,
-      "suggested": {
-        "id": "serbia-tour-de-strasbourg",
-        "name": "Tour de Strasbourg",
-        "region": "Europe",
-        "location": "Serbia",
-        "year": 2026,
-        "description": "protest cycling action by students from Serbia",
-        "keywords": [
-          "tour",
-          "strasbourg",
-          "serbia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "tour",
-          "strasbourg"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Tour%20de%20Strasbourg&hl=en-RS&gl=RS&ceid=RS%3Aen",
-          "https://news.google.com/rss/search?q=Serbia%20protest&hl=en-RS&gl=RS&ceid=RS%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q133830781",
-          "wikipedia": "https://en.wikipedia.org/wiki/Tour_de_Strasbourg"
-        }
-      }
-    },
-    {
-      "key": "wd-Q133838843",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Serbia",
-      "countries": [
-        "Serbia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/%C4%86aciland_Protest_Camp",
-      "needsName": false,
-      "suggested": {
-        "id": "serbia-counter-protest-student-camp",
-        "name": "Counter-Protest Student Camp",
-        "region": "Europe",
-        "location": "Serbia",
-        "year": 2026,
-        "description": "encampment in Pionirski Park, Belgrade, Serbia",
-        "keywords": [
-          "counter",
-          "student",
-          "camp",
-          "serbia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "counter",
-          "student",
-          "camp"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Counter-Protest%20Student%20Camp&hl=en-RS&gl=RS&ceid=RS%3Aen",
-          "https://news.google.com/rss/search?q=Serbia%20protest&hl=en-RS&gl=RS&ceid=RS%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q133838843",
-          "wikipedia": "https://en.wikipedia.org/wiki/%C4%86aciland_Protest_Camp"
-        }
-      }
-    },
-    {
-      "key": "wd-Q134286893",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United Kingdom",
-      "countries": [
-        "United Kingdom"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Birmingham_bin_strike",
-      "needsName": false,
-      "suggested": {
-        "id": "united-kingdom-birmingham-bin-strike",
-        "name": "Birmingham bin strike",
-        "region": "Europe",
-        "location": "United Kingdom",
-        "year": 2026,
-        "description": "industrial action over pay in the garbage disposal industry",
-        "keywords": [
-          "birmingham",
-          "bin",
-          "united kingdom",
-          "protest"
-        ],
-        "strictKeywords": [
-          "birmingham",
-          "bin"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Birmingham%20bin%20strike&hl=en-GB&gl=GB&ceid=GB%3Aen",
-          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q134286893",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Birmingham_bin_strike"
-        }
-      }
-    },
-    {
-      "key": "wd-Q134574040",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Mali",
-      "countries": [
-        "Mali"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Malian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "mali-malian-protests",
-        "name": "2025 Malian protests",
-        "region": "Africa",
-        "location": "Mali",
-        "year": 2025,
-        "description": "anti-government protests in Mali in May 2025",
-        "keywords": [
-          "malian",
-          "mali",
-          "protest"
-        ],
-        "strictKeywords": [
-          "malian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Malian%20protests&hl=en-ML&gl=ML&ceid=ML%3Aen",
-          "https://news.google.com/rss/search?q=Mali%20protest&hl=en-ML&gl=ML&ceid=ML%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q134574040",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Malian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q134695948",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "France",
-      "countries": [
-        "France"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Paris_Saint-Germain_celebration_riots",
-      "needsName": false,
-      "suggested": {
-        "id": "france-paris-saint-germain-celebration-riots",
-        "name": "2025 Paris Saint-Germain celebration riots",
-        "region": "Europe",
-        "location": "France",
-        "year": 2025,
-        "description": "riots in Paris, France",
-        "keywords": [
-          "paris",
-          "saint",
-          "germain",
-          "celebration",
-          "france",
-          "protest"
-        ],
-        "strictKeywords": [
-          "paris",
-          "saint",
-          "germain",
-          "celebration"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Paris%20Saint-Germain%20celebration%20riots&hl=en-FR&gl=FR&ceid=FR%3Aen",
-          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q134695948",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Paris_Saint-Germain_celebration_riots"
-        }
-      }
-    },
-    {
-      "key": "wd-Q134698175",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Mongolia",
-      "countries": [
-        "Mongolia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Mongolian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "mongolia-mongolian-protests",
-        "name": "2025 Mongolian protests",
-        "region": "Asia",
-        "location": "Mongolia",
-        "year": 2025,
-        "description": "2025 anti-government protests in Mongolia",
-        "keywords": [
-          "mongolian",
-          "mongolia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "mongolian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Mongolian%20protests&hl=en-MN&gl=MN&ceid=MN%3Aen",
-          "https://news.google.com/rss/search?q=Mongolia%20protest&hl=en-MN&gl=MN&ceid=MN%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q134698175",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Mongolian_protests"
-        }
-      }
-    },
     {
       "key": "wd-Q134734343",
       "source": "wikidata",
@@ -365,14 +19,12 @@
         "year": 2025,
         "description": "series of protests in the United States against immigration raids",
         "keywords": [
-          "june",
           "los",
           "angeles",
           "united states",
           "protest"
         ],
         "strictKeywords": [
-          "june",
           "los",
           "angeles"
         ],
@@ -747,15 +399,11 @@
         "year": 2025,
         "description": "protests in Indonesia since August 2025",
         "keywords": [
-          "august",
-          "september",
           "indonesian",
           "indonesia",
           "protest"
         ],
         "strictKeywords": [
-          "august",
-          "september",
           "indonesian"
         ],
         "feeds": [
@@ -804,6 +452,352 @@
         "_source": {
           "wikidata": "Q136160164",
           "wikipedia": "https://en.wikipedia.org/wiki/2025_Nepalese_Gen_Z_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q133441461",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Turkey",
+      "countries": [
+        "Turkey"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Turkish_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "turkey-turkish-protests",
+        "name": "2025 Turkish protests",
+        "region": "Middle East",
+        "location": "Turkey",
+        "year": 2025,
+        "description": "protests against arrests of political figures",
+        "keywords": [
+          "turkish",
+          "turkey",
+          "protest"
+        ],
+        "strictKeywords": [
+          "turkish"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Turkish%20protests&hl=en-TR&gl=TR&ceid=TR%3Aen",
+          "https://news.google.com/rss/search?q=Turkey%20protest&hl=en-TR&gl=TR&ceid=TR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q133441461",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Turkish_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q133800245",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United States",
+      "countries": [
+        "United States"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Cory_Booker%27s_marathon_speech",
+      "needsName": false,
+      "suggested": {
+        "id": "united-states-cory-booker-s-marathon-speech",
+        "name": "Cory Booker's marathon speech",
+        "region": "Americas",
+        "location": "United States",
+        "year": 2026,
+        "description": "protest speech against the second Trump administration",
+        "keywords": [
+          "cory",
+          "booker",
+          "marathon",
+          "speech",
+          "united states",
+          "protest"
+        ],
+        "strictKeywords": [
+          "cory",
+          "booker",
+          "marathon",
+          "speech"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Cory%20Booker's%20marathon%20speech&hl=en-US&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q133800245",
+          "wikipedia": "https://en.wikipedia.org/wiki/Cory_Booker%27s_marathon_speech"
+        }
+      }
+    },
+    {
+      "key": "wd-Q133822045",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United States",
+      "countries": [
+        "United States"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Hands_Off_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "united-states-hands-off-protests",
+        "name": "Hands Off protests",
+        "region": "Americas",
+        "location": "United States",
+        "year": 2026,
+        "description": "demonstrations opposing the 2nd Trump administration held April 5, 2025",
+        "keywords": [
+          "hands",
+          "off",
+          "united states",
+          "protest"
+        ],
+        "strictKeywords": [
+          "hands",
+          "off"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Hands%20Off%20protests&hl=en-US&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q133822045",
+          "wikipedia": "https://en.wikipedia.org/wiki/Hands_Off_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q133830781",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Serbia",
+      "countries": [
+        "Serbia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Tour_de_Strasbourg",
+      "needsName": false,
+      "suggested": {
+        "id": "serbia-tour-de-strasbourg",
+        "name": "Tour de Strasbourg",
+        "region": "Europe",
+        "location": "Serbia",
+        "year": 2026,
+        "description": "protest cycling action by students from Serbia",
+        "keywords": [
+          "tour",
+          "strasbourg",
+          "serbia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "tour",
+          "strasbourg"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Tour%20de%20Strasbourg&hl=en-RS&gl=RS&ceid=RS%3Aen",
+          "https://news.google.com/rss/search?q=Serbia%20protest&hl=en-RS&gl=RS&ceid=RS%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q133830781",
+          "wikipedia": "https://en.wikipedia.org/wiki/Tour_de_Strasbourg"
+        }
+      }
+    },
+    {
+      "key": "wd-Q133838843",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Serbia",
+      "countries": [
+        "Serbia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/%C4%86aciland_Protest_Camp",
+      "needsName": false,
+      "suggested": {
+        "id": "serbia-counter-protest-student-camp",
+        "name": "Counter-Protest Student Camp",
+        "region": "Europe",
+        "location": "Serbia",
+        "year": 2026,
+        "description": "encampment in Pionirski Park, Belgrade, Serbia",
+        "keywords": [
+          "counter",
+          "student",
+          "camp",
+          "serbia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "counter",
+          "student",
+          "camp"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Counter-Protest%20Student%20Camp&hl=en-RS&gl=RS&ceid=RS%3Aen",
+          "https://news.google.com/rss/search?q=Serbia%20protest&hl=en-RS&gl=RS&ceid=RS%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q133838843",
+          "wikipedia": "https://en.wikipedia.org/wiki/%C4%86aciland_Protest_Camp"
+        }
+      }
+    },
+    {
+      "key": "wd-Q134286893",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United Kingdom",
+      "countries": [
+        "United Kingdom"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Birmingham_bin_strike",
+      "needsName": false,
+      "suggested": {
+        "id": "united-kingdom-birmingham-bin-strike",
+        "name": "Birmingham bin strike",
+        "region": "Europe",
+        "location": "United Kingdom",
+        "year": 2026,
+        "description": "industrial action over pay in the garbage disposal industry",
+        "keywords": [
+          "birmingham",
+          "bin",
+          "united kingdom",
+          "protest"
+        ],
+        "strictKeywords": [
+          "birmingham",
+          "bin"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Birmingham%20bin%20strike&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q134286893",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Birmingham_bin_strike"
+        }
+      }
+    },
+    {
+      "key": "wd-Q134574040",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Mali",
+      "countries": [
+        "Mali"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Malian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "mali-malian-protests",
+        "name": "2025 Malian protests",
+        "region": "Africa",
+        "location": "Mali",
+        "year": 2025,
+        "description": "anti-government protests in Mali in May 2025",
+        "keywords": [
+          "malian",
+          "mali",
+          "protest"
+        ],
+        "strictKeywords": [
+          "malian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Malian%20protests&hl=en-ML&gl=ML&ceid=ML%3Aen",
+          "https://news.google.com/rss/search?q=Mali%20protest&hl=en-ML&gl=ML&ceid=ML%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q134574040",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Malian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q134695948",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "France",
+      "countries": [
+        "France"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Paris_Saint-Germain_celebration_riots",
+      "needsName": false,
+      "suggested": {
+        "id": "france-paris-saint-germain-celebration-riots",
+        "name": "2025 Paris Saint-Germain celebration riots",
+        "region": "Europe",
+        "location": "France",
+        "year": 2025,
+        "description": "riots in Paris, France",
+        "keywords": [
+          "paris",
+          "saint",
+          "germain",
+          "celebration",
+          "france",
+          "protest"
+        ],
+        "strictKeywords": [
+          "paris",
+          "saint",
+          "germain",
+          "celebration"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Paris%20Saint-Germain%20celebration%20riots&hl=en-FR&gl=FR&ceid=FR%3Aen",
+          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q134695948",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Paris_Saint-Germain_celebration_riots"
+        }
+      }
+    },
+    {
+      "key": "wd-Q134698175",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Mongolia",
+      "countries": [
+        "Mongolia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Mongolian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "mongolia-mongolian-protests",
+        "name": "2025 Mongolian protests",
+        "region": "Asia",
+        "location": "Mongolia",
+        "year": 2025,
+        "description": "2025 anti-government protests in Mongolia",
+        "keywords": [
+          "mongolian",
+          "mongolia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "mongolian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Mongolian%20protests&hl=en-MN&gl=MN&ceid=MN%3Aen",
+          "https://news.google.com/rss/search?q=Mongolia%20protest&hl=en-MN&gl=MN&ceid=MN%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q134698175",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Mongolian_protests"
         }
       }
     },
@@ -1088,13 +1082,11 @@
         "year": 2025,
         "description": "",
         "keywords": [
-          "july",
           "angolan",
           "angola",
           "protest"
         ],
         "strictKeywords": [
-          "july",
           "angolan"
         ],
         "feeds": [
@@ -1276,13 +1268,11 @@
         "year": 2025,
         "description": "American anti-Trump protests",
         "keywords": [
-          "october",
           "kings",
           "united states",
           "protest"
         ],
         "strictKeywords": [
-          "october",
           "kings"
         ],
         "feeds": [
@@ -2007,13 +1997,11 @@
         "year": 2026,
         "description": "a series of ongoing student-led demonstrations against government regulations  in Indonesia",
         "keywords": [
-          "june",
           "indonesian",
           "indonesia",
           "protest"
         ],
         "strictKeywords": [
-          "june",
           "indonesian"
         ],
         "feeds": [
@@ -2392,14 +2380,12 @@
         "keywords": [
           "san",
           "marcos",
-          "may",
           "peru",
           "protest"
         ],
         "strictKeywords": [
           "san",
-          "marcos",
-          "may"
+          "marcos"
         ],
         "feeds": [
           "https://news.google.com/rss/search?q=Protest%20at%20San%20Marcos%2012%20May%202026&hl=en-PE&gl=PE&ceid=PE%3Aen",
