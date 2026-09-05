@@ -582,7 +582,7 @@
       "last": "2025-03-26"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -660,7 +660,7 @@
       "last": "2025-09-23"
     },
     {
-      "name": "SoyChile.cl",
+      "name": "soychile.cl",
       "count": 4,
       "first": "2016-08-10",
       "last": "2019-03-31"
@@ -702,6 +702,12 @@
       "last": "2026-08-06"
     },
     {
+      "name": "nytimes.com",
+      "count": 3,
+      "first": "2016-09-10",
+      "last": "2019-11-21"
+    },
+    {
       "name": "Remezcla",
       "count": 3,
       "first": "2019-10-23",
@@ -712,12 +718,6 @@
       "count": 3,
       "first": "2016-08-21",
       "last": "2019-10-30"
-    },
-    {
-      "name": "The New York Times",
-      "count": 3,
-      "first": "2016-09-10",
-      "last": "2019-11-21"
     },
     {
       "name": "The Washington Post",
@@ -990,12 +990,6 @@
       "last": "2023-04-06"
     },
     {
-      "name": "Diario La Quinta",
-      "count": 1,
-      "first": "2018-06-01",
-      "last": "2018-06-01"
-    },
-    {
       "name": "Diario Río Uruguay",
       "count": 1,
       "first": "2026-07-27",
@@ -1006,6 +1000,12 @@
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
+    },
+    {
+      "name": "diariolaquinta.cl",
+      "count": 1,
+      "first": "2018-06-01",
+      "last": "2018-06-01"
     },
     {
       "name": "El Destape",
@@ -1032,6 +1032,12 @@
       "last": "2026-07-30"
     },
     {
+      "name": "El Nacional — La voz de todos",
+      "count": 1,
+      "first": "2022-03-27",
+      "last": "2022-03-27"
+    },
+    {
       "name": "El Nuevo Diario",
       "count": 1,
       "first": "2022-09-22",
@@ -1056,22 +1062,10 @@
       "last": "2026-05-22"
     },
     {
-      "name": "elnacional.com.do",
-      "count": 1,
-      "first": "2022-03-27",
-      "last": "2022-03-27"
-    },
-    {
       "name": "elsiglo.cl",
       "count": 1,
       "first": "2023-07-25",
       "last": "2023-07-25"
-    },
-    {
-      "name": "Fenpruss",
-      "count": 1,
-      "first": "2019-03-25",
-      "last": "2019-03-25"
     },
     {
       "name": "Foreign Policy",
@@ -1116,7 +1110,7 @@
       "last": "2018-10-29"
     },
     {
-      "name": "guyanachronicle.com",
+      "name": "Guyana Chronicle",
       "count": 1,
       "first": "2017-03-27",
       "last": "2017-03-27"
@@ -1224,7 +1218,7 @@
       "last": "2017-03-27"
     },
     {
-      "name": "mises.org",
+      "name": "Mises Institute",
       "count": 1,
       "first": "2019-12-10",
       "last": "2019-12-10"
@@ -1278,7 +1272,7 @@
       "last": "2019-10-25"
     },
     {
-      "name": "OvejeroNoticias",
+      "name": "ovejeronoticias.cl",
       "count": 1,
       "first": "2018-10-17",
       "last": "2018-10-17"
@@ -1428,7 +1422,7 @@
       "last": "2019-11-15"
     },
     {
-      "name": "thesun.ng",
+      "name": "The Sun Nigeria",
       "count": 1,
       "first": "2025-07-26",
       "last": "2025-07-26"
@@ -1468,6 +1462,12 @@
       "count": 1,
       "first": "2018-04-23",
       "last": "2018-04-23"
+    },
+    {
+      "name": "web2.fenpruss.cl",
+      "count": 1,
+      "first": "2019-03-25",
+      "last": "2019-03-25"
     },
     {
       "name": "World Socialist Web Site",

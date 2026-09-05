@@ -39,7 +39,7 @@
     },
     {
       "start": "2024-07-01",
-      "count": 38
+      "count": 41
     },
     {
       "start": "2024-08-01",
@@ -167,21 +167,15 @@
     },
     {
       "name": "People Daily",
-      "count": 23,
+      "count": 30,
       "first": "2025-11-02",
-      "last": "2026-06-25"
+      "last": "2026-07-30"
     },
     {
       "name": "Al Jazeera",
-      "count": 20,
+      "count": 22,
       "first": "2024-06-18",
       "last": "2026-06-27"
-    },
-    {
-      "name": "peopledaily.digital",
-      "count": 20,
-      "first": "2026-03-27",
-      "last": "2026-08-27"
     },
     {
       "name": "The Africa Report",
@@ -199,6 +193,12 @@
       "name": "The Eastleigh Voice",
       "count": 15,
       "first": "2024-07-03",
+      "last": "2026-08-27"
+    },
+    {
+      "name": "peopledaily.digital",
+      "count": 13,
+      "first": "2026-03-27",
       "last": "2026-08-27"
     },
     {
@@ -334,6 +334,12 @@
       "last": "2025-06-26"
     },
     {
+      "name": "Kenya Human Rights Commission (KHRC)",
+      "count": 3,
+      "first": "2024-06-24",
+      "last": "2025-09-20"
+    },
+    {
       "name": "MalindiKenya.net",
       "count": 3,
       "first": "2024-07-22",
@@ -400,22 +406,10 @@
       "last": "2026-06-20"
     },
     {
-      "name": "Kenya Human Rights Commission (KHRC)",
-      "count": 2,
-      "first": "2024-06-24",
-      "last": "2024-06-28"
-    },
-    {
       "name": "Kenya News Agency",
       "count": 2,
       "first": "2026-04-24",
       "last": "2026-06-25"
-    },
-    {
-      "name": "khrc.or.ke",
-      "count": 2,
-      "first": "2025-09-20",
-      "last": "2026-01-05"
     },
     {
       "name": "NTV Kenya",
@@ -448,6 +442,12 @@
       "last": "2024-06-20"
     },
     {
+      "name": "African Arguments",
+      "count": 1,
+      "first": "2024-07-31",
+      "last": "2024-07-31"
+    },
+    {
       "name": "Afrobarometer",
       "count": 1,
       "first": "2026-02-16",
@@ -472,13 +472,13 @@
       "last": "2024-07-19"
     },
     {
-      "name": "Bloomberg.com",
+      "name": "bloomberg.com",
       "count": 1,
       "first": "2026-05-05",
       "last": "2026-05-05"
     },
     {
-      "name": "Brookings",
+      "name": "brookings.edu",
       "count": 1,
       "first": "2026-04-07",
       "last": "2026-04-07"
@@ -614,6 +614,12 @@
       "count": 1,
       "first": "2026-08-28",
       "last": "2026-08-28"
+    },
+    {
+      "name": "khrc.or.ke",
+      "count": 1,
+      "first": "2026-01-05",
+      "last": "2026-01-05"
     },
     {
       "name": "Kroc Institute for International Peace Studies",

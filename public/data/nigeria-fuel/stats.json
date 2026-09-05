@@ -3,7 +3,7 @@
   "buckets": [
     {
       "start": "2009-10-01",
-      "count": 1
+      "count": 2
     },
     {
       "start": "2009-11-01",
@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 20
+      "count": 21
     }
   ],
   "sources": [
@@ -880,6 +880,12 @@
       "last": "2026-09-01"
     },
     {
+      "name": "The Sun Nigeria",
+      "count": 14,
+      "first": "2022-11-30",
+      "last": "2026-06-08"
+    },
+    {
       "name": "TheCable",
       "count": 14,
       "first": "2020-09-05",
@@ -917,27 +923,15 @@
     },
     {
       "name": "Vanguard",
-      "count": 9,
+      "count": 10,
       "first": "2026-09-02",
-      "last": "2026-09-04"
-    },
-    {
-      "name": "thesun.ng",
-      "count": 8,
-      "first": "2024-09-07",
-      "last": "2026-08-14"
+      "last": "2026-09-05"
     },
     {
       "name": "Independent Newspaper Nigeria",
       "count": 7,
       "first": "2020-09-07",
       "last": "2026-01-27"
-    },
-    {
-      "name": "The Sun Nigeria",
-      "count": 7,
-      "first": "2022-11-30",
-      "last": "2026-06-04"
     },
     {
       "name": "The Nation Newspaper",
@@ -950,6 +944,12 @@
       "count": 6,
       "first": "2025-09-07",
       "last": "2026-06-03"
+    },
+    {
+      "name": "VOA - Voice of America English News",
+      "count": 6,
+      "first": "2009-10-30",
+      "last": "2024-08-08"
     },
     {
       "name": "CNN",
@@ -976,12 +976,6 @@
       "last": "2012-01-09"
     },
     {
-      "name": "VOA - Voice of America English News",
-      "count": 5,
-      "first": "2009-10-30",
-      "last": "2024-08-08"
-    },
-    {
       "name": "allAfrica.com",
       "count": 4,
       "first": "2012-01-16",
@@ -994,6 +988,12 @@
       "last": "2026-06-04"
     },
     {
+      "name": "Nigeria Info FM",
+      "count": 4,
+      "first": "2025-12-17",
+      "last": "2026-01-26"
+    },
+    {
       "name": "Daily Trust",
       "count": 3,
       "first": "2024-08-03",
@@ -1004,12 +1004,6 @@
       "count": 3,
       "first": "2024-09-04",
       "last": "2024-09-07"
-    },
-    {
-      "name": "nigeriainfo.fm",
-      "count": 3,
-      "first": "2025-12-17",
-      "last": "2026-01-24"
     },
     {
       "name": "Nigerian Voice",
@@ -1180,7 +1174,7 @@
       "last": "2024-11-11"
     },
     {
-      "name": "Firstpost",
+      "name": "firstpost.com",
       "count": 1,
       "first": "2024-02-15",
       "last": "2024-02-15"
@@ -1276,12 +1270,6 @@
       "last": "2024-09-05"
     },
     {
-      "name": "Nigeria Info FM",
-      "count": 1,
-      "first": "2026-01-26",
-      "last": "2026-01-26"
-    },
-    {
       "name": "nigerianeye.com",
       "count": 1,
       "first": "2026-06-08",
@@ -1358,6 +1346,12 @@
       "count": 1,
       "first": "2024-09-04",
       "last": "2024-09-04"
+    },
+    {
+      "name": "thesun.ng",
+      "count": 1,
+      "first": "2026-08-14",
+      "last": "2026-08-14"
     },
     {
       "name": "thewhistler.ng",
