@@ -594,16 +594,16 @@
       "last": "2021-12-20"
     },
     {
+      "name": "The Clinic",
+      "count": 9,
+      "first": "2016-07-27",
+      "last": "2026-09-04"
+    },
+    {
       "name": "Al Jazeera",
       "count": 8,
       "first": "2019-10-26",
       "last": "2020-07-23"
-    },
-    {
-      "name": "The Clinic",
-      "count": 7,
-      "first": "2017-03-26",
-      "last": "2026-09-04"
     },
     {
       "name": "Colegio de Profesores",
@@ -660,7 +660,7 @@
       "last": "2025-09-23"
     },
     {
-      "name": "SoyChile.cl",
+      "name": "soychile.cl",
       "count": 4,
       "first": "2016-08-10",
       "last": "2019-03-31"
@@ -702,6 +702,12 @@
       "last": "2026-08-06"
     },
     {
+      "name": "nytimes.com",
+      "count": 3,
+      "first": "2016-09-10",
+      "last": "2019-11-21"
+    },
+    {
       "name": "Remezcla",
       "count": 3,
       "first": "2019-10-23",
@@ -712,12 +718,6 @@
       "count": 3,
       "first": "2016-08-21",
       "last": "2019-10-30"
-    },
-    {
-      "name": "The New York Times",
-      "count": 3,
-      "first": "2016-09-10",
-      "last": "2019-11-21"
     },
     {
       "name": "The Washington Post",
@@ -816,28 +816,22 @@
       "last": "2024-09-04"
     },
     {
-      "name": "Pressenza - International Press Agency",
-      "count": 2,
-      "first": "2015-12-12",
-      "last": "2016-10-16"
-    },
-    {
-      "name": "reuters.com",
+      "name": "Reuters",
       "count": 2,
       "first": "2019-10-23",
       "last": "2025-01-29"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 2,
+      "first": "2019-10-23",
+      "last": "2022-03-12"
     },
     {
       "name": "The Nation Newspaper",
       "count": 2,
       "first": "2024-02-07",
       "last": "2025-11-29"
-    },
-    {
-      "name": "theclinic.cl",
-      "count": 2,
-      "first": "2016-07-27",
-      "last": "2017-02-11"
     },
     {
       "name": "TN",
@@ -1146,7 +1140,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Infinita",
+      "name": "infinita.cl",
       "count": 1,
       "first": "2021-12-14",
       "last": "2021-12-14"
@@ -1326,6 +1320,18 @@
       "last": "2025-03-30"
     },
     {
+      "name": "Pressenza - International Press Agency",
+      "count": 1,
+      "first": "2015-12-12",
+      "last": "2015-12-12"
+    },
+    {
+      "name": "pressenza.com",
+      "count": 1,
+      "first": "2016-10-16",
+      "last": "2016-10-16"
+    },
+    {
       "name": "Pulso Diario San Luis",
       "count": 1,
       "first": "2025-03-30",
@@ -1384,18 +1390,6 @@
       "count": 1,
       "first": "2025-09-24",
       "last": "2025-09-24"
-    },
-    {
-      "name": "scmp.com",
-      "count": 1,
-      "first": "2019-10-23",
-      "last": "2019-10-23"
-    },
-    {
-      "name": "South China Morning Post",
-      "count": 1,
-      "first": "2022-03-12",
-      "last": "2022-03-12"
     },
     {
       "name": "Sydney Criminal Lawyers",

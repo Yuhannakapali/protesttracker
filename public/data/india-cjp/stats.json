@@ -19,7 +19,7 @@
     },
     {
       "start": "2026-06-01",
-      "count": 17
+      "count": 18
     },
     {
       "start": "2026-07-01",
@@ -60,12 +60,6 @@
       "last": "2026-09-05"
     },
     {
-      "name": "The Times of India",
-      "count": 38,
-      "first": "2026-06-06",
-      "last": "2026-09-05"
-    },
-    {
       "name": "Telegraph India",
       "count": 37,
       "first": "2026-07-21",
@@ -84,6 +78,12 @@
       "last": "2026-09-04"
     },
     {
+      "name": "The Times of India",
+      "count": 22,
+      "first": "2026-06-06",
+      "last": "2026-09-04"
+    },
+    {
       "name": "ThePrint",
       "count": 20,
       "first": "2026-06-19",
@@ -96,6 +96,12 @@
       "last": "2026-09-05"
     },
     {
+      "name": "Rediff",
+      "count": 19,
+      "first": "2026-06-07",
+      "last": "2026-09-04"
+    },
+    {
       "name": "Bhaskar English",
       "count": 18,
       "first": "2026-07-19",
@@ -105,12 +111,6 @@
       "name": "Outlook India",
       "count": 18,
       "first": "2026-08-17",
-      "last": "2026-09-04"
-    },
-    {
-      "name": "Rediff",
-      "count": 18,
-      "first": "2026-06-07",
       "last": "2026-09-04"
     },
     {
@@ -130,6 +130,12 @@
       "count": 16,
       "first": "2026-08-06",
       "last": "2026-09-04"
+    },
+    {
+      "name": "timesofindia.indiatimes.com",
+      "count": 16,
+      "first": "2026-08-10",
+      "last": "2026-09-05"
     },
     {
       "name": "EdexLive",
@@ -174,12 +180,6 @@
       "last": "2026-09-04"
     },
     {
-      "name": "Frontline Magazine",
-      "count": 10,
-      "first": "2026-07-08",
-      "last": "2026-08-25"
-    },
-    {
       "name": "India.com",
       "count": 10,
       "first": "2026-08-18",
@@ -208,12 +208,6 @@
       "count": 8,
       "first": "2026-06-06",
       "last": "2026-09-03"
-    },
-    {
-      "name": "ABP Live English",
-      "count": 7,
-      "first": "2026-07-19",
-      "last": "2026-09-01"
     },
     {
       "name": "Live Law",
@@ -252,10 +246,22 @@
       "last": "2026-08-26"
     },
     {
+      "name": "Frontline Magazine",
+      "count": 6,
+      "first": "2026-07-08",
+      "last": "2026-08-25"
+    },
+    {
       "name": "Inshorts",
       "count": 6,
       "first": "2026-08-16",
       "last": "2026-09-04"
+    },
+    {
+      "name": "The Guardian",
+      "count": 6,
+      "first": "2026-07-20",
+      "last": "2026-08-04"
     },
     {
       "name": "Al Jazeera",
@@ -282,20 +288,14 @@
       "last": "2026-09-01"
     },
     {
-      "name": "The Guardian",
-      "count": 5,
-      "first": "2026-07-21",
-      "last": "2026-08-04"
-    },
-    {
-      "name": "The Hans India",
-      "count": 5,
-      "first": "2026-07-23",
-      "last": "2026-09-03"
-    },
-    {
       "name": "Times Now",
       "count": 5,
+      "first": "2026-08-27",
+      "last": "2026-09-01"
+    },
+    {
+      "name": "ABP Live English",
+      "count": 4,
       "first": "2026-08-27",
       "last": "2026-09-01"
     },
@@ -318,6 +318,12 @@
       "last": "2026-08-11"
     },
     {
+      "name": "frontline.thehindu.com",
+      "count": 4,
+      "first": "2026-07-22",
+      "last": "2026-08-20"
+    },
+    {
       "name": "Mid-Day",
       "count": 4,
       "first": "2026-08-23",
@@ -334,6 +340,12 @@
       "count": 4,
       "first": "2026-08-17",
       "last": "2026-09-05"
+    },
+    {
+      "name": "The Hans India",
+      "count": 4,
+      "first": "2026-08-19",
+      "last": "2026-09-03"
     },
     {
       "name": "CNBC TV18",
@@ -366,10 +378,22 @@
       "last": "2026-08-16"
     },
     {
+      "name": "news.abplive.com",
+      "count": 3,
+      "first": "2026-07-19",
+      "last": "2026-07-25"
+    },
+    {
       "name": "Supreme Court Observer",
       "count": 3,
       "first": "2026-08-18",
       "last": "2026-09-04"
+    },
+    {
+      "name": "The Federal",
+      "count": 3,
+      "first": "2026-07-05",
+      "last": "2026-09-02"
     },
     {
       "name": "The Independent",
@@ -462,7 +486,7 @@
       "last": "2026-08-19"
     },
     {
-      "name": "NewsGram",
+      "name": "newsgram.com",
       "count": 2,
       "first": "2026-08-31",
       "last": "2026-09-03"
@@ -516,12 +540,6 @@
       "last": "2026-08-04"
     },
     {
-      "name": "The Federal",
-      "count": 2,
-      "first": "2026-07-05",
-      "last": "2026-08-27"
-    },
-    {
       "name": "The Japan Times",
       "count": 2,
       "first": "2026-08-08",
@@ -538,6 +556,12 @@
       "count": 2,
       "first": "2026-09-04",
       "last": "2026-09-04"
+    },
+    {
+      "name": "The South First",
+      "count": 2,
+      "first": "2026-09-01",
+      "last": "2026-09-01"
     },
     {
       "name": "True Scoop",
@@ -666,6 +690,12 @@
       "last": "2026-08-24"
     },
     {
+      "name": "Dainik Jagran MP CG",
+      "count": 1,
+      "first": "2026-09-01",
+      "last": "2026-09-01"
+    },
+    {
       "name": "dandc.eu",
       "count": 1,
       "first": "2026-07-06",
@@ -694,12 +724,6 @@
       "count": 1,
       "first": "2026-08-08",
       "last": "2026-08-08"
-    },
-    {
-      "name": "english.dainikjagranmpcg.com",
-      "count": 1,
-      "first": "2026-09-01",
-      "last": "2026-09-01"
     },
     {
       "name": "english.factcrescendo.com",
@@ -1038,12 +1062,6 @@
       "last": "2026-08-18"
     },
     {
-      "name": "The South First",
-      "count": 1,
-      "first": "2026-09-01",
-      "last": "2026-09-01"
-    },
-    {
       "name": "The Times",
       "count": 1,
       "first": "2026-08-17",
@@ -1056,16 +1074,10 @@
       "last": "2026-09-05"
     },
     {
-      "name": "thefederal.com",
+      "name": "thehansindia.com",
       "count": 1,
-      "first": "2026-09-02",
-      "last": "2026-09-02"
-    },
-    {
-      "name": "theguardian.com",
-      "count": 1,
-      "first": "2026-07-20",
-      "last": "2026-07-20"
+      "first": "2026-07-23",
+      "last": "2026-07-23"
     },
     {
       "name": "thehawk.in",
@@ -1090,12 +1102,6 @@
       "count": 1,
       "first": "2026-08-23",
       "last": "2026-08-23"
-    },
-    {
-      "name": "thesouthfirst.com",
-      "count": 1,
-      "first": "2026-09-01",
-      "last": "2026-09-01"
     },
     {
       "name": "Time Magazine",
