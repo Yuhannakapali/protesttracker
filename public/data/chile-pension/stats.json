@@ -411,7 +411,7 @@
     },
     {
       "start": "2023-05-01",
-      "count": 0
+      "count": 1
     },
     {
       "start": "2023-06-01",
@@ -577,7 +577,7 @@
   "sources": [
     {
       "name": "La Izquierda Diario Chile",
-      "count": 25,
+      "count": 26,
       "first": "2015-04-23",
       "last": "2025-03-26"
     },
@@ -636,7 +636,7 @@
       "last": "2025-02-06"
     },
     {
-      "name": "latercera.com",
+      "name": "La Tercera",
       "count": 5,
       "first": "2018-06-04",
       "last": "2025-01-15"
@@ -700,12 +700,6 @@
       "count": 3,
       "first": "2016-08-21",
       "last": "2026-08-06"
-    },
-    {
-      "name": "La Izquierda Diario",
-      "count": 3,
-      "first": "2017-07-24",
-      "last": "2026-06-24"
     },
     {
       "name": "Remezcla",
@@ -792,13 +786,19 @@
       "last": "2019-10-16"
     },
     {
+      "name": "La Izquierda Diario",
+      "count": 2,
+      "first": "2017-09-04",
+      "last": "2026-06-24"
+    },
+    {
       "name": "Macau Business",
       "count": 2,
       "first": "2019-10-22",
       "last": "2020-07-24"
     },
     {
-      "name": "mexicosolidarity.com",
+      "name": "Mexico Solidarity Media",
       "count": 2,
       "first": "2026-03-20",
       "last": "2026-03-20"
@@ -844,6 +844,12 @@
       "count": 2,
       "first": "2019-10-29",
       "last": "2022-03-12"
+    },
+    {
+      "name": "0264Noticias",
+      "count": 1,
+      "first": "2023-05-01",
+      "last": "2023-05-01"
     },
     {
       "name": "7paginas",
@@ -924,7 +930,7 @@
       "last": "2021-09-22"
     },
     {
-      "name": "cambridge.org",
+      "name": "Cambridge University Press & Assessment",
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
@@ -1026,12 +1032,6 @@
       "last": "2026-07-30"
     },
     {
-      "name": "El Nacional — La voz de todos",
-      "count": 1,
-      "first": "2022-03-27",
-      "last": "2022-03-27"
-    },
-    {
       "name": "El Nuevo Diario",
       "count": 1,
       "first": "2022-09-22",
@@ -1054,6 +1054,12 @@
       "count": 1,
       "first": "2026-05-22",
       "last": "2026-05-22"
+    },
+    {
+      "name": "elnacional.com.do",
+      "count": 1,
+      "first": "2022-03-27",
+      "last": "2022-03-27"
     },
     {
       "name": "elsiglo.cl",
@@ -1110,7 +1116,7 @@
       "last": "2018-10-29"
     },
     {
-      "name": "Guyana Chronicle",
+      "name": "guyanachronicle.com",
       "count": 1,
       "first": "2017-03-27",
       "last": "2017-03-27"
@@ -1218,7 +1224,7 @@
       "last": "2017-03-27"
     },
     {
-      "name": "Mises Institute",
+      "name": "mises.org",
       "count": 1,
       "first": "2019-12-10",
       "last": "2019-12-10"
@@ -1350,7 +1356,7 @@
       "last": "2025-03-20"
     },
     {
-      "name": "reuters.com",
+      "name": "Reuters",
       "count": 1,
       "first": "2025-01-29",
       "last": "2025-01-29"
@@ -1422,7 +1428,7 @@
       "last": "2019-11-15"
     },
     {
-      "name": "The Sun Nigeria",
+      "name": "thesun.ng",
       "count": 1,
       "first": "2025-07-26",
       "last": "2025-07-26"

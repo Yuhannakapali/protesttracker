@@ -1,19 +1,24 @@
 {
-  "lastUpdated": "2026-09-05T08:04:20.218Z",
+  "lastUpdated": "2026-09-05T13:15:45.913Z",
   "movements": [
     {
       "id": "india-cjp",
       "name": "Cockroach Janta Party / NEET Protests",
-      "status": "Active",
+      "status": "Escalating",
       "active": true,
       "region": "Asia",
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 881,
-      "updated": "8h ago",
+      "articleCount": 888,
+      "updated": "13h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
+        {
+          "title": "Congress and Cockroach Janta Party fight amongst themselves to take credit for quashing FIRs against 'protestors' at Jantar Mantar: Details",
+          "source": "opindia.com",
+          "date": "2026-09-05"
+        },
         {
           "title": "Two MPs and a Congress leader join CJP at Parliament Street station; police change FIR",
           "source": "The Indian Express",
@@ -22,11 +27,6 @@
         {
           "title": "'Swatantra Bhardwaj to be arrested within 72 hours': CJP protester and daughter of assault victim",
           "source": "The Times of India",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "\"Very Distressing To See...\": Top Court Judge Slams Police Crackdown At Jantar Mantar",
-          "source": "NDTV",
           "date": "2026-09-05"
         }
       ]
@@ -40,10 +40,15 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 546,
-      "updated": "1d ago",
+      "articleCount": 547,
+      "updated": "13h ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
+        {
+          "title": "Petrol should sell for N605 per litre in Nigeria – Olawepo-Hashim",
+          "source": "Daily Post Nigeria",
+          "date": "2026-09-05"
+        },
         {
           "title": "Fuel can sell for N605/litre, subsidy is ‘Accounting Magic’ — Olawepo-Hashim",
           "source": "Vanguard",
@@ -52,11 +57,6 @@
         {
           "title": "Subsidy pain must yield gains for Nigerians — PENGASSAN",
           "source": "Vanguard",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "Fuel Subsidy Is ‘Accounting Magic,’ Accord Party’s Olawepo-Hashim Says Petrol Overpriced In Nigeria",
-          "source": "Channels Television",
           "date": "2026-09-04"
         }
       ]
@@ -70,8 +70,8 @@
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 289,
-      "updated": "1d ago",
+      "articleCount": 290,
+      "updated": "2d ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
         {
@@ -101,7 +101,7 @@
       "year": 2024,
       "logged": "2024-06-10",
       "articleCount": 450,
-      "updated": "1d ago",
+      "updated": "2d ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
         {

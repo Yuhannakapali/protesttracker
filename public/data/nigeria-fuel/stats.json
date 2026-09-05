@@ -815,13 +815,13 @@
     },
     {
       "start": "2026-09-01",
-      "count": 19
+      "count": 20
     }
   ],
   "sources": [
     {
       "name": "The Guardian Nigeria News",
-      "count": 52,
+      "count": 53,
       "first": "2015-10-02",
       "last": "2026-06-08"
     },
@@ -847,7 +847,7 @@
       "name": "Daily Post Nigeria",
       "count": 36,
       "first": "2012-01-05",
-      "last": "2026-09-04"
+      "last": "2026-09-05"
     },
     {
       "name": "BBC",
@@ -892,12 +892,6 @@
       "last": "2025-09-16"
     },
     {
-      "name": "The Sun Nigeria",
-      "count": 12,
-      "first": "2022-11-30",
-      "last": "2026-06-04"
-    },
-    {
       "name": "Al Jazeera",
       "count": 11,
       "first": "2012-01-04",
@@ -928,16 +922,22 @@
       "last": "2026-09-04"
     },
     {
+      "name": "thesun.ng",
+      "count": 8,
+      "first": "2024-09-07",
+      "last": "2026-08-14"
+    },
+    {
       "name": "Independent Newspaper Nigeria",
       "count": 7,
       "first": "2020-09-07",
       "last": "2026-01-27"
     },
     {
-      "name": "The Guardian",
-      "count": 6,
-      "first": "2012-01-03",
-      "last": "2022-01-07"
+      "name": "The Sun Nigeria",
+      "count": 7,
+      "first": "2022-11-30",
+      "last": "2026-06-04"
     },
     {
       "name": "The Nation Newspaper",
@@ -970,6 +970,12 @@
       "last": "2026-05-19"
     },
     {
+      "name": "The Guardian",
+      "count": 5,
+      "first": "2012-01-03",
+      "last": "2012-01-09"
+    },
+    {
       "name": "VOA - Voice of America English News",
       "count": 5,
       "first": "2009-10-30",
@@ -988,12 +994,6 @@
       "last": "2026-06-04"
     },
     {
-      "name": "Nigeria Info FM",
-      "count": 4,
-      "first": "2025-12-17",
-      "last": "2026-01-26"
-    },
-    {
       "name": "Daily Trust",
       "count": 3,
       "first": "2024-08-03",
@@ -1004,6 +1004,12 @@
       "count": 3,
       "first": "2024-09-04",
       "last": "2024-09-07"
+    },
+    {
+      "name": "nigeriainfo.fm",
+      "count": 3,
+      "first": "2025-12-17",
+      "last": "2026-01-24"
     },
     {
       "name": "Nigerian Voice",
@@ -1084,12 +1090,6 @@
       "last": "2026-02-03"
     },
     {
-      "name": "thesun.ng",
-      "count": 2,
-      "first": "2026-06-04",
-      "last": "2026-08-14"
-    },
-    {
       "name": "tribuneonlineng.com",
       "count": 2,
       "first": "2026-06-02",
@@ -1118,12 +1118,6 @@
       "count": 1,
       "first": "2024-08-13",
       "last": "2024-08-13"
-    },
-    {
-      "name": "africarenewal.un.org",
-      "count": 1,
-      "first": "2012-04-15",
-      "last": "2012-04-15"
     },
     {
       "name": "AIT LIVE",
@@ -1282,6 +1276,12 @@
       "last": "2024-09-05"
     },
     {
+      "name": "Nigeria Info FM",
+      "count": 1,
+      "first": "2026-01-26",
+      "last": "2026-01-26"
+    },
+    {
       "name": "nigerianeye.com",
       "count": 1,
       "first": "2026-06-08",
@@ -1382,8 +1382,14 @@
       "count": 1,
       "first": "2024-09-03",
       "last": "2024-09-03"
+    },
+    {
+      "name": "UN Africa Renewal",
+      "count": 1,
+      "first": "2012-04-15",
+      "last": "2012-04-15"
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-09-04"
+  "lastDate": "2026-09-05"
 }
