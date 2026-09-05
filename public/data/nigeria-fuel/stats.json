@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 21
+      "count": 22
     }
   ],
   "sources": [
@@ -838,12 +838,6 @@
       "last": "2026-06-08"
     },
     {
-      "name": "Premium Times Nigeria",
-      "count": 37,
-      "first": "2016-05-17",
-      "last": "2026-02-02"
-    },
-    {
       "name": "Daily Post Nigeria",
       "count": 36,
       "first": "2012-01-05",
@@ -853,6 +847,12 @@
       "name": "BBC",
       "count": 35,
       "first": "2018-09-26",
+      "last": "2025-12-17"
+    },
+    {
+      "name": "Premium Times Nigeria",
+      "count": 26,
+      "first": "2016-05-17",
       "last": "2025-12-17"
     },
     {
@@ -868,16 +868,16 @@
       "last": "2026-01-27"
     },
     {
+      "name": "Ripples Nigeria",
+      "count": 16,
+      "first": "2023-06-01",
+      "last": "2026-09-05"
+    },
+    {
       "name": "Arise News",
       "count": 15,
       "first": "2023-06-02",
       "last": "2026-06-04"
-    },
-    {
-      "name": "Ripples Nigeria",
-      "count": 15,
-      "first": "2023-06-01",
-      "last": "2026-09-01"
     },
     {
       "name": "The Sun Nigeria",
@@ -890,6 +890,12 @@
       "count": 14,
       "first": "2020-09-05",
       "last": "2026-03-15"
+    },
+    {
+      "name": "premiumtimesng.com",
+      "count": 13,
+      "first": "2013-04-18",
+      "last": "2026-02-02"
     },
     {
       "name": "Legit News",
@@ -916,12 +922,6 @@
       "last": "2026-03-11"
     },
     {
-      "name": "The Whistler Newspaper",
-      "count": 10,
-      "first": "2020-09-04",
-      "last": "2026-06-03"
-    },
-    {
       "name": "Vanguard",
       "count": 10,
       "first": "2026-09-02",
@@ -937,6 +937,12 @@
       "name": "The Nation Newspaper",
       "count": 6,
       "first": "2022-01-10",
+      "last": "2026-06-03"
+    },
+    {
+      "name": "thewhistler.ng",
+      "count": 6,
+      "first": "2020-09-08",
       "last": "2026-06-03"
     },
     {
@@ -974,6 +980,12 @@
       "count": 5,
       "first": "2012-01-03",
       "last": "2012-01-09"
+    },
+    {
+      "name": "The Whistler Newspaper",
+      "count": 5,
+      "first": "2020-09-04",
+      "last": "2026-04-28"
     },
     {
       "name": "allAfrica.com",
@@ -1058,18 +1070,6 @@
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
-    },
-    {
-      "name": "Peoples Gazette Nigeria",
-      "count": 2,
-      "first": "2025-10-16",
-      "last": "2026-05-18"
-    },
-    {
-      "name": "premiumtimesng.com",
-      "count": 2,
-      "first": "2013-04-18",
-      "last": "2024-06-03"
     },
     {
       "name": "Sahara Reporters",
@@ -1174,7 +1174,7 @@
       "last": "2024-11-11"
     },
     {
-      "name": "firstpost.com",
+      "name": "Firstpost",
       "count": 1,
       "first": "2024-02-15",
       "last": "2024-02-15"
@@ -1196,6 +1196,12 @@
       "count": 1,
       "first": "2024-05-11",
       "last": "2024-05-11"
+    },
+    {
+      "name": "gazettengr.com",
+      "count": 1,
+      "first": "2026-05-18",
+      "last": "2026-05-18"
     },
     {
       "name": "Gistmania",
@@ -1282,6 +1288,12 @@
       "last": "2023-11-15"
     },
     {
+      "name": "Peoples Gazette Nigeria",
+      "count": 1,
+      "first": "2025-10-16",
+      "last": "2025-10-16"
+    },
+    {
       "name": "proshare.co",
       "count": 1,
       "first": "2026-08-31",
@@ -1352,12 +1364,6 @@
       "count": 1,
       "first": "2026-08-14",
       "last": "2026-08-14"
-    },
-    {
-      "name": "thewhistler.ng",
-      "count": 1,
-      "first": "2024-09-07",
-      "last": "2024-09-07"
     },
     {
       "name": "Times of Malta",

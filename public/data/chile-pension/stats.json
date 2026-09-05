@@ -582,7 +582,7 @@
       "last": "2025-03-26"
     },
     {
-      "name": "dw.com",
+      "name": "DW.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -660,7 +660,7 @@
       "last": "2025-09-23"
     },
     {
-      "name": "soychile.cl",
+      "name": "SoyChile.cl",
       "count": 4,
       "first": "2016-08-10",
       "last": "2019-03-31"
@@ -702,12 +702,6 @@
       "last": "2026-08-06"
     },
     {
-      "name": "nytimes.com",
-      "count": 3,
-      "first": "2016-09-10",
-      "last": "2019-11-21"
-    },
-    {
       "name": "Remezcla",
       "count": 3,
       "first": "2019-10-23",
@@ -718,6 +712,12 @@
       "count": 3,
       "first": "2016-08-21",
       "last": "2019-10-30"
+    },
+    {
+      "name": "The New York Times",
+      "count": 3,
+      "first": "2016-09-10",
+      "last": "2019-11-21"
     },
     {
       "name": "The Washington Post",
@@ -822,10 +822,10 @@
       "last": "2016-10-16"
     },
     {
-      "name": "South China Morning Post",
+      "name": "Reuters",
       "count": 2,
       "first": "2019-10-23",
-      "last": "2022-03-12"
+      "last": "2025-01-29"
     },
     {
       "name": "The Nation Newspaper",
@@ -876,12 +876,6 @@
       "last": "2026-06-18"
     },
     {
-      "name": "América TeVé",
-      "count": 1,
-      "first": "2025-03-30",
-      "last": "2025-03-30"
-    },
-    {
       "name": "APFDigital",
       "count": 1,
       "first": "2026-07-27",
@@ -930,7 +924,7 @@
       "last": "2021-09-22"
     },
     {
-      "name": "Cambridge University Press & Assessment",
+      "name": "cambridge.org",
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
@@ -1032,12 +1026,6 @@
       "last": "2026-07-30"
     },
     {
-      "name": "El Nacional — La voz de todos",
-      "count": 1,
-      "first": "2022-03-27",
-      "last": "2022-03-27"
-    },
-    {
       "name": "El Nuevo Diario",
       "count": 1,
       "first": "2022-09-22",
@@ -1060,6 +1048,12 @@
       "count": 1,
       "first": "2026-05-22",
       "last": "2026-05-22"
+    },
+    {
+      "name": "elnacional.com.do",
+      "count": 1,
+      "first": "2022-03-27",
+      "last": "2022-03-27"
     },
     {
       "name": "elsiglo.cl",
@@ -1132,6 +1126,12 @@
       "count": 1,
       "first": "2020-02-19",
       "last": "2020-02-19"
+    },
+    {
+      "name": "Independent en Español",
+      "count": 1,
+      "first": "2025-03-30",
+      "last": "2025-03-30"
     },
     {
       "name": "Infinita",
@@ -1272,7 +1272,7 @@
       "last": "2019-10-25"
     },
     {
-      "name": "ovejeronoticias.cl",
+      "name": "OvejeroNoticias",
       "count": 1,
       "first": "2018-10-17",
       "last": "2018-10-17"
@@ -1350,12 +1350,6 @@
       "last": "2025-03-20"
     },
     {
-      "name": "Reuters",
-      "count": 1,
-      "first": "2025-01-29",
-      "last": "2025-01-29"
-    },
-    {
       "name": "reutersconnect.com",
       "count": 1,
       "first": "2025-04-03",
@@ -1378,6 +1372,18 @@
       "count": 1,
       "first": "2025-09-24",
       "last": "2025-09-24"
+    },
+    {
+      "name": "scmp.com",
+      "count": 1,
+      "first": "2019-10-23",
+      "last": "2019-10-23"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 1,
+      "first": "2022-03-12",
+      "last": "2022-03-12"
     },
     {
       "name": "Sydney Criminal Lawyers",
@@ -1480,12 +1486,6 @@
       "count": 1,
       "first": "2019-10-27",
       "last": "2019-10-27"
-    },
-    {
-      "name": "Yeni Safak English",
-      "count": 1,
-      "first": "2019-10-24",
-      "last": "2019-10-24"
     }
   ],
   "firstDate": "2014-11-04",

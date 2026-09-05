@@ -154,6 +154,12 @@
       "last": "2026-07-03"
     },
     {
+      "name": "People Daily",
+      "count": 43,
+      "first": "2025-11-02",
+      "last": "2026-08-27"
+    },
+    {
       "name": "BBC",
       "count": 37,
       "first": "2024-06-18",
@@ -164,12 +170,6 @@
       "count": 30,
       "first": "2024-12-27",
       "last": "2026-08-27"
-    },
-    {
-      "name": "People Daily",
-      "count": 30,
-      "first": "2025-11-02",
-      "last": "2026-07-30"
     },
     {
       "name": "Al Jazeera",
@@ -196,12 +196,6 @@
       "last": "2026-08-27"
     },
     {
-      "name": "peopledaily.digital",
-      "count": 13,
-      "first": "2026-03-27",
-      "last": "2026-08-27"
-    },
-    {
       "name": "dw.com",
       "count": 10,
       "first": "2024-06-21",
@@ -214,13 +208,7 @@
       "last": "2026-06-21"
     },
     {
-      "name": "The Kenya Times",
-      "count": 9,
-      "first": "2024-06-24",
-      "last": "2026-08-27"
-    },
-    {
-      "name": "World Socialist Web Site",
+      "name": "wsws.org",
       "count": 9,
       "first": "2025-06-25",
       "last": "2026-07-07"
@@ -286,6 +274,12 @@
       "last": "2026-06-25"
     },
     {
+      "name": "The Kenya Times",
+      "count": 5,
+      "first": "2025-08-08",
+      "last": "2026-06-25"
+    },
+    {
       "name": "Dawan Africa",
       "count": 4,
       "first": "2026-05-11",
@@ -296,6 +290,12 @@
       "count": 4,
       "first": "2024-06-26",
       "last": "2026-04-24"
+    },
+    {
+      "name": "thekenyatimes.com",
+      "count": 4,
+      "first": "2024-06-24",
+      "last": "2026-08-27"
     },
     {
       "name": "ACLED",
@@ -472,13 +472,19 @@
       "last": "2024-07-19"
     },
     {
-      "name": "bloomberg.com",
+      "name": "blogs.lse.ac.uk",
+      "count": 1,
+      "first": "2024-08-01",
+      "last": "2024-08-01"
+    },
+    {
+      "name": "Bloomberg.com",
       "count": 1,
       "first": "2026-05-05",
       "last": "2026-05-05"
     },
     {
-      "name": "brookings.edu",
+      "name": "Brookings",
       "count": 1,
       "first": "2026-04-07",
       "last": "2026-04-07"
@@ -718,12 +724,6 @@
       "last": "2024-07-17"
     },
     {
-      "name": "The London School of Economics and Political Science",
-      "count": 1,
-      "first": "2024-08-01",
-      "last": "2024-08-01"
-    },
-    {
       "name": "theafricareport.com",
       "count": 1,
       "first": "2025-07-10",
@@ -766,10 +766,10 @@
       "last": "2025-09-01"
     },
     {
-      "name": "wsws.org",
+      "name": "World Socialist Web Site",
       "count": 1,
-      "first": "2025-10-26",
-      "last": "2025-10-26"
+      "first": "2025-07-07",
+      "last": "2025-07-07"
     },
     {
       "name": "www.christiandaily.com",
