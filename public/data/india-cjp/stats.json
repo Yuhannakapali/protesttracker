@@ -258,12 +258,6 @@
       "last": "2026-09-04"
     },
     {
-      "name": "The Guardian",
-      "count": 6,
-      "first": "2026-07-20",
-      "last": "2026-08-04"
-    },
-    {
       "name": "Al Jazeera",
       "count": 5,
       "first": "2026-07-19",
@@ -286,6 +280,12 @@
       "count": 5,
       "first": "2026-08-20",
       "last": "2026-09-01"
+    },
+    {
+      "name": "The Guardian",
+      "count": 5,
+      "first": "2026-07-21",
+      "last": "2026-08-04"
     },
     {
       "name": "The Hans India",
@@ -366,16 +366,10 @@
       "last": "2026-08-16"
     },
     {
-      "name": "scobserver.in",
+      "name": "Supreme Court Observer",
       "count": 3,
       "first": "2026-08-18",
       "last": "2026-09-04"
-    },
-    {
-      "name": "The Federal",
-      "count": 3,
-      "first": "2026-07-05",
-      "last": "2026-09-02"
     },
     {
       "name": "The Independent",
@@ -522,6 +516,12 @@
       "last": "2026-08-04"
     },
     {
+      "name": "The Federal",
+      "count": 2,
+      "first": "2026-07-05",
+      "last": "2026-08-27"
+    },
+    {
       "name": "The Japan Times",
       "count": 2,
       "first": "2026-08-08",
@@ -538,12 +538,6 @@
       "count": 2,
       "first": "2026-09-04",
       "last": "2026-09-04"
-    },
-    {
-      "name": "The South First",
-      "count": 2,
-      "first": "2026-09-01",
-      "last": "2026-09-01"
     },
     {
       "name": "True Scoop",
@@ -598,6 +592,12 @@
       "count": 1,
       "first": "2026-08-26",
       "last": "2026-08-26"
+    },
+    {
+      "name": "borgenproject.org",
+      "count": 1,
+      "first": "2026-08-25",
+      "last": "2026-08-25"
     },
     {
       "name": "Britannica",
@@ -666,12 +666,6 @@
       "last": "2026-08-24"
     },
     {
-      "name": "Dainik Jagran MP CG",
-      "count": 1,
-      "first": "2026-09-01",
-      "last": "2026-09-01"
-    },
-    {
       "name": "dandc.eu",
       "count": 1,
       "first": "2026-07-06",
@@ -700,6 +694,12 @@
       "count": 1,
       "first": "2026-08-08",
       "last": "2026-08-08"
+    },
+    {
+      "name": "english.dainikjagranmpcg.com",
+      "count": 1,
+      "first": "2026-09-01",
+      "last": "2026-09-01"
     },
     {
       "name": "english.factcrescendo.com",
@@ -846,7 +846,7 @@
       "last": "2026-08-16"
     },
     {
-      "name": "lokmat.com",
+      "name": "Lokmat.com",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
@@ -966,12 +966,6 @@
       "last": "2026-08-18"
     },
     {
-      "name": "The Borgen Project",
-      "count": 1,
-      "first": "2026-08-25",
-      "last": "2026-08-25"
-    },
-    {
       "name": "The Business Standard",
       "count": 1,
       "first": "2026-08-23",
@@ -1044,6 +1038,12 @@
       "last": "2026-08-18"
     },
     {
+      "name": "The South First",
+      "count": 1,
+      "first": "2026-09-01",
+      "last": "2026-09-01"
+    },
+    {
       "name": "The Times",
       "count": 1,
       "first": "2026-08-17",
@@ -1054,6 +1054,18 @@
       "count": 1,
       "first": "2026-09-05",
       "last": "2026-09-05"
+    },
+    {
+      "name": "thefederal.com",
+      "count": 1,
+      "first": "2026-09-02",
+      "last": "2026-09-02"
+    },
+    {
+      "name": "theguardian.com",
+      "count": 1,
+      "first": "2026-07-20",
+      "last": "2026-07-20"
     },
     {
       "name": "thehawk.in",
@@ -1078,6 +1090,12 @@
       "count": 1,
       "first": "2026-08-23",
       "last": "2026-08-23"
+    },
+    {
+      "name": "thesouthfirst.com",
+      "count": 1,
+      "first": "2026-09-01",
+      "last": "2026-09-01"
     },
     {
       "name": "Time Magazine",
