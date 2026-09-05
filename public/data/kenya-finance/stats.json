@@ -155,7 +155,7 @@
     },
     {
       "name": "People Daily",
-      "count": 42,
+      "count": 43,
       "first": "2025-11-02",
       "last": "2026-08-27"
     },
@@ -418,12 +418,6 @@
       "last": "2025-07-16"
     },
     {
-      "name": "The New York Times",
-      "count": 2,
-      "first": "2025-07-14",
-      "last": "2026-06-25"
-    },
-    {
       "name": "The Standard",
       "count": 2,
       "first": "2026-08-07",
@@ -532,7 +526,7 @@
       "last": "2024-06-27"
     },
     {
-      "name": "freemalaysiatoday.com",
+      "name": "Free Malaysia Today",
       "count": 1,
       "first": "2026-06-26",
       "last": "2026-06-26"
@@ -634,6 +628,12 @@
       "last": "2026-06-25"
     },
     {
+      "name": "nytimes.com",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
       "name": "openDemocracy",
       "count": 1,
       "first": "2026-06-25",
@@ -644,12 +644,6 @@
       "count": 1,
       "first": "2025-05-22",
       "last": "2025-05-22"
-    },
-    {
-      "name": "peopledaily.digital",
-      "count": 1,
-      "first": "2026-06-24",
-      "last": "2026-06-24"
     },
     {
       "name": "Peoples Dispatch",
@@ -694,7 +688,7 @@
       "last": "2026-06-27"
     },
     {
-      "name": "Techweez",
+      "name": "techweez.com",
       "count": 1,
       "first": "2024-06-20",
       "last": "2024-06-20"
@@ -722,6 +716,12 @@
       "count": 1,
       "first": "2024-08-01",
       "last": "2024-08-01"
+    },
+    {
+      "name": "The New York Times",
+      "count": 1,
+      "first": "2025-07-14",
+      "last": "2025-07-14"
     },
     {
       "name": "The Washington Post",

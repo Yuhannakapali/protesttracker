@@ -31,7 +31,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 137
+      "count": 139
     }
   ],
   "sources": [
@@ -43,9 +43,9 @@
     },
     {
       "name": "The Indian Express",
-      "count": 39,
+      "count": 40,
       "first": "2026-07-26",
-      "last": "2026-09-04"
+      "last": "2026-09-05"
     },
     {
       "name": "Hindustan Times",
@@ -120,6 +120,12 @@
       "last": "2026-09-03"
     },
     {
+      "name": "ANI News",
+      "count": 16,
+      "first": "2026-07-22",
+      "last": "2026-09-04"
+    },
+    {
       "name": "ETV Bharat",
       "count": 16,
       "first": "2026-08-06",
@@ -132,15 +138,15 @@
       "last": "2026-09-01"
     },
     {
+      "name": "The News Mill",
+      "count": 15,
+      "first": "2026-08-12",
+      "last": "2026-09-04"
+    },
+    {
       "name": "WION",
       "count": 15,
       "first": "2026-07-23",
-      "last": "2026-09-03"
-    },
-    {
-      "name": "ANI News",
-      "count": 14,
-      "first": "2026-07-22",
       "last": "2026-09-03"
     },
     {
@@ -154,12 +160,6 @@
       "count": 11,
       "first": "2026-08-16",
       "last": "2026-09-04"
-    },
-    {
-      "name": "The News Mill",
-      "count": 11,
-      "first": "2026-08-12",
-      "last": "2026-08-24"
     },
     {
       "name": "Frontline Magazine",
@@ -324,12 +324,6 @@
       "last": "2026-08-24"
     },
     {
-      "name": "thenewsmill.com",
-      "count": 4,
-      "first": "2026-09-03",
-      "last": "2026-09-04"
-    },
-    {
       "name": "CNBC TV18",
       "count": 3,
       "first": "2026-07-30",
@@ -448,12 +442,6 @@
       "count": 2,
       "first": "2026-08-20",
       "last": "2026-08-22"
-    },
-    {
-      "name": "Maktoob",
-      "count": 2,
-      "first": "2026-08-12",
-      "last": "2026-09-04"
     },
     {
       "name": "National Herald",
@@ -786,12 +774,6 @@
       "last": "2026-07-30"
     },
     {
-      "name": "indiagazette.com",
-      "count": 1,
-      "first": "2026-09-04",
-      "last": "2026-09-04"
-    },
-    {
       "name": "IndiaTomorrow",
       "count": 1,
       "first": "2026-08-16",
@@ -862,6 +844,18 @@
       "count": 1,
       "first": "2026-08-21",
       "last": "2026-08-21"
+    },
+    {
+      "name": "Maktoob",
+      "count": 1,
+      "first": "2026-08-12",
+      "last": "2026-08-12"
+    },
+    {
+      "name": "maktoobmedia.com",
+      "count": 1,
+      "first": "2026-09-04",
+      "last": "2026-09-04"
     },
     {
       "name": "MediaNama",
@@ -1117,5 +1111,5 @@
     }
   ],
   "firstDate": "2026-02-07",
-  "lastDate": "2026-09-04"
+  "lastDate": "2026-09-05"
 }

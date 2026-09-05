@@ -1,19 +1,24 @@
 {
-  "lastUpdated": "2026-09-04T22:08:25.935Z",
+  "lastUpdated": "2026-09-05T03:04:52.868Z",
   "movements": [
     {
       "id": "india-cjp",
       "name": "Cockroach Janta Party / NEET Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Asia",
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 869,
-      "updated": "22h ago",
+      "articleCount": 871,
+      "updated": "3h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
+        {
+          "title": "Two MPs and a Congress leader join CJP at Parliament Street station; police change FIR",
+          "source": "The Indian Express",
+          "date": "2026-09-05"
+        },
         {
           "title": "CJP Supporters Protest, Seek Action Against Influencer",
           "source": "Deccan Chronicle",
@@ -22,11 +27,6 @@
         {
           "title": "Modi hails Meloni after Italy PM breaks record, Cockroach Party reminds of Swatantra Bhardwaj",
           "source": "Telegraph India",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "Internal Rift Hits Cockroach Janta Party As Rebel Faction Launches New Democratic Unit - India Today",
-          "source": "indiatoday.in",
           "date": "2026-09-04"
         }
       ]
@@ -40,23 +40,23 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 543,
-      "updated": "22h ago",
+      "articleCount": 546,
+      "updated": "1d ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
         {
+          "title": "Fuel can sell for N605/litre, subsidy is ‘Accounting Magic’ — Olawepo-Hashim",
+          "source": "Vanguard",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Subsidy pain must yield gains for Nigerians — PENGASSAN",
+          "source": "Vanguard",
+          "date": "2026-09-04"
+        },
+        {
           "title": "Fuel Subsidy Is ‘Accounting Magic,’ Accord Party’s Olawepo-Hashim Says Petrol Overpriced In Nigeria",
           "source": "Channels Television",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "Fuel Subsidy: Nigeria’s pricing model must change – Gov Makinde",
-          "source": "Vanguard",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "Fuel subsidy: Nigerians shouldn’t pay more because FG can’t secure borders — Makinde",
-          "source": "Vanguard",
           "date": "2026-09-04"
         }
       ]
@@ -64,14 +64,14 @@
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
       "articleCount": 288,
-      "updated": "22h ago",
+      "updated": "1d ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
         {
@@ -101,7 +101,7 @@
       "year": 2024,
       "logged": "2024-06-10",
       "articleCount": 449,
-      "updated": "22h ago",
+      "updated": "1d ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
         {
