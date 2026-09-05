@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "description": "An independent, automatically updated archive of protest movements worldwide.",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "dev": "next dev",
     "prebuild": "node scripts/sitemap.mjs && node scripts/feeds.mjs && node scripts/search-index.mjs && node scripts/og-images.mjs",
