@@ -1,19 +1,24 @@
 {
-  "lastUpdated": "2026-09-05T23:46:33.695Z",
+  "lastUpdated": "2026-09-06T03:04:59.135Z",
   "movements": [
     {
       "id": "india-cjp",
       "name": "Cockroach Janta Party / NEET Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Asia",
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 899,
-      "updated": "1d ago",
+      "articleCount": 900,
+      "updated": "3h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
+        {
+          "title": "Odisha Literary Festival 2026: Opinions differ on CJP’s political links",
+          "source": "The New Indian Express",
+          "date": "2026-09-06"
+        },
         {
           "title": "Congress and Cockroach Janta Party fight amongst themselves to take credit for quashing FIRs against 'protestors' at Jantar Mantar: Details",
           "source": "opindia.com",
@@ -23,24 +28,19 @@
           "title": "Two MPs and a Congress leader join CJP at Parliament Street station; police change FIR",
           "source": "The Indian Express",
           "date": "2026-09-05"
-        },
-        {
-          "title": "'Swatantra Bhardwaj to be arrested within 72 hours': CJP protester and daughter of assault victim",
-          "source": "timesofindia.indiatimes.com",
-          "date": "2026-09-05"
         }
       ]
     },
     {
       "id": "nigeria-fuel",
       "name": "Fuel Subsidy Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Africa",
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 550,
+      "articleCount": 551,
       "updated": "1d ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
@@ -100,7 +100,7 @@
       "location": "Kenya · Nairobi",
       "year": 2024,
       "logged": "2024-06-10",
-      "articleCount": 453,
+      "articleCount": 454,
       "updated": "2d ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
