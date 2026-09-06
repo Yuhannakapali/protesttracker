@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 23
+      "count": 25
     }
   ],
   "sources": [
@@ -826,12 +826,6 @@
       "last": "2026-06-08"
     },
     {
-      "name": "Channels Television",
-      "count": 40,
-      "first": "2012-01-04",
-      "last": "2026-09-04"
-    },
-    {
       "name": "Vanguard News",
       "count": 39,
       "first": "2012-03-08",
@@ -839,15 +833,15 @@
     },
     {
       "name": "Premium Times Nigeria",
-      "count": 37,
-      "first": "2016-05-17",
+      "count": 38,
+      "first": "2013-04-18",
       "last": "2026-02-02"
     },
     {
       "name": "Daily Post Nigeria",
-      "count": 36,
+      "count": 37,
       "first": "2012-01-05",
-      "last": "2026-09-05"
+      "last": "2026-09-06"
     },
     {
       "name": "BBC",
@@ -860,6 +854,18 @@
       "count": 25,
       "first": "2020-09-04",
       "last": "2026-08-19"
+    },
+    {
+      "name": "Channels Television",
+      "count": 23,
+      "first": "2012-01-04",
+      "last": "2026-09-04"
+    },
+    {
+      "name": "channelstv.com",
+      "count": 17,
+      "first": "2012-03-14",
+      "last": "2026-06-03"
     },
     {
       "name": "PM News Nigeria",
@@ -904,6 +910,12 @@
       "last": "2026-03-11"
     },
     {
+      "name": "Vanguard",
+      "count": 12,
+      "first": "2026-09-02",
+      "last": "2026-09-06"
+    },
+    {
       "name": "Al Jazeera",
       "count": 11,
       "first": "2012-01-04",
@@ -914,12 +926,6 @@
       "count": 11,
       "first": "2022-01-21",
       "last": "2026-06-04"
-    },
-    {
-      "name": "Vanguard",
-      "count": 11,
-      "first": "2026-09-02",
-      "last": "2026-09-06"
     },
     {
       "name": "The Whistler Newspaper",
@@ -1030,10 +1036,10 @@
       "last": "2024-02-19"
     },
     {
-      "name": "FIJ NG",
+      "name": "fij.ng",
       "count": 2,
       "first": "2024-09-04",
-      "last": "2024-09-05"
+      "last": "2024-11-11"
     },
     {
       "name": "independent.ng",
@@ -1064,18 +1070,6 @@
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
-    },
-    {
-      "name": "Peoples Gazette Nigeria",
-      "count": 2,
-      "first": "2025-10-16",
-      "last": "2026-05-18"
-    },
-    {
-      "name": "premiumtimesng.com",
-      "count": 2,
-      "first": "2013-04-18",
-      "last": "2024-06-03"
     },
     {
       "name": "Sahara Reporters",
@@ -1126,7 +1120,7 @@
       "last": "2020-09-10"
     },
     {
-      "name": "BellaNaija",
+      "name": "bellanaija.com",
       "count": 1,
       "first": "2021-03-12",
       "last": "2021-03-12"
@@ -1168,10 +1162,10 @@
       "last": "2023-09-04"
     },
     {
-      "name": "fij.ng",
+      "name": "FIJ NG",
       "count": 1,
-      "first": "2024-11-11",
-      "last": "2024-11-11"
+      "first": "2024-09-05",
+      "last": "2024-09-05"
     },
     {
       "name": "Firstpost",
@@ -1196,6 +1190,12 @@
       "count": 1,
       "first": "2024-05-11",
       "last": "2024-05-11"
+    },
+    {
+      "name": "gazettengr.com",
+      "count": 1,
+      "first": "2026-05-18",
+      "last": "2026-05-18"
     },
     {
       "name": "Gistmania",
@@ -1280,6 +1280,18 @@
       "count": 1,
       "first": "2023-11-15",
       "last": "2023-11-15"
+    },
+    {
+      "name": "Peoples Gazette Nigeria",
+      "count": 1,
+      "first": "2025-10-16",
+      "last": "2025-10-16"
+    },
+    {
+      "name": "premiumtimesng.com",
+      "count": 1,
+      "first": "2024-06-03",
+      "last": "2024-06-03"
     },
     {
       "name": "proshare.co",
