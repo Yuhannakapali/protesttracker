@@ -791,7 +791,7 @@
     },
     {
       "start": "2026-03-01",
-      "count": 9
+      "count": 10
     },
     {
       "start": "2026-04-01",
@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 22
+      "count": 23
     }
   ],
   "sources": [
@@ -916,16 +916,16 @@
       "last": "2026-06-04"
     },
     {
+      "name": "Vanguard",
+      "count": 11,
+      "first": "2026-09-02",
+      "last": "2026-09-06"
+    },
+    {
       "name": "The Whistler Newspaper",
       "count": 10,
       "first": "2020-09-04",
       "last": "2026-06-03"
-    },
-    {
-      "name": "Vanguard",
-      "count": 10,
-      "first": "2026-09-02",
-      "last": "2026-09-05"
     },
     {
       "name": "Independent Newspaper Nigeria",
@@ -994,6 +994,12 @@
       "last": "2026-01-26"
     },
     {
+      "name": "Tribune Online",
+      "count": 4,
+      "first": "2024-09-03",
+      "last": "2026-07-26"
+    },
+    {
       "name": "Daily Trust",
       "count": 3,
       "first": "2024-08-03",
@@ -1054,7 +1060,7 @@
       "last": "2026-08-19"
     },
     {
-      "name": "Opinion Nigeria",
+      "name": "opinionnigeria.com",
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
@@ -1082,12 +1088,6 @@
       "count": 2,
       "first": "2023-10-01",
       "last": "2026-02-03"
-    },
-    {
-      "name": "Tribune Online",
-      "count": 2,
-      "first": "2024-09-03",
-      "last": "2026-06-02"
     },
     {
       "name": "TRT Afrika",
@@ -1372,12 +1372,6 @@
       "last": "2026-03-18"
     },
     {
-      "name": "tribuneonlineng.com",
-      "count": 1,
-      "first": "2026-07-26",
-      "last": "2026-07-26"
-    },
-    {
       "name": "UN Africa Renewal",
       "count": 1,
       "first": "2012-04-15",
@@ -1385,5 +1379,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-09-05"
+  "lastDate": "2026-09-06"
 }
