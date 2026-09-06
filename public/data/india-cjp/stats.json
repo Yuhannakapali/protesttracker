@@ -31,7 +31,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 167
+      "count": 171
     }
   ],
   "sources": [
@@ -42,15 +42,15 @@
       "last": "2026-09-06"
     },
     {
+      "name": "Hindustan Times",
+      "count": 41,
+      "first": "2026-06-06",
+      "last": "2026-09-06"
+    },
+    {
       "name": "The Indian Express",
       "count": 41,
       "first": "2026-07-26",
-      "last": "2026-09-05"
-    },
-    {
-      "name": "Hindustan Times",
-      "count": 40,
-      "first": "2026-06-06",
       "last": "2026-09-05"
     },
     {
@@ -90,6 +90,12 @@
       "last": "2026-09-01"
     },
     {
+      "name": "Bhaskar English",
+      "count": 19,
+      "first": "2026-07-19",
+      "last": "2026-09-06"
+    },
+    {
       "name": "News18",
       "count": 19,
       "first": "2026-07-20",
@@ -100,12 +106,6 @@
       "count": 19,
       "first": "2026-06-07",
       "last": "2026-09-04"
-    },
-    {
-      "name": "Bhaskar English",
-      "count": 18,
-      "first": "2026-07-19",
-      "last": "2026-09-05"
     },
     {
       "name": "Outlook India",
@@ -138,16 +138,22 @@
       "last": "2026-09-01"
     },
     {
-      "name": "The News Mill",
-      "count": 15,
-      "first": "2026-08-12",
-      "last": "2026-09-04"
-    },
-    {
       "name": "WION",
       "count": 15,
       "first": "2026-07-23",
       "last": "2026-09-03"
+    },
+    {
+      "name": "The News Mill",
+      "count": 13,
+      "first": "2026-08-12",
+      "last": "2026-09-04"
+    },
+    {
+      "name": "Mathrubhumi English",
+      "count": 12,
+      "first": "2026-08-17",
+      "last": "2026-09-06"
     },
     {
       "name": "TheWire.in",
@@ -168,10 +174,10 @@
       "last": "2026-09-05"
     },
     {
-      "name": "Mathrubhumi English",
-      "count": 11,
-      "first": "2026-08-17",
-      "last": "2026-09-04"
+      "name": "DNA India",
+      "count": 10,
+      "first": "2026-07-24",
+      "last": "2026-09-06"
     },
     {
       "name": "Frontline Magazine",
@@ -186,12 +192,6 @@
       "last": "2026-09-04"
     },
     {
-      "name": "DNA India",
-      "count": 9,
-      "first": "2026-07-24",
-      "last": "2026-09-04"
-    },
-    {
       "name": "LawBeat",
       "count": 9,
       "first": "2026-02-07",
@@ -202,6 +202,12 @@
       "count": 8,
       "first": "2026-08-18",
       "last": "2026-09-04"
+    },
+    {
+      "name": "The Statesman",
+      "count": 8,
+      "first": "2026-08-18",
+      "last": "2026-09-06"
     },
     {
       "name": "theweek.in",
@@ -286,12 +292,6 @@
       "count": 5,
       "first": "2026-07-23",
       "last": "2026-09-03"
-    },
-    {
-      "name": "The Statesman",
-      "count": 5,
-      "first": "2026-08-18",
-      "last": "2026-08-23"
     },
     {
       "name": "Times Now",
@@ -390,12 +390,6 @@
       "last": "2026-09-03"
     },
     {
-      "name": "thestatesman.com",
-      "count": 3,
-      "first": "2026-08-25",
-      "last": "2026-09-06"
-    },
-    {
       "name": "Udayavani",
       "count": 3,
       "first": "2026-07-18",
@@ -450,15 +444,21 @@
       "last": "2026-08-22"
     },
     {
+      "name": "Maktoob",
+      "count": 2,
+      "first": "2026-08-12",
+      "last": "2026-09-04"
+    },
+    {
       "name": "Nagaland Post",
       "count": 2,
       "first": "2026-08-22",
       "last": "2026-09-05"
     },
     {
-      "name": "nationalheraldindia.com",
+      "name": "National Herald",
       "count": 2,
-      "first": "2026-08-26",
+      "first": "2026-08-19",
       "last": "2026-09-04"
     },
     {
@@ -468,7 +468,7 @@
       "last": "2026-08-19"
     },
     {
-      "name": "NewsGram",
+      "name": "newsgram.com",
       "count": 2,
       "first": "2026-08-31",
       "last": "2026-09-03"
@@ -546,10 +546,10 @@
       "last": "2026-09-04"
     },
     {
-      "name": "The South First",
+      "name": "thenewsmill.com",
       "count": 2,
-      "first": "2026-09-01",
-      "last": "2026-09-01"
+      "first": "2026-09-03",
+      "last": "2026-09-04"
     },
     {
       "name": "True Scoop",
@@ -562,6 +562,12 @@
       "count": 2,
       "first": "2026-08-20",
       "last": "2026-08-21"
+    },
+    {
+      "name": "Zee News",
+      "count": 2,
+      "first": "2026-07-30",
+      "last": "2026-08-17"
     },
     {
       "name": "ACLED",
@@ -786,7 +792,7 @@
       "last": "2026-07-30"
     },
     {
-      "name": "IndiaTomorrow",
+      "name": "indiatomorrow.net",
       "count": 1,
       "first": "2026-08-16",
       "last": "2026-08-16"
@@ -858,18 +864,6 @@
       "last": "2026-08-21"
     },
     {
-      "name": "Maktoob",
-      "count": 1,
-      "first": "2026-08-12",
-      "last": "2026-08-12"
-    },
-    {
-      "name": "maktoobmedia.com",
-      "count": 1,
-      "first": "2026-09-04",
-      "last": "2026-09-04"
-    },
-    {
       "name": "MediaNama",
       "count": 1,
       "first": "2026-07-20",
@@ -894,10 +888,10 @@
       "last": "2026-08-20"
     },
     {
-      "name": "National Herald",
+      "name": "nationalheraldindia.com",
       "count": 1,
-      "first": "2026-08-19",
-      "last": "2026-08-19"
+      "first": "2026-08-26",
+      "last": "2026-08-26"
     },
     {
       "name": "News On AIR",
@@ -1050,6 +1044,12 @@
       "last": "2026-08-18"
     },
     {
+      "name": "The South First",
+      "count": 1,
+      "first": "2026-09-01",
+      "last": "2026-09-01"
+    },
+    {
       "name": "The Times",
       "count": 1,
       "first": "2026-08-17",
@@ -1086,6 +1086,12 @@
       "last": "2026-08-23"
     },
     {
+      "name": "thesouthfirst.com",
+      "count": 1,
+      "first": "2026-09-01",
+      "last": "2026-09-01"
+    },
+    {
       "name": "Time Magazine",
       "count": 1,
       "first": "2026-07-22",
@@ -1120,18 +1126,6 @@
       "count": 1,
       "first": "2026-09-02",
       "last": "2026-09-02"
-    },
-    {
-      "name": "Zee News",
-      "count": 1,
-      "first": "2026-08-17",
-      "last": "2026-08-17"
-    },
-    {
-      "name": "zeenews.india.com",
-      "count": 1,
-      "first": "2026-07-30",
-      "last": "2026-07-30"
     },
     {
       "name": "조선일보",
