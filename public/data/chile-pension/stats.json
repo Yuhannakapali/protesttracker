@@ -115,7 +115,7 @@
     },
     {
       "start": "2017-03-01",
-      "count": 12
+      "count": 13
     },
     {
       "start": "2017-04-01",
@@ -239,7 +239,7 @@
     },
     {
       "start": "2019-10-01",
-      "count": 32
+      "count": 33
     },
     {
       "start": "2019-11-01",
@@ -642,10 +642,10 @@
       "last": "2025-01-15"
     },
     {
-      "name": "Clarin.com",
-      "count": 4,
-      "first": "2017-12-18",
-      "last": "2019-12-24"
+      "name": "SoyChile.cl",
+      "count": 5,
+      "first": "2016-08-10",
+      "last": "2019-03-31"
     },
     {
       "name": "Diario Junio",
@@ -658,12 +658,6 @@
       "count": 4,
       "first": "2016-08-26",
       "last": "2025-09-23"
-    },
-    {
-      "name": "SoyChile.cl",
-      "count": 4,
-      "first": "2016-08-10",
-      "last": "2019-03-31"
     },
     {
       "name": "Universidad de Chile",
@@ -688,6 +682,12 @@
       "count": 3,
       "first": "2014-11-04",
       "last": "2017-09-03"
+    },
+    {
+      "name": "Clarin.com",
+      "count": 3,
+      "first": "2017-12-19",
+      "last": "2019-12-24"
     },
     {
       "name": "Democracy Now!",
@@ -780,12 +780,6 @@
       "last": "2026-07-29"
     },
     {
-      "name": "hoy.com.do",
-      "count": 2,
-      "first": "2021-09-02",
-      "last": "2023-08-31"
-    },
-    {
       "name": "Interferencia |",
       "count": 2,
       "first": "2019-09-25",
@@ -832,6 +826,12 @@
       "count": 2,
       "first": "2019-10-23",
       "last": "2025-01-29"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 2,
+      "first": "2019-10-23",
+      "last": "2022-03-12"
     },
     {
       "name": "The Nation Newspaper",
@@ -924,7 +924,7 @@
       "last": "2020-08-09"
     },
     {
-      "name": "Bloomberg.com",
+      "name": "bloomberg.com",
       "count": 1,
       "first": "2019-10-26",
       "last": "2019-10-26"
@@ -940,6 +940,12 @@
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
+    },
+    {
+      "name": "caretas.pe",
+      "count": 1,
+      "first": "2025-09-14",
+      "last": "2025-09-14"
     },
     {
       "name": "Cato Institute",
@@ -958,6 +964,12 @@
       "count": 1,
       "first": "2019-12-18",
       "last": "2019-12-18"
+    },
+    {
+      "name": "Clarín",
+      "count": 1,
+      "first": "2017-12-18",
+      "last": "2017-12-18"
     },
     {
       "name": "CNN",
@@ -990,28 +1002,22 @@
       "last": "2017-12-19"
     },
     {
-      "name": "Diario Época Corrientes",
-      "count": 1,
-      "first": "2023-04-06",
-      "last": "2023-04-06"
-    },
-    {
       "name": "Diario Río Uruguay",
       "count": 1,
       "first": "2026-07-27",
       "last": "2026-07-27"
     },
     {
+      "name": "Diario Talca",
+      "count": 1,
+      "first": "2025-03-31",
+      "last": "2025-03-31"
+    },
+    {
       "name": "diariolaquinta.cl",
       "count": 1,
       "first": "2018-06-01",
       "last": "2018-06-01"
-    },
-    {
-      "name": "diariotalca.cl",
-      "count": 1,
-      "first": "2025-03-31",
-      "last": "2025-03-31"
     },
     {
       "name": "El Destape",
@@ -1044,12 +1050,6 @@
       "last": "2022-03-27"
     },
     {
-      "name": "El Nuevo Diario",
-      "count": 1,
-      "first": "2022-09-22",
-      "last": "2022-09-22"
-    },
-    {
       "name": "El Rancagüino",
       "count": 1,
       "first": "2021-05-19",
@@ -1066,6 +1066,12 @@
       "count": 1,
       "first": "2026-05-22",
       "last": "2026-05-22"
+    },
+    {
+      "name": "elnuevodiario.com.do",
+      "count": 1,
+      "first": "2022-09-22",
+      "last": "2022-09-22"
     },
     {
       "name": "elsiglo.cl",
@@ -1122,7 +1128,7 @@
       "last": "2026-05-16"
     },
     {
-      "name": "Guioteca",
+      "name": "guioteca.com",
       "count": 1,
       "first": "2017-03-26",
       "last": "2017-03-26"
@@ -1138,6 +1144,18 @@
       "count": 1,
       "first": "2017-03-27",
       "last": "2017-03-27"
+    },
+    {
+      "name": "Hoy Digital",
+      "count": 1,
+      "first": "2023-08-31",
+      "last": "2023-08-31"
+    },
+    {
+      "name": "hoy.com.do",
+      "count": 1,
+      "first": "2021-09-02",
+      "last": "2021-09-02"
     },
     {
       "name": "In These Times",
@@ -1338,13 +1356,19 @@
       "last": "2020-07-16"
     },
     {
+      "name": "Radio Dos Corrientes",
+      "count": 1,
+      "first": "2023-04-06",
+      "last": "2023-04-06"
+    },
+    {
       "name": "Radio Gol",
       "count": 1,
       "first": "2024-09-24",
       "last": "2024-09-24"
     },
     {
-      "name": "Radio JGM",
+      "name": "radiojgm.uchile.cl",
       "count": 1,
       "first": "2024-09-11",
       "last": "2024-09-11"
@@ -1368,12 +1392,6 @@
       "last": "2025-04-03"
     },
     {
-      "name": "Revista Caretas",
-      "count": 1,
-      "first": "2025-09-14",
-      "last": "2025-09-14"
-    },
-    {
       "name": "RosarioPlus",
       "count": 1,
       "first": "2024-09-05",
@@ -1386,22 +1404,16 @@
       "last": "2025-09-24"
     },
     {
-      "name": "SCMP",
-      "count": 1,
-      "first": "2019-10-23",
-      "last": "2019-10-23"
-    },
-    {
-      "name": "South China Morning Post",
-      "count": 1,
-      "first": "2022-03-12",
-      "last": "2022-03-12"
-    },
-    {
       "name": "Sydney Criminal Lawyers",
       "count": 1,
       "first": "2020-03-17",
       "last": "2020-03-17"
+    },
+    {
+      "name": "Teletrece",
+      "count": 1,
+      "first": "2019-10-06",
+      "last": "2019-10-06"
     },
     {
       "name": "The Bogotá Post",
