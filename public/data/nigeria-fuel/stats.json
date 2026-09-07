@@ -820,28 +820,10 @@
   ],
   "sources": [
     {
-      "name": "The Guardian Nigeria News",
-      "count": 52,
-      "first": "2015-10-02",
-      "last": "2026-06-08"
-    },
-    {
-      "name": "Channels Television",
-      "count": 40,
-      "first": "2012-01-04",
-      "last": "2026-09-04"
-    },
-    {
       "name": "Vanguard News",
       "count": 39,
       "first": "2012-03-08",
       "last": "2026-06-08"
-    },
-    {
-      "name": "Daily Post Nigeria",
-      "count": 38,
-      "first": "2012-01-05",
-      "last": "2026-09-06"
     },
     {
       "name": "Premium Times Nigeria",
@@ -856,10 +838,40 @@
       "last": "2025-12-17"
     },
     {
-      "name": "Punch Newspapers",
+      "name": "The Guardian",
+      "count": 33,
+      "first": "2012-01-03",
+      "last": "2026-06-08"
+    },
+    {
+      "name": "Daily Post Nigeria",
+      "count": 31,
+      "first": "2012-01-05",
+      "last": "2026-09-06"
+    },
+    {
+      "name": "The Guardian Nigeria News",
       "count": 25,
+      "first": "2015-10-02",
+      "last": "2025-12-17"
+    },
+    {
+      "name": "Channels Television",
+      "count": 23,
+      "first": "2012-01-04",
+      "last": "2026-09-04"
+    },
+    {
+      "name": "Punch Newspapers",
+      "count": 23,
       "first": "2020-09-04",
-      "last": "2026-08-19"
+      "last": "2026-07-20"
+    },
+    {
+      "name": "channelstv.com",
+      "count": 17,
+      "first": "2012-03-14",
+      "last": "2026-06-03"
     },
     {
       "name": "PM News Nigeria",
@@ -928,16 +940,16 @@
       "last": "2026-06-03"
     },
     {
+      "name": "dailypost.ng",
+      "count": 8,
+      "first": "2012-02-05",
+      "last": "2026-08-19"
+    },
+    {
       "name": "Independent Newspaper Nigeria",
       "count": 7,
       "first": "2020-09-07",
       "last": "2026-01-27"
-    },
-    {
-      "name": "The Guardian",
-      "count": 6,
-      "first": "2012-01-03",
-      "last": "2019-11-20"
     },
     {
       "name": "The Nation Newspaper",
@@ -1030,10 +1042,10 @@
       "last": "2024-02-19"
     },
     {
-      "name": "FIJ NG",
+      "name": "fij.ng",
       "count": 2,
       "first": "2024-09-04",
-      "last": "2024-09-05"
+      "last": "2024-11-11"
     },
     {
       "name": "independent.ng",
@@ -1072,16 +1084,16 @@
       "last": "2026-05-18"
     },
     {
+      "name": "punchng.com",
+      "count": 2,
+      "first": "2026-06-03",
+      "last": "2026-08-19"
+    },
+    {
       "name": "Sahara Reporters",
       "count": 2,
       "first": "2020-09-10",
       "last": "2023-08-01"
-    },
-    {
-      "name": "The ICIR",
-      "count": 2,
-      "first": "2023-10-01",
-      "last": "2026-02-03"
     },
     {
       "name": "TRT Afrika",
@@ -1156,16 +1168,10 @@
       "last": "2026-08-19"
     },
     {
-      "name": "dailypost.ng",
+      "name": "FIJ NG",
       "count": 1,
-      "first": "2023-09-04",
-      "last": "2023-09-04"
-    },
-    {
-      "name": "fij.ng",
-      "count": 1,
-      "first": "2024-11-11",
-      "last": "2024-11-11"
+      "first": "2024-09-05",
+      "last": "2024-09-05"
     },
     {
       "name": "Firstpost",
@@ -1202,6 +1208,12 @@
       "count": 1,
       "first": "2026-08-28",
       "last": "2026-08-28"
+    },
+    {
+      "name": "icirnigeria.org",
+      "count": 1,
+      "first": "2026-02-03",
+      "last": "2026-02-03"
     },
     {
       "name": "impactpolicies.org",
@@ -1316,6 +1328,12 @@
       "count": 1,
       "first": "2024-03-19",
       "last": "2024-03-19"
+    },
+    {
+      "name": "The ICIR",
+      "count": 1,
+      "first": "2023-10-01",
+      "last": "2023-10-01"
     },
     {
       "name": "theeagleonline.com.ng",

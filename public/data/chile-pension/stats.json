@@ -151,7 +151,7 @@
     },
     {
       "start": "2017-12-01",
-      "count": 11
+      "count": 12
     },
     {
       "start": "2018-01-01",
@@ -582,7 +582,7 @@
       "last": "2025-03-26"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -642,7 +642,7 @@
       "last": "2025-01-15"
     },
     {
-      "name": "Clarin.com",
+      "name": "clarin.com",
       "count": 4,
       "first": "2017-12-18",
       "last": "2019-12-24"
@@ -664,6 +664,12 @@
       "count": 4,
       "first": "2016-08-10",
       "last": "2019-03-31"
+    },
+    {
+      "name": "Universidad de Chile",
+      "count": 4,
+      "first": "2017-04-22",
+      "last": "2023-07-16"
     },
     {
       "name": "- CIPER Chile",
@@ -798,7 +804,7 @@
       "last": "2026-03-20"
     },
     {
-      "name": "nbcnews.com",
+      "name": "NBC News",
       "count": 2,
       "first": "2019-10-30",
       "last": "2020-03-11"
@@ -816,22 +822,10 @@
       "last": "2016-10-16"
     },
     {
-      "name": "radio.uchile.cl",
-      "count": 2,
-      "first": "2023-06-14",
-      "last": "2023-07-16"
-    },
-    {
       "name": "Reuters",
       "count": 2,
       "first": "2019-10-23",
       "last": "2025-01-29"
-    },
-    {
-      "name": "South China Morning Post",
-      "count": 2,
-      "first": "2019-10-23",
-      "last": "2022-03-12"
     },
     {
       "name": "The Nation Newspaper",
@@ -844,12 +838,6 @@
       "count": 2,
       "first": "2023-04-06",
       "last": "2025-12-04"
-    },
-    {
-      "name": "Universidad de Chile",
-      "count": 2,
-      "first": "2017-04-22",
-      "last": "2020-01-28"
     },
     {
       "name": "VOA - Voice of America English News",
@@ -1038,6 +1026,12 @@
       "last": "2026-07-30"
     },
     {
+      "name": "El Nacional — La voz de todos",
+      "count": 1,
+      "first": "2022-03-27",
+      "last": "2022-03-27"
+    },
+    {
       "name": "El Nuevo Diario",
       "count": 1,
       "first": "2022-09-22",
@@ -1062,16 +1056,22 @@
       "last": "2026-05-22"
     },
     {
-      "name": "elnacional.com.do",
-      "count": 1,
-      "first": "2022-03-27",
-      "last": "2022-03-27"
-    },
-    {
       "name": "elsiglo.cl",
       "count": 1,
       "first": "2023-07-25",
       "last": "2023-07-25"
+    },
+    {
+      "name": "eltrecetv",
+      "count": 1,
+      "first": "2017-12-20",
+      "last": "2017-12-20"
+    },
+    {
+      "name": "Fenpruss",
+      "count": 1,
+      "first": "2019-03-25",
+      "last": "2019-03-25"
     },
     {
       "name": "Foreign Policy",
@@ -1248,7 +1248,7 @@
       "last": "2019-10-25"
     },
     {
-      "name": "news4jax.com",
+      "name": "News4JAX",
       "count": 1,
       "first": "2019-11-04",
       "last": "2019-11-04"
@@ -1344,13 +1344,13 @@
       "last": "2024-09-24"
     },
     {
-      "name": "radiojgm.uchile.cl",
+      "name": "Radio JGM",
       "count": 1,
       "first": "2024-09-11",
       "last": "2024-09-11"
     },
     {
-      "name": "reflexionyliberacion.cl",
+      "name": "Reflexión y Liberación",
       "count": 1,
       "first": "2016-11-03",
       "last": "2016-11-03"
@@ -1386,16 +1386,22 @@
       "last": "2025-09-24"
     },
     {
+      "name": "scmp.com",
+      "count": 1,
+      "first": "2019-10-23",
+      "last": "2019-10-23"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 1,
+      "first": "2022-03-12",
+      "last": "2022-03-12"
+    },
+    {
       "name": "Sydney Criminal Lawyers",
       "count": 1,
       "first": "2020-03-17",
       "last": "2020-03-17"
-    },
-    {
-      "name": "The Bogotá Post",
-      "count": 1,
-      "first": "2020-02-21",
-      "last": "2020-02-21"
     },
     {
       "name": "The Conversation",
@@ -1434,6 +1440,12 @@
       "last": "2025-07-26"
     },
     {
+      "name": "thebogotapost.com",
+      "count": 1,
+      "first": "2020-02-21",
+      "last": "2020-02-21"
+    },
+    {
       "name": "Toronto Sun",
       "count": 1,
       "first": "2019-11-09",
@@ -1468,12 +1480,6 @@
       "count": 1,
       "first": "2018-04-23",
       "last": "2018-04-23"
-    },
-    {
-      "name": "web2.fenpruss.cl",
-      "count": 1,
-      "first": "2019-03-25",
-      "last": "2019-03-25"
     },
     {
       "name": "World Socialist Web Site",
