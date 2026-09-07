@@ -815,10 +815,22 @@
     },
     {
       "start": "2026-09-01",
-      "count": 26
+      "count": 27
     }
   ],
   "sources": [
+    {
+      "name": "The Guardian Nigeria News",
+      "count": 48,
+      "first": "2015-10-02",
+      "last": "2026-06-08"
+    },
+    {
+      "name": "Daily Post Nigeria",
+      "count": 40,
+      "first": "2012-01-05",
+      "last": "2026-09-07"
+    },
     {
       "name": "Vanguard News",
       "count": 40,
@@ -830,12 +842,6 @@
       "count": 39,
       "first": "2012-01-04",
       "last": "2026-09-04"
-    },
-    {
-      "name": "Daily Post Nigeria",
-      "count": 39,
-      "first": "2012-01-05",
-      "last": "2026-09-06"
     },
     {
       "name": "Premium Times Nigeria",
@@ -850,22 +856,10 @@
       "last": "2025-12-17"
     },
     {
-      "name": "The Guardian",
-      "count": 33,
-      "first": "2012-01-03",
-      "last": "2026-06-08"
-    },
-    {
-      "name": "The Guardian Nigeria News",
-      "count": 25,
-      "first": "2015-10-02",
-      "last": "2025-12-17"
-    },
-    {
       "name": "Punch Newspapers",
-      "count": 23,
+      "count": 25,
       "first": "2020-09-04",
-      "last": "2026-07-20"
+      "last": "2026-08-19"
     },
     {
       "name": "PM News Nigeria",
@@ -928,6 +922,12 @@
       "last": "2026-06-04"
     },
     {
+      "name": "The Guardian",
+      "count": 10,
+      "first": "2012-01-03",
+      "last": "2026-01-26"
+    },
+    {
       "name": "The Whistler Newspaper",
       "count": 10,
       "first": "2020-09-04",
@@ -964,7 +964,7 @@
       "last": "2024-06-03"
     },
     {
-      "name": "Nigeria Labour Congress (NLC)",
+      "name": "nlcng.org",
       "count": 5,
       "first": "2023-03-30",
       "last": "2026-06-03"
@@ -1010,6 +1010,12 @@
       "count": 3,
       "first": "2024-09-04",
       "last": "2024-09-07"
+    },
+    {
+      "name": "Nigerian Voice",
+      "count": 3,
+      "first": "2012-01-13",
+      "last": "2025-10-14"
     },
     {
       "name": "vanguardngr.com",
@@ -1060,18 +1066,6 @@
       "last": "2026-06-08"
     },
     {
-      "name": "Peoples Gazette Nigeria",
-      "count": 2,
-      "first": "2025-10-16",
-      "last": "2026-05-18"
-    },
-    {
-      "name": "punchng.com",
-      "count": 2,
-      "first": "2026-06-03",
-      "last": "2026-08-19"
-    },
-    {
       "name": "Sahara Reporters",
       "count": 2,
       "first": "2020-09-10",
@@ -1082,12 +1076,6 @@
       "count": 2,
       "first": "2023-10-01",
       "last": "2026-02-03"
-    },
-    {
-      "name": "thenigerianvoice.com",
-      "count": 2,
-      "first": "2012-01-13",
-      "last": "2021-12-18"
     },
     {
       "name": "TRT Afrika",
@@ -1112,12 +1100,6 @@
       "count": 1,
       "first": "2024-08-13",
       "last": "2024-08-13"
-    },
-    {
-      "name": "africarenewal.un.org",
-      "count": 1,
-      "first": "2012-04-15",
-      "last": "2012-04-15"
     },
     {
       "name": "AIT LIVE",
@@ -1210,6 +1192,12 @@
       "last": "2024-05-11"
     },
     {
+      "name": "gazettengr.com",
+      "count": 1,
+      "first": "2026-05-18",
+      "last": "2026-05-18"
+    },
+    {
       "name": "Gistmania",
       "count": 1,
       "first": "2019-01-25",
@@ -1282,10 +1270,10 @@
       "last": "2024-09-05"
     },
     {
-      "name": "Nigerian Voice",
+      "name": "Nigeria Labour Congress (NLC)",
       "count": 1,
-      "first": "2025-10-14",
-      "last": "2025-10-14"
+      "first": "2023-12-17",
+      "last": "2023-12-17"
     },
     {
       "name": "nigerianeye.com",
@@ -1294,10 +1282,10 @@
       "last": "2026-06-08"
     },
     {
-      "name": "nlcng.org",
+      "name": "Peoples Gazette Nigeria",
       "count": 1,
-      "first": "2023-11-15",
-      "last": "2023-11-15"
+      "first": "2025-10-16",
+      "last": "2025-10-16"
     },
     {
       "name": "premiumtimesng.com",
@@ -1394,8 +1382,14 @@
       "count": 1,
       "first": "2026-03-18",
       "last": "2026-03-18"
+    },
+    {
+      "name": "UN Africa Renewal",
+      "count": 1,
+      "first": "2012-04-15",
+      "last": "2012-04-15"
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-09-06"
+  "lastDate": "2026-09-07"
 }
