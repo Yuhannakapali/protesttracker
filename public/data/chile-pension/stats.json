@@ -642,7 +642,7 @@
       "last": "2025-01-15"
     },
     {
-      "name": "clarin.com",
+      "name": "Clarin.com",
       "count": 4,
       "first": "2017-12-18",
       "last": "2019-12-24"
@@ -654,13 +654,7 @@
       "last": "2026-07-15"
     },
     {
-      "name": "NODAL - Noticias de América Latina y el Caribe",
-      "count": 4,
-      "first": "2016-08-26",
-      "last": "2025-09-23"
-    },
-    {
-      "name": "SoyChile.cl",
+      "name": "soychile.cl",
       "count": 4,
       "first": "2016-08-10",
       "last": "2019-03-31"
@@ -700,6 +694,12 @@
       "count": 3,
       "first": "2016-08-21",
       "last": "2026-08-06"
+    },
+    {
+      "name": "NODAL - Noticias de América Latina y el Caribe",
+      "count": 3,
+      "first": "2016-08-26",
+      "last": "2021-04-26"
     },
     {
       "name": "Remezcla",
@@ -828,6 +828,12 @@
       "last": "2025-01-29"
     },
     {
+      "name": "South China Morning Post",
+      "count": 2,
+      "first": "2019-10-23",
+      "last": "2022-03-12"
+    },
+    {
       "name": "The Nation Newspaper",
       "count": 2,
       "first": "2024-02-07",
@@ -876,6 +882,12 @@
       "last": "2026-06-18"
     },
     {
+      "name": "América TeVé",
+      "count": 1,
+      "first": "2025-03-30",
+      "last": "2025-03-30"
+    },
+    {
       "name": "APFDigital",
       "count": 1,
       "first": "2026-07-27",
@@ -888,7 +900,7 @@
       "last": "2019-12-13"
     },
     {
-      "name": "Atlantic Council",
+      "name": "atlanticcouncil.org",
       "count": 1,
       "first": "2019-12-09",
       "last": "2019-12-09"
@@ -978,28 +990,28 @@
       "last": "2017-12-19"
     },
     {
+      "name": "Diario Época Corrientes",
+      "count": 1,
+      "first": "2023-04-06",
+      "last": "2023-04-06"
+    },
+    {
       "name": "Diario Río Uruguay",
       "count": 1,
       "first": "2026-07-27",
       "last": "2026-07-27"
     },
     {
-      "name": "Diario Talca",
-      "count": 1,
-      "first": "2025-03-31",
-      "last": "2025-03-31"
-    },
-    {
-      "name": "diarioepoca.com",
-      "count": 1,
-      "first": "2023-04-06",
-      "last": "2023-04-06"
-    },
-    {
       "name": "diariolaquinta.cl",
       "count": 1,
       "first": "2018-06-01",
       "last": "2018-06-01"
+    },
+    {
+      "name": "diariotalca.cl",
+      "count": 1,
+      "first": "2025-03-31",
+      "last": "2025-03-31"
     },
     {
       "name": "El Destape",
@@ -1140,12 +1152,6 @@
       "last": "2020-02-19"
     },
     {
-      "name": "Independent en Español",
-      "count": 1,
-      "first": "2025-03-30",
-      "last": "2025-03-30"
-    },
-    {
       "name": "Infinita",
       "count": 1,
       "first": "2021-12-14",
@@ -1248,7 +1254,7 @@
       "last": "2019-10-25"
     },
     {
-      "name": "News4JAX",
+      "name": "news4jax.com",
       "count": 1,
       "first": "2019-11-04",
       "last": "2019-11-04"
@@ -1270,6 +1276,12 @@
       "count": 1,
       "first": "2017-12-22",
       "last": "2017-12-22"
+    },
+    {
+      "name": "nodal.am",
+      "count": 1,
+      "first": "2025-09-23",
+      "last": "2025-09-23"
     },
     {
       "name": "Noticias SIN",
@@ -1386,22 +1398,16 @@
       "last": "2025-09-24"
     },
     {
-      "name": "scmp.com",
-      "count": 1,
-      "first": "2019-10-23",
-      "last": "2019-10-23"
-    },
-    {
-      "name": "South China Morning Post",
-      "count": 1,
-      "first": "2022-03-12",
-      "last": "2022-03-12"
-    },
-    {
       "name": "Sydney Criminal Lawyers",
       "count": 1,
       "first": "2020-03-17",
       "last": "2020-03-17"
+    },
+    {
+      "name": "The Bogotá Post",
+      "count": 1,
+      "first": "2020-02-21",
+      "last": "2020-02-21"
     },
     {
       "name": "The Conversation",
@@ -1438,12 +1444,6 @@
       "count": 1,
       "first": "2025-07-26",
       "last": "2025-07-26"
-    },
-    {
-      "name": "thebogotapost.com",
-      "count": 1,
-      "first": "2020-02-21",
-      "last": "2020-02-21"
     },
     {
       "name": "Toronto Sun",
