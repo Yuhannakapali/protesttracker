@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T08:00:51.490Z",
+  "generated": "2026-09-07T08:22:56.112Z",
   "candidates": [
     {
       "key": "wd-Q133441461",
@@ -382,6 +382,377 @@
         "_source": {
           "wikidata": "Q140773593",
           "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136311323",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Timor-Leste",
+      "countries": [
+        "Timor-Leste"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Timor-Leste_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "timor-leste-timor-leste-protests",
+        "name": "2025 Timor-Leste protests",
+        "region": "Asia",
+        "location": "Timor-Leste",
+        "year": 2025,
+        "description": "Student-led demonstrations in Dili, Timor-Leste",
+        "keywords": [
+          "timor",
+          "leste",
+          "timor-leste",
+          "protest"
+        ],
+        "strictKeywords": [
+          "timor",
+          "leste"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Timor-Leste%20protests&hl=en-TL&gl=TL&ceid=TL%3Aen",
+          "https://news.google.com/rss/search?q=Timor-Leste%20protest&hl=en-TL&gl=TL&ceid=TL%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136311323",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Timor-Leste_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136343583",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Philippines",
+      "countries": [
+        "Philippines"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Philippine_anti-corruption_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "philippines-philippine-anti-corruption-protests",
+        "name": "2025–2026 Philippine anti-corruption protests",
+        "region": "Asia",
+        "location": "Philippines",
+        "year": 2025,
+        "description": "Protests against corruption in the Philippines",
+        "keywords": [
+          "philippine",
+          "anti",
+          "corruption",
+          "philippines",
+          "protest"
+        ],
+        "strictKeywords": [
+          "philippine",
+          "anti",
+          "corruption"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Philippine%20anti-corruption%20protests&hl=en-PH&gl=PH&ceid=PH%3Aen",
+          "https://news.google.com/rss/search?q=Philippines%20protest&hl=en-PH&gl=PH&ceid=PH%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136343583",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Philippine_anti-corruption_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136344992",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Ecuador",
+      "countries": [
+        "Ecuador"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Ecuador_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "ecuador-ecuadorian-protests",
+        "name": "2025 Ecuadorian protests",
+        "region": "Americas",
+        "location": "Ecuador",
+        "year": 2025,
+        "description": "2025 protests in Ecuador",
+        "keywords": [
+          "ecuadorian",
+          "ecuador",
+          "protest"
+        ],
+        "strictKeywords": [
+          "ecuadorian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Ecuadorian%20protests&hl=en-EC&gl=EC&ceid=EC%3Aen",
+          "https://news.google.com/rss/search?q=Ecuador%20protest&hl=en-EC&gl=EC&ceid=EC%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136344992",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Ecuador_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136373399",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Italy",
+      "countries": [
+        "Italy"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Italian_general_strikes_and_protests_for_Gaza",
+      "needsName": false,
+      "suggested": {
+        "id": "italy-italian-general-strikes-and-protests-for-gaza",
+        "name": "2025 Italian general strikes and protests for Gaza",
+        "region": "Europe",
+        "location": "Italy",
+        "year": 2025,
+        "description": "protest in Italy",
+        "keywords": [
+          "italian",
+          "general",
+          "for",
+          "gaza",
+          "italy",
+          "protest"
+        ],
+        "strictKeywords": [
+          "italian",
+          "general",
+          "for",
+          "gaza"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Italian%20general%20strikes%20and%20protests%20for%20Gaza&hl=en-IT&gl=IT&ceid=IT%3Aen",
+          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136373399",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Italian_general_strikes_and_protests_for_Gaza"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136377386",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Madagascar",
+      "countries": [
+        "Madagascar"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Malagasy_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "madagascar-malagasy-protests",
+        "name": "2025 Malagasy protests",
+        "region": "Africa",
+        "location": "Madagascar",
+        "year": 2025,
+        "description": "protests in Madagascar",
+        "keywords": [
+          "malagasy",
+          "madagascar",
+          "protest"
+        ],
+        "strictKeywords": [
+          "malagasy"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Malagasy%20protests&hl=en-MG&gl=MG&ceid=MG%3Aen",
+          "https://news.google.com/rss/search?q=Madagascar%20protest&hl=en-MG&gl=MG&ceid=MG%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136377386",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Malagasy_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136398794",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Peru",
+      "countries": [
+        "Peru"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Peruvian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "peru-peruvian-protests",
+        "name": "2025 Peruvian protests",
+        "region": "Americas",
+        "location": "Peru",
+        "year": 2025,
+        "description": "2025 Gen Z protests",
+        "keywords": [
+          "peruvian",
+          "peru",
+          "protest"
+        ],
+        "strictKeywords": [
+          "peruvian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Peruvian%20protests&hl=en-PE&gl=PE&ceid=PE%3Aen",
+          "https://news.google.com/rss/search?q=Peru%20protest&hl=en-PE&gl=PE&ceid=PE%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136398794",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Peruvian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136399532",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Morocco",
+      "countries": [
+        "Morocco"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Moroccan_Gen_Z_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "morocco-protests-in-morocco",
+        "name": "2025 protests in Morocco",
+        "region": "Africa",
+        "location": "Morocco",
+        "year": 2025,
+        "description": "2025 youth-led protests in Morocco",
+        "keywords": [
+          "morocco",
+          "protest"
+        ],
+        "strictKeywords": [
+          "morocco"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20protests%20in%20Morocco&hl=en-MA&gl=MA&ceid=MA%3Aen",
+          "https://news.google.com/rss/search?q=Morocco%20protest&hl=en-MA&gl=MA&ceid=MA%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136399532",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Moroccan_Gen_Z_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136412470",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Angola",
+      "countries": [
+        "Angola"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/July_2025_Angolan_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "angola-july-angolan-protests",
+        "name": "July 2025 Angolan protests",
+        "region": "Africa",
+        "location": "Angola",
+        "year": 2025,
+        "description": "",
+        "keywords": [
+          "angolan",
+          "angola",
+          "protest"
+        ],
+        "strictKeywords": [
+          "angolan"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=July%202025%20Angolan%20protests&hl=en-AO&gl=AO&ceid=AO%3Aen",
+          "https://news.google.com/rss/search?q=Angola%20protest&hl=en-AO&gl=AO&ceid=AO%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136412470",
+          "wikipedia": "https://en.wikipedia.org/wiki/July_2025_Angolan_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136486325",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Paraguay",
+      "countries": [
+        "Paraguay"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Paraguayan_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "paraguay-paraguayan-protests",
+        "name": "2025 Paraguayan protests",
+        "region": "Americas",
+        "location": "Paraguay",
+        "year": 2025,
+        "description": "2025 Gen Z protests",
+        "keywords": [
+          "paraguayan",
+          "paraguay",
+          "protest"
+        ],
+        "strictKeywords": [
+          "paraguayan"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Paraguayan%20protests&hl=en-PY&gl=PY&ceid=PY%3Aen",
+          "https://news.google.com/rss/search?q=Paraguay%20protest&hl=en-PY&gl=PY&ceid=PY%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136486325",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Paraguayan_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136497544",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Maldives",
+      "countries": [
+        "Maldives"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Maldivian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "maldives-maldivian-protests",
+        "name": "2025 Maldivian protests",
+        "region": "Asia",
+        "location": "Maldives",
+        "year": 2025,
+        "description": "",
+        "keywords": [
+          "maldivian",
+          "maldives",
+          "protest"
+        ],
+        "strictKeywords": [
+          "maldivian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Maldivian%20protests&hl=en-MV&gl=MV&ceid=MV%3Aen",
+          "https://news.google.com/rss/search?q=Maldives%20protest&hl=en-MV&gl=MV&ceid=MV%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136497544",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Maldivian_protests"
         }
       }
     },
@@ -1062,377 +1433,6 @@
         "_source": {
           "wikidata": "Q137612545",
           "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136311323",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Timor-Leste",
-      "countries": [
-        "Timor-Leste"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Timor-Leste_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "timor-leste-timor-leste-protests",
-        "name": "2025 Timor-Leste protests",
-        "region": "Asia",
-        "location": "Timor-Leste",
-        "year": 2025,
-        "description": "Student-led demonstrations in Dili, Timor-Leste",
-        "keywords": [
-          "timor",
-          "leste",
-          "timor-leste",
-          "protest"
-        ],
-        "strictKeywords": [
-          "timor",
-          "leste"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Timor-Leste%20protests&hl=en-TL&gl=TL&ceid=TL%3Aen",
-          "https://news.google.com/rss/search?q=Timor-Leste%20protest&hl=en-TL&gl=TL&ceid=TL%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136311323",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Timor-Leste_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136343583",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Philippines",
-      "countries": [
-        "Philippines"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Philippine_anti-corruption_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "philippines-philippine-anti-corruption-protests",
-        "name": "2025–2026 Philippine anti-corruption protests",
-        "region": "Asia",
-        "location": "Philippines",
-        "year": 2025,
-        "description": "Protests against corruption in the Philippines",
-        "keywords": [
-          "philippine",
-          "anti",
-          "corruption",
-          "philippines",
-          "protest"
-        ],
-        "strictKeywords": [
-          "philippine",
-          "anti",
-          "corruption"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Philippine%20anti-corruption%20protests&hl=en-PH&gl=PH&ceid=PH%3Aen",
-          "https://news.google.com/rss/search?q=Philippines%20protest&hl=en-PH&gl=PH&ceid=PH%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136343583",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Philippine_anti-corruption_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136344992",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Ecuador",
-      "countries": [
-        "Ecuador"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Ecuador_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "ecuador-ecuadorian-protests",
-        "name": "2025 Ecuadorian protests",
-        "region": "Americas",
-        "location": "Ecuador",
-        "year": 2025,
-        "description": "2025 protests in Ecuador",
-        "keywords": [
-          "ecuadorian",
-          "ecuador",
-          "protest"
-        ],
-        "strictKeywords": [
-          "ecuadorian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Ecuadorian%20protests&hl=en-EC&gl=EC&ceid=EC%3Aen",
-          "https://news.google.com/rss/search?q=Ecuador%20protest&hl=en-EC&gl=EC&ceid=EC%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136344992",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Ecuador_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136373399",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Italy",
-      "countries": [
-        "Italy"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Italian_general_strikes_and_protests_for_Gaza",
-      "needsName": false,
-      "suggested": {
-        "id": "italy-italian-general-strikes-and-protests-for-gaza",
-        "name": "2025 Italian general strikes and protests for Gaza",
-        "region": "Europe",
-        "location": "Italy",
-        "year": 2025,
-        "description": "protest in Italy",
-        "keywords": [
-          "italian",
-          "general",
-          "for",
-          "gaza",
-          "italy",
-          "protest"
-        ],
-        "strictKeywords": [
-          "italian",
-          "general",
-          "for",
-          "gaza"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Italian%20general%20strikes%20and%20protests%20for%20Gaza&hl=en-IT&gl=IT&ceid=IT%3Aen",
-          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136373399",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Italian_general_strikes_and_protests_for_Gaza"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136377386",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Madagascar",
-      "countries": [
-        "Madagascar"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Malagasy_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "madagascar-malagasy-protests",
-        "name": "2025 Malagasy protests",
-        "region": "Africa",
-        "location": "Madagascar",
-        "year": 2025,
-        "description": "protests in Madagascar",
-        "keywords": [
-          "malagasy",
-          "madagascar",
-          "protest"
-        ],
-        "strictKeywords": [
-          "malagasy"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Malagasy%20protests&hl=en-MG&gl=MG&ceid=MG%3Aen",
-          "https://news.google.com/rss/search?q=Madagascar%20protest&hl=en-MG&gl=MG&ceid=MG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136377386",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Malagasy_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136398794",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Peru",
-      "countries": [
-        "Peru"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Peruvian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "peru-peruvian-protests",
-        "name": "2025 Peruvian protests",
-        "region": "Americas",
-        "location": "Peru",
-        "year": 2025,
-        "description": "2025 Gen Z protests",
-        "keywords": [
-          "peruvian",
-          "peru",
-          "protest"
-        ],
-        "strictKeywords": [
-          "peruvian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Peruvian%20protests&hl=en-PE&gl=PE&ceid=PE%3Aen",
-          "https://news.google.com/rss/search?q=Peru%20protest&hl=en-PE&gl=PE&ceid=PE%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136398794",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Peruvian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136399532",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Morocco",
-      "countries": [
-        "Morocco"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Moroccan_Gen_Z_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "morocco-protests-in-morocco",
-        "name": "2025 protests in Morocco",
-        "region": "Africa",
-        "location": "Morocco",
-        "year": 2025,
-        "description": "2025 youth-led protests in Morocco",
-        "keywords": [
-          "morocco",
-          "protest"
-        ],
-        "strictKeywords": [
-          "morocco"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20protests%20in%20Morocco&hl=en-MA&gl=MA&ceid=MA%3Aen",
-          "https://news.google.com/rss/search?q=Morocco%20protest&hl=en-MA&gl=MA&ceid=MA%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136399532",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Moroccan_Gen_Z_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136412470",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Angola",
-      "countries": [
-        "Angola"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/July_2025_Angolan_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "angola-july-angolan-protests",
-        "name": "July 2025 Angolan protests",
-        "region": "Africa",
-        "location": "Angola",
-        "year": 2025,
-        "description": "",
-        "keywords": [
-          "angolan",
-          "angola",
-          "protest"
-        ],
-        "strictKeywords": [
-          "angolan"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=July%202025%20Angolan%20protests&hl=en-AO&gl=AO&ceid=AO%3Aen",
-          "https://news.google.com/rss/search?q=Angola%20protest&hl=en-AO&gl=AO&ceid=AO%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136412470",
-          "wikipedia": "https://en.wikipedia.org/wiki/July_2025_Angolan_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136486325",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Paraguay",
-      "countries": [
-        "Paraguay"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Paraguayan_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "paraguay-paraguayan-protests",
-        "name": "2025 Paraguayan protests",
-        "region": "Americas",
-        "location": "Paraguay",
-        "year": 2025,
-        "description": "2025 Gen Z protests",
-        "keywords": [
-          "paraguayan",
-          "paraguay",
-          "protest"
-        ],
-        "strictKeywords": [
-          "paraguayan"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Paraguayan%20protests&hl=en-PY&gl=PY&ceid=PY%3Aen",
-          "https://news.google.com/rss/search?q=Paraguay%20protest&hl=en-PY&gl=PY&ceid=PY%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136486325",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Paraguayan_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136497544",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Maldives",
-      "countries": [
-        "Maldives"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Maldivian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "maldives-maldivian-protests",
-        "name": "2025 Maldivian protests",
-        "region": "Asia",
-        "location": "Maldives",
-        "year": 2025,
-        "description": "",
-        "keywords": [
-          "maldivian",
-          "maldives",
-          "protest"
-        ],
-        "strictKeywords": [
-          "maldivian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Maldivian%20protests&hl=en-MV&gl=MV&ceid=MV%3Aen",
-          "https://news.google.com/rss/search?q=Maldives%20protest&hl=en-MV&gl=MV&ceid=MV%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136497544",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Maldivian_protests"
         }
       }
     },
@@ -2835,6 +2835,509 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "south-africa:africa-holiday-next",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-philippines:arabia-attacked-filipino",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "Philippines",
+      "countries": [
+        "Philippines"
+      ],
+      "domains": [
+        "rappler.com",
+        "philstar.com",
+        "manilatimes.net"
+      ],
+      "daysSeen": 3,
+      "articleCount": 7,
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-07",
+      "samples": [
+        {
+          "title": "Saudi Arabia says Iran attacked vessel in Hormuz , killing 2 Filipino sailors",
+          "url": "https://www.rappler.com/philippines/overseas-filipinos/seafarers-killed-iran-attack-strait-hormuz-august-31-2026/",
+          "domain": "rappler.com",
+          "date": "2026-09-03"
+        },
+        {
+          "title": "Two Filipino seafarers killed as Saudi tanker attacked in Hormuz",
+          "url": "https://www.philstar.com/headlines/2026/09/03/2553745/two-filipino-seafarers-killed-saudi-tanker-attacked-hormuz",
+          "domain": "philstar.com",
+          "date": "2026-09-03"
+        },
+        {
+          "title": "JETOUR Launches Factory - Customized G700 TOPFIRE in Saudi Arabia",
+          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/jetour-launches-factory-customized-g700-topfire-in-saudi-arabia/2415599",
+          "domain": "manilatimes.net",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "Saudi Arabia says Iran attacked vessel in Hormuz , killing 2 Filipino sailors",
+          "url": "https://www.rappler.com/philippines/overseas-filipinos/seafarers-killed-iran-attack-strait-hormuz-august-31-2026/",
+          "domain": "rappler.com",
+          "date": "2026-09-03"
+        },
+        {
+          "title": "Two Filipino seafarers killed as Saudi tanker attacked in Hormuz",
+          "url": "https://www.philstar.com/headlines/2026/09/03/2553745/two-filipino-seafarers-killed-saudi-tanker-attacked-hormuz",
+          "domain": "philstar.com",
+          "date": "2026-09-03"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "philippines-saudi-arabia-says-iran-attacked-vessel",
+        "name": "Saudi Arabia says Iran attacked vessel",
+        "region": "Asia",
+        "location": "Philippines",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "saudi",
+          "arabia",
+          "says",
+          "iran",
+          "attacked",
+          "vessel",
+          "philippines",
+          "protest"
+        ],
+        "strictKeywords": [
+          "saudi",
+          "arabia",
+          "says",
+          "iran",
+          "attacked",
+          "vessel"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Saudi%20Arabia%20says%20Iran%20attacked%20vessel&hl=en-PH&gl=PH&ceid=PH%3Aen",
+          "https://news.google.com/rss/search?q=Philippines%20protest&hl=en-PH&gl=PH&ceid=PH%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "philippines:arabia-attacked-filipino",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-india:adopt-bigger-guerrilla",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "India",
+      "countries": [
+        "India"
+      ],
+      "domains": [
+        "hindustantimes.com",
+        "economictimes.indiatimes.com",
+        "moneycontrol.com",
+        "newsx.com",
+        "timesofindia.indiatimes.com"
+      ],
+      "daysSeen": 4,
+      "articleCount": 6,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-05",
+      "samples": [
+        {
+          "title": "Adopt  guerrilla strategy , move quietly to Mumbai for bigger protest : Jarange urges Marathas",
+          "url": "https://www.hindustantimes.com/cities/mumbai-news/adopt-guerrilla-strategy-move-quietly-to-mumbai-for-bigger-protest-jarange-urges-marathas-101788166928364.html",
+          "domain": "hindustantimes.com",
+          "date": "2026-08-31"
+        },
+        {
+          "title": "Adopt  guerrilla strategy , move quietly to Mumbai for bigger protest : Manoj Jarange urges Marathas",
+          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/adopt-guerrilla-strategy-move-quietly-to-mumbai-for-bigger-protest-manoj-jarange-urges-marathas/articleshow/133649026.cms",
+          "domain": "economictimes.indiatimes.com",
+          "date": "2026-08-31"
+        },
+        {
+          "title": "Manoj Jarange stands firm on hunger strike , urges Marathas to apply for Kunbi certificates",
+          "url": "https://www.moneycontrol.com/city/manoj-jarange-stands-firm-on-hunger-strike-urges-marathas-to-apply-for-kunbi-certificates-article-14022353.html",
+          "domain": "moneycontrol.com",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Manoj Jarange Patil On Day 3 Of Indefinite Fast : From Kunbi Certificates To  Sage - Soyare , What Is Maratha Reservation Dispute ?",
+          "url": "https://www.newsx.com/regionals/manoj-jarange-patil-on-day-3-of-indefinite-fast-from-kunbi-certificates-to-sage-soyare-what-is-maratha-reservation-dispute-266806/",
+          "domain": "newsx.com",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "No water , no treatment : Jarange - Patil escalates fight for Maratha reservation",
+          "url": "https://www.hindustantimes.com/india-news/no-water-no-treatment-jarange-patil-escalates-fight-for-maratha-reservation-101788606105287.html",
+          "domain": "hindustantimes.com",
+          "date": "2026-09-05"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "india-adopt-guerrilla-strategy-move-quietly-to",
+        "name": "Adopt guerrilla strategy move quietly to",
+        "region": "Asia",
+        "location": "India",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "adopt",
+          "guerrilla",
+          "strategy",
+          "move",
+          "quietly",
+          "india",
+          "protest"
+        ],
+        "strictKeywords": [
+          "adopt",
+          "guerrilla",
+          "strategy",
+          "move",
+          "quietly"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Adopt%20guerrilla%20strategy%20move%20quietly%20to&hl=en-IN&gl=IN&ceid=IN%3Aen",
+          "https://news.google.com/rss/search?q=India%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "india:adopt-bigger-guerrilla",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-india:fir-gandhi-headquarters",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "India",
+      "countries": [
+        "India"
+      ],
+      "domains": [
+        "aninews.in",
+        "prokerala.com",
+        "thehindu.com",
+        "economictimes.indiatimes.com",
+        "timesofindia.indiatimes.com",
+        "deccanchronicle.com"
+      ],
+      "daysSeen": 5,
+      "articleCount": 11,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-07",
+      "samples": [
+        {
+          "title": "Udit Raj detained during Congress protest outside RSS headquarters over FIR against Rahul Gandhi",
+          "url": "https://aninews.in/news/national/politics/udit-raj-detained-during-congress-protest-outside-rss-headquarters-over-fir-against-rahul-gandhi20260902000959/",
+          "domain": "aninews.in",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "Kerala CM condemns FIR against Rahul Gandhi ; Congress to protest",
+          "url": "https://www.prokerala.com/news/articles/a1806837.html",
+          "domain": "prokerala.com",
+          "date": "2026-08-31"
+        },
+        {
+          "title": "Telangana Mahila Congress protests FIR against Rahul Gandhi",
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-mahila-congress-protests-fir-against-rahul-gandhi/article71415192.ece",
+          "domain": "thehindu.com",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "Karnataka CM DK Shivakumar condemns FIR against Rahul over Haldwani  purification  row",
+          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/karnataka-cm-dk-shivakumar-condemns-fir-against-rahul-over-haldwani-purification-row/articleshow/133651034.cms",
+          "domain": "economictimes.indiatimes.com",
+          "date": "2026-08-31"
+        },
+        {
+          "title": "Congress slams FIR against Rahul Gandhi , starts FIR drive on  purification",
+          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-slams-fir-against-rahul-gandhi-starts-fir-drive-on-purification/articleshow/133661180.cms",
+          "domain": "economictimes.indiatimes.com",
+          "date": "2026-08-31"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "india-udit-raj-detained-during-congress-protest",
+        "name": "Udit Raj detained during Congress protest",
+        "region": "Asia",
+        "location": "India",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "udit",
+          "raj",
+          "detained",
+          "during",
+          "congress",
+          "india",
+          "protest"
+        ],
+        "strictKeywords": [
+          "udit",
+          "raj",
+          "detained",
+          "during",
+          "congress"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Udit%20Raj%20detained%20during%20Congress%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen",
+          "https://news.google.com/rss/search?q=India%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "india:fir-gandhi-headquarters",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-india:across-bds-continue",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "India",
+      "countries": [
+        "India"
+      ],
+      "domains": [
+        "tribuneindia.com",
+        "prokerala.com",
+        "timesofindia.indiatimes.com",
+        "news.webindia123.com",
+        "aninews.in",
+        "thehindu.com",
+        "dailypioneer.com",
+        "dailyexcelsior.com"
+      ],
+      "daysSeen": 6,
+      "articleCount": 8,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-07",
+      "samples": [
+        {
+          "title": "MBBS , BDS interns to continue strike across J & K over stipend hike",
+          "url": "https://www.tribuneindia.com/news/j-k/mbbs-bds-interns-to-continue-strike-across-jk-over-stipend-hike/",
+          "domain": "tribuneindia.com",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "J & K medical college interns begin hunger strike over stipend increase demand",
+          "url": "https://www.prokerala.com/news/articles/a1809349.html",
+          "domain": "prokerala.com",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "MBBS , BDS interns in J & K start indefinite strike over  low  stipend | India News",
+          "url": "https://timesofindia.indiatimes.com/india/mbbs-bds-interns-in-jk-start-indefinite-strike-over-low-stipend/articleshow/133661793.cms",
+          "domain": "timesofindia.indiatimes.com",
+          "date": "2026-08-31"
+        },
+        {
+          "title": "J - K : Intern doctors protest over stipend hike enters sixth day ; govt says ,  matter under process",
+          "url": "https://news.webindia123.com/news/Articles/India/20260905/4495029.html",
+          "domain": "news.webindia123.com",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "J - K : Intern doctor protest over stipend hike enters sixth day ; govt says ,  matter under process",
+          "url": "https://aninews.in/news/national/general-news/j-k-intern-doctors8217-protest-over-stipend-hike-enters-sixth-day-govt-says-matter-under-process20260905160747/",
+          "domain": "aninews.in",
+          "date": "2026-09-05"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "india-mbbs-bds-interns-to-continue-strike",
+        "name": "MBBS BDS interns to continue strike",
+        "region": "Asia",
+        "location": "India",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "mbbs",
+          "bds",
+          "interns",
+          "continue",
+          "india",
+          "protest"
+        ],
+        "strictKeywords": [
+          "mbbs",
+          "bds",
+          "interns",
+          "continue"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=MBBS%20BDS%20interns%20to%20continue%20strike&hl=en-IN&gl=IN&ceid=IN%3Aen",
+          "https://news.google.com/rss/search?q=India%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "india:across-bds-continue",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-india:fire-gas-kakching",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "India",
+      "countries": [
+        "India"
+      ],
+      "domains": [
+        "business-standard.com",
+        "idrw.org",
+        "dailypioneer.com",
+        "aninews.in"
+      ],
+      "daysSeen": 3,
+      "articleCount": 3,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-05",
+      "samples": [
+        {
+          "title": "Manipur NRC protest turns violent in Kakching , police fire tear gas",
+          "url": "https://www.business-standard.com/india-news/manipur-nrc-protest-turns-violent-in-kakching-police-fire-tear-gas-126083100346_1.html",
+          "domain": "business-standard.com",
+          "date": "2026-08-31"
+        },
+        {
+          "title": "Manipur NRC protest turns violent in Kakching , police use tear gas",
+          "url": "https://dailypioneer.com/news/manipur-kakching-nrc-protest-turns-violent-police-tear-gas",
+          "domain": "dailypioneer.com",
+          "date": "2026-08-31"
+        },
+        {
+          "title": "Tripura blockade turns violent : Protesters clash with police over sick patient passage",
+          "url": "https://aninews.in/news/national/general-news/tripura-blockade-turns-violent-protesters-clash-with-police-over-sick-patients-passage20260905145757/",
+          "domain": "aninews.in",
+          "date": "2026-09-05"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "india-manipur-nrc-protest-turns-violent-in",
+        "name": "Manipur NRC protest turns violent in",
+        "region": "Asia",
+        "location": "India",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "manipur",
+          "nrc",
+          "turns",
+          "violent",
+          "india",
+          "protest"
+        ],
+        "strictKeywords": [
+          "manipur",
+          "nrc",
+          "turns",
+          "violent"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Manipur%20NRC%20protest%20turns%20violent%20in&hl=en-IN&gl=IN&ceid=IN%3Aen",
+          "https://news.google.com/rss/search?q=India%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "india:fire-gas-kakching",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-india:elsewhere-hit-hormuz",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "India",
+      "countries": [
+        "India"
+      ],
+      "domains": [
+        "prokerala.com",
+        "freepressjournal.in",
+        "timesofindia.indiatimes.com",
+        "economictimes.indiatimes.com",
+        "morungexpress.com"
+      ],
+      "daysSeen": 3,
+      "articleCount": 5,
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-06",
+      "samples": [
+        {
+          "title": "Iran IRGC says hit 3 oilers in Hormuz Strait , 3 US vessels elsewhere in retaliatory strikes",
+          "url": "https://www.prokerala.com/news/articles/a1809007.html",
+          "domain": "prokerala.com",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Iran IRGC Says It Struck 6 Vessels After US Attacks On Iranian Tankers",
+          "url": "https://www.freepressjournal.in/world/irans-irgc-says-it-struck-6-vessels-after-us-attacks-on-iranian-tankers",
+          "domain": "freepressjournal.in",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Trump suggests renaming Strait of Hormuz  Trump Strait  amid escalating US - Iran conflict",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/trump-suggests-renaming-strait-of-hormuz-trump-strait-amid-escalating-us-iran-conflict/articleshow/133715604.cms",
+          "domain": "timesofindia.indiatimes.com",
+          "date": "2026-09-02"
+        },
+        {
+          "title": "60 targets struck in a day : Inside the US military biggest push to secure Hormuz",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/60-targets-struck-in-a-day-inside-the-us-militarys-biggest-push-to-secure-hormuz/articleshow/133725436.cms",
+          "domain": "economictimes.indiatimes.com",
+          "date": "2026-09-03"
+        },
+        {
+          "title": "Trump says US ready for more Iran strikes , denies plans to rename Hormuz Strait after himself",
+          "url": "https://morungexpress.com/trump-says-us-ready-for-more-iran-strikes-denies-plans-to-rename-hormuz-strait-after-himself",
+          "domain": "morungexpress.com",
+          "date": "2026-09-03"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "india-iran-irgc-says-hit-3-oilers",
+        "name": "Iran IRGC says hit 3 oilers",
+        "region": "Asia",
+        "location": "India",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "iran",
+          "irgc",
+          "says",
+          "hit",
+          "oilers",
+          "india",
+          "protest"
+        ],
+        "strictKeywords": [
+          "iran",
+          "irgc",
+          "says",
+          "hit",
+          "oilers"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Iran%20IRGC%20says%20hit%203%20oilers&hl=en-IN&gl=IN&ceid=IN%3Aen",
+          "https://news.google.com/rss/search?q=India%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "india:elsewhere-hit-hormuz",
           "wikipedia": ""
         }
       }
