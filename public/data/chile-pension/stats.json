@@ -582,7 +582,7 @@
       "last": "2025-03-26"
     },
     {
-      "name": "dw.com",
+      "name": "DW.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -642,10 +642,16 @@
       "last": "2025-01-15"
     },
     {
-      "name": "SoyChile.cl",
+      "name": "soychile.cl",
       "count": 5,
       "first": "2016-08-10",
       "last": "2019-03-31"
+    },
+    {
+      "name": "Clarin.com",
+      "count": 4,
+      "first": "2017-12-18",
+      "last": "2019-12-24"
     },
     {
       "name": "Diario Junio",
@@ -682,12 +688,6 @@
       "count": 3,
       "first": "2014-11-04",
       "last": "2017-09-03"
-    },
-    {
-      "name": "Clarin.com",
-      "count": 3,
-      "first": "2017-12-19",
-      "last": "2019-12-24"
     },
     {
       "name": "Democracy Now!",
@@ -924,7 +924,7 @@
       "last": "2020-08-09"
     },
     {
-      "name": "bloomberg.com",
+      "name": "Bloomberg.com",
       "count": 1,
       "first": "2019-10-26",
       "last": "2019-10-26"
@@ -940,12 +940,6 @@
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
-    },
-    {
-      "name": "caretas.pe",
-      "count": 1,
-      "first": "2025-09-14",
-      "last": "2025-09-14"
     },
     {
       "name": "Cato Institute",
@@ -964,12 +958,6 @@
       "count": 1,
       "first": "2019-12-18",
       "last": "2019-12-18"
-    },
-    {
-      "name": "Clarín",
-      "count": 1,
-      "first": "2017-12-18",
-      "last": "2017-12-18"
     },
     {
       "name": "CNN",
@@ -1008,10 +996,10 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Diario Talca",
+      "name": "diarioantofagasta.cl",
       "count": 1,
-      "first": "2025-03-31",
-      "last": "2025-03-31"
+      "first": "2020-07-20",
+      "last": "2020-07-20"
     },
     {
       "name": "diariolaquinta.cl",
@@ -1020,16 +1008,16 @@
       "last": "2018-06-01"
     },
     {
+      "name": "diariotalca.cl",
+      "count": 1,
+      "first": "2025-03-31",
+      "last": "2025-03-31"
+    },
+    {
       "name": "El Destape",
       "count": 1,
       "first": "2017-12-17",
       "last": "2017-12-17"
-    },
-    {
-      "name": "El Diario de Antofagasta",
-      "count": 1,
-      "first": "2020-07-20",
-      "last": "2020-07-20"
     },
     {
       "name": "El Grito del Sur",
@@ -1050,6 +1038,12 @@
       "last": "2022-03-27"
     },
     {
+      "name": "El Nuevo Diario",
+      "count": 1,
+      "first": "2022-09-22",
+      "last": "2022-09-22"
+    },
+    {
       "name": "El Rancagüino",
       "count": 1,
       "first": "2021-05-19",
@@ -1066,12 +1060,6 @@
       "count": 1,
       "first": "2026-05-22",
       "last": "2026-05-22"
-    },
-    {
-      "name": "elnuevodiario.com.do",
-      "count": 1,
-      "first": "2022-09-22",
-      "last": "2022-09-22"
     },
     {
       "name": "elsiglo.cl",
@@ -1128,7 +1116,7 @@
       "last": "2026-05-16"
     },
     {
-      "name": "guioteca.com",
+      "name": "Guioteca",
       "count": 1,
       "first": "2017-03-26",
       "last": "2017-03-26"
@@ -1236,7 +1224,7 @@
       "last": "2019-01-24"
     },
     {
-      "name": "Mala Espina",
+      "name": "malaespinacheck.cl",
       "count": 1,
       "first": "2024-12-27",
       "last": "2024-12-27"
@@ -1326,7 +1314,7 @@
       "last": "2017-03-22"
     },
     {
-      "name": "Política Obrera",
+      "name": "politicaobrera.com",
       "count": 1,
       "first": "2025-09-30",
       "last": "2025-09-30"
@@ -1368,7 +1356,7 @@
       "last": "2024-09-24"
     },
     {
-      "name": "radiojgm.uchile.cl",
+      "name": "Radio JGM",
       "count": 1,
       "first": "2024-09-11",
       "last": "2024-09-11"
@@ -1390,6 +1378,12 @@
       "count": 1,
       "first": "2025-04-03",
       "last": "2025-04-03"
+    },
+    {
+      "name": "Revista Caretas",
+      "count": 1,
+      "first": "2025-09-14",
+      "last": "2025-09-14"
     },
     {
       "name": "RosarioPlus",

@@ -111,7 +111,7 @@
     },
     {
       "start": "2012-01-01",
-      "count": 35
+      "count": 36
     },
     {
       "start": "2012-02-01",
@@ -319,7 +319,7 @@
     },
     {
       "start": "2016-05-01",
-      "count": 4
+      "count": 5
     },
     {
       "start": "2016-06-01",
@@ -815,27 +815,15 @@
     },
     {
       "start": "2026-09-01",
-      "count": 27
+      "count": 28
     }
   ],
   "sources": [
     {
       "name": "The Guardian Nigeria News",
-      "count": 49,
+      "count": 51,
       "first": "2015-10-02",
       "last": "2026-06-08"
-    },
-    {
-      "name": "Vanguard News",
-      "count": 41,
-      "first": "2012-03-08",
-      "last": "2026-06-08"
-    },
-    {
-      "name": "Daily Post Nigeria",
-      "count": 40,
-      "first": "2012-01-05",
-      "last": "2026-09-07"
     },
     {
       "name": "Channels Television",
@@ -856,14 +844,32 @@
       "last": "2025-12-17"
     },
     {
+      "name": "Daily Post Nigeria",
+      "count": 32,
+      "first": "2012-01-05",
+      "last": "2026-09-07"
+    },
+    {
       "name": "Punch Newspapers",
       "count": 25,
       "first": "2020-09-04",
       "last": "2026-08-19"
     },
     {
+      "name": "Vanguard News",
+      "count": 23,
+      "first": "2012-03-08",
+      "last": "2026-01-28"
+    },
+    {
+      "name": "vanguardngr.com",
+      "count": 21,
+      "first": "2012-09-19",
+      "last": "2026-06-08"
+    },
+    {
       "name": "PM News Nigeria",
-      "count": 16,
+      "count": 17,
       "first": "2012-01-03",
       "last": "2026-01-27"
     },
@@ -892,16 +898,16 @@
       "last": "2026-03-15"
     },
     {
+      "name": "Vanguard",
+      "count": 13,
+      "first": "2026-09-02",
+      "last": "2026-09-07"
+    },
+    {
       "name": "Legit News",
       "count": 12,
       "first": "2022-01-02",
       "last": "2025-09-16"
-    },
-    {
-      "name": "Vanguard",
-      "count": 12,
-      "first": "2026-09-02",
-      "last": "2026-09-06"
     },
     {
       "name": "Al Jazeera",
@@ -928,16 +934,22 @@
       "last": "2026-06-03"
     },
     {
-      "name": "The Guardian",
+      "name": "dailypost.ng",
       "count": 9,
-      "first": "2012-01-03",
-      "last": "2026-01-26"
+      "first": "2012-02-05",
+      "last": "2026-08-19"
     },
     {
       "name": "Independent Newspaper Nigeria",
       "count": 8,
       "first": "2020-09-07",
       "last": "2026-01-27"
+    },
+    {
+      "name": "The Guardian",
+      "count": 8,
+      "first": "2012-01-03",
+      "last": "2026-01-26"
     },
     {
       "name": "The Nation Newspaper",
@@ -1024,16 +1036,16 @@
       "last": "2023-08-01"
     },
     {
-      "name": "vanguardngr.com",
-      "count": 3,
-      "first": "2025-09-29",
-      "last": "2025-10-22"
-    },
-    {
       "name": "VOA Africa",
       "count": 3,
       "first": "2023-08-02",
       "last": "2024-02-19"
+    },
+    {
+      "name": "BellaNaija",
+      "count": 2,
+      "first": "2016-05-18",
+      "last": "2021-03-12"
     },
     {
       "name": "FIJ NG",
@@ -1096,12 +1108,6 @@
       "last": "2024-08-13"
     },
     {
-      "name": "africarenewal.un.org",
-      "count": 1,
-      "first": "2012-04-15",
-      "last": "2012-04-15"
-    },
-    {
       "name": "AIT LIVE",
       "count": 1,
       "first": "2026-01-29",
@@ -1112,12 +1118,6 @@
       "count": 1,
       "first": "2020-09-10",
       "last": "2020-09-10"
-    },
-    {
-      "name": "BellaNaija",
-      "count": 1,
-      "first": "2021-03-12",
-      "last": "2021-03-12"
     },
     {
       "name": "Black Agenda Report",
@@ -1154,12 +1154,6 @@
       "count": 1,
       "first": "2026-08-19",
       "last": "2026-08-19"
-    },
-    {
-      "name": "dailypost.ng",
-      "count": 1,
-      "first": "2023-09-04",
-      "last": "2023-09-04"
     },
     {
       "name": "fij.ng",
@@ -1342,12 +1336,6 @@
       "last": "2026-06-08"
     },
     {
-      "name": "theguardian.com",
-      "count": 1,
-      "first": "2012-01-16",
-      "last": "2012-01-16"
-    },
-    {
       "name": "thenationonlineng.net",
       "count": 1,
       "first": "2026-02-02",
@@ -1388,6 +1376,12 @@
       "count": 1,
       "first": "2026-03-18",
       "last": "2026-03-18"
+    },
+    {
+      "name": "UN Africa Renewal",
+      "count": 1,
+      "first": "2012-04-15",
+      "last": "2012-04-15"
     }
   ],
   "firstDate": "2009-10-30",
