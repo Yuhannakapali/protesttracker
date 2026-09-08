@@ -27,7 +27,7 @@
     },
     {
       "start": "2026-08-01",
-      "count": 585
+      "count": 587
     },
     {
       "start": "2026-09-01",
@@ -228,6 +228,12 @@
       "last": "2026-09-01"
     },
     {
+      "name": "BBC",
+      "count": 7,
+      "first": "2026-07-20",
+      "last": "2026-08-27"
+    },
+    {
       "name": "Deccan Herald",
       "count": 7,
       "first": "2026-08-03",
@@ -246,10 +252,10 @@
       "last": "2026-09-04"
     },
     {
-      "name": "BBC",
-      "count": 6,
-      "first": "2026-07-20",
-      "last": "2026-08-27"
+      "name": "The Statesman",
+      "count": 7,
+      "first": "2026-08-18",
+      "last": "2026-09-04"
     },
     {
       "name": "Inshorts",
@@ -268,12 +274,6 @@
       "count": 6,
       "first": "2026-07-23",
       "last": "2026-09-07"
-    },
-    {
-      "name": "The Statesman",
-      "count": 6,
-      "first": "2026-08-18",
-      "last": "2026-08-25"
     },
     {
       "name": "Al Jazeera",
@@ -444,12 +444,6 @@
       "last": "2026-09-01"
     },
     {
-      "name": "GujaratSamachar English",
-      "count": 2,
-      "first": "2026-08-24",
-      "last": "2026-09-07"
-    },
-    {
       "name": "Hindusthan Samachar English",
       "count": 2,
       "first": "2026-08-18",
@@ -522,6 +516,12 @@
       "last": "2026-08-24"
     },
     {
+      "name": "Reuters",
+      "count": 2,
+      "first": "2026-08-02",
+      "last": "2026-08-04"
+    },
+    {
       "name": "The Conversation",
       "count": 2,
       "first": "2026-08-12",
@@ -558,22 +558,10 @@
       "last": "2026-09-04"
     },
     {
-      "name": "The South First",
-      "count": 2,
-      "first": "2026-09-01",
-      "last": "2026-09-01"
-    },
-    {
       "name": "thehindu.com",
       "count": 2,
       "first": "2026-08-12",
       "last": "2026-08-15"
-    },
-    {
-      "name": "thestatesman.com",
-      "count": 2,
-      "first": "2026-09-04",
-      "last": "2026-09-06"
     },
     {
       "name": "True Scoop",
@@ -732,6 +720,12 @@
       "last": "2026-08-22"
     },
     {
+      "name": "english.gujaratsamachar.com",
+      "count": 1,
+      "first": "2026-09-07",
+      "last": "2026-09-07"
+    },
+    {
       "name": "ETLegalWorld.com",
       "count": 1,
       "first": "2026-08-24",
@@ -772,6 +766,12 @@
       "count": 1,
       "first": "2026-08-21",
       "last": "2026-08-21"
+    },
+    {
+      "name": "GujaratSamachar English",
+      "count": 1,
+      "first": "2026-08-24",
+      "last": "2026-08-24"
     },
     {
       "name": "Gulf News",
@@ -978,12 +978,6 @@
       "last": "2026-09-04"
     },
     {
-      "name": "Reuters",
-      "count": 1,
-      "first": "2026-08-02",
-      "last": "2026-08-02"
-    },
-    {
       "name": "Sandesh",
       "count": 1,
       "first": "2026-08-18",
@@ -1062,6 +1056,12 @@
       "last": "2026-08-18"
     },
     {
+      "name": "The South First",
+      "count": 1,
+      "first": "2026-09-01",
+      "last": "2026-09-01"
+    },
+    {
       "name": "The Times",
       "count": 1,
       "first": "2026-08-17",
@@ -1090,6 +1090,18 @@
       "count": 1,
       "first": "2026-08-23",
       "last": "2026-08-23"
+    },
+    {
+      "name": "thesouthfirst.com",
+      "count": 1,
+      "first": "2026-09-01",
+      "last": "2026-09-01"
+    },
+    {
+      "name": "thestatesman.com",
+      "count": 1,
+      "first": "2026-09-06",
+      "last": "2026-09-06"
     },
     {
       "name": "Time Magazine",

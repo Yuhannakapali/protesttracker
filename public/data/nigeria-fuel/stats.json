@@ -844,16 +844,16 @@
       "last": "2026-06-08"
     },
     {
-      "name": "Premium Times Nigeria",
-      "count": 38,
-      "first": "2013-04-18",
-      "last": "2026-02-02"
-    },
-    {
       "name": "BBC",
       "count": 35,
       "first": "2018-09-26",
       "last": "2025-12-17"
+    },
+    {
+      "name": "Premium Times Nigeria",
+      "count": 28,
+      "first": "2016-05-17",
+      "last": "2026-02-02"
     },
     {
       "name": "Punch Newspapers",
@@ -880,12 +880,6 @@
       "last": "2026-06-04"
     },
     {
-      "name": "The Sun Nigeria",
-      "count": 14,
-      "first": "2022-11-30",
-      "last": "2026-06-08"
-    },
-    {
       "name": "TheCable",
       "count": 14,
       "first": "2020-09-05",
@@ -910,16 +904,22 @@
       "last": "2024-08-02"
     },
     {
-      "name": "Business News Nigeria",
+      "name": "premiumtimesng.com",
       "count": 11,
-      "first": "2022-01-21",
-      "last": "2026-06-04"
+      "first": "2013-04-18",
+      "last": "2026-01-27"
     },
     {
       "name": "THISDAYLIVE",
       "count": 11,
       "first": "2023-01-26",
       "last": "2026-02-04"
+    },
+    {
+      "name": "Business News Nigeria",
+      "count": 10,
+      "first": "2022-01-21",
+      "last": "2026-06-04"
     },
     {
       "name": "The Whistler Newspaper",
@@ -934,8 +934,20 @@
       "last": "2026-01-27"
     },
     {
-      "name": "The Guardian",
+      "name": "The Sun Nigeria",
       "count": 8,
+      "first": "2024-09-04",
+      "last": "2026-06-04"
+    },
+    {
+      "name": "thesun.ng",
+      "count": 7,
+      "first": "2022-11-30",
+      "last": "2026-08-14"
+    },
+    {
+      "name": "The Guardian",
+      "count": 6,
       "first": "2012-01-03",
       "last": "2026-01-26"
     },
@@ -1018,12 +1030,6 @@
       "last": "2024-09-07"
     },
     {
-      "name": "Nigerian Voice",
-      "count": 3,
-      "first": "2012-01-13",
-      "last": "2025-10-14"
-    },
-    {
       "name": "Sahara Reporters",
       "count": 3,
       "first": "2020-09-10",
@@ -1072,16 +1078,22 @@
       "last": "2026-06-08"
     },
     {
-      "name": "Peoples Gazette Nigeria",
-      "count": 2,
-      "first": "2025-10-16",
-      "last": "2026-05-18"
-    },
-    {
       "name": "The ICIR",
       "count": 2,
       "first": "2023-10-01",
       "last": "2026-02-03"
+    },
+    {
+      "name": "theguardian.com",
+      "count": 2,
+      "first": "2012-01-09",
+      "last": "2012-01-09"
+    },
+    {
+      "name": "thenigerianvoice.com",
+      "count": 2,
+      "first": "2012-01-13",
+      "last": "2021-12-18"
     },
     {
       "name": "TRT Afrika",
@@ -1138,6 +1150,12 @@
       "last": "2026-07-22"
     },
     {
+      "name": "businessday.ng",
+      "count": 1,
+      "first": "2024-09-03",
+      "last": "2024-09-03"
+    },
+    {
       "name": "Channel Africa",
       "count": 1,
       "first": "2026-03-19",
@@ -1190,6 +1208,12 @@
       "count": 1,
       "first": "2024-05-11",
       "last": "2024-05-11"
+    },
+    {
+      "name": "gazettengr.com",
+      "count": 1,
+      "first": "2026-05-18",
+      "last": "2026-05-18"
     },
     {
       "name": "Gistmania",
@@ -1270,6 +1294,12 @@
       "last": "2024-09-05"
     },
     {
+      "name": "Nigerian Voice",
+      "count": 1,
+      "first": "2025-10-14",
+      "last": "2025-10-14"
+    },
+    {
       "name": "nigerianeye.com",
       "count": 1,
       "first": "2026-06-08",
@@ -1282,10 +1312,10 @@
       "last": "2023-11-15"
     },
     {
-      "name": "premiumtimesng.com",
+      "name": "Peoples Gazette Nigeria",
       "count": 1,
-      "first": "2024-06-03",
-      "last": "2024-06-03"
+      "first": "2025-10-16",
+      "last": "2025-10-16"
     },
     {
       "name": "proshare.co",
@@ -1346,12 +1376,6 @@
       "count": 1,
       "first": "2024-09-04",
       "last": "2024-09-04"
-    },
-    {
-      "name": "thesun.ng",
-      "count": 1,
-      "first": "2026-08-14",
-      "last": "2026-08-14"
     },
     {
       "name": "thewhistler.ng",

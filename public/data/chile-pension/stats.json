@@ -359,7 +359,7 @@
     },
     {
       "start": "2022-04-01",
-      "count": 1
+      "count": 2
     },
     {
       "start": "2022-05-01",
@@ -582,7 +582,7 @@
       "last": "2025-03-26"
     },
     {
-      "name": "dw.com",
+      "name": "DW.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -592,12 +592,6 @@
       "count": 9,
       "first": "2016-08-22",
       "last": "2021-12-20"
-    },
-    {
-      "name": "The Clinic",
-      "count": 9,
-      "first": "2016-07-27",
-      "last": "2026-09-04"
     },
     {
       "name": "Al Jazeera",
@@ -630,6 +624,12 @@
       "last": "2025-12-04"
     },
     {
+      "name": "The Clinic",
+      "count": 6,
+      "first": "2017-03-26",
+      "last": "2026-09-04"
+    },
+    {
       "name": "Americas Quarterly",
       "count": 5,
       "first": "2017-07-25",
@@ -642,7 +642,7 @@
       "last": "2025-01-15"
     },
     {
-      "name": "soychile.cl",
+      "name": "SoyChile.cl",
       "count": 5,
       "first": "2016-08-10",
       "last": "2019-03-31"
@@ -726,6 +726,12 @@
       "last": "2019-11-21"
     },
     {
+      "name": "theclinic.cl",
+      "count": 3,
+      "first": "2016-07-27",
+      "last": "2019-03-31"
+    },
+    {
       "name": "ai-cio.com",
       "count": 2,
       "first": "2020-01-22",
@@ -780,7 +786,7 @@
       "last": "2026-07-29"
     },
     {
-      "name": "Interferencia |",
+      "name": "interferencia.cl",
       "count": 2,
       "first": "2019-09-25",
       "last": "2019-10-16"
@@ -814,6 +820,12 @@
       "count": 2,
       "first": "2020-01-09",
       "last": "2024-09-04"
+    },
+    {
+      "name": "Pressenza - International Press Agency",
+      "count": 2,
+      "first": "2015-12-12",
+      "last": "2016-10-16"
     },
     {
       "name": "Reuters",
@@ -918,7 +930,7 @@
       "last": "2020-08-09"
     },
     {
-      "name": "Bloomberg.com",
+      "name": "bloomberg.com",
       "count": 1,
       "first": "2019-10-26",
       "last": "2019-10-26"
@@ -990,16 +1002,16 @@
       "last": "2026-07-27"
     },
     {
+      "name": "Diario Talca",
+      "count": 1,
+      "first": "2025-03-31",
+      "last": "2025-03-31"
+    },
+    {
       "name": "diariolaquinta.cl",
       "count": 1,
       "first": "2018-06-01",
       "last": "2018-06-01"
-    },
-    {
-      "name": "diariotalca.cl",
-      "count": 1,
-      "first": "2025-03-31",
-      "last": "2025-03-31"
     },
     {
       "name": "El Destape",
@@ -1218,7 +1230,7 @@
       "last": "2019-01-24"
     },
     {
-      "name": "Mala Espina",
+      "name": "malaespinacheck.cl",
       "count": 1,
       "first": "2024-12-27",
       "last": "2024-12-27"
@@ -1326,19 +1338,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Pressenza - International Press Agency",
-      "count": 1,
-      "first": "2015-12-12",
-      "last": "2015-12-12"
-    },
-    {
-      "name": "pressenza.com",
-      "count": 1,
-      "first": "2016-10-16",
-      "last": "2016-10-16"
-    },
-    {
-      "name": "Pulso Diario San Luis",
+      "name": "pulsoslp.com.mx",
       "count": 1,
       "first": "2025-03-30",
       "last": "2025-03-30"
@@ -1452,7 +1452,7 @@
       "last": "2019-11-15"
     },
     {
-      "name": "thesun.ng",
+      "name": "The Sun Nigeria",
       "count": 1,
       "first": "2025-07-26",
       "last": "2025-07-26"
@@ -1474,6 +1474,12 @@
       "count": 1,
       "first": "2019-11-26",
       "last": "2019-11-26"
+    },
+    {
+      "name": "Ukamau",
+      "count": 1,
+      "first": "2022-04-30",
+      "last": "2022-04-30"
     },
     {
       "name": "Université catholique de Louvain",
