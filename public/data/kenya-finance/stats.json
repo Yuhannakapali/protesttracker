@@ -123,7 +123,7 @@
     },
     {
       "start": "2026-04-01",
-      "count": 20
+      "count": 21
     },
     {
       "start": "2026-05-01",
@@ -208,7 +208,13 @@
       "last": "2026-06-21"
     },
     {
-      "name": "wsws.org",
+      "name": "The Kenya Times",
+      "count": 9,
+      "first": "2024-06-24",
+      "last": "2026-08-27"
+    },
+    {
+      "name": "World Socialist Web Site",
       "count": 9,
       "first": "2025-06-25",
       "last": "2026-07-07"
@@ -224,12 +230,6 @@
       "count": 7,
       "first": "2024-06-22",
       "last": "2026-06-23"
-    },
-    {
-      "name": "The Kenya Times",
-      "count": 7,
-      "first": "2025-08-08",
-      "last": "2026-08-27"
     },
     {
       "name": "VOA - Voice of America English News",
@@ -280,6 +280,12 @@
       "last": "2026-06-25"
     },
     {
+      "name": "africanews.com",
+      "count": 4,
+      "first": "2024-08-13",
+      "last": "2026-06-25"
+    },
+    {
       "name": "Dawan Africa",
       "count": 4,
       "first": "2026-05-11",
@@ -302,12 +308,6 @@
       "count": 3,
       "first": "2025-07-25",
       "last": "2025-10-27"
-    },
-    {
-      "name": "africanews.com",
-      "count": 3,
-      "first": "2024-08-13",
-      "last": "2026-06-25"
     },
     {
       "name": "Business Daily",
@@ -418,22 +418,10 @@
       "last": "2025-07-16"
     },
     {
-      "name": "The New York Times",
-      "count": 2,
-      "first": "2025-07-14",
-      "last": "2026-06-25"
-    },
-    {
       "name": "The Standard",
       "count": 2,
       "first": "2026-08-07",
       "last": "2026-09-04"
-    },
-    {
-      "name": "thekenyatimes.com",
-      "count": 2,
-      "first": "2024-06-24",
-      "last": "2026-08-26"
     },
     {
       "name": "ABC News - Breaking News, Latest News and Videos",
@@ -646,6 +634,12 @@
       "last": "2026-06-25"
     },
     {
+      "name": "nytimes.com",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
       "name": "openDemocracy",
       "count": 1,
       "first": "2026-06-25",
@@ -730,6 +724,12 @@
       "last": "2024-08-01"
     },
     {
+      "name": "The New York Times",
+      "count": 1,
+      "first": "2025-07-14",
+      "last": "2025-07-14"
+    },
+    {
       "name": "theafricareport.com",
       "count": 1,
       "first": "2025-07-10",
@@ -772,10 +772,10 @@
       "last": "2025-09-01"
     },
     {
-      "name": "World Socialist Web Site",
+      "name": "wsws.org",
       "count": 1,
-      "first": "2025-07-07",
-      "last": "2025-07-07"
+      "first": "2025-10-26",
+      "last": "2025-10-26"
     },
     {
       "name": "www.christiandaily.com",
