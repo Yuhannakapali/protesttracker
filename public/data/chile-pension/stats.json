@@ -582,7 +582,7 @@
       "last": "2025-03-26"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -598,6 +598,12 @@
       "count": 8,
       "first": "2019-10-26",
       "last": "2020-07-23"
+    },
+    {
+      "name": "The Clinic",
+      "count": 8,
+      "first": "2016-07-27",
+      "last": "2026-09-04"
     },
     {
       "name": "Colegio de Profesores",
@@ -624,12 +630,6 @@
       "last": "2025-12-04"
     },
     {
-      "name": "The Clinic",
-      "count": 6,
-      "first": "2017-03-26",
-      "last": "2026-09-04"
-    },
-    {
       "name": "Americas Quarterly",
       "count": 5,
       "first": "2017-07-25",
@@ -642,7 +642,7 @@
       "last": "2025-01-15"
     },
     {
-      "name": "SoyChile.cl",
+      "name": "soychile.cl",
       "count": 5,
       "first": "2016-08-10",
       "last": "2019-03-31"
@@ -726,12 +726,6 @@
       "last": "2019-11-21"
     },
     {
-      "name": "theclinic.cl",
-      "count": 3,
-      "first": "2016-07-27",
-      "last": "2019-03-31"
-    },
-    {
       "name": "ai-cio.com",
       "count": 2,
       "first": "2020-01-22",
@@ -786,7 +780,7 @@
       "last": "2026-07-29"
     },
     {
-      "name": "interferencia.cl",
+      "name": "Interferencia |",
       "count": 2,
       "first": "2019-09-25",
       "last": "2019-10-16"
@@ -930,7 +924,7 @@
       "last": "2020-08-09"
     },
     {
-      "name": "bloomberg.com",
+      "name": "Bloomberg.com",
       "count": 1,
       "first": "2019-10-26",
       "last": "2019-10-26"
@@ -942,10 +936,16 @@
       "last": "2021-09-22"
     },
     {
-      "name": "Cambridge University Press & Assessment",
+      "name": "cambridge.org",
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
+    },
+    {
+      "name": "caretas.pe",
+      "count": 1,
+      "first": "2025-09-14",
+      "last": "2025-09-14"
     },
     {
       "name": "Cato Institute",
@@ -1002,16 +1002,16 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Diario Talca",
-      "count": 1,
-      "first": "2025-03-31",
-      "last": "2025-03-31"
-    },
-    {
       "name": "diariolaquinta.cl",
       "count": 1,
       "first": "2018-06-01",
       "last": "2018-06-01"
+    },
+    {
+      "name": "diariotalca.cl",
+      "count": 1,
+      "first": "2025-03-31",
+      "last": "2025-03-31"
     },
     {
       "name": "El Destape",
@@ -1134,7 +1134,7 @@
       "last": "2018-10-29"
     },
     {
-      "name": "Guyana Chronicle",
+      "name": "guyanachronicle.com",
       "count": 1,
       "first": "2017-03-27",
       "last": "2017-03-27"
@@ -1230,7 +1230,7 @@
       "last": "2019-01-24"
     },
     {
-      "name": "malaespinacheck.cl",
+      "name": "Mala Espina",
       "count": 1,
       "first": "2024-12-27",
       "last": "2024-12-27"
@@ -1386,12 +1386,6 @@
       "last": "2025-04-03"
     },
     {
-      "name": "Revista Caretas",
-      "count": 1,
-      "first": "2025-09-14",
-      "last": "2025-09-14"
-    },
-    {
       "name": "RosarioPlus",
       "count": 1,
       "first": "2024-09-05",
@@ -1410,7 +1404,7 @@
       "last": "2020-03-17"
     },
     {
-      "name": "t13.cl",
+      "name": "Teletrece",
       "count": 1,
       "first": "2019-10-06",
       "last": "2019-10-06"
@@ -1452,7 +1446,13 @@
       "last": "2019-11-15"
     },
     {
-      "name": "The Sun Nigeria",
+      "name": "theclinic.cl",
+      "count": 1,
+      "first": "2019-03-31",
+      "last": "2019-03-31"
+    },
+    {
+      "name": "thesun.ng",
       "count": 1,
       "first": "2025-07-26",
       "last": "2025-07-26"

@@ -31,15 +31,15 @@
     },
     {
       "start": "2026-09-01",
-      "count": 198
+      "count": 201
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 61,
+      "count": 62,
       "first": "2026-06-06",
-      "last": "2026-09-07"
+      "last": "2026-09-08"
     },
     {
       "name": "Hindustan Times",
@@ -55,9 +55,9 @@
     },
     {
       "name": "The Times of India",
-      "count": 40,
+      "count": 41,
       "first": "2026-06-06",
-      "last": "2026-09-06"
+      "last": "2026-09-08"
     },
     {
       "name": "NDTV",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Deccan Chronicle",
-      "count": 12,
+      "count": 13,
       "first": "2026-08-16",
-      "last": "2026-09-07"
+      "last": "2026-09-08"
     },
     {
       "name": "Mathrubhumi English",
@@ -375,7 +375,7 @@
       "name": "Supreme Court Observer",
       "count": 3,
       "first": "2026-08-18",
-      "last": "2026-09-06"
+      "last": "2026-09-08"
     },
     {
       "name": "The Federal",
@@ -442,6 +442,12 @@
       "count": 2,
       "first": "2026-08-22",
       "last": "2026-09-01"
+    },
+    {
+      "name": "GujaratSamachar English",
+      "count": 2,
+      "first": "2026-08-24",
+      "last": "2026-09-07"
     },
     {
       "name": "Hindusthan Samachar English",
@@ -546,16 +552,22 @@
       "last": "2026-08-18"
     },
     {
-      "name": "The Shillong Times",
-      "count": 2,
-      "first": "2026-07-22",
-      "last": "2026-08-11"
-    },
-    {
       "name": "The Siasat Daily",
       "count": 2,
       "first": "2026-09-04",
       "last": "2026-09-04"
+    },
+    {
+      "name": "The South First",
+      "count": 2,
+      "first": "2026-09-01",
+      "last": "2026-09-01"
+    },
+    {
+      "name": "thehawk.in",
+      "count": 2,
+      "first": "2026-07-22",
+      "last": "2026-08-25"
     },
     {
       "name": "thehindu.com",
@@ -612,7 +624,7 @@
       "last": "2026-07-22"
     },
     {
-      "name": "Asia News Network",
+      "name": "asianews.network",
       "count": 1,
       "first": "2026-08-26",
       "last": "2026-08-26"
@@ -720,12 +732,6 @@
       "last": "2026-08-22"
     },
     {
-      "name": "english.gujaratsamachar.com",
-      "count": 1,
-      "first": "2026-09-07",
-      "last": "2026-09-07"
-    },
-    {
       "name": "ETLegalWorld.com",
       "count": 1,
       "first": "2026-08-24",
@@ -768,12 +774,6 @@
       "last": "2026-08-21"
     },
     {
-      "name": "GujaratSamachar English",
-      "count": 1,
-      "first": "2026-08-24",
-      "last": "2026-08-24"
-    },
-    {
       "name": "Gulf News",
       "count": 1,
       "first": "2026-08-18",
@@ -796,12 +796,6 @@
       "count": 1,
       "first": "2026-08-30",
       "last": "2026-08-30"
-    },
-    {
-      "name": "iiss.org",
-      "count": 1,
-      "first": "2026-08-20",
-      "last": "2026-08-20"
     },
     {
       "name": "Indiablooms",
@@ -1008,6 +1002,12 @@
       "last": "2026-08-29"
     },
     {
+      "name": "The International Institute for Strategic Studies",
+      "count": 1,
+      "first": "2026-08-20",
+      "last": "2026-08-20"
+    },
+    {
       "name": "The Lallantop",
       "count": 1,
       "first": "2026-08-24",
@@ -1056,10 +1056,10 @@
       "last": "2026-08-18"
     },
     {
-      "name": "The South First",
+      "name": "The Shillong Times",
       "count": 1,
-      "first": "2026-09-01",
-      "last": "2026-09-01"
+      "first": "2026-08-11",
+      "last": "2026-08-11"
     },
     {
       "name": "The Times",
@@ -1074,12 +1074,6 @@
       "last": "2026-09-05"
     },
     {
-      "name": "thehawk.in",
-      "count": 1,
-      "first": "2026-08-25",
-      "last": "2026-08-25"
-    },
-    {
       "name": "thekashmirimages.com",
       "count": 1,
       "first": "2026-09-04",
@@ -1090,12 +1084,6 @@
       "count": 1,
       "first": "2026-08-23",
       "last": "2026-08-23"
-    },
-    {
-      "name": "thesouthfirst.com",
-      "count": 1,
-      "first": "2026-09-01",
-      "last": "2026-09-01"
     },
     {
       "name": "thestatesman.com",
