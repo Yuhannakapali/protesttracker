@@ -148,12 +148,6 @@
   ],
   "sources": [
     {
-      "name": "Daily Nation",
-      "count": 49,
-      "first": "2024-06-19",
-      "last": "2026-08-10"
-    },
-    {
       "name": "People Daily",
       "count": 43,
       "first": "2025-11-02",
@@ -170,6 +164,18 @@
       "count": 30,
       "first": "2024-12-27",
       "last": "2026-08-27"
+    },
+    {
+      "name": "nation.africa",
+      "count": 25,
+      "first": "2024-06-19",
+      "last": "2026-08-10"
+    },
+    {
+      "name": "Daily Nation",
+      "count": 24,
+      "first": "2024-06-25",
+      "last": "2026-07-03"
     },
     {
       "name": "Al Jazeera",
@@ -310,12 +316,6 @@
       "last": "2025-10-27"
     },
     {
-      "name": "Business Daily",
-      "count": 3,
-      "first": "2024-06-18",
-      "last": "2026-05-24"
-    },
-    {
       "name": "Democracy in Africa",
       "count": 3,
       "first": "2024-07-03",
@@ -376,6 +376,12 @@
       "last": "2025-06-24"
     },
     {
+      "name": "Business Daily",
+      "count": 2,
+      "first": "2024-06-18",
+      "last": "2025-11-25"
+    },
+    {
       "name": "Capitalfm.co.ke",
       "count": 2,
       "first": "2026-04-21",
@@ -418,10 +424,22 @@
       "last": "2025-07-16"
     },
     {
+      "name": "The New York Times",
+      "count": 2,
+      "first": "2025-07-14",
+      "last": "2026-06-25"
+    },
+    {
       "name": "The Standard",
       "count": 2,
       "first": "2026-08-07",
       "last": "2026-09-04"
+    },
+    {
+      "name": "aa.com.tr",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
     },
     {
       "name": "ABC News - Breaking News, Latest News and Videos",
@@ -440,12 +458,6 @@
       "count": 1,
       "first": "2026-02-16",
       "last": "2026-02-16"
-    },
-    {
-      "name": "Anadolu Ajansı",
-      "count": 1,
-      "first": "2026-06-25",
-      "last": "2026-06-25"
     },
     {
       "name": "AP News",
@@ -478,7 +490,13 @@
       "last": "2025-06-25"
     },
     {
-      "name": "Business Today Kenya",
+      "name": "businessdailyafrica.com",
+      "count": 1,
+      "first": "2026-05-24",
+      "last": "2026-05-24"
+    },
+    {
+      "name": "businesstoday.co.ke",
       "count": 1,
       "first": "2026-08-26",
       "last": "2026-08-26"
@@ -514,6 +532,12 @@
       "last": "2026-06-25"
     },
     {
+      "name": "eNCA",
+      "count": 1,
+      "first": "2026-06-26",
+      "last": "2026-06-26"
+    },
+    {
       "name": "EWN",
       "count": 1,
       "first": "2026-06-25",
@@ -524,12 +548,6 @@
       "count": 1,
       "first": "2024-06-27",
       "last": "2024-06-27"
-    },
-    {
-      "name": "Free Malaysia Today",
-      "count": 1,
-      "first": "2026-06-26",
-      "last": "2026-06-26"
     },
     {
       "name": "Friedrich-Naumann-Stiftung für die Freiheit",
@@ -634,12 +652,6 @@
       "last": "2026-06-25"
     },
     {
-      "name": "nytimes.com",
-      "count": 1,
-      "first": "2026-06-25",
-      "last": "2026-06-25"
-    },
-    {
       "name": "openDemocracy",
       "count": 1,
       "first": "2026-06-25",
@@ -722,12 +734,6 @@
       "count": 1,
       "first": "2024-08-01",
       "last": "2024-08-01"
-    },
-    {
-      "name": "The New York Times",
-      "count": 1,
-      "first": "2025-07-14",
-      "last": "2025-07-14"
     },
     {
       "name": "theafricareport.com",
