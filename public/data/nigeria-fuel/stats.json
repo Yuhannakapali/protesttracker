@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 30
+      "count": 32
     }
   ],
   "sources": [
@@ -827,9 +827,9 @@
     },
     {
       "name": "Daily Post Nigeria",
-      "count": 41,
+      "count": 42,
       "first": "2012-01-05",
-      "last": "2026-09-08"
+      "last": "2026-09-09"
     },
     {
       "name": "Channels Television",
@@ -844,16 +844,16 @@
       "last": "2026-06-08"
     },
     {
-      "name": "Premium Times Nigeria",
-      "count": 38,
-      "first": "2013-04-18",
-      "last": "2026-02-02"
-    },
-    {
       "name": "BBC",
       "count": 35,
       "first": "2018-09-26",
       "last": "2025-12-17"
+    },
+    {
+      "name": "Premium Times Nigeria",
+      "count": 28,
+      "first": "2016-05-17",
+      "last": "2026-02-02"
     },
     {
       "name": "Punch Newspapers",
@@ -880,6 +880,12 @@
       "last": "2026-06-04"
     },
     {
+      "name": "Vanguard",
+      "count": 15,
+      "first": "2026-09-02",
+      "last": "2026-09-09"
+    },
+    {
       "name": "The Sun Nigeria",
       "count": 14,
       "first": "2022-11-30",
@@ -890,12 +896,6 @@
       "count": 14,
       "first": "2020-09-05",
       "last": "2026-03-15"
-    },
-    {
-      "name": "Vanguard",
-      "count": 14,
-      "first": "2026-09-02",
-      "last": "2026-09-09"
     },
     {
       "name": "Legit News",
@@ -914,6 +914,12 @@
       "count": 11,
       "first": "2022-01-21",
       "last": "2026-06-04"
+    },
+    {
+      "name": "premiumtimesng.com",
+      "count": 11,
+      "first": "2013-04-18",
+      "last": "2026-01-27"
     },
     {
       "name": "THISDAYLIVE",
@@ -1006,7 +1012,7 @@
       "last": "2026-01-26"
     },
     {
-      "name": "Sahara Reporters",
+      "name": "saharareporters.com",
       "count": 4,
       "first": "2020-09-10",
       "last": "2023-08-01"
@@ -1132,7 +1138,7 @@
       "last": "2025-09-27"
     },
     {
-      "name": "Business Post Nigeria",
+      "name": "businesspost.ng",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
@@ -1280,12 +1286,6 @@
       "count": 1,
       "first": "2023-11-15",
       "last": "2023-11-15"
-    },
-    {
-      "name": "premiumtimesng.com",
-      "count": 1,
-      "first": "2024-06-03",
-      "last": "2024-06-03"
     },
     {
       "name": "proshare.co",

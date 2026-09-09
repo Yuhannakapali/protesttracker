@@ -127,7 +127,7 @@
     },
     {
       "start": "2026-05-01",
-      "count": 42
+      "count": 43
     },
     {
       "start": "2026-06-01",
@@ -155,7 +155,7 @@
     },
     {
       "name": "People Daily",
-      "count": 43,
+      "count": 44,
       "first": "2025-11-02",
       "last": "2026-08-27"
     },
@@ -202,13 +202,19 @@
       "last": "2026-06-25"
     },
     {
+      "name": "The EastAfrican",
+      "count": 9,
+      "first": "2024-06-18",
+      "last": "2026-06-21"
+    },
+    {
       "name": "The Kenya Times",
       "count": 9,
       "first": "2024-06-24",
       "last": "2026-08-27"
     },
     {
-      "name": "World Socialist Web Site",
+      "name": "wsws.org",
       "count": 9,
       "first": "2025-06-25",
       "last": "2026-07-07"
@@ -260,12 +266,6 @@
       "count": 6,
       "first": "2026-04-03",
       "last": "2026-06-24"
-    },
-    {
-      "name": "The EastAfrican",
-      "count": 6,
-      "first": "2024-06-18",
-      "last": "2025-08-09"
     },
     {
       "name": "Context News",
@@ -358,12 +358,6 @@
       "last": "2026-08-01"
     },
     {
-      "name": "theeastafrican.co.ke",
-      "count": 3,
-      "first": "2025-06-07",
-      "last": "2026-06-21"
-    },
-    {
       "name": "accord.org.za",
       "count": 2,
       "first": "2024-08-29",
@@ -406,6 +400,12 @@
       "last": "2026-06-20"
     },
     {
+      "name": "Kenya News Agency",
+      "count": 2,
+      "first": "2026-04-24",
+      "last": "2026-06-25"
+    },
+    {
       "name": "NTV Kenya",
       "count": 2,
       "first": "2026-03-23",
@@ -418,22 +418,10 @@
       "last": "2025-07-16"
     },
     {
-      "name": "The New York Times",
-      "count": 2,
-      "first": "2025-07-14",
-      "last": "2026-06-25"
-    },
-    {
       "name": "The Standard",
       "count": 2,
       "first": "2026-08-07",
       "last": "2026-09-04"
-    },
-    {
-      "name": "aa.com.tr",
-      "count": 1,
-      "first": "2026-06-25",
-      "last": "2026-06-25"
     },
     {
       "name": "ABC News - Breaking News, Latest News and Videos",
@@ -454,6 +442,12 @@
       "last": "2026-02-16"
     },
     {
+      "name": "Anadolu Ajansı",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
       "name": "AP News",
       "count": 1,
       "first": "2025-06-25",
@@ -466,13 +460,13 @@
       "last": "2024-07-19"
     },
     {
-      "name": "Bloomberg.com",
+      "name": "bloomberg.com",
       "count": 1,
       "first": "2026-05-05",
       "last": "2026-05-05"
     },
     {
-      "name": "Brookings",
+      "name": "brookings.edu",
       "count": 1,
       "first": "2026-04-07",
       "last": "2026-04-07"
@@ -514,7 +508,7 @@
       "last": "2024-06-27"
     },
     {
-      "name": "dailymaverick.co.za",
+      "name": "Daily Maverick",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -556,12 +550,6 @@
       "last": "2026-06-24"
     },
     {
-      "name": "ibanet.org",
-      "count": 1,
-      "first": "2026-01-19",
-      "last": "2026-01-19"
-    },
-    {
       "name": "ICJ Kenya",
       "count": 1,
       "first": "2024-08-05",
@@ -572,6 +560,12 @@
       "count": 1,
       "first": "2026-02-17",
       "last": "2026-02-17"
+    },
+    {
+      "name": "International Bar Association | IBA",
+      "count": 1,
+      "first": "2026-01-19",
+      "last": "2026-01-19"
     },
     {
       "name": "International Socialist Alternative",
@@ -610,18 +604,6 @@
       "last": "2026-08-28"
     },
     {
-      "name": "Kenya News Agency",
-      "count": 1,
-      "first": "2026-06-25",
-      "last": "2026-06-25"
-    },
-    {
-      "name": "kenyanews.go.ke",
-      "count": 1,
-      "first": "2026-04-24",
-      "last": "2026-04-24"
-    },
-    {
       "name": "khrc.or.ke",
       "count": 1,
       "first": "2025-09-20",
@@ -647,6 +629,12 @@
     },
     {
       "name": "Nairobi Leo",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "nytimes.com",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -736,6 +724,12 @@
       "last": "2024-08-01"
     },
     {
+      "name": "The New York Times",
+      "count": 1,
+      "first": "2025-07-14",
+      "last": "2025-07-14"
+    },
+    {
       "name": "theafricareport.com",
       "count": 1,
       "first": "2025-07-10",
@@ -778,10 +772,10 @@
       "last": "2025-09-01"
     },
     {
-      "name": "wsws.org",
+      "name": "World Socialist Web Site",
       "count": 1,
-      "first": "2025-10-26",
-      "last": "2025-10-26"
+      "first": "2025-07-07",
+      "last": "2025-07-07"
     },
     {
       "name": "www.christiandaily.com",
