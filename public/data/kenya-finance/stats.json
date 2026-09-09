@@ -148,6 +148,12 @@
   ],
   "sources": [
     {
+      "name": "Daily Nation",
+      "count": 49,
+      "first": "2024-06-19",
+      "last": "2026-08-10"
+    },
+    {
       "name": "People Daily",
       "count": 43,
       "first": "2025-11-02",
@@ -164,18 +170,6 @@
       "count": 30,
       "first": "2024-12-27",
       "last": "2026-08-27"
-    },
-    {
-      "name": "nation.africa",
-      "count": 25,
-      "first": "2024-06-19",
-      "last": "2026-08-10"
-    },
-    {
-      "name": "Daily Nation",
-      "count": 24,
-      "first": "2024-06-25",
-      "last": "2026-07-03"
     },
     {
       "name": "Al Jazeera",
@@ -208,19 +202,13 @@
       "last": "2026-06-25"
     },
     {
-      "name": "The EastAfrican",
-      "count": 9,
-      "first": "2024-06-18",
-      "last": "2026-06-21"
-    },
-    {
       "name": "The Kenya Times",
       "count": 9,
       "first": "2024-06-24",
       "last": "2026-08-27"
     },
     {
-      "name": "World Socialist Web Site",
+      "name": "wsws.org",
       "count": 9,
       "first": "2025-06-25",
       "last": "2026-07-07"
@@ -272,6 +260,12 @@
       "count": 6,
       "first": "2026-04-03",
       "last": "2026-06-24"
+    },
+    {
+      "name": "The EastAfrican",
+      "count": 6,
+      "first": "2024-06-18",
+      "last": "2025-08-09"
     },
     {
       "name": "Context News",
@@ -328,12 +322,6 @@
       "last": "2025-06-26"
     },
     {
-      "name": "Kenya Human Rights Commission (KHRC)",
-      "count": 3,
-      "first": "2024-06-24",
-      "last": "2026-01-05"
-    },
-    {
       "name": "MalindiKenya.net",
       "count": 3,
       "first": "2024-07-22",
@@ -356,6 +344,12 @@
       "count": 3,
       "first": "2024-06-24",
       "last": "2026-08-01"
+    },
+    {
+      "name": "theeastafrican.co.ke",
+      "count": 3,
+      "first": "2025-06-07",
+      "last": "2026-06-21"
     },
     {
       "name": "accord.org.za",
@@ -406,10 +400,16 @@
       "last": "2026-06-20"
     },
     {
-      "name": "Kenya News Agency",
+      "name": "Kenya Human Rights Commission (KHRC)",
       "count": 2,
-      "first": "2026-04-24",
-      "last": "2026-06-25"
+      "first": "2024-06-24",
+      "last": "2024-06-28"
+    },
+    {
+      "name": "khrc.or.ke",
+      "count": 2,
+      "first": "2025-09-20",
+      "last": "2026-01-05"
     },
     {
       "name": "NTV Kenya",
@@ -436,12 +436,6 @@
       "last": "2026-09-04"
     },
     {
-      "name": "aa.com.tr",
-      "count": 1,
-      "first": "2026-06-25",
-      "last": "2026-06-25"
-    },
-    {
       "name": "ABC News - Breaking News, Latest News and Videos",
       "count": 1,
       "first": "2024-06-20",
@@ -460,6 +454,12 @@
       "last": "2026-02-16"
     },
     {
+      "name": "Anadolu Ajansı",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
       "name": "AP News",
       "count": 1,
       "first": "2025-06-25",
@@ -472,7 +472,7 @@
       "last": "2024-07-19"
     },
     {
-      "name": "Bloomberg.com",
+      "name": "bloomberg.com",
       "count": 1,
       "first": "2026-05-05",
       "last": "2026-05-05"
@@ -532,12 +532,6 @@
       "last": "2026-06-25"
     },
     {
-      "name": "eNCA",
-      "count": 1,
-      "first": "2026-06-26",
-      "last": "2026-06-26"
-    },
-    {
       "name": "EWN",
       "count": 1,
       "first": "2026-06-25",
@@ -548,6 +542,12 @@
       "count": 1,
       "first": "2024-06-27",
       "last": "2024-06-27"
+    },
+    {
+      "name": "Free Malaysia Today",
+      "count": 1,
+      "first": "2026-06-26",
+      "last": "2026-06-26"
     },
     {
       "name": "Friedrich-Naumann-Stiftung für die Freiheit",
@@ -568,6 +568,12 @@
       "last": "2026-06-24"
     },
     {
+      "name": "ibanet.org",
+      "count": 1,
+      "first": "2026-01-19",
+      "last": "2026-01-19"
+    },
+    {
       "name": "ICJ Kenya",
       "count": 1,
       "first": "2024-08-05",
@@ -578,12 +584,6 @@
       "count": 1,
       "first": "2026-02-17",
       "last": "2026-02-17"
-    },
-    {
-      "name": "International Bar Association | IBA",
-      "count": 1,
-      "first": "2026-01-19",
-      "last": "2026-01-19"
     },
     {
       "name": "International Socialist Alternative",
@@ -622,10 +622,16 @@
       "last": "2026-08-28"
     },
     {
-      "name": "khrc.or.ke",
+      "name": "Kenya News Agency",
       "count": 1,
-      "first": "2025-09-20",
-      "last": "2025-09-20"
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "kenyanews.go.ke",
+      "count": 1,
+      "first": "2026-04-24",
+      "last": "2026-04-24"
     },
     {
       "name": "Kroc Institute for International Peace Studies",
@@ -778,10 +784,10 @@
       "last": "2025-09-01"
     },
     {
-      "name": "wsws.org",
+      "name": "World Socialist Web Site",
       "count": 1,
-      "first": "2025-10-26",
-      "last": "2025-10-26"
+      "first": "2025-07-07",
+      "last": "2025-07-07"
     },
     {
       "name": "www.christiandaily.com",
