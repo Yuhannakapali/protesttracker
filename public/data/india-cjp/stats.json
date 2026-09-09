@@ -31,15 +31,15 @@
     },
     {
       "start": "2026-09-01",
-      "count": 211
+      "count": 223
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 67,
+      "count": 68,
       "first": "2026-06-06",
-      "last": "2026-09-08"
+      "last": "2026-09-09"
     },
     {
       "name": "Hindustan Times",
@@ -79,9 +79,21 @@
     },
     {
       "name": "India Today",
-      "count": 33,
+      "count": 34,
       "first": "2026-07-15",
-      "last": "2026-09-04"
+      "last": "2026-09-09"
+    },
+    {
+      "name": "Rediff",
+      "count": 21,
+      "first": "2026-06-07",
+      "last": "2026-09-09"
+    },
+    {
+      "name": "ThePrint",
+      "count": 21,
+      "first": "2026-06-19",
+      "last": "2026-09-09"
     },
     {
       "name": "Bhaskar English",
@@ -96,28 +108,16 @@
       "last": "2026-09-06"
     },
     {
-      "name": "Rediff",
-      "count": 20,
-      "first": "2026-06-07",
-      "last": "2026-09-04"
-    },
-    {
-      "name": "ThePrint",
-      "count": 20,
-      "first": "2026-06-19",
-      "last": "2026-09-01"
-    },
-    {
       "name": "Outlook India",
-      "count": 18,
+      "count": 19,
       "first": "2026-08-17",
-      "last": "2026-09-04"
+      "last": "2026-09-09"
     },
     {
       "name": "The Economic Times",
-      "count": 18,
+      "count": 19,
       "first": "2026-06-06",
-      "last": "2026-09-07"
+      "last": "2026-09-09"
     },
     {
       "name": "ETV Bharat",
@@ -133,9 +133,9 @@
     },
     {
       "name": "EdexLive",
-      "count": 15,
+      "count": 16,
       "first": "2026-06-06",
-      "last": "2026-09-01"
+      "last": "2026-09-04"
     },
     {
       "name": "The News Mill",
@@ -156,28 +156,22 @@
       "last": "2026-09-08"
     },
     {
+      "name": "Livemint",
+      "count": 12,
+      "first": "2026-08-16",
+      "last": "2026-09-09"
+    },
+    {
       "name": "Mathrubhumi English",
       "count": 12,
       "first": "2026-08-17",
       "last": "2026-09-06"
     },
     {
-      "name": "TheWire.in",
-      "count": 12,
-      "first": "2026-07-11",
-      "last": "2026-08-25"
-    },
-    {
       "name": "India.com",
       "count": 11,
       "first": "2026-08-18",
       "last": "2026-09-07"
-    },
-    {
-      "name": "Livemint",
-      "count": 11,
-      "first": "2026-08-16",
-      "last": "2026-09-05"
     },
     {
       "name": "DNA India",
@@ -198,6 +192,24 @@
       "last": "2026-09-07"
     },
     {
+      "name": "TheWire.in",
+      "count": 10,
+      "first": "2026-07-11",
+      "last": "2026-08-19"
+    },
+    {
+      "name": "The Tribune",
+      "count": 9,
+      "first": "2026-08-15",
+      "last": "2026-09-09"
+    },
+    {
+      "name": "Deccan Herald",
+      "count": 8,
+      "first": "2026-08-03",
+      "last": "2026-09-09"
+    },
+    {
       "name": "Live Law",
       "count": 8,
       "first": "2026-07-24",
@@ -208,12 +220,6 @@
       "count": 8,
       "first": "2026-08-18",
       "last": "2026-09-04"
-    },
-    {
-      "name": "The Tribune",
-      "count": 8,
-      "first": "2026-08-15",
-      "last": "2026-09-08"
     },
     {
       "name": "theweek.in",
@@ -232,12 +238,6 @@
       "count": 7,
       "first": "2026-07-20",
       "last": "2026-08-27"
-    },
-    {
-      "name": "Deccan Herald",
-      "count": 7,
-      "first": "2026-08-03",
-      "last": "2026-09-07"
     },
     {
       "name": "moneycontrol.com",
@@ -282,6 +282,12 @@
       "last": "2026-08-24"
     },
     {
+      "name": "Bar and Bench",
+      "count": 5,
+      "first": "2026-08-07",
+      "last": "2026-09-07"
+    },
+    {
       "name": "DT Next",
       "count": 5,
       "first": "2026-08-21",
@@ -298,12 +304,6 @@
       "count": 5,
       "first": "2026-08-27",
       "last": "2026-09-01"
-    },
-    {
-      "name": "Bar and Bench",
-      "count": 4,
-      "first": "2026-08-07",
-      "last": "2026-08-20"
     },
     {
       "name": "Bloomberg.com",
@@ -388,6 +388,12 @@
       "count": 3,
       "first": "2026-08-14",
       "last": "2026-08-25"
+    },
+    {
+      "name": "The Wire India",
+      "count": 3,
+      "first": "2026-08-06",
+      "last": "2026-09-09"
     },
     {
       "name": "thepamphlet.in",
@@ -726,12 +732,6 @@
       "last": "2026-08-22"
     },
     {
-      "name": "english.ratopati.com",
-      "count": 1,
-      "first": "2026-09-04",
-      "last": "2026-09-04"
-    },
-    {
       "name": "ETLegalWorld.com",
       "count": 1,
       "first": "2026-08-24",
@@ -966,6 +966,12 @@
       "last": "2026-08-26"
     },
     {
+      "name": "Ratopati",
+      "count": 1,
+      "first": "2026-09-04",
+      "last": "2026-09-04"
+    },
+    {
       "name": "Sandesh",
       "count": 1,
       "first": "2026-08-18",
@@ -978,16 +984,16 @@
       "last": "2026-09-01"
     },
     {
-      "name": "tbsnews.net",
-      "count": 1,
-      "first": "2026-08-23",
-      "last": "2026-08-23"
-    },
-    {
       "name": "The Borgen Project",
       "count": 1,
       "first": "2026-08-25",
       "last": "2026-08-25"
+    },
+    {
+      "name": "The Business Standard",
+      "count": 1,
+      "first": "2026-08-23",
+      "last": "2026-08-23"
     },
     {
       "name": "The Caravan",
