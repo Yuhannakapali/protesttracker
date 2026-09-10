@@ -576,22 +576,16 @@
   ],
   "sources": [
     {
-      "name": "La Izquierda Diario Chile",
-      "count": 29,
+      "name": "La Izquierda Diario",
+      "count": 26,
       "first": "2015-04-23",
-      "last": "2025-03-26"
+      "last": "2026-06-24"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
-    },
-    {
-      "name": "The Clinic",
-      "count": 10,
-      "first": "2016-07-27",
-      "last": "2026-09-10"
     },
     {
       "name": "BBC",
@@ -604,6 +598,12 @@
       "count": 8,
       "first": "2019-10-26",
       "last": "2020-07-23"
+    },
+    {
+      "name": "The Clinic",
+      "count": 8,
+      "first": "2017-03-26",
+      "last": "2026-09-10"
     },
     {
       "name": "Colegio de Profesores",
@@ -636,6 +636,12 @@
       "last": "2025-02-06"
     },
     {
+      "name": "La Izquierda Diario Chile",
+      "count": 5,
+      "first": "2016-11-05",
+      "last": "2025-03-26"
+    },
+    {
       "name": "La Tercera",
       "count": 5,
       "first": "2018-06-04",
@@ -648,7 +654,7 @@
       "last": "2019-03-31"
     },
     {
-      "name": "Clarin.com",
+      "name": "clarin.com",
       "count": 4,
       "first": "2017-12-18",
       "last": "2019-12-24"
@@ -732,6 +738,12 @@
       "last": "2019-11-21"
     },
     {
+      "name": "theclinic.cl",
+      "count": 3,
+      "first": "2016-07-27",
+      "last": "2019-03-31"
+    },
+    {
       "name": "ai-cio.com",
       "count": 2,
       "first": "2020-01-22",
@@ -786,16 +798,10 @@
       "last": "2026-07-29"
     },
     {
-      "name": "Interferencia |",
+      "name": "interferencia.cl",
       "count": 2,
       "first": "2019-09-25",
       "last": "2019-10-16"
-    },
-    {
-      "name": "La Izquierda Diario",
-      "count": 2,
-      "first": "2017-09-04",
-      "last": "2026-06-24"
     },
     {
       "name": "Macau Business",
@@ -906,7 +912,7 @@
       "last": "2019-12-13"
     },
     {
-      "name": "Atlantic Council",
+      "name": "atlanticcouncil.org",
       "count": 1,
       "first": "2019-12-09",
       "last": "2019-12-09"
@@ -948,7 +954,7 @@
       "last": "2025-03-31"
     },
     {
-      "name": "Caretas",
+      "name": "caretas.pe",
       "count": 1,
       "first": "2025-09-14",
       "last": "2025-09-14"
@@ -1462,12 +1468,6 @@
       "count": 1,
       "first": "2025-07-26",
       "last": "2025-07-26"
-    },
-    {
-      "name": "theclinic.cl",
-      "count": 1,
-      "first": "2019-03-31",
-      "last": "2019-03-31"
     },
     {
       "name": "Toronto Sun",

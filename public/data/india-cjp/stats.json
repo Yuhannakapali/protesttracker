@@ -27,7 +27,7 @@
     },
     {
       "start": "2026-08-01",
-      "count": 588
+      "count": 589
     },
     {
       "start": "2026-09-01",
@@ -37,13 +37,13 @@
   "sources": [
     {
       "name": "The Hindu",
-      "count": 60,
-      "first": "2026-06-21",
+      "count": 75,
+      "first": "2026-06-06",
       "last": "2026-09-10"
     },
     {
       "name": "The New Indian Express",
-      "count": 45,
+      "count": 46,
       "first": "2026-07-23",
       "last": "2026-09-10"
     },
@@ -108,16 +108,16 @@
       "last": "2026-09-06"
     },
     {
+      "name": "The Economic Times",
+      "count": 20,
+      "first": "2026-06-06",
+      "last": "2026-09-10"
+    },
+    {
       "name": "Outlook India",
       "count": 19,
       "first": "2026-08-17",
       "last": "2026-09-09"
-    },
-    {
-      "name": "The Economic Times",
-      "count": 19,
-      "first": "2026-06-06",
-      "last": "2026-09-10"
     },
     {
       "name": "ANI News",
@@ -138,12 +138,6 @@
       "last": "2026-09-04"
     },
     {
-      "name": "thehindu.com",
-      "count": 16,
-      "first": "2026-06-06",
-      "last": "2026-09-08"
-    },
-    {
       "name": "The News Mill",
       "count": 15,
       "first": "2026-08-12",
@@ -162,6 +156,12 @@
       "last": "2026-09-08"
     },
     {
+      "name": "India.com",
+      "count": 12,
+      "first": "2026-07-30",
+      "last": "2026-09-07"
+    },
+    {
       "name": "Livemint",
       "count": 12,
       "first": "2026-08-16",
@@ -178,12 +178,6 @@
       "count": 11,
       "first": "2026-07-08",
       "last": "2026-08-25"
-    },
-    {
-      "name": "India.com",
-      "count": 11,
-      "first": "2026-08-18",
-      "last": "2026-09-07"
     },
     {
       "name": "LawBeat",
@@ -408,6 +402,12 @@
       "last": "2026-09-03"
     },
     {
+      "name": "Udayavani",
+      "count": 3,
+      "first": "2026-07-18",
+      "last": "2026-09-04"
+    },
+    {
       "name": "Asianet Newsable",
       "count": 2,
       "first": "2026-08-16",
@@ -588,22 +588,10 @@
       "last": "2026-07-24"
     },
     {
-      "name": "Udayavani",
-      "count": 2,
-      "first": "2026-07-18",
-      "last": "2026-09-04"
-    },
-    {
       "name": "Whispers in the Corridors",
       "count": 2,
       "first": "2026-08-20",
       "last": "2026-08-21"
-    },
-    {
-      "name": "Zee News",
-      "count": 2,
-      "first": "2026-07-30",
-      "last": "2026-08-17"
     },
     {
       "name": "ACLED",
@@ -642,7 +630,7 @@
       "last": "2026-08-26"
     },
     {
-      "name": "Britannica",
+      "name": "britannica.com",
       "count": 1,
       "first": "2026-07-25",
       "last": "2026-07-25"
@@ -730,12 +718,6 @@
       "count": 1,
       "first": "2026-08-18",
       "last": "2026-08-18"
-    },
-    {
-      "name": "economictimes.indiatimes.com",
-      "count": 1,
-      "first": "2026-09-09",
-      "last": "2026-09-09"
     },
     {
       "name": "eNewsroom India",
@@ -1150,6 +1132,12 @@
       "count": 1,
       "first": "2026-09-02",
       "last": "2026-09-02"
+    },
+    {
+      "name": "Zee News",
+      "count": 1,
+      "first": "2026-08-17",
+      "last": "2026-08-17"
     },
     {
       "name": "조선일보",
