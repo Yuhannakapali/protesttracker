@@ -571,33 +571,33 @@
     },
     {
       "start": "2026-09-01",
-      "count": 5
+      "count": 6
     }
   ],
   "sources": [
     {
-      "name": "La Izquierda Diario",
-      "count": 26,
+      "name": "La Izquierda Diario Chile",
+      "count": 29,
       "first": "2015-04-23",
-      "last": "2026-06-24"
+      "last": "2025-03-26"
     },
     {
-      "name": "dw.com",
+      "name": "DW.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
+    },
+    {
+      "name": "The Clinic",
+      "count": 10,
+      "first": "2016-07-27",
+      "last": "2026-09-10"
     },
     {
       "name": "BBC",
       "count": 9,
       "first": "2016-08-22",
       "last": "2021-12-20"
-    },
-    {
-      "name": "The Clinic",
-      "count": 9,
-      "first": "2016-07-27",
-      "last": "2026-09-08"
     },
     {
       "name": "Al Jazeera",
@@ -636,12 +636,6 @@
       "last": "2025-02-06"
     },
     {
-      "name": "La Izquierda Diario Chile",
-      "count": 5,
-      "first": "2016-11-05",
-      "last": "2025-03-26"
-    },
-    {
       "name": "La Tercera",
       "count": 5,
       "first": "2018-06-04",
@@ -664,6 +658,12 @@
       "count": 4,
       "first": "2026-04-20",
       "last": "2026-07-15"
+    },
+    {
+      "name": "NODAL - Noticias de América Latina y el Caribe",
+      "count": 4,
+      "first": "2016-08-26",
+      "last": "2025-09-23"
     },
     {
       "name": "Universidad de Chile",
@@ -696,7 +696,7 @@
       "last": "2019-10-29"
     },
     {
-      "name": "Diario La Quinta",
+      "name": "diariolaquinta.cl",
       "count": 3,
       "first": "2018-06-01",
       "last": "2022-01-18"
@@ -744,16 +744,16 @@
       "last": "2026-07-29"
     },
     {
-      "name": "cfr.org",
-      "count": 2,
-      "first": "2019-11-01",
-      "last": "2022-08-25"
-    },
-    {
       "name": "Cooperativa",
       "count": 2,
       "first": "2016-10-08",
       "last": "2019-10-25"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "count": 2,
+      "first": "2019-11-01",
+      "last": "2022-08-25"
     },
     {
       "name": "Daily Mail",
@@ -786,16 +786,16 @@
       "last": "2026-07-29"
     },
     {
-      "name": "hoy.com.do",
-      "count": 2,
-      "first": "2021-09-02",
-      "last": "2023-08-31"
-    },
-    {
       "name": "Interferencia |",
       "count": 2,
       "first": "2019-09-25",
       "last": "2019-10-16"
+    },
+    {
+      "name": "La Izquierda Diario",
+      "count": 2,
+      "first": "2017-09-04",
+      "last": "2026-06-24"
     },
     {
       "name": "Macau Business",
@@ -816,28 +816,28 @@
       "last": "2020-03-11"
     },
     {
-      "name": "NODAL - Noticias de América Latina y el Caribe",
-      "count": 2,
-      "first": "2016-08-26",
-      "last": "2021-04-26"
-    },
-    {
-      "name": "nodal.am",
-      "count": 2,
-      "first": "2018-04-23",
-      "last": "2025-09-23"
-    },
-    {
       "name": "Perfil",
       "count": 2,
       "first": "2020-01-09",
       "last": "2024-09-04"
     },
     {
+      "name": "Pressenza - International Press Agency",
+      "count": 2,
+      "first": "2015-12-12",
+      "last": "2016-10-16"
+    },
+    {
       "name": "Reuters",
       "count": 2,
       "first": "2019-10-23",
       "last": "2025-01-29"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 2,
+      "first": "2019-10-23",
+      "last": "2022-03-12"
     },
     {
       "name": "Teletrece",
@@ -930,7 +930,7 @@
       "last": "2020-08-09"
     },
     {
-      "name": "Bloomberg.com",
+      "name": "bloomberg.com",
       "count": 1,
       "first": "2019-10-26",
       "last": "2019-10-26"
@@ -978,7 +978,7 @@
       "last": "2025-09-29"
     },
     {
-      "name": "comunicaciones.congreso.gob.pe",
+      "name": "Congreso",
       "count": 1,
       "first": "2021-03-23",
       "last": "2021-03-23"
@@ -1008,7 +1008,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Diario Talca",
+      "name": "diariotalca.cl",
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
@@ -1104,7 +1104,7 @@
       "last": "2019-10-23"
     },
     {
-      "name": "g5noticias.cl",
+      "name": "G5noticias",
       "count": 1,
       "first": "2024-08-17",
       "last": "2024-08-17"
@@ -1144,6 +1144,18 @@
       "count": 1,
       "first": "2017-03-27",
       "last": "2017-03-27"
+    },
+    {
+      "name": "Hoy Digital",
+      "count": 1,
+      "first": "2023-08-31",
+      "last": "2023-08-31"
+    },
+    {
+      "name": "hoy.com.do",
+      "count": 1,
+      "first": "2021-09-02",
+      "last": "2021-09-02"
     },
     {
       "name": "In These Times",
@@ -1338,18 +1350,6 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Pressenza - International Press Agency",
-      "count": 1,
-      "first": "2015-12-12",
-      "last": "2015-12-12"
-    },
-    {
-      "name": "pressenza.com",
-      "count": 1,
-      "first": "2016-10-16",
-      "last": "2016-10-16"
-    },
-    {
       "name": "Proceso",
       "count": 1,
       "first": "2016-08-22",
@@ -1414,18 +1414,6 @@
       "count": 1,
       "first": "2025-09-24",
       "last": "2025-09-24"
-    },
-    {
-      "name": "scmp.com",
-      "count": 1,
-      "first": "2019-10-23",
-      "last": "2019-10-23"
-    },
-    {
-      "name": "South China Morning Post",
-      "count": 1,
-      "first": "2022-03-12",
-      "last": "2022-03-12"
     },
     {
       "name": "Sydney Criminal Lawyers",
@@ -1500,7 +1488,7 @@
       "last": "2019-11-26"
     },
     {
-      "name": "Ukamau",
+      "name": "ukamau.cl",
       "count": 1,
       "first": "2022-04-30",
       "last": "2022-04-30"
@@ -1537,5 +1525,5 @@
     }
   ],
   "firstDate": "2014-11-04",
-  "lastDate": "2026-09-08"
+  "lastDate": "2026-09-10"
 }
