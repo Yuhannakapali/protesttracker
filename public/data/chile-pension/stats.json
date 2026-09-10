@@ -87,7 +87,7 @@
     },
     {
       "start": "2016-08-01",
-      "count": 11
+      "count": 12
     },
     {
       "start": "2016-09-01",
@@ -666,12 +666,6 @@
       "last": "2026-07-15"
     },
     {
-      "name": "NODAL - Noticias de América Latina y el Caribe",
-      "count": 4,
-      "first": "2016-08-26",
-      "last": "2025-09-23"
-    },
-    {
       "name": "Universidad de Chile",
       "count": 4,
       "first": "2017-04-22",
@@ -702,7 +696,7 @@
       "last": "2019-10-29"
     },
     {
-      "name": "diariolaquinta.cl",
+      "name": "Diario La Quinta",
       "count": 3,
       "first": "2018-06-01",
       "last": "2022-01-18"
@@ -750,16 +744,16 @@
       "last": "2026-07-29"
     },
     {
+      "name": "cfr.org",
+      "count": 2,
+      "first": "2019-11-01",
+      "last": "2022-08-25"
+    },
+    {
       "name": "Cooperativa",
       "count": 2,
       "first": "2016-10-08",
       "last": "2019-10-25"
-    },
-    {
-      "name": "Council on Foreign Relations",
-      "count": 2,
-      "first": "2019-11-01",
-      "last": "2022-08-25"
     },
     {
       "name": "Daily Mail",
@@ -792,6 +786,12 @@
       "last": "2026-07-29"
     },
     {
+      "name": "hoy.com.do",
+      "count": 2,
+      "first": "2021-09-02",
+      "last": "2023-08-31"
+    },
+    {
       "name": "Interferencia |",
       "count": 2,
       "first": "2019-09-25",
@@ -816,28 +816,28 @@
       "last": "2020-03-11"
     },
     {
+      "name": "NODAL - Noticias de América Latina y el Caribe",
+      "count": 2,
+      "first": "2016-08-26",
+      "last": "2021-04-26"
+    },
+    {
+      "name": "nodal.am",
+      "count": 2,
+      "first": "2018-04-23",
+      "last": "2025-09-23"
+    },
+    {
       "name": "Perfil",
       "count": 2,
       "first": "2020-01-09",
       "last": "2024-09-04"
     },
     {
-      "name": "Pressenza - International Press Agency",
-      "count": 2,
-      "first": "2015-12-12",
-      "last": "2016-10-16"
-    },
-    {
       "name": "Reuters",
       "count": 2,
       "first": "2019-10-23",
       "last": "2025-01-29"
-    },
-    {
-      "name": "South China Morning Post",
-      "count": 2,
-      "first": "2019-10-23",
-      "last": "2022-03-12"
     },
     {
       "name": "Teletrece",
@@ -978,7 +978,7 @@
       "last": "2025-09-29"
     },
     {
-      "name": "Congreso",
+      "name": "comunicaciones.congreso.gob.pe",
       "count": 1,
       "first": "2021-03-23",
       "last": "2021-03-23"
@@ -1044,6 +1044,12 @@
       "last": "2022-03-27"
     },
     {
+      "name": "El Nuevo Diario",
+      "count": 1,
+      "first": "2022-09-22",
+      "last": "2022-09-22"
+    },
+    {
       "name": "El Rancagüino",
       "count": 1,
       "first": "2021-05-19",
@@ -1060,12 +1066,6 @@
       "count": 1,
       "first": "2026-05-22",
       "last": "2026-05-22"
-    },
-    {
-      "name": "elnuevodiario.com.do",
-      "count": 1,
-      "first": "2022-09-22",
-      "last": "2022-09-22"
     },
     {
       "name": "elsiglo.cl",
@@ -1098,7 +1098,7 @@
       "last": "2019-10-23"
     },
     {
-      "name": "france24.com",
+      "name": "France 24",
       "count": 1,
       "first": "2019-10-23",
       "last": "2019-10-23"
@@ -1144,18 +1144,6 @@
       "count": 1,
       "first": "2017-03-27",
       "last": "2017-03-27"
-    },
-    {
-      "name": "Hoy Digital",
-      "count": 1,
-      "first": "2023-08-31",
-      "last": "2023-08-31"
-    },
-    {
-      "name": "hoy.com.do",
-      "count": 1,
-      "first": "2021-09-02",
-      "last": "2021-09-02"
     },
     {
       "name": "In These Times",
@@ -1350,6 +1338,24 @@
       "last": "2025-03-30"
     },
     {
+      "name": "Pressenza - International Press Agency",
+      "count": 1,
+      "first": "2015-12-12",
+      "last": "2015-12-12"
+    },
+    {
+      "name": "pressenza.com",
+      "count": 1,
+      "first": "2016-10-16",
+      "last": "2016-10-16"
+    },
+    {
+      "name": "Proceso",
+      "count": 1,
+      "first": "2016-08-22",
+      "last": "2016-08-22"
+    },
+    {
       "name": "Pulso Diario San Luis",
       "count": 1,
       "first": "2025-03-30",
@@ -1408,6 +1414,18 @@
       "count": 1,
       "first": "2025-09-24",
       "last": "2025-09-24"
+    },
+    {
+      "name": "scmp.com",
+      "count": 1,
+      "first": "2019-10-23",
+      "last": "2019-10-23"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 1,
+      "first": "2022-03-12",
+      "last": "2022-03-12"
     },
     {
       "name": "Sydney Criminal Lawyers",
