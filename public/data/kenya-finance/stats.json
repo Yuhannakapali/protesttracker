@@ -148,12 +148,6 @@
   ],
   "sources": [
     {
-      "name": "People Daily",
-      "count": 44,
-      "first": "2025-11-02",
-      "last": "2026-08-27"
-    },
-    {
       "name": "BBC",
       "count": 37,
       "first": "2024-06-18",
@@ -163,6 +157,12 @@
       "name": "Citizen Digital",
       "count": 30,
       "first": "2024-12-27",
+      "last": "2026-08-27"
+    },
+    {
+      "name": "peopledaily.digital",
+      "count": 28,
+      "first": "2026-03-27",
       "last": "2026-08-27"
     },
     {
@@ -184,22 +184,28 @@
       "last": "2026-06-27"
     },
     {
+      "name": "The Africa Report",
+      "count": 19,
+      "first": "2024-06-25",
+      "last": "2026-06-25"
+    },
+    {
       "name": "the-star.co.ke",
       "count": 18,
       "first": "2024-12-31",
       "last": "2026-08-27"
     },
     {
+      "name": "People Daily",
+      "count": 16,
+      "first": "2025-11-02",
+      "last": "2026-06-25"
+    },
+    {
       "name": "The Eastleigh Voice",
       "count": 15,
       "first": "2024-07-03",
       "last": "2026-08-27"
-    },
-    {
-      "name": "theafricareport.com",
-      "count": 13,
-      "first": "2025-06-13",
-      "last": "2026-06-25"
     },
     {
       "name": "dw.com",
@@ -230,12 +236,6 @@
       "count": 8,
       "first": "2026-05-02",
       "last": "2026-07-28"
-    },
-    {
-      "name": "The Africa Report",
-      "count": 7,
-      "first": "2024-06-25",
-      "last": "2026-03-06"
     },
     {
       "name": "The Conversation",
@@ -340,6 +340,12 @@
       "last": "2025-06-26"
     },
     {
+      "name": "Kenya Human Rights Commission (KHRC)",
+      "count": 3,
+      "first": "2024-06-24",
+      "last": "2026-01-05"
+    },
+    {
       "name": "MalindiKenya.net",
       "count": 3,
       "first": "2024-07-22",
@@ -404,24 +410,6 @@
       "count": 2,
       "first": "2026-05-28",
       "last": "2026-06-20"
-    },
-    {
-      "name": "Kenya Human Rights Commission (KHRC)",
-      "count": 2,
-      "first": "2024-06-24",
-      "last": "2024-06-28"
-    },
-    {
-      "name": "Kenya News Agency",
-      "count": 2,
-      "first": "2026-04-24",
-      "last": "2026-06-25"
-    },
-    {
-      "name": "khrc.or.ke",
-      "count": 2,
-      "first": "2025-09-20",
-      "last": "2026-01-05"
     },
     {
       "name": "NTV Kenya",
@@ -490,7 +478,7 @@
       "last": "2026-05-05"
     },
     {
-      "name": "Brookings",
+      "name": "brookings.edu",
       "count": 1,
       "first": "2026-04-07",
       "last": "2026-04-07"
@@ -538,7 +526,7 @@
       "last": "2026-06-25"
     },
     {
-      "name": "EWN",
+      "name": "ewn.co.za",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -574,12 +562,6 @@
       "last": "2026-06-24"
     },
     {
-      "name": "ibanet.org",
-      "count": 1,
-      "first": "2026-01-19",
-      "last": "2026-01-19"
-    },
-    {
       "name": "ICJ Kenya",
       "count": 1,
       "first": "2024-08-05",
@@ -590,6 +572,12 @@
       "count": 1,
       "first": "2026-02-17",
       "last": "2026-02-17"
+    },
+    {
+      "name": "International Bar Association | IBA",
+      "count": 1,
+      "first": "2026-01-19",
+      "last": "2026-01-19"
     },
     {
       "name": "International Socialist Alternative",
@@ -628,7 +616,25 @@
       "last": "2026-08-28"
     },
     {
-      "name": "kroc.nd.edu",
+      "name": "Kenya News Agency",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "kenyanews.go.ke",
+      "count": 1,
+      "first": "2026-04-24",
+      "last": "2026-04-24"
+    },
+    {
+      "name": "khrc.or.ke",
+      "count": 1,
+      "first": "2025-09-20",
+      "last": "2025-09-20"
+    },
+    {
+      "name": "Kroc Institute for International Peace Studies",
       "count": 1,
       "first": "2024-08-12",
       "last": "2024-08-12"
@@ -734,6 +740,12 @@
       "count": 1,
       "first": "2024-08-01",
       "last": "2024-08-01"
+    },
+    {
+      "name": "theafricareport.com",
+      "count": 1,
+      "first": "2025-07-10",
+      "last": "2025-07-10"
     },
     {
       "name": "TheCable",
