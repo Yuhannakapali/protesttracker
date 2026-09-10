@@ -23,7 +23,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 135
+      "count": 136
     },
     {
       "start": "2026-08-01",
@@ -31,13 +31,13 @@
     },
     {
       "start": "2026-09-01",
-      "count": 230
+      "count": 232
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 70,
+      "count": 72,
       "first": "2026-06-06",
       "last": "2026-09-09"
     },
@@ -48,16 +48,16 @@
       "last": "2026-09-07"
     },
     {
+      "name": "The Indian Express",
+      "count": 43,
+      "first": "2026-07-26",
+      "last": "2026-09-10"
+    },
+    {
       "name": "The Times of India",
       "count": 43,
       "first": "2026-06-06",
       "last": "2026-09-09"
-    },
-    {
-      "name": "The Indian Express",
-      "count": 42,
-      "first": "2026-07-26",
-      "last": "2026-09-08"
     },
     {
       "name": "Telegraph India",
@@ -186,22 +186,16 @@
       "last": "2026-09-06"
     },
     {
-      "name": "Frontline Magazine",
-      "count": 10,
-      "first": "2026-07-08",
-      "last": "2026-08-25"
-    },
-    {
-      "name": "The Tribune",
-      "count": 10,
-      "first": "2026-08-15",
-      "last": "2026-09-09"
-    },
-    {
       "name": "TheWire.in",
       "count": 10,
       "first": "2026-07-11",
       "last": "2026-08-19"
+    },
+    {
+      "name": "frontline.thehindu.com",
+      "count": 9,
+      "first": "2026-07-08",
+      "last": "2026-08-20"
     },
     {
       "name": "Deccan Herald",
@@ -256,6 +250,12 @@
       "count": 7,
       "first": "2026-07-26",
       "last": "2026-09-04"
+    },
+    {
+      "name": "The Tribune",
+      "count": 7,
+      "first": "2026-08-15",
+      "last": "2026-08-27"
     },
     {
       "name": "Al Jazeera",
@@ -330,6 +330,12 @@
       "last": "2026-09-04"
     },
     {
+      "name": "National Herald",
+      "count": 4,
+      "first": "2026-08-19",
+      "last": "2026-09-09"
+    },
+    {
       "name": "Odisha TV",
       "count": 4,
       "first": "2026-08-17",
@@ -340,6 +346,12 @@
       "count": 4,
       "first": "2026-08-17",
       "last": "2026-09-05"
+    },
+    {
+      "name": "Udayavani",
+      "count": 4,
+      "first": "2026-07-18",
+      "last": "2026-09-09"
     },
     {
       "name": "CNBC TV18",
@@ -364,12 +376,6 @@
       "count": 3,
       "first": "2026-07-24",
       "last": "2026-08-16"
-    },
-    {
-      "name": "nationalheraldindia.com",
-      "count": 3,
-      "first": "2026-08-26",
-      "last": "2026-09-09"
     },
     {
       "name": "Supreme Court Observer",
@@ -402,10 +408,10 @@
       "last": "2026-09-03"
     },
     {
-      "name": "Udayavani",
+      "name": "tribuneindia.com",
       "count": 3,
-      "first": "2026-07-18",
-      "last": "2026-09-04"
+      "first": "2026-08-27",
+      "last": "2026-09-09"
     },
     {
       "name": "Asianet Newsable",
@@ -450,6 +456,12 @@
       "last": "2026-09-01"
     },
     {
+      "name": "Frontline Magazine",
+      "count": 2,
+      "first": "2026-08-10",
+      "last": "2026-08-25"
+    },
+    {
       "name": "GujaratSamachar English",
       "count": 2,
       "first": "2026-08-24",
@@ -478,12 +490,6 @@
       "count": 2,
       "first": "2026-08-22",
       "last": "2026-09-05"
-    },
-    {
-      "name": "National Herald",
-      "count": 2,
-      "first": "2026-08-19",
-      "last": "2026-09-07"
     },
     {
       "name": "News Arena India",
@@ -888,7 +894,7 @@
       "last": "2026-07-20"
     },
     {
-      "name": "Millat Times",
+      "name": "millattimes.com",
       "count": 1,
       "first": "2026-08-21",
       "last": "2026-08-21"
@@ -906,13 +912,19 @@
       "last": "2026-08-20"
     },
     {
+      "name": "nationalheraldindia.com",
+      "count": 1,
+      "first": "2026-08-26",
+      "last": "2026-08-26"
+    },
+    {
       "name": "News On AIR",
       "count": 1,
       "first": "2026-08-20",
       "last": "2026-08-20"
     },
     {
-      "name": "Newschecker",
+      "name": "newschecker.in",
       "count": 1,
       "first": "2026-08-25",
       "last": "2026-08-25"
@@ -1074,12 +1086,6 @@
       "last": "2026-09-05"
     },
     {
-      "name": "thehindu.com",
-      "count": 1,
-      "first": "2026-08-12",
-      "last": "2026-08-12"
-    },
-    {
       "name": "thekashmirimages.com",
       "count": 1,
       "first": "2026-09-04",
@@ -1102,12 +1108,6 @@
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
-    },
-    {
-      "name": "tribuneindia.com",
-      "count": 1,
-      "first": "2026-08-27",
-      "last": "2026-08-27"
     },
     {
       "name": "Verdictum",
@@ -1141,5 +1141,5 @@
     }
   ],
   "firstDate": "2026-02-07",
-  "lastDate": "2026-09-09"
+  "lastDate": "2026-09-10"
 }

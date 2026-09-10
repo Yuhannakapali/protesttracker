@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 33
+      "count": 34
     }
   ],
   "sources": [
@@ -824,12 +824,6 @@
       "count": 51,
       "first": "2015-10-02",
       "last": "2026-06-08"
-    },
-    {
-      "name": "Daily Post Nigeria",
-      "count": 42,
-      "first": "2012-01-05",
-      "last": "2026-09-09"
     },
     {
       "name": "Channels Television",
@@ -856,6 +850,12 @@
       "last": "2025-12-17"
     },
     {
+      "name": "Daily Post Nigeria",
+      "count": 33,
+      "first": "2012-01-05",
+      "last": "2026-09-09"
+    },
+    {
       "name": "Punch Newspapers",
       "count": 24,
       "first": "2020-09-04",
@@ -868,16 +868,16 @@
       "last": "2026-01-27"
     },
     {
+      "name": "Vanguard",
+      "count": 17,
+      "first": "2026-09-02",
+      "last": "2026-09-10"
+    },
+    {
       "name": "Ripples Nigeria",
       "count": 16,
       "first": "2023-06-01",
       "last": "2026-09-05"
-    },
-    {
-      "name": "Vanguard",
-      "count": 16,
-      "first": "2026-09-02",
-      "last": "2026-09-09"
     },
     {
       "name": "Arise News",
@@ -922,6 +922,12 @@
       "last": "2026-02-04"
     },
     {
+      "name": "dailypost.ng",
+      "count": 10,
+      "first": "2012-02-05",
+      "last": "2026-08-19"
+    },
+    {
       "name": "The Whistler Newspaper",
       "count": 10,
       "first": "2020-09-04",
@@ -935,7 +941,7 @@
     },
     {
       "name": "The Guardian",
-      "count": 8,
+      "count": 6,
       "first": "2012-01-03",
       "last": "2026-01-26"
     },
@@ -964,7 +970,7 @@
       "last": "2024-06-03"
     },
     {
-      "name": "Nigeria Labour Congress (NLC)",
+      "name": "nlcng.org",
       "count": 5,
       "first": "2023-03-30",
       "last": "2026-06-03"
@@ -1084,6 +1090,12 @@
       "last": "2026-02-03"
     },
     {
+      "name": "theguardian.com",
+      "count": 2,
+      "first": "2012-01-09",
+      "last": "2012-01-09"
+    },
+    {
       "name": "TRT Afrika",
       "count": 2,
       "first": "2025-09-17",
@@ -1154,12 +1166,6 @@
       "count": 1,
       "first": "2026-08-19",
       "last": "2026-08-19"
-    },
-    {
-      "name": "dailypost.ng",
-      "count": 1,
-      "first": "2023-09-04",
-      "last": "2023-09-04"
     },
     {
       "name": "fij.ng",
@@ -1234,7 +1240,7 @@
       "last": "2012-01-09"
     },
     {
-      "name": "International Socialist Alternative",
+      "name": "internationalsocialist.net",
       "count": 1,
       "first": "2024-08-21",
       "last": "2024-08-21"
@@ -1270,16 +1276,16 @@
       "last": "2024-09-05"
     },
     {
+      "name": "Nigeria Labour Congress (NLC)",
+      "count": 1,
+      "first": "2023-12-17",
+      "last": "2023-12-17"
+    },
+    {
       "name": "nigerianeye.com",
       "count": 1,
       "first": "2026-06-08",
       "last": "2026-06-08"
-    },
-    {
-      "name": "nlcng.org",
-      "count": 1,
-      "first": "2023-11-15",
-      "last": "2023-11-15"
     },
     {
       "name": "premiumtimesng.com",
@@ -1385,5 +1391,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-09-09"
+  "lastDate": "2026-09-10"
 }
