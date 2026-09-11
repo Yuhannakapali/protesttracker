@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T08:10:13.507Z",
+  "generated": "2026-09-11T08:04:48.921Z",
   "candidates": [
     {
       "key": "wd-Q133441461",
@@ -152,44 +152,6 @@
         "_source": {
           "wikidata": "Q133830781",
           "wikipedia": "https://en.wikipedia.org/wiki/Tour_de_Strasbourg"
-        }
-      }
-    },
-    {
-      "key": "wd-Q134286893",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United Kingdom",
-      "countries": [
-        "United Kingdom"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Birmingham_bin_strike",
-      "needsName": false,
-      "suggested": {
-        "id": "united-kingdom-birmingham-bin-strike",
-        "name": "Birmingham bin strike",
-        "region": "Europe",
-        "location": "United Kingdom",
-        "year": 2026,
-        "description": "industrial action over pay in the garbage disposal industry",
-        "keywords": [
-          "birmingham",
-          "bin",
-          "united kingdom",
-          "protest"
-        ],
-        "strictKeywords": [
-          "birmingham",
-          "bin"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Birmingham%20bin%20strike&hl=en-GB&gl=GB&ceid=GB%3Aen",
-          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q134286893",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Birmingham_bin_strike"
         }
       }
     },
@@ -799,6 +761,46 @@
       }
     },
     {
+      "key": "wd-Q140773593",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Italy",
+      "countries": [
+        "Italy"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
+      "needsName": false,
+      "suggested": {
+        "id": "italy-susa-valley-conflict",
+        "name": "2026 Susa Valley conflict",
+        "region": "Europe",
+        "location": "Italy",
+        "year": 2026,
+        "description": "civil unrest in Italy",
+        "keywords": [
+          "susa",
+          "valley",
+          "conflict",
+          "italy",
+          "protest"
+        ],
+        "strictKeywords": [
+          "susa",
+          "valley",
+          "conflict"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
+          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140773593",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
+        }
+      }
+    },
+    {
       "key": "wd-Q136311323",
       "source": "wikidata",
       "confidence": "high",
@@ -1166,46 +1168,6 @@
         "_source": {
           "wikidata": "Q136497544",
           "wikipedia": "https://en.wikipedia.org/wiki/2025_Maldivian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140773593",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Italy",
-      "countries": [
-        "Italy"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
-      "needsName": false,
-      "suggested": {
-        "id": "italy-susa-valley-conflict",
-        "name": "2026 Susa Valley conflict",
-        "region": "Europe",
-        "location": "Italy",
-        "year": 2026,
-        "description": "civil unrest in Italy",
-        "keywords": [
-          "susa",
-          "valley",
-          "conflict",
-          "italy",
-          "protest"
-        ],
-        "strictKeywords": [
-          "susa",
-          "valley",
-          "conflict"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
-          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140773593",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
         }
       }
     },
