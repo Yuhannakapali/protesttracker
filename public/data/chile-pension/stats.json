@@ -355,7 +355,7 @@
     },
     {
       "start": "2022-03-01",
-      "count": 4
+      "count": 5
     },
     {
       "start": "2022-04-01",
@@ -582,7 +582,7 @@
       "last": "2026-06-24"
     },
     {
-      "name": "dw.com",
+      "name": "DW.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -654,7 +654,7 @@
       "last": "2019-03-31"
     },
     {
-      "name": "Clarin.com",
+      "name": "clarin.com",
       "count": 4,
       "first": "2017-12-18",
       "last": "2019-12-24"
@@ -720,16 +720,16 @@
       "last": "2020-10-16"
     },
     {
+      "name": "Teletrece",
+      "count": 3,
+      "first": "2019-03-31",
+      "last": "2022-03-31"
+    },
+    {
       "name": "The Guardian",
       "count": 3,
       "first": "2016-08-21",
       "last": "2019-10-30"
-    },
-    {
-      "name": "The New York Times",
-      "count": 3,
-      "first": "2016-09-10",
-      "last": "2019-11-21"
     },
     {
       "name": "The Washington Post",
@@ -804,7 +804,7 @@
       "last": "2020-07-24"
     },
     {
-      "name": "mexicosolidarity.com",
+      "name": "Mexico Solidarity Media",
       "count": 2,
       "first": "2026-03-20",
       "last": "2026-03-20"
@@ -814,6 +814,12 @@
       "count": 2,
       "first": "2019-10-30",
       "last": "2020-03-11"
+    },
+    {
+      "name": "nytimes.com",
+      "count": 2,
+      "first": "2016-09-10",
+      "last": "2019-11-18"
     },
     {
       "name": "Perfil",
@@ -838,12 +844,6 @@
       "count": 2,
       "first": "2019-10-23",
       "last": "2022-03-12"
-    },
-    {
-      "name": "Teletrece",
-      "count": 2,
-      "first": "2019-03-31",
-      "last": "2019-10-06"
     },
     {
       "name": "The Nation Newspaper",
@@ -900,7 +900,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "atacamanoticias.cl",
+      "name": "Atacama Noticias",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
@@ -1002,7 +1002,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Diario Talca",
+      "name": "diariotalca.cl",
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
@@ -1086,12 +1086,6 @@
       "last": "2022-05-25"
     },
     {
-      "name": "Fenpruss",
-      "count": 1,
-      "first": "2019-03-25",
-      "last": "2019-03-25"
-    },
-    {
       "name": "Foreign Policy",
       "count": 1,
       "first": "2019-10-23",
@@ -1164,7 +1158,7 @@
       "last": "2020-02-19"
     },
     {
-      "name": "independentespanol.com",
+      "name": "Independent en Español",
       "count": 1,
       "first": "2025-03-30",
       "last": "2025-03-30"
@@ -1380,7 +1374,7 @@
       "last": "2024-09-24"
     },
     {
-      "name": "radiojgm.uchile.cl",
+      "name": "Radio JGM",
       "count": 1,
       "first": "2024-09-11",
       "last": "2024-09-11"
@@ -1452,6 +1446,12 @@
       "last": "2019-12-10"
     },
     {
+      "name": "The New York Times",
+      "count": 1,
+      "first": "2019-11-21",
+      "last": "2019-11-21"
+    },
+    {
       "name": "The Sun",
       "count": 1,
       "first": "2019-11-15",
@@ -1488,7 +1488,7 @@
       "last": "2019-11-26"
     },
     {
-      "name": "Ukamau",
+      "name": "ukamau.cl",
       "count": 1,
       "first": "2022-04-30",
       "last": "2022-04-30"
@@ -1510,6 +1510,12 @@
       "count": 1,
       "first": "2018-04-23",
       "last": "2018-04-23"
+    },
+    {
+      "name": "web2.fenpruss.cl",
+      "count": 1,
+      "first": "2019-03-25",
+      "last": "2019-03-25"
     },
     {
       "name": "World Socialist Web Site",
