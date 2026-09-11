@@ -838,12 +838,6 @@
       "last": "2026-09-04"
     },
     {
-      "name": "Vanguard News",
-      "count": 39,
-      "first": "2012-03-08",
-      "last": "2026-06-08"
-    },
-    {
       "name": "BBC",
       "count": 35,
       "first": "2018-09-26",
@@ -851,15 +845,27 @@
     },
     {
       "name": "Premium Times Nigeria",
-      "count": 27,
-      "first": "2016-05-17",
+      "count": 35,
+      "first": "2013-04-18",
       "last": "2026-02-02"
     },
     {
       "name": "Punch Newspapers",
-      "count": 21,
+      "count": 24,
       "first": "2020-09-04",
       "last": "2026-08-19"
+    },
+    {
+      "name": "Vanguard News",
+      "count": 23,
+      "first": "2012-03-08",
+      "last": "2026-01-28"
+    },
+    {
+      "name": "vanguardngr.com",
+      "count": 21,
+      "first": "2012-09-19",
+      "last": "2026-06-08"
     },
     {
       "name": "PM News Nigeria",
@@ -899,15 +905,9 @@
     },
     {
       "name": "Legit News",
-      "count": 12,
+      "count": 13,
       "first": "2022-01-02",
       "last": "2025-09-16"
-    },
-    {
-      "name": "premiumtimesng.com",
-      "count": 12,
-      "first": "2013-04-18",
-      "last": "2026-01-27"
     },
     {
       "name": "Al Jazeera",
@@ -928,6 +928,12 @@
       "last": "2026-02-04"
     },
     {
+      "name": "The Whistler Newspaper",
+      "count": 10,
+      "first": "2020-09-04",
+      "last": "2026-06-03"
+    },
+    {
       "name": "Independent Newspaper Nigeria",
       "count": 9,
       "first": "2020-09-07",
@@ -943,12 +949,6 @@
       "name": "The Nation Newspaper",
       "count": 6,
       "first": "2022-01-10",
-      "last": "2026-06-03"
-    },
-    {
-      "name": "thewhistler.ng",
-      "count": 6,
-      "first": "2024-05-06",
       "last": "2026-06-03"
     },
     {
@@ -970,28 +970,10 @@
       "last": "2024-06-03"
     },
     {
-      "name": "nlcng.org",
-      "count": 5,
-      "first": "2023-03-30",
-      "last": "2026-06-03"
-    },
-    {
       "name": "Reuters",
       "count": 5,
       "first": "2012-01-10",
       "last": "2026-05-19"
-    },
-    {
-      "name": "The Whistler Newspaper",
-      "count": 5,
-      "first": "2020-09-04",
-      "last": "2026-04-28"
-    },
-    {
-      "name": "vanguardngr.com",
-      "count": 5,
-      "first": "2020-07-16",
-      "last": "2025-10-22"
     },
     {
       "name": "allAfrica.com",
@@ -1018,22 +1000,22 @@
       "last": "2026-01-26"
     },
     {
-      "name": "punchng.com",
+      "name": "premiumtimesng.com",
       "count": 4,
-      "first": "2025-11-22",
-      "last": "2026-06-28"
+      "first": "2024-06-03",
+      "last": "2024-06-04"
     },
     {
-      "name": "Sahara Reporters",
+      "name": "saharareporters.com",
       "count": 4,
       "first": "2020-09-10",
       "last": "2023-08-01"
     },
     {
-      "name": "Legit.ng",
+      "name": "Nigeria Labour Congress (NLC)",
       "count": 3,
-      "first": "2024-09-04",
-      "last": "2024-09-07"
+      "first": "2023-12-17",
+      "last": "2026-06-03"
     },
     {
       "name": "Nigerian Voice",
@@ -1042,9 +1024,15 @@
       "last": "2025-10-14"
     },
     {
-      "name": "tribuneonlineng.com",
+      "name": "nlcng.org",
       "count": 3,
-      "first": "2026-03-12",
+      "first": "2023-03-30",
+      "last": "2024-12-02"
+    },
+    {
+      "name": "Tribune Online",
+      "count": 3,
+      "first": "2024-09-03",
       "last": "2026-07-26"
     },
     {
@@ -1060,10 +1048,16 @@
       "last": "2021-03-12"
     },
     {
-      "name": "fij.ng",
+      "name": "FIJ NG",
       "count": 2,
-      "first": "2024-09-05",
-      "last": "2024-11-11"
+      "first": "2024-09-04",
+      "last": "2024-09-05"
+    },
+    {
+      "name": "Legit.ng",
+      "count": 2,
+      "first": "2024-09-04",
+      "last": "2024-09-04"
     },
     {
       "name": "Mail & Guardian",
@@ -1084,7 +1078,7 @@
       "last": "2026-08-19"
     },
     {
-      "name": "Opinion Nigeria",
+      "name": "opinionnigeria.com",
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
@@ -1094,12 +1088,6 @@
       "count": 2,
       "first": "2025-10-16",
       "last": "2026-05-18"
-    },
-    {
-      "name": "The ICIR",
-      "count": 2,
-      "first": "2023-10-01",
-      "last": "2026-02-03"
     },
     {
       "name": "TRT Afrika",
@@ -1150,7 +1138,7 @@
       "last": "2025-09-27"
     },
     {
-      "name": "Business Post Nigeria",
+      "name": "businesspost.ng",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
@@ -1180,10 +1168,10 @@
       "last": "2023-09-04"
     },
     {
-      "name": "FIJ NG",
+      "name": "fij.ng",
       "count": 1,
-      "first": "2024-09-04",
-      "last": "2024-09-04"
+      "first": "2024-11-11",
+      "last": "2024-11-11"
     },
     {
       "name": "Firstpost",
@@ -1220,6 +1208,12 @@
       "count": 1,
       "first": "2026-08-28",
       "last": "2026-08-28"
+    },
+    {
+      "name": "icirnigeria.org",
+      "count": 1,
+      "first": "2026-02-03",
+      "last": "2026-02-03"
     },
     {
       "name": "impactpolicies.org",
@@ -1282,12 +1276,6 @@
       "last": "2024-09-05"
     },
     {
-      "name": "Nigeria Labour Congress (NLC)",
-      "count": 1,
-      "first": "2023-12-17",
-      "last": "2023-12-17"
-    },
-    {
       "name": "nigerianeye.com",
       "count": 1,
       "first": "2026-06-08",
@@ -1304,6 +1292,12 @@
       "count": 1,
       "first": "2026-06-09",
       "last": "2026-06-09"
+    },
+    {
+      "name": "punchng.com",
+      "count": 1,
+      "first": "2026-06-28",
+      "last": "2026-06-28"
     },
     {
       "name": "radionigeriaibadan.gov.ng",
@@ -1328,6 +1322,12 @@
       "count": 1,
       "first": "2024-03-19",
       "last": "2024-03-19"
+    },
+    {
+      "name": "The ICIR",
+      "count": 1,
+      "first": "2023-10-01",
+      "last": "2023-10-01"
     },
     {
       "name": "theeagleonline.com.ng",
@@ -1360,6 +1360,12 @@
       "last": "2026-08-14"
     },
     {
+      "name": "thewhistler.ng",
+      "count": 1,
+      "first": "2024-09-07",
+      "last": "2024-09-07"
+    },
+    {
       "name": "Times of Malta",
       "count": 1,
       "first": "2012-01-09",
@@ -1372,10 +1378,10 @@
       "last": "2026-03-18"
     },
     {
-      "name": "Tribune Online",
+      "name": "tribuneonlineng.com",
       "count": 1,
-      "first": "2024-09-03",
-      "last": "2024-09-03"
+      "first": "2026-03-12",
+      "last": "2026-03-12"
     },
     {
       "name": "UN Africa Renewal",
