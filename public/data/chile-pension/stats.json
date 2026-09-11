@@ -654,6 +654,12 @@
       "last": "2019-03-31"
     },
     {
+      "name": "Clarin.com",
+      "count": 4,
+      "first": "2017-12-18",
+      "last": "2019-12-24"
+    },
+    {
       "name": "Diario Junio",
       "count": 4,
       "first": "2026-04-20",
@@ -688,12 +694,6 @@
       "count": 3,
       "first": "2014-11-04",
       "last": "2017-09-03"
-    },
-    {
-      "name": "Clarin.com",
-      "count": 3,
-      "first": "2017-12-19",
-      "last": "2019-12-24"
     },
     {
       "name": "Democracy Now!",
@@ -804,7 +804,7 @@
       "last": "2020-07-24"
     },
     {
-      "name": "Mexico Solidarity Media",
+      "name": "mexicosolidarity.com",
       "count": 2,
       "first": "2026-03-20",
       "last": "2026-03-20"
@@ -820,6 +820,12 @@
       "count": 2,
       "first": "2020-01-09",
       "last": "2024-09-04"
+    },
+    {
+      "name": "Pressenza - International Press Agency",
+      "count": 2,
+      "first": "2015-12-12",
+      "last": "2016-10-16"
     },
     {
       "name": "Reuters",
@@ -894,7 +900,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Atacama Noticias",
+      "name": "atacamanoticias.cl",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
@@ -966,19 +972,13 @@
       "last": "2019-12-18"
     },
     {
-      "name": "Clarín",
-      "count": 1,
-      "first": "2017-12-18",
-      "last": "2017-12-18"
-    },
-    {
       "name": "CNN",
       "count": 1,
       "first": "2025-09-29",
       "last": "2025-09-29"
     },
     {
-      "name": "comunicaciones.congreso.gob.pe",
+      "name": "Congreso",
       "count": 1,
       "first": "2021-03-23",
       "last": "2021-03-23"
@@ -1080,12 +1080,6 @@
       "last": "2017-12-20"
     },
     {
-      "name": "en.mercopress.com",
-      "count": 1,
-      "first": "2017-03-27",
-      "last": "2017-03-27"
-    },
-    {
       "name": "federacionccu.cl",
       "count": 1,
       "first": "2022-05-25",
@@ -1170,7 +1164,7 @@
       "last": "2020-02-19"
     },
     {
-      "name": "Independent en Español",
+      "name": "independentespanol.com",
       "count": 1,
       "first": "2025-03-30",
       "last": "2025-03-30"
@@ -1252,6 +1246,12 @@
       "count": 1,
       "first": "2024-12-27",
       "last": "2024-12-27"
+    },
+    {
+      "name": "MercoPress",
+      "count": 1,
+      "first": "2017-03-27",
+      "last": "2017-03-27"
     },
     {
       "name": "Mises Institute",
@@ -1350,19 +1350,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Pressenza - International Press Agency",
-      "count": 1,
-      "first": "2015-12-12",
-      "last": "2015-12-12"
-    },
-    {
-      "name": "pressenza.com",
-      "count": 1,
-      "first": "2016-10-16",
-      "last": "2016-10-16"
-    },
-    {
-      "name": "proceso.com.mx",
+      "name": "Proceso",
       "count": 1,
       "first": "2016-08-22",
       "last": "2016-08-22"
@@ -1392,7 +1380,7 @@
       "last": "2024-09-24"
     },
     {
-      "name": "Radio JGM",
+      "name": "radiojgm.uchile.cl",
       "count": 1,
       "first": "2024-09-11",
       "last": "2024-09-11"
@@ -1470,16 +1458,16 @@
       "last": "2019-11-15"
     },
     {
+      "name": "The Sun Nigeria",
+      "count": 1,
+      "first": "2025-07-26",
+      "last": "2025-07-26"
+    },
+    {
       "name": "theclinic.cl",
       "count": 1,
       "first": "2019-03-31",
       "last": "2019-03-31"
-    },
-    {
-      "name": "thesun.ng",
-      "count": 1,
-      "first": "2025-07-26",
-      "last": "2025-07-26"
     },
     {
       "name": "Toronto Sun",
@@ -1500,7 +1488,7 @@
       "last": "2019-11-26"
     },
     {
-      "name": "ukamau.cl",
+      "name": "Ukamau",
       "count": 1,
       "first": "2022-04-30",
       "last": "2022-04-30"

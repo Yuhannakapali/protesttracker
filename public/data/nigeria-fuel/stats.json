@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 36
+      "count": 37
     }
   ],
   "sources": [
@@ -886,16 +886,16 @@
       "last": "2026-06-04"
     },
     {
+      "name": "The Sun Nigeria",
+      "count": 14,
+      "first": "2022-11-30",
+      "last": "2026-06-08"
+    },
+    {
       "name": "TheCable",
       "count": 14,
       "first": "2020-09-05",
       "last": "2026-03-15"
-    },
-    {
-      "name": "Legit News",
-      "count": 13,
-      "first": "2022-01-02",
-      "last": "2025-09-16"
     },
     {
       "name": "Al Jazeera",
@@ -908,6 +908,12 @@
       "count": 11,
       "first": "2022-01-21",
       "last": "2026-06-04"
+    },
+    {
+      "name": "legit.ng",
+      "count": 11,
+      "first": "2022-01-02",
+      "last": "2025-09-16"
     },
     {
       "name": "THISDAYLIVE",
@@ -928,14 +934,8 @@
       "last": "2026-01-29"
     },
     {
-      "name": "The Sun Nigeria",
-      "count": 9,
-      "first": "2022-11-30",
-      "last": "2026-06-04"
-    },
-    {
       "name": "The Guardian",
-      "count": 8,
+      "count": 6,
       "first": "2012-01-03",
       "last": "2026-01-26"
     },
@@ -944,12 +944,6 @@
       "count": 6,
       "first": "2022-01-10",
       "last": "2026-06-03"
-    },
-    {
-      "name": "thesun.ng",
-      "count": 6,
-      "first": "2026-01-23",
-      "last": "2026-08-14"
     },
     {
       "name": "TVC News",
@@ -1006,10 +1000,22 @@
       "last": "2026-06-04"
     },
     {
+      "name": "Legit News",
+      "count": 4,
+      "first": "2024-07-30",
+      "last": "2025-06-25"
+    },
+    {
       "name": "Nigeria Info FM",
       "count": 4,
       "first": "2025-12-17",
       "last": "2026-01-26"
+    },
+    {
+      "name": "Nigerian Voice",
+      "count": 4,
+      "first": "2012-01-13",
+      "last": "2026-09-11"
     },
     {
       "name": "Sahara Reporters",
@@ -1042,12 +1048,6 @@
       "last": "2024-09-05"
     },
     {
-      "name": "Legit.ng",
-      "count": 2,
-      "first": "2024-09-04",
-      "last": "2024-09-04"
-    },
-    {
       "name": "Mail & Guardian",
       "count": 2,
       "first": "2012-01-16",
@@ -1066,13 +1066,7 @@
       "last": "2026-08-19"
     },
     {
-      "name": "Nigerian Voice",
-      "count": 2,
-      "first": "2021-12-18",
-      "last": "2025-10-14"
-    },
-    {
-      "name": "opinionnigeria.com",
+      "name": "Opinion Nigeria",
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
@@ -1090,10 +1084,10 @@
       "last": "2026-02-03"
     },
     {
-      "name": "thenigerianvoice.com",
+      "name": "theguardian.com",
       "count": 2,
-      "first": "2012-01-13",
-      "last": "2026-09-11"
+      "first": "2012-01-09",
+      "last": "2012-01-09"
     },
     {
       "name": "TRT Afrika",
@@ -1258,7 +1252,7 @@
       "last": "2025-07-27"
     },
     {
-      "name": "naijanews.com",
+      "name": "Naija News",
       "count": 1,
       "first": "2024-09-06",
       "last": "2024-09-06"
@@ -1286,6 +1280,12 @@
       "count": 1,
       "first": "2023-11-15",
       "last": "2023-11-15"
+    },
+    {
+      "name": "Premium Times",
+      "count": 1,
+      "first": "2026-09-11",
+      "last": "2026-09-11"
     },
     {
       "name": "premiumtimesng.com",
@@ -1358,6 +1358,12 @@
       "count": 1,
       "first": "2024-09-04",
       "last": "2024-09-04"
+    },
+    {
+      "name": "thesun.ng",
+      "count": 1,
+      "first": "2026-08-14",
+      "last": "2026-08-14"
     },
     {
       "name": "thewhistler.ng",
