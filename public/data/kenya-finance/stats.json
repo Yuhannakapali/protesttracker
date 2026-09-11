@@ -148,6 +148,12 @@
   ],
   "sources": [
     {
+      "name": "Daily Nation",
+      "count": 49,
+      "first": "2024-06-19",
+      "last": "2026-08-10"
+    },
+    {
       "name": "People Daily",
       "count": 44,
       "first": "2025-11-02",
@@ -164,18 +170,6 @@
       "count": 30,
       "first": "2024-12-27",
       "last": "2026-08-27"
-    },
-    {
-      "name": "nation.africa",
-      "count": 25,
-      "first": "2024-06-19",
-      "last": "2026-08-10"
-    },
-    {
-      "name": "Daily Nation",
-      "count": 24,
-      "first": "2024-06-25",
-      "last": "2026-07-03"
     },
     {
       "name": "Al Jazeera",
@@ -436,12 +430,6 @@
       "last": "2026-09-04"
     },
     {
-      "name": "aa.com.tr",
-      "count": 1,
-      "first": "2026-06-25",
-      "last": "2026-06-25"
-    },
-    {
       "name": "ABC News - Breaking News, Latest News and Videos",
       "count": 1,
       "first": "2024-06-20",
@@ -460,6 +448,12 @@
       "last": "2026-02-16"
     },
     {
+      "name": "Anadolu Ajansı",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
       "name": "AP News",
       "count": 1,
       "first": "2025-06-25",
@@ -472,19 +466,13 @@
       "last": "2024-07-19"
     },
     {
-      "name": "blogs.lse.ac.uk",
-      "count": 1,
-      "first": "2024-08-01",
-      "last": "2024-08-01"
-    },
-    {
       "name": "Bloomberg.com",
       "count": 1,
       "first": "2026-05-05",
       "last": "2026-05-05"
     },
     {
-      "name": "brookings.edu",
+      "name": "Brookings",
       "count": 1,
       "first": "2026-04-07",
       "last": "2026-04-07"
@@ -526,13 +514,13 @@
       "last": "2024-06-27"
     },
     {
-      "name": "dailymaverick.co.za",
+      "name": "Daily Maverick",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
     },
     {
-      "name": "ewn.co.za",
+      "name": "EWN",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -568,12 +556,6 @@
       "last": "2026-06-24"
     },
     {
-      "name": "ibanet.org",
-      "count": 1,
-      "first": "2026-01-19",
-      "last": "2026-01-19"
-    },
-    {
       "name": "ICJ Kenya",
       "count": 1,
       "first": "2024-08-05",
@@ -586,13 +568,19 @@
       "last": "2026-02-17"
     },
     {
+      "name": "International Bar Association | IBA",
+      "count": 1,
+      "first": "2026-01-19",
+      "last": "2026-01-19"
+    },
+    {
       "name": "International Socialist Alternative",
       "count": 1,
       "first": "2025-07-23",
       "last": "2025-07-23"
     },
     {
-      "name": "iol.co.za",
+      "name": "IOL",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -728,6 +716,12 @@
       "count": 1,
       "first": "2024-07-17",
       "last": "2024-07-17"
+    },
+    {
+      "name": "The London School of Economics and Political Science",
+      "count": 1,
+      "first": "2024-08-01",
+      "last": "2024-08-01"
     },
     {
       "name": "theafricareport.com",
