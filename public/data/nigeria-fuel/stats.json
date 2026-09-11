@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 35
+      "count": 36
     }
   ],
   "sources": [
@@ -838,34 +838,28 @@
       "last": "2026-09-04"
     },
     {
+      "name": "Vanguard News",
+      "count": 39,
+      "first": "2012-03-08",
+      "last": "2026-06-08"
+    },
+    {
+      "name": "Premium Times Nigeria",
+      "count": 38,
+      "first": "2013-04-18",
+      "last": "2026-02-02"
+    },
+    {
       "name": "BBC",
       "count": 35,
       "first": "2018-09-26",
       "last": "2025-12-17"
     },
     {
-      "name": "Premium Times Nigeria",
-      "count": 35,
-      "first": "2013-04-18",
-      "last": "2026-02-02"
-    },
-    {
       "name": "Punch Newspapers",
       "count": 24,
       "first": "2020-09-04",
       "last": "2026-08-19"
-    },
-    {
-      "name": "Vanguard News",
-      "count": 23,
-      "first": "2012-03-08",
-      "last": "2026-01-28"
-    },
-    {
-      "name": "vanguardngr.com",
-      "count": 21,
-      "first": "2012-09-19",
-      "last": "2026-06-08"
     },
     {
       "name": "PM News Nigeria",
@@ -890,12 +884,6 @@
       "count": 15,
       "first": "2023-06-02",
       "last": "2026-06-04"
-    },
-    {
-      "name": "The Sun Nigeria",
-      "count": 14,
-      "first": "2022-11-30",
-      "last": "2026-06-08"
     },
     {
       "name": "TheCable",
@@ -940,6 +928,12 @@
       "last": "2026-01-29"
     },
     {
+      "name": "The Sun Nigeria",
+      "count": 9,
+      "first": "2022-11-30",
+      "last": "2026-06-04"
+    },
+    {
       "name": "The Guardian",
       "count": 8,
       "first": "2012-01-03",
@@ -950,6 +944,12 @@
       "count": 6,
       "first": "2022-01-10",
       "last": "2026-06-03"
+    },
+    {
+      "name": "thesun.ng",
+      "count": 6,
+      "first": "2026-01-23",
+      "last": "2026-08-14"
     },
     {
       "name": "TVC News",
@@ -970,10 +970,22 @@
       "last": "2024-06-03"
     },
     {
+      "name": "Nigeria Labour Congress (NLC)",
+      "count": 5,
+      "first": "2023-03-30",
+      "last": "2026-06-03"
+    },
+    {
       "name": "Reuters",
       "count": 5,
       "first": "2012-01-10",
       "last": "2026-05-19"
+    },
+    {
+      "name": "vanguardngr.com",
+      "count": 5,
+      "first": "2020-07-16",
+      "last": "2025-10-22"
     },
     {
       "name": "allAfrica.com",
@@ -1000,34 +1012,10 @@
       "last": "2026-01-26"
     },
     {
-      "name": "premiumtimesng.com",
-      "count": 4,
-      "first": "2024-06-03",
-      "last": "2024-06-04"
-    },
-    {
-      "name": "saharareporters.com",
+      "name": "Sahara Reporters",
       "count": 4,
       "first": "2020-09-10",
       "last": "2023-08-01"
-    },
-    {
-      "name": "Nigeria Labour Congress (NLC)",
-      "count": 3,
-      "first": "2023-12-17",
-      "last": "2026-06-03"
-    },
-    {
-      "name": "Nigerian Voice",
-      "count": 3,
-      "first": "2012-01-13",
-      "last": "2025-10-14"
-    },
-    {
-      "name": "nlcng.org",
-      "count": 3,
-      "first": "2023-03-30",
-      "last": "2024-12-02"
     },
     {
       "name": "Tribune Online",
@@ -1078,6 +1066,12 @@
       "last": "2026-08-19"
     },
     {
+      "name": "Nigerian Voice",
+      "count": 2,
+      "first": "2021-12-18",
+      "last": "2025-10-14"
+    },
+    {
       "name": "opinionnigeria.com",
       "count": 2,
       "first": "2026-03-24",
@@ -1088,6 +1082,18 @@
       "count": 2,
       "first": "2025-10-16",
       "last": "2026-05-18"
+    },
+    {
+      "name": "The ICIR",
+      "count": 2,
+      "first": "2023-10-01",
+      "last": "2026-02-03"
+    },
+    {
+      "name": "thenigerianvoice.com",
+      "count": 2,
+      "first": "2012-01-13",
+      "last": "2026-09-11"
     },
     {
       "name": "TRT Afrika",
@@ -1138,7 +1144,7 @@
       "last": "2025-09-27"
     },
     {
-      "name": "businesspost.ng",
+      "name": "Business Post Nigeria",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
@@ -1210,12 +1216,6 @@
       "last": "2026-08-28"
     },
     {
-      "name": "icirnigeria.org",
-      "count": 1,
-      "first": "2026-02-03",
-      "last": "2026-02-03"
-    },
-    {
       "name": "impactpolicies.org",
       "count": 1,
       "first": "2026-02-12",
@@ -1282,6 +1282,18 @@
       "last": "2026-06-08"
     },
     {
+      "name": "nlcng.org",
+      "count": 1,
+      "first": "2023-11-15",
+      "last": "2023-11-15"
+    },
+    {
+      "name": "premiumtimesng.com",
+      "count": 1,
+      "first": "2024-06-03",
+      "last": "2024-06-03"
+    },
+    {
       "name": "proshare.co",
       "count": 1,
       "first": "2026-08-31",
@@ -1324,12 +1336,6 @@
       "last": "2024-03-19"
     },
     {
-      "name": "The ICIR",
-      "count": 1,
-      "first": "2023-10-01",
-      "last": "2023-10-01"
-    },
-    {
       "name": "theeagleonline.com.ng",
       "count": 1,
       "first": "2026-06-08",
@@ -1352,12 +1358,6 @@
       "count": 1,
       "first": "2024-09-04",
       "last": "2024-09-04"
-    },
-    {
-      "name": "thesun.ng",
-      "count": 1,
-      "first": "2026-08-14",
-      "last": "2026-08-14"
     },
     {
       "name": "thewhistler.ng",
@@ -1391,5 +1391,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-09-10"
+  "lastDate": "2026-09-11"
 }

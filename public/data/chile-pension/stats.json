@@ -582,10 +582,16 @@
       "last": "2026-06-24"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
+    },
+    {
+      "name": "The Clinic",
+      "count": 10,
+      "first": "2016-07-27",
+      "last": "2026-09-10"
     },
     {
       "name": "BBC",
@@ -598,12 +604,6 @@
       "count": 8,
       "first": "2019-10-26",
       "last": "2020-07-23"
-    },
-    {
-      "name": "The Clinic",
-      "count": 8,
-      "first": "2017-03-26",
-      "last": "2026-09-10"
     },
     {
       "name": "El Ciudadano",
@@ -654,12 +654,6 @@
       "last": "2019-03-31"
     },
     {
-      "name": "Clarin.com",
-      "count": 4,
-      "first": "2017-12-18",
-      "last": "2019-12-24"
-    },
-    {
       "name": "Diario Junio",
       "count": 4,
       "first": "2026-04-20",
@@ -694,6 +688,12 @@
       "count": 3,
       "first": "2014-11-04",
       "last": "2017-09-03"
+    },
+    {
+      "name": "Clarin.com",
+      "count": 3,
+      "first": "2017-12-19",
+      "last": "2019-12-24"
     },
     {
       "name": "Democracy Now!",
@@ -736,12 +736,6 @@
       "count": 3,
       "first": "2019-10-30",
       "last": "2019-11-21"
-    },
-    {
-      "name": "theclinic.cl",
-      "count": 3,
-      "first": "2016-07-27",
-      "last": "2019-03-31"
     },
     {
       "name": "ai-cio.com",
@@ -826,12 +820,6 @@
       "count": 2,
       "first": "2020-01-09",
       "last": "2024-09-04"
-    },
-    {
-      "name": "Pressenza - International Press Agency",
-      "count": 2,
-      "first": "2015-12-12",
-      "last": "2016-10-16"
     },
     {
       "name": "Reuters",
@@ -978,13 +966,19 @@
       "last": "2019-12-18"
     },
     {
+      "name": "Clarín",
+      "count": 1,
+      "first": "2017-12-18",
+      "last": "2017-12-18"
+    },
+    {
       "name": "CNN",
       "count": 1,
       "first": "2025-09-29",
       "last": "2025-09-29"
     },
     {
-      "name": "Congreso",
+      "name": "comunicaciones.congreso.gob.pe",
       "count": 1,
       "first": "2021-03-23",
       "last": "2021-03-23"
@@ -1000,12 +994,6 @@
       "count": 1,
       "first": "2026-07-08",
       "last": "2026-07-08"
-    },
-    {
-      "name": "Diario El Día de La Plata",
-      "count": 1,
-      "first": "2017-12-19",
-      "last": "2017-12-19"
     },
     {
       "name": "Diario Río Uruguay",
@@ -1068,6 +1056,12 @@
       "last": "2025-03-31"
     },
     {
+      "name": "eldia.com",
+      "count": 1,
+      "first": "2017-12-19",
+      "last": "2017-12-19"
+    },
+    {
       "name": "elentrerios.com",
       "count": 1,
       "first": "2026-05-22",
@@ -1084,6 +1078,12 @@
       "count": 1,
       "first": "2017-12-20",
       "last": "2017-12-20"
+    },
+    {
+      "name": "en.mercopress.com",
+      "count": 1,
+      "first": "2017-03-27",
+      "last": "2017-03-27"
     },
     {
       "name": "federacionccu.cl",
@@ -1254,13 +1254,7 @@
       "last": "2024-12-27"
     },
     {
-      "name": "MercoPress",
-      "count": 1,
-      "first": "2017-03-27",
-      "last": "2017-03-27"
-    },
-    {
-      "name": "mises.org",
+      "name": "Mises Institute",
       "count": 1,
       "first": "2019-12-10",
       "last": "2019-12-10"
@@ -1356,7 +1350,19 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Proceso",
+      "name": "Pressenza - International Press Agency",
+      "count": 1,
+      "first": "2015-12-12",
+      "last": "2015-12-12"
+    },
+    {
+      "name": "pressenza.com",
+      "count": 1,
+      "first": "2016-10-16",
+      "last": "2016-10-16"
+    },
+    {
+      "name": "proceso.com.mx",
       "count": 1,
       "first": "2016-08-22",
       "last": "2016-08-22"
@@ -1464,7 +1470,13 @@
       "last": "2019-11-15"
     },
     {
-      "name": "The Sun Nigeria",
+      "name": "theclinic.cl",
+      "count": 1,
+      "first": "2019-03-31",
+      "last": "2019-03-31"
+    },
+    {
+      "name": "thesun.ng",
       "count": 1,
       "first": "2025-07-26",
       "last": "2025-07-26"
@@ -1488,7 +1500,7 @@
       "last": "2019-11-26"
     },
     {
-      "name": "Ukamau",
+      "name": "ukamau.cl",
       "count": 1,
       "first": "2022-04-30",
       "last": "2022-04-30"
