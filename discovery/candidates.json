@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T08:04:48.921Z",
+  "generated": "2026-09-12T08:02:22.692Z",
   "candidates": [
     {
       "key": "wd-Q133441461",
@@ -383,6 +383,46 @@
       }
     },
     {
+      "key": "wd-Q140773593",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Italy",
+      "countries": [
+        "Italy"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
+      "needsName": false,
+      "suggested": {
+        "id": "italy-susa-valley-conflict",
+        "name": "2026 Susa Valley conflict",
+        "region": "Europe",
+        "location": "Italy",
+        "year": 2026,
+        "description": "civil unrest in Italy",
+        "keywords": [
+          "susa",
+          "valley",
+          "conflict",
+          "italy",
+          "protest"
+        ],
+        "strictKeywords": [
+          "susa",
+          "valley",
+          "conflict"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
+          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140773593",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
+        }
+      }
+    },
+    {
       "key": "wd-Q135264147",
       "source": "wikidata",
       "confidence": "high",
@@ -757,46 +797,6 @@
         "_source": {
           "wikidata": "Q136160164",
           "wikipedia": "https://en.wikipedia.org/wiki/2025_Nepalese_Gen_Z_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140773593",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Italy",
-      "countries": [
-        "Italy"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
-      "needsName": false,
-      "suggested": {
-        "id": "italy-susa-valley-conflict",
-        "name": "2026 Susa Valley conflict",
-        "region": "Europe",
-        "location": "Italy",
-        "year": 2026,
-        "description": "civil unrest in Italy",
-        "keywords": [
-          "susa",
-          "valley",
-          "conflict",
-          "italy",
-          "protest"
-        ],
-        "strictKeywords": [
-          "susa",
-          "valley",
-          "conflict"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
-          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140773593",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
         }
       }
     },
@@ -2726,6 +2726,252 @@
       }
     },
     {
+      "key": "gd-south-africa:affairs-durban-foreign",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "South Africa",
+      "countries": [
+        "South Africa"
+      ],
+      "domains": [
+        "thesouthafrican.com",
+        "ewn.co.za",
+        "citizen.co.za"
+      ],
+      "daysSeen": 3,
+      "articleCount": 3,
+      "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-10",
+      "samples": [
+        {
+          "title": "Foreign nationals plead for shelter outside Durban Home Affairs",
+          "url": "https://www.thesouthafrican.com/news/foreign-nationals-plead-for-shelter-outside-durban-home-affairs/",
+          "domain": "thesouthafrican.com",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Heavy police presence deployed to Durban Home Affairs amid anti - illegal immigration protest",
+          "url": "https://www.ewn.co.za/2026/09/10/heavy-police-presence-deployed-to-durban-home-affairs-amid-anti-illegal-immigration-protest",
+          "domain": "ewn.co.za",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "MK party slams R23 . 3bn RAF claims by foreign nationals , vows law change",
+          "url": "https://www.citizen.co.za/news/south-africa/mk-party-slams-raf-claims-by-foreign-nationals-vows-law-change/",
+          "domain": "citizen.co.za",
+          "date": "2026-09-09"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "south-africa-foreign-nationals-plead-for-shelter-outside",
+        "name": "Foreign nationals plead for shelter outside",
+        "region": "Africa",
+        "location": "South Africa",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "foreign",
+          "nationals",
+          "plead",
+          "for",
+          "shelter",
+          "outside",
+          "south africa",
+          "protest"
+        ],
+        "strictKeywords": [
+          "foreign",
+          "nationals",
+          "plead",
+          "for",
+          "shelter",
+          "outside"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Foreign%20nationals%20plead%20for%20shelter%20outside&hl=en-ZA&gl=ZA&ceid=ZA%3Aen",
+          "https://news.google.com/rss/search?q=South%20Africa%20protest&hl=en-ZA&gl=ZA&ceid=ZA%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "south-africa:affairs-durban-foreign",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-south-africa:airlink-backlash-cape",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "South Africa",
+      "countries": [
+        "South Africa"
+      ],
+      "domains": [
+        "timeslive.co.za",
+        "thesouthafrican.com",
+        "groundup.org.za",
+        "htxt.co.za",
+        "ewn.co.za",
+        "sanews.gov.za"
+      ],
+      "daysSeen": 5,
+      "articleCount": 7,
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-11",
+      "samples": [
+        {
+          "title": "POLL | Was the backlash over Airlink flyover at Cape Town Stadium fair ?",
+          "url": "https://www.timeslive.co.za/news/south-africa/2026-09-01-poll-was-the-backlash-over-airlinks-flyover-at-cape-town-stadium-fair/",
+          "domain": "timeslive.co.za",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "Popular international flight route returns to Cape Town this September",
+          "url": "https://www.thesouthafrican.com/travel/international-flight-returns-to-cape-town-this-september-air-france-flights-paris/",
+          "domain": "thesouthafrican.com",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "Cape Town murder stats : has the army made a difference ?",
+          "url": "https://groundup.org.za/article/fewer-murders-on-cape-flats----but-it-because-army/",
+          "domain": "groundup.org.za",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Air France brings back popular route for South African travellers",
+          "url": "https://htxt.co.za/2026/09/air-france-brings-back-popular-route-for-south-african-travellers/",
+          "domain": "htxt.co.za",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "Eastern Cape crime stats : Serious crime drops across 6 districts",
+          "url": "https://www.ewn.co.za/2026/09/11/eastern-cape-crime-stats-serious-crime-drops-across-6-districts",
+          "domain": "ewn.co.za",
+          "date": "2026-09-11"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "south-africa-poll-was-the-backlash-over-airlink",
+        "name": "POLL Was the backlash over Airlink",
+        "region": "Africa",
+        "location": "South Africa",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "poll",
+          "was",
+          "backlash",
+          "over",
+          "airlink",
+          "south africa",
+          "protest"
+        ],
+        "strictKeywords": [
+          "poll",
+          "was",
+          "backlash",
+          "over",
+          "airlink"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=POLL%20Was%20the%20backlash%20over%20Airlink&hl=en-ZA&gl=ZA&ceid=ZA%3Aen",
+          "https://news.google.com/rss/search?q=South%20Africa%20protest&hl=en-ZA&gl=ZA&ceid=ZA%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "south-africa:airlink-backlash-cape",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-south-africa:apologises-interview-jacinta",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "South Africa",
+      "countries": [
+        "South Africa"
+      ],
+      "domains": [
+        "news24.com",
+        "dailymaverick.co.za",
+        "politicsweb.co.za",
+        "sanef.org.za"
+      ],
+      "daysSeen": 4,
+      "articleCount": 5,
+      "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-09",
+      "samples": [
+        {
+          "title": "SAFM apologises over Jacinta Ngobese - Zuma interview",
+          "url": "https://www.news24.com/southafrica/news/safm-apologises-over-jacinta-ngobese-zuma-interview-20260905-0390",
+          "domain": "news24.com",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "SAFM apologises for Jacinta Ngobese - Zuma interview",
+          "url": "https://www.dailymaverick.co.za/article/2026-09-04-safm-apologises-for-jacinta-ngobese-zuma-interview/",
+          "domain": "dailymaverick.co.za",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "SAFM apologises over Jacinta Ngobese - Zuma interview",
+          "url": "https://www.news24.com/southafrica/news/safm-apologises-over-jacinta-ngobese-zuma-interview-20260905-0390",
+          "domain": "news24.com",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "SANEF welcomes BCCSA ruling on Jacinta Ngobese - Zuma",
+          "url": "https://www.politicsweb.co.za/news/sanef-welcomes-bccsa-ruling-on-jacinta-ngobese-zuma",
+          "domain": "politicsweb.co.za",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "SANEF WELCOMES LANDMARK BCCSA RULING ON EDITORIAL RESPONSIBILITY AHEAD OF ELECTIONS » SANEF",
+          "url": "https://sanef.org.za/sanef-welcomes-landmark-bccsa-ruling-on-editorial-responsibility-ahead-of-elections/",
+          "domain": "sanef.org.za",
+          "date": "2026-09-07"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "south-africa-safm-apologises-over-jacinta-ngobese",
+        "name": "SAFM apologises over Jacinta Ngobese -",
+        "region": "Africa",
+        "location": "South Africa",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "safm",
+          "apologises",
+          "over",
+          "jacinta",
+          "ngobese",
+          "south africa",
+          "protest"
+        ],
+        "strictKeywords": [
+          "safm",
+          "apologises",
+          "over",
+          "jacinta",
+          "ngobese"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=SAFM%20apologises%20over%20Jacinta%20Ngobese%20-&hl=en-ZA&gl=ZA&ceid=ZA%3Aen",
+          "https://news.google.com/rss/search?q=South%20Africa%20protest&hl=en-ZA&gl=ZA&ceid=ZA%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "south-africa:apologises-interview-jacinta",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
       "key": "gd-south-africa:africa-holiday-next",
       "source": "gdelt",
       "confidence": "low",
@@ -2736,12 +2982,15 @@
       "domains": [
         "thesouthafrican.com",
         "citizen.co.za",
-        "jacarandafm.com"
+        "jacarandafm.com",
+        "africabusiness.com",
+        "africaleader.com",
+        "miningmx.com"
       ],
-      "daysSeen": 3,
-      "articleCount": 4,
+      "daysSeen": 6,
+      "articleCount": 7,
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-10",
       "samples": [
         {
           "title": "When is the next public holiday in South Africa ?",
@@ -2766,6 +3015,12 @@
           "url": "https://www.jacarandafm.com/news/news/illegal-mining-ravages-south-africas-economic-hub/",
           "domain": "jacarandafm.com",
           "date": "2026-09-01"
+        },
+        {
+          "title": "South Africa Must Build Its Own Sovereign AI Capability",
+          "url": "https://africabusiness.com/2026/09/08/south-africa-sovereign-ai-capability/",
+          "domain": "africabusiness.com",
+          "date": "2026-09-08"
         }
       ],
       "needsName": true,
@@ -2900,12 +3155,16 @@
         "economictimes.indiatimes.com",
         "moneycontrol.com",
         "newsx.com",
-        "timesofindia.indiatimes.com"
+        "timesofindia.indiatimes.com",
+        "thehindu.com",
+        "barandbench.com",
+        "dailypioneer.com",
+        "freepressjournal.in"
       ],
-      "daysSeen": 4,
-      "articleCount": 6,
+      "daysSeen": 8,
+      "articleCount": 13,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-12",
       "samples": [
         {
           "title": "Adopt  guerrilla strategy , move quietly to Mumbai for bigger protest : Jarange urges Marathas",
@@ -2987,12 +3246,15 @@
         "thehindu.com",
         "economictimes.indiatimes.com",
         "timesofindia.indiatimes.com",
-        "deccanchronicle.com"
+        "deccanchronicle.com",
+        "indiagazette.com",
+        "siasat.com",
+        "news.webindia123.com"
       ],
-      "daysSeen": 5,
-      "articleCount": 11,
+      "daysSeen": 8,
+      "articleCount": 21,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-11",
       "samples": [
         {
           "title": "Udit Raj detained during Congress protest outside RSS headquarters over FIR against Rahul Gandhi",
@@ -3076,12 +3338,15 @@
         "aninews.in",
         "thehindu.com",
         "dailypioneer.com",
-        "dailyexcelsior.com"
+        "dailyexcelsior.com",
+        "jagranjosh.com",
+        "freepressjournal.in",
+        "deccanchronicle.com"
       ],
-      "daysSeen": 6,
-      "articleCount": 8,
+      "daysSeen": 8,
+      "articleCount": 22,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-09",
       "samples": [
         {
           "title": "MBBS , BDS interns to continue strike across J & K over stipend hike",
@@ -3162,7 +3427,7 @@
         "aninews.in"
       ],
       "daysSeen": 3,
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-05",
       "samples": [
@@ -3177,6 +3442,12 @@
           "url": "https://dailypioneer.com/news/manipur-kakching-nrc-protest-turns-violent-police-tear-gas",
           "domain": "dailypioneer.com",
           "date": "2026-08-31"
+        },
+        {
+          "title": "Tripura blockade turns violent : Protesters clash with police over sick patient passage",
+          "url": "https://aninews.in/news/national/general-news/tripura-blockade-turns-violent-protesters-clash-with-police-over-sick-patients-passage20260905145757/",
+          "domain": "aninews.in",
+          "date": "2026-09-05"
         },
         {
           "title": "Tripura blockade turns violent : Protesters clash with police over sick patient passage",
@@ -3219,6 +3490,94 @@
       }
     },
     {
+      "key": "gd-india:abvp-building-centre",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "India",
+      "countries": [
+        "India"
+      ],
+      "domains": [
+        "siasat.com",
+        "newindianexpress.com",
+        "dailypioneer.com",
+        "economictimes.indiatimes.com",
+        "news.webindia123.com",
+        "freepressjournal.in",
+        "timesofindia.indiatimes.com"
+      ],
+      "daysSeen": 3,
+      "articleCount": 13,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-08",
+      "samples": [
+        {
+          "title": "Delhi building collapse : ABVP gathers at Civic Centre to protest",
+          "url": "https://www.siasat.com/delhi-building-collapse-abvp-gathers-at-civic-centre-to-protest-3537643/",
+          "domain": "siasat.com",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "ABVP students protest at Civic Centre over Satya Niketan building collapse",
+          "url": "https://www.newindianexpress.com/cities/delhi/2026/Sep/06/abvp-students-protest-at-civic-centre-over-satya-niketan-building-collapse",
+          "domain": "newindianexpress.com",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "ABVP students protest at Delhi Civic Centre over Satya Niketan collapse",
+          "url": "https://dailypioneer.com/news/abvp-students-protest-delhi-civic-centre-satya-niketan-collapse",
+          "domain": "dailypioneer.com",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "ABVP members detained for protesting over Satya Niketan building collapse at MCD headquarters",
+          "url": "https://economictimes.indiatimes.com/news/india/abvp-protests-at-mcd-headquarters-demands-resignation-after-satya-niketan-building-collapse/articleshow/133845757.cms",
+          "domain": "economictimes.indiatimes.com",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "ABVP protesters vandalise MCD headquarters premises over Satya Niketan building collapse , detained by police",
+          "url": "https://economictimes.indiatimes.com/news/india/abvp-protesters-enter-mcd-headquarters-vandalise-premises-over-satya-niketan-building-collapse-delhi/articleshow/133861653.cms",
+          "domain": "economictimes.indiatimes.com",
+          "date": "2026-09-07"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "india-delhi-building-collapse-abvp-gathers-at",
+        "name": "Delhi building collapse ABVP gathers at",
+        "region": "Asia",
+        "location": "India",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "delhi",
+          "building",
+          "collapse",
+          "abvp",
+          "gathers",
+          "india",
+          "protest"
+        ],
+        "strictKeywords": [
+          "delhi",
+          "building",
+          "collapse",
+          "abvp",
+          "gathers"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Delhi%20building%20collapse%20ABVP%20gathers%20at&hl=en-IN&gl=IN&ceid=IN%3Aen",
+          "https://news.google.com/rss/search?q=India%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "india:abvp-building-centre",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
       "key": "gd-india:elsewhere-hit-hormuz",
       "source": "gdelt",
       "confidence": "low",
@@ -3234,7 +3593,7 @@
         "morungexpress.com"
       ],
       "daysSeen": 3,
-      "articleCount": 5,
+      "articleCount": 7,
       "firstSeen": "2026-09-02",
       "lastSeen": "2026-09-06",
       "samples": [
@@ -3300,6 +3659,138 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "india:elsewhere-hit-hormuz",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-united-kingdom:black-block-boat",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "United Kingdom",
+      "countries": [
+        "United Kingdom"
+      ],
+      "domains": [
+        "bournemouthecho.co.uk",
+        "yorkpress.co.uk",
+        "theboltonnews.co.uk",
+        "eveningnews24.co.uk",
+        "salisburyjournal.co.uk",
+        "ipswichstar.co.uk",
+        "timesandstar.co.uk",
+        "wimbledonguardian.co.uk",
+        "bicesteradvertiser.net",
+        "thisiswiltshire.co.uk",
+        "runcornandwidnesworld.co.uk",
+        "newsandstar.co.uk",
+        "warringtonguardian.co.uk",
+        "chardandilminsternews.co.uk",
+        "cambstimes.co.uk",
+        "dudleynews.co.uk",
+        "hackneygazette.co.uk",
+        "huntspost.co.uk",
+        "midweekherald.co.uk",
+        "rutland-times.co.uk",
+        "lynnnews.co.uk",
+        "thewestmorlandgazette.co.uk",
+        "heraldseries.co.uk",
+        "burytimes.co.uk",
+        "ealingtimes.co.uk",
+        "penarthtimes.co.uk",
+        "greenocktelegraph.co.uk",
+        "newhamrecorder.co.uk",
+        "cotswoldjournal.co.uk",
+        "northwalespioneer.co.uk",
+        "thewestonmercury.co.uk",
+        "royston-crow.co.uk",
+        "cravenherald.co.uk",
+        "dailypost.co.uk",
+        "lbc.co.uk",
+        "burnhamandhighbridgeweeklynews.co.uk",
+        "maldonandburnhamstandard.co.uk",
+        "clactonandfrintongazette.co.uk",
+        "socialistworker.co.uk",
+        "aol.co.uk",
+        "thetelegraphandargus.co.uk",
+        "theargus.co.uk",
+        "echo-news.co.uk",
+        "eadt.co.uk",
+        "thenorthernecho.co.uk",
+        "swindonadvertiser.co.uk",
+        "theguardian.com",
+        "edp24.co.uk",
+        "herefordtimes.com",
+        "channel4.com",
+        "bbc.com",
+        "bbc.co.uk",
+        "express.co.uk"
+      ],
+      "daysSeen": 4,
+      "articleCount": 16,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-08",
+      "samples": [
+        {
+          "title": "Black - clad masked  stop the boat protesters block roads in Dover",
+          "url": "https://www.bournemouthecho.co.uk/news/national/26524910.black-clad-masked-stop-boats-protesters-block-roads-dover/",
+          "domain": "bournemouthecho.co.uk",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Hundreds of masked  stop the boat protesters block port",
+          "url": "https://www.dailypost.co.uk/news/north-wales-news/hundreds-masked-stop-boats-protesters-34573039",
+          "domain": "dailypost.co.uk",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "This is our warning :  Intimidating  masked  stop the boat protesters block roads in Dover",
+          "url": "https://www.lbc.co.uk/article/protesters-boats-dover-migrant-5Hjdh2X_2/",
+          "domain": "lbc.co.uk",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Black - clad masked  stop the boat protesters block roads in Dover | Burnham and Highbridge Weekly News",
+          "url": "https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/26524910.black-clad-masked-stop-boats-protesters-block-roads-dover/",
+          "domain": "burnhamandhighbridgeweeklynews.co.uk",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Black - clad masked  stop the boat protesters block roads in Dover | Maldon and Burnham Standard",
+          "url": "https://www.maldonandburnhamstandard.co.uk/news/national/26524910.black-clad-masked-stop-boats-protesters-block-roads-dover/",
+          "domain": "maldonandburnhamstandard.co.uk",
+          "date": "2026-09-05"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "united-kingdom-black-clad-masked-stop-the",
+        "name": "Black - clad masked stop the",
+        "region": "Europe",
+        "location": "United Kingdom",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "black",
+          "clad",
+          "masked",
+          "stop",
+          "united kingdom",
+          "protest"
+        ],
+        "strictKeywords": [
+          "black",
+          "clad",
+          "masked",
+          "stop"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Black%20-%20clad%20masked%20stop%20the&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "united-kingdom:black-block-boat",
           "wikipedia": ""
         }
       }
