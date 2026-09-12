@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 41
+      "count": 44
     }
   ],
   "sources": [
@@ -827,9 +827,15 @@
     },
     {
       "name": "Daily Post Nigeria",
-      "count": 45,
+      "count": 46,
       "first": "2012-01-05",
-      "last": "2026-09-11"
+      "last": "2026-09-12"
+    },
+    {
+      "name": "Channels Television",
+      "count": 41,
+      "first": "2012-01-04",
+      "last": "2026-09-12"
     },
     {
       "name": "Vanguard News",
@@ -850,12 +856,6 @@
       "last": "2025-12-17"
     },
     {
-      "name": "Channels Television",
-      "count": 27,
-      "first": "2012-01-04",
-      "last": "2026-09-04"
-    },
-    {
       "name": "Punch Newspapers",
       "count": 25,
       "first": "2020-09-04",
@@ -863,7 +863,7 @@
     },
     {
       "name": "Vanguard",
-      "count": 18,
+      "count": 19,
       "first": "2026-09-02",
       "last": "2026-09-12"
     },
@@ -898,12 +898,6 @@
       "last": "2026-03-15"
     },
     {
-      "name": "channelstv.com",
-      "count": 13,
-      "first": "2012-03-14",
-      "last": "2026-06-03"
-    },
-    {
       "name": "Legit News",
       "count": 13,
       "first": "2022-01-02",
@@ -916,16 +910,16 @@
       "last": "2024-08-02"
     },
     {
-      "name": "Business News Nigeria",
-      "count": 11,
-      "first": "2022-01-21",
-      "last": "2026-06-04"
-    },
-    {
       "name": "THISDAYLIVE",
       "count": 11,
       "first": "2023-01-26",
       "last": "2026-02-04"
+    },
+    {
+      "name": "Business News Nigeria",
+      "count": 10,
+      "first": "2022-01-21",
+      "last": "2026-06-04"
     },
     {
       "name": "The Whistler Newspaper",
@@ -1142,6 +1136,12 @@
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
+    },
+    {
+      "name": "businessday.ng",
+      "count": 1,
+      "first": "2024-09-03",
+      "last": "2024-09-03"
     },
     {
       "name": "Channel Africa",
