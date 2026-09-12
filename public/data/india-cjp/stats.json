@@ -31,7 +31,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 266
+      "count": 267
     }
   ],
   "sources": [
@@ -49,9 +49,9 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 46,
+      "count": 47,
       "first": "2026-07-23",
-      "last": "2026-09-10"
+      "last": "2026-09-12"
     },
     {
       "name": "Hindustan Times",
@@ -84,15 +84,15 @@
       "last": "2026-09-09"
     },
     {
-      "name": "ThePrint",
-      "count": 22,
-      "first": "2026-06-19",
-      "last": "2026-09-11"
-    },
-    {
       "name": "Rediff",
       "count": 21,
       "first": "2026-06-07",
+      "last": "2026-09-09"
+    },
+    {
+      "name": "ThePrint",
+      "count": 21,
+      "first": "2026-06-19",
       "last": "2026-09-09"
     },
     {
@@ -594,7 +594,7 @@
       "last": "2026-08-25"
     },
     {
-      "name": "True Scoop",
+      "name": "truescoopnews.com",
       "count": 2,
       "first": "2026-07-23",
       "last": "2026-07-24"
@@ -628,12 +628,6 @@
       "count": 1,
       "first": "2026-08-26",
       "last": "2026-08-26"
-    },
-    {
-      "name": "borgenproject.org",
-      "count": 1,
-      "first": "2026-08-25",
-      "last": "2026-08-25"
     },
     {
       "name": "Britannica",
@@ -676,12 +670,6 @@
       "count": 1,
       "first": "2026-07-31",
       "last": "2026-07-31"
-    },
-    {
-      "name": "civicus lens",
-      "count": 1,
-      "first": "2026-08-04",
-      "last": "2026-08-04"
     },
     {
       "name": "Countercurrents",
@@ -864,16 +852,22 @@
       "last": "2026-08-16"
     },
     {
-      "name": "Law Trend",
+      "name": "LawChakra",
       "count": 1,
       "first": "2026-09-10",
       "last": "2026-09-10"
     },
     {
-      "name": "LawChakra",
+      "name": "lawtrend.in",
       "count": 1,
       "first": "2026-09-10",
       "last": "2026-09-10"
+    },
+    {
+      "name": "lens.civicus.org",
+      "count": 1,
+      "first": "2026-08-04",
+      "last": "2026-08-04"
     },
     {
       "name": "Lokmat.com",
@@ -966,6 +960,12 @@
       "last": "2026-07-30"
     },
     {
+      "name": "Press Trust of India",
+      "count": 1,
+      "first": "2026-09-11",
+      "last": "2026-09-11"
+    },
+    {
       "name": "RANE Worldview",
       "count": 1,
       "first": "2026-08-26",
@@ -988,6 +988,12 @@
       "count": 1,
       "first": "2026-09-01",
       "last": "2026-09-01"
+    },
+    {
+      "name": "The Borgen Project",
+      "count": 1,
+      "first": "2026-08-25",
+      "last": "2026-08-25"
     },
     {
       "name": "The Business Standard",
@@ -1141,5 +1147,5 @@
     }
   ],
   "firstDate": "2026-02-07",
-  "lastDate": "2026-09-11"
+  "lastDate": "2026-09-12"
 }
