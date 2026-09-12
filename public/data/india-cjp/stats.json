@@ -31,14 +31,14 @@
     },
     {
       "start": "2026-09-01",
-      "count": 267
+      "count": 271
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 76,
-      "first": "2026-06-06",
+      "count": 58,
+      "first": "2026-06-21",
       "last": "2026-09-11"
     },
     {
@@ -61,21 +61,21 @@
     },
     {
       "name": "NDTV",
-      "count": 43,
+      "count": 45,
       "first": "2026-05-12",
-      "last": "2026-09-11"
+      "last": "2026-09-12"
+    },
+    {
+      "name": "Telegraph India",
+      "count": 43,
+      "first": "2026-07-21",
+      "last": "2026-09-12"
     },
     {
       "name": "The Times of India",
       "count": 43,
       "first": "2026-06-06",
       "last": "2026-09-09"
-    },
-    {
-      "name": "Telegraph India",
-      "count": 42,
-      "first": "2026-07-21",
-      "last": "2026-09-11"
     },
     {
       "name": "India Today",
@@ -118,6 +118,12 @@
       "count": 19,
       "first": "2026-08-17",
       "last": "2026-09-09"
+    },
+    {
+      "name": "thehindu.com",
+      "count": 19,
+      "first": "2026-06-06",
+      "last": "2026-09-12"
     },
     {
       "name": "EdexLive",
@@ -180,6 +186,12 @@
       "last": "2026-09-06"
     },
     {
+      "name": "TheWire.in",
+      "count": 12,
+      "first": "2026-07-11",
+      "last": "2026-09-09"
+    },
+    {
       "name": "Frontline Magazine",
       "count": 11,
       "first": "2026-07-08",
@@ -196,12 +208,6 @@
       "count": 10,
       "first": "2026-08-15",
       "last": "2026-09-10"
-    },
-    {
-      "name": "TheWire.in",
-      "count": 10,
-      "first": "2026-07-11",
-      "last": "2026-08-19"
     },
     {
       "name": "BBC",
@@ -240,12 +246,6 @@
       "last": "2026-09-03"
     },
     {
-      "name": "ABP Live English",
-      "count": 7,
-      "first": "2026-07-19",
-      "last": "2026-09-01"
-    },
-    {
       "name": "Al Jazeera",
       "count": 7,
       "first": "2026-05-20",
@@ -268,6 +268,12 @@
       "count": 7,
       "first": "2026-06-08",
       "last": "2026-08-04"
+    },
+    {
+      "name": "ABP Live English",
+      "count": 6,
+      "first": "2026-07-19",
+      "last": "2026-09-01"
     },
     {
       "name": "Inshorts",
@@ -394,12 +400,6 @@
       "count": 3,
       "first": "2026-08-14",
       "last": "2026-08-25"
-    },
-    {
-      "name": "The Wire India",
-      "count": 3,
-      "first": "2026-08-06",
-      "last": "2026-09-09"
     },
     {
       "name": "thepamphlet.in",
@@ -594,7 +594,7 @@
       "last": "2026-08-25"
     },
     {
-      "name": "truescoopnews.com",
+      "name": "True Scoop",
       "count": 2,
       "first": "2026-07-23",
       "last": "2026-07-24"
@@ -666,7 +666,13 @@
       "last": "2026-08-23"
     },
     {
-      "name": "cfr.org",
+      "name": "civicus lens",
+      "count": 1,
+      "first": "2026-08-04",
+      "last": "2026-08-04"
+    },
+    {
+      "name": "Council on Foreign Relations",
       "count": 1,
       "first": "2026-07-31",
       "last": "2026-07-31"
@@ -852,22 +858,16 @@
       "last": "2026-08-16"
     },
     {
+      "name": "Law Trend",
+      "count": 1,
+      "first": "2026-09-10",
+      "last": "2026-09-10"
+    },
+    {
       "name": "LawChakra",
       "count": 1,
       "first": "2026-09-10",
       "last": "2026-09-10"
-    },
-    {
-      "name": "lawtrend.in",
-      "count": 1,
-      "first": "2026-09-10",
-      "last": "2026-09-10"
-    },
-    {
-      "name": "lens.civicus.org",
-      "count": 1,
-      "first": "2026-08-04",
-      "last": "2026-08-04"
     },
     {
       "name": "Lokmat.com",
@@ -910,6 +910,12 @@
       "count": 1,
       "first": "2026-08-20",
       "last": "2026-08-20"
+    },
+    {
+      "name": "news.abplive.com",
+      "count": 1,
+      "first": "2026-07-23",
+      "last": "2026-07-23"
     },
     {
       "name": "Newschecker",
@@ -960,7 +966,7 @@
       "last": "2026-07-30"
     },
     {
-      "name": "Press Trust of India",
+      "name": "ptinews.com",
       "count": 1,
       "first": "2026-09-11",
       "last": "2026-09-11"
@@ -1072,6 +1078,12 @@
       "count": 1,
       "first": "2026-08-17",
       "last": "2026-08-17"
+    },
+    {
+      "name": "The Wire India",
+      "count": 1,
+      "first": "2026-08-06",
+      "last": "2026-08-06"
     },
     {
       "name": "The420.in",
