@@ -111,7 +111,7 @@
     },
     {
       "start": "2012-01-01",
-      "count": 36
+      "count": 37
     },
     {
       "start": "2012-02-01",
@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 44
+      "count": 46
     }
   ],
   "sources": [
@@ -827,7 +827,7 @@
     },
     {
       "name": "Daily Post Nigeria",
-      "count": 46,
+      "count": 47,
       "first": "2012-01-05",
       "last": "2026-09-12"
     },
@@ -875,9 +875,9 @@
     },
     {
       "name": "Ripples Nigeria",
-      "count": 16,
+      "count": 17,
       "first": "2023-06-01",
-      "last": "2026-09-05"
+      "last": "2026-09-12"
     },
     {
       "name": "Arise News",
@@ -898,28 +898,22 @@
       "last": "2026-03-15"
     },
     {
-      "name": "Legit News",
-      "count": 13,
-      "first": "2022-01-02",
-      "last": "2025-09-16"
-    },
-    {
       "name": "Al Jazeera",
-      "count": 11,
+      "count": 12,
       "first": "2012-01-04",
       "last": "2024-08-02"
+    },
+    {
+      "name": "Business News Nigeria",
+      "count": 11,
+      "first": "2022-01-21",
+      "last": "2026-06-04"
     },
     {
       "name": "THISDAYLIVE",
       "count": 11,
       "first": "2023-01-26",
       "last": "2026-02-04"
-    },
-    {
-      "name": "Business News Nigeria",
-      "count": 10,
-      "first": "2022-01-21",
-      "last": "2026-06-04"
     },
     {
       "name": "The Whistler Newspaper",
@@ -934,10 +928,22 @@
       "last": "2026-01-29"
     },
     {
+      "name": "legit.ng",
+      "count": 9,
+      "first": "2022-01-02",
+      "last": "2025-09-16"
+    },
+    {
       "name": "The Guardian",
       "count": 8,
       "first": "2012-01-03",
       "last": "2026-01-26"
+    },
+    {
+      "name": "Legit News",
+      "count": 6,
+      "first": "2024-07-30",
+      "last": "2025-06-25"
     },
     {
       "name": "The Nation Newspaper",
@@ -1042,18 +1048,6 @@
       "last": "2024-09-05"
     },
     {
-      "name": "Legit.ng",
-      "count": 2,
-      "first": "2024-09-04",
-      "last": "2024-09-04"
-    },
-    {
-      "name": "Mail & Guardian",
-      "count": 2,
-      "first": "2012-01-16",
-      "last": "2024-03-02"
-    },
-    {
       "name": "Modern Ghana",
       "count": 2,
       "first": "2012-01-05",
@@ -1136,12 +1130,6 @@
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
-    },
-    {
-      "name": "businessday.ng",
-      "count": 1,
-      "first": "2024-09-03",
-      "last": "2024-09-03"
     },
     {
       "name": "Channel Africa",
@@ -1234,6 +1222,12 @@
       "last": "2024-08-21"
     },
     {
+      "name": "Mail & Guardian",
+      "count": 1,
+      "first": "2012-01-16",
+      "last": "2012-01-16"
+    },
+    {
       "name": "MarketForces Africa",
       "count": 1,
       "first": "2024-11-05",
@@ -1244,6 +1238,12 @@
       "count": 1,
       "first": "2025-07-27",
       "last": "2025-07-27"
+    },
+    {
+      "name": "mg.co.za",
+      "count": 1,
+      "first": "2024-03-02",
+      "last": "2024-03-02"
     },
     {
       "name": "Naija News",

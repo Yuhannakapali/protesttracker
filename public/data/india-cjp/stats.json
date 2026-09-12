@@ -31,15 +31,15 @@
     },
     {
       "start": "2026-09-01",
-      "count": 272
+      "count": 273
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 76,
-      "first": "2026-06-06",
-      "last": "2026-09-12"
+      "count": 58,
+      "first": "2026-06-21",
+      "last": "2026-09-11"
     },
     {
       "name": "The Indian Express",
@@ -49,7 +49,7 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 47,
+      "count": 48,
       "first": "2026-07-23",
       "last": "2026-09-12"
     },
@@ -72,16 +72,16 @@
       "last": "2026-09-12"
     },
     {
-      "name": "The Times of India",
-      "count": 43,
-      "first": "2026-06-06",
-      "last": "2026-09-09"
-    },
-    {
       "name": "India Today",
       "count": 34,
       "first": "2026-07-15",
       "last": "2026-09-09"
+    },
+    {
+      "name": "The Times of India",
+      "count": 28,
+      "first": "2026-06-06",
+      "last": "2026-09-06"
     },
     {
       "name": "Rediff",
@@ -120,6 +120,12 @@
       "last": "2026-09-09"
     },
     {
+      "name": "thehindu.com",
+      "count": 19,
+      "first": "2026-06-06",
+      "last": "2026-09-12"
+    },
+    {
       "name": "EdexLive",
       "count": 18,
       "first": "2026-06-06",
@@ -142,6 +148,12 @@
       "count": 15,
       "first": "2026-08-12",
       "last": "2026-09-04"
+    },
+    {
+      "name": "timesofindia.indiatimes.com",
+      "count": 15,
+      "first": "2026-08-18",
+      "last": "2026-09-09"
     },
     {
       "name": "WION",
@@ -804,6 +816,12 @@
       "last": "2026-08-30"
     },
     {
+      "name": "iiss.org",
+      "count": 1,
+      "first": "2026-08-20",
+      "last": "2026-08-20"
+    },
+    {
       "name": "Indiablooms",
       "count": 1,
       "first": "2026-07-30",
@@ -834,7 +852,7 @@
       "last": "2026-08-30"
     },
     {
-      "name": "jurist.org",
+      "name": "Jurist.org",
       "count": 1,
       "first": "2026-07-23",
       "last": "2026-07-23"
@@ -912,7 +930,7 @@
       "last": "2026-08-20"
     },
     {
-      "name": "newschecker.in",
+      "name": "Newschecker",
       "count": 1,
       "first": "2026-08-25",
       "last": "2026-08-25"
@@ -1014,12 +1032,6 @@
       "last": "2026-08-29"
     },
     {
-      "name": "The International Institute for Strategic Studies",
-      "count": 1,
-      "first": "2026-08-20",
-      "last": "2026-08-20"
-    },
-    {
       "name": "The Lallantop",
       "count": 1,
       "first": "2026-08-24",
@@ -1084,12 +1096,6 @@
       "count": 1,
       "first": "2026-09-05",
       "last": "2026-09-05"
-    },
-    {
-      "name": "thehindu.com",
-      "count": 1,
-      "first": "2026-07-07",
-      "last": "2026-07-07"
     },
     {
       "name": "thekashmirimages.com",
