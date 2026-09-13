@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T08:02:22.692Z",
+  "generated": "2026-09-13T08:22:05.632Z",
   "candidates": [
     {
       "key": "wd-Q133441461",
@@ -801,6 +801,270 @@
       }
     },
     {
+      "key": "wd-Q136530158",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United States",
+      "countries": [
+        "United States"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/October_2025_No_Kings_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "united-states-october-no-kings-protests",
+        "name": "October 2025 No Kings protests",
+        "region": "Americas",
+        "location": "United States",
+        "year": 2025,
+        "description": "American anti-Trump protests",
+        "keywords": [
+          "kings",
+          "united states",
+          "protest"
+        ],
+        "strictKeywords": [
+          "kings"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=October%202025%20No%20Kings%20protests&hl=en-US&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136530158",
+          "wikipedia": "https://en.wikipedia.org/wiki/October_2025_No_Kings_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136558858",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Cameroon",
+      "countries": [
+        "Cameroon"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Cameroonian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "cameroon-cameroonian-protests",
+        "name": "2025 Cameroonian protests",
+        "region": "Africa",
+        "location": "Cameroon",
+        "year": 2025,
+        "description": "civil unrest in Cameroon",
+        "keywords": [
+          "cameroonian",
+          "cameroon",
+          "protest"
+        ],
+        "strictKeywords": [
+          "cameroonian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Cameroonian%20protests&hl=en-CM&gl=CM&ceid=CM%3Aen",
+          "https://news.google.com/rss/search?q=Cameroon%20protest&hl=en-CM&gl=CM&ceid=CM%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136558858",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Cameroonian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136682955",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Tanzania",
+      "countries": [
+        "Tanzania"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Tanzanian_election_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "tanzania-tanzanian-election-protests",
+        "name": "2025 Tanzanian election protests",
+        "region": "Africa",
+        "location": "Tanzania",
+        "year": 2025,
+        "description": "احتجاجات واسعة اندلعت في تنزانيا أواخر أكتوبر 2025",
+        "keywords": [
+          "tanzanian",
+          "election",
+          "tanzania",
+          "protest"
+        ],
+        "strictKeywords": [
+          "tanzanian",
+          "election"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Tanzanian%20election%20protests&hl=en-TZ&gl=TZ&ceid=TZ%3Aen",
+          "https://news.google.com/rss/search?q=Tanzania%20protest&hl=en-TZ&gl=TZ&ceid=TZ%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136682955",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Tanzanian_election_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136723049",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Togo",
+      "countries": [
+        "Togo"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Togolese_Gen_Z_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "togo-togolese-gen-z-protests",
+        "name": "2025 Togolese Gen Z protests",
+        "region": "Africa",
+        "location": "Togo",
+        "year": 2025,
+        "description": "anti-government civil unrest in Togo",
+        "keywords": [
+          "togolese",
+          "gen",
+          "togo",
+          "protest"
+        ],
+        "strictKeywords": [
+          "togolese",
+          "gen"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Togolese%20Gen%20Z%20protests&hl=en-TG&gl=TG&ceid=TG%3Aen",
+          "https://news.google.com/rss/search?q=Togo%20protest&hl=en-TG&gl=TG&ceid=TG%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136723049",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Togolese_Gen_Z_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136799328",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Mexico",
+      "countries": [
+        "Mexico"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Mexican_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "mexico-mexican-protests",
+        "name": "2025 Mexican protests",
+        "region": "Americas",
+        "location": "Mexico",
+        "year": 2025,
+        "description": "Series of protests in Mexico led mainly by Generation Z during the 2020s",
+        "keywords": [
+          "mexican",
+          "mexico",
+          "protest"
+        ],
+        "strictKeywords": [
+          "mexican"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Mexican%20protests&hl=en-MX&gl=MX&ceid=MX%3Aen",
+          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136799328",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Mexican_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q137366682",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Bulgaria",
+      "countries": [
+        "Bulgaria",
+        "Czech Republic",
+        "Germany",
+        "United Kingdom",
+        "Netherlands",
+        "Austria",
+        "Belgium",
+        "United States",
+        "Spain"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "bulgaria-bulgarian-protests",
+        "name": "2025 Bulgarian protests",
+        "region": "Europe",
+        "location": "Bulgaria",
+        "year": 2025,
+        "description": "Gen Z protests over increasing taxes",
+        "keywords": [
+          "bulgarian",
+          "bulgaria",
+          "protest"
+        ],
+        "strictKeywords": [
+          "bulgarian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en-BG&gl=BG&ceid=BG%3Aen",
+          "https://news.google.com/rss/search?q=Bulgaria%20protest&hl=en-BG&gl=BG&ceid=BG%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q137366682",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q137612545",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Iran",
+      "countries": [
+        "Iran"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "iran-iranian-protests",
+        "name": "2025–2026 Iranian protests",
+        "region": "Middle East",
+        "location": "Iran",
+        "year": 2025,
+        "description": "2025–2026 protests against the Islamic Republic",
+        "keywords": [
+          "iranian",
+          "iran",
+          "protest"
+        ],
+        "strictKeywords": [
+          "iranian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Iranian%20protests&hl=en-IR&gl=IR&ceid=IR%3Aen",
+          "https://news.google.com/rss/search?q=Iran%20protest&hl=en-IR&gl=IR&ceid=IR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q137612545",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests"
+        }
+      }
+    },
+    {
       "key": "wd-Q136311323",
       "source": "wikidata",
       "confidence": "high",
@@ -1168,270 +1432,6 @@
         "_source": {
           "wikidata": "Q136497544",
           "wikipedia": "https://en.wikipedia.org/wiki/2025_Maldivian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136530158",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United States",
-      "countries": [
-        "United States"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/October_2025_No_Kings_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "united-states-october-no-kings-protests",
-        "name": "October 2025 No Kings protests",
-        "region": "Americas",
-        "location": "United States",
-        "year": 2025,
-        "description": "American anti-Trump protests",
-        "keywords": [
-          "kings",
-          "united states",
-          "protest"
-        ],
-        "strictKeywords": [
-          "kings"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=October%202025%20No%20Kings%20protests&hl=en-US&gl=US&ceid=US%3Aen",
-          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136530158",
-          "wikipedia": "https://en.wikipedia.org/wiki/October_2025_No_Kings_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136558858",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Cameroon",
-      "countries": [
-        "Cameroon"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Cameroonian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "cameroon-cameroonian-protests",
-        "name": "2025 Cameroonian protests",
-        "region": "Africa",
-        "location": "Cameroon",
-        "year": 2025,
-        "description": "civil unrest in Cameroon",
-        "keywords": [
-          "cameroonian",
-          "cameroon",
-          "protest"
-        ],
-        "strictKeywords": [
-          "cameroonian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Cameroonian%20protests&hl=en-CM&gl=CM&ceid=CM%3Aen",
-          "https://news.google.com/rss/search?q=Cameroon%20protest&hl=en-CM&gl=CM&ceid=CM%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136558858",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Cameroonian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136682955",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Tanzania",
-      "countries": [
-        "Tanzania"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Tanzanian_election_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "tanzania-tanzanian-election-protests",
-        "name": "2025 Tanzanian election protests",
-        "region": "Africa",
-        "location": "Tanzania",
-        "year": 2025,
-        "description": "احتجاجات واسعة اندلعت في تنزانيا أواخر أكتوبر 2025",
-        "keywords": [
-          "tanzanian",
-          "election",
-          "tanzania",
-          "protest"
-        ],
-        "strictKeywords": [
-          "tanzanian",
-          "election"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Tanzanian%20election%20protests&hl=en-TZ&gl=TZ&ceid=TZ%3Aen",
-          "https://news.google.com/rss/search?q=Tanzania%20protest&hl=en-TZ&gl=TZ&ceid=TZ%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136682955",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Tanzanian_election_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136723049",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Togo",
-      "countries": [
-        "Togo"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Togolese_Gen_Z_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "togo-togolese-gen-z-protests",
-        "name": "2025 Togolese Gen Z protests",
-        "region": "Africa",
-        "location": "Togo",
-        "year": 2025,
-        "description": "anti-government civil unrest in Togo",
-        "keywords": [
-          "togolese",
-          "gen",
-          "togo",
-          "protest"
-        ],
-        "strictKeywords": [
-          "togolese",
-          "gen"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Togolese%20Gen%20Z%20protests&hl=en-TG&gl=TG&ceid=TG%3Aen",
-          "https://news.google.com/rss/search?q=Togo%20protest&hl=en-TG&gl=TG&ceid=TG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136723049",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Togolese_Gen_Z_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136799328",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Mexico",
-      "countries": [
-        "Mexico"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Mexican_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "mexico-mexican-protests",
-        "name": "2025 Mexican protests",
-        "region": "Americas",
-        "location": "Mexico",
-        "year": 2025,
-        "description": "Series of protests in Mexico led mainly by Generation Z during the 2020s",
-        "keywords": [
-          "mexican",
-          "mexico",
-          "protest"
-        ],
-        "strictKeywords": [
-          "mexican"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Mexican%20protests&hl=en-MX&gl=MX&ceid=MX%3Aen",
-          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136799328",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Mexican_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q137366682",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Bulgaria",
-      "countries": [
-        "Bulgaria",
-        "Czech Republic",
-        "Germany",
-        "United Kingdom",
-        "Netherlands",
-        "Austria",
-        "Belgium",
-        "United States",
-        "Spain"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "bulgaria-bulgarian-protests",
-        "name": "2025 Bulgarian protests",
-        "region": "Europe",
-        "location": "Bulgaria",
-        "year": 2025,
-        "description": "Gen Z protests over increasing taxes",
-        "keywords": [
-          "bulgarian",
-          "bulgaria",
-          "protest"
-        ],
-        "strictKeywords": [
-          "bulgarian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en-BG&gl=BG&ceid=BG%3Aen",
-          "https://news.google.com/rss/search?q=Bulgaria%20protest&hl=en-BG&gl=BG&ceid=BG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q137366682",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q137612545",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Iran",
-      "countries": [
-        "Iran"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "iran-iranian-protests",
-        "name": "2025–2026 Iranian protests",
-        "region": "Middle East",
-        "location": "Iran",
-        "year": 2025,
-        "description": "2025–2026 protests against the Islamic Republic",
-        "keywords": [
-          "iranian",
-          "iran",
-          "protest"
-        ],
-        "strictKeywords": [
-          "iranian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Iranian%20protests&hl=en-IR&gl=IR&ceid=IR%3Aen",
-          "https://news.google.com/rss/search?q=Iran%20protest&hl=en-IR&gl=IR&ceid=IR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q137612545",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests"
         }
       }
     },
