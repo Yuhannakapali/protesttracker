@@ -419,7 +419,7 @@
     },
     {
       "start": "2023-07-01",
-      "count": 3
+      "count": 4
     },
     {
       "start": "2023-08-01",
@@ -684,12 +684,6 @@
       "last": "2019-03-21"
     },
     {
-      "name": "Análisis Digital",
-      "count": 3,
-      "first": "2026-05-28",
-      "last": "2026-07-27"
-    },
-    {
       "name": "BioBioChile",
       "count": 3,
       "first": "2014-11-04",
@@ -726,6 +720,12 @@
       "last": "2022-03-31"
     },
     {
+      "name": "The Guardian",
+      "count": 3,
+      "first": "2016-08-21",
+      "last": "2019-10-30"
+    },
+    {
       "name": "The New York Times",
       "count": 3,
       "first": "2016-09-10",
@@ -748,6 +748,12 @@
       "count": 2,
       "first": "2026-06-24",
       "last": "2026-07-29"
+    },
+    {
+      "name": "Análisis Digital",
+      "count": 2,
+      "first": "2026-05-28",
+      "last": "2026-07-27"
     },
     {
       "name": "Cooperativa",
@@ -778,6 +784,12 @@
       "count": 2,
       "first": "2018-04-19",
       "last": "2019-03-21"
+    },
+    {
+      "name": "El Miércoles Digital",
+      "count": 2,
+      "first": "2026-07-24",
+      "last": "2026-07-30"
     },
     {
       "name": "Ex-ante",
@@ -834,22 +846,10 @@
       "last": "2025-01-29"
     },
     {
-      "name": "South China Morning Post",
-      "count": 2,
-      "first": "2019-10-23",
-      "last": "2022-03-12"
-    },
-    {
       "name": "The Nation Newspaper",
       "count": 2,
       "first": "2024-02-07",
       "last": "2025-11-29"
-    },
-    {
-      "name": "theguardian.com",
-      "count": 2,
-      "first": "2016-08-21",
-      "last": "2019-10-24"
     },
     {
       "name": "TN",
@@ -900,7 +900,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "atacamanoticias.cl",
+      "name": "Atacama Noticias",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
@@ -978,7 +978,7 @@
       "last": "2025-09-29"
     },
     {
-      "name": "comunicaciones.congreso.gob.pe",
+      "name": "Congreso",
       "count": 1,
       "first": "2021-03-23",
       "last": "2021-03-23"
@@ -1024,12 +1024,6 @@
       "count": 1,
       "first": "2025-06-27",
       "last": "2025-06-27"
-    },
-    {
-      "name": "El Miércoles Digital",
-      "count": 1,
-      "first": "2026-07-30",
-      "last": "2026-07-30"
     },
     {
       "name": "El Nacional — La voz de todos",
@@ -1248,6 +1242,12 @@
       "last": "2024-12-27"
     },
     {
+      "name": "Meganoticias",
+      "count": 1,
+      "first": "2023-07-23",
+      "last": "2023-07-23"
+    },
+    {
       "name": "MercoPress",
       "count": 1,
       "first": "2017-03-27",
@@ -1302,7 +1302,7 @@
       "last": "2026-08-06"
     },
     {
-      "name": "Novara Media",
+      "name": "novaramedia.com",
       "count": 1,
       "first": "2019-10-25",
       "last": "2019-10-25"
@@ -1350,7 +1350,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "proceso.com.mx",
+      "name": "Proceso",
       "count": 1,
       "first": "2016-08-22",
       "last": "2016-08-22"
@@ -1416,6 +1416,18 @@
       "last": "2025-09-24"
     },
     {
+      "name": "scmp.com",
+      "count": 1,
+      "first": "2019-10-23",
+      "last": "2019-10-23"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 1,
+      "first": "2022-03-12",
+      "last": "2022-03-12"
+    },
+    {
       "name": "Sydney Criminal Lawyers",
       "count": 1,
       "first": "2020-03-17",
@@ -1432,12 +1444,6 @@
       "count": 1,
       "first": "2019-11-11",
       "last": "2019-11-11"
-    },
-    {
-      "name": "The Guardian",
-      "count": 1,
-      "first": "2019-10-30",
-      "last": "2019-10-30"
     },
     {
       "name": "The Independent",
@@ -1506,7 +1512,7 @@
       "last": "2026-08-02"
     },
     {
-      "name": "vice.com",
+      "name": "VICE",
       "count": 1,
       "first": "2019-10-28",
       "last": "2019-10-28"
