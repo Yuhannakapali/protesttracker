@@ -719,7 +719,7 @@
     },
     {
       "start": "2024-09-01",
-      "count": 42
+      "count": 43
     },
     {
       "start": "2024-10-01",
@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 48
+      "count": 51
     }
   ],
   "sources": [
@@ -827,15 +827,9 @@
     },
     {
       "name": "Daily Post Nigeria",
-      "count": 48,
+      "count": 50,
       "first": "2012-01-05",
       "last": "2026-09-13"
-    },
-    {
-      "name": "Channels Television",
-      "count": 41,
-      "first": "2012-01-04",
-      "last": "2026-09-12"
     },
     {
       "name": "Vanguard News",
@@ -856,6 +850,12 @@
       "last": "2025-12-17"
     },
     {
+      "name": "Channels Television",
+      "count": 26,
+      "first": "2012-01-04",
+      "last": "2026-09-12"
+    },
+    {
       "name": "Punch Newspapers",
       "count": 25,
       "first": "2020-09-04",
@@ -863,9 +863,9 @@
     },
     {
       "name": "Vanguard",
-      "count": 19,
+      "count": 20,
       "first": "2026-09-02",
-      "last": "2026-09-12"
+      "last": "2026-09-13"
     },
     {
       "name": "PM News Nigeria",
@@ -884,6 +884,12 @@
       "count": 15,
       "first": "2023-06-02",
       "last": "2026-06-04"
+    },
+    {
+      "name": "channelstv.com",
+      "count": 15,
+      "first": "2012-03-14",
+      "last": "2026-06-03"
     },
     {
       "name": "The Sun Nigeria",
@@ -1048,12 +1054,6 @@
       "last": "2024-09-04"
     },
     {
-      "name": "Mail & Guardian",
-      "count": 2,
-      "first": "2012-01-16",
-      "last": "2024-03-02"
-    },
-    {
       "name": "Modern Ghana",
       "count": 2,
       "first": "2012-01-05",
@@ -1064,6 +1064,12 @@
       "count": 2,
       "first": "2024-09-02",
       "last": "2026-08-19"
+    },
+    {
+      "name": "nigerianeye.com",
+      "count": 2,
+      "first": "2024-09-04",
+      "last": "2026-06-08"
     },
     {
       "name": "Opinion Nigeria",
@@ -1240,6 +1246,12 @@
       "last": "2026-06-04"
     },
     {
+      "name": "Mail & Guardian",
+      "count": 1,
+      "first": "2012-01-16",
+      "last": "2012-01-16"
+    },
+    {
       "name": "MarketForces Africa",
       "count": 1,
       "first": "2024-11-05",
@@ -1250,6 +1262,12 @@
       "count": 1,
       "first": "2025-07-27",
       "last": "2025-07-27"
+    },
+    {
+      "name": "mg.co.za",
+      "count": 1,
+      "first": "2024-03-02",
+      "last": "2024-03-02"
     },
     {
       "name": "Naija News",
@@ -1268,12 +1286,6 @@
       "count": 1,
       "first": "2024-09-05",
       "last": "2024-09-05"
-    },
-    {
-      "name": "nigerianeye.com",
-      "count": 1,
-      "first": "2026-06-08",
-      "last": "2026-06-08"
     },
     {
       "name": "nlcng.org",

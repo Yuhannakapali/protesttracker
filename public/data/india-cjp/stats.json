@@ -37,8 +37,8 @@
   "sources": [
     {
       "name": "The Hindu",
-      "count": 54,
-      "first": "2026-06-21",
+      "count": 75,
+      "first": "2026-06-06",
       "last": "2026-09-12"
     },
     {
@@ -82,12 +82,6 @@
       "count": 34,
       "first": "2026-07-15",
       "last": "2026-09-09"
-    },
-    {
-      "name": "thehindu.com",
-      "count": 23,
-      "first": "2026-06-06",
-      "last": "2026-09-08"
     },
     {
       "name": "ThePrint",
@@ -144,16 +138,16 @@
       "last": "2026-09-08"
     },
     {
-      "name": "The News Mill",
-      "count": 15,
-      "first": "2026-08-12",
-      "last": "2026-09-04"
-    },
-    {
       "name": "WION",
       "count": 15,
       "first": "2026-07-23",
       "last": "2026-09-03"
+    },
+    {
+      "name": "The News Mill",
+      "count": 14,
+      "first": "2026-08-12",
+      "last": "2026-09-04"
     },
     {
       "name": "Deccan Chronicle",
@@ -180,12 +174,6 @@
       "last": "2026-09-06"
     },
     {
-      "name": "TheWire.in",
-      "count": 12,
-      "first": "2026-07-11",
-      "last": "2026-09-09"
-    },
-    {
       "name": "Frontline Magazine",
       "count": 11,
       "first": "2026-07-08",
@@ -208,6 +196,12 @@
       "count": 10,
       "first": "2026-08-15",
       "last": "2026-09-10"
+    },
+    {
+      "name": "TheWire.in",
+      "count": 10,
+      "first": "2026-07-11",
+      "last": "2026-08-19"
     },
     {
       "name": "BBC",
@@ -276,6 +270,12 @@
       "last": "2026-09-04"
     },
     {
+      "name": "The Guardian",
+      "count": 7,
+      "first": "2026-06-08",
+      "last": "2026-08-04"
+    },
+    {
       "name": "Inshorts",
       "count": 6,
       "first": "2026-08-16",
@@ -310,12 +310,6 @@
       "count": 5,
       "first": "2026-08-19",
       "last": "2026-09-09"
-    },
-    {
-      "name": "theguardian.com",
-      "count": 5,
-      "first": "2026-07-20",
-      "last": "2026-07-27"
     },
     {
       "name": "Times Now",
@@ -402,6 +396,12 @@
       "last": "2026-08-25"
     },
     {
+      "name": "The Wire India",
+      "count": 3,
+      "first": "2026-08-06",
+      "last": "2026-09-09"
+    },
+    {
       "name": "thepamphlet.in",
       "count": 3,
       "first": "2026-08-21",
@@ -460,6 +460,12 @@
       "count": 2,
       "first": "2026-08-22",
       "last": "2026-09-01"
+    },
+    {
+      "name": "GujaratSamachar English",
+      "count": 2,
+      "first": "2026-08-24",
+      "last": "2026-09-07"
     },
     {
       "name": "Hindusthan Samachar English",
@@ -564,12 +570,6 @@
       "last": "2026-08-04"
     },
     {
-      "name": "The Guardian",
-      "count": 2,
-      "first": "2026-06-08",
-      "last": "2026-08-04"
-    },
-    {
       "name": "The Japan Times",
       "count": 2,
       "first": "2026-08-08",
@@ -594,7 +594,13 @@
       "last": "2026-08-25"
     },
     {
-      "name": "True Scoop",
+      "name": "thehindu.com",
+      "count": 2,
+      "first": "2026-07-22",
+      "last": "2026-09-03"
+    },
+    {
+      "name": "truescoopnews.com",
       "count": 2,
       "first": "2026-07-23",
       "last": "2026-07-24"
@@ -604,12 +610,6 @@
       "count": 2,
       "first": "2026-08-20",
       "last": "2026-08-21"
-    },
-    {
-      "name": "Zee News",
-      "count": 2,
-      "first": "2026-07-30",
-      "last": "2026-08-17"
     },
     {
       "name": "ACLED",
@@ -672,16 +672,16 @@
       "last": "2026-08-23"
     },
     {
-      "name": "cfr.org",
-      "count": 1,
-      "first": "2026-07-31",
-      "last": "2026-07-31"
-    },
-    {
       "name": "civicus lens",
       "count": 1,
       "first": "2026-08-04",
       "last": "2026-08-04"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "count": 1,
+      "first": "2026-07-31",
+      "last": "2026-07-31"
     },
     {
       "name": "Countercurrents",
@@ -744,12 +744,6 @@
       "last": "2026-08-22"
     },
     {
-      "name": "english.gujaratsamachar.com",
-      "count": 1,
-      "first": "2026-09-07",
-      "last": "2026-09-07"
-    },
-    {
       "name": "ETLegalWorld.com",
       "count": 1,
       "first": "2026-08-24",
@@ -792,12 +786,6 @@
       "last": "2026-08-21"
     },
     {
-      "name": "GujaratSamachar English",
-      "count": 1,
-      "first": "2026-08-24",
-      "last": "2026-08-24"
-    },
-    {
       "name": "Gulf News",
       "count": 1,
       "first": "2026-08-18",
@@ -820,12 +808,6 @@
       "count": 1,
       "first": "2026-08-30",
       "last": "2026-08-30"
-    },
-    {
-      "name": "iiss.org",
-      "count": 1,
-      "first": "2026-08-20",
-      "last": "2026-08-20"
     },
     {
       "name": "Indiablooms",
@@ -978,7 +960,7 @@
       "last": "2026-08-30"
     },
     {
-      "name": "pratidintime.com",
+      "name": "Pratidin Time",
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
@@ -1030,6 +1012,12 @@
       "count": 1,
       "first": "2026-08-29",
       "last": "2026-08-29"
+    },
+    {
+      "name": "The International Institute for Strategic Studies",
+      "count": 1,
+      "first": "2026-08-20",
+      "last": "2026-08-20"
     },
     {
       "name": "The Lallantop",
@@ -1092,12 +1080,6 @@
       "last": "2026-08-17"
     },
     {
-      "name": "The Wire India",
-      "count": 1,
-      "first": "2026-08-06",
-      "last": "2026-08-06"
-    },
-    {
       "name": "The420.in",
       "count": 1,
       "first": "2026-09-05",
@@ -1108,6 +1090,12 @@
       "count": 1,
       "first": "2026-09-04",
       "last": "2026-09-04"
+    },
+    {
+      "name": "thenewsmill.com",
+      "count": 1,
+      "first": "2026-08-23",
+      "last": "2026-08-23"
     },
     {
       "name": "thepublicworld.com",
@@ -1162,6 +1150,18 @@
       "count": 1,
       "first": "2026-09-02",
       "last": "2026-09-02"
+    },
+    {
+      "name": "Zee News",
+      "count": 1,
+      "first": "2026-08-17",
+      "last": "2026-08-17"
+    },
+    {
+      "name": "zeenews.india.com",
+      "count": 1,
+      "first": "2026-07-30",
+      "last": "2026-07-30"
     },
     {
       "name": "조선일보",
