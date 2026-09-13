@@ -726,12 +726,6 @@
       "last": "2022-03-31"
     },
     {
-      "name": "The Guardian",
-      "count": 3,
-      "first": "2016-08-21",
-      "last": "2019-10-30"
-    },
-    {
       "name": "The New York Times",
       "count": 3,
       "first": "2016-09-10",
@@ -852,6 +846,12 @@
       "last": "2025-11-29"
     },
     {
+      "name": "theguardian.com",
+      "count": 2,
+      "first": "2016-08-21",
+      "last": "2019-10-24"
+    },
+    {
       "name": "TN",
       "count": 2,
       "first": "2023-04-06",
@@ -900,13 +900,13 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Atacama Noticias",
+      "name": "atacamanoticias.cl",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
     },
     {
-      "name": "atlanticcouncil.org",
+      "name": "Atlantic Council",
       "count": 1,
       "first": "2019-12-09",
       "last": "2019-12-09"
@@ -978,7 +978,7 @@
       "last": "2025-09-29"
     },
     {
-      "name": "Congreso",
+      "name": "comunicaciones.congreso.gob.pe",
       "count": 1,
       "first": "2021-03-23",
       "last": "2021-03-23"
@@ -1350,7 +1350,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Proceso",
+      "name": "proceso.com.mx",
       "count": 1,
       "first": "2016-08-22",
       "last": "2016-08-22"
@@ -1434,6 +1434,12 @@
       "last": "2019-11-11"
     },
     {
+      "name": "The Guardian",
+      "count": 1,
+      "first": "2019-10-30",
+      "last": "2019-10-30"
+    },
+    {
       "name": "The Independent",
       "count": 1,
       "first": "2019-11-30",
@@ -1500,7 +1506,7 @@
       "last": "2026-08-02"
     },
     {
-      "name": "VICE",
+      "name": "vice.com",
       "count": 1,
       "first": "2019-10-28",
       "last": "2019-10-28"
