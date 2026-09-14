@@ -31,7 +31,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 280
+      "count": 281
     }
   ],
   "sources": [
@@ -67,9 +67,9 @@
     },
     {
       "name": "Telegraph India",
-      "count": 43,
+      "count": 44,
       "first": "2026-07-21",
-      "last": "2026-09-12"
+      "last": "2026-09-14"
     },
     {
       "name": "The Times of India",
@@ -180,12 +180,6 @@
       "last": "2026-09-06"
     },
     {
-      "name": "TheWire.in",
-      "count": 12,
-      "first": "2026-07-11",
-      "last": "2026-09-09"
-    },
-    {
       "name": "Frontline Magazine",
       "count": 11,
       "first": "2026-07-08",
@@ -202,6 +196,12 @@
       "count": 10,
       "first": "2026-08-15",
       "last": "2026-09-10"
+    },
+    {
+      "name": "TheWire.in",
+      "count": 10,
+      "first": "2026-07-11",
+      "last": "2026-08-19"
     },
     {
       "name": "BBC",
@@ -270,12 +270,6 @@
       "last": "2026-09-04"
     },
     {
-      "name": "The Guardian",
-      "count": 7,
-      "first": "2026-06-08",
-      "last": "2026-08-04"
-    },
-    {
       "name": "Inshorts",
       "count": 6,
       "first": "2026-08-16",
@@ -310,6 +304,12 @@
       "count": 5,
       "first": "2026-08-19",
       "last": "2026-09-09"
+    },
+    {
+      "name": "theguardian.com",
+      "count": 5,
+      "first": "2026-07-20",
+      "last": "2026-07-27"
     },
     {
       "name": "Times Now",
@@ -394,6 +394,12 @@
       "count": 3,
       "first": "2026-08-14",
       "last": "2026-08-25"
+    },
+    {
+      "name": "The Wire India",
+      "count": 3,
+      "first": "2026-08-06",
+      "last": "2026-09-09"
     },
     {
       "name": "thepamphlet.in",
@@ -564,6 +570,12 @@
       "last": "2026-08-04"
     },
     {
+      "name": "The Guardian",
+      "count": 2,
+      "first": "2026-06-08",
+      "last": "2026-08-04"
+    },
+    {
       "name": "The Japan Times",
       "count": 2,
       "first": "2026-08-08",
@@ -630,7 +642,7 @@
       "last": "2026-08-26"
     },
     {
-      "name": "Britannica",
+      "name": "britannica.com",
       "count": 1,
       "first": "2026-07-25",
       "last": "2026-07-25"
@@ -666,16 +678,16 @@
       "last": "2026-08-23"
     },
     {
-      "name": "cfr.org",
-      "count": 1,
-      "first": "2026-07-31",
-      "last": "2026-07-31"
-    },
-    {
       "name": "civicus lens",
       "count": 1,
       "first": "2026-08-04",
       "last": "2026-08-04"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "count": 1,
+      "first": "2026-07-31",
+      "last": "2026-07-31"
     },
     {
       "name": "Countercurrents",
@@ -864,7 +876,7 @@
       "last": "2026-09-10"
     },
     {
-      "name": "LawChakra",
+      "name": "lawchakra.in",
       "count": 1,
       "first": "2026-09-10",
       "last": "2026-09-10"
@@ -1050,12 +1062,6 @@
       "last": "2026-08-22"
     },
     {
-      "name": "The Probe",
-      "count": 1,
-      "first": "2026-07-30",
-      "last": "2026-07-30"
-    },
-    {
       "name": "The Quint",
       "count": 1,
       "first": "2026-08-18",
@@ -1074,12 +1080,6 @@
       "last": "2026-08-17"
     },
     {
-      "name": "The Wire India",
-      "count": 1,
-      "first": "2026-08-06",
-      "last": "2026-08-06"
-    },
-    {
       "name": "The420.in",
       "count": 1,
       "first": "2026-09-05",
@@ -1090,6 +1090,12 @@
       "count": 1,
       "first": "2026-09-04",
       "last": "2026-09-04"
+    },
+    {
+      "name": "theprobe.in",
+      "count": 1,
+      "first": "2026-07-30",
+      "last": "2026-07-30"
     },
     {
       "name": "thepublicworld.com",
@@ -1159,5 +1165,5 @@
     }
   ],
   "firstDate": "2026-02-07",
-  "lastDate": "2026-09-13"
+  "lastDate": "2026-09-14"
 }

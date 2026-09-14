@@ -148,12 +148,6 @@
   ],
   "sources": [
     {
-      "name": "Daily Nation",
-      "count": 49,
-      "first": "2024-06-19",
-      "last": "2026-08-10"
-    },
-    {
       "name": "People Daily",
       "count": 44,
       "first": "2025-11-02",
@@ -170,6 +164,18 @@
       "count": 30,
       "first": "2024-12-27",
       "last": "2026-08-27"
+    },
+    {
+      "name": "nation.africa",
+      "count": 26,
+      "first": "2024-06-19",
+      "last": "2026-08-10"
+    },
+    {
+      "name": "Daily Nation",
+      "count": 23,
+      "first": "2024-06-25",
+      "last": "2026-06-26"
     },
     {
       "name": "Al Jazeera",
@@ -520,7 +526,7 @@
       "last": "2026-06-25"
     },
     {
-      "name": "EWN",
+      "name": "ewn.co.za",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -532,7 +538,7 @@
       "last": "2024-06-27"
     },
     {
-      "name": "Free Malaysia Today",
+      "name": "freemalaysiatoday.com",
       "count": 1,
       "first": "2026-06-26",
       "last": "2026-06-26"

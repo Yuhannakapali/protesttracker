@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T22:08:14.896Z",
+  "lastUpdated": "2026-09-14T03:31:30.165Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -10,10 +10,15 @@
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 1035,
-      "updated": "22h ago",
+      "articleCount": 1036,
+      "updated": "4h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
+        {
+          "title": "CPM takes cue from Cockroach success, youth connect with new political voabulary",
+          "source": "Telegraph India",
+          "date": "2026-09-14"
+        },
         {
           "title": "'I resign as CM': CJP's Abhijeet Dipke mocks MP govt after Balaghat heckling",
           "source": "The Times of India",
@@ -23,40 +28,35 @@
           "title": "Abhijeet Dipke 'Resigns As MP CM': Why Cockroach Janta Party Founder Visited Balaghat",
           "source": "News18",
           "date": "2026-09-13"
-        },
-        {
-          "title": "‘I resign as MP CM’: CJP founder Abhijeet Dipke's satirical letter after Balaghat heckling",
-          "source": "Livemint",
-          "date": "2026-09-13"
         }
       ]
     },
     {
       "id": "nigeria-fuel",
       "name": "Fuel Subsidy Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Africa",
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 593,
-      "updated": "22h ago",
+      "articleCount": 595,
+      "updated": "4h ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
         {
-          "title": "Fuel price rise deepens pressure on Nigerians",
+          "title": "Fuel price rises, deepens pressure on homes, businesses",
           "source": "Vanguard",
-          "date": "2026-09-13"
+          "date": "2026-09-14"
+        },
+        {
+          "title": "School resumption: Parents lament as fees go up 40%",
+          "source": "Vanguard",
+          "date": "2026-09-14"
         },
         {
           "title": "‘N3,000 can sustain average Nigerian daily’ – Reno Omokri",
           "source": "Daily Post Nigeria",
-          "date": "2026-09-13"
-        },
-        {
-          "title": "ASUU Strike: Atiku condemns Tinubu’s handling of subsidy earnings",
-          "source": "Vanguard",
           "date": "2026-09-13"
         }
       ]
@@ -71,7 +71,7 @@
       "year": 2025,
       "logged": "2025-09-15",
       "articleCount": 309,
-      "updated": "22h ago",
+      "updated": "1d ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
         {
@@ -111,7 +111,7 @@
         },
         {
           "title": "Ruto Says Criticising Govt Should Not Cost Kenyans Their Lives",
-          "source": "allAfrica.com",
+          "source": "allafrica.com",
           "date": "2026-08-28"
         },
         {
