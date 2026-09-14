@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13T08:22:05.632Z",
+  "generated": "2026-09-14T08:58:38.693Z",
   "candidates": [
     {
       "key": "wd-Q133441461",
@@ -383,46 +383,6 @@
       }
     },
     {
-      "key": "wd-Q140773593",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Italy",
-      "countries": [
-        "Italy"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
-      "needsName": false,
-      "suggested": {
-        "id": "italy-susa-valley-conflict",
-        "name": "2026 Susa Valley conflict",
-        "region": "Europe",
-        "location": "Italy",
-        "year": 2026,
-        "description": "civil unrest in Italy",
-        "keywords": [
-          "susa",
-          "valley",
-          "conflict",
-          "italy",
-          "protest"
-        ],
-        "strictKeywords": [
-          "susa",
-          "valley",
-          "conflict"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
-          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140773593",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
-        }
-      }
-    },
-    {
       "key": "wd-Q135264147",
       "source": "wikidata",
       "confidence": "high",
@@ -797,6 +757,46 @@
         "_source": {
           "wikidata": "Q136160164",
           "wikipedia": "https://en.wikipedia.org/wiki/2025_Nepalese_Gen_Z_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140773593",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Italy",
+      "countries": [
+        "Italy"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
+      "needsName": false,
+      "suggested": {
+        "id": "italy-susa-valley-conflict",
+        "name": "2026 Susa Valley conflict",
+        "region": "Europe",
+        "location": "Italy",
+        "year": 2026,
+        "description": "civil unrest in Italy",
+        "keywords": [
+          "susa",
+          "valley",
+          "conflict",
+          "italy",
+          "protest"
+        ],
+        "strictKeywords": [
+          "susa",
+          "valley",
+          "conflict"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
+          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140773593",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
         }
       }
     },
@@ -3159,10 +3159,11 @@
         "thehindu.com",
         "barandbench.com",
         "dailypioneer.com",
-        "freepressjournal.in"
+        "freepressjournal.in",
+        "mid-day.com"
       ],
       "daysSeen": 8,
-      "articleCount": 13,
+      "articleCount": 21,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -3252,7 +3253,7 @@
         "news.webindia123.com"
       ],
       "daysSeen": 8,
-      "articleCount": 21,
+      "articleCount": 29,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-11",
       "samples": [
@@ -3343,10 +3344,10 @@
         "freepressjournal.in",
         "deccanchronicle.com"
       ],
-      "daysSeen": 8,
-      "articleCount": 22,
+      "daysSeen": 9,
+      "articleCount": 32,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-13",
       "samples": [
         {
           "title": "MBBS , BDS interns to continue strike across J & K over stipend hike",
@@ -3507,7 +3508,7 @@
         "timesofindia.indiatimes.com"
       ],
       "daysSeen": 3,
-      "articleCount": 13,
+      "articleCount": 15,
       "firstSeen": "2026-09-06",
       "lastSeen": "2026-09-08",
       "samples": [
@@ -3590,12 +3591,13 @@
         "freepressjournal.in",
         "timesofindia.indiatimes.com",
         "economictimes.indiatimes.com",
-        "morungexpress.com"
+        "morungexpress.com",
+        "thehindu.com"
       ],
-      "daysSeen": 3,
-      "articleCount": 7,
+      "daysSeen": 4,
+      "articleCount": 8,
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-06",
+      "lastSeen": "2026-09-12",
       "samples": [
         {
           "title": "Iran IRGC says hit 3 oilers in Hormuz Strait , 3 US vessels elsewhere in retaliatory strikes",
@@ -3659,6 +3661,94 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "india:elsewhere-hit-hormuz",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-india:near-open-plans",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "India",
+      "countries": [
+        "India"
+      ],
+      "domains": [
+        "moneycontrol.com",
+        "deccanchronicle.com",
+        "news.webindia123.com",
+        "hindustantimes.com",
+        "thehindu.com"
+      ],
+      "daysSeen": 3,
+      "articleCount": 7,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Iran plans restricted zone near Hormuz , says strait will open if US stops threats",
+          "url": "https://www.moneycontrol.com/world/iran-plans-restricted-zone-near-hormuz-says-strait-will-open-if-us-stops-threats-article-14023854.html",
+          "domain": "moneycontrol.com",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Hormuz to Open When US Stops Threats , Attacks : Iran",
+          "url": "https://www.deccanchronicle.com/west-asia/hormuz-to-open-when-us-stops-threats-attacks-iran-1985423",
+          "domain": "deccanchronicle.com",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Hormuz will open when US neither threatens nor attacks Tehran : Iran security chief",
+          "url": "https://news.webindia123.com/news/Articles/World/20260907/4495556.html",
+          "domain": "news.webindia123.com",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Undermined regional security : India condemns Houthi attacks on Saudi Arabia",
+          "url": "https://www.hindustantimes.com/india-news/undermined-regional-security-india-condemns-houthi-attacks-in-saudi-arabia-bab-el-mandeb-yemen-iran-aramco-oil-101788933137193.html",
+          "domain": "hindustantimes.com",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Iran plans restricted zone near Hormuz , says strait will open if US stops threats",
+          "url": "https://www.moneycontrol.com/world/iran-plans-restricted-zone-near-hormuz-says-strait-will-open-if-us-stops-threats-article-14023854.html",
+          "domain": "moneycontrol.com",
+          "date": "2026-09-07"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "india-iran-plans-restricted-zone-near-hormuz",
+        "name": "Iran plans restricted zone near Hormuz",
+        "region": "Asia",
+        "location": "India",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "iran",
+          "plans",
+          "restricted",
+          "zone",
+          "near",
+          "hormuz",
+          "india",
+          "protest"
+        ],
+        "strictKeywords": [
+          "iran",
+          "plans",
+          "restricted",
+          "zone",
+          "near",
+          "hormuz"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Iran%20plans%20restricted%20zone%20near%20Hormuz&hl=en-IN&gl=IN&ceid=IN%3Aen",
+          "https://news.google.com/rss/search?q=India%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "india:near-open-plans",
           "wikipedia": ""
         }
       }
