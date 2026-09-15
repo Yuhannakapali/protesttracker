@@ -31,15 +31,15 @@
     },
     {
       "start": "2026-09-01",
-      "count": 297
+      "count": 299
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 80,
+      "count": 81,
       "first": "2026-06-06",
-      "last": "2026-09-14"
+      "last": "2026-09-15"
     },
     {
       "name": "NDTV",
@@ -138,16 +138,22 @@
       "last": "2026-09-08"
     },
     {
+      "name": "LawBeat",
+      "count": 15,
+      "first": "2026-02-07",
+      "last": "2026-09-15"
+    },
+    {
+      "name": "The News Mill",
+      "count": 15,
+      "first": "2026-08-12",
+      "last": "2026-09-04"
+    },
+    {
       "name": "WION",
       "count": 15,
       "first": "2026-07-23",
       "last": "2026-09-03"
-    },
-    {
-      "name": "LawBeat",
-      "count": 14,
-      "first": "2026-02-07",
-      "last": "2026-09-14"
     },
     {
       "name": "Deccan Chronicle",
@@ -160,12 +166,6 @@
       "count": 13,
       "first": "2026-08-16",
       "last": "2026-09-13"
-    },
-    {
-      "name": "The News Mill",
-      "count": 13,
-      "first": "2026-08-12",
-      "last": "2026-09-04"
     },
     {
       "name": "Mathrubhumi English",
@@ -192,6 +192,12 @@
       "last": "2026-09-06"
     },
     {
+      "name": "The Tribune",
+      "count": 10,
+      "first": "2026-08-15",
+      "last": "2026-09-10"
+    },
+    {
       "name": "TheWire.in",
       "count": 10,
       "first": "2026-07-11",
@@ -213,12 +219,6 @@
       "name": "The Statesman",
       "count": 9,
       "first": "2026-08-18",
-      "last": "2026-09-10"
-    },
-    {
-      "name": "The Tribune",
-      "count": 9,
-      "first": "2026-08-15",
       "last": "2026-09-10"
     },
     {
@@ -618,18 +618,6 @@
       "last": "2026-08-25"
     },
     {
-      "name": "thenewsmill.com",
-      "count": 2,
-      "first": "2026-08-21",
-      "last": "2026-08-23"
-    },
-    {
-      "name": "tribuneindia.com",
-      "count": 2,
-      "first": "2026-08-27",
-      "last": "2026-09-08"
-    },
-    {
       "name": "True Scoop",
       "count": 2,
       "first": "2026-07-23",
@@ -648,7 +636,7 @@
       "last": "2026-08-17"
     },
     {
-      "name": "ACLED",
+      "name": "acleddata.com",
       "count": 1,
       "first": "2026-07-27",
       "last": "2026-07-27"
@@ -840,7 +828,7 @@
       "last": "2026-08-30"
     },
     {
-      "name": "Indiablooms",
+      "name": "indiablooms.com",
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
@@ -870,7 +858,7 @@
       "last": "2026-08-30"
     },
     {
-      "name": "Jurist.org",
+      "name": "jurist.org",
       "count": 1,
       "first": "2026-07-23",
       "last": "2026-07-23"
@@ -984,7 +972,7 @@
       "last": "2026-09-15"
     },
     {
-      "name": "pratidintime.com",
+      "name": "Pratidin Time",
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
@@ -1138,6 +1126,12 @@
       "count": 1,
       "first": "2026-09-05",
       "last": "2026-09-05"
+    },
+    {
+      "name": "tribuneindia.com",
+      "count": 1,
+      "first": "2026-08-27",
+      "last": "2026-08-27"
     },
     {
       "name": "Verdictum",
