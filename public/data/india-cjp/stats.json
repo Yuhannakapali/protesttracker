@@ -31,7 +31,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 300
+      "count": 301
     }
   ],
   "sources": [
@@ -240,12 +240,6 @@
       "last": "2026-09-03"
     },
     {
-      "name": "ABP Live English",
-      "count": 7,
-      "first": "2026-07-19",
-      "last": "2026-09-01"
-    },
-    {
       "name": "Al Jazeera",
       "count": 7,
       "first": "2026-05-20",
@@ -324,6 +318,12 @@
       "last": "2026-09-01"
     },
     {
+      "name": "ABP Live English",
+      "count": 4,
+      "first": "2026-08-27",
+      "last": "2026-09-01"
+    },
+    {
       "name": "Bloomberg.com",
       "count": 4,
       "first": "2026-08-10",
@@ -388,6 +388,12 @@
       "count": 3,
       "first": "2026-07-24",
       "last": "2026-08-16"
+    },
+    {
+      "name": "news.abplive.com",
+      "count": 3,
+      "first": "2026-07-19",
+      "last": "2026-07-25"
     },
     {
       "name": "The Federal",
@@ -600,6 +606,12 @@
       "last": "2026-08-18"
     },
     {
+      "name": "The Quint",
+      "count": 2,
+      "first": "2026-08-18",
+      "last": "2026-09-15"
+    },
+    {
       "name": "The Siasat Daily",
       "count": 2,
       "first": "2026-09-04",
@@ -658,6 +670,12 @@
       "count": 1,
       "first": "2026-08-26",
       "last": "2026-08-26"
+    },
+    {
+      "name": "borgenproject.org",
+      "count": 1,
+      "first": "2026-08-25",
+      "last": "2026-08-25"
     },
     {
       "name": "Britannica",
@@ -888,7 +906,7 @@
       "last": "2026-08-16"
     },
     {
-      "name": "lawtrend.in",
+      "name": "Law Trend",
       "count": 1,
       "first": "2026-09-10",
       "last": "2026-09-10"
@@ -1014,12 +1032,6 @@
       "last": "2026-09-01"
     },
     {
-      "name": "The Borgen Project",
-      "count": 1,
-      "first": "2026-08-25",
-      "last": "2026-08-25"
-    },
-    {
       "name": "The Business Standard",
       "count": 1,
       "first": "2026-08-23",
@@ -1072,12 +1084,6 @@
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
-    },
-    {
-      "name": "The Quint",
-      "count": 1,
-      "first": "2026-08-18",
-      "last": "2026-08-18"
     },
     {
       "name": "The Shillong Times",
