@@ -588,7 +588,7 @@
       "last": "2026-09-14"
     },
     {
-      "name": "dw.com",
+      "name": "DW.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -654,12 +654,6 @@
       "last": "2019-03-31"
     },
     {
-      "name": "Universidad de Chile",
-      "count": 5,
-      "first": "2017-04-22",
-      "last": "2023-07-16"
-    },
-    {
       "name": "Clarin.com",
       "count": 4,
       "first": "2017-12-18",
@@ -676,6 +670,12 @@
       "count": 4,
       "first": "2016-08-26",
       "last": "2025-09-23"
+    },
+    {
+      "name": "radio.uchile.cl",
+      "count": 4,
+      "first": "2019-03-31",
+      "last": "2023-07-16"
     },
     {
       "name": "- CIPER Chile",
@@ -712,12 +712,6 @@
       "count": 3,
       "first": "2019-10-23",
       "last": "2020-10-16"
-    },
-    {
-      "name": "Teletrece",
-      "count": 3,
-      "first": "2019-03-31",
-      "last": "2022-03-31"
     },
     {
       "name": "The Guardian",
@@ -840,7 +834,7 @@
       "last": "2024-09-04"
     },
     {
-      "name": "pressenza.com",
+      "name": "Pressenza - International Press Agency",
       "count": 2,
       "first": "2015-12-12",
       "last": "2016-10-16"
@@ -856,6 +850,12 @@
       "count": 2,
       "first": "2019-10-23",
       "last": "2022-03-12"
+    },
+    {
+      "name": "Teletrece",
+      "count": 2,
+      "first": "2019-10-06",
+      "last": "2022-03-31"
     },
     {
       "name": "The Nation Newspaper",
@@ -1008,12 +1008,6 @@
       "last": "2026-07-08"
     },
     {
-      "name": "Diario El Día de La Plata",
-      "count": 1,
-      "first": "2017-12-19",
-      "last": "2017-12-19"
-    },
-    {
       "name": "Diario Río Uruguay",
       "count": 1,
       "first": "2026-07-27",
@@ -1068,6 +1062,12 @@
       "last": "2025-03-31"
     },
     {
+      "name": "eldia.com",
+      "count": 1,
+      "first": "2017-12-19",
+      "last": "2017-12-19"
+    },
+    {
       "name": "elentrerios.com",
       "count": 1,
       "first": "2026-05-22",
@@ -1084,12 +1084,6 @@
       "count": 1,
       "first": "2017-12-20",
       "last": "2017-12-20"
-    },
-    {
-      "name": "en.mercopress.com",
-      "count": 1,
-      "first": "2017-03-27",
-      "last": "2017-03-27"
     },
     {
       "name": "federacionccu.cl",
@@ -1110,7 +1104,7 @@
       "last": "2019-10-23"
     },
     {
-      "name": "France 24",
+      "name": "france24.com",
       "count": 1,
       "first": "2019-10-23",
       "last": "2019-10-23"
@@ -1152,7 +1146,7 @@
       "last": "2018-10-29"
     },
     {
-      "name": "Guyana Chronicle",
+      "name": "guyanachronicle.com",
       "count": 1,
       "first": "2017-03-27",
       "last": "2017-03-27"
@@ -1260,7 +1254,13 @@
       "last": "2023-07-23"
     },
     {
-      "name": "Mises Institute",
+      "name": "MercoPress",
+      "count": 1,
+      "first": "2017-03-27",
+      "last": "2017-03-27"
+    },
+    {
+      "name": "mises.org",
       "count": 1,
       "first": "2019-12-10",
       "last": "2019-12-10"
@@ -1308,7 +1308,7 @@
       "last": "2026-08-06"
     },
     {
-      "name": "novaramedia.com",
+      "name": "Novara Media",
       "count": 1,
       "first": "2019-10-25",
       "last": "2019-10-25"
@@ -1356,7 +1356,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Proceso",
+      "name": "proceso.com.mx",
       "count": 1,
       "first": "2016-08-22",
       "last": "2016-08-22"
@@ -1428,6 +1428,12 @@
       "last": "2020-03-17"
     },
     {
+      "name": "t13.cl",
+      "count": 1,
+      "first": "2019-03-31",
+      "last": "2019-03-31"
+    },
+    {
       "name": "The Bogotá Post",
       "count": 1,
       "first": "2020-02-21",
@@ -1492,6 +1498,12 @@
       "count": 1,
       "first": "2022-04-30",
       "last": "2022-04-30"
+    },
+    {
+      "name": "Universidad de Chile",
+      "count": 1,
+      "first": "2017-04-22",
+      "last": "2017-04-22"
     },
     {
       "name": "Université catholique de Louvain",
