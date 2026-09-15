@@ -583,12 +583,12 @@
     },
     {
       "name": "The Clinic",
-      "count": 12,
+      "count": 13,
       "first": "2016-07-27",
       "last": "2026-09-14"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -660,6 +660,12 @@
       "last": "2023-07-16"
     },
     {
+      "name": "Clarin.com",
+      "count": 4,
+      "first": "2017-12-18",
+      "last": "2019-12-24"
+    },
+    {
       "name": "Diario Junio",
       "count": 4,
       "first": "2026-04-20",
@@ -682,12 +688,6 @@
       "count": 3,
       "first": "2014-11-04",
       "last": "2017-09-03"
-    },
-    {
-      "name": "Clarin.com",
-      "count": 3,
-      "first": "2017-12-19",
-      "last": "2019-12-24"
     },
     {
       "name": "Democracy Now!",
@@ -756,16 +756,16 @@
       "last": "2026-07-27"
     },
     {
+      "name": "cfr.org",
+      "count": 2,
+      "first": "2019-11-01",
+      "last": "2022-08-25"
+    },
+    {
       "name": "Cooperativa",
       "count": 2,
       "first": "2016-10-08",
       "last": "2019-10-25"
-    },
-    {
-      "name": "Council on Foreign Relations",
-      "count": 2,
-      "first": "2019-11-01",
-      "last": "2022-08-25"
     },
     {
       "name": "Daily Mail",
@@ -844,12 +844,6 @@
       "count": 2,
       "first": "2019-10-23",
       "last": "2025-01-29"
-    },
-    {
-      "name": "South China Morning Post",
-      "count": 2,
-      "first": "2019-10-23",
-      "last": "2022-03-12"
     },
     {
       "name": "The Nation Newspaper",
@@ -936,7 +930,7 @@
       "last": "2020-08-09"
     },
     {
-      "name": "bloomberg.com",
+      "name": "Bloomberg.com",
       "count": 1,
       "first": "2019-10-26",
       "last": "2019-10-26"
@@ -978,12 +972,6 @@
       "last": "2019-12-18"
     },
     {
-      "name": "Clarín",
-      "count": 1,
-      "first": "2017-12-18",
-      "last": "2017-12-18"
-    },
-    {
       "name": "CNN",
       "count": 1,
       "first": "2025-09-29",
@@ -1020,28 +1008,22 @@
       "last": "2025-03-31"
     },
     {
-      "name": "diarioantofagasta.cl",
-      "count": 1,
-      "first": "2020-07-20",
-      "last": "2020-07-20"
-    },
-    {
       "name": "El Destape",
       "count": 1,
       "first": "2017-12-17",
       "last": "2017-12-17"
     },
     {
+      "name": "El Diario de Antofagasta",
+      "count": 1,
+      "first": "2020-07-20",
+      "last": "2020-07-20"
+    },
+    {
       "name": "El Grito del Sur",
       "count": 1,
       "first": "2025-06-27",
       "last": "2025-06-27"
-    },
-    {
-      "name": "El Nacional — La voz de todos",
-      "count": 1,
-      "first": "2022-03-27",
-      "last": "2022-03-27"
     },
     {
       "name": "El Nuevo Diario",
@@ -1074,6 +1056,12 @@
       "last": "2026-05-22"
     },
     {
+      "name": "elnacional.com.do",
+      "count": 1,
+      "first": "2022-03-27",
+      "last": "2022-03-27"
+    },
+    {
       "name": "elsiglo.cl",
       "count": 1,
       "first": "2023-07-25",
@@ -1084,6 +1072,12 @@
       "count": 1,
       "first": "2017-12-20",
       "last": "2017-12-20"
+    },
+    {
+      "name": "en.mercopress.com",
+      "count": 1,
+      "first": "2017-03-27",
+      "last": "2017-03-27"
     },
     {
       "name": "federacionccu.cl",
@@ -1254,16 +1248,10 @@
       "last": "2024-12-27"
     },
     {
-      "name": "meganoticias.cl",
+      "name": "Meganoticias",
       "count": 1,
       "first": "2023-07-23",
       "last": "2023-07-23"
-    },
-    {
-      "name": "MercoPress",
-      "count": 1,
-      "first": "2017-03-27",
-      "last": "2017-03-27"
     },
     {
       "name": "Mises Institute",
@@ -1344,7 +1332,7 @@
       "last": "2017-03-22"
     },
     {
-      "name": "Política Obrera",
+      "name": "politicaobrera.com",
       "count": 1,
       "first": "2025-09-30",
       "last": "2025-09-30"
@@ -1428,6 +1416,18 @@
       "last": "2025-09-24"
     },
     {
+      "name": "scmp.com",
+      "count": 1,
+      "first": "2019-10-23",
+      "last": "2019-10-23"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 1,
+      "first": "2022-03-12",
+      "last": "2022-03-12"
+    },
+    {
       "name": "Sydney Criminal Lawyers",
       "count": 1,
       "first": "2020-03-17",
@@ -1470,16 +1470,10 @@
       "last": "2019-11-15"
     },
     {
-      "name": "The Sun Nigeria",
+      "name": "thesun.ng",
       "count": 1,
       "first": "2025-07-26",
       "last": "2025-07-26"
-    },
-    {
-      "name": "theclinic.cl",
-      "count": 1,
-      "first": "2019-03-31",
-      "last": "2019-03-31"
     },
     {
       "name": "Toronto Sun",
