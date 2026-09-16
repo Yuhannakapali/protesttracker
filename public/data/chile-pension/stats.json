@@ -588,7 +588,7 @@
       "last": "2026-09-14"
     },
     {
-      "name": "dw.com",
+      "name": "DW.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -648,7 +648,7 @@
       "last": "2025-01-15"
     },
     {
-      "name": "soychile.cl",
+      "name": "SoyChile.cl",
       "count": 5,
       "first": "2016-08-10",
       "last": "2019-03-31"
@@ -682,6 +682,12 @@
       "count": 3,
       "first": "2016-07-26",
       "last": "2019-03-21"
+    },
+    {
+      "name": "Análisis Digital",
+      "count": 3,
+      "first": "2026-05-28",
+      "last": "2026-07-27"
     },
     {
       "name": "BioBioChile",
@@ -726,6 +732,12 @@
       "last": "2019-10-30"
     },
     {
+      "name": "The New York Times",
+      "count": 3,
+      "first": "2016-09-10",
+      "last": "2019-11-21"
+    },
+    {
       "name": "The Washington Post",
       "count": 3,
       "first": "2019-10-30",
@@ -744,22 +756,16 @@
       "last": "2026-07-29"
     },
     {
-      "name": "Análisis Digital",
+      "name": "cfr.org",
       "count": 2,
-      "first": "2026-05-28",
-      "last": "2026-07-27"
+      "first": "2019-11-01",
+      "last": "2022-08-25"
     },
     {
       "name": "Cooperativa",
       "count": 2,
       "first": "2016-10-08",
       "last": "2019-10-25"
-    },
-    {
-      "name": "Council on Foreign Relations",
-      "count": 2,
-      "first": "2019-11-01",
-      "last": "2022-08-25"
     },
     {
       "name": "Daily Mail",
@@ -778,12 +784,6 @@
       "count": 2,
       "first": "2018-04-19",
       "last": "2019-03-21"
-    },
-    {
-      "name": "El Miércoles Digital",
-      "count": 2,
-      "first": "2026-07-24",
-      "last": "2026-07-30"
     },
     {
       "name": "Ex-ante",
@@ -816,7 +816,7 @@
       "last": "2020-07-24"
     },
     {
-      "name": "mexicosolidarity.com",
+      "name": "Mexico Solidarity Media",
       "count": 2,
       "first": "2026-03-20",
       "last": "2026-03-20"
@@ -826,12 +826,6 @@
       "count": 2,
       "first": "2019-10-30",
       "last": "2020-03-11"
-    },
-    {
-      "name": "nytimes.com",
-      "count": 2,
-      "first": "2016-09-10",
-      "last": "2019-11-18"
     },
     {
       "name": "Perfil",
@@ -882,12 +876,6 @@
       "last": "2023-05-01"
     },
     {
-      "name": "2025.agmer.org.ar",
-      "count": 1,
-      "first": "2026-06-18",
-      "last": "2026-06-18"
-    },
-    {
       "name": "7paginas",
       "count": 1,
       "first": "2026-07-13",
@@ -906,13 +894,19 @@
       "last": "2016-09-24"
     },
     {
+      "name": "AGMER",
+      "count": 1,
+      "first": "2026-06-18",
+      "last": "2026-06-18"
+    },
+    {
       "name": "APFDigital",
       "count": 1,
       "first": "2026-07-27",
       "last": "2026-07-27"
     },
     {
-      "name": "atacamanoticias.cl",
+      "name": "Atacama Noticias",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
@@ -960,12 +954,6 @@
       "last": "2025-03-31"
     },
     {
-      "name": "Caretas",
-      "count": 1,
-      "first": "2025-09-14",
-      "last": "2025-09-14"
-    },
-    {
       "name": "Cato Institute",
       "count": 1,
       "first": "2022-08-03",
@@ -990,7 +978,7 @@
       "last": "2025-09-29"
     },
     {
-      "name": "Congreso",
+      "name": "comunicaciones.congreso.gob.pe",
       "count": 1,
       "first": "2021-03-23",
       "last": "2021-03-23"
@@ -1006,6 +994,18 @@
       "count": 1,
       "first": "2026-07-08",
       "last": "2026-07-08"
+    },
+    {
+      "name": "Diario El Día de La Plata",
+      "count": 1,
+      "first": "2017-12-19",
+      "last": "2017-12-19"
+    },
+    {
+      "name": "Diario Época Corrientes",
+      "count": 1,
+      "first": "2023-04-06",
+      "last": "2023-04-06"
     },
     {
       "name": "Diario Río Uruguay",
@@ -1038,6 +1038,12 @@
       "last": "2025-06-27"
     },
     {
+      "name": "El Miércoles Digital",
+      "count": 1,
+      "first": "2026-07-30",
+      "last": "2026-07-30"
+    },
+    {
       "name": "El Nacional — La voz de todos",
       "count": 1,
       "first": "2022-03-27",
@@ -1060,12 +1066,6 @@
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
-    },
-    {
-      "name": "eldia.com",
-      "count": 1,
-      "first": "2017-12-19",
-      "last": "2017-12-19"
     },
     {
       "name": "elentrerios.com",
@@ -1308,7 +1308,7 @@
       "last": "2026-08-06"
     },
     {
-      "name": "novaramedia.com",
+      "name": "Novara Media",
       "count": 1,
       "first": "2019-10-25",
       "last": "2019-10-25"
@@ -1338,7 +1338,7 @@
       "last": "2017-03-22"
     },
     {
-      "name": "Política Obrera",
+      "name": "politicaobrera.com",
       "count": 1,
       "first": "2025-09-30",
       "last": "2025-09-30"
@@ -1374,12 +1374,6 @@
       "last": "2020-07-16"
     },
     {
-      "name": "Radio Dos Corrientes",
-      "count": 1,
-      "first": "2023-04-06",
-      "last": "2023-04-06"
-    },
-    {
       "name": "Radio Gol",
       "count": 1,
       "first": "2024-09-24",
@@ -1408,6 +1402,12 @@
       "count": 1,
       "first": "2025-04-03",
       "last": "2025-04-03"
+    },
+    {
+      "name": "Revista Caretas",
+      "count": 1,
+      "first": "2025-09-14",
+      "last": "2025-09-14"
     },
     {
       "name": "RosarioPlus",
@@ -1458,12 +1458,6 @@
       "last": "2019-12-10"
     },
     {
-      "name": "The New York Times",
-      "count": 1,
-      "first": "2019-11-21",
-      "last": "2019-11-21"
-    },
-    {
       "name": "The Sun",
       "count": 1,
       "first": "2019-11-15",
@@ -1476,7 +1470,7 @@
       "last": "2025-07-26"
     },
     {
-      "name": "theworld.org",
+      "name": "The World from PRX",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
