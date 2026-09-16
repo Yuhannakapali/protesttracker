@@ -23,7 +23,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 140
+      "count": 141
     },
     {
       "start": "2026-08-01",
@@ -31,7 +31,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 309
+      "count": 311
     }
   ],
   "sources": [
@@ -43,13 +43,13 @@
     },
     {
       "name": "NDTV",
-      "count": 53,
+      "count": 54,
       "first": "2026-05-12",
       "last": "2026-09-16"
     },
     {
       "name": "The New Indian Express",
-      "count": 52,
+      "count": 53,
       "first": "2026-07-23",
       "last": "2026-09-16"
     },
@@ -168,16 +168,16 @@
       "last": "2026-09-13"
     },
     {
+      "name": "TheWire.in",
+      "count": 13,
+      "first": "2026-07-11",
+      "last": "2026-09-09"
+    },
+    {
       "name": "Mathrubhumi English",
       "count": 12,
       "first": "2026-08-17",
       "last": "2026-09-06"
-    },
-    {
-      "name": "TheWire.in",
-      "count": 12,
-      "first": "2026-07-11",
-      "last": "2026-09-09"
     },
     {
       "name": "India.com",
@@ -648,7 +648,7 @@
       "last": "2026-08-22"
     },
     {
-      "name": "amnesty.org",
+      "name": "Amnesty International",
       "count": 1,
       "first": "2026-08-24",
       "last": "2026-08-24"
@@ -694,6 +694,12 @@
       "count": 1,
       "first": "2026-08-23",
       "last": "2026-08-23"
+    },
+    {
+      "name": "civicus lens",
+      "count": 1,
+      "first": "2026-08-04",
+      "last": "2026-08-04"
     },
     {
       "name": "Council on Foreign Relations",
@@ -880,12 +886,6 @@
       "count": 1,
       "first": "2026-09-10",
       "last": "2026-09-10"
-    },
-    {
-      "name": "lens.civicus.org",
-      "count": 1,
-      "first": "2026-08-04",
-      "last": "2026-08-04"
     },
     {
       "name": "Lokmat.com",
@@ -1122,7 +1122,7 @@
       "last": "2026-09-06"
     },
     {
-      "name": "Time Magazine",
+      "name": "time.com",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
