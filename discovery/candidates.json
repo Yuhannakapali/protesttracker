@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T08:43:32.459Z",
+  "generated": "2026-09-17T08:51:44.880Z",
   "candidates": [
     {
       "key": "wd-Q133441461",
@@ -383,6 +383,681 @@
       }
     },
     {
+      "key": "wd-Q136530158",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United States",
+      "countries": [
+        "United States"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/October_2025_No_Kings_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "united-states-october-no-kings-protests",
+        "name": "October 2025 No Kings protests",
+        "region": "Americas",
+        "location": "United States",
+        "year": 2025,
+        "description": "American anti-Trump protests",
+        "keywords": [
+          "kings",
+          "united states",
+          "protest"
+        ],
+        "strictKeywords": [
+          "kings"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=October%202025%20No%20Kings%20protests&hl=en-US&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136530158",
+          "wikipedia": "https://en.wikipedia.org/wiki/October_2025_No_Kings_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136558858",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Cameroon",
+      "countries": [
+        "Cameroon"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Cameroonian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "cameroon-cameroonian-protests",
+        "name": "2025 Cameroonian protests",
+        "region": "Africa",
+        "location": "Cameroon",
+        "year": 2025,
+        "description": "civil unrest in Cameroon",
+        "keywords": [
+          "cameroonian",
+          "cameroon",
+          "protest"
+        ],
+        "strictKeywords": [
+          "cameroonian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Cameroonian%20protests&hl=en-CM&gl=CM&ceid=CM%3Aen",
+          "https://news.google.com/rss/search?q=Cameroon%20protest&hl=en-CM&gl=CM&ceid=CM%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136558858",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Cameroonian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136682955",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Tanzania",
+      "countries": [
+        "Tanzania"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Tanzanian_election_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "tanzania-tanzanian-election-protests",
+        "name": "2025 Tanzanian election protests",
+        "region": "Africa",
+        "location": "Tanzania",
+        "year": 2025,
+        "description": "احتجاجات واسعة اندلعت في تنزانيا أواخر أكتوبر 2025",
+        "keywords": [
+          "tanzanian",
+          "election",
+          "tanzania",
+          "protest"
+        ],
+        "strictKeywords": [
+          "tanzanian",
+          "election"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Tanzanian%20election%20protests&hl=en-TZ&gl=TZ&ceid=TZ%3Aen",
+          "https://news.google.com/rss/search?q=Tanzania%20protest&hl=en-TZ&gl=TZ&ceid=TZ%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136682955",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Tanzanian_election_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136723049",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Togo",
+      "countries": [
+        "Togo"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Togolese_Gen_Z_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "togo-togolese-gen-z-protests",
+        "name": "2025 Togolese Gen Z protests",
+        "region": "Africa",
+        "location": "Togo",
+        "year": 2025,
+        "description": "anti-government civil unrest in Togo",
+        "keywords": [
+          "togolese",
+          "gen",
+          "togo",
+          "protest"
+        ],
+        "strictKeywords": [
+          "togolese",
+          "gen"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Togolese%20Gen%20Z%20protests&hl=en-TG&gl=TG&ceid=TG%3Aen",
+          "https://news.google.com/rss/search?q=Togo%20protest&hl=en-TG&gl=TG&ceid=TG%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136723049",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Togolese_Gen_Z_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136799328",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Mexico",
+      "countries": [
+        "Mexico"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Mexican_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "mexico-mexican-protests",
+        "name": "2025 Mexican protests",
+        "region": "Americas",
+        "location": "Mexico",
+        "year": 2025,
+        "description": "Series of protests in Mexico led mainly by Generation Z during the 2020s",
+        "keywords": [
+          "mexican",
+          "mexico",
+          "protest"
+        ],
+        "strictKeywords": [
+          "mexican"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Mexican%20protests&hl=en-MX&gl=MX&ceid=MX%3Aen",
+          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136799328",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Mexican_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q137366682",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Germany",
+      "countries": [
+        "Germany",
+        "Bulgaria",
+        "Czech Republic",
+        "United Kingdom",
+        "Netherlands",
+        "Austria",
+        "Belgium",
+        "United States",
+        "Spain"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "germany-bulgarian-protests",
+        "name": "2025 Bulgarian protests",
+        "region": "Europe",
+        "location": "Germany",
+        "year": 2025,
+        "description": "Gen Z protests over increasing taxes",
+        "keywords": [
+          "bulgarian",
+          "germany",
+          "protest"
+        ],
+        "strictKeywords": [
+          "bulgarian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en-DE&gl=DE&ceid=DE%3Aen",
+          "https://news.google.com/rss/search?q=Germany%20protest&hl=en-DE&gl=DE&ceid=DE%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q137366682",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q137612545",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Iran",
+      "countries": [
+        "Iran"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "iran-iranian-protests",
+        "name": "2025–2026 Iranian protests",
+        "region": "Middle East",
+        "location": "Iran",
+        "year": 2025,
+        "description": "2025–2026 protests against the Islamic Republic",
+        "keywords": [
+          "iranian",
+          "iran",
+          "protest"
+        ],
+        "strictKeywords": [
+          "iranian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Iranian%20protests&hl=en-IR&gl=IR&ceid=IR%3Aen",
+          "https://news.google.com/rss/search?q=Iran%20protest&hl=en-IR&gl=IR&ceid=IR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q137612545",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136311323",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Timor-Leste",
+      "countries": [
+        "Timor-Leste"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Timor-Leste_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "timor-leste-timor-leste-protests",
+        "name": "2025 Timor-Leste protests",
+        "region": "Asia",
+        "location": "Timor-Leste",
+        "year": 2025,
+        "description": "Student-led demonstrations in Dili, Timor-Leste",
+        "keywords": [
+          "timor",
+          "leste",
+          "timor-leste",
+          "protest"
+        ],
+        "strictKeywords": [
+          "timor",
+          "leste"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Timor-Leste%20protests&hl=en-TL&gl=TL&ceid=TL%3Aen",
+          "https://news.google.com/rss/search?q=Timor-Leste%20protest&hl=en-TL&gl=TL&ceid=TL%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136311323",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Timor-Leste_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136343583",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Philippines",
+      "countries": [
+        "Philippines"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Philippine_anti-corruption_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "philippines-philippine-anti-corruption-protests",
+        "name": "2025–2026 Philippine anti-corruption protests",
+        "region": "Asia",
+        "location": "Philippines",
+        "year": 2025,
+        "description": "Protests against corruption in the Philippines",
+        "keywords": [
+          "philippine",
+          "anti",
+          "corruption",
+          "philippines",
+          "protest"
+        ],
+        "strictKeywords": [
+          "philippine",
+          "anti",
+          "corruption"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Philippine%20anti-corruption%20protests&hl=en-PH&gl=PH&ceid=PH%3Aen",
+          "https://news.google.com/rss/search?q=Philippines%20protest&hl=en-PH&gl=PH&ceid=PH%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136343583",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Philippine_anti-corruption_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136344992",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Ecuador",
+      "countries": [
+        "Ecuador"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Ecuador_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "ecuador-ecuadorian-protests",
+        "name": "2025 Ecuadorian protests",
+        "region": "Americas",
+        "location": "Ecuador",
+        "year": 2025,
+        "description": "2025 protests in Ecuador",
+        "keywords": [
+          "ecuadorian",
+          "ecuador",
+          "protest"
+        ],
+        "strictKeywords": [
+          "ecuadorian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Ecuadorian%20protests&hl=en-EC&gl=EC&ceid=EC%3Aen",
+          "https://news.google.com/rss/search?q=Ecuador%20protest&hl=en-EC&gl=EC&ceid=EC%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136344992",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Ecuador_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136373399",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Italy",
+      "countries": [
+        "Italy"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Italian_general_strikes_and_protests_for_Gaza",
+      "needsName": false,
+      "suggested": {
+        "id": "italy-italian-general-strikes-and-protests-for-gaza",
+        "name": "2025 Italian general strikes and protests for Gaza",
+        "region": "Europe",
+        "location": "Italy",
+        "year": 2025,
+        "description": "protest in Italy",
+        "keywords": [
+          "italian",
+          "general",
+          "for",
+          "gaza",
+          "italy",
+          "protest"
+        ],
+        "strictKeywords": [
+          "italian",
+          "general",
+          "for",
+          "gaza"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Italian%20general%20strikes%20and%20protests%20for%20Gaza&hl=en-IT&gl=IT&ceid=IT%3Aen",
+          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136373399",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Italian_general_strikes_and_protests_for_Gaza"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136377386",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Madagascar",
+      "countries": [
+        "Madagascar"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Malagasy_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "madagascar-malagasy-protests",
+        "name": "2025 Malagasy protests",
+        "region": "Africa",
+        "location": "Madagascar",
+        "year": 2025,
+        "description": "protests in Madagascar",
+        "keywords": [
+          "malagasy",
+          "madagascar",
+          "protest"
+        ],
+        "strictKeywords": [
+          "malagasy"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Malagasy%20protests&hl=en-MG&gl=MG&ceid=MG%3Aen",
+          "https://news.google.com/rss/search?q=Madagascar%20protest&hl=en-MG&gl=MG&ceid=MG%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136377386",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Malagasy_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136398794",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Peru",
+      "countries": [
+        "Peru"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Peruvian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "peru-peruvian-protests",
+        "name": "2025 Peruvian protests",
+        "region": "Americas",
+        "location": "Peru",
+        "year": 2025,
+        "description": "2025 Gen Z protests",
+        "keywords": [
+          "peruvian",
+          "peru",
+          "protest"
+        ],
+        "strictKeywords": [
+          "peruvian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Peruvian%20protests&hl=en-PE&gl=PE&ceid=PE%3Aen",
+          "https://news.google.com/rss/search?q=Peru%20protest&hl=en-PE&gl=PE&ceid=PE%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136398794",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Peruvian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136399532",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Morocco",
+      "countries": [
+        "Morocco"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Moroccan_Gen_Z_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "morocco-protests-in-morocco",
+        "name": "2025 protests in Morocco",
+        "region": "Africa",
+        "location": "Morocco",
+        "year": 2025,
+        "description": "2025 youth-led protests in Morocco",
+        "keywords": [
+          "morocco",
+          "protest"
+        ],
+        "strictKeywords": [
+          "morocco"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20protests%20in%20Morocco&hl=en-MA&gl=MA&ceid=MA%3Aen",
+          "https://news.google.com/rss/search?q=Morocco%20protest&hl=en-MA&gl=MA&ceid=MA%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136399532",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Moroccan_Gen_Z_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136412470",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Angola",
+      "countries": [
+        "Angola"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/July_2025_Angolan_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "angola-july-angolan-protests",
+        "name": "July 2025 Angolan protests",
+        "region": "Africa",
+        "location": "Angola",
+        "year": 2025,
+        "description": "",
+        "keywords": [
+          "angolan",
+          "angola",
+          "protest"
+        ],
+        "strictKeywords": [
+          "angolan"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=July%202025%20Angolan%20protests&hl=en-AO&gl=AO&ceid=AO%3Aen",
+          "https://news.google.com/rss/search?q=Angola%20protest&hl=en-AO&gl=AO&ceid=AO%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136412470",
+          "wikipedia": "https://en.wikipedia.org/wiki/July_2025_Angolan_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136486325",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Paraguay",
+      "countries": [
+        "Paraguay"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Paraguayan_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "paraguay-paraguayan-protests",
+        "name": "2025 Paraguayan protests",
+        "region": "Americas",
+        "location": "Paraguay",
+        "year": 2025,
+        "description": "2025 Gen Z protests",
+        "keywords": [
+          "paraguayan",
+          "paraguay",
+          "protest"
+        ],
+        "strictKeywords": [
+          "paraguayan"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Paraguayan%20protests&hl=en-PY&gl=PY&ceid=PY%3Aen",
+          "https://news.google.com/rss/search?q=Paraguay%20protest&hl=en-PY&gl=PY&ceid=PY%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136486325",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Paraguayan_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136497544",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Maldives",
+      "countries": [
+        "Maldives"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Maldivian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "maldives-maldivian-protests",
+        "name": "2025 Maldivian protests",
+        "region": "Asia",
+        "location": "Maldives",
+        "year": 2025,
+        "description": "",
+        "keywords": [
+          "maldivian",
+          "maldives",
+          "protest"
+        ],
+        "strictKeywords": [
+          "maldivian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Maldivian%20protests&hl=en-MV&gl=MV&ceid=MV%3Aen",
+          "https://news.google.com/rss/search?q=Maldives%20protest&hl=en-MV&gl=MV&ceid=MV%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136497544",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Maldivian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140773593",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Italy",
+      "countries": [
+        "Italy"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
+      "needsName": false,
+      "suggested": {
+        "id": "italy-susa-valley-conflict",
+        "name": "2026 Susa Valley conflict",
+        "region": "Europe",
+        "location": "Italy",
+        "year": 2026,
+        "description": "civil unrest in Italy",
+        "keywords": [
+          "susa",
+          "valley",
+          "conflict",
+          "italy",
+          "protest"
+        ],
+        "strictKeywords": [
+          "susa",
+          "valley",
+          "conflict"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
+          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140773593",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
+        }
+      }
+    },
+    {
       "key": "wd-Q135264147",
       "source": "wikidata",
       "confidence": "high",
@@ -761,46 +1436,6 @@
       }
     },
     {
-      "key": "wd-Q140773593",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Italy",
-      "countries": [
-        "Italy"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
-      "needsName": false,
-      "suggested": {
-        "id": "italy-susa-valley-conflict",
-        "name": "2026 Susa Valley conflict",
-        "region": "Europe",
-        "location": "Italy",
-        "year": 2026,
-        "description": "civil unrest in Italy",
-        "keywords": [
-          "susa",
-          "valley",
-          "conflict",
-          "italy",
-          "protest"
-        ],
-        "strictKeywords": [
-          "susa",
-          "valley",
-          "conflict"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
-          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140773593",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
-        }
-      }
-    },
-    {
       "key": "wd-Q137860199",
       "source": "wikidata",
       "confidence": "high",
@@ -1164,7 +1799,7 @@
       "wikipedia": "https://en.wikipedia.org/wiki/2026_Maldivian_protests",
       "needsName": false,
       "suggested": {
-        "id": "maldives-maldivian-protests",
+        "id": "maldives-maldivian-protests-2",
         "name": "2026 Maldivian protests",
         "region": "Asia",
         "location": "Maldives",
@@ -1417,641 +2052,6 @@
         "_source": {
           "wikidata": "Q140379081",
           "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136311323",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Timor-Leste",
-      "countries": [
-        "Timor-Leste"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Timor-Leste_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "timor-leste-timor-leste-protests",
-        "name": "2025 Timor-Leste protests",
-        "region": "Asia",
-        "location": "Timor-Leste",
-        "year": 2025,
-        "description": "Student-led demonstrations in Dili, Timor-Leste",
-        "keywords": [
-          "timor",
-          "leste",
-          "timor-leste",
-          "protest"
-        ],
-        "strictKeywords": [
-          "timor",
-          "leste"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Timor-Leste%20protests&hl=en-TL&gl=TL&ceid=TL%3Aen",
-          "https://news.google.com/rss/search?q=Timor-Leste%20protest&hl=en-TL&gl=TL&ceid=TL%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136311323",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Timor-Leste_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136343583",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Philippines",
-      "countries": [
-        "Philippines"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Philippine_anti-corruption_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "philippines-philippine-anti-corruption-protests",
-        "name": "2025–2026 Philippine anti-corruption protests",
-        "region": "Asia",
-        "location": "Philippines",
-        "year": 2025,
-        "description": "Protests against corruption in the Philippines",
-        "keywords": [
-          "philippine",
-          "anti",
-          "corruption",
-          "philippines",
-          "protest"
-        ],
-        "strictKeywords": [
-          "philippine",
-          "anti",
-          "corruption"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Philippine%20anti-corruption%20protests&hl=en-PH&gl=PH&ceid=PH%3Aen",
-          "https://news.google.com/rss/search?q=Philippines%20protest&hl=en-PH&gl=PH&ceid=PH%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136343583",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Philippine_anti-corruption_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136344992",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Ecuador",
-      "countries": [
-        "Ecuador"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Ecuador_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "ecuador-ecuadorian-protests",
-        "name": "2025 Ecuadorian protests",
-        "region": "Americas",
-        "location": "Ecuador",
-        "year": 2025,
-        "description": "2025 protests in Ecuador",
-        "keywords": [
-          "ecuadorian",
-          "ecuador",
-          "protest"
-        ],
-        "strictKeywords": [
-          "ecuadorian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Ecuadorian%20protests&hl=en-EC&gl=EC&ceid=EC%3Aen",
-          "https://news.google.com/rss/search?q=Ecuador%20protest&hl=en-EC&gl=EC&ceid=EC%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136344992",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Ecuador_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136373399",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Italy",
-      "countries": [
-        "Italy"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Italian_general_strikes_and_protests_for_Gaza",
-      "needsName": false,
-      "suggested": {
-        "id": "italy-italian-general-strikes-and-protests-for-gaza",
-        "name": "2025 Italian general strikes and protests for Gaza",
-        "region": "Europe",
-        "location": "Italy",
-        "year": 2025,
-        "description": "protest in Italy",
-        "keywords": [
-          "italian",
-          "general",
-          "for",
-          "gaza",
-          "italy",
-          "protest"
-        ],
-        "strictKeywords": [
-          "italian",
-          "general",
-          "for",
-          "gaza"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Italian%20general%20strikes%20and%20protests%20for%20Gaza&hl=en-IT&gl=IT&ceid=IT%3Aen",
-          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136373399",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Italian_general_strikes_and_protests_for_Gaza"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136377386",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Madagascar",
-      "countries": [
-        "Madagascar"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Malagasy_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "madagascar-malagasy-protests",
-        "name": "2025 Malagasy protests",
-        "region": "Africa",
-        "location": "Madagascar",
-        "year": 2025,
-        "description": "protests in Madagascar",
-        "keywords": [
-          "malagasy",
-          "madagascar",
-          "protest"
-        ],
-        "strictKeywords": [
-          "malagasy"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Malagasy%20protests&hl=en-MG&gl=MG&ceid=MG%3Aen",
-          "https://news.google.com/rss/search?q=Madagascar%20protest&hl=en-MG&gl=MG&ceid=MG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136377386",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Malagasy_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136398794",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Peru",
-      "countries": [
-        "Peru"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Peruvian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "peru-peruvian-protests",
-        "name": "2025 Peruvian protests",
-        "region": "Americas",
-        "location": "Peru",
-        "year": 2025,
-        "description": "2025 Gen Z protests",
-        "keywords": [
-          "peruvian",
-          "peru",
-          "protest"
-        ],
-        "strictKeywords": [
-          "peruvian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Peruvian%20protests&hl=en-PE&gl=PE&ceid=PE%3Aen",
-          "https://news.google.com/rss/search?q=Peru%20protest&hl=en-PE&gl=PE&ceid=PE%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136398794",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Peruvian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136399532",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Morocco",
-      "countries": [
-        "Morocco"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Moroccan_Gen_Z_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "morocco-protests-in-morocco",
-        "name": "2025 protests in Morocco",
-        "region": "Africa",
-        "location": "Morocco",
-        "year": 2025,
-        "description": "2025 youth-led protests in Morocco",
-        "keywords": [
-          "morocco",
-          "protest"
-        ],
-        "strictKeywords": [
-          "morocco"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20protests%20in%20Morocco&hl=en-MA&gl=MA&ceid=MA%3Aen",
-          "https://news.google.com/rss/search?q=Morocco%20protest&hl=en-MA&gl=MA&ceid=MA%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136399532",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Moroccan_Gen_Z_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136412470",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Angola",
-      "countries": [
-        "Angola"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/July_2025_Angolan_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "angola-july-angolan-protests",
-        "name": "July 2025 Angolan protests",
-        "region": "Africa",
-        "location": "Angola",
-        "year": 2025,
-        "description": "",
-        "keywords": [
-          "angolan",
-          "angola",
-          "protest"
-        ],
-        "strictKeywords": [
-          "angolan"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=July%202025%20Angolan%20protests&hl=en-AO&gl=AO&ceid=AO%3Aen",
-          "https://news.google.com/rss/search?q=Angola%20protest&hl=en-AO&gl=AO&ceid=AO%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136412470",
-          "wikipedia": "https://en.wikipedia.org/wiki/July_2025_Angolan_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136486325",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Paraguay",
-      "countries": [
-        "Paraguay"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Paraguayan_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "paraguay-paraguayan-protests",
-        "name": "2025 Paraguayan protests",
-        "region": "Americas",
-        "location": "Paraguay",
-        "year": 2025,
-        "description": "2025 Gen Z protests",
-        "keywords": [
-          "paraguayan",
-          "paraguay",
-          "protest"
-        ],
-        "strictKeywords": [
-          "paraguayan"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Paraguayan%20protests&hl=en-PY&gl=PY&ceid=PY%3Aen",
-          "https://news.google.com/rss/search?q=Paraguay%20protest&hl=en-PY&gl=PY&ceid=PY%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136486325",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Paraguayan_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136497544",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Maldives",
-      "countries": [
-        "Maldives"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Maldivian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "maldives-maldivian-protests-2",
-        "name": "2025 Maldivian protests",
-        "region": "Asia",
-        "location": "Maldives",
-        "year": 2025,
-        "description": "",
-        "keywords": [
-          "maldivian",
-          "maldives",
-          "protest"
-        ],
-        "strictKeywords": [
-          "maldivian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Maldivian%20protests&hl=en-MV&gl=MV&ceid=MV%3Aen",
-          "https://news.google.com/rss/search?q=Maldives%20protest&hl=en-MV&gl=MV&ceid=MV%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136497544",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Maldivian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136530158",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United States",
-      "countries": [
-        "United States"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/October_2025_No_Kings_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "united-states-october-no-kings-protests",
-        "name": "October 2025 No Kings protests",
-        "region": "Americas",
-        "location": "United States",
-        "year": 2025,
-        "description": "American anti-Trump protests",
-        "keywords": [
-          "kings",
-          "united states",
-          "protest"
-        ],
-        "strictKeywords": [
-          "kings"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=October%202025%20No%20Kings%20protests&hl=en-US&gl=US&ceid=US%3Aen",
-          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136530158",
-          "wikipedia": "https://en.wikipedia.org/wiki/October_2025_No_Kings_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136558858",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Cameroon",
-      "countries": [
-        "Cameroon"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Cameroonian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "cameroon-cameroonian-protests",
-        "name": "2025 Cameroonian protests",
-        "region": "Africa",
-        "location": "Cameroon",
-        "year": 2025,
-        "description": "civil unrest in Cameroon",
-        "keywords": [
-          "cameroonian",
-          "cameroon",
-          "protest"
-        ],
-        "strictKeywords": [
-          "cameroonian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Cameroonian%20protests&hl=en-CM&gl=CM&ceid=CM%3Aen",
-          "https://news.google.com/rss/search?q=Cameroon%20protest&hl=en-CM&gl=CM&ceid=CM%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136558858",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Cameroonian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136682955",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Tanzania",
-      "countries": [
-        "Tanzania"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Tanzanian_election_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "tanzania-tanzanian-election-protests",
-        "name": "2025 Tanzanian election protests",
-        "region": "Africa",
-        "location": "Tanzania",
-        "year": 2025,
-        "description": "احتجاجات واسعة اندلعت في تنزانيا أواخر أكتوبر 2025",
-        "keywords": [
-          "tanzanian",
-          "election",
-          "tanzania",
-          "protest"
-        ],
-        "strictKeywords": [
-          "tanzanian",
-          "election"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Tanzanian%20election%20protests&hl=en-TZ&gl=TZ&ceid=TZ%3Aen",
-          "https://news.google.com/rss/search?q=Tanzania%20protest&hl=en-TZ&gl=TZ&ceid=TZ%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136682955",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Tanzanian_election_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136723049",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Togo",
-      "countries": [
-        "Togo"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Togolese_Gen_Z_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "togo-togolese-gen-z-protests",
-        "name": "2025 Togolese Gen Z protests",
-        "region": "Africa",
-        "location": "Togo",
-        "year": 2025,
-        "description": "anti-government civil unrest in Togo",
-        "keywords": [
-          "togolese",
-          "gen",
-          "togo",
-          "protest"
-        ],
-        "strictKeywords": [
-          "togolese",
-          "gen"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Togolese%20Gen%20Z%20protests&hl=en-TG&gl=TG&ceid=TG%3Aen",
-          "https://news.google.com/rss/search?q=Togo%20protest&hl=en-TG&gl=TG&ceid=TG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136723049",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Togolese_Gen_Z_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136799328",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Mexico",
-      "countries": [
-        "Mexico"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Mexican_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "mexico-mexican-protests",
-        "name": "2025 Mexican protests",
-        "region": "Americas",
-        "location": "Mexico",
-        "year": 2025,
-        "description": "Series of protests in Mexico led mainly by Generation Z during the 2020s",
-        "keywords": [
-          "mexican",
-          "mexico",
-          "protest"
-        ],
-        "strictKeywords": [
-          "mexican"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Mexican%20protests&hl=en-MX&gl=MX&ceid=MX%3Aen",
-          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136799328",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Mexican_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q137366682",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Bulgaria",
-      "countries": [
-        "Bulgaria",
-        "Czech Republic",
-        "Germany",
-        "United Kingdom",
-        "Netherlands",
-        "Austria",
-        "Belgium",
-        "United States",
-        "Spain"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "bulgaria-bulgarian-protests",
-        "name": "2025 Bulgarian protests",
-        "region": "Europe",
-        "location": "Bulgaria",
-        "year": 2025,
-        "description": "Gen Z protests over increasing taxes",
-        "keywords": [
-          "bulgarian",
-          "bulgaria",
-          "protest"
-        ],
-        "strictKeywords": [
-          "bulgarian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en-BG&gl=BG&ceid=BG%3Aen",
-          "https://news.google.com/rss/search?q=Bulgaria%20protest&hl=en-BG&gl=BG&ceid=BG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q137366682",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q137612545",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Iran",
-      "countries": [
-        "Iran"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "iran-iranian-protests",
-        "name": "2025–2026 Iranian protests",
-        "region": "Middle East",
-        "location": "Iran",
-        "year": 2025,
-        "description": "2025–2026 protests against the Islamic Republic",
-        "keywords": [
-          "iranian",
-          "iran",
-          "protest"
-        ],
-        "strictKeywords": [
-          "iranian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Iranian%20protests&hl=en-IR&gl=IR&ceid=IR%3Aen",
-          "https://news.google.com/rss/search?q=Iran%20protest&hl=en-IR&gl=IR&ceid=IR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q137612545",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests"
         }
       }
     },
@@ -4480,10 +4480,10 @@
         "bbc.co.uk",
         "express.co.uk"
       ],
-      "daysSeen": 4,
-      "articleCount": 16,
+      "daysSeen": 6,
+      "articleCount": 20,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-12",
       "samples": [
         {
           "title": "Black - clad masked  stop the boat protesters block roads in Dover",
@@ -4545,6 +4545,235 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "united-kingdom:black-block-boat",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-united-kingdom:balaclava-branded-gang",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "United Kingdom",
+      "countries": [
+        "United Kingdom"
+      ],
+      "domains": [
+        "dailystar.co.uk",
+        "express.co.uk",
+        "aol.co.uk"
+      ],
+      "daysSeen": 4,
+      "articleCount": 4,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Gang of balaclava - wearing protesters block roads near major united kingdom port as theyre branded  idiots",
+          "url": "https://www.dailystar.co.uk/news/latest-news/gang-balaclava-wearing-protesters-block-37630209",
+          "domain": "dailystar.co.uk",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "POLL : Should it be illegal to wear a balaclava in the united kingdom ?",
+          "url": "https://www.express.co.uk/news/uk/2245960/poll-balaclavas-illegal-dover-port",
+          "domain": "express.co.uk",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Chaos in united kingdom seaside city as man arrested in heated anti - migrant protes | united kingdom | News",
+          "url": "https://www.express.co.uk/news/uk/2248003/chaos-uk-seaside-city-arrest",
+          "domain": "express.co.uk",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Reform united kingdom beset by internal row over response to Dover and Portsmouth protests",
+          "url": "https://www.aol.co.uk/articles/reform-uk-beset-internal-row-040001000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-09-11"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "united-kingdom-gang-of-balaclava-wearing-protesters",
+        "name": "Gang of balaclava - wearing protesters",
+        "region": "Europe",
+        "location": "United Kingdom",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "gang",
+          "balaclava",
+          "wearing",
+          "protesters",
+          "united kingdom",
+          "protest"
+        ],
+        "strictKeywords": [
+          "gang",
+          "balaclava",
+          "wearing",
+          "protesters"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Gang%20of%20balaclava%20-%20wearing%20protesters&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "united-kingdom:balaclava-branded-gang",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-united-kingdom:anti-blames-dover",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "United Kingdom",
+      "countries": [
+        "United Kingdom"
+      ],
+      "domains": [
+        "echo-news.co.uk",
+        "kentonline.co.uk",
+        "theargus.co.uk",
+        "salisburyjournal.co.uk",
+        "lancashiretelegraph.co.uk",
+        "herefordtimes.com",
+        "yorkpress.co.uk",
+        "swindonadvertiser.co.uk",
+        "oxfordmail.co.uk",
+        "dissexpress.co.uk",
+        "witneygazette.co.uk",
+        "newburytoday.co.uk",
+        "stourbridgenews.co.uk",
+        "timesandstar.co.uk",
+        "eveshamjournal.co.uk",
+        "cravenherald.co.uk",
+        "darlingtonandstocktontimes.co.uk",
+        "newhamrecorder.co.uk",
+        "thisisoxfordshire.co.uk",
+        "fenlandcitizen.co.uk",
+        "greenocktelegraph.co.uk",
+        "wharfedaleobserver.co.uk",
+        "heraldseries.co.uk",
+        "burytimes.co.uk",
+        "harwichandmanningtreestandard.co.uk",
+        "thisiswiltshire.co.uk",
+        "halesowennews.co.uk",
+        "hexham-courant.co.uk",
+        "peeblesshirenews.com",
+        "clactonandfrintongazette.co.uk",
+        "bromsgroveadvertiser.co.uk",
+        "rhyljournal.co.uk",
+        "sloughobserver.co.uk",
+        "hampshirechronicle.co.uk",
+        "irvinetimes.com",
+        "somersetcountygazette.co.uk",
+        "newarkadvertiser.co.uk",
+        "bordertelegraph.com",
+        "worcesternews.co.uk",
+        "andoveradvertiser.co.uk",
+        "countytimes.co.uk",
+        "tivysideadvertiser.co.uk",
+        "harrowtimes.co.uk",
+        "milfordmercury.co.uk",
+        "penarthtimes.co.uk",
+        "hertsad.co.uk",
+        "southwalesguardian.co.uk",
+        "malverngazette.co.uk",
+        "wimbledonguardian.co.uk",
+        "guardian-series.co.uk",
+        "eastlothiancourier.com",
+        "redditchadvertiser.co.uk",
+        "kidderminstershuttle.co.uk",
+        "cotswoldjournal.co.uk",
+        "basingstokegazette.co.uk",
+        "wirralglobe.co.uk",
+        "northwichguardian.co.uk",
+        "bridgwatermercury.co.uk",
+        "rutland-times.co.uk",
+        "bicesteradvertiser.net",
+        "enfieldindependent.co.uk",
+        "islingtongazette.co.uk",
+        "stroudnewsandjournal.co.uk",
+        "bridportnews.co.uk",
+        "brentwoodlive.co.uk",
+        "chesterstandard.co.uk",
+        "thewestmorlandgazette.co.uk",
+        "keighleynews.co.uk",
+        "hillingdontimes.co.uk",
+        "wiltsglosstandard.co.uk",
+        "warringtonguardian.co.uk",
+        "southwalesargus.co.uk",
+        "stratford-herald.com",
+        "thurrockgazette.co.uk",
+        "dumbartonreporter.co.uk",
+        "gazetteandherald.co.uk",
+        "lynnnews.co.uk",
+        "halsteadgazette.co.uk",
+        "wiltshiretimes.co.uk",
+        "thecomet.net",
+        "northwaleschronicle.co.uk",
+        "aol.co.uk"
+      ],
+      "daysSeen": 3,
+      "articleCount": 3,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-10",
+      "samples": [
+        {
+          "title": "Police minister blames Tories for Portsmouth and Dover anti - migration protests",
+          "url": "https://www.echo-news.co.uk/news/national/26529891.police-minister-blames-tories-portsmouth-dover-anti-migration-protests/",
+          "domain": "echo-news.co.uk",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Police  absolutely ready  to use powers to ban masks at anti - migration protests",
+          "url": "https://www.aol.co.uk/articles/police-absolutely-ready-powers-ban-161928000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Police  absolutely ready  to use powers to ban masks at anti - migration protests",
+          "url": "https://www.aol.co.uk/articles/police-absolutely-ready-powers-ban-161928000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-09-10"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "united-kingdom-police-minister-blames-tories-for-portsmouth",
+        "name": "Police minister blames Tories for Portsmouth",
+        "region": "Europe",
+        "location": "United Kingdom",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "police",
+          "minister",
+          "blames",
+          "tories",
+          "for",
+          "portsmouth",
+          "united kingdom",
+          "protest"
+        ],
+        "strictKeywords": [
+          "police",
+          "minister",
+          "blames",
+          "tories",
+          "for",
+          "portsmouth"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Police%20minister%20blames%20Tories%20for%20Portsmouth&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "united-kingdom:anti-blames-dover",
           "wikipedia": ""
         }
       }

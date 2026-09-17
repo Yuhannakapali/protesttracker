@@ -32323,7 +32323,7 @@
         "2026-09-12",
         "2026-09-10"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-09-10",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -32338,6 +32338,18 @@
           "url": "https://www.heraldscotland.com/news/26535796.minister-backs-warning-pink-ladies-glasgow-protest/",
           "domain": "heraldscotland.com",
           "date": "2026-09-10"
+        },
+        {
+          "title": "Cops set to ramp up number of officers for right - wing Pink Ladies protest",
+          "url": "https://www.dailyrecord.co.uk/news/cops-set-ramp-up-number-37653393",
+          "domain": "dailyrecord.co.uk",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Hundreds gather for right - wing Pink Ladies protest and counter - demo in Glasgow",
+          "url": "https://www.dailyrecord.co.uk/news/scottish-news/hundreds-gather-right-wing-pink-37655633",
+          "domain": "dailyrecord.co.uk",
+          "date": "2026-09-12"
         }
       ]
     },
@@ -32396,7 +32408,20 @@
         "caught",
         "felt",
         "unsafe",
-        "family"
+        "family",
+        "news",
+        "asylum",
+        "appeal",
+        "mum",
+        "tommo",
+        "unsettling",
+        "week",
+        "attacks",
+        "rescues",
+        "rnli",
+        "small",
+        "steps",
+        "security"
       ],
       "domains": [
         "bournemouthecho.co.uk",
@@ -32457,11 +32482,13 @@
         "2026-09-05",
         "2026-09-06",
         "2026-09-07",
-        "2026-09-08"
+        "2026-09-08",
+        "2026-09-12",
+        "2026-09-10"
       ],
-      "articleCount": 16,
+      "articleCount": 20,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-12",
       "samples": [
         {
           "title": "Black - clad masked  stop the boat protesters block roads in Dover",
@@ -32622,7 +32649,7 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 5,
+      "articleCount": 8,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -32674,19 +32701,32 @@
         "wear",
         "should",
         "united",
-        "illegal"
+        "illegal",
+        "chaos",
+        "heated",
+        "protes",
+        "seaside",
+        "news",
+        "beset",
+        "dover",
+        "internal",
+        "reform",
+        "row"
       ],
       "domains": [
         "dailystar.co.uk",
-        "express.co.uk"
+        "express.co.uk",
+        "aol.co.uk"
       ],
       "daysSeen": [
         "2026-09-05",
-        "2026-09-06"
+        "2026-09-06",
+        "2026-09-12",
+        "2026-09-11"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-06",
+      "lastSeen": "2026-09-12",
       "samples": [
         {
           "title": "Gang of balaclava - wearing protesters block roads near major united kingdom port as theyre branded  idiots",
@@ -32699,6 +32739,18 @@
           "url": "https://www.express.co.uk/news/uk/2245960/poll-balaclavas-illegal-dover-port",
           "domain": "express.co.uk",
           "date": "2026-09-06"
+        },
+        {
+          "title": "Chaos in united kingdom seaside city as man arrested in heated anti - migrant protes | united kingdom | News",
+          "url": "https://www.express.co.uk/news/uk/2248003/chaos-uk-seaside-city-arrest",
+          "domain": "express.co.uk",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Reform united kingdom beset by internal row over response to Dover and Portsmouth protests",
+          "url": "https://www.aol.co.uk/articles/reform-uk-beset-internal-row-040001000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-09-11"
         }
       ]
     },
@@ -32809,7 +32861,7 @@
         "2026-09-08",
         "2026-09-10"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-09-07",
       "lastSeen": "2026-09-10",
       "samples": [
@@ -32818,6 +32870,12 @@
           "url": "https://www.echo-news.co.uk/news/national/26529891.police-minister-blames-tories-portsmouth-dover-anti-migration-protests/",
           "domain": "echo-news.co.uk",
           "date": "2026-09-07"
+        },
+        {
+          "title": "Police  absolutely ready  to use powers to ban masks at anti - migration protests",
+          "url": "https://www.aol.co.uk/articles/police-absolutely-ready-powers-ban-161928000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-09-10"
         },
         {
           "title": "Police  absolutely ready  to use powers to ban masks at anti - migration protests",
@@ -32844,10 +32902,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Wirral Council workers to walk out in row over pay",
+          "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/wirral-council-workers-walk-out-34605913",
+          "domain": "liverpoolecho.co.uk",
+          "date": "2026-09-11"
+        },
         {
           "title": "Wirral Council workers to walk out in row over pay",
           "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/wirral-council-workers-walk-out-34605913",
@@ -32929,10 +32993,16 @@
       "daysSeen": [
         "2026-09-10"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-10",
       "lastSeen": "2026-09-10",
       "samples": [
+        {
+          "title": "Police chiefs prepared for weekend anti - migrant protests after warning",
+          "url": "https://www.aol.co.uk/articles/police-chiefs-prepared-weekend-anti-175500000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-09-10"
+        },
         {
           "title": "Police chiefs prepared for weekend anti - migrant protests after warning",
           "url": "https://www.aol.co.uk/articles/police-chiefs-prepared-weekend-anti-175500000.html",
@@ -35482,10 +35552,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "La Grève des bàttu dAminata Sow Fall : résumé et analyse",
+          "url": "https://www.leral.net/Note-de-lecture-La-Greve-des-battu-d-Aminata-Sow-Fall_a405739.html",
+          "domain": "leral.net",
+          "date": "2026-09-12"
+        },
         {
           "title": "La Grève des bàttu dAminata Sow Fall : résumé et analyse",
           "url": "https://www.leral.net/Note-de-lecture-La-Greve-des-battu-d-Aminata-Sow-Fall_a405739.html",
@@ -40014,6 +40090,637 @@
           "url": "https://www.opinionnigeria.com/four-years-for-digital-terror-is-not-justice-by-fransiscus-nanga-roka/",
           "domain": "opinionnigeria.com",
           "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:amass-days-following": {
+      "id": "united-kingdom:amass-days-following",
+      "country": "United Kingdom",
+      "terms": [
+        "amass",
+        "days",
+        "following"
+      ],
+      "domains": [
+        "lbc.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Immigration protests and counter - protests amass in Portsmouth following days of unrest",
+          "url": "https://www.lbc.co.uk/article/immigration-protests-amass-portsmouth-5HjdhKP_2/",
+          "domain": "lbc.co.uk",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:experiences-second-weekend": {
+      "id": "united-kingdom:experiences-second-weekend",
+      "country": "United Kingdom",
+      "terms": [
+        "experiences",
+        "second",
+        "weekend"
+      ],
+      "domains": [
+        "theguardian.com"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Portsmouth experiences second weekend of anti - immigration protests",
+          "url": "https://www.theguardian.com/politics/2026/sep/12/portsmouth-experiences-second-weekend-of-anti-immigration-protests",
+          "domain": "theguardian.com",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:country-investment-labour": {
+      "id": "united-kingdom:country-investment-labour",
+      "country": "United Kingdom",
+      "terms": [
+        "country",
+        "investment",
+        "labour",
+        "leave",
+        "our",
+        "paternity",
+        "upfront"
+      ],
+      "domains": [
+        "lbc.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Paternity leave is an  upfront investment  in our country , says Labour MP",
+          "url": "https://www.lbc.co.uk/article/paternity-leave-investment-maya-ellis-5HjdhKC_2/",
+          "domain": "lbc.co.uk",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:around-form-ring": {
+      "id": "united-kingdom:around-form-ring",
+      "country": "United Kingdom",
+      "terms": [
+        "around",
+        "form",
+        "ring",
+        "steel"
+      ],
+      "domains": [
+        "dailyrecord.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Police form ring of steel around anti - immigration and counter protesters in Glasgow",
+          "url": "https://www.dailyrecord.co.uk/news/scottish-news/police-form-ring-steel-around-37656144",
+          "domain": "dailyrecord.co.uk",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:centre-heavy-live": {
+      "id": "united-kingdom:centre-heavy-live",
+      "country": "United Kingdom",
+      "terms": [
+        "heavy",
+        "live",
+        "saturday",
+        "updates",
+        "centre",
+        "newcastle",
+        "legal",
+        "northumbria",
+        "order",
+        "statement"
+      ],
+      "domains": [
+        "chroniclelive.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 2,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Newcastle city centre LIVE : Updates amid heavy police presence for Saturday demonstrations",
+          "url": "https://www.chroniclelive.co.uk/news/north-east-news/newcastle-city-centre-live-updates-34607562",
+          "domain": "chroniclelive.co.uk",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Northumbria Police statement on Newcastle city centre protests with  legal order in place",
+          "url": "https://www.chroniclelive.co.uk/news/north-east-news/northumbria-police-statement-newcastle-city-34607066",
+          "domain": "chroniclelive.co.uk",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:drown": {
+      "id": "united-kingdom:drown",
+      "country": "United Kingdom",
+      "terms": [
+        "drown"
+      ],
+      "domains": [
+        "thenational.scot"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Counter - protesters gather in Glasgow Green to drown out anti - immigration rally",
+          "url": "https://www.thenational.scot/news/26545114.hundreds-counter-protesters-gather-glasgow-green/",
+          "domain": "thenational.scot",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:disorder-involvement": {
+      "id": "united-kingdom:disorder-involvement",
+      "country": "United Kingdom",
+      "terms": [
+        "disorder",
+        "involvement"
+      ],
+      "domains": [
+        "thenational.scot"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Man arrested for involvement in disorder at Glasgow Green protest",
+          "url": "https://www.thenational.scot/news/26545404.man-arrested-involvement-disorder-glasgow-green-protest/",
+          "domain": "thenational.scot",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:huge-see-three": {
+      "id": "united-kingdom:huge-see-three",
+      "country": "United Kingdom",
+      "terms": [
+        "huge",
+        "see",
+        "three"
+      ],
+      "domains": [
+        "birminghammail.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Anti - immigration protests see huge police presence in Portsmouth as three arrested",
+          "url": "https://www.birminghammail.co.uk/news/uk-news/anti-immigration-protests-see-huge-34608991",
+          "domain": "birminghammail.co.uk",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:fear-warn": {
+      "id": "united-kingdom:fear-warn",
+      "country": "United Kingdom",
+      "terms": [
+        "fear",
+        "warn"
+      ],
+      "domains": [
+        "echo-news.co.uk",
+        "lancashiretelegraph.co.uk",
+        "swindonadvertiser.co.uk",
+        "bucksfreepress.co.uk",
+        "aol.co.uk",
+        "theargus.co.uk",
+        "eveningnews24.co.uk",
+        "thetelegraphandargus.co.uk",
+        "salisburyjournal.co.uk",
+        "eadt.co.uk",
+        "oxfordmail.co.uk",
+        "yorkpress.co.uk",
+        "theboltonnews.co.uk",
+        "herefordtimes.com",
+        "yourlocalguardian.co.uk",
+        "bridgwatermercury.co.uk",
+        "dunfermlinepress.com",
+        "milfordmercury.co.uk",
+        "sthelensstar.co.uk",
+        "bracknellnews.co.uk",
+        "romfordrecorder.co.uk",
+        "somersetcountygazette.co.uk",
+        "bicesteradvertiser.net",
+        "burytimes.co.uk",
+        "hackneygazette.co.uk",
+        "elystandard.co.uk",
+        "cravenherald.co.uk",
+        "stourbridgenews.co.uk",
+        "midweekherald.co.uk",
+        "dissexpress.co.uk",
+        "stratford-herald.com",
+        "barryanddistrictnews.co.uk",
+        "northwichguardian.co.uk",
+        "times-series.co.uk",
+        "chardandilminsternews.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Protesters gather in Portsmouth as police warn against fear and violence",
+          "url": "https://www.echo-news.co.uk/news/national/26544947.protesters-gather-portsmouth-police-warn-fear-violence/",
+          "domain": "echo-news.co.uk",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:donald-irish-president": {
+      "id": "united-kingdom:donald-irish-president",
+      "country": "United Kingdom",
+      "terms": [
+        "donald",
+        "irish",
+        "president",
+        "protestors",
+        "streets",
+        "take",
+        "thousands",
+        "trump"
+      ],
+      "domains": [
+        "somersetlive.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Thousands of Donald Trump protestors take to Irish streets over US president visit",
+          "url": "https://www.somersetlive.co.uk/news/uk-world-news/thousands-donald-trump-protestors-take-11154401",
+          "domain": "somersetlive.co.uk",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:large-sees": {
+      "id": "united-kingdom:large-sees",
+      "country": "United Kingdom",
+      "terms": [
+        "sees",
+        "large"
+      ],
+      "domains": [
+        "nottinghampost.com"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Portsmouth anti - immigration protest sees large police presence",
+          "url": "https://www.nottinghampost.com/news/uk-world-news/portsmouth-anti-immigration-protest-sees-11154320",
+          "domain": "nottinghampost.com",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:arrests-large": {
+      "id": "united-kingdom:arrests-large",
+      "country": "United Kingdom",
+      "terms": [
+        "arrests",
+        "large"
+      ],
+      "domains": [
+        "plymouthherald.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Arrests at anti - immigration protest in Portsmouth as large police presence in place",
+          "url": "https://www.plymouthherald.co.uk/news/uk-world-news/arrests-anti-immigration-protest-portsmouth-11154465",
+          "domain": "plymouthherald.co.uk",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:disruptors-tolerance-violent": {
+      "id": "united-kingdom:disruptors-tolerance-violent",
+      "country": "United Kingdom",
+      "terms": [
+        "disruptors",
+        "tolerance",
+        "violent"
+      ],
+      "domains": [
+        "lbc.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Police vow  no tolerance  for violent disruptors ahead of rival protests in Glasgow",
+          "url": "https://www.lbc.co.uk/article/police-violent-disruptors-glasgow-immigration-protest-5HjdhK2_2/",
+          "domain": "lbc.co.uk",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:complaint-hate-lawyer": {
+      "id": "united-kingdom:complaint-hate-lawyer",
+      "country": "United Kingdom",
+      "terms": [
+        "complaint",
+        "hate",
+        "lawyer",
+        "leading",
+        "msp",
+        "scots",
+        "speech",
+        "reform"
+      ],
+      "domains": [
+        "dailyrecord.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Reform MSP hate speech complaint against leading Scots lawyer thrown out by cops",
+          "url": "https://www.dailyrecord.co.uk/news/politics/reform-msps-hate-speech-complaint-37656312",
+          "domain": "dailyrecord.co.uk",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:channel-dinghie-english": {
+      "id": "united-kingdom:channel-dinghie-english",
+      "country": "United Kingdom",
+      "terms": [
+        "channel",
+        "dinghie",
+        "english",
+        "intercept",
+        "plotting"
+      ],
+      "domains": [
+        "dailystar.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-13"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "samples": [
+        {
+          "title": "Patriot Platform  plotting to intercept migrant dinghie in English Channel",
+          "url": "https://www.dailystar.co.uk/news/latest-news/patriot-platform-plotting-intercept-migrant-37656942",
+          "domain": "dailystar.co.uk",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "united-kingdom:another-high-kashmir": {
+      "id": "united-kingdom:another-high-kashmir",
+      "country": "United Kingdom",
+      "terms": [
+        "another",
+        "high",
+        "kashmir",
+        "takes",
+        "wycombe"
+      ],
+      "domains": [
+        "bucksfreepress.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-11"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11",
+      "samples": [
+        {
+          "title": "Another Kashmir protest takes place in High Wycombe",
+          "url": "https://www.bucksfreepress.co.uk/news/26538928.another-kashmir-protest-takes-place-high-wycombe/",
+          "domain": "bucksfreepress.co.uk",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "united-kingdom:alleged-bangkok-businesses": {
+      "id": "united-kingdom:alleged-bangkok-businesses",
+      "country": "United Kingdom",
+      "terms": [
+        "alleged",
+        "bangkok",
+        "businesses",
+        "demand",
+        "israeli",
+        "land",
+        "landholding",
+        "nominee"
+      ],
+      "domains": [
+        "ibtimes.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-10"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10",
+      "samples": [
+        {
+          "title": "This Is Not the Promised Land : Bangkok Protesters Demand Scrutiny of Alleged Israeli Landholding and Nominee Businesses",
+          "url": "https://www.ibtimes.co.uk/thai-protesters-rally-israeli-embassy-land-business-allegations-1819036",
+          "domain": "ibtimes.co.uk",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "united-kingdom:connection-first": {
+      "id": "united-kingdom:connection-first",
+      "country": "United Kingdom",
+      "terms": [
+        "connection",
+        "first"
+      ],
+      "domains": [
+        "mirror.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-11"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11",
+      "samples": [
+        {
+          "title": "Man , 42 , first arrested in connection with anti - migrant protest in Portsmouth",
+          "url": "https://www.mirror.co.uk/news/uk-news/portsmouth-migrant-protest-arrest-rnli-37653049",
+          "domain": "mirror.co.uk",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "united-kingdom:concealing-identity": {
+      "id": "united-kingdom:concealing-identity",
+      "country": "United Kingdom",
+      "terms": [
+        "concealing",
+        "identity",
+        "becomes",
+        "covering",
+        "face",
+        "hours",
+        "ban",
+        "first"
+      ],
+      "domains": [
+        "kentonline.co.uk",
+        "mirror.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 2,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Man arrested over concealing identity at anti - immigration protest in Portsmouth",
+          "url": "https://www.kentonline.co.uk/news/national/man-arrested-over-concealing-identity-at-anti-immigration-protest-in-portsmouth-171617/",
+          "domain": "kentonline.co.uk",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Man becomes first arrested for  concealing his identity  hours after face covering ban",
+          "url": "https://www.mirror.co.uk/news/uk-news/face-covering-ban-arrest-hampshire-37656480",
+          "domain": "mirror.co.uk",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:council-ground-hackney": {
+      "id": "united-kingdom:council-ground-hackney",
+      "country": "United Kingdom",
+      "terms": [
+        "ground",
+        "hackney",
+        "moment",
+        "officer",
+        "council",
+        "security",
+        "thrown"
+      ],
+      "domains": [
+        "aol.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Moment protester  thrown to the ground  by Hackney Council security officer",
+          "url": "https://www.aol.co.uk/articles/moment-protester-thrown-ground-hackney-060430000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "united-kingdom:back-fight-hitting": {
+      "id": "united-kingdom:back-fight-hitting",
+      "country": "United Kingdom",
+      "terms": [
+        "back",
+        "fight",
+        "hitting",
+        "nhs",
+        "poverty",
+        "say",
+        "pay",
+        "ready"
+      ],
+      "domains": [
+        "socialistworker.co.uk"
+      ],
+      "daysSeen": [
+        "2026-09-11"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11",
+      "samples": [
+        {
+          "title": "We are ready for this fight , say NHS workers hitting back at poverty pay",
+          "url": "https://socialistworker.co.uk/trade-unions/we-are-ready-for-this-fight-say-nhs-workers-hitting-back-at-poverty-pay/",
+          "domain": "socialistworker.co.uk",
+          "date": "2026-09-11"
         }
       ]
     }
