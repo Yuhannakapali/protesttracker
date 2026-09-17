@@ -23,7 +23,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 145
+      "count": 144
     },
     {
       "start": "2026-08-01",
@@ -31,7 +31,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 331
+      "count": 333
     }
   ],
   "sources": [
@@ -198,12 +198,6 @@
       "last": "2026-09-06"
     },
     {
-      "name": "The Tribune",
-      "count": 10,
-      "first": "2026-08-15",
-      "last": "2026-09-10"
-    },
-    {
       "name": "BBC",
       "count": 9,
       "first": "2026-05-21",
@@ -214,6 +208,12 @@
       "count": 9,
       "first": "2026-07-08",
       "last": "2026-08-25"
+    },
+    {
+      "name": "Live Law",
+      "count": 9,
+      "first": "2026-07-24",
+      "last": "2026-09-17"
     },
     {
       "name": "Telangana Today",
@@ -228,6 +228,12 @@
       "last": "2026-09-10"
     },
     {
+      "name": "The Tribune",
+      "count": 9,
+      "first": "2026-08-15",
+      "last": "2026-09-10"
+    },
+    {
       "name": "Al Jazeera",
       "count": 8,
       "first": "2026-05-20",
@@ -238,12 +244,6 @@
       "count": 8,
       "first": "2026-08-21",
       "last": "2026-09-16"
-    },
-    {
-      "name": "Live Law",
-      "count": 8,
-      "first": "2026-07-24",
-      "last": "2026-09-06"
     },
     {
       "name": "Scroll.in",
@@ -336,7 +336,7 @@
       "last": "2026-07-22"
     },
     {
-      "name": "Bloomberg.com",
+      "name": "bloomberg.com",
       "count": 4,
       "first": "2026-08-10",
       "last": "2026-08-24"
@@ -424,6 +424,12 @@
       "count": 3,
       "first": "2026-08-14",
       "last": "2026-08-25"
+    },
+    {
+      "name": "The Quint",
+      "count": 3,
+      "first": "2026-08-18",
+      "last": "2026-09-17"
     },
     {
       "name": "thepamphlet.in",
@@ -618,16 +624,22 @@
       "last": "2026-08-25"
     },
     {
-      "name": "thequint.com",
-      "count": 2,
-      "first": "2026-09-15",
-      "last": "2026-09-17"
-    },
-    {
       "name": "timesofindia.indiatimes.com",
       "count": 2,
       "first": "2026-09-05",
       "last": "2026-09-14"
+    },
+    {
+      "name": "tribuneindia.com",
+      "count": 2,
+      "first": "2026-08-27",
+      "last": "2026-09-08"
+    },
+    {
+      "name": "True Scoop",
+      "count": 2,
+      "first": "2026-07-23",
+      "last": "2026-07-24"
     },
     {
       "name": "Whispers in the Corridors",
@@ -642,7 +654,7 @@
       "last": "2026-08-17"
     },
     {
-      "name": "ACLED",
+      "name": "acleddata.com",
       "count": 1,
       "first": "2026-07-27",
       "last": "2026-07-27"
@@ -668,8 +680,8 @@
     {
       "name": "Britannica",
       "count": 1,
-      "first": "2026-07-25",
-      "last": "2026-07-25"
+      "first": "2026-09-16",
+      "last": "2026-09-16"
     },
     {
       "name": "brut.media",
@@ -702,13 +714,7 @@
       "last": "2026-08-23"
     },
     {
-      "name": "civicus lens",
-      "count": 1,
-      "first": "2026-08-04",
-      "last": "2026-08-04"
-    },
-    {
-      "name": "Council on Foreign Relations",
+      "name": "cfr.org",
       "count": 1,
       "first": "2026-07-31",
       "last": "2026-07-31"
@@ -828,7 +834,7 @@
       "last": "2026-08-30"
     },
     {
-      "name": "indiablooms.com",
+      "name": "Indiablooms",
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
@@ -840,7 +846,7 @@
       "last": "2026-08-16"
     },
     {
-      "name": "International Service for Human Rights",
+      "name": "ishr.ch",
       "count": 1,
       "first": "2026-08-14",
       "last": "2026-08-14"
@@ -886,6 +892,12 @@
       "count": 1,
       "first": "2026-09-10",
       "last": "2026-09-10"
+    },
+    {
+      "name": "lens.civicus.org",
+      "count": 1,
+      "first": "2026-08-04",
+      "last": "2026-08-04"
     },
     {
       "name": "Lokmat.com",
@@ -1080,12 +1092,6 @@
       "last": "2026-07-30"
     },
     {
-      "name": "The Quint",
-      "count": 1,
-      "first": "2026-08-18",
-      "last": "2026-08-18"
-    },
-    {
       "name": "The Shillong Times",
       "count": 1,
       "first": "2026-08-11",
@@ -1132,24 +1138,6 @@
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
-    },
-    {
-      "name": "tribuneindia.com",
-      "count": 1,
-      "first": "2026-08-27",
-      "last": "2026-08-27"
-    },
-    {
-      "name": "True Scoop",
-      "count": 1,
-      "first": "2026-07-24",
-      "last": "2026-07-24"
-    },
-    {
-      "name": "truescoopnews.com",
-      "count": 1,
-      "first": "2026-07-23",
-      "last": "2026-07-23"
     },
     {
       "name": "Verdictum",
