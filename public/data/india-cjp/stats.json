@@ -276,12 +276,6 @@
       "last": "2026-09-16"
     },
     {
-      "name": "The Guardian",
-      "count": 7,
-      "first": "2026-06-08",
-      "last": "2026-08-04"
-    },
-    {
       "name": "The Hans India",
       "count": 7,
       "first": "2026-07-23",
@@ -292,6 +286,12 @@
       "count": 6,
       "first": "2026-08-16",
       "last": "2026-09-04"
+    },
+    {
+      "name": "theguardian.com",
+      "count": 6,
+      "first": "2026-06-08",
+      "last": "2026-07-27"
     },
     {
       "name": "Bar and Bench",
@@ -654,7 +654,7 @@
       "last": "2026-08-17"
     },
     {
-      "name": "acleddata.com",
+      "name": "ACLED",
       "count": 1,
       "first": "2026-07-27",
       "last": "2026-07-27"
@@ -714,7 +714,7 @@
       "last": "2026-08-23"
     },
     {
-      "name": "cfr.org",
+      "name": "Council on Foreign Relations",
       "count": 1,
       "first": "2026-07-31",
       "last": "2026-07-31"
@@ -846,7 +846,7 @@
       "last": "2026-08-16"
     },
     {
-      "name": "ishr.ch",
+      "name": "International Service for Human Rights",
       "count": 1,
       "first": "2026-08-14",
       "last": "2026-08-14"
@@ -1042,6 +1042,12 @@
       "count": 1,
       "first": "2026-09-12",
       "last": "2026-09-12"
+    },
+    {
+      "name": "The Guardian",
+      "count": 1,
+      "first": "2026-08-04",
+      "last": "2026-08-04"
     },
     {
       "name": "The International Institute for Strategic Studies",
