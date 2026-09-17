@@ -127,7 +127,7 @@
     },
     {
       "start": "2026-05-01",
-      "count": 43
+      "count": 44
     },
     {
       "start": "2026-06-01",
@@ -143,7 +143,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 2
+      "count": 4
     }
   ],
   "sources": [
@@ -154,12 +154,6 @@
       "last": "2026-08-10"
     },
     {
-      "name": "People Daily",
-      "count": 44,
-      "first": "2025-11-02",
-      "last": "2026-08-27"
-    },
-    {
       "name": "BBC",
       "count": 37,
       "first": "2024-06-18",
@@ -167,8 +161,14 @@
     },
     {
       "name": "Citizen Digital",
-      "count": 31,
+      "count": 32,
       "first": "2024-12-27",
+      "last": "2026-09-17"
+    },
+    {
+      "name": "peopledaily.digital",
+      "count": 27,
+      "first": "2026-03-27",
       "last": "2026-08-27"
     },
     {
@@ -178,22 +178,28 @@
       "last": "2026-06-27"
     },
     {
+      "name": "The Africa Report",
+      "count": 19,
+      "first": "2024-06-25",
+      "last": "2026-06-25"
+    },
+    {
       "name": "the-star.co.ke",
       "count": 19,
       "first": "2024-12-31",
       "last": "2026-08-27"
     },
     {
+      "name": "People Daily",
+      "count": 17,
+      "first": "2025-11-02",
+      "last": "2026-07-30"
+    },
+    {
       "name": "The Eastleigh Voice",
       "count": 15,
       "first": "2024-07-03",
       "last": "2026-08-27"
-    },
-    {
-      "name": "theafricareport.com",
-      "count": 13,
-      "first": "2025-06-13",
-      "last": "2026-06-25"
     },
     {
       "name": "dw.com",
@@ -236,12 +242,6 @@
       "count": 7,
       "first": "2026-04-03",
       "last": "2026-09-14"
-    },
-    {
-      "name": "The Africa Report",
-      "count": 7,
-      "first": "2024-06-25",
-      "last": "2026-06-11"
     },
     {
       "name": "The Conversation",
@@ -316,6 +316,12 @@
       "last": "2025-10-27"
     },
     {
+      "name": "Business Daily",
+      "count": 3,
+      "first": "2024-06-18",
+      "last": "2026-05-24"
+    },
+    {
       "name": "Democracy in Africa",
       "count": 3,
       "first": "2024-07-03",
@@ -326,12 +332,6 @@
       "count": 3,
       "first": "2024-11-05",
       "last": "2025-06-26"
-    },
-    {
-      "name": "Kenya Human Rights Commission (KHRC)",
-      "count": 3,
-      "first": "2024-06-24",
-      "last": "2026-01-05"
     },
     {
       "name": "MalindiKenya.net",
@@ -376,12 +376,6 @@
       "last": "2025-06-24"
     },
     {
-      "name": "Business Daily",
-      "count": 2,
-      "first": "2024-06-18",
-      "last": "2025-11-25"
-    },
-    {
       "name": "Capitalfm.co.ke",
       "count": 2,
       "first": "2026-04-21",
@@ -406,10 +400,22 @@
       "last": "2026-06-20"
     },
     {
+      "name": "Kenya Human Rights Commission (KHRC)",
+      "count": 2,
+      "first": "2024-06-24",
+      "last": "2024-06-28"
+    },
+    {
       "name": "Kenya News Agency",
       "count": 2,
       "first": "2026-04-24",
       "last": "2026-06-25"
+    },
+    {
+      "name": "khrc.or.ke",
+      "count": 2,
+      "first": "2025-09-20",
+      "last": "2026-01-05"
     },
     {
       "name": "Nairobi Leo",
@@ -478,7 +484,7 @@
       "last": "2024-07-19"
     },
     {
-      "name": "Bloomberg.com",
+      "name": "bloomberg.com",
       "count": 1,
       "first": "2026-05-05",
       "last": "2026-05-05"
@@ -496,12 +502,6 @@
       "last": "2025-06-25"
     },
     {
-      "name": "businessdailyafrica.com",
-      "count": 1,
-      "first": "2026-05-24",
-      "last": "2026-05-24"
-    },
-    {
       "name": "businesstoday.co.ke",
       "count": 1,
       "first": "2026-08-26",
@@ -514,6 +514,12 @@
       "last": "2024-08-01"
     },
     {
+      "name": "christiandaily.com",
+      "count": 1,
+      "first": "2026-06-15",
+      "last": "2026-06-15"
+    },
+    {
       "name": "Civicus Monitor",
       "count": 1,
       "first": "2023-10-20",
@@ -524,6 +530,12 @@
       "count": 1,
       "first": "2024-06-27",
       "last": "2024-06-27"
+    },
+    {
+      "name": "Cryptopolitan",
+      "count": 1,
+      "first": "2026-05-25",
+      "last": "2026-05-25"
     },
     {
       "name": "CSIS | Center for Strategic and International Studies",
@@ -574,12 +586,6 @@
       "last": "2026-06-24"
     },
     {
-      "name": "ibanet.org",
-      "count": 1,
-      "first": "2026-01-19",
-      "last": "2026-01-19"
-    },
-    {
       "name": "ICJ Kenya",
       "count": 1,
       "first": "2024-08-05",
@@ -590,6 +596,12 @@
       "count": 1,
       "first": "2026-02-17",
       "last": "2026-02-17"
+    },
+    {
+      "name": "International Bar Association | IBA",
+      "count": 1,
+      "first": "2026-01-19",
+      "last": "2026-01-19"
     },
     {
       "name": "International Socialist Alternative",
@@ -626,12 +638,6 @@
       "count": 1,
       "first": "2026-08-28",
       "last": "2026-08-28"
-    },
-    {
-      "name": "khrc.or.ke",
-      "count": 1,
-      "first": "2025-09-20",
-      "last": "2025-09-20"
     },
     {
       "name": "Kroc Institute for International Peace Studies",
@@ -742,13 +748,19 @@
       "last": "2024-08-01"
     },
     {
+      "name": "theafricareport.com",
+      "count": 1,
+      "first": "2025-07-10",
+      "last": "2025-07-10"
+    },
+    {
       "name": "TheCable",
       "count": 1,
       "first": "2026-04-22",
       "last": "2026-04-22"
     },
     {
-      "name": "thetricontinental.org",
+      "name": "Tricontinental: Institute for Social Research",
       "count": 1,
       "first": "2026-03-31",
       "last": "2026-03-31"
@@ -784,10 +796,10 @@
       "last": "2025-09-01"
     },
     {
-      "name": "www.christiandaily.com",
+      "name": "Yahoo",
       "count": 1,
-      "first": "2026-06-15",
-      "last": "2026-06-15"
+      "first": "2026-09-17",
+      "last": "2026-09-17"
     },
     {
       "name": "معهد الجزيرة للإعلام",
@@ -797,5 +809,5 @@
     }
   ],
   "firstDate": "2023-10-20",
-  "lastDate": "2026-09-14"
+  "lastDate": "2026-09-17"
 }
