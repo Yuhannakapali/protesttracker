@@ -815,21 +815,21 @@
     },
     {
       "start": "2026-09-01",
-      "count": 78
+      "count": 79
     }
   ],
   "sources": [
-    {
-      "name": "Daily Post Nigeria",
-      "count": 55,
-      "first": "2012-01-05",
-      "last": "2026-09-17"
-    },
     {
       "name": "The Guardian Nigeria News",
       "count": 51,
       "first": "2015-10-02",
       "last": "2026-06-08"
+    },
+    {
+      "name": "Daily Post Nigeria",
+      "count": 47,
+      "first": "2012-01-05",
+      "last": "2026-09-17"
     },
     {
       "name": "Channels Television",
@@ -863,7 +863,7 @@
     },
     {
       "name": "Punch Newspapers",
-      "count": 26,
+      "count": 19,
       "first": "2020-09-04",
       "last": "2026-09-11"
     },
@@ -898,12 +898,6 @@
       "last": "2026-09-16"
     },
     {
-      "name": "Legit News",
-      "count": 13,
-      "first": "2022-01-02",
-      "last": "2025-09-16"
-    },
-    {
       "name": "Al Jazeera",
       "count": 12,
       "first": "2012-01-04",
@@ -922,22 +916,40 @@
       "last": "2026-02-04"
     },
     {
+      "name": "legit.ng",
+      "count": 10,
+      "first": "2022-01-02",
+      "last": "2025-09-16"
+    },
+    {
       "name": "The Whistler Newspaper",
       "count": 10,
       "first": "2020-09-04",
       "last": "2026-06-03"
     },
     {
-      "name": "Independent Newspaper Nigeria",
+      "name": "dailypost.ng",
       "count": 9,
-      "first": "2020-09-07",
-      "last": "2026-01-29"
+      "first": "2012-02-05",
+      "last": "2026-06-03"
+    },
+    {
+      "name": "punchng.com",
+      "count": 8,
+      "first": "2025-10-20",
+      "last": "2026-07-20"
     },
     {
       "name": "The Guardian",
       "count": 8,
       "first": "2012-01-03",
       "last": "2026-01-26"
+    },
+    {
+      "name": "Independent Newspaper Nigeria",
+      "count": 7,
+      "first": "2023-01-30",
+      "last": "2026-01-29"
     },
     {
       "name": "The Nation Newspaper",
@@ -962,6 +974,12 @@
       "count": 5,
       "first": "2012-01-03",
       "last": "2024-06-03"
+    },
+    {
+      "name": "Legit News",
+      "count": 5,
+      "first": "2024-07-30",
+      "last": "2025-06-25"
     },
     {
       "name": "Nigeria Labour Congress (NLC)",
@@ -1000,12 +1018,6 @@
       "last": "2026-01-27"
     },
     {
-      "name": "LEADERSHIP Newspapers",
-      "count": 4,
-      "first": "2024-09-08",
-      "last": "2026-06-04"
-    },
-    {
       "name": "Nigeria Info FM",
       "count": 4,
       "first": "2025-12-17",
@@ -1022,6 +1034,18 @@
       "count": 4,
       "first": "2020-07-16",
       "last": "2025-10-22"
+    },
+    {
+      "name": "fij.ng",
+      "count": 3,
+      "first": "2024-09-04",
+      "last": "2024-11-11"
+    },
+    {
+      "name": "LEADERSHIP Newspapers",
+      "count": 3,
+      "first": "2024-09-08",
+      "last": "2026-02-03"
     },
     {
       "name": "Peoples Gazette Nigeria",
@@ -1048,16 +1072,10 @@
       "last": "2021-03-12"
     },
     {
-      "name": "FIJ NG",
+      "name": "independent.ng",
       "count": 2,
-      "first": "2024-09-04",
-      "last": "2024-09-05"
-    },
-    {
-      "name": "legit.ng",
-      "count": 2,
-      "first": "2024-09-04",
-      "last": "2024-09-04"
+      "first": "2020-09-07",
+      "last": "2026-01-23"
     },
     {
       "name": "Mail & Guardian",
@@ -1156,7 +1174,7 @@
       "last": "2026-07-22"
     },
     {
-      "name": "Channel Africa",
+      "name": "channelafrica.co.za",
       "count": 1,
       "first": "2026-03-19",
       "last": "2026-03-19"
@@ -1166,18 +1184,6 @@
       "count": 1,
       "first": "2026-08-19",
       "last": "2026-08-19"
-    },
-    {
-      "name": "dailypost.ng",
-      "count": 1,
-      "first": "2023-09-04",
-      "last": "2023-09-04"
-    },
-    {
-      "name": "fij.ng",
-      "count": 1,
-      "first": "2024-11-11",
-      "last": "2024-11-11"
     },
     {
       "name": "Firstpost",
@@ -1252,6 +1258,12 @@
       "last": "2024-08-21"
     },
     {
+      "name": "leadership.ng",
+      "count": 1,
+      "first": "2026-06-04",
+      "last": "2026-06-04"
+    },
+    {
       "name": "MarketForces Africa",
       "count": 1,
       "first": "2024-11-05",
@@ -1288,6 +1300,12 @@
       "last": "2024-09-05"
     },
     {
+      "name": "Nigerian Democratic Report",
+      "count": 1,
+      "first": "2026-09-17",
+      "last": "2026-09-17"
+    },
+    {
       "name": "nlcng.org",
       "count": 1,
       "first": "2023-11-15",
@@ -1322,12 +1340,6 @@
       "count": 1,
       "first": "2026-06-09",
       "last": "2026-06-09"
-    },
-    {
-      "name": "punchng.com",
-      "count": 1,
-      "first": "2026-06-28",
-      "last": "2026-06-28"
     },
     {
       "name": "radionigeriaibadan.gov.ng",

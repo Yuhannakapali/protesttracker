@@ -131,7 +131,7 @@
     },
     {
       "start": "2026-06-01",
-      "count": 146
+      "count": 147
     },
     {
       "start": "2026-07-01",
@@ -139,7 +139,7 @@
     },
     {
       "start": "2026-08-01",
-      "count": 21
+      "count": 22
     },
     {
       "start": "2026-09-01",
@@ -149,7 +149,7 @@
   "sources": [
     {
       "name": "Daily Nation",
-      "count": 48,
+      "count": 49,
       "first": "2024-06-19",
       "last": "2026-08-10"
     },
@@ -167,7 +167,7 @@
     },
     {
       "name": "Citizen Digital",
-      "count": 30,
+      "count": 31,
       "first": "2024-12-27",
       "last": "2026-08-27"
     },
@@ -178,14 +178,8 @@
       "last": "2026-06-27"
     },
     {
-      "name": "The Africa Report",
-      "count": 19,
-      "first": "2024-06-25",
-      "last": "2026-06-25"
-    },
-    {
       "name": "the-star.co.ke",
-      "count": 18,
+      "count": 19,
       "first": "2024-12-31",
       "last": "2026-08-27"
     },
@@ -196,10 +190,22 @@
       "last": "2026-08-27"
     },
     {
+      "name": "theafricareport.com",
+      "count": 13,
+      "first": "2025-06-13",
+      "last": "2026-06-25"
+    },
+    {
       "name": "dw.com",
       "count": 10,
       "first": "2024-06-21",
       "last": "2026-06-25"
+    },
+    {
+      "name": "World Socialist Web Site",
+      "count": 10,
+      "first": "2025-06-25",
+      "last": "2026-07-07"
     },
     {
       "name": "The EastAfrican",
@@ -212,12 +218,6 @@
       "count": 9,
       "first": "2024-06-24",
       "last": "2026-08-27"
-    },
-    {
-      "name": "World Socialist Web Site",
-      "count": 9,
-      "first": "2025-06-25",
-      "last": "2026-07-07"
     },
     {
       "name": "facebook.com",
@@ -236,6 +236,12 @@
       "count": 7,
       "first": "2026-04-03",
       "last": "2026-09-14"
+    },
+    {
+      "name": "The Africa Report",
+      "count": 7,
+      "first": "2024-06-25",
+      "last": "2026-06-11"
     },
     {
       "name": "The Conversation",
@@ -310,12 +316,6 @@
       "last": "2025-10-27"
     },
     {
-      "name": "Business Daily",
-      "count": 3,
-      "first": "2024-06-18",
-      "last": "2026-05-24"
-    },
-    {
       "name": "Democracy in Africa",
       "count": 3,
       "first": "2024-07-03",
@@ -374,6 +374,12 @@
       "count": 2,
       "first": "2024-07-05",
       "last": "2025-06-24"
+    },
+    {
+      "name": "Business Daily",
+      "count": 2,
+      "first": "2024-06-18",
+      "last": "2025-11-25"
     },
     {
       "name": "Capitalfm.co.ke",
@@ -490,6 +496,12 @@
       "last": "2025-06-25"
     },
     {
+      "name": "businessdailyafrica.com",
+      "count": 1,
+      "first": "2026-05-24",
+      "last": "2026-05-24"
+    },
+    {
       "name": "businesstoday.co.ke",
       "count": 1,
       "first": "2026-08-26",
@@ -562,6 +574,12 @@
       "last": "2026-06-24"
     },
     {
+      "name": "ibanet.org",
+      "count": 1,
+      "first": "2026-01-19",
+      "last": "2026-01-19"
+    },
+    {
       "name": "ICJ Kenya",
       "count": 1,
       "first": "2024-08-05",
@@ -572,12 +590,6 @@
       "count": 1,
       "first": "2026-02-17",
       "last": "2026-02-17"
-    },
-    {
-      "name": "International Bar Association | IBA",
-      "count": 1,
-      "first": "2026-01-19",
-      "last": "2026-01-19"
     },
     {
       "name": "International Socialist Alternative",
@@ -646,12 +658,6 @@
       "last": "2025-05-13"
     },
     {
-      "name": "nation.africa",
-      "count": 1,
-      "first": "2025-06-24",
-      "last": "2025-06-24"
-    },
-    {
       "name": "openDemocracy",
       "count": 1,
       "first": "2026-06-25",
@@ -706,7 +712,7 @@
       "last": "2026-06-27"
     },
     {
-      "name": "techweez.com",
+      "name": "Techweez",
       "count": 1,
       "first": "2024-06-20",
       "last": "2024-06-20"
@@ -734,12 +740,6 @@
       "count": 1,
       "first": "2024-08-01",
       "last": "2024-08-01"
-    },
-    {
-      "name": "theafricareport.com",
-      "count": 1,
-      "first": "2025-07-10",
-      "last": "2025-07-10"
     },
     {
       "name": "TheCable",
@@ -782,12 +782,6 @@
       "count": 1,
       "first": "2025-09-01",
       "last": "2025-09-01"
-    },
-    {
-      "name": "wsws.org",
-      "count": 1,
-      "first": "2025-10-26",
-      "last": "2025-10-26"
     },
     {
       "name": "www.christiandaily.com",
