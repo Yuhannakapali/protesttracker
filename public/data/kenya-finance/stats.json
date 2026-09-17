@@ -131,7 +131,7 @@
     },
     {
       "start": "2026-06-01",
-      "count": 145
+      "count": 146
     },
     {
       "start": "2026-07-01",
@@ -139,7 +139,7 @@
     },
     {
       "start": "2026-08-01",
-      "count": 20
+      "count": 21
     },
     {
       "start": "2026-09-01",
@@ -147,6 +147,12 @@
     }
   ],
   "sources": [
+    {
+      "name": "Daily Nation",
+      "count": 48,
+      "first": "2024-06-19",
+      "last": "2026-08-10"
+    },
     {
       "name": "People Daily",
       "count": 44,
@@ -166,22 +172,10 @@
       "last": "2026-08-27"
     },
     {
-      "name": "Daily Nation",
-      "count": 27,
-      "first": "2024-06-19",
-      "last": "2026-07-03"
-    },
-    {
       "name": "Al Jazeera",
       "count": 22,
       "first": "2024-06-18",
       "last": "2026-06-27"
-    },
-    {
-      "name": "nation.africa",
-      "count": 22,
-      "first": "2025-06-24",
-      "last": "2026-08-10"
     },
     {
       "name": "The Africa Report",
@@ -412,6 +406,12 @@
       "last": "2026-06-25"
     },
     {
+      "name": "Nairobi Leo",
+      "count": 2,
+      "first": "2026-06-23",
+      "last": "2026-06-25"
+    },
+    {
       "name": "NTV Kenya",
       "count": 2,
       "first": "2026-03-23",
@@ -502,12 +502,6 @@
       "last": "2024-08-01"
     },
     {
-      "name": "christiandaily.com",
-      "count": 1,
-      "first": "2026-06-15",
-      "last": "2026-06-15"
-    },
-    {
       "name": "Civicus Monitor",
       "count": 1,
       "first": "2023-10-20",
@@ -568,12 +562,6 @@
       "last": "2026-06-24"
     },
     {
-      "name": "ibanet.org",
-      "count": 1,
-      "first": "2026-01-19",
-      "last": "2026-01-19"
-    },
-    {
       "name": "ICJ Kenya",
       "count": 1,
       "first": "2024-08-05",
@@ -584,6 +572,12 @@
       "count": 1,
       "first": "2026-02-17",
       "last": "2026-02-17"
+    },
+    {
+      "name": "International Bar Association | IBA",
+      "count": 1,
+      "first": "2026-01-19",
+      "last": "2026-01-19"
     },
     {
       "name": "International Socialist Alternative",
@@ -634,6 +628,12 @@
       "last": "2024-08-12"
     },
     {
+      "name": "Livenow Africa",
+      "count": 1,
+      "first": "2026-08-27",
+      "last": "2026-08-27"
+    },
+    {
       "name": "Middle East Monitor",
       "count": 1,
       "first": "2026-06-26",
@@ -646,10 +646,10 @@
       "last": "2025-05-13"
     },
     {
-      "name": "Nairobi Leo",
+      "name": "nation.africa",
       "count": 1,
-      "first": "2026-06-25",
-      "last": "2026-06-25"
+      "first": "2025-06-24",
+      "last": "2025-06-24"
     },
     {
       "name": "openDemocracy",
@@ -706,7 +706,7 @@
       "last": "2026-06-27"
     },
     {
-      "name": "Techweez",
+      "name": "techweez.com",
       "count": 1,
       "first": "2024-06-20",
       "last": "2024-06-20"
@@ -788,6 +788,12 @@
       "count": 1,
       "first": "2025-10-26",
       "last": "2025-10-26"
+    },
+    {
+      "name": "www.christiandaily.com",
+      "count": 1,
+      "first": "2026-06-15",
+      "last": "2026-06-15"
     },
     {
       "name": "معهد الجزيرة للإعلام",

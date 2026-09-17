@@ -23,7 +23,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 142
+      "count": 143
     },
     {
       "start": "2026-08-01",
@@ -31,13 +31,13 @@
     },
     {
       "start": "2026-09-01",
-      "count": 315
+      "count": 317
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 83,
+      "count": 84,
       "first": "2026-06-06",
       "last": "2026-09-16"
     },
@@ -67,21 +67,21 @@
     },
     {
       "name": "Telegraph India",
-      "count": 46,
+      "count": 47,
       "first": "2026-07-21",
-      "last": "2026-09-14"
-    },
-    {
-      "name": "The Times of India",
-      "count": 45,
-      "first": "2026-06-06",
-      "last": "2026-09-15"
+      "last": "2026-09-17"
     },
     {
       "name": "India Today",
       "count": 34,
       "first": "2026-07-15",
       "last": "2026-09-09"
+    },
+    {
+      "name": "The Times of India",
+      "count": 33,
+      "first": "2026-06-06",
+      "last": "2026-09-15"
     },
     {
       "name": "ThePrint",
@@ -154,6 +154,12 @@
       "count": 15,
       "first": "2026-07-23",
       "last": "2026-09-03"
+    },
+    {
+      "name": "timesofindia.indiatimes.com",
+      "count": 14,
+      "first": "2026-08-21",
+      "last": "2026-09-17"
     },
     {
       "name": "Deccan Chronicle",
@@ -1026,6 +1032,12 @@
       "last": "2026-08-29"
     },
     {
+      "name": "The Daily Star",
+      "count": 1,
+      "first": "2026-09-12",
+      "last": "2026-09-12"
+    },
+    {
       "name": "The International Institute for Strategic Studies",
       "count": 1,
       "first": "2026-08-20",
@@ -1098,12 +1110,6 @@
       "last": "2026-09-05"
     },
     {
-      "name": "thedailystar.net",
-      "count": 1,
-      "first": "2026-09-12",
-      "last": "2026-09-12"
-    },
-    {
       "name": "thekashmirimages.com",
       "count": 1,
       "first": "2026-09-04",
@@ -1126,12 +1132,6 @@
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
-    },
-    {
-      "name": "timesofindia.indiatimes.com",
-      "count": 1,
-      "first": "2026-09-05",
-      "last": "2026-09-05"
     },
     {
       "name": "tribuneindia.com",
@@ -1171,5 +1171,5 @@
     }
   ],
   "firstDate": "2026-02-07",
-  "lastDate": "2026-09-16"
+  "lastDate": "2026-09-17"
 }
