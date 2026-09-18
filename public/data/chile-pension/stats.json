@@ -582,16 +582,16 @@
       "last": "2026-06-24"
     },
     {
-      "name": "The Clinic",
-      "count": 13,
-      "first": "2016-07-27",
-      "last": "2026-09-14"
-    },
-    {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
+    },
+    {
+      "name": "The Clinic",
+      "count": 10,
+      "first": "2016-07-27",
+      "last": "2026-09-14"
     },
     {
       "name": "BBC",
@@ -654,7 +654,7 @@
       "last": "2025-01-15"
     },
     {
-      "name": "SoyChile.cl",
+      "name": "soychile.cl",
       "count": 5,
       "first": "2016-08-10",
       "last": "2019-03-31"
@@ -726,12 +726,6 @@
       "last": "2022-03-31"
     },
     {
-      "name": "The Guardian",
-      "count": 3,
-      "first": "2016-08-21",
-      "last": "2019-10-30"
-    },
-    {
       "name": "The New York Times",
       "count": 3,
       "first": "2016-09-10",
@@ -742,6 +736,12 @@
       "count": 3,
       "first": "2019-10-30",
       "last": "2019-11-21"
+    },
+    {
+      "name": "theclinic.cl",
+      "count": 3,
+      "first": "2017-02-11",
+      "last": "2019-03-31"
     },
     {
       "name": "ai-cio.com",
@@ -796,6 +796,12 @@
       "count": 2,
       "first": "2026-07-15",
       "last": "2026-07-29"
+    },
+    {
+      "name": "hoy.com.do",
+      "count": 2,
+      "first": "2021-09-02",
+      "last": "2023-08-31"
     },
     {
       "name": "Interferencia |",
@@ -856,6 +862,12 @@
       "count": 2,
       "first": "2024-02-07",
       "last": "2025-11-29"
+    },
+    {
+      "name": "theguardian.com",
+      "count": 2,
+      "first": "2016-08-21",
+      "last": "2019-10-24"
     },
     {
       "name": "TN",
@@ -1014,7 +1026,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Diario Talca",
+      "name": "diariotalca.cl",
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
@@ -1152,25 +1164,13 @@
       "last": "2017-03-27"
     },
     {
-      "name": "Hoy Digital",
-      "count": 1,
-      "first": "2023-08-31",
-      "last": "2023-08-31"
-    },
-    {
-      "name": "hoy.com.do",
-      "count": 1,
-      "first": "2021-09-02",
-      "last": "2021-09-02"
-    },
-    {
       "name": "In These Times",
       "count": 1,
       "first": "2020-02-19",
       "last": "2020-02-19"
     },
     {
-      "name": "Independent en Español",
+      "name": "independentespanol.com",
       "count": 1,
       "first": "2025-03-30",
       "last": "2025-03-30"
@@ -1242,7 +1242,7 @@
       "last": "2019-01-24"
     },
     {
-      "name": "Mala Espina",
+      "name": "malaespinacheck.cl",
       "count": 1,
       "first": "2024-12-27",
       "last": "2024-12-27"
@@ -1350,7 +1350,7 @@
       "last": "2020-12-09"
     },
     {
-      "name": "prensa-latina.cu",
+      "name": "Prensa Latina",
       "count": 1,
       "first": "2025-03-30",
       "last": "2025-03-30"
@@ -1392,7 +1392,7 @@
       "last": "2026-09-16"
     },
     {
-      "name": "Reflexión y Liberación",
+      "name": "reflexionyliberacion.cl",
       "count": 1,
       "first": "2016-11-03",
       "last": "2016-11-03"
@@ -1446,6 +1446,12 @@
       "last": "2019-11-11"
     },
     {
+      "name": "The Guardian",
+      "count": 1,
+      "first": "2019-10-30",
+      "last": "2019-10-30"
+    },
+    {
       "name": "The Independent",
       "count": 1,
       "first": "2019-11-30",
@@ -1476,7 +1482,7 @@
       "last": "2025-07-26"
     },
     {
-      "name": "The World from PRX",
+      "name": "theworld.org",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
