@@ -164,7 +164,9 @@
         "reigniting",
         "srmncah",
         "taking",
-        "level"
+        "level",
+        "apc",
+        "ogun"
       ],
       "domains": [
         "africanews.com",
@@ -180,7 +182,7 @@
         "2026-09-11",
         "2026-09-09"
       ],
-      "articleCount": 9,
+      "articleCount": 14,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-11",
       "samples": [
@@ -818,7 +820,7 @@
         "2026-09-11",
         "2026-09-10"
       ],
-      "articleCount": 14,
+      "articleCount": 17,
       "firstSeen": "2026-08-30",
       "lastSeen": "2026-09-13",
       "samples": [
@@ -884,7 +886,7 @@
         "2026-09-03",
         "2026-09-12"
       ],
-      "articleCount": 3,
+      "articleCount": 5,
       "firstSeen": "2026-09-03",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -893,6 +895,18 @@
           "url": "https://punchng.com/photos-lautech-hospital-resident-doctors-protest-over-unpaid-arrears-understaffing/",
           "domain": "punchng.com",
           "date": "2026-09-03"
+        },
+        {
+          "title": "FMC Abeokuta resident doctors down tools over insecurity , assault",
+          "url": "https://dailypost.ng/2026/09/12/fmc-abeokuta-resident-doctors-down-tools-over-insecurity-assault/",
+          "domain": "dailypost.ng",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "FMC Abeokuta resident doctors embark on five - day warning strike",
+          "url": "https://tribuneonlineng.com/fmc-abeokuta-resident-doctors-embark-on-five-day-warning-strike/",
+          "domain": "tribuneonlineng.com",
+          "date": "2026-09-12"
         },
         {
           "title": "FMC Abeokuta resident doctors down tools over insecurity , assault",
@@ -940,7 +954,8 @@
         "poly",
         "crisis",
         "nans",
-        "blueprint"
+        "blueprint",
+        "probe"
       ],
       "domains": [
         "premiumtimesng.com",
@@ -952,7 +967,7 @@
         "2026-09-11",
         "2026-09-12"
       ],
-      "articleCount": 5,
+      "articleCount": 7,
       "firstSeen": "2026-09-03",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -1108,7 +1123,7 @@
         "2026-09-12",
         "2026-09-13"
       ],
-      "articleCount": 3,
+      "articleCount": 5,
       "firstSeen": "2026-09-06",
       "lastSeen": "2026-09-13",
       "samples": [
@@ -1117,6 +1132,18 @@
           "url": "https://tribuneonlineng.com/yaris-politics-of-continuity/",
           "domain": "tribuneonlineng.com",
           "date": "2026-09-06"
+        },
+        {
+          "title": "Who bewitched Nigeria opposition ? - Tribune Online",
+          "url": "https://tribuneonlineng.com/who-bewitched-nigerias-opposition/",
+          "domain": "tribuneonlineng.com",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "The People Republic : How they rule - Tribune Online",
+          "url": "https://tribuneonlineng.com/the-peoples-republic-how-they-rule-23/",
+          "domain": "tribuneonlineng.com",
+          "date": "2026-09-13"
         },
         {
           "title": "Who bewitched Nigeria opposition ? - Tribune Online",
@@ -1585,7 +1612,10 @@
         "citizens",
         "opposed",
         "aide",
-        "clarifies"
+        "clarifies",
+        "nigerian",
+        "apc",
+        "obi"
       ],
       "domains": [
         "nigerianeye.com",
@@ -1607,7 +1637,7 @@
         "2026-09-10",
         "2026-09-12"
       ],
-      "articleCount": 16,
+      "articleCount": 23,
       "firstSeen": "2026-09-02",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -1744,7 +1774,15 @@
         "mourn",
         "northern",
         "president",
-        "just"
+        "just",
+        "actualising",
+        "appointed",
+        "ceos",
+        "necessity",
+        "pbat",
+        "strategic",
+        "figure",
+        "towering"
       ],
       "domains": [
         "leadership.ng",
@@ -1753,14 +1791,16 @@
         "informationng.com",
         "dailypost.ng",
         "theeagleonline.com.ng",
-        "silverbirdtv.com"
+        "silverbirdtv.com",
+        "promptnewsonline.com",
+        "blueprint.ng"
       ],
       "daysSeen": [
         "2026-09-04",
         "2026-09-12",
         "2026-09-13"
       ],
-      "articleCount": 11,
+      "articleCount": 20,
       "firstSeen": "2026-09-04",
       "lastSeen": "2026-09-13",
       "samples": [
@@ -2011,7 +2051,7 @@
         "2026-09-10",
         "2026-09-12"
       ],
-      "articleCount": 11,
+      "articleCount": 12,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -2294,7 +2334,7 @@
         "2026-09-11",
         "2026-09-09"
       ],
-      "articleCount": 4,
+      "articleCount": 5,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-11",
       "samples": [
@@ -2321,6 +2361,12 @@
           "url": "https://thenationonlineng.net/obis-northern-challenge/",
           "domain": "thenationonlineng.net",
           "date": "2026-09-09"
+        },
+        {
+          "title": "African govts sitting on $774m airline fund - The Nation Newspaper",
+          "url": "https://thenationonlineng.net/african-govts-sitting-on-774m-airlines-funds/",
+          "domain": "thenationonlineng.net",
+          "date": "2026-09-11"
         }
       ]
     },
@@ -2471,7 +2517,7 @@
         "2026-09-12",
         "2026-09-11"
       ],
-      "articleCount": 5,
+      "articleCount": 8,
       "firstSeen": "2026-09-01",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -3805,7 +3851,7 @@
         "2026-09-11",
         "2026-09-12"
       ],
-      "articleCount": 3,
+      "articleCount": 5,
       "firstSeen": "2026-08-30",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -3814,6 +3860,18 @@
           "url": "https://www.nigerianeye.com/2026/08/troops-foil-boko-haram-attack-on-borno.html",
           "domain": "nigerianeye.com",
           "date": "2026-08-30"
+        },
+        {
+          "title": "Troops kill 18 terrorists , destroy logistics hubs in Borno",
+          "url": "https://www.vanguardngr.com/2026/09/troops-kill-18-terrorists-destroy-logistics-hubs-in-borno/",
+          "domain": "vanguardngr.com",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Air strikes kill over 18 terrorists , destroy logistics hubs in Borno – Military",
+          "url": "https://www.premiumtimesng.com/regional/nnorth-east/908921-air-strikes-kill-over-18-terrorists-destroy-logistics-hubs-in-borno-military.html",
+          "domain": "premiumtimesng.com",
+          "date": "2026-09-12"
         },
         {
           "title": "Troops kill 18 terrorists , destroy logistics hubs in Borno",
@@ -4053,7 +4111,7 @@
         "2026-09-01",
         "2026-09-11"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-01",
       "lastSeen": "2026-09-11",
       "samples": [
@@ -4067,6 +4125,12 @@
           "title": "ASUU threatens fresh strike , gives FG , states ultimatum",
           "url": "https://www.vanguardngr.com/2026/09/asuu-threatens-fresh-strike-gives-fg-states-ultimatum/",
           "domain": "vanguardngr.com",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "2025 FGN - ASUU Agreement : ASUU threatens fresh nationwide strike",
+          "url": "https://theeagleonline.com.ng/2025-fgn-asuu-agreement-asuu-threatens-fresh-nationwide-strike/",
+          "domain": "theeagleonline.com.ng",
           "date": "2026-09-11"
         },
         {
@@ -4260,7 +4324,7 @@
         "2026-09-05",
         "2026-09-12"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-09-05",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -4269,6 +4333,12 @@
           "url": "https://www.thisdaylive.com/2026/09/05/lampard-confirms-onyekas-fitness-for-man-city/",
           "domain": "thisdaylive.com",
           "date": "2026-09-05"
+        },
+        {
+          "title": "Two jailed for violent burglary of Man City goalkeeper Donnarumma",
+          "url": "https://www.vanguardngr.com/2026/09/two-jailed-for-violent-burglary-of-man-city-goalkeeper-donnarumma/",
+          "domain": "vanguardngr.com",
+          "date": "2026-09-12"
         },
         {
           "title": "Two jailed for violent burglary of Man City goalkeeper Donnarumma",
@@ -4512,7 +4582,7 @@
         "2026-09-06",
         "2026-09-12"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-09-06",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -4521,6 +4591,12 @@
           "url": "https://leadership.ng/dangotes-fortune-rises-3-3m-over-refinery-ipo-forbes/",
           "domain": "leadership.ng",
           "date": "2026-09-06"
+        },
+        {
+          "title": "Dangote Refinery IPO : Why Investors Cant Afford to Look Away – THISDAYLIVE",
+          "url": "https://www.thisdaylive.com/2026/09/12/dangote-refinery-ipo-why-investors-cant-afford-to-look-away/",
+          "domain": "thisdaylive.com",
+          "date": "2026-09-12"
         },
         {
           "title": "Dangote Refinery IPO : Why Investors Cant Afford to Look Away – THISDAYLIVE",
@@ -4577,7 +4653,8 @@
         "lawful",
         "warns",
         "movement",
-        "convoy"
+        "convoy",
+        "obi"
       ],
       "domains": [
         "thisdaylive.com"
@@ -4586,7 +4663,7 @@
         "2026-08-30",
         "2026-09-12"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-08-30",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -4595,6 +4672,12 @@
           "url": "https://www.thisdaylive.com/2026/08/30/troops-repel-terrorist-attack-in-kukawa-kill-several/",
           "domain": "thisdaylive.com",
           "date": "2026-08-30"
+        },
+        {
+          "title": "Obi Convoy Attack : OK Movement Warns of  Lawful Countermeasure – THISDAYLIVE",
+          "url": "https://www.thisdaylive.com/2026/09/12/obi-convoy-attack-ok-movement-warns-of-lawful-countermeasures/",
+          "domain": "thisdaylive.com",
+          "date": "2026-09-12"
         },
         {
           "title": "Obi Convoy Attack : OK Movement Warns of  Lawful Countermeasure – THISDAYLIVE",
@@ -5196,7 +5279,7 @@
         "2026-09-02",
         "2026-09-11"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-02",
       "lastSeen": "2026-09-11",
       "samples": [
@@ -5210,6 +5293,12 @@
           "title": "Adamawa beer sellers accuse DPO of extortion",
           "url": "https://punchng.com/adamawa-beer-sellers-accuse-dpo-of-extortion/",
           "domain": "punchng.com",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Beer parlour operators fume , accuse police DPO of extortion",
+          "url": "https://promptnewsonline.com/beer-parlour-operators-fume-accuse-police-dpo-of-extortion/",
+          "domain": "promptnewsonline.com",
           "date": "2026-09-11"
         },
         {
@@ -5277,7 +5366,7 @@
         "2026-08-31",
         "2026-09-11"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-11",
       "samples": [
@@ -5286,6 +5375,12 @@
           "url": "https://www.thisdaylive.com/2026/08/31/icrc-model-ppp-agreement-to-end-inconsistent-contracting-boost-investor-confidence-says-ewalefoh/",
           "domain": "thisdaylive.com",
           "date": "2026-08-31"
+        },
+        {
+          "title": "Nigeria PPP successes offer blueprint for Africa - ICRC DG Ewalefoh - Blueprint Newspapers Limited",
+          "url": "https://blueprint.ng/nigerias-ppp-successes-offer-blueprint-for-africa-icrc-dg-ewalefoh/",
+          "domain": "blueprint.ng",
+          "date": "2026-09-11"
         },
         {
           "title": "Nigeria PPP successes offer blueprint for Africa - ICRC DG Ewalefoh - Blueprint Newspapers Limited",
@@ -6400,7 +6495,7 @@
         "2026-09-01",
         "2026-09-12"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-09-01",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -6409,6 +6504,12 @@
           "url": "https://punchng.com/why-i-joined-apc-advocated-united-state-of-taraba-kefas/",
           "domain": "punchng.com",
           "date": "2026-09-01"
+        },
+        {
+          "title": "ANALYSIS : Taraba 2027 : Kefas , Bwacha , others and the battle ahead",
+          "url": "https://www.premiumtimesng.com/features-and-interviews/909061-analysis-taraba-2027-kefas-bwacha-others-and-the-battle-ahead.html",
+          "domain": "premiumtimesng.com",
+          "date": "2026-09-12"
         },
         {
           "title": "ANALYSIS : Taraba 2027 : Kefas , Bwacha , others and the battle ahead",
@@ -23095,7 +23196,12 @@
         "presidential",
         "candidate",
         "urges",
-        "one"
+        "one",
+        "kalonzo",
+        "pleads",
+        "sifuna",
+        "back",
+        "unity"
       ],
       "domains": [
         "the-star.co.ke",
@@ -23104,11 +23210,12 @@
       "daysSeen": [
         "2026-09-10",
         "2026-09-06",
-        "2026-09-07"
+        "2026-09-07",
+        "2026-09-12"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-10",
+      "lastSeen": "2026-09-12",
       "samples": [
         {
           "title": "Caleb Amisi : Opposition must unite or  be hanged separately",
@@ -23127,6 +23234,12 @@
           "url": "https://www.standardmedia.co.ke/politics/article/2001557190/nyoro-urges-opposition-to-unite-pick-one-presidential-candidate",
           "domain": "standardmedia.co.ke",
           "date": "2026-09-07"
+        },
+        {
+          "title": "Caleb Amisi urges opposition unity , pleads with Kalonzo to back Sifuna",
+          "url": "https://www.standardmedia.co.ke/politics/article/2001557617/caleb-amisi-urges-opposition-unity-pleads-with-kalonzo-to-back-sifuna",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-09-12"
         }
       ]
     },
@@ -23171,7 +23284,12 @@
         "leaders",
         "opposition",
         "road",
-        "hit"
+        "hit",
+        "erupts",
+        "hurl",
+        "stones",
+        "chaos",
+        "youths"
       ],
       "domains": [
         "the-star.co.ke"
@@ -23179,13 +23297,25 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 3,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
         {
           "title": "Opposition leaders hit the road as 2027 battle gathers pace",
           "url": "https://www.the-star.co.ke/news/2026-09-12-opposition-leaders-hit-the-road-as-2027-battle-gathers-pace",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Opposition leaders hit the road as 2027 battle gathers pace",
+          "url": "https://www.the-star.co.ke/news/2026-09-12-opposition-leaders-hit-the-road-as-2027-battle-gathers-pace",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Chaos erupts at opposition rally as youths hurl stones at leaders",
+          "url": "https://www.the-star.co.ke/news/2026-09-12-stones-fly-at-opposition-rally-in-garissa-leaders-take-cover",
           "domain": "the-star.co.ke",
           "date": "2026-09-12"
         }
@@ -23208,18 +23338,31 @@
         "diaspora",
         "eyes",
         "sifuna",
-        "support"
+        "support",
+        "anti",
+        "deployed",
+        "streets",
+        "ahead",
+        "itinerary",
+        "storms",
+        "leads",
+        "majimaji",
+        "odm",
+        "peace"
       ],
       "domains": [
-        "the-star.co.ke"
+        "the-star.co.ke",
+        "ghettoradio.co.ke"
       ],
       "daysSeen": [
         "2026-09-11",
-        "2026-09-10"
+        "2026-09-10",
+        "2026-09-13",
+        "2026-09-12"
       ],
-      "articleCount": 2,
+      "articleCount": 6,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "samples": [
         {
           "title": "Aladwa denies plot to disrupt Linda Mwananchi Nairobi rally on Sunday",
@@ -23232,6 +23375,24 @@
           "url": "https://www.the-star.co.ke/news/2026-09-10-expanding-network-sifuna-us-lobbyist-registers-in-america",
           "domain": "the-star.co.ke",
           "date": "2026-09-10"
+        },
+        {
+          "title": "Anti - riot police deployed on Nairobi streets ahead of Linda Mwananchi rally",
+          "url": "https://www.the-star.co.ke/news/2026-09-13-heavy-police-presence-in-nairobi-ahead-of-rally",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Aladwa denies plot to disrupt Linda Mwananchi Nairobi rally on Sunday",
+          "url": "https://www.the-star.co.ke/news/2026-09-11-aladwa-denies-plot-to-disrupt-linda-mwananchi-rally",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Sifuna itinerary as Linda Mwananchi storms Nairobi",
+          "url": "https://www.the-star.co.ke/news/2026-09-13-sifunas-itinerary-as-linda-mwananchi-storms-nairobi",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-13"
         }
       ]
     },
@@ -23377,7 +23538,8 @@
         "lumumba",
         "nyongo",
         "plo",
-        "viral"
+        "viral",
+        "gets"
       ],
       "domains": [
         "ghafla.co.ke"
@@ -23385,10 +23547,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "PLO Lumumba Goes Viral After Walking Off Stage After His Speech Gets Interrupted For Governor Nyongo Arrival",
+          "url": "https://www.ghafla.co.ke/plo-lumumba-goes-viral-after-walking-off-stage-after-his-speech-gets-interrupted-for-governor-nyongos-arrival/",
+          "domain": "ghafla.co.ke",
+          "date": "2026-09-11"
+        },
         {
           "title": "PLO Lumumba Goes Viral After Walking Off Stage After His Speech Gets Interrupted For Governor Nyongo Arrival",
           "url": "https://www.ghafla.co.ke/plo-lumumba-goes-viral-after-walking-off-stage-after-his-speech-gets-interrupted-for-governor-nyongos-arrival/",
@@ -23506,10 +23674,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Ruth Odinga opens another warfront with ODM leaders",
+          "url": "https://www.the-star.co.ke/news/2026-09-12-ruth-odinga-opens-another-warfront-with-odm-leaders",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-12"
+        },
         {
           "title": "Ruth Odinga opens another warfront with ODM leaders",
           "url": "https://www.the-star.co.ke/news/2026-09-12-ruth-odinga-opens-another-warfront-with-odm-leaders",
@@ -24353,10 +24527,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Kenya : Organized Gang Attacks in Lead - Up to Elections",
+          "url": "http://www.kenyastar.com/news/279300927/kenya-organized-gang-attacks-in-lead-up-to-elections",
+          "domain": "kenyastar.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "Kenya : Organized Gang Attacks in Lead - Up to Elections",
           "url": "http://www.kenyastar.com/news/279300927/kenya-organized-gang-attacks-in-lead-up-to-elections",
@@ -24474,10 +24654,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Ex - Minister Nyachae son charged with stealing Sh1 . 2m",
+          "url": "https://www.the-star.co.ke/news/2026-09-11-nyachaes-son-charged-with-stealing-sh12m",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-11"
+        },
         {
           "title": "Ex - Minister Nyachae son charged with stealing Sh1 . 2m",
           "url": "https://www.the-star.co.ke/news/2026-09-11-nyachaes-son-charged-with-stealing-sh12m",
@@ -24647,7 +24833,8 @@
         "loses",
         "singapore",
         "spent",
-        "man"
+        "man",
+        "case"
       ],
       "domains": [
         "the-star.co.ke"
@@ -24655,10 +24842,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Singapore : Man loses case to claw back $369 , 000 he spent on lavish gifts for ex - girlfriend",
+          "url": "https://www.the-star.co.ke/news/world/2026-09-11-man-loses-case-to-claw-back-369000-he-spent-on-gifts-for-ex-girlfriend",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-11"
+        },
         {
           "title": "Singapore : Man loses case to claw back $369 , 000 he spent on lavish gifts for ex - girlfriend",
           "url": "https://www.the-star.co.ke/news/world/2026-09-11-man-loses-case-to-claw-back-369000-he-spent-on-gifts-for-ex-girlfriend",
@@ -24859,10 +25052,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Is opposition unity taking shape and will it hold ?",
+          "url": "https://www.the-star.co.ke/news/2026-09-11-is-opposition-unity-taking-shape-and-will-it-hold",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-11"
+        },
         {
           "title": "Is opposition unity taking shape and will it hold ?",
           "url": "https://www.the-star.co.ke/news/2026-09-11-is-opposition-unity-taking-shape-and-will-it-hold",
@@ -25119,7 +25318,9 @@
         "renewable",
         "rock",
         "transaction",
-        "trillium"
+        "trillium",
+        "claims",
+        "deal"
       ],
       "domains": [
         "kenya-today.com"
@@ -25127,10 +25328,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Trillium Energy Under Scrutiny as Bribery Claims Rock Renewable Energy Deal , Financier Freezes Transaction",
+          "url": "https://kenya-today.com/trillium-energy-under-scrutiny-as-bribery-claims-rock-renewable-energy-deal-financier-freezes-transaction/",
+          "domain": "kenya-today.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "Trillium Energy Under Scrutiny as Bribery Claims Rock Renewable Energy Deal , Financier Freezes Transaction",
           "url": "https://kenya-today.com/trillium-energy-under-scrutiny-as-bribery-claims-rock-renewable-energy-deal-financier-freezes-transaction/",
@@ -25374,7 +25581,8 @@
         "fightback",
         "hosts",
         "pak",
-        "razaullah"
+        "razaullah",
+        "blitz"
       ],
       "domains": [
         "kenyastar.com"
@@ -25382,10 +25590,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "ENG vs PAK , 3rd Test : Razaullah - Abbas blitz entertains as hosts set 130 to win after Pakistan fightback",
+          "url": "http://www.kenyastar.com/news/279301875/eng-vs-pak-3rd-test-razaullah-abbas-blitz-entertains-as-hosts-set-130-to-win-after-pakistan-fightback",
+          "domain": "kenyastar.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "ENG vs PAK , 3rd Test : Razaullah - Abbas blitz entertains as hosts set 130 to win after Pakistan fightback",
           "url": "http://www.kenyastar.com/news/279301875/eng-vs-pak-3rd-test-razaullah-abbas-blitz-entertains-as-hosts-set-130-to-win-after-pakistan-fightback",
@@ -25541,10 +25755,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Why India and China are talking again",
+          "url": "http://www.kenyastar.com/news/279301398/why-india-and-china-are-talking-again",
+          "domain": "kenyastar.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "Why India and China are talking again",
           "url": "http://www.kenyastar.com/news/279301398/why-india-and-china-are-talking-again",
@@ -35724,7 +35944,7 @@
         "2026-09-09",
         "2026-09-11"
       ],
-      "articleCount": 5,
+      "articleCount": 6,
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-11",
       "samples": [
@@ -36027,10 +36247,22 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Insecurity : Sokoto residents protest recurring attacks , kidnappings",
+          "url": "https://dailypost.ng/2026/09/11/insecurity-sokoto-residents-protest-recurring-attacks-kidnappings/",
+          "domain": "dailypost.ng",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Insecurity : Protest in Sokoto over kidnappings , attacks",
+          "url": "https://www.vanguardngr.com/2026/09/insecurity-protest-in-sokoto-over-kidnappings-attacks/",
+          "domain": "vanguardngr.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "Insecurity : Sokoto residents protest recurring attacks , kidnappings",
           "url": "https://dailypost.ng/2026/09/11/insecurity-sokoto-residents-protest-recurring-attacks-kidnappings/",
@@ -36094,10 +36326,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Continuous ASUU strike in Ondo varsities shameful , unacceptable – NANS",
+          "url": "https://dailypost.ng/2026/09/12/continuous-asuu-strike-in-ondo-varsities-shameful-unacceptable-nans/",
+          "domain": "dailypost.ng",
+          "date": "2026-09-12"
+        },
         {
           "title": "Continuous ASUU strike in Ondo varsities shameful , unacceptable – NANS",
           "url": "https://dailypost.ng/2026/09/12/continuous-asuu-strike-in-ondo-varsities-shameful-unacceptable-nans/",
@@ -36140,7 +36378,7 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 5,
+      "articleCount": 9,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
@@ -36286,10 +36524,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Ogun community threatens suit over four - month blackout",
+          "url": "https://punchng.com/ogun-community-threatens-legal-action-over-four-month-blackout/",
+          "domain": "punchng.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "Ogun community threatens suit over four - month blackout",
           "url": "https://punchng.com/ogun-community-threatens-legal-action-over-four-month-blackout/",
@@ -36365,7 +36609,7 @@
         "2026-09-13",
         "2026-09-10"
       ],
-      "articleCount": 4,
+      "articleCount": 5,
       "firstSeen": "2026-09-10",
       "lastSeen": "2026-09-13",
       "samples": [
@@ -36392,6 +36636,12 @@
           "url": "https://hallmarknews.com/crude-rises-to-107-as-nigeria-faces-fresh-petrol-price-pressure/",
           "domain": "hallmarknews.com",
           "date": "2026-09-11"
+        },
+        {
+          "title": "Petrol hits N1 , 395 / litre as Dangote hikes price again",
+          "url": "https://punchng.com/petrol-hits-n1395-litre-as-dangote-hikes-price-again/",
+          "domain": "punchng.com",
+          "date": "2026-09-13"
         }
       ]
     },
@@ -36417,7 +36667,7 @@
         "2026-09-12",
         "2026-09-11"
       ],
-      "articleCount": 3,
+      "articleCount": 6,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -36437,6 +36687,18 @@
           "title": "Trump rejects Saudi request for strikes on Houthis - Report",
           "url": "https://www.vanguardngr.com/2026/09/trump-rejects-saudi-request-for-strikes-on-houthis-report/",
           "domain": "vanguardngr.com",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Trump says Yemen Houthis have asked US not to intervene",
+          "url": "https://www.vanguardngr.com/2026/09/trump-says-yemens-houthis-have-asked-us-not-to-intervene/",
+          "domain": "vanguardngr.com",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Trump rejects Saudi request for strikes on Houthis",
+          "url": "https://punchng.com/trump-rejects-saudi-request-for-strikes-on-houthis-report/",
+          "domain": "punchng.com",
           "date": "2026-09-11"
         }
       ]
@@ -36459,10 +36721,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Lecturers suspend indefinite strike in Nigerian university , give reason",
+          "url": "https://www.premiumtimesng.com/news/top-news/908843-lecturers-suspend-indefinite-strike-in-nigerian-university-give-reason.html",
+          "domain": "premiumtimesng.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "Lecturers suspend indefinite strike in Nigerian university , give reason",
           "url": "https://www.premiumtimesng.com/news/top-news/908843-lecturers-suspend-indefinite-strike-in-nigerian-university-give-reason.html",
@@ -36490,10 +36758,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Houthis advance along Yemeni coast , threaten Saudi oil exports in the Red Sea",
+          "url": "https://thenationonlineng.net/houthis-advance-along-yemeni-coast-threaten-saudi-oil-exports-in-the-red-sea/",
+          "domain": "thenationonlineng.net",
+          "date": "2026-09-11"
+        },
         {
           "title": "Houthis advance along Yemeni coast , threaten Saudi oil exports in the Red Sea",
           "url": "https://thenationonlineng.net/houthis-advance-along-yemeni-coast-threaten-saudi-oil-exports-in-the-red-sea/",
@@ -36521,10 +36795,22 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Nigeria : Ex - Reps Minority Leader , Elumelu , Canvasses Grassroots Empowerment",
+          "url": "https://allafrica.com/stories/202609110540.html",
+          "domain": "allafrica.com",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Ex - Reps Minority Leader , Elumelu , Canvasses Grassroots Empowerment",
+          "url": "https://leadership.ng/ex-reps-minority-leader-elumelu-canvasses-grassroots-empowerment/",
+          "domain": "leadership.ng",
+          "date": "2026-09-11"
+        },
         {
           "title": "Nigeria : Ex - Reps Minority Leader , Elumelu , Canvasses Grassroots Empowerment",
           "url": "https://allafrica.com/stories/202609110540.html",
@@ -36555,10 +36841,16 @@
       "daysSeen": [
         "2026-09-13"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
       "samples": [
+        {
+          "title": "Rivals clash in first Lagos derby in 10 years",
+          "url": "https://punchng.com/rivals-clash-in-first-lagos-derby-in-10-years/",
+          "domain": "punchng.com",
+          "date": "2026-09-13"
+        },
         {
           "title": "Rivals clash in first Lagos derby in 10 years",
           "url": "https://punchng.com/rivals-clash-in-first-lagos-derby-in-10-years/",
@@ -36585,10 +36877,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Trump tells supporters to  cheat like hell  in election",
+          "url": "https://punchng.com/trump-tells-supporters-tocheat-like-hell-in-unprecedented-election-pledge/",
+          "domain": "punchng.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "Trump tells supporters to  cheat like hell  in election",
           "url": "https://punchng.com/trump-tells-supporters-tocheat-like-hell-in-unprecedented-election-pledge/",
@@ -36639,7 +36937,7 @@
         "2026-09-12",
         "2026-09-09"
       ],
-      "articleCount": 5,
+      "articleCount": 9,
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -36728,10 +37026,22 @@
         "2026-09-12",
         "2026-09-11"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Middle East has no need for US  policeman  - Iran",
+          "url": "https://www.vanguardngr.com/2026/09/middle-east-has-no-need-for-us-policeman-iran/",
+          "domain": "vanguardngr.com",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Oil climbs above $100 as Middle East supply risks mount",
+          "url": "http://www.nigeriasun.com/news/279296755/oil-climbs-above-usd100-as-middle-east-supply-risks-mount",
+          "domain": "nigeriasun.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "Middle East has no need for US  policeman  - Iran",
           "url": "https://www.vanguardngr.com/2026/09/middle-east-has-no-need-for-us-policeman-iran/",
@@ -36876,10 +37186,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "2027 elections : Atiku South - East team trains polling agents",
+          "url": "https://tribuneonlineng.com/2027-elections-atikus-south-east-team-trains-polling-agents/",
+          "domain": "tribuneonlineng.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "2027 elections : Atiku South - East team trains polling agents",
           "url": "https://tribuneonlineng.com/2027-elections-atikus-south-east-team-trains-polling-agents/",
@@ -37014,10 +37330,16 @@
       "daysSeen": [
         "2026-09-13"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
       "samples": [
+        {
+          "title": "Iran and Oman agree entry and exit routes for Strait of Hormuz",
+          "url": "https://www.africanews.com/2026/09/13/iran-and-oman-agree-entry-and-exit-routes-for-strait-of-hormuz/",
+          "domain": "africanews.com",
+          "date": "2026-09-13"
+        },
         {
           "title": "Iran and Oman agree entry and exit routes for Strait of Hormuz",
           "url": "https://www.africanews.com/2026/09/13/iran-and-oman-agree-entry-and-exit-routes-for-strait-of-hormuz/",
@@ -37127,10 +37449,16 @@
       "daysSeen": [
         "2026-09-13"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
       "samples": [
+        {
+          "title": "Pause AI development , ban superintelligence  - Sanders to Trump , Xi",
+          "url": "https://dailypost.ng/2026/09/13/pause-ai-development-ban-superintelligence-sanders-to-trump-xi/",
+          "domain": "dailypost.ng",
+          "date": "2026-09-13"
+        },
         {
           "title": "Pause AI development , ban superintelligence  - Sanders to Trump , Xi",
           "url": "https://dailypost.ng/2026/09/13/pause-ai-development-ban-superintelligence-sanders-to-trump-xi/",
@@ -37261,10 +37589,22 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "NAF Route March : Fitness key to combat readiness – AFIT Commandant",
+          "url": "https://quicknews-africa.net/naf-route-march-fitness-key-to-combat-readiness-afit-commandant/",
+          "domain": "quicknews-africa.net",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "NAF conducts nationwide route march to boost combat readiness",
+          "url": "https://tribuneonlineng.com/naf-conducts-nationwide-route-march-to-boost-combat-readiness-2/",
+          "domain": "tribuneonlineng.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "NAF Route March : Fitness key to combat readiness – AFIT Commandant",
           "url": "https://quicknews-africa.net/naf-route-march-fitness-key-to-combat-readiness-afit-commandant/",
@@ -37327,10 +37667,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Urhobo Traditional Rulers Back Oborevwori Re - election – THISDAYLIVE",
+          "url": "https://www.thisdaylive.com/2026/09/11/urhobo-traditional-rulers-back-oborevworis-re-election/",
+          "domain": "thisdaylive.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "Urhobo Traditional Rulers Back Oborevwori Re - election – THISDAYLIVE",
           "url": "https://www.thisdaylive.com/2026/09/11/urhobo-traditional-rulers-back-oborevworis-re-election/",
@@ -37350,7 +37696,8 @@
         "khaleej",
         "nassr",
         "record",
-        "spl"
+        "spl",
+        "ronaldo"
       ],
       "domains": [
         "dailypost.ng"
@@ -37358,10 +37705,16 @@
       "daysSeen": [
         "2026-09-13"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
       "samples": [
+        {
+          "title": "SPL : Cristiano Ronaldo Al Nassr break world record for goals after 1 - 1 draw with Al Khaleej",
+          "url": "https://dailypost.ng/2026/09/13/spl-cristiano-ronaldos-al-nassr-break-world-record-for-goals-after-1-1-draw-with-al-khaleej/",
+          "domain": "dailypost.ng",
+          "date": "2026-09-13"
+        },
         {
           "title": "SPL : Cristiano Ronaldo Al Nassr break world record for goals after 1 - 1 draw with Al Khaleej",
           "url": "https://dailypost.ng/2026/09/13/spl-cristiano-ronaldos-al-nassr-break-world-record-for-goals-after-1-1-draw-with-al-khaleej/",
@@ -37415,10 +37768,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Fr . Alia and the Seduction of Power",
+          "url": "https://www.vanguardngr.com/2026/09/fr-alia-and-the-seduction-of-power/",
+          "domain": "vanguardngr.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "Fr . Alia and the Seduction of Power",
           "url": "https://www.vanguardngr.com/2026/09/fr-alia-and-the-seduction-of-power/",
@@ -37438,7 +37797,8 @@
         "gown",
         "igbo",
         "kariboye",
-        "rigs"
+        "rigs",
+        "bags"
       ],
       "domains": [
         "thisdaylive.com"
@@ -37446,10 +37806,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "From Oil Rigs to Wig and Gown : Alafaa Kariboye - Igbo Bags Law Degree , Called to Bar – THISDAYLIVE",
+          "url": "https://www.thisdaylive.com/2026/09/12/from-oil-rigs-to-wig-and-gown-alafaa-kariboye-igbo-bags-law-degree-called-to-bar/",
+          "domain": "thisdaylive.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "From Oil Rigs to Wig and Gown : Alafaa Kariboye - Igbo Bags Law Degree , Called to Bar – THISDAYLIVE",
           "url": "https://www.thisdaylive.com/2026/09/12/from-oil-rigs-to-wig-and-gown-alafaa-kariboye-igbo-bags-law-degree-called-to-bar/",
@@ -37589,7 +37955,8 @@
         "ncc",
         "rated",
         "zero",
-        "million"
+        "million",
+        "five"
       ],
       "domains": [
         "tribuneonlineng.com",
@@ -37599,7 +37966,7 @@
         "2026-09-09",
         "2026-09-12"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -37608,6 +37975,12 @@
           "url": "https://tribuneonlineng.com/boa-launches-n200bn-guaranteed-minimum-price-scheme-for-nigerian-grain-farmers/",
           "domain": "tribuneonlineng.com",
           "date": "2026-09-09"
+        },
+        {
+          "title": "Nigeria : NCC Launches Zero - Rated Education Scheme for Five Million Students",
+          "url": "https://allafrica.com/stories/202609110396.html",
+          "domain": "allafrica.com",
+          "date": "2026-09-12"
         },
         {
           "title": "Nigeria : NCC Launches Zero - Rated Education Scheme for Five Million Students",
@@ -37662,10 +38035,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "UK inaugurates Siun tech hub",
+          "url": "https://thenationonlineng.net/uk-inaugurates-siun-tech-hub/",
+          "domain": "thenationonlineng.net",
+          "date": "2026-09-11"
+        },
         {
           "title": "UK inaugurates Siun tech hub",
           "url": "https://thenationonlineng.net/uk-inaugurates-siun-tech-hub/",
@@ -37729,10 +38108,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Day Remo prince wept from Ebora blow",
+          "url": "https://thenationonlineng.net/day-remo-prince-wept-from-eboras-blow/",
+          "domain": "thenationonlineng.net",
+          "date": "2026-09-12"
+        },
         {
           "title": "Day Remo prince wept from Ebora blow",
           "url": "https://thenationonlineng.net/day-remo-prince-wept-from-eboras-blow/",
@@ -37850,10 +38235,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Zidane names Lens defender Ganiou in France preliminary squad",
+          "url": "https://dailypost.ng/2026/09/12/zidane-names-lens-defender-ganiou-in-france-preliminary-squad/",
+          "domain": "dailypost.ng",
+          "date": "2026-09-12"
+        },
         {
           "title": "Zidane names Lens defender Ganiou in France preliminary squad",
           "url": "https://dailypost.ng/2026/09/12/zidane-names-lens-defender-ganiou-in-france-preliminary-squad/",
@@ -37880,10 +38271,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Ive forgiven everyone , Onise extends olive branch",
+          "url": "https://www.vanguardngr.com/2026/09/ive-forgiven-everyone-onise-extends-olive-branch/",
+          "domain": "vanguardngr.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "Ive forgiven everyone , Onise extends olive branch",
           "url": "https://www.vanguardngr.com/2026/09/ive-forgiven-everyone-onise-extends-olive-branch/",
@@ -37965,7 +38362,11 @@
         "retirement",
         "williams",
         "wit",
-        "black"
+        "black",
+        "end",
+        "information",
+        "journey",
+        "pidgin"
       ],
       "domains": [
         "pidgin.informationng.com"
@@ -37973,10 +38374,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "My journey wit Ghana national team end  – Black Stars forward Inaki Williams announce retirement – Information Nigeria Pidgin",
+          "url": "https://pidgin.informationng.com/?p=35908",
+          "domain": "pidgin.informationng.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "My journey wit Ghana national team end  – Black Stars forward Inaki Williams announce retirement – Information Nigeria Pidgin",
           "url": "https://pidgin.informationng.com/?p=35908",
@@ -38003,10 +38410,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "CIA declassifies 71 intelligence reports linked to 9 / 11 attacks Report",
+          "url": "https://tribuneonlineng.com/cia-declassifies-71-intelligence-reports-linked-to-9-11-attacks-report/",
+          "domain": "tribuneonlineng.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "CIA declassifies 71 intelligence reports linked to 9 / 11 attacks Report",
           "url": "https://tribuneonlineng.com/cia-declassifies-71-intelligence-reports-linked-to-9-11-attacks-report/",
@@ -38032,10 +38445,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Xenophobia : Over 30 Nigerians killed by South African police since 2022",
+          "url": "https://www.premiumtimesng.com/news/headlines/909082-xenophobia-over-30-nigerians-killed-by-south-african-police-since-2022-ambassador.html",
+          "domain": "premiumtimesng.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "Xenophobia : Over 30 Nigerians killed by South African police since 2022",
           "url": "https://www.premiumtimesng.com/news/headlines/909082-xenophobia-over-30-nigerians-killed-by-south-african-police-since-2022-ambassador.html",
@@ -38054,7 +38473,8 @@
         "adamawa",
         "guber",
         "candidate",
-        "condemns"
+        "condemns",
+        "apc"
       ],
       "domains": [
         "tribuneonlineng.com"
@@ -38062,10 +38482,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Adamawa APC guber candidate , Galadima , condemns Dzangola killings",
+          "url": "https://tribuneonlineng.com/adamawa-apc-guber-candidate-galadima-condemns-dzangola-killings/",
+          "domain": "tribuneonlineng.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "Adamawa APC guber candidate , Galadima , condemns Dzangola killings",
           "url": "https://tribuneonlineng.com/adamawa-apc-guber-candidate-galadima-condemns-dzangola-killings/",
@@ -38148,10 +38574,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Dana White rules out UFC return for Francis Ngannou",
+          "url": "https://punchng.com/dana-white-rules-out-ufc-return-for-francis-ngannou/",
+          "domain": "punchng.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "Dana White rules out UFC return for Francis Ngannou",
           "url": "https://punchng.com/dana-white-rules-out-ufc-return-for-francis-ngannou/",
@@ -38358,7 +38790,8 @@
         "mid",
         "nations",
         "restraint",
-        "east"
+        "east",
+        "iran"
       ],
       "domains": [
         "vanguardngr.com"
@@ -38367,10 +38800,22 @@
         "2026-09-11",
         "2026-09-12"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "India welcomes Russia , Iran leaders for BRICS summit overshadowed by war",
+          "url": "https://www.vanguardngr.com/2026/09/india-welcomes-russia-iran-leaders-for-brics-summit-overshadowed-by-war/",
+          "domain": "vanguardngr.com",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "BRICS nations call for  maximum restraint  in Mid - East war",
+          "url": "https://www.vanguardngr.com/2026/09/brics-nations-call-for-maximum-restraint-in-mid-east-war/",
+          "domain": "vanguardngr.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "India welcomes Russia , Iran leaders for BRICS summit overshadowed by war",
           "url": "https://www.vanguardngr.com/2026/09/india-welcomes-russia-iran-leaders-for-brics-summit-overshadowed-by-war/",
@@ -38402,10 +38847,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "NCAA sanctions RwandAir over passenger baggage infraction",
+          "url": "https://thenationonlineng.net/ncaa-sanctions-rwandair-over-passengers-baggage-infraction/",
+          "domain": "thenationonlineng.net",
+          "date": "2026-09-12"
+        },
         {
           "title": "NCAA sanctions RwandAir over passenger baggage infraction",
           "url": "https://thenationonlineng.net/ncaa-sanctions-rwandair-over-passengers-baggage-infraction/",
@@ -38565,10 +39016,16 @@
       "daysSeen": [
         "2026-09-13"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
       "samples": [
+        {
+          "title": "Norway Mourns Princess Astrid As Royal Family Loses Another Senior Member",
+          "url": "https://leadership.ng/norway-mourns-princess-astrid-as-royal-family-loses-another-senior-member/",
+          "domain": "leadership.ng",
+          "date": "2026-09-13"
+        },
         {
           "title": "Norway Mourns Princess Astrid As Royal Family Loses Another Senior Member",
           "url": "https://leadership.ng/norway-mourns-princess-astrid-as-royal-family-loses-another-senior-member/",
@@ -38769,7 +39226,8 @@
         "childlike",
         "craving",
         "ways",
-        "peter"
+        "peter",
+        "obi"
       ],
       "domains": [
         "thenationonlineng.net"
@@ -38777,10 +39235,16 @@
       "daysSeen": [
         "2026-09-13"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
       "samples": [
+        {
+          "title": "Peter obi and his childlike ways of craving attention",
+          "url": "https://thenationonlineng.net/peter-obi-and-his-childlike-ways-of-craving-attention/",
+          "domain": "thenationonlineng.net",
+          "date": "2026-09-13"
+        },
         {
           "title": "Peter obi and his childlike ways of craving attention",
           "url": "https://thenationonlineng.net/peter-obi-and-his-childlike-ways-of-craving-attention/",
@@ -38834,10 +39298,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Houthi capture of Yemen Mocha port raises oil fears",
+          "url": "http://www.nigeriasun.com/news/279299207/houthi-capture-of-yemen-s-mocha-port-raises-oil-fears",
+          "domain": "nigeriasun.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "Houthi capture of Yemen Mocha port raises oil fears",
           "url": "http://www.nigeriasun.com/news/279299207/houthi-capture-of-yemen-s-mocha-port-raises-oil-fears",
@@ -38887,7 +39357,8 @@
         "initiative",
         "learning",
         "opens",
-        "pathways"
+        "pathways",
+        "platforms"
       ],
       "domains": [
         "dailypost.ng"
@@ -38895,10 +39366,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "NCC opens free digital learning pathways with zero - rated access to educational platforms , content initiative",
+          "url": "https://dailypost.ng/2026/09/11/ncc-opens-free-digital-learning-pathways-with-zero-rated-access-to-educational-platforms-content-initiative/",
+          "domain": "dailypost.ng",
+          "date": "2026-09-11"
+        },
         {
           "title": "NCC opens free digital learning pathways with zero - rated access to educational platforms , content initiative",
           "url": "https://dailypost.ng/2026/09/11/ncc-opens-free-digital-learning-pathways-with-zero-rated-access-to-educational-platforms-content-initiative/",
@@ -38920,10 +39397,16 @@
       "daysSeen": [
         "2026-09-13"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
       "samples": [
+        {
+          "title": "Makinde 2027 gamble",
+          "url": "https://thenationonlineng.net/makindes-2027-gamble/",
+          "domain": "thenationonlineng.net",
+          "date": "2026-09-13"
+        },
         {
           "title": "Makinde 2027 gamble",
           "url": "https://thenationonlineng.net/makindes-2027-gamble/",
@@ -38981,10 +39464,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Rwanda : BK Pro League Enters Matchday Two With Early Statements At Stake",
+          "url": "https://allafrica.com/stories/202609110247.html",
+          "domain": "allafrica.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "Rwanda : BK Pro League Enters Matchday Two With Early Statements At Stake",
           "url": "https://allafrica.com/stories/202609110247.html",
@@ -39009,10 +39498,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Algeria Severs Ties With UAE",
+          "url": "https://allafrica.com/stories/202609110048.html",
+          "domain": "allafrica.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "Algeria Severs Ties With UAE",
           "url": "https://allafrica.com/stories/202609110048.html",
@@ -39032,7 +39527,8 @@
         "pool",
         "unemployment",
         "youths",
-        "threaten"
+        "threaten",
+        "govt"
       ],
       "domains": [
         "leadership.ng"
@@ -39040,10 +39536,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Unemployment : Youths Threaten Protest As Govt Bans Online Betting , Pool , Gambling In A / Ibom",
+          "url": "https://leadership.ng/unemployment-youths-threaten-protest-as-govt-bans-online-betting-pool-gambling-in-a-ibom/",
+          "domain": "leadership.ng",
+          "date": "2026-09-11"
+        },
         {
           "title": "Unemployment : Youths Threaten Protest As Govt Bans Online Betting , Pool , Gambling In A / Ibom",
           "url": "https://leadership.ng/unemployment-youths-threaten-protest-as-govt-bans-online-betting-pool-gambling-in-a-ibom/",
@@ -39065,10 +39567,16 @@
       "daysSeen": [
         "2026-09-13"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
       "samples": [
+        {
+          "title": "Why are politicians not campaigning ?",
+          "url": "https://tribuneonlineng.com/why-are-politicians-not-campaigning/",
+          "domain": "tribuneonlineng.com",
+          "date": "2026-09-13"
+        },
         {
           "title": "Why are politicians not campaigning ?",
           "url": "https://tribuneonlineng.com/why-are-politicians-not-campaigning/",
@@ -39093,10 +39601,16 @@
       "daysSeen": [
         "2026-09-13"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
       "samples": [
+        {
+          "title": "South - West and the weight of  Alajobi  votes in 2027",
+          "url": "https://tribuneonlineng.com/south-west-and-the-weight-of-alajobi-votes-in-2027-2/",
+          "domain": "tribuneonlineng.com",
+          "date": "2026-09-13"
+        },
         {
           "title": "South - West and the weight of  Alajobi  votes in 2027",
           "url": "https://tribuneonlineng.com/south-west-and-the-weight-of-alajobi-votes-in-2027-2/",
@@ -39156,10 +39670,22 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "IG didnt ban recording police , opposes misuse Aide",
+          "url": "https://punchng.com/ig-didnt-ban-recording-police-only-opposes-misuse-for-skits-media-officer/",
+          "domain": "punchng.com",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Police clear air on IG ban on recording police for skits",
+          "url": "https://theeagleonline.com.ng/police-clear-air-on-igs-ban-on-recording-police-for-skits/",
+          "domain": "theeagleonline.com.ng",
+          "date": "2026-09-12"
+        },
         {
           "title": "IG didnt ban recording police , opposes misuse Aide",
           "url": "https://punchng.com/ig-didnt-ban-recording-police-only-opposes-misuse-for-skits-media-officer/",
@@ -39221,10 +39747,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Kelechi Iheanacho : Rediscovering His Groove in Turkey – THISDAYLIVE",
+          "url": "https://www.thisdaylive.com/2026/09/12/kelechi-iheanacho-rediscovering-his-groove-in-turkey/",
+          "domain": "thisdaylive.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "Kelechi Iheanacho : Rediscovering His Groove in Turkey – THISDAYLIVE",
           "url": "https://www.thisdaylive.com/2026/09/12/kelechi-iheanacho-rediscovering-his-groove-in-turkey/",
@@ -39244,7 +39776,8 @@
         "when",
         "abuja",
         "auchi",
-        "highway"
+        "highway",
+        "kidnappers"
       ],
       "domains": [
         "tribuneonlineng.com"
@@ -39252,10 +39785,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "When the hunters become the hunted : How intelligence , technology close in on Auchi - Okene - Abuja highway kidnappers",
+          "url": "https://tribuneonlineng.com/when-the-hunters-become-the-hunted-how-intelligence-technology-close-in-on-auchi-okene-abuja-highway-kidnappers/",
+          "domain": "tribuneonlineng.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "When the hunters become the hunted : How intelligence , technology close in on Auchi - Okene - Abuja highway kidnappers",
           "url": "https://tribuneonlineng.com/when-the-hunters-become-the-hunted-how-intelligence-technology-close-in-on-auchi-okene-abuja-highway-kidnappers/",
@@ -39282,10 +39821,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Top Seeds Rybakina , Sabalenka Reach US Open Final",
+          "url": "https://leadership.ng/top-seeds-rybakina-sabalenka-reach-us-open-final/",
+          "domain": "leadership.ng",
+          "date": "2026-09-11"
+        },
         {
           "title": "Top Seeds Rybakina , Sabalenka Reach US Open Final",
           "url": "https://leadership.ng/top-seeds-rybakina-sabalenka-reach-us-open-final/",
@@ -39342,10 +39887,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "10 Nollywood stars who battled cancer before deaths",
+          "url": "https://punchng.com/10-nollywood-stars-who-battled-cancer-before-their-deaths/",
+          "domain": "punchng.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "10 Nollywood stars who battled cancer before deaths",
           "url": "https://punchng.com/10-nollywood-stars-who-battled-cancer-before-their-deaths/",
@@ -39371,10 +39922,16 @@
       "daysSeen": [
         "2026-09-13"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
       "samples": [
+        {
+          "title": "Lagos crackdown : Children arrested , hauled into  Black Maria",
+          "url": "https://punchng.com/lagos-crackdown-vulnerable-children-arrested-hauled-into-black-maria/",
+          "domain": "punchng.com",
+          "date": "2026-09-13"
+        },
         {
           "title": "Lagos crackdown : Children arrested , hauled into  Black Maria",
           "url": "https://punchng.com/lagos-crackdown-vulnerable-children-arrested-hauled-into-black-maria/",
@@ -39428,10 +39985,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "INTERVIEW : How we erroneously employed sodomy convict as lecturer - AUN President Dwayne Frazier",
+          "url": "https://www.premiumtimesng.com/news/headlines/908858-interview-how-we-erroneously-employed-sodomy-convict-as-lecturer-aun-president-dwayne-frazier.html",
+          "domain": "premiumtimesng.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "INTERVIEW : How we erroneously employed sodomy convict as lecturer - AUN President Dwayne Frazier",
           "url": "https://www.premiumtimesng.com/news/headlines/908858-interview-how-we-erroneously-employed-sodomy-convict-as-lecturer-aun-president-dwayne-frazier.html",
@@ -39551,10 +40114,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Nigeria - China Aquatic Products Protocol : A new frontier for economic transformation",
+          "url": "https://www.premiumtimesng.com/news/top-news/908855-nigeria-china-aquatic-products-protocol-a-new-frontier-for-economic-transformation.html",
+          "domain": "premiumtimesng.com",
+          "date": "2026-09-11"
+        },
         {
           "title": "Nigeria - China Aquatic Products Protocol : A new frontier for economic transformation",
           "url": "https://www.premiumtimesng.com/news/top-news/908855-nigeria-china-aquatic-products-protocol-a-new-frontier-for-economic-transformation.html",
@@ -39606,10 +40175,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "We need more Oloyedes in govt agencies",
+          "url": "https://tribuneonlineng.com/we-need-more-oloyedes-in-govt-agencies/",
+          "domain": "tribuneonlineng.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "We need more Oloyedes in govt agencies",
           "url": "https://tribuneonlineng.com/we-need-more-oloyedes-in-govt-agencies/",
@@ -39635,10 +40210,16 @@
       "daysSeen": [
         "2026-09-13"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
       "samples": [
+        {
+          "title": "Two savage Kano murders , 45 years apart",
+          "url": "https://tribuneonlineng.com/two-savage-kano-murders-45-years-apart/",
+          "domain": "tribuneonlineng.com",
+          "date": "2026-09-13"
+        },
         {
           "title": "Two savage Kano murders , 45 years apart",
           "url": "https://tribuneonlineng.com/two-savage-kano-murders-45-years-apart/",
@@ -39720,10 +40301,16 @@
       "daysSeen": [
         "2026-09-13"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
       "samples": [
+        {
+          "title": "2027 : Parties court IDPs as insecurity threatens voting",
+          "url": "https://punchng.com/2027-parties-court-idps-as-insecurity-threatens-voting/",
+          "domain": "punchng.com",
+          "date": "2026-09-13"
+        },
         {
           "title": "2027 : Parties court IDPs as insecurity threatens voting",
           "url": "https://punchng.com/2027-parties-court-idps-as-insecurity-threatens-voting/",
@@ -39931,10 +40518,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Faroukâ€™s flight path : How reform is giving NAMA a new altitude - Blueprint Newspapers Limited",
+          "url": "https://blueprint.ng/farouks-flight-path-how-reform-is-giving-nama-a-new-altitude/",
+          "domain": "blueprint.ng",
+          "date": "2026-09-12"
+        },
         {
           "title": "Faroukâ€™s flight path : How reform is giving NAMA a new altitude - Blueprint Newspapers Limited",
           "url": "https://blueprint.ng/farouks-flight-path-how-reform-is-giving-nama-a-new-altitude/",
@@ -39990,10 +40583,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Breaking : OAU Professor Dies - SilverbirdTV",
+          "url": "http://silverbirdtv.com/breaking-oau-professor-dies/",
+          "domain": "silverbirdtv.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "Breaking : OAU Professor Dies - SilverbirdTV",
           "url": "http://silverbirdtv.com/breaking-oau-professor-dies/",
@@ -40019,10 +40618,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "MTN Project Fame Stars Through the Years",
+          "url": "https://thenet.ng/mtn-project-fame-stars-through-the-years/",
+          "domain": "thenet.ng",
+          "date": "2026-09-12"
+        },
         {
           "title": "MTN Project Fame Stars Through the Years",
           "url": "https://thenet.ng/mtn-project-fame-stars-through-the-years/",
@@ -40050,10 +40655,16 @@
       "daysSeen": [
         "2026-09-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
       "samples": [
+        {
+          "title": "Alausa draws line on substandard textbooks , raises minimum ranking benchmark to 70 %",
+          "url": "https://blueprint.ng/alausa-draws-line-on-substandard-textbooks-raises-minimum-ranking-benchmark-to-70/",
+          "domain": "blueprint.ng",
+          "date": "2026-09-11"
+        },
         {
           "title": "Alausa draws line on substandard textbooks , raises minimum ranking benchmark to 70 %",
           "url": "https://blueprint.ng/alausa-draws-line-on-substandard-textbooks-raises-minimum-ranking-benchmark-to-70/",
@@ -40081,10 +40692,16 @@
       "daysSeen": [
         "2026-09-12"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-12",
       "samples": [
+        {
+          "title": "Four Years for Digital Terror Is Not Justice - By Fransiscus Nanga Roka",
+          "url": "https://www.opinionnigeria.com/four-years-for-digital-terror-is-not-justice-by-fransiscus-nanga-roka/",
+          "domain": "opinionnigeria.com",
+          "date": "2026-09-12"
+        },
         {
           "title": "Four Years for Digital Terror Is Not Justice - By Fransiscus Nanga Roka",
           "url": "https://www.opinionnigeria.com/four-years-for-digital-terror-is-not-justice-by-fransiscus-nanga-roka/",
@@ -40721,6 +41338,496 @@
           "url": "https://socialistworker.co.uk/trade-unions/we-are-ready-for-this-fight-say-nhs-workers-hitting-back-at-poverty-pay/",
           "domain": "socialistworker.co.uk",
           "date": "2026-09-11"
+        }
+      ]
+    },
+    "nigeria:bandung-chale-continues": {
+      "id": "nigeria:bandung-chale-continues",
+      "country": "Nigeria",
+      "terms": [
+        "bandung",
+        "chale",
+        "continues",
+        "diplomacy",
+        "highlights",
+        "hoga",
+        "jahan",
+        "jairam"
+      ],
+      "domains": [
+        "nigeriasun.com"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.nigeriasun.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "domain": "nigeriasun.com",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "nigeria:announces-burial-date": {
+      "id": "nigeria:announces-burial-date",
+      "country": "Nigeria",
+      "terms": [
+        "announces",
+        "date",
+        "late",
+        "burial",
+        "family"
+      ],
+      "domains": [
+        "blueprint.ng"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Family announces date of late Bamanga Tukur burial - Blueprint Newspapers Limited",
+          "url": "https://blueprint.ng/family-announces-date-of-late-bamanga-tukurs-burial/",
+          "domain": "blueprint.ng",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "nigeria:continue-foster-inclusiveness": {
+      "id": "nigeria:continue-foster-inclusiveness",
+      "country": "Nigeria",
+      "terms": [
+        "foster",
+        "inclusiveness",
+        "iwd",
+        "olu",
+        "sanwo",
+        "well",
+        "continue",
+        "women"
+      ],
+      "domains": [
+        "silverbirdtv.com"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "IWD : Well Continue To Foster Inclusiveness With Women - Sanwo - Olu",
+          "url": "http://silverbirdtv.com/iwd-well-continue-to-foster-inclusiveness-with-women-sanwo-olu/",
+          "domain": "silverbirdtv.com",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "nigeria:breaking-chairman-dead": {
+      "id": "nigeria:breaking-chairman-dead",
+      "country": "Nigeria",
+      "terms": [
+        "dead",
+        "breaking",
+        "chairman",
+        "national"
+      ],
+      "domains": [
+        "blueprint.ng"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 2,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Breaking : Ex - PDP chairman is dead - Blueprint Newspapers Limited",
+          "url": "https://blueprint.ng/breaking-ex-pdp-chairman-is-dead/",
+          "domain": "blueprint.ng",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Breaking : Ex - PDP national chairman Bamanga Tukur is dead - Blueprint Newspapers Limited",
+          "url": "https://blueprint.ng/breaking-ex-pdp-national-chairman-bamanga-tukur-is-dead/",
+          "domain": "blueprint.ng",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "nigeria:burying-daniel-diplomatic": {
+      "id": "nigeria:burying-daniel-diplomatic",
+      "country": "Nigeria",
+      "terms": [
+        "burying",
+        "daniel",
+        "diplomatic",
+        "failure",
+        "getting",
+        "keeps",
+        "nduka",
+        "okonkwo"
+      ],
+      "domains": [
+        "opinionnigeria.com"
+      ],
+      "daysSeen": [
+        "2026-09-13"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "samples": [
+        {
+          "title": "The Failure Of Diplomatic Protection : How Nigeria Keeps Burying Its Citizens While South Africa Keeps Getting Away With It - By Daniel Nduka Okonkwo",
+          "url": "https://www.opinionnigeria.com/the-failure-of-diplomatic-protection-how-nigeria-keeps-burying-its-citizens-while-south-africa-keeps-getting-away-with-it-by-daniel-nduka-okonkwo/",
+          "domain": "opinionnigeria.com",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "nigeria:beyond-cultural-deepens": {
+      "id": "nigeria:beyond-cultural-deepens",
+      "country": "Nigeria",
+      "terms": [
+        "beyond",
+        "cultural",
+        "deepens",
+        "expands",
+        "moscow",
+        "network",
+        "security",
+        "russia"
+      ],
+      "domains": [
+        "naija247news.com"
+      ],
+      "daysSeen": [
+        "2026-09-11"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11",
+      "samples": [
+        {
+          "title": "Russia Expands Cultural Network In Africa As Moscow Deepens Strategic Ties Beyond Security",
+          "url": "https://naija247news.com/russia-expands-cultural-network-in-africa-as-moscow-deepens-strategic-ties-beyond-security/",
+          "domain": "naija247news.com",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "kenya:belongs-mama-mboga": {
+      "id": "kenya:belongs-mama-mboga",
+      "country": "Kenya",
+      "terms": [
+        "belongs",
+        "mama",
+        "mboga",
+        "revolution",
+        "next"
+      ],
+      "domains": [
+        "standardmedia.co.ke"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Why next revolution belongs to Mama Mboga",
+          "url": "https://www.standardmedia.co.ke/opinion/article/2001557621/why-next-revolution-belongs-to-mama-mboga",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "kenya:assassination-attempted-chaos": {
+      "id": "kenya:assassination-attempted-chaos",
+      "country": "Kenya",
+      "terms": [
+        "assassination",
+        "attempted",
+        "garissa",
+        "muturi",
+        "reacts",
+        "chaos"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "This is an attempted assassination : Muturi reacts to Garissa rally chaos",
+          "url": "https://www.the-star.co.ke/news/2026-09-12-attempted-assassination-muturi-on-garissa-rally-attack",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "kenya:bodily-causing-domestic": {
+      "id": "kenya:bodily-causing-domestic",
+      "country": "Kenya",
+      "terms": [
+        "bodily",
+        "causing",
+        "domestic",
+        "estranged",
+        "fight",
+        "had",
+        "harm",
+        "househelp"
+      ],
+      "domains": [
+        "kenyan-post.com"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Revealed ! MORARA KEBASO silenced his househelp with Ksh 1 . 5 Million after causing bodily harm to her - She had intervened to rescue his estranged wife MERCY during a domestic fight",
+          "url": "https://www.kenyan-post.com/2026/09/revealed-morara-kebaso-silenced-his.html",
+          "domain": "kenyan-post.com",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "kenya:climbs-dozens-ferry": {
+      "id": "kenya:climbs-dozens-ferry",
+      "country": "Kenya",
+      "terms": [
+        "dozens",
+        "ferry",
+        "fire",
+        "missing",
+        "philippines",
+        "still",
+        "toll",
+        "climbs"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Death toll from Philippines ferry fire climbs to 35 , with dozens still missing",
+          "url": "https://www.the-star.co.ke/news/world/2026-09-12-death-toll-from-philippines-ferry-fire-climbs-to-35",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "kenya:border-coordinated-cross": {
+      "id": "kenya:border-coordinated-cross",
+      "country": "Kenya",
+      "terms": [
+        "coordinated",
+        "cross",
+        "diseases",
+        "livestock",
+        "response",
+        "steps",
+        "border",
+        "kenya"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Kenya steps up coordinated response to livestock diseases and cross - border movement",
+          "url": "https://www.the-star.co.ke/news/2026-09-12-kenya-steps-up-response-to-livestock-diseases-cross-border-movement",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "kenya:contrary-despite-house": {
+      "id": "kenya:contrary-despite-house",
+      "country": "Kenya",
+      "terms": [
+        "contrary",
+        "despite",
+        "house",
+        "kwayera",
+        "race",
+        "stands",
+        "state",
+        "media"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-09-13"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "samples": [
+        {
+          "title": "KWAYERA : Why Ruto stands to win State House race , despite contrary media",
+          "url": "https://www.the-star.co.ke/news/2026-09-13-kwayera-why-ruto-stands-to-win-state-house-race",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "kenya:boost-chebunyo-child": {
+      "id": "kenya:boost-chebunyo-child",
+      "country": "Kenya",
+      "terms": [
+        "chebunyo",
+        "child",
+        "healthcare",
+        "hospital",
+        "maternal",
+        "mother",
+        "boost",
+        "ruto"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Ruto : Chebunyo Mother and Child Hospital will boost maternal healthcare",
+          "url": "https://www.the-star.co.ke/news/2026-09-12-ruto-chebunyo-mother-and-child-hospital-will-boost-maternal-healthcare",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "kenya:aggressive-cancer-died": {
+      "id": "kenya:aggressive-cancer-died",
+      "country": "Kenya",
+      "terms": [
+        "aggressive",
+        "died",
+        "mum",
+        "nine",
+        "results",
+        "wait",
+        "cancer",
+        "month"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-09-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12",
+      "samples": [
+        {
+          "title": "Mum died from aggressive cancer after nine - month wait for test results",
+          "url": "https://www.the-star.co.ke/news/world/2026-09-12-mum-died-from-aggressive-cancer-after-nine-month-wait-for-test-results",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "kenya:arabian-border-continue": {
+      "id": "kenya:arabian-border-continue",
+      "country": "Kenya",
+      "terms": [
+        "arabian",
+        "grip",
+        "tighten",
+        "border",
+        "continue",
+        "route",
+        "saudi",
+        "houthis"
+      ],
+      "domains": [
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-09-13"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "samples": [
+        {
+          "title": "Houthis continue strike at Saudi Arabian border , tighten grip on oil route",
+          "url": "http://www.kenyastar.com/news/279304011/houthis-continue-strike-at-saudi-arabian-border-tighten-grip-on-oil-route",
+          "domain": "kenyastar.com",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "kenya:asia-bab-fresh": {
+      "id": "kenya:asia-bab-fresh",
+      "country": "Kenya",
+      "terms": [
+        "asia",
+        "bab",
+        "mandeb",
+        "sees",
+        "simmer",
+        "takeover",
+        "vessel",
+        "fresh"
+      ],
+      "domains": [
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-09-13"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "samples": [
+        {
+          "title": "Fresh strike on vessel in Hormuz , Houthi takeover of Bab el - Mandeb Strait sees West Asia simmer as BRICS calls for peace",
+          "url": "http://www.kenyastar.com/news/279304105/fresh-strike-on-vessel-in-hormuz-houthi-takeover-of-bab-el-mandeb-strait-sees-west-asia-simmer-as-brics-calls-for-peace",
+          "domain": "kenyastar.com",
+          "date": "2026-09-13"
         }
       ]
     }
