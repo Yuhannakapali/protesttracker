@@ -23,7 +23,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 147
+      "count": 148
     },
     {
       "start": "2026-08-01",
@@ -31,27 +31,27 @@
     },
     {
       "start": "2026-09-01",
-      "count": 339
+      "count": 343
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 91,
+      "count": 92,
       "first": "2026-06-06",
       "last": "2026-09-18"
     },
     {
       "name": "NDTV",
-      "count": 55,
+      "count": 56,
       "first": "2026-05-12",
-      "last": "2026-09-16"
+      "last": "2026-09-18"
     },
     {
       "name": "The New Indian Express",
-      "count": 54,
+      "count": 55,
       "first": "2026-07-23",
-      "last": "2026-09-17"
+      "last": "2026-09-18"
     },
     {
       "name": "Hindustan Times",
@@ -61,7 +61,7 @@
     },
     {
       "name": "The Indian Express",
-      "count": 48,
+      "count": 49,
       "first": "2026-07-26",
       "last": "2026-09-11"
     },
@@ -180,16 +180,16 @@
       "last": "2026-09-06"
     },
     {
+      "name": "Deccan Herald",
+      "count": 11,
+      "first": "2026-06-05",
+      "last": "2026-09-18"
+    },
+    {
       "name": "India.com",
       "count": 11,
       "first": "2026-08-18",
       "last": "2026-09-07"
-    },
-    {
-      "name": "Deccan Herald",
-      "count": 10,
-      "first": "2026-06-05",
-      "last": "2026-09-10"
     },
     {
       "name": "DNA India",
@@ -888,7 +888,7 @@
       "last": "2026-09-10"
     },
     {
-      "name": "Lokmat.com",
+      "name": "lokmat.com",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"

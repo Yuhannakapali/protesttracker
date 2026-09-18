@@ -148,18 +148,6 @@
   ],
   "sources": [
     {
-      "name": "Daily Nation",
-      "count": 49,
-      "first": "2024-06-19",
-      "last": "2026-08-10"
-    },
-    {
-      "name": "People Daily",
-      "count": 45,
-      "first": "2025-11-02",
-      "last": "2026-08-27"
-    },
-    {
       "name": "BBC",
       "count": 37,
       "first": "2024-06-18",
@@ -172,10 +160,28 @@
       "last": "2026-09-17"
     },
     {
+      "name": "Daily Nation",
+      "count": 28,
+      "first": "2024-06-19",
+      "last": "2026-07-03"
+    },
+    {
+      "name": "peopledaily.digital",
+      "count": 27,
+      "first": "2026-03-27",
+      "last": "2026-08-27"
+    },
+    {
       "name": "Al Jazeera",
       "count": 22,
       "first": "2024-06-18",
       "last": "2026-06-27"
+    },
+    {
+      "name": "nation.africa",
+      "count": 21,
+      "first": "2025-06-24",
+      "last": "2026-08-10"
     },
     {
       "name": "The Africa Report",
@@ -188,6 +194,12 @@
       "count": 19,
       "first": "2024-12-31",
       "last": "2026-08-27"
+    },
+    {
+      "name": "People Daily",
+      "count": 18,
+      "first": "2025-11-02",
+      "last": "2026-07-30"
     },
     {
       "name": "The Eastleigh Voice",
@@ -424,6 +436,12 @@
       "last": "2025-07-16"
     },
     {
+      "name": "The New York Times",
+      "count": 2,
+      "first": "2025-07-14",
+      "last": "2026-06-25"
+    },
+    {
       "name": "The Standard",
       "count": 2,
       "first": "2026-08-07",
@@ -526,7 +544,7 @@
       "last": "2026-06-25"
     },
     {
-      "name": "ewn.co.za",
+      "name": "EWN",
       "count": 1,
       "first": "2026-06-24",
       "last": "2026-06-24"
@@ -646,12 +664,6 @@
       "last": "2025-05-13"
     },
     {
-      "name": "nytimes.com",
-      "count": 1,
-      "first": "2026-06-25",
-      "last": "2026-06-25"
-    },
-    {
       "name": "openDemocracy",
       "count": 1,
       "first": "2026-06-25",
@@ -690,8 +702,8 @@
     {
       "name": "Sahara Reporters",
       "count": 1,
-      "first": "2026-07-27",
-      "last": "2026-07-27"
+      "first": "2026-07-26",
+      "last": "2026-07-26"
     },
     {
       "name": "Signs Tv",
@@ -734,12 +746,6 @@
       "count": 1,
       "first": "2024-08-01",
       "last": "2024-08-01"
-    },
-    {
-      "name": "The New York Times",
-      "count": 1,
-      "first": "2025-07-14",
-      "last": "2025-07-14"
     },
     {
       "name": "theafricareport.com",
