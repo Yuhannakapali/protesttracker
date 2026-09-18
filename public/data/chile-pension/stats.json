@@ -630,6 +630,12 @@
       "last": "2025-12-04"
     },
     {
+      "name": "Universidad de Chile",
+      "count": 6,
+      "first": "2017-04-22",
+      "last": "2023-07-16"
+    },
+    {
       "name": "Americas Quarterly",
       "count": 5,
       "first": "2017-07-25",
@@ -654,12 +660,6 @@
       "last": "2019-03-31"
     },
     {
-      "name": "Universidad de Chile",
-      "count": 5,
-      "first": "2017-04-22",
-      "last": "2023-07-16"
-    },
-    {
       "name": "Clarin.com",
       "count": 4,
       "first": "2017-12-18",
@@ -670,6 +670,12 @@
       "count": 4,
       "first": "2026-04-20",
       "last": "2026-07-15"
+    },
+    {
+      "name": "NODAL - Noticias de América Latina y el Caribe",
+      "count": 4,
+      "first": "2016-08-26",
+      "last": "2025-09-23"
     },
     {
       "name": "- CIPER Chile",
@@ -750,16 +756,16 @@
       "last": "2026-07-27"
     },
     {
-      "name": "cfr.org",
-      "count": 2,
-      "first": "2019-11-01",
-      "last": "2022-08-25"
-    },
-    {
       "name": "Cooperativa",
       "count": 2,
       "first": "2016-10-08",
       "last": "2019-10-25"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "count": 2,
+      "first": "2019-11-01",
+      "last": "2022-08-25"
     },
     {
       "name": "Daily Mail",
@@ -798,6 +804,12 @@
       "last": "2026-07-29"
     },
     {
+      "name": "hoy.com.do",
+      "count": 2,
+      "first": "2021-09-02",
+      "last": "2023-08-31"
+    },
+    {
       "name": "Interferencia |",
       "count": 2,
       "first": "2019-09-25",
@@ -826,18 +838,6 @@
       "count": 2,
       "first": "2019-10-30",
       "last": "2020-03-11"
-    },
-    {
-      "name": "NODAL - Noticias de América Latina y el Caribe",
-      "count": 2,
-      "first": "2016-08-26",
-      "last": "2021-04-26"
-    },
-    {
-      "name": "nodal.am",
-      "count": 2,
-      "first": "2018-04-23",
-      "last": "2025-09-23"
     },
     {
       "name": "Perfil",
@@ -924,7 +924,7 @@
       "last": "2019-12-13"
     },
     {
-      "name": "atlanticcouncil.org",
+      "name": "Atlantic Council",
       "count": 1,
       "first": "2019-12-09",
       "last": "2019-12-09"
@@ -990,7 +990,7 @@
       "last": "2025-09-29"
     },
     {
-      "name": "Congreso",
+      "name": "comunicaciones.congreso.gob.pe",
       "count": 1,
       "first": "2021-03-23",
       "last": "2021-03-23"
@@ -1104,7 +1104,7 @@
       "last": "2019-10-23"
     },
     {
-      "name": "france24.com",
+      "name": "France 24",
       "count": 1,
       "first": "2019-10-23",
       "last": "2019-10-23"
@@ -1146,22 +1146,10 @@
       "last": "2018-10-29"
     },
     {
-      "name": "guyanachronicle.com",
+      "name": "Guyana Chronicle",
       "count": 1,
       "first": "2017-03-27",
       "last": "2017-03-27"
-    },
-    {
-      "name": "Hoy Digital",
-      "count": 1,
-      "first": "2023-08-31",
-      "last": "2023-08-31"
-    },
-    {
-      "name": "hoy.com.do",
-      "count": 1,
-      "first": "2021-09-02",
-      "last": "2021-09-02"
     },
     {
       "name": "In These Times",
@@ -1338,7 +1326,7 @@
       "last": "2017-03-22"
     },
     {
-      "name": "Política Obrera",
+      "name": "politicaobrera.com",
       "count": 1,
       "first": "2025-09-30",
       "last": "2025-09-30"
@@ -1396,12 +1384,6 @@
       "count": 1,
       "first": "2026-09-16",
       "last": "2026-09-16"
-    },
-    {
-      "name": "radio.uchile.cl",
-      "count": 1,
-      "first": "2018-10-24",
-      "last": "2018-10-24"
     },
     {
       "name": "Reflexión y Liberación",
@@ -1524,7 +1506,7 @@
       "last": "2026-08-02"
     },
     {
-      "name": "VICE",
+      "name": "vice.com",
       "count": 1,
       "first": "2019-10-28",
       "last": "2019-10-28"

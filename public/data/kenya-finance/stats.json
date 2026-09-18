@@ -148,6 +148,18 @@
   ],
   "sources": [
     {
+      "name": "Daily Nation",
+      "count": 45,
+      "first": "2024-06-25",
+      "last": "2026-07-03"
+    },
+    {
+      "name": "People Daily",
+      "count": 43,
+      "first": "2025-11-02",
+      "last": "2026-08-27"
+    },
+    {
       "name": "BBC",
       "count": 37,
       "first": "2024-06-18",
@@ -160,34 +172,10 @@
       "last": "2026-09-17"
     },
     {
-      "name": "peopledaily.digital",
-      "count": 28,
-      "first": "2026-03-27",
-      "last": "2026-08-27"
-    },
-    {
-      "name": "Daily Nation",
-      "count": 26,
-      "first": "2024-06-25",
-      "last": "2026-07-03"
-    },
-    {
-      "name": "nation.africa",
-      "count": 23,
-      "first": "2024-06-19",
-      "last": "2026-08-10"
-    },
-    {
       "name": "Al Jazeera",
       "count": 22,
       "first": "2024-06-18",
       "last": "2026-06-27"
-    },
-    {
-      "name": "The Africa Report",
-      "count": 19,
-      "first": "2024-06-25",
-      "last": "2026-06-25"
     },
     {
       "name": "the-star.co.ke",
@@ -196,16 +184,16 @@
       "last": "2026-08-27"
     },
     {
-      "name": "People Daily",
-      "count": 17,
-      "first": "2025-11-02",
-      "last": "2026-06-25"
-    },
-    {
       "name": "The Eastleigh Voice",
       "count": 15,
       "first": "2024-07-03",
       "last": "2026-08-27"
+    },
+    {
+      "name": "theafricareport.com",
+      "count": 12,
+      "first": "2025-06-13",
+      "last": "2026-06-25"
     },
     {
       "name": "dw.com",
@@ -226,6 +214,12 @@
       "last": "2026-06-21"
     },
     {
+      "name": "The Kenya Times",
+      "count": 9,
+      "first": "2024-06-24",
+      "last": "2026-08-27"
+    },
+    {
       "name": "facebook.com",
       "count": 8,
       "first": "2026-04-04",
@@ -236,6 +230,12 @@
       "count": 8,
       "first": "2026-05-02",
       "last": "2026-07-28"
+    },
+    {
+      "name": "The Africa Report",
+      "count": 8,
+      "first": "2024-06-25",
+      "last": "2026-06-11"
     },
     {
       "name": "standardmedia.co.ke",
@@ -286,12 +286,6 @@
       "last": "2026-06-25"
     },
     {
-      "name": "The Kenya Times",
-      "count": 5,
-      "first": "2025-08-08",
-      "last": "2026-06-25"
-    },
-    {
       "name": "africanews.com",
       "count": 4,
       "first": "2024-08-13",
@@ -304,16 +298,16 @@
       "last": "2026-06-23"
     },
     {
+      "name": "nation.africa",
+      "count": 4,
+      "first": "2024-06-19",
+      "last": "2026-08-10"
+    },
+    {
       "name": "theelephant.info",
       "count": 4,
       "first": "2024-06-26",
       "last": "2026-04-24"
-    },
-    {
-      "name": "thekenyatimes.com",
-      "count": 4,
-      "first": "2024-06-24",
-      "last": "2026-08-27"
     },
     {
       "name": "ACLED",
@@ -418,12 +412,6 @@
       "last": "2026-06-20"
     },
     {
-      "name": "Kenya News Agency",
-      "count": 2,
-      "first": "2026-04-24",
-      "last": "2026-06-25"
-    },
-    {
       "name": "Nairobi Leo",
       "count": 2,
       "first": "2026-06-23",
@@ -434,6 +422,12 @@
       "count": 2,
       "first": "2026-03-23",
       "last": "2026-04-15"
+    },
+    {
+      "name": "peopledaily.digital",
+      "count": 2,
+      "first": "2026-05-24",
+      "last": "2026-07-30"
     },
     {
       "name": "The Economist",
@@ -488,12 +482,6 @@
       "count": 1,
       "first": "2024-07-19",
       "last": "2024-07-19"
-    },
-    {
-      "name": "blogs.lse.ac.uk",
-      "count": 1,
-      "first": "2024-08-01",
-      "last": "2024-08-01"
     },
     {
       "name": "Bloomberg.com",
@@ -646,6 +634,18 @@
       "last": "2026-08-28"
     },
     {
+      "name": "Kenya News Agency",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "kenyanews.go.ke",
+      "count": 1,
+      "first": "2026-04-24",
+      "last": "2026-04-24"
+    },
+    {
       "name": "khrc.or.ke",
       "count": 1,
       "first": "2025-09-20",
@@ -662,12 +662,6 @@
       "count": 1,
       "first": "2026-08-27",
       "last": "2026-08-27"
-    },
-    {
-      "name": "malaysia.news.yahoo.com",
-      "count": 1,
-      "first": "2026-09-17",
-      "last": "2026-09-17"
     },
     {
       "name": "Middle East Monitor",
@@ -760,10 +754,10 @@
       "last": "2024-07-17"
     },
     {
-      "name": "theafricareport.com",
+      "name": "The London School of Economics and Political Science",
       "count": 1,
-      "first": "2025-07-10",
-      "last": "2025-07-10"
+      "first": "2024-08-01",
+      "last": "2024-08-01"
     },
     {
       "name": "TheCable",
@@ -812,6 +806,12 @@
       "count": 1,
       "first": "2026-06-15",
       "last": "2026-06-15"
+    },
+    {
+      "name": "Yahoo",
+      "count": 1,
+      "first": "2026-09-17",
+      "last": "2026-09-17"
     },
     {
       "name": "معهد الجزيرة للإعلام",
