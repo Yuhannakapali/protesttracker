@@ -630,12 +630,6 @@
       "last": "2025-12-04"
     },
     {
-      "name": "Universidad de Chile",
-      "count": 6,
-      "first": "2017-04-22",
-      "last": "2023-07-16"
-    },
-    {
       "name": "Americas Quarterly",
       "count": 5,
       "first": "2017-07-25",
@@ -654,7 +648,13 @@
       "last": "2025-01-15"
     },
     {
-      "name": "soychile.cl",
+      "name": "radio.uchile.cl",
+      "count": 5,
+      "first": "2018-10-24",
+      "last": "2023-07-16"
+    },
+    {
+      "name": "SoyChile.cl",
       "count": 5,
       "first": "2016-08-10",
       "last": "2019-03-31"
@@ -724,6 +724,12 @@
       "count": 3,
       "first": "2019-03-31",
       "last": "2022-03-31"
+    },
+    {
+      "name": "The Guardian",
+      "count": 3,
+      "first": "2016-08-21",
+      "last": "2019-10-30"
     },
     {
       "name": "The New York Times",
@@ -798,12 +804,6 @@
       "last": "2026-07-29"
     },
     {
-      "name": "hoy.com.do",
-      "count": 2,
-      "first": "2021-09-02",
-      "last": "2023-08-31"
-    },
-    {
       "name": "Interferencia |",
       "count": 2,
       "first": "2019-09-25",
@@ -862,12 +862,6 @@
       "count": 2,
       "first": "2024-02-07",
       "last": "2025-11-29"
-    },
-    {
-      "name": "theguardian.com",
-      "count": 2,
-      "first": "2016-08-21",
-      "last": "2019-10-24"
     },
     {
       "name": "TN",
@@ -966,6 +960,12 @@
       "last": "2025-03-31"
     },
     {
+      "name": "caretas.pe",
+      "count": 1,
+      "first": "2025-09-14",
+      "last": "2025-09-14"
+    },
+    {
       "name": "Cato Institute",
       "count": 1,
       "first": "2022-08-03",
@@ -1026,7 +1026,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "diariotalca.cl",
+      "name": "Diario Talca",
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
@@ -1164,13 +1164,25 @@
       "last": "2017-03-27"
     },
     {
+      "name": "Hoy Digital",
+      "count": 1,
+      "first": "2023-08-31",
+      "last": "2023-08-31"
+    },
+    {
+      "name": "hoy.com.do",
+      "count": 1,
+      "first": "2021-09-02",
+      "last": "2021-09-02"
+    },
+    {
       "name": "In These Times",
       "count": 1,
       "first": "2020-02-19",
       "last": "2020-02-19"
     },
     {
-      "name": "independentespanol.com",
+      "name": "Independent en Español",
       "count": 1,
       "first": "2025-03-30",
       "last": "2025-03-30"
@@ -1242,7 +1254,7 @@
       "last": "2019-01-24"
     },
     {
-      "name": "malaespinacheck.cl",
+      "name": "Mala Espina",
       "count": 1,
       "first": "2024-12-27",
       "last": "2024-12-27"
@@ -1392,7 +1404,7 @@
       "last": "2026-09-16"
     },
     {
-      "name": "reflexionyliberacion.cl",
+      "name": "Reflexión y Liberación",
       "count": 1,
       "first": "2016-11-03",
       "last": "2016-11-03"
@@ -1408,12 +1420,6 @@
       "count": 1,
       "first": "2025-04-03",
       "last": "2025-04-03"
-    },
-    {
-      "name": "Revista Caretas",
-      "count": 1,
-      "first": "2025-09-14",
-      "last": "2025-09-14"
     },
     {
       "name": "RosarioPlus",
@@ -1446,12 +1452,6 @@
       "last": "2019-11-11"
     },
     {
-      "name": "The Guardian",
-      "count": 1,
-      "first": "2019-10-30",
-      "last": "2019-10-30"
-    },
-    {
       "name": "The Independent",
       "count": 1,
       "first": "2019-11-30",
@@ -1482,7 +1482,7 @@
       "last": "2025-07-26"
     },
     {
-      "name": "theworld.org",
+      "name": "The World from PRX",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
@@ -1510,6 +1510,12 @@
       "count": 1,
       "first": "2022-04-30",
       "last": "2022-04-30"
+    },
+    {
+      "name": "Universidad de Chile",
+      "count": 1,
+      "first": "2017-04-22",
+      "last": "2017-04-22"
     },
     {
       "name": "Université catholique de Louvain",

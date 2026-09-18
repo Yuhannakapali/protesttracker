@@ -820,8 +820,14 @@
   ],
   "sources": [
     {
+      "name": "The Guardian Nigeria News",
+      "count": 51,
+      "first": "2015-10-02",
+      "last": "2026-06-08"
+    },
+    {
       "name": "Daily Post Nigeria",
-      "count": 56,
+      "count": 48,
       "first": "2012-01-05",
       "last": "2026-09-17"
     },
@@ -856,22 +862,10 @@
       "last": "2026-09-17"
     },
     {
-      "name": "The Guardian Nigeria News",
-      "count": 33,
-      "first": "2015-10-02",
-      "last": "2026-02-03"
-    },
-    {
       "name": "Punch Newspapers",
       "count": 27,
       "first": "2020-09-04",
       "last": "2026-09-11"
-    },
-    {
-      "name": "The Guardian",
-      "count": 26,
-      "first": "2012-01-03",
-      "last": "2026-06-08"
     },
     {
       "name": "Ripples Nigeria",
@@ -904,6 +898,12 @@
       "last": "2026-06-04"
     },
     {
+      "name": "Legit News",
+      "count": 13,
+      "first": "2022-01-02",
+      "last": "2025-09-16"
+    },
+    {
       "name": "Al Jazeera",
       "count": 12,
       "first": "2012-01-04",
@@ -914,12 +914,6 @@
       "count": 11,
       "first": "2022-01-21",
       "last": "2026-06-04"
-    },
-    {
-      "name": "Legit News",
-      "count": 11,
-      "first": "2024-07-30",
-      "last": "2025-09-16"
     },
     {
       "name": "THISDAYLIVE",
@@ -934,9 +928,21 @@
       "last": "2026-06-03"
     },
     {
-      "name": "Independent Newspaper Nigeria",
+      "name": "dailypost.ng",
       "count": 9,
-      "first": "2020-09-07",
+      "first": "2012-02-05",
+      "last": "2026-06-03"
+    },
+    {
+      "name": "The Guardian",
+      "count": 8,
+      "first": "2012-01-03",
+      "last": "2026-01-26"
+    },
+    {
+      "name": "Independent Newspaper Nigeria",
+      "count": 7,
+      "first": "2023-01-30",
       "last": "2026-01-29"
     },
     {
@@ -1006,12 +1012,6 @@
       "last": "2026-06-04"
     },
     {
-      "name": "legit.ng",
-      "count": 4,
-      "first": "2022-01-02",
-      "last": "2024-09-04"
-    },
-    {
       "name": "Nigeria Info FM",
       "count": 4,
       "first": "2025-12-17",
@@ -1058,6 +1058,18 @@
       "count": 2,
       "first": "2024-09-04",
       "last": "2024-09-05"
+    },
+    {
+      "name": "independent.ng",
+      "count": 2,
+      "first": "2020-09-07",
+      "last": "2026-01-23"
+    },
+    {
+      "name": "legit.ng",
+      "count": 2,
+      "first": "2024-09-04",
+      "last": "2024-09-04"
     },
     {
       "name": "Mail & Guardian",
@@ -1162,7 +1174,7 @@
       "last": "2026-07-22"
     },
     {
-      "name": "Channel Africa",
+      "name": "channelafrica.co.za",
       "count": 1,
       "first": "2026-03-19",
       "last": "2026-03-19"
@@ -1172,12 +1184,6 @@
       "count": 1,
       "first": "2026-08-19",
       "last": "2026-08-19"
-    },
-    {
-      "name": "dailypost.ng",
-      "count": 1,
-      "first": "2023-09-04",
-      "last": "2023-09-04"
     },
     {
       "name": "fij.ng",
