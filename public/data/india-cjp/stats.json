@@ -23,7 +23,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 148
+      "count": 149
     },
     {
       "start": "2026-08-01",
@@ -31,7 +31,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 343
+      "count": 344
     }
   ],
   "sources": [
@@ -85,9 +85,9 @@
     },
     {
       "name": "ThePrint",
-      "count": 23,
+      "count": 24,
       "first": "2026-06-19",
-      "last": "2026-09-16"
+      "last": "2026-09-18"
     },
     {
       "name": "News18",
@@ -210,12 +210,6 @@
       "last": "2026-09-11"
     },
     {
-      "name": "Frontline Magazine",
-      "count": 9,
-      "first": "2026-07-08",
-      "last": "2026-08-25"
-    },
-    {
       "name": "Live Law",
       "count": 9,
       "first": "2026-07-24",
@@ -246,6 +240,12 @@
       "last": "2026-09-16"
     },
     {
+      "name": "frontline.thehindu.com",
+      "count": 8,
+      "first": "2026-07-20",
+      "last": "2026-08-20"
+    },
+    {
       "name": "Scroll.in",
       "count": 8,
       "first": "2026-07-26",
@@ -256,12 +256,6 @@
       "count": 8,
       "first": "2026-06-06",
       "last": "2026-09-03"
-    },
-    {
-      "name": "ABP Live English",
-      "count": 7,
-      "first": "2026-07-19",
-      "last": "2026-09-01"
     },
     {
       "name": "moneycontrol.com",
@@ -276,19 +270,7 @@
       "last": "2026-09-16"
     },
     {
-      "name": "The Guardian",
-      "count": 7,
-      "first": "2026-06-08",
-      "last": "2026-08-04"
-    },
-    {
-      "name": "The Hans India",
-      "count": 7,
-      "first": "2026-07-23",
-      "last": "2026-09-17"
-    },
-    {
-      "name": "dw.com",
+      "name": "DW.com",
       "count": 6,
       "first": "2026-07-21",
       "last": "2026-08-19"
@@ -298,6 +280,12 @@
       "count": 6,
       "first": "2026-08-16",
       "last": "2026-09-04"
+    },
+    {
+      "name": "theguardian.com",
+      "count": 6,
+      "first": "2026-07-20",
+      "last": "2026-07-27"
     },
     {
       "name": "Bar and Bench",
@@ -324,8 +312,20 @@
       "last": "2026-09-09"
     },
     {
+      "name": "The Hans India",
+      "count": 5,
+      "first": "2026-08-19",
+      "last": "2026-09-07"
+    },
+    {
       "name": "Times Now",
       "count": 5,
+      "first": "2026-08-27",
+      "last": "2026-09-01"
+    },
+    {
+      "name": "ABP Live English",
+      "count": 4,
       "first": "2026-08-27",
       "last": "2026-09-01"
     },
@@ -340,12 +340,6 @@
       "count": 4,
       "first": "2026-08-10",
       "last": "2026-08-24"
-    },
-    {
-      "name": "Brut",
-      "count": 4,
-      "first": "2026-07-12",
-      "last": "2026-08-11"
     },
     {
       "name": "Odisha TV",
@@ -378,6 +372,12 @@
       "last": "2026-09-17"
     },
     {
+      "name": "Brut",
+      "count": 3,
+      "first": "2026-07-12",
+      "last": "2026-08-11"
+    },
+    {
       "name": "CNBC TV18",
       "count": 3,
       "first": "2026-07-30",
@@ -388,6 +388,12 @@
       "count": 3,
       "first": "2026-07-21",
       "last": "2026-08-28"
+    },
+    {
+      "name": "Frontline Magazine",
+      "count": 3,
+      "first": "2026-07-08",
+      "last": "2026-08-25"
     },
     {
       "name": "GujaratSamachar English",
@@ -406,6 +412,12 @@
       "count": 3,
       "first": "2026-07-24",
       "last": "2026-08-16"
+    },
+    {
+      "name": "news.abplive.com",
+      "count": 3,
+      "first": "2026-07-19",
+      "last": "2026-07-25"
     },
     {
       "name": "Newslaundry",
@@ -456,6 +468,12 @@
       "last": "2026-08-24"
     },
     {
+      "name": "brut.media",
+      "count": 2,
+      "first": "2026-07-20",
+      "last": "2026-07-20"
+    },
+    {
       "name": "Business and Human Rights Centre",
       "count": 2,
       "first": "2026-08-20",
@@ -490,12 +508,6 @@
       "count": 2,
       "first": "2026-08-22",
       "last": "2026-09-01"
-    },
-    {
-      "name": "frontline.thehindu.com",
-      "count": 2,
-      "first": "2026-07-20",
-      "last": "2026-07-30"
     },
     {
       "name": "Gulte",
@@ -606,6 +618,12 @@
       "last": "2026-08-04"
     },
     {
+      "name": "The Guardian",
+      "count": 2,
+      "first": "2026-06-08",
+      "last": "2026-08-04"
+    },
+    {
       "name": "The Japan Times",
       "count": 2,
       "first": "2026-08-08",
@@ -616,6 +634,12 @@
       "count": 2,
       "first": "2026-09-01",
       "last": "2026-09-01"
+    },
+    {
+      "name": "thehansindia.com",
+      "count": 2,
+      "first": "2026-07-23",
+      "last": "2026-09-17"
     },
     {
       "name": "thehawk.in",
@@ -630,6 +654,12 @@
       "last": "2026-09-14"
     },
     {
+      "name": "True Scoop",
+      "count": 2,
+      "first": "2026-07-23",
+      "last": "2026-07-24"
+    },
+    {
       "name": "Whispers in the Corridors",
       "count": 2,
       "first": "2026-08-20",
@@ -642,7 +672,7 @@
       "last": "2026-08-17"
     },
     {
-      "name": "ACLED",
+      "name": "acleddata.com",
       "count": 1,
       "first": "2026-07-27",
       "last": "2026-07-27"
@@ -670,12 +700,6 @@
       "count": 1,
       "first": "2026-09-16",
       "last": "2026-09-16"
-    },
-    {
-      "name": "brut.media",
-      "count": 1,
-      "first": "2026-07-20",
-      "last": "2026-07-20"
     },
     {
       "name": "Business Today",
@@ -828,7 +852,7 @@
       "last": "2026-08-30"
     },
     {
-      "name": "Indiablooms",
+      "name": "indiablooms.com",
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
@@ -888,7 +912,7 @@
       "last": "2026-09-10"
     },
     {
-      "name": "lokmat.com",
+      "name": "Lokmat.com",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
@@ -972,7 +996,7 @@
       "last": "2026-09-15"
     },
     {
-      "name": "Pratidin Time",
+      "name": "pratidintime.com",
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
@@ -1132,18 +1156,6 @@
       "count": 1,
       "first": "2026-09-08",
       "last": "2026-09-08"
-    },
-    {
-      "name": "True Scoop",
-      "count": 1,
-      "first": "2026-07-24",
-      "last": "2026-07-24"
-    },
-    {
-      "name": "truescoopnews.com",
-      "count": 1,
-      "first": "2026-07-23",
-      "last": "2026-07-23"
     },
     {
       "name": "Verdictum",
