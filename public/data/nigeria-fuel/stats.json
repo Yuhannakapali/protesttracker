@@ -832,16 +832,10 @@
       "last": "2026-06-08"
     },
     {
-      "name": "Channels Television",
-      "count": 45,
-      "first": "2012-01-04",
-      "last": "2026-09-18"
-    },
-    {
       "name": "Vanguard News",
-      "count": 39,
+      "count": 40,
       "first": "2012-03-08",
-      "last": "2026-06-03"
+      "last": "2026-06-08"
     },
     {
       "name": "Premium Times Nigeria",
@@ -860,6 +854,12 @@
       "count": 34,
       "first": "2026-09-02",
       "last": "2026-09-17"
+    },
+    {
+      "name": "Channels Television",
+      "count": 31,
+      "first": "2012-01-04",
+      "last": "2026-09-18"
     },
     {
       "name": "Punch Newspapers",
@@ -898,6 +898,12 @@
       "last": "2026-09-16"
     },
     {
+      "name": "channelstv.com",
+      "count": 14,
+      "first": "2012-03-14",
+      "last": "2026-06-03"
+    },
+    {
       "name": "Legit News",
       "count": 13,
       "first": "2022-01-02",
@@ -922,16 +928,16 @@
       "last": "2026-06-04"
     },
     {
-      "name": "The Whistler Newspaper",
-      "count": 10,
-      "first": "2020-09-04",
-      "last": "2026-06-03"
-    },
-    {
       "name": "Independent Newspaper Nigeria",
       "count": 9,
       "first": "2020-09-07",
       "last": "2026-01-29"
+    },
+    {
+      "name": "The Guardian",
+      "count": 7,
+      "first": "2012-01-03",
+      "last": "2026-01-26"
     },
     {
       "name": "Nigeria Labour Congress (NLC)",
@@ -940,16 +946,10 @@
       "last": "2026-06-03"
     },
     {
-      "name": "The Guardian",
+      "name": "The Whistler Newspaper",
       "count": 6,
-      "first": "2012-01-03",
-      "last": "2026-01-26"
-    },
-    {
-      "name": "The Nation Newspaper",
-      "count": 6,
-      "first": "2022-01-10",
-      "last": "2026-06-03"
+      "first": "2020-09-04",
+      "last": "2026-04-28"
     },
     {
       "name": "Tribune Online",
@@ -988,6 +988,12 @@
       "last": "2026-09-14"
     },
     {
+      "name": "thewhistler.ng",
+      "count": 5,
+      "first": "2024-05-06",
+      "last": "2026-06-03"
+    },
+    {
       "name": "allAfrica.com",
       "count": 4,
       "first": "2012-01-16",
@@ -998,6 +1004,12 @@
       "count": 4,
       "first": "2023-07-31",
       "last": "2026-01-27"
+    },
+    {
+      "name": "LEADERSHIP Newspapers",
+      "count": 4,
+      "first": "2024-09-08",
+      "last": "2026-06-04"
     },
     {
       "name": "Nigeria Info FM",
@@ -1012,16 +1024,22 @@
       "last": "2026-09-11"
     },
     {
+      "name": "The Nation Newspaper",
+      "count": 4,
+      "first": "2024-09-08",
+      "last": "2026-02-04"
+    },
+    {
       "name": "vanguardngr.com",
       "count": 4,
       "first": "2020-07-16",
       "last": "2025-10-22"
     },
     {
-      "name": "LEADERSHIP Newspapers",
+      "name": "fij.ng",
       "count": 3,
-      "first": "2024-09-08",
-      "last": "2026-02-03"
+      "first": "2024-09-04",
+      "last": "2024-11-11"
     },
     {
       "name": "Peoples Gazette Nigeria",
@@ -1034,6 +1052,12 @@
       "count": 3,
       "first": "2026-09-11",
       "last": "2026-09-15"
+    },
+    {
+      "name": "thenationonlineng.net",
+      "count": 3,
+      "first": "2022-01-10",
+      "last": "2026-06-03"
     },
     {
       "name": "VOA Africa",
@@ -1052,12 +1076,6 @@
       "count": 2,
       "first": "2023-09-04",
       "last": "2024-09-06"
-    },
-    {
-      "name": "FIJ NG",
-      "count": 2,
-      "first": "2024-09-04",
-      "last": "2024-09-05"
     },
     {
       "name": "legit.ng",
@@ -1102,12 +1120,6 @@
       "last": "2026-02-03"
     },
     {
-      "name": "theguardian.com",
-      "count": 2,
-      "first": "2012-01-08",
-      "last": "2012-01-09"
-    },
-    {
       "name": "TRT Afrika",
       "count": 2,
       "first": "2025-09-17",
@@ -1118,12 +1130,6 @@
       "count": 2,
       "first": "2025-07-24",
       "last": "2026-03-14"
-    },
-    {
-      "name": "- OGUN STATE TELEVISION",
-      "count": 1,
-      "first": "2026-06-08",
-      "last": "2026-06-08"
     },
     {
       "name": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1186,16 +1192,10 @@
       "last": "2026-08-19"
     },
     {
-      "name": "dailyreport.ng",
+      "name": "Daily Report Nigeria",
       "count": 1,
       "first": "2026-09-18",
       "last": "2026-09-18"
-    },
-    {
-      "name": "fij.ng",
-      "count": 1,
-      "first": "2024-11-11",
-      "last": "2024-11-11"
     },
     {
       "name": "Firstpost",
@@ -1222,7 +1222,7 @@
       "last": "2024-05-11"
     },
     {
-      "name": "Gistlover",
+      "name": "gistlover.com",
       "count": 1,
       "first": "2026-09-17",
       "last": "2026-09-17"
@@ -1234,7 +1234,7 @@
       "last": "2019-01-25"
     },
     {
-      "name": "gistreel.com",
+      "name": "GistReel",
       "count": 1,
       "first": "2026-09-17",
       "last": "2026-09-17"
@@ -1280,12 +1280,6 @@
       "count": 1,
       "first": "2024-08-21",
       "last": "2024-08-21"
-    },
-    {
-      "name": "leadership.ng",
-      "count": 1,
-      "first": "2026-06-04",
-      "last": "2026-06-04"
     },
     {
       "name": "MarketForces Africa",
@@ -1396,13 +1390,13 @@
       "last": "2026-06-08"
     },
     {
-      "name": "thenationonlineng.net",
+      "name": "theguardian.com",
       "count": 1,
-      "first": "2026-02-02",
-      "last": "2026-02-02"
+      "first": "2012-01-08",
+      "last": "2012-01-08"
     },
     {
-      "name": "thenicheng.com",
+      "name": "TheNiche",
       "count": 1,
       "first": "2020-09-11",
       "last": "2020-09-11"
@@ -1412,12 +1406,6 @@
       "count": 1,
       "first": "2024-09-04",
       "last": "2024-09-04"
-    },
-    {
-      "name": "thewhistler.ng",
-      "count": 1,
-      "first": "2024-09-07",
-      "last": "2024-09-07"
     },
     {
       "name": "Times of Malta",

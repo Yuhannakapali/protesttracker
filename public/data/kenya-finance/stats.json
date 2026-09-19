@@ -149,13 +149,13 @@
   "sources": [
     {
       "name": "Daily Nation",
-      "count": 45,
-      "first": "2024-06-25",
-      "last": "2026-07-03"
+      "count": 48,
+      "first": "2024-06-19",
+      "last": "2026-08-10"
     },
     {
       "name": "People Daily",
-      "count": 43,
+      "count": 45,
       "first": "2025-11-02",
       "last": "2026-08-27"
     },
@@ -178,6 +178,12 @@
       "last": "2026-06-27"
     },
     {
+      "name": "The Africa Report",
+      "count": 19,
+      "first": "2024-06-25",
+      "last": "2026-06-25"
+    },
+    {
       "name": "the-star.co.ke",
       "count": 19,
       "first": "2024-12-31",
@@ -188,12 +194,6 @@
       "count": 15,
       "first": "2024-07-03",
       "last": "2026-08-27"
-    },
-    {
-      "name": "theafricareport.com",
-      "count": 12,
-      "first": "2025-06-13",
-      "last": "2026-06-25"
     },
     {
       "name": "dw.com",
@@ -208,18 +208,6 @@
       "last": "2026-07-07"
     },
     {
-      "name": "The EastAfrican",
-      "count": 9,
-      "first": "2024-06-18",
-      "last": "2026-06-21"
-    },
-    {
-      "name": "The Kenya Times",
-      "count": 9,
-      "first": "2024-06-24",
-      "last": "2026-08-27"
-    },
-    {
       "name": "facebook.com",
       "count": 8,
       "first": "2026-04-04",
@@ -230,12 +218,6 @@
       "count": 8,
       "first": "2026-05-02",
       "last": "2026-07-28"
-    },
-    {
-      "name": "The Africa Report",
-      "count": 8,
-      "first": "2024-06-25",
-      "last": "2026-06-11"
     },
     {
       "name": "standardmedia.co.ke",
@@ -274,15 +256,21 @@
       "last": "2026-06-25"
     },
     {
-      "name": "Context News",
-      "count": 5,
-      "first": "2024-06-26",
-      "last": "2025-07-03"
+      "name": "The EastAfrican",
+      "count": 6,
+      "first": "2024-06-18",
+      "last": "2025-08-09"
     },
     {
       "name": "France 24",
       "count": 5,
       "first": "2024-06-26",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "The Kenya Times",
+      "count": 5,
+      "first": "2025-08-08",
       "last": "2026-06-25"
     },
     {
@@ -292,22 +280,28 @@
       "last": "2026-06-25"
     },
     {
+      "name": "Context News",
+      "count": 4,
+      "first": "2024-06-26",
+      "last": "2025-06-25"
+    },
+    {
       "name": "Dawan Africa",
       "count": 4,
       "first": "2026-05-11",
       "last": "2026-06-23"
     },
     {
-      "name": "nation.africa",
-      "count": 4,
-      "first": "2024-06-19",
-      "last": "2026-08-10"
-    },
-    {
       "name": "theelephant.info",
       "count": 4,
       "first": "2024-06-26",
       "last": "2026-04-24"
+    },
+    {
+      "name": "thekenyatimes.com",
+      "count": 4,
+      "first": "2024-06-24",
+      "last": "2026-08-27"
     },
     {
       "name": "ACLED",
@@ -340,12 +334,6 @@
       "last": "2025-06-26"
     },
     {
-      "name": "Kenya Human Rights Commission (KHRC)",
-      "count": 3,
-      "first": "2024-06-24",
-      "last": "2026-01-05"
-    },
-    {
       "name": "MalindiKenya.net",
       "count": 3,
       "first": "2024-07-22",
@@ -368,6 +356,12 @@
       "count": 3,
       "first": "2024-06-24",
       "last": "2026-08-01"
+    },
+    {
+      "name": "theeastafrican.co.ke",
+      "count": 3,
+      "first": "2025-06-07",
+      "last": "2026-06-21"
     },
     {
       "name": "accord.org.za",
@@ -412,6 +406,24 @@
       "last": "2026-06-20"
     },
     {
+      "name": "Kenya Human Rights Commission (KHRC)",
+      "count": 2,
+      "first": "2024-06-24",
+      "last": "2024-06-28"
+    },
+    {
+      "name": "Kenya News Agency",
+      "count": 2,
+      "first": "2026-04-24",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "khrc.or.ke",
+      "count": 2,
+      "first": "2025-09-20",
+      "last": "2026-01-05"
+    },
+    {
       "name": "Nairobi Leo",
       "count": 2,
       "first": "2026-06-23",
@@ -422,12 +434,6 @@
       "count": 2,
       "first": "2026-03-23",
       "last": "2026-04-15"
-    },
-    {
-      "name": "peopledaily.digital",
-      "count": 2,
-      "first": "2026-05-24",
-      "last": "2026-07-30"
     },
     {
       "name": "The Economist",
@@ -484,7 +490,7 @@
       "last": "2024-07-19"
     },
     {
-      "name": "Bloomberg.com",
+      "name": "Bloomberg",
       "count": 1,
       "first": "2026-05-05",
       "last": "2026-05-05"
@@ -526,6 +532,12 @@
       "last": "2024-06-27"
     },
     {
+      "name": "context.news",
+      "count": 1,
+      "first": "2025-07-03",
+      "last": "2025-07-03"
+    },
+    {
       "name": "Cryptopolitan",
       "count": 1,
       "first": "2026-05-25",
@@ -544,7 +556,7 @@
       "last": "2026-06-25"
     },
     {
-      "name": "EWN",
+      "name": "ewn.co.za",
       "count": 1,
       "first": "2026-06-24",
       "last": "2026-06-24"
@@ -634,24 +646,6 @@
       "last": "2026-08-28"
     },
     {
-      "name": "Kenya News Agency",
-      "count": 1,
-      "first": "2026-06-25",
-      "last": "2026-06-25"
-    },
-    {
-      "name": "kenyanews.go.ke",
-      "count": 1,
-      "first": "2026-04-24",
-      "last": "2026-04-24"
-    },
-    {
-      "name": "khrc.or.ke",
-      "count": 1,
-      "first": "2025-09-20",
-      "last": "2025-09-20"
-    },
-    {
       "name": "Kroc Institute for International Peace Studies",
       "count": 1,
       "first": "2024-08-12",
@@ -674,6 +668,12 @@
       "count": 1,
       "first": "2025-05-13",
       "last": "2025-05-13"
+    },
+    {
+      "name": "nation.africa",
+      "count": 1,
+      "first": "2025-06-24",
+      "last": "2025-06-24"
     },
     {
       "name": "openDemocracy",
@@ -758,6 +758,12 @@
       "count": 1,
       "first": "2024-08-01",
       "last": "2024-08-01"
+    },
+    {
+      "name": "theafricareport.com",
+      "count": 1,
+      "first": "2025-07-10",
+      "last": "2025-07-10"
     },
     {
       "name": "TheCable",
