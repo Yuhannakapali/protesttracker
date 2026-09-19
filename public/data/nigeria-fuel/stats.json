@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 91
+      "count": 92
     }
   ],
   "sources": [
@@ -851,14 +851,14 @@
     },
     {
       "name": "Vanguard",
-      "count": 34,
+      "count": 35,
       "first": "2026-09-02",
-      "last": "2026-09-17"
+      "last": "2026-09-19"
     },
     {
       "name": "Channels Television",
-      "count": 31,
-      "first": "2012-01-04",
+      "count": 29,
+      "first": "2012-05-14",
       "last": "2026-09-18"
     },
     {
@@ -880,6 +880,12 @@
       "last": "2026-01-27"
     },
     {
+      "name": "channelstv.com",
+      "count": 16,
+      "first": "2012-01-04",
+      "last": "2026-06-03"
+    },
+    {
       "name": "Arise News",
       "count": 15,
       "first": "2023-06-02",
@@ -898,12 +904,6 @@
       "last": "2026-09-16"
     },
     {
-      "name": "channelstv.com",
-      "count": 14,
-      "first": "2012-03-14",
-      "last": "2026-06-03"
-    },
-    {
       "name": "Legit News",
       "count": 13,
       "first": "2022-01-02",
@@ -916,22 +916,28 @@
       "last": "2024-08-02"
     },
     {
+      "name": "Business News Nigeria",
+      "count": 11,
+      "first": "2022-01-21",
+      "last": "2026-06-04"
+    },
+    {
       "name": "THISDAYLIVE",
       "count": 11,
       "first": "2023-01-26",
       "last": "2026-02-04"
     },
     {
-      "name": "Business News Nigeria",
-      "count": 10,
-      "first": "2022-01-21",
-      "last": "2026-06-04"
-    },
-    {
       "name": "Independent Newspaper Nigeria",
       "count": 9,
       "first": "2020-09-07",
       "last": "2026-01-29"
+    },
+    {
+      "name": "The Whistler Newspaper",
+      "count": 9,
+      "first": "2020-09-04",
+      "last": "2026-06-03"
     },
     {
       "name": "The Guardian",
@@ -946,10 +952,10 @@
       "last": "2026-06-03"
     },
     {
-      "name": "The Whistler Newspaper",
+      "name": "The Nation Newspaper",
       "count": 6,
-      "first": "2020-09-04",
-      "last": "2026-04-28"
+      "first": "2022-01-10",
+      "last": "2026-06-03"
     },
     {
       "name": "Tribune Online",
@@ -988,12 +994,6 @@
       "last": "2026-09-14"
     },
     {
-      "name": "thewhistler.ng",
-      "count": 5,
-      "first": "2024-05-06",
-      "last": "2026-06-03"
-    },
-    {
       "name": "allAfrica.com",
       "count": 4,
       "first": "2012-01-16",
@@ -1024,22 +1024,10 @@
       "last": "2026-09-11"
     },
     {
-      "name": "The Nation Newspaper",
-      "count": 4,
-      "first": "2024-09-08",
-      "last": "2026-02-04"
-    },
-    {
       "name": "vanguardngr.com",
       "count": 4,
       "first": "2020-07-16",
       "last": "2025-10-22"
-    },
-    {
-      "name": "fij.ng",
-      "count": 3,
-      "first": "2024-09-04",
-      "last": "2024-11-11"
     },
     {
       "name": "Peoples Gazette Nigeria",
@@ -1052,12 +1040,6 @@
       "count": 3,
       "first": "2026-09-11",
       "last": "2026-09-15"
-    },
-    {
-      "name": "thenationonlineng.net",
-      "count": 3,
-      "first": "2022-01-10",
-      "last": "2026-06-03"
     },
     {
       "name": "VOA Africa",
@@ -1076,6 +1058,12 @@
       "count": 2,
       "first": "2023-09-04",
       "last": "2024-09-06"
+    },
+    {
+      "name": "FIJ NG",
+      "count": 2,
+      "first": "2024-09-04",
+      "last": "2024-09-05"
     },
     {
       "name": "legit.ng",
@@ -1118,6 +1106,12 @@
       "count": 2,
       "first": "2023-10-01",
       "last": "2026-02-03"
+    },
+    {
+      "name": "thewhistler.ng",
+      "count": 2,
+      "first": "2024-09-07",
+      "last": "2025-10-20"
     },
     {
       "name": "TRT Afrika",
@@ -1174,12 +1168,6 @@
       "last": "2026-07-22"
     },
     {
-      "name": "businessday.ng",
-      "count": 1,
-      "first": "2024-09-03",
-      "last": "2024-09-03"
-    },
-    {
       "name": "channelafrica.co.za",
       "count": 1,
       "first": "2026-03-19",
@@ -1196,6 +1184,12 @@
       "count": 1,
       "first": "2026-09-18",
       "last": "2026-09-18"
+    },
+    {
+      "name": "fij.ng",
+      "count": 1,
+      "first": "2024-11-11",
+      "last": "2024-11-11"
     },
     {
       "name": "Firstpost",
@@ -1222,7 +1216,7 @@
       "last": "2024-05-11"
     },
     {
-      "name": "gistlover.com",
+      "name": "Gistlover",
       "count": 1,
       "first": "2026-09-17",
       "last": "2026-09-17"
@@ -1396,6 +1390,12 @@
       "last": "2012-01-08"
     },
     {
+      "name": "thenationonlineng.net",
+      "count": 1,
+      "first": "2026-02-02",
+      "last": "2026-02-02"
+    },
+    {
       "name": "TheNiche",
       "count": 1,
       "first": "2020-09-11",
@@ -1414,7 +1414,7 @@
       "last": "2012-01-09"
     },
     {
-      "name": "TimesLIVE",
+      "name": "timeslive.co.za",
       "count": 1,
       "first": "2026-03-18",
       "last": "2026-03-18"
@@ -1427,5 +1427,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-09-18"
+  "lastDate": "2026-09-19"
 }
