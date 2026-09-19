@@ -475,7 +475,7 @@
     },
     {
       "start": "2024-09-01",
-      "count": 4
+      "count": 5
     },
     {
       "start": "2024-10-01",
@@ -630,6 +630,12 @@
       "last": "2025-12-04"
     },
     {
+      "name": "Universidad de Chile",
+      "count": 6,
+      "first": "2017-04-22",
+      "last": "2023-07-16"
+    },
+    {
       "name": "Americas Quarterly",
       "count": 5,
       "first": "2017-07-25",
@@ -672,16 +678,16 @@
       "last": "2025-09-23"
     },
     {
-      "name": "radio.uchile.cl",
-      "count": 4,
-      "first": "2019-03-31",
-      "last": "2023-07-16"
-    },
-    {
       "name": "- CIPER Chile",
       "count": 3,
       "first": "2016-07-26",
       "last": "2019-03-21"
+    },
+    {
+      "name": "Análisis Digital",
+      "count": 3,
+      "first": "2026-05-28",
+      "last": "2026-07-27"
     },
     {
       "name": "BioBioChile",
@@ -750,12 +756,6 @@
       "last": "2026-07-29"
     },
     {
-      "name": "Análisis Digital",
-      "count": 2,
-      "first": "2026-05-28",
-      "last": "2026-07-27"
-    },
-    {
       "name": "Cooperativa",
       "count": 2,
       "first": "2016-10-08",
@@ -786,12 +786,6 @@
       "last": "2019-03-21"
     },
     {
-      "name": "El Miércoles Digital",
-      "count": 2,
-      "first": "2026-07-24",
-      "last": "2026-07-30"
-    },
-    {
       "name": "Ex-ante",
       "count": 2,
       "first": "2022-11-06",
@@ -802,6 +796,12 @@
       "count": 2,
       "first": "2026-07-15",
       "last": "2026-07-29"
+    },
+    {
+      "name": "hoy.com.do",
+      "count": 2,
+      "first": "2021-09-02",
+      "last": "2023-08-31"
     },
     {
       "name": "Interferencia |",
@@ -840,12 +840,6 @@
       "last": "2024-09-04"
     },
     {
-      "name": "pressenza.com",
-      "count": 2,
-      "first": "2015-12-12",
-      "last": "2016-10-16"
-    },
-    {
       "name": "Reuters",
       "count": 2,
       "first": "2019-10-23",
@@ -868,12 +862,6 @@
       "count": 2,
       "first": "2023-04-06",
       "last": "2025-12-04"
-    },
-    {
-      "name": "Universidad de Chile",
-      "count": 2,
-      "first": "2017-04-22",
-      "last": "2018-10-24"
     },
     {
       "name": "VOA - Voice of America English News",
@@ -960,7 +948,7 @@
       "last": "2021-09-22"
     },
     {
-      "name": "cambridge.org",
+      "name": "Cambridge University Press & Assessment",
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
@@ -1014,6 +1002,12 @@
       "last": "2017-12-19"
     },
     {
+      "name": "Diario Época Corrientes",
+      "count": 1,
+      "first": "2023-04-06",
+      "last": "2023-04-06"
+    },
+    {
       "name": "Diario Río Uruguay",
       "count": 1,
       "first": "2026-07-27",
@@ -1042,6 +1036,12 @@
       "count": 1,
       "first": "2025-06-27",
       "last": "2025-06-27"
+    },
+    {
+      "name": "El Miércoles Digital",
+      "count": 1,
+      "first": "2026-07-30",
+      "last": "2026-07-30"
     },
     {
       "name": "El Nacional — La voz de todos",
@@ -1150,18 +1150,6 @@
       "count": 1,
       "first": "2017-03-27",
       "last": "2017-03-27"
-    },
-    {
-      "name": "Hoy Digital",
-      "count": 1,
-      "first": "2023-08-31",
-      "last": "2023-08-31"
-    },
-    {
-      "name": "hoy.com.do",
-      "count": 1,
-      "first": "2021-09-02",
-      "last": "2021-09-02"
     },
     {
       "name": "In These Times",
@@ -1356,6 +1344,18 @@
       "last": "2025-03-30"
     },
     {
+      "name": "Pressenza - International Press Agency",
+      "count": 1,
+      "first": "2016-10-16",
+      "last": "2016-10-16"
+    },
+    {
+      "name": "pressenza.com",
+      "count": 1,
+      "first": "2015-12-12",
+      "last": "2015-12-12"
+    },
+    {
       "name": "Proceso",
       "count": 1,
       "first": "2016-08-22",
@@ -1372,12 +1372,6 @@
       "count": 1,
       "first": "2020-07-16",
       "last": "2020-07-16"
-    },
-    {
-      "name": "Radio Dos Corrientes",
-      "count": 1,
-      "first": "2023-04-06",
-      "last": "2023-04-06"
     },
     {
       "name": "Radio Gol",
@@ -1516,6 +1510,12 @@
       "count": 1,
       "first": "2026-08-02",
       "last": "2026-08-02"
+    },
+    {
+      "name": "Versión Rosario",
+      "count": 1,
+      "first": "2024-09-05",
+      "last": "2024-09-05"
     },
     {
       "name": "VICE",

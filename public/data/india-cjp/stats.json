@@ -23,7 +23,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 155
+      "count": 157
     },
     {
       "start": "2026-08-01",
@@ -31,21 +31,21 @@
     },
     {
       "start": "2026-09-01",
-      "count": 349
+      "count": 350
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 67,
+      "count": 91,
       "first": "2026-06-06",
       "last": "2026-09-18"
     },
     {
       "name": "NDTV",
-      "count": 56,
+      "count": 57,
       "first": "2026-05-12",
-      "last": "2026-09-18"
+      "last": "2026-09-19"
     },
     {
       "name": "The New Indian Express",
@@ -67,8 +67,14 @@
     },
     {
       "name": "Telegraph India",
-      "count": 47,
+      "count": 48,
       "first": "2026-07-21",
+      "last": "2026-09-17"
+    },
+    {
+      "name": "The Times of India",
+      "count": 46,
+      "first": "2026-06-06",
       "last": "2026-09-17"
     },
     {
@@ -78,20 +84,8 @@
       "last": "2026-09-17"
     },
     {
-      "name": "The Times of India",
-      "count": 32,
-      "first": "2026-06-06",
-      "last": "2026-09-15"
-    },
-    {
-      "name": "thehindu.com",
-      "count": 26,
-      "first": "2026-07-17",
-      "last": "2026-09-18"
-    },
-    {
       "name": "ThePrint",
-      "count": 25,
+      "count": 26,
       "first": "2026-06-19",
       "last": "2026-09-18"
     },
@@ -142,12 +136,6 @@
       "count": 17,
       "first": "2026-07-22",
       "last": "2026-09-04"
-    },
-    {
-      "name": "timesofindia.indiatimes.com",
-      "count": 16,
-      "first": "2026-07-29",
-      "last": "2026-09-17"
     },
     {
       "name": "LawBeat",
@@ -240,12 +228,6 @@
       "last": "2026-09-04"
     },
     {
-      "name": "The Statesman",
-      "count": 9,
-      "first": "2026-08-18",
-      "last": "2026-09-10"
-    },
-    {
       "name": "Al Jazeera",
       "count": 8,
       "first": "2026-05-20",
@@ -268,6 +250,12 @@
       "count": 8,
       "first": "2026-06-08",
       "last": "2026-08-04"
+    },
+    {
+      "name": "The Statesman",
+      "count": 8,
+      "first": "2026-08-18",
+      "last": "2026-09-10"
     },
     {
       "name": "theweek.in",
@@ -294,7 +282,7 @@
       "last": "2026-09-16"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 6,
       "first": "2026-07-21",
       "last": "2026-08-19"
@@ -348,7 +336,7 @@
       "last": "2026-07-22"
     },
     {
-      "name": "Bloomberg",
+      "name": "bloomberg.com",
       "count": 4,
       "first": "2026-08-10",
       "last": "2026-08-24"
@@ -642,6 +630,24 @@
       "last": "2026-08-25"
     },
     {
+      "name": "thehindu.com",
+      "count": 2,
+      "first": "2026-07-28",
+      "last": "2026-09-04"
+    },
+    {
+      "name": "thestatesman.com",
+      "count": 2,
+      "first": "2026-08-25",
+      "last": "2026-09-06"
+    },
+    {
+      "name": "timesofindia.indiatimes.com",
+      "count": 2,
+      "first": "2026-09-05",
+      "last": "2026-09-14"
+    },
+    {
       "name": "True Scoop",
       "count": 2,
       "first": "2026-07-23",
@@ -684,12 +690,6 @@
       "last": "2026-08-26"
     },
     {
-      "name": "borgenproject.org",
-      "count": 1,
-      "first": "2026-08-25",
-      "last": "2026-08-25"
-    },
-    {
       "name": "Britannica",
       "count": 1,
       "first": "2026-09-16",
@@ -726,16 +726,22 @@
       "last": "2026-08-23"
     },
     {
+      "name": "cfr.org",
+      "count": 1,
+      "first": "2026-07-31",
+      "last": "2026-07-31"
+    },
+    {
       "name": "Cityairnews",
       "count": 1,
       "first": "2026-09-17",
       "last": "2026-09-17"
     },
     {
-      "name": "Council on Foreign Relations",
+      "name": "civicus lens",
       "count": 1,
-      "first": "2026-07-31",
-      "last": "2026-07-31"
+      "first": "2026-08-04",
+      "last": "2026-08-04"
     },
     {
       "name": "cpiml.org",
@@ -864,7 +870,7 @@
       "last": "2026-07-30"
     },
     {
-      "name": "International Service for Human Rights",
+      "name": "ishr.ch",
       "count": 1,
       "first": "2026-08-14",
       "last": "2026-08-14"
@@ -910,12 +916,6 @@
       "count": 1,
       "first": "2026-09-10",
       "last": "2026-09-10"
-    },
-    {
-      "name": "lens.civicus.org",
-      "count": 1,
-      "first": "2026-08-04",
-      "last": "2026-08-04"
     },
     {
       "name": "Lokmat.com",
@@ -1044,6 +1044,12 @@
       "last": "2026-09-01"
     },
     {
+      "name": "The Borgen Project",
+      "count": 1,
+      "first": "2026-08-25",
+      "last": "2026-08-25"
+    },
+    {
       "name": "The Business Standard",
       "count": 1,
       "first": "2026-08-23",
@@ -1138,12 +1144,6 @@
       "count": 1,
       "first": "2026-08-23",
       "last": "2026-08-23"
-    },
-    {
-      "name": "thestatesman.com",
-      "count": 1,
-      "first": "2026-09-06",
-      "last": "2026-09-06"
     },
     {
       "name": "Time Magazine",
