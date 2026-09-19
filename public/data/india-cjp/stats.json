@@ -23,7 +23,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 158
+      "count": 161
     },
     {
       "start": "2026-08-01",
@@ -54,20 +54,20 @@
       "last": "2026-09-19"
     },
     {
+      "name": "Hindustan Times",
+      "count": 50,
+      "first": "2026-06-06",
+      "last": "2026-09-18"
+    },
+    {
       "name": "The Indian Express",
       "count": 50,
       "first": "2026-07-24",
       "last": "2026-09-11"
     },
     {
-      "name": "Hindustan Times",
-      "count": 49,
-      "first": "2026-06-06",
-      "last": "2026-09-18"
-    },
-    {
       "name": "Telegraph India",
-      "count": 48,
+      "count": 49,
       "first": "2026-07-21",
       "last": "2026-09-17"
     },
@@ -150,6 +150,12 @@
       "last": "2026-09-04"
     },
     {
+      "name": "WION",
+      "count": 15,
+      "first": "2026-07-23",
+      "last": "2026-09-03"
+    },
+    {
       "name": "Deccan Chronicle",
       "count": 14,
       "first": "2026-08-16",
@@ -174,12 +180,6 @@
       "last": "2026-09-06"
     },
     {
-      "name": "WION",
-      "count": 12,
-      "first": "2026-08-10",
-      "last": "2026-09-01"
-    },
-    {
       "name": "Deccan Herald",
       "count": 11,
       "first": "2026-06-05",
@@ -198,6 +198,12 @@
       "last": "2026-09-07"
     },
     {
+      "name": "BBC",
+      "count": 10,
+      "first": "2026-05-21",
+      "last": "2026-09-11"
+    },
+    {
       "name": "DNA India",
       "count": 10,
       "first": "2026-07-24",
@@ -208,12 +214,6 @@
       "count": 10,
       "first": "2026-08-15",
       "last": "2026-09-10"
-    },
-    {
-      "name": "BBC",
-      "count": 9,
-      "first": "2026-05-21",
-      "last": "2026-09-11"
     },
     {
       "name": "Live Law",
@@ -360,6 +360,12 @@
       "last": "2026-09-05"
     },
     {
+      "name": "Supreme Court Observer",
+      "count": 4,
+      "first": "2026-08-25",
+      "last": "2026-09-16"
+    },
+    {
       "name": "Alt News",
       "count": 3,
       "first": "2026-08-01",
@@ -408,12 +414,6 @@
       "last": "2026-07-30"
     },
     {
-      "name": "scobserver.in",
-      "count": 3,
-      "first": "2026-09-01",
-      "last": "2026-09-16"
-    },
-    {
       "name": "The Federal",
       "count": 3,
       "first": "2026-07-05",
@@ -448,12 +448,6 @@
       "count": 3,
       "first": "2026-07-18",
       "last": "2026-09-04"
-    },
-    {
-      "name": "wionews.com",
-      "count": 3,
-      "first": "2026-07-23",
-      "last": "2026-09-03"
     },
     {
       "name": "Babushahi.com",
@@ -652,6 +646,12 @@
       "count": 2,
       "first": "2026-09-05",
       "last": "2026-09-14"
+    },
+    {
+      "name": "True Scoop",
+      "count": 2,
+      "first": "2026-07-23",
+      "last": "2026-07-24"
     },
     {
       "name": "Whispers in the Corridors",
@@ -864,12 +864,6 @@
       "last": "2026-08-30"
     },
     {
-      "name": "iiss.org",
-      "count": 1,
-      "first": "2026-08-20",
-      "last": "2026-08-20"
-    },
-    {
       "name": "Indiablooms",
       "count": 1,
       "first": "2026-07-30",
@@ -1050,12 +1044,6 @@
       "last": "2026-09-01"
     },
     {
-      "name": "Supreme Court Observer",
-      "count": 1,
-      "first": "2026-08-25",
-      "last": "2026-08-25"
-    },
-    {
       "name": "The Borgen Project",
       "count": 1,
       "first": "2026-08-25",
@@ -1078,6 +1066,12 @@
       "count": 1,
       "first": "2026-09-12",
       "last": "2026-09-12"
+    },
+    {
+      "name": "The International Institute for Strategic Studies",
+      "count": 1,
+      "first": "2026-08-20",
+      "last": "2026-08-20"
     },
     {
       "name": "The Lallantop",
@@ -1162,18 +1156,6 @@
       "count": 1,
       "first": "2026-09-08",
       "last": "2026-09-08"
-    },
-    {
-      "name": "True Scoop",
-      "count": 1,
-      "first": "2026-07-24",
-      "last": "2026-07-24"
-    },
-    {
-      "name": "truescoopnews.com",
-      "count": 1,
-      "first": "2026-07-23",
-      "last": "2026-07-23"
     },
     {
       "name": "Verdictum",

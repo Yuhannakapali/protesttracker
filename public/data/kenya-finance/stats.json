@@ -111,7 +111,7 @@
     },
     {
       "start": "2026-01-01",
-      "count": 3
+      "count": 4
     },
     {
       "start": "2026-02-01",
@@ -154,12 +154,6 @@
       "last": "2026-08-10"
     },
     {
-      "name": "People Daily",
-      "count": 45,
-      "first": "2025-11-02",
-      "last": "2026-08-27"
-    },
-    {
       "name": "BBC",
       "count": 37,
       "first": "2024-06-18",
@@ -170,6 +164,12 @@
       "count": 32,
       "first": "2024-12-27",
       "last": "2026-09-17"
+    },
+    {
+      "name": "peopledaily.digital",
+      "count": 28,
+      "first": "2026-03-27",
+      "last": "2026-08-27"
     },
     {
       "name": "Al Jazeera",
@@ -190,8 +190,14 @@
       "last": "2026-08-27"
     },
     {
+      "name": "People Daily",
+      "count": 17,
+      "first": "2025-11-02",
+      "last": "2026-06-25"
+    },
+    {
       "name": "The Eastleigh Voice",
-      "count": 15,
+      "count": 16,
       "first": "2024-07-03",
       "last": "2026-08-27"
     },
@@ -472,13 +478,13 @@
       "last": "2024-07-19"
     },
     {
-      "name": "Bloomberg.com",
+      "name": "Bloomberg",
       "count": 1,
       "first": "2026-05-05",
       "last": "2026-05-05"
     },
     {
-      "name": "brookings.edu",
+      "name": "Brookings",
       "count": 1,
       "first": "2026-04-07",
       "last": "2026-04-07"
@@ -532,12 +538,6 @@
       "last": "2026-06-25"
     },
     {
-      "name": "eNCA",
-      "count": 1,
-      "first": "2026-06-26",
-      "last": "2026-06-26"
-    },
-    {
       "name": "EWN",
       "count": 1,
       "first": "2026-06-24",
@@ -548,6 +548,12 @@
       "count": 1,
       "first": "2024-06-27",
       "last": "2024-06-27"
+    },
+    {
+      "name": "Free Malaysia Today",
+      "count": 1,
+      "first": "2026-06-26",
+      "last": "2026-06-26"
     },
     {
       "name": "Friedrich-Naumann-Stiftung für die Freiheit",
@@ -592,7 +598,7 @@
       "last": "2025-07-23"
     },
     {
-      "name": "IOL",
+      "name": "iol.co.za",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -706,7 +712,7 @@
       "last": "2026-06-27"
     },
     {
-      "name": "techweez.com",
+      "name": "Techweez",
       "count": 1,
       "first": "2024-06-20",
       "last": "2024-06-20"
