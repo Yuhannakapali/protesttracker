@@ -1,42 +1,6 @@
 {
-  "generated": "2026-09-18T08:20:31.859Z",
+  "generated": "2026-09-19T08:10:58.555Z",
   "candidates": [
-    {
-      "key": "wd-Q133441461",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Turkey",
-      "countries": [
-        "Turkey"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Turkish_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "turkey-turkish-protests",
-        "name": "2025 Turkish protests",
-        "region": "Middle East",
-        "location": "Turkey",
-        "year": 2025,
-        "description": "protests against arrests of political figures",
-        "keywords": [
-          "turkish",
-          "turkey",
-          "protest"
-        ],
-        "strictKeywords": [
-          "turkish"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Turkish%20protests&hl=en-TR&gl=TR&ceid=TR%3Aen",
-          "https://news.google.com/rss/search?q=Turkey%20protest&hl=en-TR&gl=TR&ceid=TR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q133441461",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Turkish_protests"
-        }
-      }
-    },
     {
       "key": "wd-Q133800245",
       "source": "wikidata",
@@ -1132,46 +1096,6 @@
       }
     },
     {
-      "key": "wd-Q140773593",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Italy",
-      "countries": [
-        "Italy"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
-      "needsName": false,
-      "suggested": {
-        "id": "italy-susa-valley-conflict",
-        "name": "2026 Susa Valley conflict",
-        "region": "Europe",
-        "location": "Italy",
-        "year": 2026,
-        "description": "civil unrest in Italy",
-        "keywords": [
-          "susa",
-          "valley",
-          "conflict",
-          "italy",
-          "protest"
-        ],
-        "strictKeywords": [
-          "susa",
-          "valley",
-          "conflict"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
-          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140773593",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
-        }
-      }
-    },
-    {
       "key": "wd-Q136530158",
       "source": "wikidata",
       "confidence": "high",
@@ -1359,12 +1283,12 @@
       "key": "wd-Q137366682",
       "source": "wikidata",
       "confidence": "high",
-      "country": "Bulgaria",
+      "country": "United Kingdom",
       "countries": [
+        "United Kingdom",
+        "Germany",
         "Bulgaria",
         "Czech Republic",
-        "Germany",
-        "United Kingdom",
         "Netherlands",
         "Belgium",
         "Austria",
@@ -1374,23 +1298,23 @@
       "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests",
       "needsName": false,
       "suggested": {
-        "id": "bulgaria-bulgarian-protests",
+        "id": "united-kingdom-bulgarian-protests",
         "name": "2025 Bulgarian protests",
         "region": "Europe",
-        "location": "Bulgaria",
+        "location": "United Kingdom",
         "year": 2025,
         "description": "Gen Z protests over increasing taxes",
         "keywords": [
           "bulgarian",
-          "bulgaria",
+          "united kingdom",
           "protest"
         ],
         "strictKeywords": [
           "bulgarian"
         ],
         "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en-BG&gl=BG&ceid=BG%3Aen",
-          "https://news.google.com/rss/search?q=Bulgaria%20protest&hl=en-BG&gl=BG&ceid=BG%3Aen"
+          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
         ],
         "manualStatus": null,
         "_source": {
@@ -1591,6 +1515,271 @@
         "_source": {
           "wikidata": "Q138514607",
           "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_the_2026_Iran_war_in_the_United_States"
+        }
+      }
+    },
+    {
+      "key": "wd-Q134451129",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Mexico",
+      "countries": [
+        "Mexico"
+      ],
+      "wikipedia": "",
+      "needsName": false,
+      "suggested": {
+        "id": "mexico-uaemex-strike",
+        "name": "2025 UAEMex strike",
+        "region": "Americas",
+        "location": "Mexico",
+        "year": 2025,
+        "description": "student activism in the Autonomous University of Mexico State",
+        "keywords": [
+          "uaemex",
+          "mexico",
+          "protest"
+        ],
+        "strictKeywords": [
+          "uaemex"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20UAEMex%20strike&hl=en-MX&gl=MX&ceid=MX%3Aen",
+          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q134451129",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "wd-Q135581735",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Angola",
+      "countries": [
+        "Angola"
+      ],
+      "wikipedia": "",
+      "needsName": false,
+      "suggested": {
+        "id": "angola-greve-dos-taxistas-em-angola-em",
+        "name": "greve dos taxistas em Angola em 2025",
+        "region": "Africa",
+        "location": "Angola",
+        "year": 2025,
+        "description": "movimento grevista ocorrido entre julho e agosto de 2025",
+        "keywords": [
+          "greve",
+          "dos",
+          "taxistas",
+          "angola",
+          "protest"
+        ],
+        "strictKeywords": [
+          "greve",
+          "dos",
+          "taxistas",
+          "angola"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=greve%20dos%20taxistas%20em%20Angola%20em%202025&hl=en-AO&gl=AO&ceid=AO%3Aen",
+          "https://news.google.com/rss/search?q=Angola%20protest&hl=en-AO&gl=AO&ceid=AO%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q135581735",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "wd-Q136433806",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Morocco",
+      "countries": [
+        "Morocco"
+      ],
+      "wikipedia": "",
+      "needsName": false,
+      "suggested": {
+        "id": "morocco-gen-z-212",
+        "name": "Gen Z 212",
+        "region": "Africa",
+        "location": "Morocco",
+        "year": 2026,
+        "description": "mouvement social",
+        "keywords": [
+          "gen",
+          "212",
+          "morocco",
+          "protest"
+        ],
+        "strictKeywords": [
+          "gen",
+          "212"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Gen%20Z%20212&hl=en-MA&gl=MA&ceid=MA%3Aen",
+          "https://news.google.com/rss/search?q=Morocco%20protest&hl=en-MA&gl=MA&ceid=MA%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136433806",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "wd-Q138653461",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Iraq",
+      "countries": [
+        "Iraq"
+      ],
+      "wikipedia": "",
+      "needsName": false,
+      "suggested": {
+        "id": "iraq-baghdad-clashes",
+        "name": "2026 Baghdad clashes",
+        "region": "Middle East",
+        "location": "Iraq",
+        "year": 2026,
+        "description": "clashes between pro-Iran demonstrators and Iraqi security forces",
+        "keywords": [
+          "baghdad",
+          "iraq",
+          "protest"
+        ],
+        "strictKeywords": [
+          "baghdad"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Baghdad%20clashes&hl=en-IQ&gl=IQ&ceid=IQ%3Aen",
+          "https://news.google.com/rss/search?q=Iraq%20protest&hl=en-IQ&gl=IQ&ceid=IQ%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q138653461",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "wd-Q139054757",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Turkey",
+      "countries": [
+        "Turkey"
+      ],
+      "wikipedia": "",
+      "needsName": false,
+      "suggested": {
+        "id": "turkey-izmir-meslek-fabrikasi-protests",
+        "name": "İzmir Meslek Fabrikası protests",
+        "region": "Middle East",
+        "location": "Turkey",
+        "year": 2026,
+        "description": "Protests in Izmir in 2026",
+        "keywords": [
+          "izmir",
+          "meslek",
+          "fabrikasi",
+          "turkey",
+          "protest"
+        ],
+        "strictKeywords": [
+          "izmir",
+          "meslek",
+          "fabrikasi"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=%C4%B0zmir%20Meslek%20Fabrikas%C4%B1%20protests&hl=en-TR&gl=TR&ceid=TR%3Aen",
+          "https://news.google.com/rss/search?q=Turkey%20protest&hl=en-TR&gl=TR&ceid=TR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139054757",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "wd-Q139760353",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Spain",
+      "countries": [
+        "Spain"
+      ],
+      "wikipedia": "",
+      "needsName": true,
+      "suggested": {
+        "id": "spain-q139760353",
+        "name": "Q139760353",
+        "region": "Europe",
+        "location": "Spain",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "q139760353",
+          "spain",
+          "protest"
+        ],
+        "strictKeywords": [
+          "q139760353"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Q139760353&hl=en-ES&gl=ES&ceid=ES%3Aen",
+          "https://news.google.com/rss/search?q=Spain%20protest&hl=en-ES&gl=ES&ceid=ES%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139760353",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "wd-Q139895056",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Peru",
+      "countries": [
+        "Peru"
+      ],
+      "wikipedia": "",
+      "needsName": false,
+      "suggested": {
+        "id": "peru-protest-at-san-marcos-12-may",
+        "name": "Protest at San Marcos 12 May 2026",
+        "region": "Americas",
+        "location": "Peru",
+        "year": 2026,
+        "description": "protest in Lima, Peru",
+        "keywords": [
+          "san",
+          "marcos",
+          "peru",
+          "protest"
+        ],
+        "strictKeywords": [
+          "san",
+          "marcos"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Protest%20at%20San%20Marcos%2012%20May%202026&hl=en-PE&gl=PE&ceid=PE%3Aen",
+          "https://news.google.com/rss/search?q=Peru%20protest&hl=en-PE&gl=PE&ceid=PE%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139895056",
+          "wikipedia": ""
         }
       }
     },
@@ -2056,267 +2245,42 @@
       }
     },
     {
-      "key": "wd-Q134451129",
+      "key": "wd-Q140773593",
       "source": "wikidata",
       "confidence": "high",
-      "country": "Mexico",
+      "country": "Italy",
       "countries": [
-        "Mexico"
+        "Italy"
       ],
-      "wikipedia": "",
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
       "needsName": false,
       "suggested": {
-        "id": "mexico-uaemex-strike",
-        "name": "2025 UAEMex strike",
-        "region": "Americas",
-        "location": "Mexico",
-        "year": 2025,
-        "description": "student activism in the Autonomous University of Mexico State",
-        "keywords": [
-          "uaemex",
-          "mexico",
-          "protest"
-        ],
-        "strictKeywords": [
-          "uaemex"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20UAEMex%20strike&hl=en-MX&gl=MX&ceid=MX%3Aen",
-          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q134451129",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
-      "key": "wd-Q135581735",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Angola",
-      "countries": [
-        "Angola"
-      ],
-      "wikipedia": "",
-      "needsName": false,
-      "suggested": {
-        "id": "angola-greve-dos-taxistas-em-angola-em",
-        "name": "greve dos taxistas em Angola em 2025",
-        "region": "Africa",
-        "location": "Angola",
-        "year": 2025,
-        "description": "movimento grevista ocorrido entre julho e agosto de 2025",
-        "keywords": [
-          "greve",
-          "dos",
-          "taxistas",
-          "angola",
-          "protest"
-        ],
-        "strictKeywords": [
-          "greve",
-          "dos",
-          "taxistas",
-          "angola"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=greve%20dos%20taxistas%20em%20Angola%20em%202025&hl=en-AO&gl=AO&ceid=AO%3Aen",
-          "https://news.google.com/rss/search?q=Angola%20protest&hl=en-AO&gl=AO&ceid=AO%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q135581735",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
-      "key": "wd-Q136433806",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Morocco",
-      "countries": [
-        "Morocco"
-      ],
-      "wikipedia": "",
-      "needsName": false,
-      "suggested": {
-        "id": "morocco-gen-z-212",
-        "name": "Gen Z 212",
-        "region": "Africa",
-        "location": "Morocco",
-        "year": 2026,
-        "description": "mouvement social",
-        "keywords": [
-          "gen",
-          "212",
-          "morocco",
-          "protest"
-        ],
-        "strictKeywords": [
-          "gen",
-          "212"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Gen%20Z%20212&hl=en-MA&gl=MA&ceid=MA%3Aen",
-          "https://news.google.com/rss/search?q=Morocco%20protest&hl=en-MA&gl=MA&ceid=MA%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136433806",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
-      "key": "wd-Q138653461",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Iraq",
-      "countries": [
-        "Iraq"
-      ],
-      "wikipedia": "",
-      "needsName": false,
-      "suggested": {
-        "id": "iraq-baghdad-clashes",
-        "name": "2026 Baghdad clashes",
-        "region": "Middle East",
-        "location": "Iraq",
-        "year": 2026,
-        "description": "clashes between pro-Iran demonstrators and Iraqi security forces",
-        "keywords": [
-          "baghdad",
-          "iraq",
-          "protest"
-        ],
-        "strictKeywords": [
-          "baghdad"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Baghdad%20clashes&hl=en-IQ&gl=IQ&ceid=IQ%3Aen",
-          "https://news.google.com/rss/search?q=Iraq%20protest&hl=en-IQ&gl=IQ&ceid=IQ%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q138653461",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
-      "key": "wd-Q139054757",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Turkey",
-      "countries": [
-        "Turkey"
-      ],
-      "wikipedia": "",
-      "needsName": false,
-      "suggested": {
-        "id": "turkey-izmir-meslek-fabrikasi-protests",
-        "name": "İzmir Meslek Fabrikası protests",
-        "region": "Middle East",
-        "location": "Turkey",
-        "year": 2026,
-        "description": "Protests in Izmir in 2026",
-        "keywords": [
-          "izmir",
-          "meslek",
-          "fabrikasi",
-          "turkey",
-          "protest"
-        ],
-        "strictKeywords": [
-          "izmir",
-          "meslek",
-          "fabrikasi"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=%C4%B0zmir%20Meslek%20Fabrikas%C4%B1%20protests&hl=en-TR&gl=TR&ceid=TR%3Aen",
-          "https://news.google.com/rss/search?q=Turkey%20protest&hl=en-TR&gl=TR&ceid=TR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139054757",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
-      "key": "wd-Q139760353",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Spain",
-      "countries": [
-        "Spain"
-      ],
-      "wikipedia": "",
-      "needsName": true,
-      "suggested": {
-        "id": "spain-q139760353",
-        "name": "Q139760353",
+        "id": "italy-susa-valley-conflict",
+        "name": "2026 Susa Valley conflict",
         "region": "Europe",
-        "location": "Spain",
+        "location": "Italy",
         "year": 2026,
-        "description": "",
+        "description": "civil unrest in Italy",
         "keywords": [
-          "q139760353",
-          "spain",
+          "susa",
+          "valley",
+          "conflict",
+          "italy",
           "protest"
         ],
         "strictKeywords": [
-          "q139760353"
+          "susa",
+          "valley",
+          "conflict"
         ],
         "feeds": [
-          "https://news.google.com/rss/search?q=Q139760353&hl=en-ES&gl=ES&ceid=ES%3Aen",
-          "https://news.google.com/rss/search?q=Spain%20protest&hl=en-ES&gl=ES&ceid=ES%3Aen"
+          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
+          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
         ],
         "manualStatus": null,
         "_source": {
-          "wikidata": "Q139760353",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
-      "key": "wd-Q139895056",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Peru",
-      "countries": [
-        "Peru"
-      ],
-      "wikipedia": "",
-      "needsName": false,
-      "suggested": {
-        "id": "peru-protest-at-san-marcos-12-may",
-        "name": "Protest at San Marcos 12 May 2026",
-        "region": "Americas",
-        "location": "Peru",
-        "year": 2026,
-        "description": "protest in Lima, Peru",
-        "keywords": [
-          "san",
-          "marcos",
-          "peru",
-          "protest"
-        ],
-        "strictKeywords": [
-          "san",
-          "marcos"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Protest%20at%20San%20Marcos%2012%20May%202026&hl=en-PE&gl=PE&ceid=PE%3Aen",
-          "https://news.google.com/rss/search?q=Peru%20protest&hl=en-PE&gl=PE&ceid=PE%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139895056",
-          "wikipedia": ""
+          "wikidata": "Q140773593",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
         }
       }
     },
@@ -2505,7 +2469,7 @@
         "quicknews-africa.net"
       ],
       "daysSeen": 9,
-      "articleCount": 17,
+      "articleCount": 19,
       "firstSeen": "2026-08-30",
       "lastSeen": "2026-09-13",
       "samples": [
@@ -2766,7 +2730,7 @@
         "vanguardngr.com"
       ],
       "daysSeen": 7,
-      "articleCount": 23,
+      "articleCount": 27,
       "firstSeen": "2026-09-02",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -2856,7 +2820,7 @@
         "blueprint.ng"
       ],
       "daysSeen": 3,
-      "articleCount": 20,
+      "articleCount": 25,
       "firstSeen": "2026-09-04",
       "lastSeen": "2026-09-13",
       "samples": [
@@ -3261,7 +3225,7 @@
         "premiumtimesng.com"
       ],
       "daysSeen": 3,
-      "articleCount": 5,
+      "articleCount": 6,
       "firstSeen": "2026-08-30",
       "lastSeen": "2026-09-12",
       "samples": [
@@ -4890,7 +4854,7 @@
         "blueprint.ng"
       ],
       "daysSeen": 3,
-      "articleCount": 9,
+      "articleCount": 10,
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-12",
       "samples": [
