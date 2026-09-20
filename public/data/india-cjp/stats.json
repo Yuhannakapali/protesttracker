@@ -23,15 +23,15 @@
     },
     {
       "start": "2026-07-01",
-      "count": 163
+      "count": 165
     },
     {
       "start": "2026-08-01",
-      "count": 600
+      "count": 601
     },
     {
       "start": "2026-09-01",
-      "count": 354
+      "count": 353
     }
   ],
   "sources": [
@@ -264,12 +264,6 @@
       "last": "2026-09-03"
     },
     {
-      "name": "ABP Live English",
-      "count": 7,
-      "first": "2026-07-19",
-      "last": "2026-09-01"
-    },
-    {
       "name": "moneycontrol.com",
       "count": 7,
       "first": "2026-08-18",
@@ -282,7 +276,7 @@
       "last": "2026-09-16"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 6,
       "first": "2026-07-21",
       "last": "2026-08-19"
@@ -324,13 +318,19 @@
       "last": "2026-09-01"
     },
     {
+      "name": "ABP Live English",
+      "count": 4,
+      "first": "2026-08-27",
+      "last": "2026-09-01"
+    },
+    {
       "name": "AP News",
       "count": 4,
       "first": "2026-05-21",
       "last": "2026-07-22"
     },
     {
-      "name": "bloomberg.com",
+      "name": "Bloomberg.com",
       "count": 4,
       "first": "2026-08-10",
       "last": "2026-08-24"
@@ -360,6 +360,12 @@
       "last": "2026-09-05"
     },
     {
+      "name": "Supreme Court Observer",
+      "count": 4,
+      "first": "2026-08-18",
+      "last": "2026-09-16"
+    },
+    {
       "name": "Alt News",
       "count": 3,
       "first": "2026-08-01",
@@ -384,6 +390,12 @@
       "last": "2026-08-28"
     },
     {
+      "name": "GujaratSamachar English",
+      "count": 3,
+      "first": "2026-08-24",
+      "last": "2026-09-17"
+    },
+    {
       "name": "LawChakra",
       "count": 3,
       "first": "2026-09-10",
@@ -396,16 +408,16 @@
       "last": "2026-08-16"
     },
     {
+      "name": "news.abplive.com",
+      "count": 3,
+      "first": "2026-07-19",
+      "last": "2026-07-25"
+    },
+    {
       "name": "Newslaundry",
       "count": 3,
       "first": "2026-07-28",
       "last": "2026-07-30"
-    },
-    {
-      "name": "scobserver.in",
-      "count": 3,
-      "first": "2026-09-01",
-      "last": "2026-09-16"
     },
     {
       "name": "The Federal",
@@ -490,12 +502,6 @@
       "count": 2,
       "first": "2026-08-22",
       "last": "2026-09-01"
-    },
-    {
-      "name": "GujaratSamachar English",
-      "count": 2,
-      "first": "2026-08-24",
-      "last": "2026-09-07"
     },
     {
       "name": "Gulte",
@@ -636,12 +642,6 @@
       "last": "2026-08-25"
     },
     {
-      "name": "Time Magazine",
-      "count": 2,
-      "first": "2026-07-22",
-      "last": "2026-08-01"
-    },
-    {
       "name": "True Scoop",
       "count": 2,
       "first": "2026-07-23",
@@ -652,12 +652,6 @@
       "count": 2,
       "first": "2026-08-20",
       "last": "2026-08-21"
-    },
-    {
-      "name": "Zee News",
-      "count": 2,
-      "first": "2026-07-30",
-      "last": "2026-08-17"
     },
     {
       "name": "ACLED",
@@ -678,7 +672,7 @@
       "last": "2026-08-24"
     },
     {
-      "name": "Asia News Network",
+      "name": "asianews.network",
       "count": 1,
       "first": "2026-08-26",
       "last": "2026-08-26"
@@ -720,6 +714,12 @@
       "last": "2026-08-23"
     },
     {
+      "name": "cfr.org",
+      "count": 1,
+      "first": "2026-07-31",
+      "last": "2026-07-31"
+    },
+    {
       "name": "Cityairnews",
       "count": 1,
       "first": "2026-09-17",
@@ -730,12 +730,6 @@
       "count": 1,
       "first": "2026-08-04",
       "last": "2026-08-04"
-    },
-    {
-      "name": "Council on Foreign Relations",
-      "count": 1,
-      "first": "2026-07-31",
-      "last": "2026-07-31"
     },
     {
       "name": "cpiml.org",
@@ -792,12 +786,6 @@
       "last": "2026-08-22"
     },
     {
-      "name": "english.gujaratsamachar.com",
-      "count": 1,
-      "first": "2026-09-17",
-      "last": "2026-09-17"
-    },
-    {
       "name": "ETLegalWorld.com",
       "count": 1,
       "first": "2026-08-24",
@@ -826,6 +814,12 @@
       "count": 1,
       "first": "2026-08-14",
       "last": "2026-08-14"
+    },
+    {
+      "name": "France 24",
+      "count": 1,
+      "first": "2026-07-18",
+      "last": "2026-07-18"
     },
     {
       "name": "Genocide Watch",
@@ -978,6 +972,12 @@
       "last": "2026-06-02"
     },
     {
+      "name": "NewsX",
+      "count": 1,
+      "first": "2026-07-23",
+      "last": "2026-07-23"
+    },
+    {
       "name": "NPR",
       "count": 1,
       "first": "2026-07-25",
@@ -1050,12 +1050,6 @@
       "last": "2026-09-01"
     },
     {
-      "name": "Supreme Court Observer",
-      "count": 1,
-      "first": "2026-08-25",
-      "last": "2026-08-25"
-    },
-    {
       "name": "The Borgen Project",
       "count": 1,
       "first": "2026-08-25",
@@ -1116,6 +1110,12 @@
       "last": "2026-08-22"
     },
     {
+      "name": "The Probe",
+      "count": 1,
+      "first": "2026-07-30",
+      "last": "2026-07-30"
+    },
+    {
       "name": "The Shillong Times",
       "count": 1,
       "first": "2026-08-11",
@@ -1146,12 +1146,6 @@
       "last": "2026-09-04"
     },
     {
-      "name": "theprobe.in",
-      "count": 1,
-      "first": "2026-07-30",
-      "last": "2026-07-30"
-    },
-    {
       "name": "thepublicworld.com",
       "count": 1,
       "first": "2026-08-23",
@@ -1162,6 +1156,18 @@
       "count": 1,
       "first": "2026-09-06",
       "last": "2026-09-06"
+    },
+    {
+      "name": "Time Magazine",
+      "count": 1,
+      "first": "2026-07-22",
+      "last": "2026-07-22"
+    },
+    {
+      "name": "time.com",
+      "count": 1,
+      "first": "2026-08-01",
+      "last": "2026-08-01"
     },
     {
       "name": "tribuneindia.com",
@@ -1192,6 +1198,18 @@
       "count": 1,
       "first": "2026-09-02",
       "last": "2026-09-02"
+    },
+    {
+      "name": "Zee News",
+      "count": 1,
+      "first": "2026-08-17",
+      "last": "2026-08-17"
+    },
+    {
+      "name": "zeenews.india.com",
+      "count": 1,
+      "first": "2026-07-30",
+      "last": "2026-07-30"
     },
     {
       "name": "조선일보",

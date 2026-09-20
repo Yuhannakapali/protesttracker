@@ -391,7 +391,7 @@
     },
     {
       "start": "2022-12-01",
-      "count": 0
+      "count": 1
     },
     {
       "start": "2023-01-01",
@@ -672,12 +672,6 @@
       "last": "2026-07-15"
     },
     {
-      "name": "NODAL - Noticias de América Latina y el Caribe",
-      "count": 4,
-      "first": "2016-08-26",
-      "last": "2025-09-23"
-    },
-    {
       "name": "- CIPER Chile",
       "count": 3,
       "first": "2016-07-26",
@@ -828,6 +822,18 @@
       "last": "2020-03-11"
     },
     {
+      "name": "NODAL - Noticias de América Latina y el Caribe",
+      "count": 2,
+      "first": "2016-08-26",
+      "last": "2021-04-26"
+    },
+    {
+      "name": "nodal.am",
+      "count": 2,
+      "first": "2018-04-23",
+      "last": "2025-09-23"
+    },
+    {
       "name": "Perfil",
       "count": 2,
       "first": "2020-01-09",
@@ -882,6 +888,18 @@
       "last": "2023-05-01"
     },
     {
+      "name": "2025.agmer.org.ar",
+      "count": 1,
+      "first": "2026-06-18",
+      "last": "2026-06-18"
+    },
+    {
+      "name": "7dias.com.do",
+      "count": 1,
+      "first": "2022-12-03",
+      "last": "2022-12-03"
+    },
+    {
       "name": "7paginas",
       "count": 1,
       "first": "2026-07-13",
@@ -900,12 +918,6 @@
       "last": "2016-09-24"
     },
     {
-      "name": "AGMER",
-      "count": 1,
-      "first": "2026-06-18",
-      "last": "2026-06-18"
-    },
-    {
       "name": "América TeVé",
       "count": 1,
       "first": "2025-03-30",
@@ -918,7 +930,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Atacama Noticias",
+      "name": "atacamanoticias.cl",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
@@ -964,12 +976,6 @@
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
-    },
-    {
-      "name": "caretas.pe",
-      "count": 1,
-      "first": "2025-09-14",
-      "last": "2025-09-14"
     },
     {
       "name": "Cato Institute",
@@ -1018,6 +1024,12 @@
       "count": 1,
       "first": "2026-07-08",
       "last": "2026-07-08"
+    },
+    {
+      "name": "Diario El Día de La Plata",
+      "count": 1,
+      "first": "2017-12-19",
+      "last": "2017-12-19"
     },
     {
       "name": "Diario Río Uruguay",
@@ -1078,12 +1090,6 @@
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
-    },
-    {
-      "name": "eldia.com",
-      "count": 1,
-      "first": "2017-12-19",
-      "last": "2017-12-19"
     },
     {
       "name": "elentrerios.com",
@@ -1206,7 +1212,7 @@
       "last": "2019-12-14"
     },
     {
-      "name": "izquierdaweb.com",
+      "name": "Izquierda Web",
       "count": 1,
       "first": "2020-07-16",
       "last": "2020-07-16"
@@ -1254,7 +1260,7 @@
       "last": "2019-01-24"
     },
     {
-      "name": "malaespinacheck.cl",
+      "name": "Mala Espina",
       "count": 1,
       "first": "2024-12-27",
       "last": "2024-12-27"
@@ -1350,7 +1356,7 @@
       "last": "2017-03-22"
     },
     {
-      "name": "politicaobrera.com",
+      "name": "Política Obrera",
       "count": 1,
       "first": "2025-09-30",
       "last": "2025-09-30"
@@ -1362,7 +1368,7 @@
       "last": "2020-12-09"
     },
     {
-      "name": "Prensa Latina",
+      "name": "prensa-latina.cu",
       "count": 1,
       "first": "2025-03-30",
       "last": "2025-03-30"
@@ -1398,16 +1404,16 @@
       "last": "2024-09-24"
     },
     {
+      "name": "Radio JGM",
+      "count": 1,
+      "first": "2024-09-11",
+      "last": "2024-09-11"
+    },
+    {
       "name": "Radio Universidad de Chile",
       "count": 1,
       "first": "2026-09-16",
       "last": "2026-09-16"
-    },
-    {
-      "name": "radiojgm.uchile.cl",
-      "count": 1,
-      "first": "2024-09-11",
-      "last": "2024-09-11"
     },
     {
       "name": "Reflexión y Liberación",
@@ -1420,6 +1426,12 @@
       "count": 1,
       "first": "2025-04-03",
       "last": "2025-04-03"
+    },
+    {
+      "name": "Revista Caretas",
+      "count": 1,
+      "first": "2025-09-14",
+      "last": "2025-09-14"
     },
     {
       "name": "RosarioPlus",

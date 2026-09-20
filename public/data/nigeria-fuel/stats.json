@@ -815,13 +815,13 @@
     },
     {
       "start": "2026-09-01",
-      "count": 101
+      "count": 102
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 60,
+      "count": 61,
       "first": "2012-01-05",
       "last": "2026-09-20"
     },
@@ -836,12 +836,6 @@
       "count": 45,
       "first": "2012-01-04",
       "last": "2026-09-18"
-    },
-    {
-      "name": "Vanguard News",
-      "count": 40,
-      "first": "2012-03-08",
-      "last": "2026-06-08"
     },
     {
       "name": "Vanguard",
@@ -868,6 +862,18 @@
       "last": "2026-09-11"
     },
     {
+      "name": "Vanguard News",
+      "count": 22,
+      "first": "2014-10-31",
+      "last": "2026-01-28"
+    },
+    {
+      "name": "vanguardngr.com",
+      "count": 22,
+      "first": "2012-03-08",
+      "last": "2026-06-08"
+    },
+    {
       "name": "Ripples Nigeria",
       "count": 20,
       "first": "2023-06-01",
@@ -884,12 +890,6 @@
       "count": 15,
       "first": "2023-06-02",
       "last": "2026-06-04"
-    },
-    {
-      "name": "The Sun Nigeria",
-      "count": 15,
-      "first": "2022-11-30",
-      "last": "2026-08-14"
     },
     {
       "name": "TheCable",
@@ -922,13 +922,19 @@
       "last": "2026-02-04"
     },
     {
+      "name": "thesun.ng",
+      "count": 10,
+      "first": "2022-11-30",
+      "last": "2026-08-14"
+    },
+    {
       "name": "The Whistler Newspaper",
       "count": 9,
       "first": "2020-09-04",
       "last": "2026-06-03"
     },
     {
-      "name": "tribuneonlineng.com",
+      "name": "Tribune Online",
       "count": 9,
       "first": "2021-12-17",
       "last": "2026-07-26"
@@ -994,6 +1000,12 @@
       "last": "2026-09-14"
     },
     {
+      "name": "The Sun Nigeria",
+      "count": 5,
+      "first": "2026-02-02",
+      "last": "2026-06-04"
+    },
+    {
       "name": "allAfrica.com",
       "count": 4,
       "first": "2012-01-16",
@@ -1024,10 +1036,10 @@
       "last": "2026-09-11"
     },
     {
-      "name": "vanguardngr.com",
-      "count": 4,
-      "first": "2020-07-16",
-      "last": "2025-10-22"
+      "name": "Peoples Gazette Nigeria",
+      "count": 3,
+      "first": "2024-10-09",
+      "last": "2026-05-18"
     },
     {
       "name": "VOA Africa",
@@ -1046,12 +1058,6 @@
       "count": 2,
       "first": "2024-09-04",
       "last": "2024-09-05"
-    },
-    {
-      "name": "gazettengr.com",
-      "count": 2,
-      "first": "2024-10-09",
-      "last": "2026-05-18"
     },
     {
       "name": "legit.ng",
@@ -1156,7 +1162,7 @@
       "last": "2025-09-27"
     },
     {
-      "name": "businesspost.ng",
+      "name": "Business Post Nigeria",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
@@ -1186,13 +1192,13 @@
       "last": "2023-09-04"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 1,
       "first": "2022-01-25",
       "last": "2022-01-25"
     },
     {
-      "name": "EONS Intelligence",
+      "name": "eonsintelligence.com",
       "count": 1,
       "first": "2024-07-24",
       "last": "2024-07-24"
@@ -1288,7 +1294,7 @@
       "last": "2012-01-09"
     },
     {
-      "name": "International Socialist Alternative",
+      "name": "internationalsocialist.net",
       "count": 1,
       "first": "2024-08-21",
       "last": "2024-08-21"
@@ -1300,7 +1306,7 @@
       "last": "2024-11-05"
     },
     {
-      "name": "Meer | English edition",
+      "name": "meer.com",
       "count": 1,
       "first": "2025-07-27",
       "last": "2025-07-27"
@@ -1324,16 +1330,16 @@
       "last": "2026-09-15"
     },
     {
-      "name": "ndr.org.ng",
-      "count": 1,
-      "first": "2026-09-17",
-      "last": "2026-09-17"
-    },
-    {
       "name": "New Telegraph",
       "count": 1,
       "first": "2024-09-05",
       "last": "2024-09-05"
+    },
+    {
+      "name": "Nigerian Democratic Report",
+      "count": 1,
+      "first": "2026-09-17",
+      "last": "2026-09-17"
     },
     {
       "name": "nlcng.org",
@@ -1346,12 +1352,6 @@
       "count": 1,
       "first": "2026-09-14",
       "last": "2026-09-14"
-    },
-    {
-      "name": "Peoples Gazette Nigeria",
-      "count": 1,
-      "first": "2025-10-16",
-      "last": "2025-10-16"
     },
     {
       "name": "Pointblank News",
@@ -1438,10 +1438,10 @@
       "last": "2026-03-18"
     },
     {
-      "name": "Tribune Online",
+      "name": "tribuneonlineng.com",
       "count": 1,
-      "first": "2024-09-03",
-      "last": "2024-09-03"
+      "first": "2026-05-19",
+      "last": "2026-05-19"
     },
     {
       "name": "UN Africa Renewal",
