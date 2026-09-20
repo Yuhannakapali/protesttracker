@@ -591,7 +591,7 @@
     },
     {
       "start": "2022-01-01",
-      "count": 8
+      "count": 9
     },
     {
       "start": "2022-02-01",
@@ -820,16 +820,16 @@
   ],
   "sources": [
     {
-      "name": "Daily Post Nigeria",
-      "count": 60,
-      "first": "2012-01-05",
-      "last": "2026-09-20"
-    },
-    {
       "name": "The Guardian Nigeria News",
       "count": 51,
       "first": "2015-10-02",
       "last": "2026-06-08"
+    },
+    {
+      "name": "Daily Post Nigeria",
+      "count": 50,
+      "first": "2012-01-05",
+      "last": "2026-09-20"
     },
     {
       "name": "Channels Television",
@@ -916,6 +916,12 @@
       "last": "2026-06-04"
     },
     {
+      "name": "dailypost.ng",
+      "count": 11,
+      "first": "2012-02-05",
+      "last": "2026-08-19"
+    },
+    {
       "name": "THISDAYLIVE",
       "count": 11,
       "first": "2023-01-26",
@@ -935,7 +941,7 @@
     },
     {
       "name": "Independent Newspaper Nigeria",
-      "count": 7,
+      "count": 8,
       "first": "2023-01-30",
       "last": "2026-01-29"
     },
@@ -946,10 +952,10 @@
       "last": "2026-01-26"
     },
     {
-      "name": "Nigeria Labour Congress (NLC)",
-      "count": 6,
-      "first": "2023-03-30",
-      "last": "2026-06-03"
+      "name": "VOA - Voice of America English News",
+      "count": 7,
+      "first": "2009-10-30",
+      "last": "2024-08-08"
     },
     {
       "name": "Premium Times",
@@ -968,12 +974,6 @@
       "count": 6,
       "first": "2025-09-07",
       "last": "2026-06-03"
-    },
-    {
-      "name": "VOA - Voice of America English News",
-      "count": 6,
-      "first": "2009-10-30",
-      "last": "2024-08-08"
     },
     {
       "name": "CNN",
@@ -1018,16 +1018,28 @@
       "last": "2026-01-26"
     },
     {
-      "name": "Nigerian Voice",
+      "name": "nlcng.org",
       "count": 4,
-      "first": "2012-01-13",
-      "last": "2026-09-11"
+      "first": "2023-03-30",
+      "last": "2026-05-29"
     },
     {
       "name": "vanguardngr.com",
       "count": 4,
       "first": "2020-07-16",
       "last": "2025-10-22"
+    },
+    {
+      "name": "Nigeria Labour Congress (NLC)",
+      "count": 3,
+      "first": "2023-12-17",
+      "last": "2026-06-03"
+    },
+    {
+      "name": "Nigerian Voice",
+      "count": 3,
+      "first": "2012-01-13",
+      "last": "2026-09-11"
     },
     {
       "name": "Peoples Gazette Nigeria",
@@ -1052,12 +1064,6 @@
       "count": 2,
       "first": "2024-09-04",
       "last": "2024-09-05"
-    },
-    {
-      "name": "independent.ng",
-      "count": 2,
-      "first": "2020-09-07",
-      "last": "2026-01-23"
     },
     {
       "name": "legit.ng",
@@ -1186,10 +1192,10 @@
       "last": "2026-09-18"
     },
     {
-      "name": "dailypost.ng",
+      "name": "dw.com",
       "count": 1,
-      "first": "2023-09-04",
-      "last": "2023-09-04"
+      "first": "2022-01-25",
+      "last": "2022-01-25"
     },
     {
       "name": "EONS Intelligence",
@@ -1264,13 +1270,19 @@
       "last": "2012-01-11"
     },
     {
+      "name": "independent.ng",
+      "count": 1,
+      "first": "2020-09-07",
+      "last": "2020-09-07"
+    },
+    {
       "name": "instagram.com",
       "count": 1,
       "first": "2026-01-30",
       "last": "2026-01-30"
     },
     {
-      "name": "Intel Region",
+      "name": "intelregion.com",
       "count": 1,
       "first": "2026-09-15",
       "last": "2026-09-15"
@@ -1328,12 +1340,6 @@
       "count": 1,
       "first": "2026-09-17",
       "last": "2026-09-17"
-    },
-    {
-      "name": "nlcng.org",
-      "count": 1,
-      "first": "2023-11-15",
-      "last": "2023-11-15"
     },
     {
       "name": "parallelfactsnews.com",
@@ -1408,6 +1414,12 @@
       "last": "2020-09-11"
     },
     {
+      "name": "thenigerianvoice.com",
+      "count": 1,
+      "first": "2021-12-18",
+      "last": "2021-12-18"
+    },
+    {
       "name": "thestreetjournal.org",
       "count": 1,
       "first": "2024-09-04",
@@ -1430,12 +1442,6 @@
       "count": 1,
       "first": "2012-04-15",
       "last": "2012-04-15"
-    },
-    {
-      "name": "voanews.com",
-      "count": 1,
-      "first": "2023-09-26",
-      "last": "2023-09-26"
     }
   ],
   "firstDate": "2009-10-30",

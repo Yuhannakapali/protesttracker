@@ -654,7 +654,7 @@
       "last": "2025-01-15"
     },
     {
-      "name": "soychile.cl",
+      "name": "SoyChile.cl",
       "count": 5,
       "first": "2016-08-10",
       "last": "2019-03-31"
@@ -720,12 +720,6 @@
       "last": "2022-11-06"
     },
     {
-      "name": "nytimes.com",
-      "count": 3,
-      "first": "2016-09-10",
-      "last": "2019-11-21"
-    },
-    {
       "name": "Remezcla",
       "count": 3,
       "first": "2019-10-23",
@@ -736,6 +730,18 @@
       "count": 3,
       "first": "2019-03-31",
       "last": "2022-03-31"
+    },
+    {
+      "name": "The Guardian",
+      "count": 3,
+      "first": "2016-08-21",
+      "last": "2019-10-30"
+    },
+    {
+      "name": "The New York Times",
+      "count": 3,
+      "first": "2016-09-10",
+      "last": "2019-11-21"
     },
     {
       "name": "The Washington Post",
@@ -856,12 +862,6 @@
       "count": 2,
       "first": "2024-02-07",
       "last": "2025-11-29"
-    },
-    {
-      "name": "theguardian.com",
-      "count": 2,
-      "first": "2016-08-21",
-      "last": "2019-10-24"
     },
     {
       "name": "TN",
@@ -1116,7 +1116,7 @@
       "last": "2019-10-23"
     },
     {
-      "name": "France 24",
+      "name": "france24.com",
       "count": 1,
       "first": "2019-10-23",
       "last": "2019-10-23"
@@ -1254,7 +1254,7 @@
       "last": "2024-12-27"
     },
     {
-      "name": "meganoticias.cl",
+      "name": "Meganoticias",
       "count": 1,
       "first": "2023-07-23",
       "last": "2023-07-23"
@@ -1452,12 +1452,6 @@
       "last": "2019-11-11"
     },
     {
-      "name": "The Guardian",
-      "count": 1,
-      "first": "2019-10-30",
-      "last": "2019-10-30"
-    },
-    {
       "name": "The Independent",
       "count": 1,
       "first": "2019-11-30",
@@ -1482,16 +1476,16 @@
       "last": "2019-11-15"
     },
     {
-      "name": "The Sun Nigeria",
-      "count": 1,
-      "first": "2025-07-26",
-      "last": "2025-07-26"
-    },
-    {
       "name": "The World from PRX",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
+    },
+    {
+      "name": "thesun.ng",
+      "count": 1,
+      "first": "2025-07-26",
+      "last": "2025-07-26"
     },
     {
       "name": "Toronto Sun",
