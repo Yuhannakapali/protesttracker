@@ -31,7 +31,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 352
+      "count": 353
     }
   ],
   "sources": [
@@ -43,7 +43,7 @@
     },
     {
       "name": "NDTV",
-      "count": 58,
+      "count": 59,
       "first": "2026-05-12",
       "last": "2026-09-20"
     },
@@ -204,10 +204,10 @@
       "last": "2026-09-06"
     },
     {
-      "name": "frontline.thehindu.com",
+      "name": "Frontline Magazine",
       "count": 10,
       "first": "2026-07-08",
-      "last": "2026-08-20"
+      "last": "2026-08-25"
     },
     {
       "name": "The Tribune",
@@ -264,12 +264,6 @@
       "last": "2026-09-03"
     },
     {
-      "name": "ABP Live English",
-      "count": 7,
-      "first": "2026-07-19",
-      "last": "2026-09-01"
-    },
-    {
       "name": "moneycontrol.com",
       "count": 7,
       "first": "2026-08-18",
@@ -282,7 +276,7 @@
       "last": "2026-09-16"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 6,
       "first": "2026-07-21",
       "last": "2026-08-19"
@@ -326,6 +320,12 @@
     {
       "name": "Times Now",
       "count": 5,
+      "first": "2026-08-27",
+      "last": "2026-09-01"
+    },
+    {
+      "name": "ABP Live English",
+      "count": 4,
       "first": "2026-08-27",
       "last": "2026-09-01"
     },
@@ -406,6 +406,12 @@
       "count": 3,
       "first": "2026-07-24",
       "last": "2026-08-16"
+    },
+    {
+      "name": "news.abplive.com",
+      "count": 3,
+      "first": "2026-07-19",
+      "last": "2026-07-25"
     },
     {
       "name": "Newslaundry",
@@ -684,7 +690,7 @@
       "last": "2026-08-26"
     },
     {
-      "name": "Britannica",
+      "name": "britannica.com",
       "count": 1,
       "first": "2026-09-16",
       "last": "2026-09-16"
@@ -720,6 +726,12 @@
       "last": "2026-08-23"
     },
     {
+      "name": "cfr.org",
+      "count": 1,
+      "first": "2026-07-31",
+      "last": "2026-07-31"
+    },
+    {
       "name": "Cityairnews",
       "count": 1,
       "first": "2026-09-17",
@@ -730,12 +742,6 @@
       "count": 1,
       "first": "2026-08-04",
       "last": "2026-08-04"
-    },
-    {
-      "name": "Council on Foreign Relations",
-      "count": 1,
-      "first": "2026-07-31",
-      "last": "2026-07-31"
     },
     {
       "name": "cpiml.org",
@@ -822,10 +828,10 @@
       "last": "2026-08-14"
     },
     {
-      "name": "Frontline Magazine",
+      "name": "frontline.thehindu.com",
       "count": 1,
-      "first": "2026-08-25",
-      "last": "2026-08-25"
+      "first": "2026-08-10",
+      "last": "2026-08-10"
     },
     {
       "name": "Genocide Watch",
