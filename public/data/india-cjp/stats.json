@@ -23,7 +23,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 166
+      "count": 167
     },
     {
       "start": "2026-08-01",
@@ -31,21 +31,21 @@
     },
     {
       "start": "2026-09-01",
-      "count": 356
+      "count": 359
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 95,
+      "count": 96,
       "first": "2026-06-06",
-      "last": "2026-09-18"
+      "last": "2026-09-21"
     },
     {
       "name": "NDTV",
-      "count": 59,
+      "count": 61,
       "first": "2026-05-12",
-      "last": "2026-09-20"
+      "last": "2026-09-21"
     },
     {
       "name": "The New Indian Express",
@@ -72,16 +72,16 @@
       "last": "2026-09-17"
     },
     {
+      "name": "The Times of India",
+      "count": 46,
+      "first": "2026-06-06",
+      "last": "2026-09-17"
+    },
+    {
       "name": "India Today",
       "count": 37,
       "first": "2026-07-15",
       "last": "2026-09-21"
-    },
-    {
-      "name": "The Times of India",
-      "count": 34,
-      "first": "2026-06-06",
-      "last": "2026-09-15"
     },
     {
       "name": "ThePrint",
@@ -148,12 +148,6 @@
       "count": 15,
       "first": "2026-08-12",
       "last": "2026-09-04"
-    },
-    {
-      "name": "timesofindia.indiatimes.com",
-      "count": 15,
-      "first": "2026-08-21",
-      "last": "2026-09-17"
     },
     {
       "name": "WION",
@@ -300,12 +294,6 @@
       "last": "2026-09-04"
     },
     {
-      "name": "The Hans India",
-      "count": 6,
-      "first": "2026-07-23",
-      "last": "2026-09-07"
-    },
-    {
       "name": "Bar and Bench",
       "count": 5,
       "first": "2026-08-07",
@@ -328,6 +316,12 @@
       "count": 5,
       "first": "2026-08-19",
       "last": "2026-09-09"
+    },
+    {
+      "name": "The Hans India",
+      "count": 5,
+      "first": "2026-08-19",
+      "last": "2026-09-07"
     },
     {
       "name": "Times Now",
@@ -364,6 +358,12 @@
       "count": 4,
       "first": "2026-08-17",
       "last": "2026-09-05"
+    },
+    {
+      "name": "Supreme Court Observer",
+      "count": 4,
+      "first": "2026-08-18",
+      "last": "2026-09-16"
     },
     {
       "name": "Alt News",
@@ -414,12 +414,6 @@
       "last": "2026-07-30"
     },
     {
-      "name": "scobserver.in",
-      "count": 3,
-      "first": "2026-08-18",
-      "last": "2026-09-16"
-    },
-    {
       "name": "The Federal",
       "count": 3,
       "first": "2026-07-05",
@@ -438,16 +432,16 @@
       "last": "2026-09-17"
     },
     {
-      "name": "The Siasat Daily",
-      "count": 3,
-      "first": "2026-09-04",
-      "last": "2026-09-11"
-    },
-    {
       "name": "thepamphlet.in",
       "count": 3,
       "first": "2026-08-21",
       "last": "2026-09-03"
+    },
+    {
+      "name": "timesofindia.indiatimes.com",
+      "count": 3,
+      "first": "2026-09-05",
+      "last": "2026-09-17"
     },
     {
       "name": "Udayavani",
@@ -490,6 +484,12 @@
       "count": 2,
       "first": "2026-08-16",
       "last": "2026-08-24"
+    },
+    {
+      "name": "Fact Check AFP",
+      "count": 2,
+      "first": "2026-07-10",
+      "last": "2026-07-31"
     },
     {
       "name": "Free Press Kashmir",
@@ -624,6 +624,18 @@
       "last": "2026-08-29"
     },
     {
+      "name": "The Shillong Times",
+      "count": 2,
+      "first": "2026-08-11",
+      "last": "2026-09-21"
+    },
+    {
+      "name": "The Siasat Daily",
+      "count": 2,
+      "first": "2026-09-04",
+      "last": "2026-09-04"
+    },
+    {
       "name": "The South First",
       "count": 2,
       "first": "2026-09-01",
@@ -720,6 +732,12 @@
       "last": "2026-08-23"
     },
     {
+      "name": "cfr.org",
+      "count": 1,
+      "first": "2026-07-31",
+      "last": "2026-07-31"
+    },
+    {
       "name": "Cityairnews",
       "count": 1,
       "first": "2026-09-17",
@@ -730,12 +748,6 @@
       "count": 1,
       "first": "2026-08-04",
       "last": "2026-08-04"
-    },
-    {
-      "name": "Council on Foreign Relations",
-      "count": 1,
-      "first": "2026-07-31",
-      "last": "2026-07-31"
     },
     {
       "name": "cpiml.org",
@@ -798,12 +810,6 @@
       "last": "2026-08-24"
     },
     {
-      "name": "Fact Check AFP",
-      "count": 1,
-      "first": "2026-07-10",
-      "last": "2026-07-10"
-    },
-    {
       "name": "Firstpost",
       "count": 1,
       "first": "2026-08-24",
@@ -846,7 +852,7 @@
       "last": "2026-08-18"
     },
     {
-      "name": "Hindus for Human Rights",
+      "name": "hindusforhumanrights.org",
       "count": 1,
       "first": "2026-07-07",
       "last": "2026-07-07"
@@ -870,7 +876,7 @@
       "last": "2026-07-30"
     },
     {
-      "name": "International Service for Human Rights",
+      "name": "ishr.ch",
       "count": 1,
       "first": "2026-08-14",
       "last": "2026-08-14"
@@ -888,7 +894,7 @@
       "last": "2026-08-30"
     },
     {
-      "name": "jurist.org",
+      "name": "Jurist.org",
       "count": 1,
       "first": "2026-07-23",
       "last": "2026-07-23"
@@ -972,7 +978,7 @@
       "last": "2026-06-02"
     },
     {
-      "name": "newsx.com",
+      "name": "NewsX",
       "count": 1,
       "first": "2026-07-23",
       "last": "2026-07-23"
@@ -1050,10 +1056,10 @@
       "last": "2026-09-01"
     },
     {
-      "name": "Supreme Court Observer",
+      "name": "siasat.com",
       "count": 1,
-      "first": "2026-08-25",
-      "last": "2026-08-25"
+      "first": "2026-09-11",
+      "last": "2026-09-11"
     },
     {
       "name": "The Borgen Project",
@@ -1122,12 +1128,6 @@
       "last": "2026-07-30"
     },
     {
-      "name": "The Shillong Times",
-      "count": 1,
-      "first": "2026-08-11",
-      "last": "2026-08-11"
-    },
-    {
       "name": "The Times",
       "count": 1,
       "first": "2026-08-17",
@@ -1146,6 +1146,12 @@
       "last": "2026-09-05"
     },
     {
+      "name": "thehansindia.com",
+      "count": 1,
+      "first": "2026-07-23",
+      "last": "2026-07-23"
+    },
+    {
       "name": "thekashmirimages.com",
       "count": 1,
       "first": "2026-09-04",
@@ -1156,12 +1162,6 @@
       "count": 1,
       "first": "2026-08-23",
       "last": "2026-08-23"
-    },
-    {
-      "name": "theshillongtimes.com",
-      "count": 1,
-      "first": "2026-09-21",
-      "last": "2026-09-21"
     },
     {
       "name": "thestatesman.com",

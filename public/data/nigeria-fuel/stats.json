@@ -815,15 +815,15 @@
     },
     {
       "start": "2026-09-01",
-      "count": 103
+      "count": 106
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 61,
+      "count": 63,
       "first": "2012-01-05",
-      "last": "2026-09-20"
+      "last": "2026-09-21"
     },
     {
       "name": "The Guardian Nigeria News",
@@ -880,12 +880,6 @@
       "last": "2026-01-27"
     },
     {
-      "name": "Arise News",
-      "count": 15,
-      "first": "2023-06-02",
-      "last": "2026-06-04"
-    },
-    {
       "name": "The Sun Nigeria",
       "count": 15,
       "first": "2022-11-30",
@@ -922,16 +916,34 @@
       "last": "2026-02-04"
     },
     {
+      "name": "Arise News",
+      "count": 10,
+      "first": "2023-06-02",
+      "last": "2026-02-13"
+    },
+    {
+      "name": "Independent Newspaper Nigeria",
+      "count": 9,
+      "first": "2020-09-07",
+      "last": "2026-01-29"
+    },
+    {
+      "name": "The Whistler Newspaper",
+      "count": 9,
+      "first": "2020-09-04",
+      "last": "2026-06-03"
+    },
+    {
       "name": "Tribune Online",
       "count": 9,
       "first": "2021-12-17",
       "last": "2026-07-26"
     },
     {
-      "name": "Independent Newspaper Nigeria",
-      "count": 8,
-      "first": "2023-01-30",
-      "last": "2026-01-29"
+      "name": "Premium Times",
+      "count": 7,
+      "first": "2026-09-11",
+      "last": "2026-09-21"
     },
     {
       "name": "The Guardian",
@@ -952,28 +964,22 @@
       "last": "2026-06-03"
     },
     {
-      "name": "Premium Times",
-      "count": 6,
-      "first": "2026-09-11",
-      "last": "2026-09-19"
-    },
-    {
       "name": "The Nation Newspaper",
       "count": 6,
       "first": "2022-01-10",
       "last": "2026-06-03"
     },
     {
-      "name": "The Whistler Newspaper",
-      "count": 6,
-      "first": "2020-09-04",
-      "last": "2026-04-28"
-    },
-    {
       "name": "TVC News",
       "count": 6,
       "first": "2025-09-07",
       "last": "2026-06-03"
+    },
+    {
+      "name": "arise.tv",
+      "count": 5,
+      "first": "2023-06-19",
+      "last": "2026-06-04"
     },
     {
       "name": "CNN",
@@ -992,12 +998,6 @@
       "count": 5,
       "first": "2020-09-10",
       "last": "2026-09-14"
-    },
-    {
-      "name": "thewhistler.ng",
-      "count": 5,
-      "first": "2024-05-06",
-      "last": "2026-06-03"
     },
     {
       "name": "allAfrica.com",
@@ -1100,6 +1100,18 @@
       "count": 2,
       "first": "2024-06-03",
       "last": "2024-06-03"
+    },
+    {
+      "name": "The ICIR",
+      "count": 2,
+      "first": "2023-10-01",
+      "last": "2026-02-03"
+    },
+    {
+      "name": "thewhistler.ng",
+      "count": 2,
+      "first": "2024-09-07",
+      "last": "2025-10-20"
     },
     {
       "name": "TRT Afrika",
@@ -1246,12 +1258,6 @@
       "last": "2026-08-28"
     },
     {
-      "name": "icirnigeria.org",
-      "count": 1,
-      "first": "2026-02-03",
-      "last": "2026-02-03"
-    },
-    {
       "name": "impactpolicies.org",
       "count": 1,
       "first": "2026-02-12",
@@ -1262,12 +1268,6 @@
       "count": 1,
       "first": "2012-01-11",
       "last": "2012-01-11"
-    },
-    {
-      "name": "independent.ng",
-      "count": 1,
-      "first": "2020-09-07",
-      "last": "2020-09-07"
     },
     {
       "name": "instagram.com",
@@ -1324,16 +1324,16 @@
       "last": "2026-09-15"
     },
     {
+      "name": "ndr.org.ng",
+      "count": 1,
+      "first": "2026-09-17",
+      "last": "2026-09-17"
+    },
+    {
       "name": "New Telegraph",
       "count": 1,
       "first": "2024-09-05",
       "last": "2024-09-05"
-    },
-    {
-      "name": "Nigerian Democratic Report",
-      "count": 1,
-      "first": "2026-09-17",
-      "last": "2026-09-17"
     },
     {
       "name": "nlcng.org",
@@ -1388,12 +1388,6 @@
       "count": 1,
       "first": "2024-03-19",
       "last": "2024-03-19"
-    },
-    {
-      "name": "The ICIR",
-      "count": 1,
-      "first": "2023-10-01",
-      "last": "2023-10-01"
     },
     {
       "name": "theeagleonline.com.ng",
@@ -1451,5 +1445,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-09-20"
+  "lastDate": "2026-09-21"
 }

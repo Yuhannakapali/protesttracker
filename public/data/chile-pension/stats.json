@@ -87,7 +87,7 @@
     },
     {
       "start": "2016-08-01",
-      "count": 12
+      "count": 13
     },
     {
       "start": "2016-09-01",
@@ -654,7 +654,13 @@
       "last": "2025-01-15"
     },
     {
-      "name": "soychile.cl",
+      "name": "NODAL - Noticias de América Latina y el Caribe",
+      "count": 5,
+      "first": "2016-08-19",
+      "last": "2025-09-23"
+    },
+    {
+      "name": "SoyChile.cl",
       "count": 5,
       "first": "2016-08-10",
       "last": "2019-03-31"
@@ -670,12 +676,6 @@
       "count": 4,
       "first": "2026-04-20",
       "last": "2026-07-15"
-    },
-    {
-      "name": "NODAL - Noticias de América Latina y el Caribe",
-      "count": 4,
-      "first": "2016-08-26",
-      "last": "2025-09-23"
     },
     {
       "name": "- CIPER Chile",
@@ -702,7 +702,7 @@
       "last": "2019-10-29"
     },
     {
-      "name": "diariolaquinta.cl",
+      "name": "Diario La Quinta",
       "count": 3,
       "first": "2018-06-01",
       "last": "2022-01-18"
@@ -736,12 +736,6 @@
       "count": 3,
       "first": "2016-08-21",
       "last": "2019-10-30"
-    },
-    {
-      "name": "The New York Times",
-      "count": 3,
-      "first": "2016-09-10",
-      "last": "2019-11-21"
     },
     {
       "name": "The Washington Post",
@@ -828,6 +822,12 @@
       "last": "2020-03-11"
     },
     {
+      "name": "nytimes.com",
+      "count": 2,
+      "first": "2016-09-10",
+      "last": "2019-11-18"
+    },
+    {
       "name": "Perfil",
       "count": 2,
       "first": "2020-01-09",
@@ -850,6 +850,12 @@
       "count": 2,
       "first": "2019-10-23",
       "last": "2025-01-29"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 2,
+      "first": "2019-10-23",
+      "last": "2022-03-12"
     },
     {
       "name": "The Nation Newspaper",
@@ -876,12 +882,6 @@
       "last": "2023-05-01"
     },
     {
-      "name": "2025.agmer.org.ar",
-      "count": 1,
-      "first": "2026-06-18",
-      "last": "2026-06-18"
-    },
-    {
       "name": "7dias.com.do",
       "count": 1,
       "first": "2022-12-03",
@@ -904,6 +904,12 @@
       "count": 1,
       "first": "2016-09-24",
       "last": "2016-09-24"
+    },
+    {
+      "name": "AGMER",
+      "count": 1,
+      "first": "2026-06-18",
+      "last": "2026-06-18"
     },
     {
       "name": "América TeVé",
@@ -954,7 +960,7 @@
       "last": "2019-10-26"
     },
     {
-      "name": "Business News Nigeria",
+      "name": "businessday.ng",
       "count": 1,
       "first": "2021-09-22",
       "last": "2021-09-22"
@@ -964,6 +970,12 @@
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
+    },
+    {
+      "name": "caretas.pe",
+      "count": 1,
+      "first": "2025-09-14",
+      "last": "2025-09-14"
     },
     {
       "name": "Cato Institute",
@@ -996,6 +1008,12 @@
       "last": "2021-03-23"
     },
     {
+      "name": "Diario Democracia",
+      "count": 1,
+      "first": "2017-12-14",
+      "last": "2017-12-14"
+    },
+    {
       "name": "DIARIO DIGITAL COPAL",
       "count": 1,
       "first": "2026-08-20",
@@ -1008,6 +1026,12 @@
       "last": "2026-07-08"
     },
     {
+      "name": "Diario El Día de La Plata",
+      "count": 1,
+      "first": "2017-12-19",
+      "last": "2017-12-19"
+    },
+    {
       "name": "Diario Río Uruguay",
       "count": 1,
       "first": "2026-07-27",
@@ -1018,12 +1042,6 @@
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
-    },
-    {
-      "name": "diariodemocracia.com",
-      "count": 1,
-      "first": "2017-12-14",
-      "last": "2017-12-14"
     },
     {
       "name": "El Destape",
@@ -1072,12 +1090,6 @@
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
-    },
-    {
-      "name": "eldia.com",
-      "count": 1,
-      "first": "2017-12-19",
-      "last": "2017-12-19"
     },
     {
       "name": "elentrerios.com",
@@ -1158,7 +1170,7 @@
       "last": "2018-10-29"
     },
     {
-      "name": "Guyana Chronicle",
+      "name": "guyanachronicle.com",
       "count": 1,
       "first": "2017-03-27",
       "last": "2017-03-27"
@@ -1182,7 +1194,7 @@
       "last": "2020-02-19"
     },
     {
-      "name": "Infinita",
+      "name": "infinita.cl",
       "count": 1,
       "first": "2021-12-14",
       "last": "2021-12-14"
@@ -1356,7 +1368,7 @@
       "last": "2020-12-09"
     },
     {
-      "name": "prensa-latina.cu",
+      "name": "Prensa Latina",
       "count": 1,
       "first": "2025-03-30",
       "last": "2025-03-30"
@@ -1416,12 +1428,6 @@
       "last": "2025-04-03"
     },
     {
-      "name": "Revista Caretas",
-      "count": 1,
-      "first": "2025-09-14",
-      "last": "2025-09-14"
-    },
-    {
       "name": "RosarioPlus",
       "count": 1,
       "first": "2024-09-05",
@@ -1432,18 +1438,6 @@
       "count": 1,
       "first": "2025-09-24",
       "last": "2025-09-24"
-    },
-    {
-      "name": "scmp.com",
-      "count": 1,
-      "first": "2019-10-23",
-      "last": "2019-10-23"
-    },
-    {
-      "name": "South China Morning Post",
-      "count": 1,
-      "first": "2022-03-12",
-      "last": "2022-03-12"
     },
     {
       "name": "Sydney Criminal Lawyers",
@@ -1480,6 +1474,12 @@
       "count": 1,
       "first": "2019-12-10",
       "last": "2019-12-10"
+    },
+    {
+      "name": "The New York Times",
+      "count": 1,
+      "first": "2019-11-21",
+      "last": "2019-11-21"
     },
     {
       "name": "The Sun",
