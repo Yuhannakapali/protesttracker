@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 102
+      "count": 103
     }
   ],
   "sources": [
@@ -839,9 +839,15 @@
     },
     {
       "name": "Vanguard",
-      "count": 39,
+      "count": 40,
       "first": "2026-09-02",
       "last": "2026-09-20"
+    },
+    {
+      "name": "Vanguard News",
+      "count": 40,
+      "first": "2012-03-08",
+      "last": "2026-06-08"
     },
     {
       "name": "Premium Times Nigeria",
@@ -862,18 +868,6 @@
       "last": "2026-09-11"
     },
     {
-      "name": "Vanguard News",
-      "count": 22,
-      "first": "2014-10-31",
-      "last": "2026-01-28"
-    },
-    {
-      "name": "vanguardngr.com",
-      "count": 22,
-      "first": "2012-03-08",
-      "last": "2026-06-08"
-    },
-    {
       "name": "Ripples Nigeria",
       "count": 20,
       "first": "2023-06-01",
@@ -890,6 +884,12 @@
       "count": 15,
       "first": "2023-06-02",
       "last": "2026-06-04"
+    },
+    {
+      "name": "The Sun Nigeria",
+      "count": 15,
+      "first": "2022-11-30",
+      "last": "2026-08-14"
     },
     {
       "name": "TheCable",
@@ -920,18 +920,6 @@
       "count": 11,
       "first": "2023-01-26",
       "last": "2026-02-04"
-    },
-    {
-      "name": "thesun.ng",
-      "count": 10,
-      "first": "2022-11-30",
-      "last": "2026-08-14"
-    },
-    {
-      "name": "The Whistler Newspaper",
-      "count": 9,
-      "first": "2020-09-04",
-      "last": "2026-06-03"
     },
     {
       "name": "Tribune Online",
@@ -976,6 +964,12 @@
       "last": "2026-06-03"
     },
     {
+      "name": "The Whistler Newspaper",
+      "count": 6,
+      "first": "2020-09-04",
+      "last": "2026-04-28"
+    },
+    {
       "name": "TVC News",
       "count": 6,
       "first": "2025-09-07",
@@ -1000,10 +994,10 @@
       "last": "2026-09-14"
     },
     {
-      "name": "The Sun Nigeria",
+      "name": "thewhistler.ng",
       "count": 5,
-      "first": "2026-02-02",
-      "last": "2026-06-04"
+      "first": "2024-05-06",
+      "last": "2026-06-03"
     },
     {
       "name": "allAfrica.com",
@@ -1034,6 +1028,12 @@
       "count": 4,
       "first": "2012-01-13",
       "last": "2026-09-11"
+    },
+    {
+      "name": "vanguardngr.com",
+      "count": 4,
+      "first": "2020-07-16",
+      "last": "2025-10-22"
     },
     {
       "name": "Peoples Gazette Nigeria",
@@ -1100,18 +1100,6 @@
       "count": 2,
       "first": "2024-06-03",
       "last": "2024-06-03"
-    },
-    {
-      "name": "The ICIR",
-      "count": 2,
-      "first": "2023-10-01",
-      "last": "2026-02-03"
-    },
-    {
-      "name": "thewhistler.ng",
-      "count": 2,
-      "first": "2024-09-07",
-      "last": "2025-10-20"
     },
     {
       "name": "TRT Afrika",
@@ -1258,6 +1246,12 @@
       "last": "2026-08-28"
     },
     {
+      "name": "icirnigeria.org",
+      "count": 1,
+      "first": "2026-02-03",
+      "last": "2026-02-03"
+    },
+    {
       "name": "impactpolicies.org",
       "count": 1,
       "first": "2026-02-12",
@@ -1294,7 +1288,7 @@
       "last": "2012-01-09"
     },
     {
-      "name": "internationalsocialist.net",
+      "name": "International Socialist Alternative",
       "count": 1,
       "first": "2024-08-21",
       "last": "2024-08-21"
@@ -1306,7 +1300,7 @@
       "last": "2024-11-05"
     },
     {
-      "name": "meer.com",
+      "name": "Meer | English edition",
       "count": 1,
       "first": "2025-07-27",
       "last": "2025-07-27"
@@ -1348,7 +1342,7 @@
       "last": "2023-11-15"
     },
     {
-      "name": "parallelfactsnews.com",
+      "name": "Parallel Facts News",
       "count": 1,
       "first": "2026-09-14",
       "last": "2026-09-14"
@@ -1394,6 +1388,12 @@
       "count": 1,
       "first": "2024-03-19",
       "last": "2024-03-19"
+    },
+    {
+      "name": "The ICIR",
+      "count": 1,
+      "first": "2023-10-01",
+      "last": "2023-10-01"
     },
     {
       "name": "theeagleonline.com.ng",
