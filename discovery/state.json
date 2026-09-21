@@ -405,34 +405,6 @@
         }
       ]
     },
-    "nigeria:airport-kenya-passengers": {
-      "id": "nigeria:airport-kenya-passengers",
-      "country": "Nigeria",
-      "terms": [
-        "stranded",
-        "passengers",
-        "airport",
-        "staff",
-        "kenya"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Kenya : Passengers Stranded Amid Airport Staff Strike",
-          "url": "https://allafrica.com/stories/202608310178.html",
-          "domain": "allafrica.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "nigeria:braces-gathers-leaf": {
       "id": "nigeria:braces-gathers-leaf",
       "country": "Nigeria",
@@ -460,37 +432,6 @@
           "url": "https://allafrica.com/stories/202609020723.html",
           "domain": "allafrica.com",
           "date": "2026-09-02"
-        }
-      ]
-    },
-    "nigeria:dpp-grab-loans": {
-      "id": "nigeria:dpp-grab-loans",
-      "country": "Nigeria",
-      "terms": [
-        "dpp",
-        "grab",
-        "mainja",
-        "medf",
-        "seize",
-        "sleeping",
-        "youth",
-        "loans"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Malawi :  Stop Sleeping and Seize the Moment  - DPP Mainja Urges Youth to Grab MEDF Loans",
-          "url": "https://allafrica.com/stories/202608310223.html",
-          "domain": "allafrica.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -699,34 +640,6 @@
           "url": "https://punchng.com/uniport-graduate-father-alleges-policemen-left-nba-duty-post-before-sons-killing/",
           "domain": "punchng.com",
           "date": "2026-09-02"
-        }
-      ]
-    },
-    "nigeria:adjustment-clamour-military": {
-      "id": "nigeria:adjustment-clamour-military",
-      "country": "Nigeria",
-      "terms": [
-        "adjustment",
-        "clamour",
-        "pensioner",
-        "pension",
-        "military"
-      ],
-      "domains": [
-        "tribuneonlineng.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Military pensioner clamour for pension adjustment",
-          "url": "https://tribuneonlineng.com/military-pensioners-clamour-for-pension-adjustment/",
-          "domain": "tribuneonlineng.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -1028,45 +941,6 @@
           "url": "https://dailypost.ng/2026/09/01/us-launches-fresh-airstrikes-on-irans-irgc-targets/",
           "domain": "dailypost.ng",
           "date": "2026-09-01"
-        }
-      ]
-    },
-    "nigeria:first-month-time": {
-      "id": "nigeria:first-month-time",
-      "country": "Nigeria",
-      "terms": [
-        "time",
-        "month",
-        "first",
-        "weeks",
-        "retaliation",
-        "tehran",
-        "vows"
-      ],
-      "domains": [
-        "nigeriasun.com",
-        "africaleader.com",
-        "tribuneonlineng.com"
-      ],
-      "daysSeen": [
-        "2026-08-30",
-        "2026-08-31"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "US strikes Iran for first time in a month",
-          "url": "http://www.nigeriasun.com/news/279275536/us-strikes-iran-for-first-time-in-a-month",
-          "domain": "nigeriasun.com",
-          "date": "2026-08-30"
-        },
-        {
-          "title": "US strikes Iran for first time in weeks as Tehran vows retaliation",
-          "url": "https://tribuneonlineng.com/us-strikes-iran-for-first-time-in-weeks-as-tehran-vows-retaliation/",
-          "domain": "tribuneonlineng.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -1673,37 +1547,6 @@
         }
       ]
     },
-    "nigeria:all-blacks-cape": {
-      "id": "nigeria:all-blacks-cape",
-      "country": "Nigeria",
-      "terms": [
-        "blacks",
-        "roar",
-        "springboks",
-        "series",
-        "thriller",
-        "victory",
-        "all",
-        "cape"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "South Africa : Springboks Roar Back Into Series With Victory Over All Blacks in Cape Town Thriller",
-          "url": "https://allafrica.com/stories/202608310003.html",
-          "domain": "allafrica.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "nigeria:abia-frsc-inducted": {
       "id": "nigeria:abia-frsc-inducted",
       "country": "Nigeria",
@@ -1834,45 +1677,6 @@
           "url": "https://www.informationng.com/2026/09/tinubu-mourns-death-of-ex-pdp-chairman-bamanga-tukur-at-90.html",
           "domain": "informationng.com",
           "date": "2026-09-12"
-        }
-      ]
-    },
-    "nigeria:attempted-coup-junta": {
-      "id": "nigeria:attempted-coup-junta",
-      "country": "Nigeria",
-      "terms": [
-        "attempted",
-        "coup",
-        "situation",
-        "tense",
-        "junta",
-        "remains",
-        "niger",
-        "still"
-      ],
-      "domains": [
-        "allafrica.com",
-        "premiumtimesng.com"
-      ],
-      "daysSeen": [
-        "2026-08-31",
-        "2026-08-30"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Nigeria : Attempted Coup - Niger Junta Still in Control , but Situation Remains Tense",
-          "url": "https://allafrica.com/stories/202608310094.html",
-          "domain": "allafrica.com",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Attempted Coup : Niger junta still in control , but situation remains tense",
-          "url": "https://www.premiumtimesng.com/news/headlines/906327-attempted-coup-niger-junta-still-in-control-but-situation-remains-tense.html",
-          "domain": "premiumtimesng.com",
-          "date": "2026-08-30"
         }
       ]
     },
@@ -2217,35 +2021,6 @@
         }
       ]
     },
-    "nigeria:adamawa-adc-chairman": {
-      "id": "nigeria:adamawa-adc-chairman",
-      "country": "Nigeria",
-      "terms": [
-        "adamawa",
-        "adc",
-        "removal",
-        "supporters",
-        "chairman",
-        "state"
-      ],
-      "domains": [
-        "tribuneonlineng.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "ADC supporters protest in Adamawa over state chairman removal",
-          "url": "https://tribuneonlineng.com/adc-supporters-protest-in-adamawa-over-state-chairmans-removal/",
-          "domain": "tribuneonlineng.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "nigeria:ceuta-crisis-mass": {
       "id": "nigeria:ceuta-crisis-mass",
       "country": "Nigeria",
@@ -2270,36 +2045,6 @@
           "url": "http://www.nigeriasun.com/news/279286576/protesters-clash-with-police-after-mass-ceuta-crisis-rally",
           "domain": "nigeriasun.com",
           "date": "2026-09-04"
-        }
-      ]
-    },
-    "nigeria:chairman-council-delta": {
-      "id": "nigeria:chairman-council-delta",
-      "country": "Nigeria",
-      "terms": [
-        "delta",
-        "grassroots",
-        "hails",
-        "monarch",
-        "council",
-        "devt",
-        "chairman"
-      ],
-      "domains": [
-        "leadership.ng"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Delta Monarch Hails Council Chairman Over Grassroots Devt",
-          "url": "https://leadership.ng/delta-monarch-hails-council-chairman-over-grassroots-devt/",
-          "domain": "leadership.ng",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -2688,65 +2433,6 @@
         }
       ]
     },
-    "nigeria:broken-choices-delayed": {
-      "id": "nigeria:broken-choices-delayed",
-      "country": "Nigeria",
-      "terms": [
-        "choices",
-        "famine",
-        "rains",
-        "tigray",
-        "broken",
-        "delayed",
-        "drought",
-        "ethiopia"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Ethiopia : Delayed Rains , Broken Promises - Why Political Choices Could Turn Tigray Drought Into Famine Yet Again",
-          "url": "https://allafrica.com/stories/202608310276.html",
-          "domain": "allafrica.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
-    "nigeria:arokodare-eredivisie-goal": {
-      "id": "nigeria:arokodare-eredivisie-goal",
-      "country": "Nigeria",
-      "terms": [
-        "arokodare",
-        "eredivisie",
-        "nets",
-        "maiden",
-        "goal"
-      ],
-      "domains": [
-        "thenationonlineng.net"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Arokodare nets maiden Eredivisie goal",
-          "url": "https://thenationonlineng.net/arokodare-nets-maiden-eredivisie-goal/",
-          "domain": "thenationonlineng.net",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "nigeria:86bn-fold-jump": {
       "id": "nigeria:86bn-fold-jump",
       "country": "Nigeria",
@@ -2804,50 +2490,6 @@
           "url": "https://www.nigerianeye.com/2026/09/fbi-document-confirms-tinubus-1952.html",
           "domain": "nigerianeye.com",
           "date": "2026-09-02"
-        }
-      ]
-    },
-    "nigeria:bbnaija-big-breaches": {
-      "id": "nigeria:bbnaija-big-breaches",
-      "country": "Nigeria",
-      "terms": [
-        "breaches",
-        "brother",
-        "housemates",
-        "bbnaija",
-        "rule",
-        "s11",
-        "sanctions",
-        "big",
-        "evicted",
-        "goddessa",
-        "sef",
-        "sultex",
-        "show",
-        "house"
-      ],
-      "domains": [
-        "thenationonlineng.net",
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "BBNaija S11 : Big Brother sanctions housemates over rule breaches",
-          "url": "https://thenationonlineng.net/bbnaija-s11-big-brother-sanctions-housemates-over-rule-breaches/",
-          "domain": "thenationonlineng.net",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Nigeria : BBNaija S11 - Sultex , Goddessa Evicted From  Show Ya Sef  House",
-          "url": "https://allafrica.com/stories/202608310121.html",
-          "domain": "allafrica.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -3536,37 +3178,6 @@
         }
       ]
     },
-    "nigeria:dcp-engages-gachagua": {
-      "id": "nigeria:dcp-engages-gachagua",
-      "country": "Nigeria",
-      "terms": [
-        "dcp",
-        "engages",
-        "gachagua",
-        "kenyans",
-        "leaves",
-        "malala",
-        "methu",
-        "steer"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Kenya : Gachagua Leaves Malala , Methu to Steer Dcp As He Engages Kenyans in Us",
-          "url": "https://allafrica.com/stories/202608310069.html",
-          "domain": "allafrica.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "nigeria:madrid-mbappe-miss": {
       "id": "nigeria:madrid-mbappe-miss",
       "country": "Nigeria",
@@ -3874,36 +3485,6 @@
           "url": "https://www.thisdaylive.com/2026/09/03/tiger-woods-gets-five-year-driving-ban/",
           "domain": "thisdaylive.com",
           "date": "2026-09-03"
-        }
-      ]
-    },
-    "nigeria:fuel-imports-local": {
-      "id": "nigeria:fuel-imports-local",
-      "country": "Nigeria",
-      "terms": [
-        "refineries",
-        "threaten",
-        "imports",
-        "rising",
-        "local",
-        "fuel",
-        "nigeria"
-      ],
-      "domains": [
-        "punchng.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Rising Fuel Imports Threaten Nigeria Local Refineries",
-          "url": "https://punchng.com/rising-fuel-imports-could-cripple-local-refineries-cppe/",
-          "domain": "punchng.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -4317,37 +3898,6 @@
         }
       ]
     },
-    "nigeria:attack-bases-island": {
-      "id": "nigeria:attack-bases-island",
-      "country": "Nigeria",
-      "terms": [
-        "struck",
-        "bases",
-        "jordan",
-        "uae",
-        "island",
-        "larak",
-        "attack",
-        "tehran"
-      ],
-      "domains": [
-        "premiumtimesng.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Tehran says it struck US bases in Jordan , UAE after attack on Larak Island",
-          "url": "https://www.premiumtimesng.com/news/top-news/906409-tehran-says-it-struck-us-bases-in-jordan-uae-after-attack-on-larak-island.html",
-          "domain": "premiumtimesng.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "nigeria:businesses-digital-means": {
       "id": "nigeria:businesses-digital-means",
       "country": "Nigeria",
@@ -4704,37 +4254,6 @@
         }
       ]
     },
-    "nigeria:action-amnesty-disappearances": {
-      "id": "nigeria:action-amnesty-disappearances",
-      "country": "Nigeria",
-      "terms": [
-        "disappearances",
-        "enforced",
-        "ruto",
-        "amnesty",
-        "promises",
-        "turn",
-        "action",
-        "kenya"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Kenya : Amnesty to Ruto - Turn Promises On Enforced Disappearances Into Action",
-          "url": "https://allafrica.com/stories/202608310061.html",
-          "domain": "allafrica.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "nigeria:growth-hill-kenya": {
       "id": "nigeria:growth-hill-kenya",
       "country": "Nigeria",
@@ -5044,34 +4563,6 @@
         }
       ]
     },
-    "nigeria:creates-fear-opportunity": {
-      "id": "nigeria:creates-fear-opportunity",
-      "country": "Nigeria",
-      "terms": [
-        "creates",
-        "opportunity",
-        "fear",
-        "when",
-        "thisdaylive"
-      ],
-      "domains": [
-        "thisdaylive.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "WHEN FEAR CREATES OPPORTUNITY – THISDAYLIVE",
-          "url": "https://www.thisdaylive.com/2026/08/31/when-fear-creates-opportunity/",
-          "domain": "thisdaylive.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "nigeria:african-graduate-graduates": {
       "id": "nigeria:african-graduate-graduates",
       "country": "Nigeria",
@@ -5188,37 +4679,6 @@
           "url": "https://promptnewsonline.com/beer-parlour-operators-fume-accuse-police-dpo-of-extortion/",
           "domain": "promptnewsonline.com",
           "date": "2026-09-11"
-        }
-      ]
-    },
-    "nigeria:attacks-bashir-bello": {
-      "id": "nigeria:attacks-bashir-bello",
-      "country": "Nigeria",
-      "terms": [
-        "bashir",
-        "bello",
-        "feud",
-        "family",
-        "rufai",
-        "deepens",
-        "attacks",
-        "nigeria"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Nigeria : El - Rufai Family Feud Deepens As Bashir Attacks Bello",
-          "url": "https://allafrica.com/stories/202608310760.html",
-          "domain": "allafrica.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -5485,37 +4945,6 @@
         }
       ]
     },
-    "nigeria:book-families-impacts": {
-      "id": "nigeria:book-families-impacts",
-      "country": "Nigeria",
-      "terms": [
-        "book",
-        "impacts",
-        "nairobi",
-        "swallowing",
-        "reveals",
-        "rural",
-        "land",
-        "families"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Kenya : Nairobi Expansion Is Swallowing Up Rural Land - New Book Reveals the Impacts On Families",
-          "url": "https://allafrica.com/stories/202608310043.html",
-          "domain": "allafrica.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "nigeria:n12b-national-payments": {
       "id": "nigeria:n12b-national-payments",
       "country": "Nigeria",
@@ -5605,37 +5034,6 @@
           "url": "https://punchng.com/nlng-sepnu-leads-as-domestic-cooking-gas-supply-rises/",
           "domain": "punchng.com",
           "date": "2026-09-03"
-        }
-      ]
-    },
-    "nigeria:charge-exempts-helicopter": {
-      "id": "nigeria:charge-exempts-helicopter",
-      "country": "Nigeria",
-      "terms": [
-        "charge",
-        "exempts",
-        "helicopter",
-        "levy",
-        "navigation",
-        "offshore",
-        "platforms",
-        "retains"
-      ],
-      "domains": [
-        "leadership.ng"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "FG Retains $300 Helicopter Levy , Exempts Offshore Platforms From Terminal Navigation Charge",
-          "url": "https://leadership.ng/fg-retains-300-helicopter-levy-exempts-offshore-platforms-from-terminal-navigation-charge/",
-          "domain": "leadership.ng",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -5784,35 +5182,6 @@
         }
       ]
     },
-    "nigeria:100trn-bond-markets": {
-      "id": "nigeria:100trn-bond-markets",
-      "country": "Nigeria",
-      "terms": [
-        "100trn",
-        "near",
-        "bond",
-        "markets",
-        "top",
-        "world"
-      ],
-      "domains": [
-        "tribuneonlineng.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "World top 10 bond markets near $100trn",
-          "url": "https://tribuneonlineng.com/worlds-top-10-bond-markets-near-100trn/",
-          "domain": "tribuneonlineng.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "nigeria:accuses-british-husband": {
       "id": "nigeria:accuses-british-husband",
       "country": "Nigeria",
@@ -5869,43 +5238,6 @@
           "url": "https://www.vanguardngr.com/2026/09/rivers-how-orbih-fought-for-wike-against-amaechi/",
           "domain": "vanguardngr.com",
           "date": "2026-09-05"
-        }
-      ]
-    },
-    "nigeria:bessent-economic-g20": {
-      "id": "nigeria:bessent-economic-g20",
-      "country": "Nigeria",
-      "terms": [
-        "bessent",
-        "pressure",
-        "intensify",
-        "g20",
-        "economic",
-        "vows",
-        "summit"
-      ],
-      "domains": [
-        "nigeriasun.com",
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "At G20 , Bessent Vows To Intensify Economic  Pressure  On Iran",
-          "url": "http://www.nigeriasun.com/news/279277512/at-g20-bessent-vows-to-intensify-economic-pressure-on-iran",
-          "domain": "nigeriasun.com",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "At G20 Summit , Bessent Vows To Intensify Economic  Pressure  On Iran",
-          "url": "http://www.nigeriasun.com/news/279277182/at-g20-summit-bessent-vows-to-intensify-economic-pressure-on-iran",
-          "domain": "nigeriasun.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -6067,36 +5399,6 @@
         }
       ]
     },
-    "nigeria:capacity-fuel-itf": {
-      "id": "nigeria:capacity-fuel-itf",
-      "country": "Nigeria",
-      "terms": [
-        "itf",
-        "litre",
-        "plateau",
-        "capacity",
-        "station",
-        "opens",
-        "fuel"
-      ],
-      "domains": [
-        "punchng.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "ITF opens 47 , 600 - litre capacity fuel station in Plateau",
-          "url": "https://punchng.com/itf-opens-47600-litre-capacity-fuel-station-in-plateau/",
-          "domain": "punchng.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "nigeria:begin-chaos-elections": {
       "id": "nigeria:begin-chaos-elections",
       "country": "Nigeria",
@@ -6185,37 +5487,6 @@
           "url": "https://allafrica.com/stories/202609020525.html",
           "domain": "allafrica.com",
           "date": "2026-09-02"
-        }
-      ]
-    },
-    "nigeria:ahead-boycott-controversial": {
-      "id": "nigeria:ahead-boycott-controversial",
-      "country": "Nigeria",
-      "terms": [
-        "boycott",
-        "opponent",
-        "pushes",
-        "controversial",
-        "regional",
-        "somalia",
-        "ahead",
-        "elections"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Somalia Pushes Ahead With Controversial Regional Elections Despite Opponent Boycott .",
-          "url": "https://allafrica.com/stories/202608310033.html",
-          "domain": "allafrica.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -6363,37 +5634,6 @@
         }
       ]
     },
-    "nigeria:child-ebonyi-investigation": {
-      "id": "nigeria:child-ebonyi-investigation",
-      "country": "Nigeria",
-      "terms": [
-        "child",
-        "ebonyi",
-        "investigation",
-        "marriage",
-        "premium",
-        "river",
-        "silent",
-        "tackle"
-      ],
-      "domains": [
-        "premiumtimesng.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Cross River silent as Ebonyi moves to tackle child marriage after PREMIUM TIMES investigation",
-          "url": "https://www.premiumtimesng.com/regional/ssouth-east/906484-cross-river-silent-as-ebonyi-moves-to-tackle-child-marriage-after-premium-times-investigation.html",
-          "domain": "premiumtimesng.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "nigeria:dolly-existence-juncture": {
       "id": "nigeria:dolly-existence-juncture",
       "country": "Nigeria",
@@ -6481,34 +5721,6 @@
           "url": "http://www.nigeriasun.com/news/279279818/pilots-association-flags-pilot-attrition-at-air-india-emphasises-safety-urges-neol-tata-for-review",
           "domain": "nigeriasun.com",
           "date": "2026-09-01"
-        }
-      ]
-    },
-    "south-africa:all-facilities-fully": {
-      "id": "south-africa:all-facilities-fully",
-      "country": "South Africa",
-      "terms": [
-        "facilities",
-        "fully",
-        "functional",
-        "all",
-        "health"
-      ],
-      "domains": [
-        "sanews.gov.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "All public health facilities fully functional",
-          "url": "https://www.sanews.gov.za/south-africa/all-public-health-facilities-fully-functional",
-          "domain": "sanews.gov.za",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -6628,35 +5840,6 @@
           "url": "https://www.citizen.co.za/news/ramokgopa-warns-sas-energy-future-will-continue-to-depend-heavily-on-coal/",
           "domain": "citizen.co.za",
           "date": "2026-09-03"
-        }
-      ]
-    },
-    "south-africa:community-families-fear": {
-      "id": "south-africa:community-families-fear",
-      "country": "South Africa",
-      "terms": [
-        "live",
-        "fear",
-        "immigrant",
-        "joburg",
-        "community",
-        "families"
-      ],
-      "domains": [
-        "groundup.org.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Immigrant families live in fear in this Joburg community",
-          "url": "https://groundup.org.za/article/immigrant-families-say-live-in-fear-in-this-johannesburg-community/",
-          "domain": "groundup.org.za",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -6870,35 +6053,6 @@
         }
       ]
     },
-    "south-africa:claims-international-number": {
-      "id": "south-africa:claims-international-number",
-      "country": "South Africa",
-      "terms": [
-        "wits",
-        "number",
-        "claims",
-        "international",
-        "rejects",
-        "staff"
-      ],
-      "domains": [
-        "citizen.co.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Wits rejects claims over number of international staff",
-          "url": "https://www.citizen.co.za/news/south-africa/education/wits-rejects-claims-over-number-of-international-staff/",
-          "domain": "citizen.co.za",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:airlink-backlash-cape": {
       "id": "south-africa:airlink-backlash-cape",
       "country": "South Africa",
@@ -6997,66 +6151,6 @@
         }
       ]
     },
-    "south-africa:death-executions-mount": {
-      "id": "south-africa:death-executions-mount",
-      "country": "South Africa",
-      "terms": [
-        "executions",
-        "mount",
-        "sentences",
-        "death",
-        "two",
-        "women"
-      ],
-      "domains": [
-        "news24.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Iran sentences two women to death as protest executions mount",
-          "url": "https://www.news24.com/world/iran-sentences-two-women-to-death-as-protest-executions-mount-20260831-1039",
-          "domain": "news24.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
-    "south-africa:cuts-deals-eskom": {
-      "id": "south-africa:cuts-deals-eskom",
-      "country": "South Africa",
-      "terms": [
-        "deals",
-        "multiple",
-        "municipalities",
-        "cuts",
-        "remain",
-        "unsigned",
-        "risk",
-        "eskom"
-      ],
-      "domains": [
-        "citizen.co.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Multiple municipalities risk Eskom power cuts as deals remain unsigned",
-          "url": "https://www.citizen.co.za/business/multiple-municipalities-risk-eskom-power-cuts-as-deals-remain-unsigned/",
-          "domain": "citizen.co.za",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:deepening-lme-reuters": {
       "id": "south-africa:deepening-lme-reuters",
       "country": "South Africa",
@@ -7085,35 +6179,6 @@
           "url": "https://www.miningweekly.com/article/lme-zinc-squeeze-signals-deepening-supply-risks-for-the-west-reuters-says-2026-09-03",
           "domain": "miningweekly.com",
           "date": "2026-09-03"
-        }
-      ]
-    },
-    "south-africa:airport-delays-kenya": {
-      "id": "south-africa:airport-delays-kenya",
-      "country": "South Africa",
-      "terms": [
-        "passengers",
-        "airport",
-        "delays",
-        "thousands",
-        "staff",
-        "kenya"
-      ],
-      "domains": [
-        "dailymaverick.co.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Kenya airport staff strike delays thousands of passengers",
-          "url": "https://www.dailymaverick.co.za/article/2026-08-31-kenya-airport-staff-strike-delays-thousands-of-passengers/",
-          "domain": "dailymaverick.co.za",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -7212,37 +6277,6 @@
           "url": "https://sanef.org.za/sanef-welcomes-landmark-bccsa-ruling-on-editorial-responsibility-ahead-of-elections/",
           "domain": "sanef.org.za",
           "date": "2026-09-07"
-        }
-      ]
-    },
-    "south-africa:junta-mutiny-niger": {
-      "id": "south-africa:junta-mutiny-niger",
-      "country": "South Africa",
-      "terms": [
-        "slavery",
-        "survives",
-        "mutiny",
-        "reparations",
-        "junta",
-        "niger",
-        "urges",
-        "today"
-      ],
-      "domains": [
-        "okayafrica.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Today in Africa : Niger junta survives mutiny as UN urges slavery reparations",
-          "url": "https://www.okayafrica.com/today-in-africa-august-31-2026-nigers-junta-survives-mutiny-un-committee-says-nations-must-consider-slavery-reparations/1439074",
-          "domain": "okayafrica.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -7780,36 +6814,6 @@
         }
       ]
     },
-    "south-africa:cars-close-drive": {
-      "id": "south-africa:cars-close-drive",
-      "country": "South Africa",
-      "terms": [
-        "drive",
-        "efficiency",
-        "stockholm",
-        "volvo",
-        "cars",
-        "office",
-        "close"
-      ],
-      "domains": [
-        "timeslive.co.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Volvo Cars to close Stockholm office in efficiency drive",
-          "url": "https://www.timeslive.co.za/motoring/2026-08-31-volvo-cars-to-close-stockholm-office-in-efficiency-drive/",
-          "domain": "timeslive.co.za",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:actionsa-chaos-committee": {
       "id": "south-africa:actionsa-chaos-committee",
       "country": "South Africa",
@@ -7838,67 +6842,6 @@
           "url": "https://www.sowetan.co.za/news/2026-09-04-ad-hoc-committee-descends-into-chaos-as-da-actionsa-walk-out-over-squabbling-mps/",
           "domain": "sowetan.co.za",
           "date": "2026-09-04"
-        }
-      ]
-    },
-    "south-africa:exchange-fire-first": {
-      "id": "south-africa:exchange-fire-first",
-      "country": "South Africa",
-      "terms": [
-        "exchange",
-        "hard",
-        "weeks",
-        "fire",
-        "hit",
-        "trump",
-        "vows",
-        "first"
-      ],
-      "domains": [
-        "news24.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Trump vows to hit back  hard  after first exchange of fire with Iran in weeks",
-          "url": "https://www.news24.com/world/trump-vows-to-hit-back-hard-after-first-exchange-of-fire-with-iran-in-weeks-20260831-0950",
-          "domain": "news24.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
-    "south-africa:assets-attack-claim": {
-      "id": "south-africa:assets-attack-claim",
-      "country": "South Africa",
-      "terms": [
-        "assets",
-        "retaliatory",
-        "jordan",
-        "claim",
-        "guards",
-        "attack",
-        "military"
-      ],
-      "domains": [
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Iran Guards Claim Retaliatory Attack On US Military Assets In Jordan",
-          "url": "http://www.africaleader.com/news/279275625/iran-guards-claim-retaliatory-attack-on-us-military-assets-in-jordan",
-          "domain": "africaleader.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -8285,65 +7228,6 @@
         }
       ]
     },
-    "south-africa:cannot-force-gone": {
-      "id": "south-africa:cannot-force-gone",
-      "country": "South Africa",
-      "terms": [
-        "force",
-        "gone",
-        "nuclear",
-        "reiterates",
-        "weapon",
-        "navy",
-        "cannot",
-        "leaders"
-      ],
-      "domains": [
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Iran cannot have a nuclear weapon : Trump reiterates Tehran navy , air force and leaders as  gone",
-          "url": "http://www.africaleader.com/news/279275818/iran-cannot-have-a-nuclear-weapon-trump-reiterates-tehran-navy-air-force-and-leaders-as-gone",
-          "domain": "africaleader.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
-    "south-africa:accused-amandawe-court": {
-      "id": "south-africa:accused-amandawe-court",
-      "country": "South Africa",
-      "terms": [
-        "amandawe",
-        "photos",
-        "murder",
-        "accused",
-        "court"
-      ],
-      "domains": [
-        "citizen.co.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "No photos in court , says Amandawe murder - accused",
-          "url": "https://www.citizen.co.za/south-coast-herald/news-headlines/local-crime-news/2026/08/31/no-photos-in-court-says-amandawe-murder-accused/",
-          "domain": "citizen.co.za",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:channel-completes-generation": {
       "id": "south-africa:channel-completes-generation",
       "country": "South Africa",
@@ -8511,32 +7395,6 @@
           "url": "https://www.thesouthafrican.com/news/lesothos-princess-senate-seeiso-appointed-undp-ambassador/",
           "domain": "thesouthafrican.com",
           "date": "2026-09-01"
-        }
-      ]
-    },
-    "south-africa:first-month-retaliates": {
-      "id": "south-africa:first-month-retaliates",
-      "country": "South Africa",
-      "terms": [
-        "retaliates",
-        "month",
-        "first"
-      ],
-      "domains": [
-        "news24.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Iran retaliates after first US strikes in a month",
-          "url": "https://www.news24.com/world/iran-retaliates-after-first-us-strikes-in-a-month-20260831-0354",
-          "domain": "news24.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -8834,34 +7692,6 @@
         }
       ]
     },
-    "south-africa:august-billion-day": {
-      "id": "south-africa:august-billion-day",
-      "country": "South Africa",
-      "terms": [
-        "r30",
-        "august",
-        "billion",
-        "number",
-        "day"
-      ],
-      "domains": [
-        "enca.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Number Of The Day | R30 Billion | 31 AUGUST 2026",
-          "url": "https://www.enca.com/news/number-day-r30-billion-31-august-2026",
-          "domain": "enca.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:access-booms-mmc": {
       "id": "south-africa:access-booms-mmc",
       "country": "South Africa",
@@ -9011,37 +7841,6 @@
           "url": "https://www.timeslive.co.za/news/2026-09-04-exclusive-aspen-opts-not-to-make-hiv-prevention-jab-lenacapavir/",
           "domain": "timeslive.co.za",
           "date": "2026-09-04"
-        }
-      ]
-    },
-    "south-africa:alcaraz-all-champ": {
-      "id": "south-africa:alcaraz-all-champ",
-      "country": "South Africa",
-      "terms": [
-        "alcaraz",
-        "champ",
-        "defending",
-        "eyes",
-        "injury",
-        "open",
-        "returns",
-        "all"
-      ],
-      "domains": [
-        "ecr.co.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "All eyes on Alcaraz as defending champ returns from injury at US Open",
-          "url": "https://www.ecr.co.za/news/news/carlos-alcaraz-us-open-title-defence/",
-          "domain": "ecr.co.za",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -9314,37 +8113,6 @@
         }
       ]
     },
-    "south-africa:agonising-coalbrook-extraction": {
-      "id": "south-africa:agonising-coalbrook-extraction",
-      "country": "South Africa",
-      "terms": [
-        "agonising",
-        "coalbrook",
-        "extraction",
-        "lehohla",
-        "marikana",
-        "mineral",
-        "pali",
-        "truth"
-      ],
-      "domains": [
-        "timeslive.co.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "PALI LEHOHLA | From Coalbrook to Marikana : the agonising truth of mineral extraction",
-          "url": "https://www.timeslive.co.za/opinion/2026-08-31-pali-lehohla-from-coalbrook-to-marikana-the-agonising-truth-of-mineral-extraction/",
-          "domain": "timeslive.co.za",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:congo-ebola-nigeria": {
       "id": "south-africa:congo-ebola-nigeria",
       "country": "South Africa",
@@ -9373,36 +8141,6 @@
           "url": "https://www.okayafrica.com/today-in-africa-september-2-2026-us-troops-exit-nigeria-dr-congo-drops-remote-learning-in-ebola-zones/1439304",
           "domain": "okayafrica.com",
           "date": "2026-09-02"
-        }
-      ]
-    },
-    "south-africa:based-end-gender": {
-      "id": "south-africa:based-end-gender",
-      "country": "South Africa",
-      "terms": [
-        "based",
-        "gender",
-        "inequality",
-        "uproot",
-        "want",
-        "violence",
-        "end"
-      ],
-      "domains": [
-        "mg.co.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "If we want to end gender - based violence , we have to uproot gender inequality",
-          "url": "https://mg.co.za/thought-leader/2026-08-31-if-we-want-to-end-gender-based-violence-we-have-to-uproot-gender-inequality/",
-          "domain": "mg.co.za",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -10019,36 +8757,6 @@
         }
       ]
     },
-    "south-africa:die-enriching-iranians": {
-      "id": "south-africa:die-enriching-iranians",
-      "country": "South Africa",
-      "terms": [
-        "die",
-        "enriching",
-        "iranians",
-        "pezeshkians",
-        "uranium",
-        "son",
-        "without"
-      ],
-      "domains": [
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Pezeshkians Son Says Iranians Will Not Die Without Enriching Uranium",
-          "url": "http://www.africaleader.com/news/279276379/pezeshkians-son-says-iranians-will-not-die-without-enriching-uranium",
-          "domain": "africaleader.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:led-ready-woman": {
       "id": "south-africa:led-ready-woman",
       "country": "South Africa",
@@ -10112,35 +8820,6 @@
         }
       ]
     },
-    "south-africa:announces-butembo-copper": {
-      "id": "south-africa:announces-butembo-copper",
-      "country": "South Africa",
-      "terms": [
-        "butembo",
-        "copper",
-        "drill",
-        "intelligence",
-        "results",
-        "announces"
-      ],
-      "domains": [
-        "cnbcafrica.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Copper Intelligence announces new drill results at Butembo",
-          "url": "https://www.cnbcafrica.com/media/7788171849607/copper-intelligence-announces-new-drill-results-at-butembo",
-          "domain": "cnbcafrica.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:collapse-former-helped": {
       "id": "south-africa:collapse-former-helped",
       "country": "South Africa",
@@ -10169,37 +8848,6 @@
           "url": "https://mg.co.za/thought-leader/2026-09-01-zhu-rongji-the-former-no-nonsense-premier-who-helped-save-china-from-economic-collapse/",
           "domain": "mg.co.za",
           "date": "2026-09-01"
-        }
-      ]
-    },
-    "south-africa:customers-demand-eskom": {
-      "id": "south-africa:customers-demand-eskom",
-      "country": "South Africa",
-      "terms": [
-        "customers",
-        "industrial",
-        "slump",
-        "sources",
-        "demand",
-        "sales",
-        "targets",
-        "eskom"
-      ],
-      "domains": [
-        "miningweekly.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "As sales to industrial customers slump by 22 . 5 %, Eskom targets new sources of demand",
-          "url": "https://www.miningweekly.com/article/as-sales-to-industrial-customers-slump-by-225-eskom-targets-new-sources-of-demand-2026-08-31",
-          "domain": "miningweekly.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -10350,36 +8998,6 @@
           "url": "https://ventureburn.com/nvidia-hugging-face-hpe-surge/",
           "domain": "ventureburn.com",
           "date": "2026-09-04"
-        }
-      ]
-    },
-    "south-africa:cost-economic-growing": {
-      "id": "south-africa:cost-economic-growing",
-      "country": "South Africa",
-      "terms": [
-        "cost",
-        "growing",
-        "high",
-        "warns",
-        "inflation",
-        "economic",
-        "war"
-      ],
-      "domains": [
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Iran warns of war growing economic cost , high inflation",
-          "url": "http://www.africaleader.com/news/279273581/six-month-war-deepens-iran-s-economic-crisis",
-          "domain": "africaleader.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -10686,37 +9304,6 @@
         }
       ]
     },
-    "south-africa:builds-china-crops": {
-      "id": "south-africa:builds-china-crops",
-      "country": "South Africa",
-      "terms": [
-        "builds",
-        "crops",
-        "grain",
-        "protect",
-        "radar",
-        "network",
-        "pest",
-        "china"
-      ],
-      "domains": [
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "China builds pest radar network to protect grain crops",
-          "url": "http://www.africaleader.com/news/279276273/china-builds-pest-radar-network-to-protect-grain-crops",
-          "domain": "africaleader.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:abuja-convene-energynet": {
       "id": "south-africa:abuja-convene-energynet",
       "country": "South Africa",
@@ -10745,36 +9332,6 @@
           "url": "https://energynet.africa-newsroom.com/press/four-nigerian-ministries-convene-global-investors-in-abuja-for-the-maiden-nigeria-now-launch",
           "domain": "energynet.africa-newsroom.com",
           "date": "2026-09-03"
-        }
-      ]
-    },
-    "south-africa:anthropic-baseless-blacklist": {
-      "id": "south-africa:anthropic-baseless-blacklist",
-      "country": "South Africa",
-      "terms": [
-        "anthropic",
-        "baseless",
-        "blacklist",
-        "pentagon",
-        "judge",
-        "illegal"
-      ],
-      "domains": [
-        "africaleader.com",
-        "philippinetimes.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Judge calls Pentagon Anthropic blacklist  illegal and baseless",
-          "url": "http://www.africaleader.com/news/279271855/judge-calls-pentagon-s-anthropic-blacklist-illegal-and-baseless",
-          "domain": "africaleader.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -10840,35 +9397,6 @@
           "url": "https://www.sanews.gov.za/south-africa/parents-must-get-involved",
           "domain": "sanews.gov.za",
           "date": "2026-09-04"
-        }
-      ]
-    },
-    "south-africa:day-honour-military": {
-      "id": "south-africa:day-honour-military",
-      "country": "South Africa",
-      "terms": [
-        "honour",
-        "parade",
-        "sandf",
-        "day",
-        "military",
-        "women"
-      ],
-      "domains": [
-        "sanews.gov.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "SANDF to honour women in the military with Women Day Parade",
-          "url": "https://www.sanews.gov.za/south-africa/sandf-honour-women-military-womens-day-parade",
-          "domain": "sanews.gov.za",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -11131,35 +9659,6 @@
         }
       ]
     },
-    "south-africa:centcom-claim-hormuz": {
-      "id": "south-africa:centcom-claim-hormuz",
-      "country": "South Africa",
-      "terms": [
-        "centcom",
-        "strait",
-        "claim",
-        "irgc",
-        "hormuz",
-        "rejects"
-      ],
-      "domains": [
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "US CENTCOM rejects IRGC claim of strikes in Strait of Hormuz as",
-          "url": "http://www.africaleader.com/news/279275816/us-centcom-rejects-irgc-claim-of-strikes-in-strait-of-hormuz-as-act-of-aggression",
-          "domain": "africaleader.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:bank-central-dutch": {
       "id": "south-africa:bank-central-dutch",
       "country": "South Africa",
@@ -11248,68 +9747,6 @@
           "url": "https://www.businessday.co.za/companies/2026-09-05-exxaro-to-buy-anglo-stake-in-australian-coal-project-sell-it-to-stanmore/",
           "domain": "businessday.co.za",
           "date": "2026-09-05"
-        }
-      ]
-    },
-    "south-africa:ena-ethena-leave": {
-      "id": "south-africa:ena-ethena-leave",
-      "country": "South Africa",
-      "terms": [
-        "ena",
-        "ethena",
-        "paid",
-        "surged",
-        "vcs",
-        "leave",
-        "month"
-      ],
-      "domains": [
-        "memeburn.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Ethena Paid Its VCs to Leave ENA Surged 84 % in a Month",
-          "url": "https://memeburn.com/ethena-ena-buyback-vc-unlock-surge/",
-          "domain": "memeburn.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
-    "south-africa:attack-case-china": {
-      "id": "south-africa:attack-case-china",
-      "country": "South Africa",
-      "terms": [
-        "invades",
-        "penghu",
-        "islands",
-        "taiwan",
-        "attack",
-        "china",
-        "case",
-        "first"
-      ],
-      "domains": [
-        "africaleader.com",
-        "philippinetimes.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "In case China invades Taiwan , it could attack Penghu Islands first",
-          "url": "http://www.africaleader.com/news/279271864/taiwan-s-penghu-islands-could-face-first-wave-of-chinese-attack",
-          "domain": "africaleader.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -11509,64 +9946,6 @@
         }
       ]
     },
-    "south-africa:chinese-chips-model": {
-      "id": "south-africa:chinese-chips-model",
-      "country": "South Africa",
-      "terms": [
-        "chips",
-        "nobody",
-        "noticed",
-        "secret",
-        "model",
-        "chinese",
-        "ran"
-      ],
-      "domains": [
-        "memeburn.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Z . AI Secret AI Model Ran on Chinese Chips Nobody Noticed",
-          "url": "https://memeburn.com/zai-glm-53-flash-chinese-chips-ai/",
-          "domain": "memeburn.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
-    "south-africa:consumers-diesel-pay": {
-      "id": "south-africa:consumers-diesel-pay",
-      "country": "South Africa",
-      "terms": [
-        "consumers",
-        "diesel",
-        "pay",
-        "petrol",
-        "september"
-      ],
-      "domains": [
-        "businessday.co.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Consumers to pay more for petrol and diesel from September 2",
-          "url": "https://www.businessday.co.za/economy/2026-08-31-consumers-to-pay-more-for-petrol-and-diesel-from-september-2/",
-          "domain": "businessday.co.za",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:back-bitcoin-move": {
       "id": "south-africa:back-bitcoin-move",
       "country": "South Africa",
@@ -11687,67 +10066,6 @@
           "url": "https://www.businessday.co.za/companies/2026-09-01-growthpoints-r75m-walmer-park-redevelopment-enters-final-phase/",
           "domain": "businessday.co.za",
           "date": "2026-09-01"
-        }
-      ]
-    },
-    "south-africa:cheap-communication-hurts": {
-      "id": "south-africa:cheap-communication-hurts",
-      "country": "South Africa",
-      "terms": [
-        "cheap",
-        "hurts",
-        "incomes",
-        "telco",
-        "communication",
-        "icasa",
-        "push"
-      ],
-      "domains": [
-        "businessday.co.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Icasa push for cheap communication hurts telco incomes",
-          "url": "https://www.businessday.co.za/companies/2026-08-31-icasas-push-for-cheap-communication-hurts-telco-incomes/",
-          "domain": "businessday.co.za",
-          "date": "2026-08-31"
-        }
-      ]
-    },
-    "south-africa:found-impact-month": {
-      "id": "south-africa:found-impact-month",
-      "country": "South Africa",
-      "terms": [
-        "impact",
-        "phiyega",
-        "riah",
-        "villages",
-        "found",
-        "rural",
-        "real",
-        "month"
-      ],
-      "domains": [
-        "sowetan.co.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "RIAH PHIYEGA | The real impact of Women Month is found in rural villages",
-          "url": "https://www.sowetan.co.za/opinion/columnists/2026-08-31-riah-phiyega-the-real-impact-of-womens-month-is-found-in-rural-villages/",
-          "domain": "sowetan.co.za",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -11958,34 +10276,6 @@
         }
       ]
     },
-    "south-africa:accused-department-labour": {
-      "id": "south-africa:accused-department-labour",
-      "country": "South Africa",
-      "terms": [
-        "department",
-        "sweatshops",
-        "labour",
-        "shielding",
-        "accused"
-      ],
-      "domains": [
-        "groundup.org.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Labour department accused of shielding sweatshops",
-          "url": "https://groundup.org.za/article/clothing-bargaining-council-takes-labour-department-to-court-over-newcastle-factories/",
-          "domain": "groundup.org.za",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:control-dlss-games": {
       "id": "south-africa:control-dlss-games",
       "country": "South Africa",
@@ -12016,65 +10306,6 @@
         }
       ]
     },
-    "south-africa:catalysts-eth-ethereum": {
-      "id": "south-africa:catalysts-eth-ethereum",
-      "country": "South Africa",
-      "terms": [
-        "catalysts",
-        "eth",
-        "ethereum",
-        "prediction",
-        "price"
-      ],
-      "domains": [
-        "memeburn.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "ETH Price Prediction 2026 : 7 Catalysts for Ethereum",
-          "url": "https://memeburn.com/eth-price-prediction-2026-7-catalysts-for-ethereum/",
-          "domain": "memeburn.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
-    "south-africa:fuel-oil-pain": {
-      "id": "south-africa:fuel-oil-pain",
-      "country": "South Africa",
-      "terms": [
-        "pain",
-        "pays",
-        "pump",
-        "r56bn",
-        "shock",
-        "fuel",
-        "petrol",
-        "oil"
-      ],
-      "domains": [
-        "businessday.co.za"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Petrol pump pain : SA pays R56bn more for fuel after oil shock",
-          "url": "https://www.businessday.co.za/news/2026-08-31-sa-pays-r56bn-more-for-fuel-after-oil-shock/",
-          "domain": "businessday.co.za",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:ameu-crime-president": {
       "id": "south-africa:ameu-crime-president",
       "country": "South Africa",
@@ -12100,34 +10331,6 @@
           "url": "https://www.esi-africa.com/industry-sectors/asset-maintenance/ameu-president-solar-crime-draining-municipal-revenue/",
           "domain": "esi-africa.com",
           "date": "2026-09-04"
-        }
-      ]
-    },
-    "south-africa:000mah-batteries-hitting": {
-      "id": "south-africa:000mah-batteries-hitting",
-      "country": "South Africa",
-      "terms": [
-        "000mah",
-        "batteries",
-        "hitting",
-        "suddenly",
-        "phone"
-      ],
-      "domains": [
-        "memeburn.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Why Phone Batteries Are Suddenly Hitting 8 , 000mAh in 2026",
-          "url": "https://memeburn.com/why-phone-batteries-are-suddenly-hitting-8000mah-in-2026/",
-          "domain": "memeburn.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -12252,62 +10455,6 @@
         }
       ]
     },
-    "south-africa:authority-autonomous-control": {
-      "id": "south-africa:authority-autonomous-control",
-      "country": "South Africa",
-      "terms": [
-        "authority",
-        "autonomous",
-        "control",
-        "should"
-      ],
-      "domains": [
-        "africabusiness.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "AI Authority : Who Should Control Autonomous AI ?",
-          "url": "https://africabusiness.com/2026/08/31/ai-authority-human-oversight-african-businesses/",
-          "domain": "africabusiness.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
-    "south-africa:cant-cheaters-detect": {
-      "id": "south-africa:cant-cheaters-detect",
-      "country": "South Africa",
-      "terms": [
-        "cheaters",
-        "detect",
-        "education",
-        "statistics",
-        "cant",
-        "university"
-      ],
-      "domains": [
-        "memeburn.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "AI in Education Statistics 2026 : University Cant Detect AI Cheaters",
-          "url": "https://memeburn.com/ai-in-education-statistics/",
-          "domain": "memeburn.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "south-africa:nasty-unbothered-unsigned": {
       "id": "south-africa:nasty-unbothered-unsigned",
       "country": "South Africa",
@@ -12374,40 +10521,6 @@
           "url": "http://www.philippinetimes.com/news/279288452/us-hits-three-iranian-tankers-one-near-kharg",
           "domain": "philippinetimes.com",
           "date": "2026-09-06"
-        }
-      ]
-    },
-    "philippines:bulacan-corruption-floods": {
-      "id": "philippines:bulacan-corruption-floods",
-      "country": "Philippines",
-      "terms": [
-        "bulacan",
-        "corruption",
-        "floods",
-        "hundreds",
-        "through"
-      ],
-      "domains": [
-        "philstar.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Hundreds march through Bulacan floods in protest vs corruption",
-          "url": "https://www.philstar.com/headlines/2026/08/31/2553081/hundreds-march-through-bulacan-floods-protest-vs-corruption",
-          "domain": "philstar.com",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Hundreds march through Bulacan floods in protest vs corruption",
-          "url": "https://www.philstar.com/headlines/2026/08/31/2553081/hundreds-march-through-bulacan-floods-protest-vs-corruption",
-          "domain": "philstar.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -12973,43 +11086,6 @@
           "url": "https://www.manilatimes.net/2026/09/05/opinion/columns/seeing-through-the-davidson-deceit/2418823",
           "domain": "manilatimes.net",
           "date": "2026-09-04"
-        }
-      ]
-    },
-    "philippines:acceptance-alvotech-application": {
-      "id": "philippines:acceptance-alvotech-application",
-      "country": "Philippines",
-      "terms": [
-        "acceptance",
-        "alvotech",
-        "application",
-        "avt80",
-        "biologics",
-        "biosimilar",
-        "entyvio",
-        "expanding"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Alvotech announces FDA acceptance for review of Biologics License Application for AVT80 , expanding proposed biosimilar program for Entyvio® to subcutaneous presentations",
-          "url": "https://www.manilatimes.net/2026/08/31/tmt-newswire/globenewswire/alvotech-announces-fda-acceptance-for-review-of-biologics-license-application-for-avt80-expanding-proposed-biosimilar-program-for-entyvio-to-subcutaneous-presentations/2414917",
-          "domain": "manilatimes.net",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Alvotech announces FDA acceptance for review of Biologics License Application for AVT80 , expanding proposed biosimilar program for Entyvio® to subcutaneous presentations",
-          "url": "https://www.manilatimes.net/2026/08/31/tmt-newswire/globenewswire/alvotech-announces-fda-acceptance-for-review-of-biologics-license-application-for-avt80-expanding-proposed-biosimilar-program-for-entyvio-to-subcutaneous-presentations/2414917",
-          "domain": "manilatimes.net",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -14027,44 +12103,6 @@
         }
       ]
     },
-    "philippines:binance-crypto-ethereum": {
-      "id": "philippines:binance-crypto-ethereum",
-      "country": "Philippines",
-      "terms": [
-        "binance",
-        "pepeto",
-        "while",
-        "ethereum",
-        "listing",
-        "prediction",
-        "crypto",
-        "final",
-        "steps"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Crypto News : Pepeto Announces Final Steps of Binance Listing While Ethereum Price Prediction Targets $60 , 000",
-          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/crypto-news-pepeto-announces-final-steps-of-binance-listing-while-ethereum-price-prediction-targets-60000/2415392",
-          "domain": "manilatimes.net",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Crypto News : Pepeto Announces Final Steps of Binance Listing While Ethereum Price Prediction Targets $60 , 000",
-          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/crypto-news-pepeto-announces-final-steps-of-binance-listing-while-ethereum-price-prediction-targets-60000/2415392",
-          "domain": "manilatimes.net",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "philippines:begin-bill-consultations": {
       "id": "philippines:begin-bill-consultations",
       "country": "Philippines",
@@ -14628,45 +12666,6 @@
         }
       ]
     },
-    "philippines:automatic-company-helps": {
-      "id": "philippines:automatic-company-helps",
-      "country": "Philippines",
-      "terms": [
-        "automatic",
-        "helps",
-        "prepare",
-        "professionals",
-        "rodenticides",
-        "company",
-        "pest",
-        "trap",
-        "control",
-        "future"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Automatic Trap Company Helps Pest - Control Professionals Prepare for a Future Beyond Rodenticides",
-          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/automatic-trap-company-helps-pest-control-professionals-prepare-for-a-future-beyond-rodenticides/2415385",
-          "domain": "manilatimes.net",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Automatic Trap Company Helps Pest - Control Professionals Prepare for a Future Beyond Rodenticides",
-          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/automatic-trap-company-helps-pest-control-professionals-prepare-for-a-future-beyond-rodenticides/2415385",
-          "domain": "manilatimes.net",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "philippines:energy-globally-market": {
       "id": "philippines:energy-globally-market",
       "country": "Philippines",
@@ -14786,40 +12785,6 @@
           "url": "https://www.manilatimes.net/2026/09/03/tmt-newswire/pr-newswire/lg-electronics-showcases-expanded-ai-home-ecosystem-for-european-lifestyles-at-ifa-2026/2417578",
           "domain": "manilatimes.net",
           "date": "2026-09-03"
-        }
-      ]
-    },
-    "philippines:annual-apollo-consolidated": {
-      "id": "philippines:annual-apollo-consolidated",
-      "country": "Philippines",
-      "terms": [
-        "annual",
-        "apollo",
-        "consolidated",
-        "report",
-        "group"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Apollo Group OÜ 2025 / 2026 Consolidated Annual Report",
-          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/apollo-group-ou-20252026-consolidated-annual-report/2415425",
-          "domain": "manilatimes.net",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Apollo Group OÜ 2025 / 2026 Consolidated Annual Report",
-          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/apollo-group-ou-20252026-consolidated-annual-report/2415425",
-          "domain": "manilatimes.net",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -15502,45 +13467,6 @@
         }
       ]
     },
-    "philippines:activate-hall-housing": {
-      "id": "philippines:activate-hall-housing",
-      "country": "Philippines",
-      "terms": [
-        "activate",
-        "hall",
-        "housing",
-        "mayoral",
-        "tang",
-        "toronto",
-        "vacant",
-        "weizhen",
-        "crisis",
-        "race"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Weizhen Tang Enters Third Toronto Mayoral Race With Plan to Activate Vacant Housing and Address City Hall  Execution Crisis",
-          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/weizhen-tang-enters-third-toronto-mayoral-race-with-plan-to-activate-vacant-housing-and-address-city-halls-execution-crisis/2415421",
-          "domain": "manilatimes.net",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Weizhen Tang Enters Third Toronto Mayoral Race With Plan to Activate Vacant Housing and Address City Hall  Execution Crisis",
-          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/weizhen-tang-enters-third-toronto-mayoral-race-with-plan-to-activate-vacant-housing-and-address-city-halls-execution-crisis/2415421",
-          "domain": "manilatimes.net",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "philippines:former-judge-like": {
       "id": "philippines:former-judge-like",
       "country": "Philippines",
@@ -15984,98 +13910,6 @@
         }
       ]
     },
-    "philippines:countries-linked-owe": {
-      "id": "philippines:countries-linked-owe",
-      "country": "Philippines",
-      "terms": [
-        "linked",
-        "owe",
-        "slave",
-        "countries",
-        "reparations",
-        "trade"
-      ],
-      "domains": [
-        "philippinetimes.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Countries linked to slave trade owe reparations UN",
-          "url": "http://www.philippinetimes.com/news/279276728/countries-linked-to-slave-trade-owe-reparations-un",
-          "domain": "philippinetimes.com",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Countries linked to slave trade owe reparations UN",
-          "url": "http://www.philippinetimes.com/news/279276728/countries-linked-to-slave-trade-owe-reparations-un",
-          "domain": "philippinetimes.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
-    "philippines:arctic-article-driving": {
-      "id": "philippines:arctic-article-driving",
-      "country": "Philippines",
-      "terms": [
-        "arctic",
-        "article",
-        "lavrov",
-        "militarization",
-        "nato",
-        "full",
-        "toward",
-        "driving"
-      ],
-      "domains": [
-        "philippinetimes.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "NATO driving the Arctic toward militarization Lavrov ( FULL ARTICLE )",
-          "url": "http://www.philippinetimes.com/news/279275647/nato-driving-the-arctic-toward-militarization-lavrov-full-article",
-          "domain": "philippinetimes.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
-    "philippines:archives-governance-mindanews": {
-      "id": "philippines:archives-governance-mindanews",
-      "country": "Philippines",
-      "terms": [
-        "archives",
-        "mindanews",
-        "governance"
-      ],
-      "domains": [
-        "mindanews.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Governance Archives – MindaNews",
-          "url": "https://mindanews.com/category/governance/",
-          "domain": "mindanews.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "philippines:anniversary-communities-ihl": {
       "id": "philippines:anniversary-communities-ihl",
       "country": "Philippines",
@@ -16108,43 +13942,6 @@
           "url": "https://www.bulatlat.com/2026/09/03/southern-tagalog-communities-call-for-justice-on-ihl-anniversary/",
           "domain": "bulatlat.com",
           "date": "2026-09-03"
-        }
-      ]
-    },
-    "philippines:driving-highlights-ip67": {
-      "id": "philippines:driving-highlights-ip67",
-      "country": "Philippines",
-      "terms": [
-        "ip67",
-        "powertrain",
-        "rainy",
-        "rated",
-        "vinfast",
-        "highlights",
-        "season",
-        "driving"
-      ],
-      "domains": [
-        "gadgetsmagazine.com.ph"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "VinFast highlights VF 6 IP67 - rated powertrain for rainy - season driving",
-          "url": "https://gadgetsmagazine.com.ph/mobility/cars/vinfast-vf-6-philippines",
-          "domain": "gadgetsmagazine.com.ph",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "VinFast highlights VF 6 IP67 - rated powertrain for rainy - season driving",
-          "url": "https://gadgetsmagazine.com.ph/mobility/cars/vinfast-vf-6-philippines",
-          "domain": "gadgetsmagazine.com.ph",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -16459,36 +14256,6 @@
           "url": "https://www.freepressjournal.in/mumbai/vasai-virar-bjp-councillors-walk-out-of-health-committee-meeting-over-alleged-agenda-procedure-violations",
           "domain": "freepressjournal.in",
           "date": "2026-09-09"
-        }
-      ]
-    },
-    "india:appearance-finance-g20": {
-      "id": "india:appearance-finance-g20",
-      "country": "India",
-      "terms": [
-        "appearance",
-        "makes",
-        "unexpected",
-        "russian",
-        "g20",
-        "finance",
-        "minister"
-      ],
-      "domains": [
-        "hindustantimes.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Russian finance minister makes unexpected appearance at G20",
-          "url": "https://www.hindustantimes.com/world-news/us-news/russian-finance-minister-makes-unexpected-appearance-at-g20-101788202504855.html",
-          "domain": "hindustantimes.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -17949,60 +15716,6 @@
         }
       ]
     },
-    "india:act-ban-everyone": {
-      "id": "india:act-ban-everyone",
-      "country": "India",
-      "terms": [
-        "everyone",
-        "responsibly",
-        "expect",
-        "ban",
-        "sep",
-        "act",
-        "refuses",
-        "bench",
-        "cji",
-        "kant",
-        "surya",
-        "prohibit",
-        "led",
-        "everybody",
-        "manner",
-        "responsible",
-        "sept"
-      ],
-      "domains": [
-        "business-standard.com",
-        "deccanchronicle.com",
-        "tribuneindia.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Expect everyone to act responsibly : SC refuses to ban CJP march on Sep 5",
-          "url": "https://www.business-standard.com/india-news/expect-everyone-to-act-responsibly-sc-refuses-to-ban-cjp-s-march-on-sep-5-126083100523_1.html",
-          "domain": "business-standard.com",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "CJI Surya Kant - led SC Bench Refuses to Prohibit CJP Sep 5 Protest",
-          "url": "https://www.deccanchronicle.com/legalnews/cji-surya-kant-led-sc-bench-refuses-to-prohibit-cjps-sep-5-protest-1983695",
-          "domain": "deccanchronicle.com",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Expect everybody to act in responsible manner : SC refuses to prohibit CJP Sept 5 protest march",
-          "url": "https://www.tribuneindia.com/news/india/expect-everybody-to-act-in-responsible-manner-sc-refuses-to-prohibit-cjps-sept-5-protest-march/",
-          "domain": "tribuneindia.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "india:considers-constitution-indresh": {
       "id": "india:considers-constitution-indresh",
       "country": "India",
@@ -18256,37 +15969,6 @@
           "url": "https://www.hindustantimes.com/world-news/uss-abraham-lincoln-with-5000-sailors-on-board-arrives-in-thailand-after-middle-east-deployment-101788324148288.html",
           "domain": "hindustantimes.com",
           "date": "2026-09-02"
-        }
-      ]
-    },
-    "india:accuses-gandhi-himachal": {
-      "id": "india:accuses-gandhi-himachal",
-      "country": "India",
-      "terms": [
-        "pradesh",
-        "sukhu",
-        "suppressing",
-        "himachal",
-        "opposition",
-        "voice",
-        "accuses",
-        "gandhi"
-      ],
-      "domains": [
-        "news.webindia123.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Himachal Pradesh : CM Sukhu accuses BJP of suppressing opposition voice ; protests FIR against Rahul Gandhi",
-          "url": "https://news.webindia123.com/news/Articles/India/20260831/4493000.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -18580,36 +16262,6 @@
         }
       ]
     },
-    "india:city-crumbling-man": {
-      "id": "india:city-crumbling-man",
-      "country": "India",
-      "terms": [
-        "crumbling",
-        "pothole",
-        "roads",
-        "sits",
-        "man",
-        "old",
-        "city"
-      ],
-      "domains": [
-        "timesofindia.indiatimes.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Man sits in pothole to protest crumbling Old City roads",
-          "url": "https://timesofindia.indiatimes.com/city/hyderabad/man-sits-in-pothole-to-protest-crumbling-old-city-roads/articleshow/133661792.cms",
-          "domain": "timesofindia.indiatimes.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "india:kolkata-mob-newspaper": {
       "id": "india:kolkata-mob-newspaper",
       "country": "India",
@@ -18827,33 +16479,6 @@
           "url": "https://aninews.in/news/national/politics/growing-threats-to-constitution-people-demanding-change-cpi-to-hold-badlaav-zaroori-hai-rally-at-delhis-ramlila-maidan-today20260901115247/",
           "domain": "aninews.in",
           "date": "2026-09-01"
-        }
-      ]
-    },
-    "india:chalo-deployment-heavy": {
-      "id": "india:chalo-deployment-heavy",
-      "country": "India",
-      "terms": [
-        "heavy",
-        "puttur",
-        "deployment",
-        "chalo"
-      ],
-      "domains": [
-        "ibcworldnews.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Puttur Chalo  rally , heavy police deployment",
-          "url": "https://ibcworldnews.com/2026/08/31/puttur-chalo-rally-heavy-police-deployment/",
-          "domain": "ibcworldnews.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -19213,48 +16838,6 @@
         }
       ]
     },
-    "india:aap-accuses-bhatia": {
-      "id": "india:aap-accuses-bhatia",
-      "country": "India",
-      "terms": [
-        "bhatia",
-        "gaurav",
-        "repressive",
-        "aap",
-        "employees",
-        "punjab",
-        "protesting",
-        "accuses",
-        "double",
-        "standards",
-        "action",
-        "govt"
-      ],
-      "domains": [
-        "aninews.in",
-        "ianslive.in"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "BJP Gaurav Bhatia accuses AAP govt in Punjab of repressive action against protesting employees",
-          "url": "https://aninews.in/news/national/politics/bjps-gaurav-bhatia-accuses-aaps-govt-in-punjab-of-repressive-action-against-protesting-employees20260831145616/",
-          "domain": "aninews.in",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "BJP accuses Punjab govt of double standards over action against protesting employees",
-          "url": "https://ianslive.in/expose-double-standards-bjp-on-aap-led-punjab-govts-action-against-protesting-employees--20260831151942",
-          "domain": "ianslive.in",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "india:allied-health-monthly": {
       "id": "india:allied-health-monthly",
       "country": "India",
@@ -19431,38 +17014,6 @@
           "url": "https://www.thenewsminute.com/tamil-nadu/neet-victims-remembrance-event-held-at-chennai-beach-despite-police-denying-permission",
           "domain": "thenewsminute.com",
           "date": "2026-09-02"
-        }
-      ]
-    },
-    "india:activists-baloch-disappearances": {
-      "id": "india:activists-baloch-disappearances",
-      "country": "India",
-      "terms": [
-        "baloch",
-        "disappearances",
-        "enforced",
-        "pashtun",
-        "persist",
-        "sindhi",
-        "london",
-        "activists"
-      ],
-      "domains": [
-        "news.webindia123.com",
-        "aninews.in"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Enforced disappearances persist as Sindhi , Baloch , Pashtun activists protest in London",
-          "url": "https://news.webindia123.com/news/Articles/World/20260831/4492748.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -20424,37 +17975,6 @@
         }
       ]
     },
-    "india:agitating-chandigarh-functionary": {
-      "id": "india:agitating-chandigarh-functionary",
-      "country": "India",
-      "terms": [
-        "agitating",
-        "chandigarh",
-        "functionary",
-        "medal",
-        "replies",
-        "transfers",
-        "like",
-        "group"
-      ],
-      "domains": [
-        "timesofindia.indiatimes.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Punjab transfers agitating group functionary ; like a medal , he replies | Chandigarh News",
-          "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-transfers-agitating-groups-functionary-like-a-medal-he-replies/articleshow/133661504.cms",
-          "domain": "timesofindia.indiatimes.com",
-          "date": "2026-08-31"
-        }
-      ]
-    },
     "india:activist-attack-need": {
       "id": "india:activist-attack-need",
       "country": "India",
@@ -20709,37 +18229,6 @@
           "url": "https://dailypioneer.com/news/congress-recalls-bharat-jodo-yatra-fourth-anniversary",
           "domain": "dailypioneer.com",
           "date": "2026-09-07"
-        }
-      ]
-    },
-    "india:burial-dispute-disturbing": {
-      "id": "india:burial-dispute-disturbing",
-      "country": "India",
-      "terms": [
-        "burial",
-        "disturbing",
-        "dumped",
-        "exhumed",
-        "gwalior",
-        "site",
-        "dispute",
-        "front"
-      ],
-      "domains": [
-        "freepressjournal.in"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "Disturbing ! 3 - Month - Old Girl Body Exhumed , Dumped In Front Of Family Home Over Burial Site Dispute In Gwalior",
-          "url": "https://www.freepressjournal.in/bhopal/disturbing-3-month-old-girls-body-exhumed-dumped-in-front-of-familys-home-over-burial-site-dispute-in-gwalior",
-          "domain": "freepressjournal.in",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -21884,37 +19373,6 @@
           "url": "https://www.prokerala.com/news/articles/a1808664.html",
           "domain": "prokerala.com",
           "date": "2026-09-05"
-        }
-      ]
-    },
-    "india:deepak-fir-gym": {
-      "id": "india:deepak-fir-gym",
-      "country": "India",
-      "terms": [
-        "deepak",
-        "gym",
-        "kotdwar",
-        "mohammad",
-        "operator",
-        "proceedings",
-        "stays",
-        "fir"
-      ],
-      "domains": [
-        "deccanchronicle.com"
-      ],
-      "daysSeen": [
-        "2026-08-31"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "samples": [
-        {
-          "title": "SC Stays Proceedings in FIR Against Kotdwar Gym Operator Mohammad Deepak",
-          "url": "https://www.deccanchronicle.com/legalnews/sc-stays-proceedings-in-fir-against-kotdwar-gym-operator-mohammad-deepak-1983693",
-          "domain": "deccanchronicle.com",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -43391,7 +40849,7 @@
       "daysSeen": [
         "2026-09-20"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-20",
       "lastSeen": "2026-09-20",
       "samples": [
@@ -43400,6 +40858,43 @@
           "url": "https://www.metrotvnews.com/read/kBVCMY59-demo-anti-imigrasi-di-belanda-ricuh-polisi-bubarkan-ratusan-pengunjuk-rasa",
           "domain": "metrotvnews.com",
           "date": "2026-09-20"
+        },
+        {
+          "title": "Demo Anti - Imigrasi di Belanda Ricuh , Polisi Bubarkan Ratusan Pengunjuk Rasa",
+          "url": "https://www.metrotvnews.com/read/kBVCMY59-demo-anti-imigrasi-di-belanda-ricuh-polisi-bubarkan-ratusan-pengunjuk-rasa",
+          "domain": "metrotvnews.com",
+          "date": "2026-09-20"
+        }
+      ]
+    },
+    "indonesia:berlanjut-gerbang-kampus": {
+      "id": "indonesia:berlanjut-gerbang-kampus",
+      "country": "Indonesia",
+      "terms": [
+        "berlanjut",
+        "gerbang",
+        "kampus",
+        "mahasiswa",
+        "mundur",
+        "rektor",
+        "segel",
+        "surabaya"
+      ],
+      "domains": [
+        "beritajatim.com"
+      ],
+      "daysSeen": [
+        "2026-09-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "samples": [
+        {
+          "title": "Demo UINSA Surabaya Berlanjut , Mahasiswa Segel Gerbang Kampus dan Tuntut Rektor Mundur",
+          "url": "https://beritajatim.com/demo-uinsa-surabaya-berlanjut-mahasiswa-segel-gerbang-kampus-dan-tuntut-rektor-mundur",
+          "domain": "beritajatim.com",
+          "date": "2026-09-21"
         }
       ]
     }
