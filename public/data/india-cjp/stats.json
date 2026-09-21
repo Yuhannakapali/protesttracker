@@ -31,13 +31,13 @@
     },
     {
       "start": "2026-09-01",
-      "count": 359
+      "count": 362
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 96,
+      "count": 97,
       "first": "2026-06-06",
       "last": "2026-09-21"
     },
@@ -210,6 +210,12 @@
       "last": "2026-09-06"
     },
     {
+      "name": "Telangana Today",
+      "count": 10,
+      "first": "2026-08-02",
+      "last": "2026-09-21"
+    },
+    {
       "name": "The Tribune",
       "count": 10,
       "first": "2026-08-15",
@@ -220,12 +226,6 @@
       "count": 9,
       "first": "2026-07-24",
       "last": "2026-09-17"
-    },
-    {
-      "name": "Telangana Today",
-      "count": 9,
-      "first": "2026-08-02",
-      "last": "2026-09-04"
     },
     {
       "name": "The Statesman",
@@ -294,6 +294,12 @@
       "last": "2026-09-04"
     },
     {
+      "name": "The Hans India",
+      "count": 6,
+      "first": "2026-07-23",
+      "last": "2026-09-07"
+    },
+    {
       "name": "Bar and Bench",
       "count": 5,
       "first": "2026-08-07",
@@ -310,18 +316,6 @@
       "count": 5,
       "first": "2026-08-23",
       "last": "2026-09-15"
-    },
-    {
-      "name": "National Herald",
-      "count": 5,
-      "first": "2026-08-19",
-      "last": "2026-09-09"
-    },
-    {
-      "name": "The Hans India",
-      "count": 5,
-      "first": "2026-08-19",
-      "last": "2026-09-07"
     },
     {
       "name": "Times Now",
@@ -348,6 +342,12 @@
       "last": "2026-08-11"
     },
     {
+      "name": "National Herald",
+      "count": 4,
+      "first": "2026-08-19",
+      "last": "2026-09-09"
+    },
+    {
       "name": "Odisha TV",
       "count": 4,
       "first": "2026-08-17",
@@ -358,12 +358,6 @@
       "count": 4,
       "first": "2026-08-17",
       "last": "2026-09-05"
-    },
-    {
-      "name": "Supreme Court Observer",
-      "count": 4,
-      "first": "2026-08-18",
-      "last": "2026-09-16"
     },
     {
       "name": "Alt News",
@@ -414,6 +408,12 @@
       "last": "2026-07-30"
     },
     {
+      "name": "scobserver.in",
+      "count": 3,
+      "first": "2026-08-18",
+      "last": "2026-09-16"
+    },
+    {
       "name": "The Federal",
       "count": 3,
       "first": "2026-07-05",
@@ -430,6 +430,12 @@
       "count": 3,
       "first": "2026-08-18",
       "last": "2026-09-17"
+    },
+    {
+      "name": "The Siasat Daily",
+      "count": 3,
+      "first": "2026-09-04",
+      "last": "2026-09-11"
     },
     {
       "name": "thepamphlet.in",
@@ -624,18 +630,6 @@
       "last": "2026-08-29"
     },
     {
-      "name": "The Shillong Times",
-      "count": 2,
-      "first": "2026-08-11",
-      "last": "2026-09-21"
-    },
-    {
-      "name": "The Siasat Daily",
-      "count": 2,
-      "first": "2026-09-04",
-      "last": "2026-09-04"
-    },
-    {
       "name": "The South First",
       "count": 2,
       "first": "2026-09-01",
@@ -646,12 +640,6 @@
       "count": 2,
       "first": "2026-07-22",
       "last": "2026-08-25"
-    },
-    {
-      "name": "Time Magazine",
-      "count": 2,
-      "first": "2026-07-22",
-      "last": "2026-08-01"
     },
     {
       "name": "True Scoop",
@@ -732,12 +720,6 @@
       "last": "2026-08-23"
     },
     {
-      "name": "cfr.org",
-      "count": 1,
-      "first": "2026-07-31",
-      "last": "2026-07-31"
-    },
-    {
       "name": "Cityairnews",
       "count": 1,
       "first": "2026-09-17",
@@ -748,6 +730,12 @@
       "count": 1,
       "first": "2026-08-04",
       "last": "2026-08-04"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "count": 1,
+      "first": "2026-07-31",
+      "last": "2026-07-31"
     },
     {
       "name": "cpiml.org",
@@ -816,6 +804,12 @@
       "last": "2026-08-24"
     },
     {
+      "name": "FM Bharat",
+      "count": 1,
+      "first": "2026-09-21",
+      "last": "2026-09-21"
+    },
+    {
       "name": "Foej Media",
       "count": 1,
       "first": "2026-08-21",
@@ -852,7 +846,7 @@
       "last": "2026-08-18"
     },
     {
-      "name": "hindusforhumanrights.org",
+      "name": "Hindus for Human Rights",
       "count": 1,
       "first": "2026-07-07",
       "last": "2026-07-07"
@@ -876,7 +870,7 @@
       "last": "2026-07-30"
     },
     {
-      "name": "ishr.ch",
+      "name": "International Service for Human Rights",
       "count": 1,
       "first": "2026-08-14",
       "last": "2026-08-14"
@@ -894,7 +888,7 @@
       "last": "2026-08-30"
     },
     {
-      "name": "Jurist.org",
+      "name": "jurist.org",
       "count": 1,
       "first": "2026-07-23",
       "last": "2026-07-23"
@@ -964,6 +958,12 @@
       "count": 1,
       "first": "2026-09-18",
       "last": "2026-09-18"
+    },
+    {
+      "name": "nationalheraldindia.com",
+      "count": 1,
+      "first": "2026-09-04",
+      "last": "2026-09-04"
     },
     {
       "name": "News On AIR",
@@ -1056,10 +1056,10 @@
       "last": "2026-09-01"
     },
     {
-      "name": "siasat.com",
+      "name": "Supreme Court Observer",
       "count": 1,
-      "first": "2026-09-11",
-      "last": "2026-09-11"
+      "first": "2026-08-25",
+      "last": "2026-08-25"
     },
     {
       "name": "The Borgen Project",
@@ -1122,10 +1122,10 @@
       "last": "2026-08-22"
     },
     {
-      "name": "The Probe",
+      "name": "The Shillong Times",
       "count": 1,
-      "first": "2026-07-30",
-      "last": "2026-07-30"
+      "first": "2026-08-11",
+      "last": "2026-08-11"
     },
     {
       "name": "The Times",
@@ -1146,16 +1146,16 @@
       "last": "2026-09-05"
     },
     {
-      "name": "thehansindia.com",
-      "count": 1,
-      "first": "2026-07-23",
-      "last": "2026-07-23"
-    },
-    {
       "name": "thekashmirimages.com",
       "count": 1,
       "first": "2026-09-04",
       "last": "2026-09-04"
+    },
+    {
+      "name": "theprobe.in",
+      "count": 1,
+      "first": "2026-07-30",
+      "last": "2026-07-30"
     },
     {
       "name": "thepublicworld.com",
@@ -1164,10 +1164,28 @@
       "last": "2026-08-23"
     },
     {
+      "name": "theshillongtimes.com",
+      "count": 1,
+      "first": "2026-09-21",
+      "last": "2026-09-21"
+    },
+    {
       "name": "thestatesman.com",
       "count": 1,
       "first": "2026-09-06",
       "last": "2026-09-06"
+    },
+    {
+      "name": "Time Magazine",
+      "count": 1,
+      "first": "2026-07-22",
+      "last": "2026-07-22"
+    },
+    {
+      "name": "time.com",
+      "count": 1,
+      "first": "2026-08-01",
+      "last": "2026-08-01"
     },
     {
       "name": "tribuneindia.com",
