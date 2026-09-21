@@ -151,7 +151,7 @@
     },
     {
       "start": "2017-12-01",
-      "count": 13
+      "count": 14
     },
     {
       "start": "2018-01-01",
@@ -243,7 +243,7 @@
     },
     {
       "start": "2019-11-01",
-      "count": 19
+      "count": 20
     },
     {
       "start": "2019-12-01",
@@ -383,7 +383,7 @@
     },
     {
       "start": "2022-10-01",
-      "count": 0
+      "count": 1
     },
     {
       "start": "2022-11-01",
@@ -612,6 +612,12 @@
       "last": "2026-09-18"
     },
     {
+      "name": "Infobae",
+      "count": 7,
+      "first": "2017-12-16",
+      "last": "2025-12-04"
+    },
+    {
       "name": "Colegio de Profesores",
       "count": 6,
       "first": "2017-09-26",
@@ -624,10 +630,10 @@
       "last": "2024-08-17"
     },
     {
-      "name": "Infobae",
+      "name": "Universidad de Chile",
       "count": 6,
-      "first": "2017-12-17",
-      "last": "2025-12-04"
+      "first": "2017-04-22",
+      "last": "2023-07-16"
     },
     {
       "name": "Americas Quarterly",
@@ -654,7 +660,7 @@
       "last": "2025-09-23"
     },
     {
-      "name": "SoyChile.cl",
+      "name": "soychile.cl",
       "count": 5,
       "first": "2016-08-10",
       "last": "2019-03-31"
@@ -670,12 +676,6 @@
       "count": 4,
       "first": "2026-04-20",
       "last": "2026-07-15"
-    },
-    {
-      "name": "radio.uchile.cl",
-      "count": 4,
-      "first": "2018-10-24",
-      "last": "2023-07-16"
     },
     {
       "name": "- CIPER Chile",
@@ -718,6 +718,12 @@
       "count": 3,
       "first": "2021-05-27",
       "last": "2022-11-06"
+    },
+    {
+      "name": "Perfil",
+      "count": 3,
+      "first": "2019-11-23",
+      "last": "2024-09-04"
     },
     {
       "name": "Remezcla",
@@ -822,12 +828,6 @@
       "last": "2020-03-11"
     },
     {
-      "name": "Perfil",
-      "count": 2,
-      "first": "2020-01-09",
-      "last": "2024-09-04"
-    },
-    {
       "name": "Pressenza - International Press Agency",
       "count": 2,
       "first": "2015-12-12",
@@ -846,16 +846,10 @@
       "last": "2025-01-29"
     },
     {
-      "name": "South China Morning Post",
+      "name": "Teletrece",
       "count": 2,
-      "first": "2019-10-23",
-      "last": "2022-03-12"
-    },
-    {
-      "name": "t13.cl",
-      "count": 2,
-      "first": "2019-03-31",
-      "last": "2019-10-06"
+      "first": "2019-10-06",
+      "last": "2022-03-31"
     },
     {
       "name": "The Nation Newspaper",
@@ -870,12 +864,6 @@
       "last": "2025-12-04"
     },
     {
-      "name": "Universidad de Chile",
-      "count": 2,
-      "first": "2017-04-22",
-      "last": "2019-03-31"
-    },
-    {
       "name": "VOA - Voice of America English News",
       "count": 2,
       "first": "2019-10-29",
@@ -886,6 +874,12 @@
       "count": 1,
       "first": "2023-05-01",
       "last": "2023-05-01"
+    },
+    {
+      "name": "2025.agmer.org.ar",
+      "count": 1,
+      "first": "2026-06-18",
+      "last": "2026-06-18"
     },
     {
       "name": "7dias.com.do",
@@ -900,7 +894,7 @@
       "last": "2026-07-13"
     },
     {
-      "name": "Acento",
+      "name": "acento.com.do",
       "count": 1,
       "first": "2020-05-27",
       "last": "2020-05-27"
@@ -910,12 +904,6 @@
       "count": 1,
       "first": "2016-09-24",
       "last": "2016-09-24"
-    },
-    {
-      "name": "AGMER",
-      "count": 1,
-      "first": "2026-06-18",
-      "last": "2026-06-18"
     },
     {
       "name": "América TeVé",
@@ -1026,12 +1014,6 @@
       "last": "2026-07-08"
     },
     {
-      "name": "Diario El Día de La Plata",
-      "count": 1,
-      "first": "2017-12-19",
-      "last": "2017-12-19"
-    },
-    {
       "name": "Diario Río Uruguay",
       "count": 1,
       "first": "2026-07-27",
@@ -1090,6 +1072,12 @@
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
+    },
+    {
+      "name": "eldia.com",
+      "count": 1,
+      "first": "2017-12-19",
+      "last": "2017-12-19"
     },
     {
       "name": "elentrerios.com",
@@ -1212,7 +1200,7 @@
       "last": "2019-12-14"
     },
     {
-      "name": "izquierdaweb.com",
+      "name": "Izquierda Web",
       "count": 1,
       "first": "2020-07-16",
       "last": "2020-07-16"
@@ -1266,7 +1254,7 @@
       "last": "2024-12-27"
     },
     {
-      "name": "meganoticias.cl",
+      "name": "Meganoticias",
       "count": 1,
       "first": "2023-07-23",
       "last": "2023-07-23"
@@ -1284,7 +1272,7 @@
       "last": "2019-12-10"
     },
     {
-      "name": "montevideo.com.uy",
+      "name": "Montevideo Portal",
       "count": 1,
       "first": "2023-03-20",
       "last": "2023-03-20"
@@ -1348,6 +1336,12 @@
       "count": 1,
       "first": "2019-10-20",
       "last": "2019-10-20"
+    },
+    {
+      "name": "Periódico EL JAYA",
+      "count": 1,
+      "first": "2022-10-21",
+      "last": "2022-10-21"
     },
     {
       "name": "piensaChile",
@@ -1446,16 +1440,28 @@
       "last": "2025-09-24"
     },
     {
+      "name": "scmp.com",
+      "count": 1,
+      "first": "2019-10-23",
+      "last": "2019-10-23"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 1,
+      "first": "2022-03-12",
+      "last": "2022-03-12"
+    },
+    {
       "name": "Sydney Criminal Lawyers",
       "count": 1,
       "first": "2020-03-17",
       "last": "2020-03-17"
     },
     {
-      "name": "Teletrece",
+      "name": "t13.cl",
       "count": 1,
-      "first": "2022-03-31",
-      "last": "2022-03-31"
+      "first": "2019-03-31",
+      "last": "2019-03-31"
     },
     {
       "name": "The Bogotá Post",
@@ -1542,7 +1548,7 @@
       "last": "2024-09-05"
     },
     {
-      "name": "VICE",
+      "name": "vice.com",
       "count": 1,
       "first": "2019-10-28",
       "last": "2019-10-28"
