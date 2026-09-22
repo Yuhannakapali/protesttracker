@@ -583,7 +583,7 @@
     },
     {
       "name": "The Clinic",
-      "count": 11,
+      "count": 14,
       "first": "2016-07-27",
       "last": "2026-09-21"
     },
@@ -666,7 +666,7 @@
       "last": "2019-03-31"
     },
     {
-      "name": "clarin.com",
+      "name": "Clarin.com",
       "count": 4,
       "first": "2017-12-18",
       "last": "2019-12-24"
@@ -750,12 +750,6 @@
       "last": "2019-11-21"
     },
     {
-      "name": "theclinic.cl",
-      "count": 3,
-      "first": "2017-02-11",
-      "last": "2019-03-31"
-    },
-    {
       "name": "ai-cio.com",
       "count": 2,
       "first": "2020-01-22",
@@ -804,12 +798,6 @@
       "last": "2026-07-29"
     },
     {
-      "name": "hoy.com.do",
-      "count": 2,
-      "first": "2021-09-02",
-      "last": "2023-08-31"
-    },
-    {
       "name": "Interferencia |",
       "count": 2,
       "first": "2019-09-25",
@@ -846,7 +834,7 @@
       "last": "2016-10-16"
     },
     {
-      "name": "Resumen.cl",
+      "name": "resumen.cl",
       "count": 2,
       "first": "2024-08-06",
       "last": "2025-03-21"
@@ -858,16 +846,10 @@
       "last": "2025-01-29"
     },
     {
-      "name": "South China Morning Post",
+      "name": "Teletrece",
       "count": 2,
-      "first": "2019-10-23",
-      "last": "2022-03-12"
-    },
-    {
-      "name": "t13.cl",
-      "count": 2,
-      "first": "2019-03-31",
-      "last": "2019-10-06"
+      "first": "2019-10-06",
+      "last": "2022-03-31"
     },
     {
       "name": "The Nation Newspaper",
@@ -906,7 +888,7 @@
       "last": "2026-07-13"
     },
     {
-      "name": "Acento",
+      "name": "acento.com.do",
       "count": 1,
       "first": "2020-05-27",
       "last": "2020-05-27"
@@ -936,7 +918,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "atacamanoticias.cl",
+      "name": "Atacama Noticias",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
@@ -966,13 +948,13 @@
       "last": "2020-08-09"
     },
     {
-      "name": "Bloomberg.com",
+      "name": "bloomberg.com",
       "count": 1,
       "first": "2019-10-26",
       "last": "2019-10-26"
     },
     {
-      "name": "Business News Nigeria",
+      "name": "businessday.ng",
       "count": 1,
       "first": "2021-09-22",
       "last": "2021-09-22"
@@ -1044,7 +1026,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "diariotalca.cl",
+      "name": "Diario Talca",
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
@@ -1180,6 +1162,18 @@
       "count": 1,
       "first": "2017-03-27",
       "last": "2017-03-27"
+    },
+    {
+      "name": "Hoy Digital",
+      "count": 1,
+      "first": "2023-08-31",
+      "last": "2023-08-31"
+    },
+    {
+      "name": "hoy.com.do",
+      "count": 1,
+      "first": "2021-09-02",
+      "last": "2021-09-02"
     },
     {
       "name": "In These Times",
@@ -1416,7 +1410,7 @@
       "last": "2026-09-16"
     },
     {
-      "name": "Reflexión y Liberación",
+      "name": "reflexionyliberacion.cl",
       "count": 1,
       "first": "2016-11-03",
       "last": "2016-11-03"
@@ -1446,16 +1440,28 @@
       "last": "2025-09-24"
     },
     {
+      "name": "SCMP",
+      "count": 1,
+      "first": "2019-10-23",
+      "last": "2019-10-23"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 1,
+      "first": "2022-03-12",
+      "last": "2022-03-12"
+    },
+    {
       "name": "Sydney Criminal Lawyers",
       "count": 1,
       "first": "2020-03-17",
       "last": "2020-03-17"
     },
     {
-      "name": "Teletrece",
+      "name": "t13.cl",
       "count": 1,
-      "first": "2022-03-31",
-      "last": "2022-03-31"
+      "first": "2019-03-31",
+      "last": "2019-03-31"
     },
     {
       "name": "The Bogotá Post",

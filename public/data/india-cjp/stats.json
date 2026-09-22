@@ -111,7 +111,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 369
+      "count": 370
     }
   ],
   "sources": [
@@ -152,16 +152,16 @@
       "last": "2026-09-17"
     },
     {
-      "name": "The Times of India",
-      "count": 49,
-      "first": "2026-06-06",
-      "last": "2026-09-17"
+      "name": "India Today",
+      "count": 38,
+      "first": "2026-07-15",
+      "last": "2026-09-22"
     },
     {
-      "name": "India Today",
-      "count": 37,
-      "first": "2026-07-15",
-      "last": "2026-09-21"
+      "name": "The Times of India",
+      "count": 36,
+      "first": "2026-06-06",
+      "last": "2026-09-17"
     },
     {
       "name": "ThePrint",
@@ -228,6 +228,12 @@
       "count": 15,
       "first": "2026-08-12",
       "last": "2026-09-04"
+    },
+    {
+      "name": "timesofindia.indiatimes.com",
+      "count": 15,
+      "first": "2026-07-29",
+      "last": "2026-09-17"
     },
     {
       "name": "WION",
@@ -362,7 +368,7 @@
       "last": "2026-09-16"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 6,
       "first": "2026-07-21",
       "last": "2026-08-19"
@@ -372,12 +378,6 @@
       "count": 6,
       "first": "2026-08-16",
       "last": "2026-09-04"
-    },
-    {
-      "name": "The Hans India",
-      "count": 6,
-      "first": "2026-07-23",
-      "last": "2026-09-07"
     },
     {
       "name": "Bar and Bench",
@@ -398,10 +398,10 @@
       "last": "2026-09-15"
     },
     {
-      "name": "National Herald",
+      "name": "The Hans India",
       "count": 5,
       "first": "2026-08-19",
-      "last": "2026-09-09"
+      "last": "2026-09-07"
     },
     {
       "name": "Times Now",
@@ -432,6 +432,12 @@
       "count": 4,
       "first": "2026-09-10",
       "last": "2026-09-22"
+    },
+    {
+      "name": "National Herald",
+      "count": 4,
+      "first": "2026-08-19",
+      "last": "2026-09-09"
     },
     {
       "name": "Odisha TV",
@@ -734,12 +740,6 @@
       "last": "2026-08-01"
     },
     {
-      "name": "timesofindia.indiatimes.com",
-      "count": 2,
-      "first": "2026-09-05",
-      "last": "2026-09-14"
-    },
-    {
       "name": "True Scoop",
       "count": 2,
       "first": "2026-07-23",
@@ -1022,7 +1022,7 @@
       "last": "2026-09-10"
     },
     {
-      "name": "lokmat.com",
+      "name": "Lokmat.com",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
@@ -1062,6 +1062,12 @@
       "count": 1,
       "first": "2026-09-18",
       "last": "2026-09-18"
+    },
+    {
+      "name": "nationalheraldindia.com",
+      "count": 1,
+      "first": "2026-09-04",
+      "last": "2026-09-04"
     },
     {
       "name": "News On AIR",
@@ -1230,6 +1236,12 @@
       "count": 1,
       "first": "2026-09-05",
       "last": "2026-09-05"
+    },
+    {
+      "name": "thehansindia.com",
+      "count": 1,
+      "first": "2026-07-23",
+      "last": "2026-07-23"
     },
     {
       "name": "thekashmirimages.com",
