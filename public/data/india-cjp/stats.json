@@ -111,7 +111,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 368
+      "count": 369
     }
   ],
   "sources": [
@@ -123,7 +123,7 @@
     },
     {
       "name": "NDTV",
-      "count": 63,
+      "count": 64,
       "first": "2026-05-12",
       "last": "2026-09-22"
     },
@@ -362,7 +362,7 @@
       "last": "2026-09-16"
     },
     {
-      "name": "dw.com",
+      "name": "DW.com",
       "count": 6,
       "first": "2026-07-21",
       "last": "2026-08-19"
@@ -476,6 +476,12 @@
       "last": "2026-08-28"
     },
     {
+      "name": "GujaratSamachar English",
+      "count": 3,
+      "first": "2026-08-24",
+      "last": "2026-09-17"
+    },
+    {
       "name": "madhyamamonline.com",
       "count": 3,
       "first": "2026-07-24",
@@ -570,12 +576,6 @@
       "count": 2,
       "first": "2026-08-22",
       "last": "2026-09-01"
-    },
-    {
-      "name": "GujaratSamachar English",
-      "count": 2,
-      "first": "2026-08-24",
-      "last": "2026-09-07"
     },
     {
       "name": "Gulte",
@@ -752,6 +752,12 @@
       "last": "2026-08-21"
     },
     {
+      "name": "Zee News",
+      "count": 2,
+      "first": "2026-07-30",
+      "last": "2026-08-17"
+    },
+    {
       "name": "ACLED",
       "count": 1,
       "first": "2026-07-27",
@@ -782,7 +788,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "britannica.com",
+      "name": "Britannica",
       "count": 1,
       "first": "2026-09-16",
       "last": "2026-09-16"
@@ -888,12 +894,6 @@
       "count": 1,
       "first": "2026-08-22",
       "last": "2026-08-22"
-    },
-    {
-      "name": "english.gujaratsamachar.com",
-      "count": 1,
-      "first": "2026-09-17",
-      "last": "2026-09-17"
     },
     {
       "name": "ETLegalWorld.com",
@@ -1022,7 +1022,7 @@
       "last": "2026-09-10"
     },
     {
-      "name": "Lokmat.com",
+      "name": "lokmat.com",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
@@ -1278,18 +1278,6 @@
       "count": 1,
       "first": "2026-09-02",
       "last": "2026-09-02"
-    },
-    {
-      "name": "Zee News",
-      "count": 1,
-      "first": "2026-08-17",
-      "last": "2026-08-17"
-    },
-    {
-      "name": "zeenews.india.com",
-      "count": 1,
-      "first": "2026-07-30",
-      "last": "2026-07-30"
     },
     {
       "name": "조선일보",

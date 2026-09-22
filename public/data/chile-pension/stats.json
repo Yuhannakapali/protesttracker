@@ -87,7 +87,7 @@
     },
     {
       "start": "2016-08-01",
-      "count": 13
+      "count": 14
     },
     {
       "start": "2016-09-01",
@@ -583,7 +583,7 @@
     },
     {
       "name": "The Clinic",
-      "count": 14,
+      "count": 11,
       "first": "2016-07-27",
       "last": "2026-09-21"
     },
@@ -654,13 +654,19 @@
       "last": "2025-01-15"
     },
     {
+      "name": "NODAL - Noticias de América Latina y el Caribe",
+      "count": 5,
+      "first": "2016-08-19",
+      "last": "2025-09-23"
+    },
+    {
       "name": "SoyChile.cl",
       "count": 5,
       "first": "2016-08-10",
       "last": "2019-03-31"
     },
     {
-      "name": "Clarin.com",
+      "name": "clarin.com",
       "count": 4,
       "first": "2017-12-18",
       "last": "2019-12-24"
@@ -670,6 +676,12 @@
       "count": 4,
       "first": "2026-04-20",
       "last": "2026-07-15"
+    },
+    {
+      "name": "El Desconcierto",
+      "count": 4,
+      "first": "2016-08-05",
+      "last": "2026-08-06"
     },
     {
       "name": "- CIPER Chile",
@@ -702,22 +714,10 @@
       "last": "2022-01-18"
     },
     {
-      "name": "El Desconcierto",
-      "count": 3,
-      "first": "2016-08-21",
-      "last": "2026-08-06"
-    },
-    {
       "name": "Ex-ante",
       "count": 3,
       "first": "2021-05-27",
       "last": "2022-11-06"
-    },
-    {
-      "name": "nodal.am",
-      "count": 3,
-      "first": "2016-08-19",
-      "last": "2025-09-23"
     },
     {
       "name": "Perfil",
@@ -748,6 +748,12 @@
       "count": 3,
       "first": "2019-10-30",
       "last": "2019-11-21"
+    },
+    {
+      "name": "theclinic.cl",
+      "count": 3,
+      "first": "2017-02-11",
+      "last": "2019-03-31"
     },
     {
       "name": "ai-cio.com",
@@ -798,6 +804,12 @@
       "last": "2026-07-29"
     },
     {
+      "name": "hoy.com.do",
+      "count": 2,
+      "first": "2021-09-02",
+      "last": "2023-08-31"
+    },
+    {
       "name": "Interferencia |",
       "count": 2,
       "first": "2019-09-25",
@@ -828,12 +840,6 @@
       "last": "2020-03-11"
     },
     {
-      "name": "NODAL - Noticias de América Latina y el Caribe",
-      "count": 2,
-      "first": "2016-08-26",
-      "last": "2021-04-26"
-    },
-    {
       "name": "Pressenza - International Press Agency",
       "count": 2,
       "first": "2015-12-12",
@@ -852,10 +858,16 @@
       "last": "2025-01-29"
     },
     {
-      "name": "Teletrece",
+      "name": "South China Morning Post",
       "count": 2,
-      "first": "2019-10-06",
-      "last": "2022-03-31"
+      "first": "2019-10-23",
+      "last": "2022-03-12"
+    },
+    {
+      "name": "t13.cl",
+      "count": 2,
+      "first": "2019-03-31",
+      "last": "2019-10-06"
     },
     {
       "name": "The Nation Newspaper",
@@ -924,7 +936,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Atacama Noticias",
+      "name": "atacamanoticias.cl",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
@@ -1032,7 +1044,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Diario Talca",
+      "name": "diariotalca.cl",
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
@@ -1170,18 +1182,6 @@
       "last": "2017-03-27"
     },
     {
-      "name": "Hoy Digital",
-      "count": 1,
-      "first": "2023-08-31",
-      "last": "2023-08-31"
-    },
-    {
-      "name": "hoy.com.do",
-      "count": 1,
-      "first": "2021-09-02",
-      "last": "2021-09-02"
-    },
-    {
       "name": "In These Times",
       "count": 1,
       "first": "2020-02-19",
@@ -1254,7 +1254,7 @@
       "last": "2019-01-24"
     },
     {
-      "name": "malaespinacheck.cl",
+      "name": "Mala Espina",
       "count": 1,
       "first": "2024-12-27",
       "last": "2024-12-27"
@@ -1278,7 +1278,7 @@
       "last": "2019-12-10"
     },
     {
-      "name": "montevideo.com.uy",
+      "name": "Montevideo Portal",
       "count": 1,
       "first": "2023-03-20",
       "last": "2023-03-20"
@@ -1446,28 +1446,16 @@
       "last": "2025-09-24"
     },
     {
-      "name": "SCMP",
-      "count": 1,
-      "first": "2019-10-23",
-      "last": "2019-10-23"
-    },
-    {
-      "name": "South China Morning Post",
-      "count": 1,
-      "first": "2022-03-12",
-      "last": "2022-03-12"
-    },
-    {
       "name": "Sydney Criminal Lawyers",
       "count": 1,
       "first": "2020-03-17",
       "last": "2020-03-17"
     },
     {
-      "name": "t13.cl",
+      "name": "Teletrece",
       "count": 1,
-      "first": "2019-03-31",
-      "last": "2019-03-31"
+      "first": "2022-03-31",
+      "last": "2022-03-31"
     },
     {
       "name": "The Bogotá Post",
