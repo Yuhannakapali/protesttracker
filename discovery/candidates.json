@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T09:01:11.574Z",
+  "generated": "2026-09-22T08:40:28.584Z",
   "candidates": [
     {
       "key": "wd-Q133800245",
@@ -548,8 +548,8 @@
         "Netherlands",
         "Austria",
         "Belgium",
-        "Spain",
-        "United States"
+        "United States",
+        "Spain"
       ],
       "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests",
       "needsName": false,
@@ -771,6 +771,507 @@
         "_source": {
           "wikidata": "Q138514607",
           "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_the_2026_Iran_war_in_the_United_States"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139119805",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Ireland",
+      "countries": [
+        "Ireland"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Irish_fuel_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "ireland-irish-fuel-protests",
+        "name": "2026 Irish fuel protests",
+        "region": "Europe",
+        "location": "Ireland",
+        "year": 2026,
+        "description": "series of nationwide demonstrations in the Republic of Ireland",
+        "keywords": [
+          "irish",
+          "fuel",
+          "ireland",
+          "protest"
+        ],
+        "strictKeywords": [
+          "irish",
+          "fuel"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Irish%20fuel%20protests&hl=en-IE&gl=IE&ceid=IE%3Aen",
+          "https://news.google.com/rss/search?q=Ireland%20protest&hl=en-IE&gl=IE&ceid=IE%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139119805",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Irish_fuel_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139736890",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Iran",
+      "countries": [
+        "Iran"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Iranian_pro-government_rallies",
+      "needsName": false,
+      "suggested": {
+        "id": "iran-iranian-pro-government-rallies",
+        "name": "2026 Iranian pro-government rallies",
+        "region": "Middle East",
+        "location": "Iran",
+        "year": 2026,
+        "description": "Iranian support to their government",
+        "keywords": [
+          "iranian",
+          "pro",
+          "government",
+          "iran",
+          "protest"
+        ],
+        "strictKeywords": [
+          "iranian",
+          "pro",
+          "government"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Iranian%20pro-government%20rallies&hl=en-IR&gl=IR&ceid=IR%3Aen",
+          "https://news.google.com/rss/search?q=Iran%20protest&hl=en-IR&gl=IR&ceid=IR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139736890",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Iranian_pro-government_rallies"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139807452",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Bolivia",
+      "countries": [
+        "Bolivia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Bolivian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "bolivia-bolivian-protests",
+        "name": "2026 Bolivian protests",
+        "region": "Americas",
+        "location": "Bolivia",
+        "year": 2026,
+        "description": "anti-government protests in Bolivia",
+        "keywords": [
+          "bolivian",
+          "bolivia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "bolivian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Bolivian%20protests&hl=en-BO&gl=BO&ceid=BO%3Aen",
+          "https://news.google.com/rss/search?q=Bolivia%20protest&hl=en-BO&gl=BO&ceid=BO%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139807452",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Bolivian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139845774",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United States",
+      "countries": [
+        "United States"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Long_Island_Rail_Road_strike",
+      "needsName": false,
+      "suggested": {
+        "id": "united-states-long-island-rail-road-strike",
+        "name": "2026 Long Island Rail Road strike",
+        "region": "Americas",
+        "location": "United States",
+        "year": 2026,
+        "description": "LIRR industrial action",
+        "keywords": [
+          "long",
+          "island",
+          "rail",
+          "road",
+          "united states",
+          "protest"
+        ],
+        "strictKeywords": [
+          "long",
+          "island",
+          "rail",
+          "road"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Long%20Island%20Rail%20Road%20strike&hl=en-US&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139845774",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Long_Island_Rail_Road_strike"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139891739",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Albania",
+      "countries": [
+        "Albania"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Albanian_opposition_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "albania-albanian-opposition-protests",
+        "name": "2025–2026 Albanian opposition protests",
+        "region": "Europe",
+        "location": "Albania",
+        "year": 2025,
+        "description": "Opposition protests in Albania",
+        "keywords": [
+          "albanian",
+          "opposition",
+          "albania",
+          "protest"
+        ],
+        "strictKeywords": [
+          "albanian",
+          "opposition"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Albanian%20opposition%20protests&hl=en-AL&gl=AL&ceid=AL%3Aen",
+          "https://news.google.com/rss/search?q=Albania%20protest&hl=en-AL&gl=AL&ceid=AL%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139891739",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Albanian_opposition_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139967802",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Maldives",
+      "countries": [
+        "Maldives"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Maldivian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "maldives-maldivian-protests",
+        "name": "2026 Maldivian protests",
+        "region": "Asia",
+        "location": "Maldives",
+        "year": 2026,
+        "description": "series of anti-government protests in the Maldives",
+        "keywords": [
+          "maldivian",
+          "maldives",
+          "protest"
+        ],
+        "strictKeywords": [
+          "maldivian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Maldivian%20protests&hl=en-MV&gl=MV&ceid=MV%3Aen",
+          "https://news.google.com/rss/search?q=Maldives%20protest&hl=en-MV&gl=MV&ceid=MV%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139967802",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Maldivian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139998119",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Albania",
+      "countries": [
+        "Albania"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Flamingo_Revolution",
+      "needsName": false,
+      "suggested": {
+        "id": "albania-flamingo-revolution",
+        "name": "Flamingo Revolution",
+        "region": "Europe",
+        "location": "Albania",
+        "year": 2026,
+        "description": "protests against a proposed tourism development project in southern Albania from May 2026 on",
+        "keywords": [
+          "flamingo",
+          "revolution",
+          "albania",
+          "protest"
+        ],
+        "strictKeywords": [
+          "flamingo",
+          "revolution"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Flamingo%20Revolution&hl=en-AL&gl=AL&ceid=AL%3Aen",
+          "https://news.google.com/rss/search?q=Albania%20protest&hl=en-AL&gl=AL&ceid=AL%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139998119",
+          "wikipedia": "https://en.wikipedia.org/wiki/Flamingo_Revolution"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140164273",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United Kingdom",
+      "countries": [
+        "United Kingdom"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots",
+      "needsName": false,
+      "suggested": {
+        "id": "united-kingdom-northern-ireland-riots",
+        "name": "2026 Northern Ireland riots",
+        "region": "Europe",
+        "location": "United Kingdom",
+        "year": 2026,
+        "description": "series of riots in Northern Ireland",
+        "keywords": [
+          "northern",
+          "ireland",
+          "united kingdom",
+          "protest"
+        ],
+        "strictKeywords": [
+          "northern",
+          "ireland"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Northern%20Ireland%20riots&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140164273",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140196966",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Indonesia",
+      "countries": [
+        "Indonesia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "indonesia-june-indonesian-protests",
+        "name": "June 2026 Indonesian protests",
+        "region": "Asia",
+        "location": "Indonesia",
+        "year": 2026,
+        "description": "a series of ongoing student-led demonstrations against government regulations  in Indonesia",
+        "keywords": [
+          "indonesian",
+          "indonesia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "indonesian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=June%202026%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
+          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140196966",
+          "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140263260",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "France",
+      "countries": [
+        "France"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots",
+      "needsName": false,
+      "suggested": {
+        "id": "france-paris-saint-germain-celebration-riots-2",
+        "name": "2026 Paris Saint-Germain celebration riots",
+        "region": "Europe",
+        "location": "France",
+        "year": 2026,
+        "description": "football riots in Paris, France",
+        "keywords": [
+          "paris",
+          "saint",
+          "germain",
+          "celebration",
+          "france",
+          "protest"
+        ],
+        "strictKeywords": [
+          "paris",
+          "saint",
+          "germain",
+          "celebration"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Paris%20Saint-Germain%20celebration%20riots&hl=en-FR&gl=FR&ceid=FR%3Aen",
+          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140263260",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140286022",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Russia",
+      "countries": [
+        "Russia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia",
+      "needsName": false,
+      "suggested": {
+        "id": "russia-roblox-ban-protests-in-russia",
+        "name": "Roblox ban protests in Russia",
+        "region": "Europe",
+        "location": "Russia",
+        "year": 2026,
+        "description": "protest caused by Russia's 2025 ban of Roblox",
+        "keywords": [
+          "roblox",
+          "ban",
+          "russia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "roblox",
+          "ban",
+          "russia"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Roblox%20ban%20protests%20in%20Russia&hl=en-RU&gl=RU&ceid=RU%3Aen",
+          "https://news.google.com/rss/search?q=Russia%20protest&hl=en-RU&gl=RU&ceid=RU%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140286022",
+          "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140379081",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Pakistan",
+      "countries": [
+        "Pakistan"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "pakistan-azad-kashmir-protests",
+        "name": "2026 Azad Kashmir protests",
+        "region": "Asia",
+        "location": "Pakistan",
+        "year": 2026,
+        "description": "ongoing protests in Pakistan-administered Kashmir",
+        "keywords": [
+          "azad",
+          "kashmir",
+          "pakistan",
+          "protest"
+        ],
+        "strictKeywords": [
+          "azad",
+          "kashmir"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Azad%20Kashmir%20protests&hl=en-PK&gl=PK&ceid=PK%3Aen",
+          "https://news.google.com/rss/search?q=Pakistan%20protest&hl=en-PK&gl=PK&ceid=PK%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140379081",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140773593",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Italy",
+      "countries": [
+        "Italy"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
+      "needsName": false,
+      "suggested": {
+        "id": "italy-susa-valley-conflict",
+        "name": "2026 Susa Valley conflict",
+        "region": "Europe",
+        "location": "Italy",
+        "year": 2026,
+        "description": "civil unrest in Italy",
+        "keywords": [
+          "susa",
+          "valley",
+          "conflict",
+          "italy",
+          "protest"
+        ],
+        "strictKeywords": [
+          "susa",
+          "valley",
+          "conflict"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
+          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140773593",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
         }
       }
     },
@@ -1309,7 +1810,7 @@
       "wikipedia": "https://en.wikipedia.org/wiki/2025_Maldivian_protests",
       "needsName": false,
       "suggested": {
-        "id": "maldives-maldivian-protests",
+        "id": "maldives-maldivian-protests-2",
         "name": "2025 Maldivian protests",
         "region": "Asia",
         "location": "Maldives",
@@ -1515,507 +2016,6 @@
         "_source": {
           "wikidata": "Q136799328",
           "wikipedia": "https://en.wikipedia.org/wiki/2025_Mexican_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139119805",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Ireland",
-      "countries": [
-        "Ireland"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Irish_fuel_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "ireland-irish-fuel-protests",
-        "name": "2026 Irish fuel protests",
-        "region": "Europe",
-        "location": "Ireland",
-        "year": 2026,
-        "description": "series of nationwide demonstrations in the Republic of Ireland",
-        "keywords": [
-          "irish",
-          "fuel",
-          "ireland",
-          "protest"
-        ],
-        "strictKeywords": [
-          "irish",
-          "fuel"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Irish%20fuel%20protests&hl=en-IE&gl=IE&ceid=IE%3Aen",
-          "https://news.google.com/rss/search?q=Ireland%20protest&hl=en-IE&gl=IE&ceid=IE%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139119805",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Irish_fuel_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139736890",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Iran",
-      "countries": [
-        "Iran"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Iranian_pro-government_rallies",
-      "needsName": false,
-      "suggested": {
-        "id": "iran-iranian-pro-government-rallies",
-        "name": "2026 Iranian pro-government rallies",
-        "region": "Middle East",
-        "location": "Iran",
-        "year": 2026,
-        "description": "Iranian support to their government",
-        "keywords": [
-          "iranian",
-          "pro",
-          "government",
-          "iran",
-          "protest"
-        ],
-        "strictKeywords": [
-          "iranian",
-          "pro",
-          "government"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Iranian%20pro-government%20rallies&hl=en-IR&gl=IR&ceid=IR%3Aen",
-          "https://news.google.com/rss/search?q=Iran%20protest&hl=en-IR&gl=IR&ceid=IR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139736890",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Iranian_pro-government_rallies"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139807452",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Bolivia",
-      "countries": [
-        "Bolivia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Bolivian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "bolivia-bolivian-protests",
-        "name": "2026 Bolivian protests",
-        "region": "Americas",
-        "location": "Bolivia",
-        "year": 2026,
-        "description": "anti-government protests in Bolivia",
-        "keywords": [
-          "bolivian",
-          "bolivia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "bolivian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Bolivian%20protests&hl=en-BO&gl=BO&ceid=BO%3Aen",
-          "https://news.google.com/rss/search?q=Bolivia%20protest&hl=en-BO&gl=BO&ceid=BO%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139807452",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Bolivian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139845774",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United States",
-      "countries": [
-        "United States"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Long_Island_Rail_Road_strike",
-      "needsName": false,
-      "suggested": {
-        "id": "united-states-long-island-rail-road-strike",
-        "name": "2026 Long Island Rail Road strike",
-        "region": "Americas",
-        "location": "United States",
-        "year": 2026,
-        "description": "LIRR industrial action",
-        "keywords": [
-          "long",
-          "island",
-          "rail",
-          "road",
-          "united states",
-          "protest"
-        ],
-        "strictKeywords": [
-          "long",
-          "island",
-          "rail",
-          "road"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Long%20Island%20Rail%20Road%20strike&hl=en-US&gl=US&ceid=US%3Aen",
-          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139845774",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Long_Island_Rail_Road_strike"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139891739",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Albania",
-      "countries": [
-        "Albania"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Albanian_opposition_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "albania-albanian-opposition-protests",
-        "name": "2025–2026 Albanian opposition protests",
-        "region": "Europe",
-        "location": "Albania",
-        "year": 2025,
-        "description": "Opposition protests in Albania",
-        "keywords": [
-          "albanian",
-          "opposition",
-          "albania",
-          "protest"
-        ],
-        "strictKeywords": [
-          "albanian",
-          "opposition"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Albanian%20opposition%20protests&hl=en-AL&gl=AL&ceid=AL%3Aen",
-          "https://news.google.com/rss/search?q=Albania%20protest&hl=en-AL&gl=AL&ceid=AL%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139891739",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Albanian_opposition_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139967802",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Maldives",
-      "countries": [
-        "Maldives"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Maldivian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "maldives-maldivian-protests-2",
-        "name": "2026 Maldivian protests",
-        "region": "Asia",
-        "location": "Maldives",
-        "year": 2026,
-        "description": "series of anti-government protests in the Maldives",
-        "keywords": [
-          "maldivian",
-          "maldives",
-          "protest"
-        ],
-        "strictKeywords": [
-          "maldivian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Maldivian%20protests&hl=en-MV&gl=MV&ceid=MV%3Aen",
-          "https://news.google.com/rss/search?q=Maldives%20protest&hl=en-MV&gl=MV&ceid=MV%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139967802",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Maldivian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139998119",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Albania",
-      "countries": [
-        "Albania"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Flamingo_Revolution",
-      "needsName": false,
-      "suggested": {
-        "id": "albania-flamingo-revolution",
-        "name": "Flamingo Revolution",
-        "region": "Europe",
-        "location": "Albania",
-        "year": 2026,
-        "description": "protests against a proposed tourism development project in southern Albania from May 2026 on",
-        "keywords": [
-          "flamingo",
-          "revolution",
-          "albania",
-          "protest"
-        ],
-        "strictKeywords": [
-          "flamingo",
-          "revolution"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Flamingo%20Revolution&hl=en-AL&gl=AL&ceid=AL%3Aen",
-          "https://news.google.com/rss/search?q=Albania%20protest&hl=en-AL&gl=AL&ceid=AL%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139998119",
-          "wikipedia": "https://en.wikipedia.org/wiki/Flamingo_Revolution"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140164273",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United Kingdom",
-      "countries": [
-        "United Kingdom"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots",
-      "needsName": false,
-      "suggested": {
-        "id": "united-kingdom-northern-ireland-riots",
-        "name": "2026 Northern Ireland riots",
-        "region": "Europe",
-        "location": "United Kingdom",
-        "year": 2026,
-        "description": "series of riots in Northern Ireland",
-        "keywords": [
-          "northern",
-          "ireland",
-          "united kingdom",
-          "protest"
-        ],
-        "strictKeywords": [
-          "northern",
-          "ireland"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Northern%20Ireland%20riots&hl=en-GB&gl=GB&ceid=GB%3Aen",
-          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140164273",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140196966",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Indonesia",
-      "countries": [
-        "Indonesia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "indonesia-june-indonesian-protests",
-        "name": "June 2026 Indonesian protests",
-        "region": "Asia",
-        "location": "Indonesia",
-        "year": 2026,
-        "description": "a series of ongoing student-led demonstrations against government regulations  in Indonesia",
-        "keywords": [
-          "indonesian",
-          "indonesia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "indonesian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=June%202026%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
-          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140196966",
-          "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140263260",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "France",
-      "countries": [
-        "France"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots",
-      "needsName": false,
-      "suggested": {
-        "id": "france-paris-saint-germain-celebration-riots-2",
-        "name": "2026 Paris Saint-Germain celebration riots",
-        "region": "Europe",
-        "location": "France",
-        "year": 2026,
-        "description": "football riots in Paris, France",
-        "keywords": [
-          "paris",
-          "saint",
-          "germain",
-          "celebration",
-          "france",
-          "protest"
-        ],
-        "strictKeywords": [
-          "paris",
-          "saint",
-          "germain",
-          "celebration"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Paris%20Saint-Germain%20celebration%20riots&hl=en-FR&gl=FR&ceid=FR%3Aen",
-          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140263260",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140286022",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Russia",
-      "countries": [
-        "Russia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia",
-      "needsName": false,
-      "suggested": {
-        "id": "russia-roblox-ban-protests-in-russia",
-        "name": "Roblox ban protests in Russia",
-        "region": "Europe",
-        "location": "Russia",
-        "year": 2026,
-        "description": "protest caused by Russia's 2025 ban of Roblox",
-        "keywords": [
-          "roblox",
-          "ban",
-          "russia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "roblox",
-          "ban",
-          "russia"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Roblox%20ban%20protests%20in%20Russia&hl=en-RU&gl=RU&ceid=RU%3Aen",
-          "https://news.google.com/rss/search?q=Russia%20protest&hl=en-RU&gl=RU&ceid=RU%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140286022",
-          "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140379081",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Pakistan",
-      "countries": [
-        "Pakistan"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "pakistan-azad-kashmir-protests",
-        "name": "2026 Azad Kashmir protests",
-        "region": "Asia",
-        "location": "Pakistan",
-        "year": 2026,
-        "description": "ongoing protests in Pakistan-administered Kashmir",
-        "keywords": [
-          "azad",
-          "kashmir",
-          "pakistan",
-          "protest"
-        ],
-        "strictKeywords": [
-          "azad",
-          "kashmir"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Azad%20Kashmir%20protests&hl=en-PK&gl=PK&ceid=PK%3Aen",
-          "https://news.google.com/rss/search?q=Pakistan%20protest&hl=en-PK&gl=PK&ceid=PK%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140379081",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140773593",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Italy",
-      "countries": [
-        "Italy"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
-      "needsName": false,
-      "suggested": {
-        "id": "italy-susa-valley-conflict",
-        "name": "2026 Susa Valley conflict",
-        "region": "Europe",
-        "location": "Italy",
-        "year": 2026,
-        "description": "civil unrest in Italy",
-        "keywords": [
-          "susa",
-          "valley",
-          "conflict",
-          "italy",
-          "protest"
-        ],
-        "strictKeywords": [
-          "susa",
-          "valley",
-          "conflict"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
-          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140773593",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
         }
       }
     },
@@ -3455,12 +3455,13 @@
         "groundup.org.za",
         "htxt.co.za",
         "ewn.co.za",
-        "sanews.gov.za"
+        "sanews.gov.za",
+        "dailymaverick.co.za"
       ],
-      "daysSeen": 5,
-      "articleCount": 7,
+      "daysSeen": 6,
+      "articleCount": 8,
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-20",
       "samples": [
         {
           "title": "POLL | Was the backlash over Airlink flyover at Cape Town Stadium fair ?",
@@ -3627,12 +3628,17 @@
         "jacarandafm.com",
         "africabusiness.com",
         "africaleader.com",
-        "miningmx.com"
+        "miningmx.com",
+        "okayafrica.com",
+        "africa.com",
+        "roadsafety.co.za",
+        "sanews.gov.za",
+        "businessday.co.za"
       ],
-      "daysSeen": 6,
-      "articleCount": 7,
+      "daysSeen": 9,
+      "articleCount": 13,
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-10",
+      "lastSeen": "2026-09-22",
       "samples": [
         {
           "title": "When is the next public holiday in South Africa ?",
@@ -3694,6 +3700,159 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "south-africa:africa-holiday-next",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-south-africa:channel-completes-generation",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "South Africa",
+      "countries": [
+        "South Africa"
+      ],
+      "domains": [
+        "channelafrica.co.za",
+        "citizen.co.za",
+        "enca.com"
+      ],
+      "daysSeen": 3,
+      "articleCount": 4,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-21",
+      "samples": [
+        {
+          "title": "SA power producer completes winter without load - shedding as generation improves – Channel Africa",
+          "url": "https://www.channelafrica.co.za/channelafrica/news/sa-power-producer-completes-winter-without-load-shedding-as-generation-improves/",
+          "domain": "channelafrica.co.za",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Eskom powers through Winter : 476 days without load shedding",
+          "url": "https://www.citizen.co.za/news/south-africa/eskom-powers-through-winter-476-days-without-load-shedding/",
+          "domain": "citizen.co.za",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "SA power producer completes winter without load - shedding as generation improves – Channel Africa",
+          "url": "https://www.channelafrica.co.za/channelafrica/news/sa-power-producer-completes-winter-without-load-shedding-as-generation-improves/",
+          "domain": "channelafrica.co.za",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Load reduction eradication programme yielding success - Eskom",
+          "url": "https://www.enca.com/news-top-stories/load-reduction-eradication-programme-yielding-success-eskom",
+          "domain": "enca.com",
+          "date": "2026-09-21"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "south-africa-sa-power-producer-completes-winter-without",
+        "name": "SA power producer completes winter without",
+        "region": "Africa",
+        "location": "South Africa",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "power",
+          "producer",
+          "completes",
+          "winter",
+          "without",
+          "south africa",
+          "protest"
+        ],
+        "strictKeywords": [
+          "power",
+          "producer",
+          "completes",
+          "winter",
+          "without"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=SA%20power%20producer%20completes%20winter%20without&hl=en-ZA&gl=ZA&ceid=ZA%3Aen",
+          "https://news.google.com/rss/search?q=South%20Africa%20protest&hl=en-ZA&gl=ZA&ceid=ZA%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "south-africa:channel-completes-generation",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-south-africa:back-conflict-hits",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "South Africa",
+      "countries": [
+        "South Africa"
+      ],
+      "domains": [
+        "dailymaverick.co.za",
+        "businessday.co.za",
+        "news24.com",
+        "timeslive.co.za"
+      ],
+      "daysSeen": 3,
+      "articleCount": 4,
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-20",
+      "samples": [
+        {
+          "title": "US launches new strikes on Iran and Tehran hits back in widening conflict",
+          "url": "https://www.dailymaverick.co.za/article/2026-09-02-us-launches-new-strikes-on-iran-and-tehran-hits-back-in-widening-conflict/",
+          "domain": "dailymaverick.co.za",
+          "date": "2026-09-02"
+        },
+        {
+          "title": "Tehran strikes back at US bases in biggest exchange since July",
+          "url": "https://www.businessday.co.za/world/2026-09-02-tehran-strikes-back-at-us-bases-in-biggest-exchange-since-july/",
+          "domain": "businessday.co.za",
+          "date": "2026-09-02"
+        },
+        {
+          "title": "Oil price close to $110 after steepest weekly increase since July",
+          "url": "https://www.news24.com/business/climate-future/energy/oil-price-close-to-110-after-steepest-weekly-increase-since-july-20260911-0407",
+          "domain": "news24.com",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Ukraine launches biggest Moscow drone attack as Russia votes",
+          "url": "https://www.timeslive.co.za/news/world/2026-09-20-ukraine-launches-biggest-moscow-drone-attack-as-russia-votes/",
+          "domain": "timeslive.co.za",
+          "date": "2026-09-20"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "south-africa-us-launches-new-strikes-on-iran",
+        "name": "US launches new strikes on Iran",
+        "region": "Africa",
+        "location": "South Africa",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "launches",
+          "new",
+          "iran",
+          "south africa",
+          "protest"
+        ],
+        "strictKeywords": [
+          "launches",
+          "new",
+          "iran"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=US%20launches%20new%20strikes%20on%20Iran&hl=en-ZA&gl=ZA&ceid=ZA%3Aen",
+          "https://news.google.com/rss/search?q=South%20Africa%20protest&hl=en-ZA&gl=ZA&ceid=ZA%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "south-africa:back-conflict-hits",
           "wikipedia": ""
         }
       }
@@ -3785,6 +3944,175 @@
       }
     },
     {
+      "key": "gd-india:employees-gherao-house",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "India",
+      "countries": [
+        "India"
+      ],
+      "domains": [
+        "tribuneindia.com",
+        "theshillongtimes.com",
+        "timesofindia.indiatimes.com"
+      ],
+      "daysSeen": 6,
+      "articleCount": 10,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-21",
+      "samples": [
+        {
+          "title": "NHM employees to gherao minister house in Patiala tomorrow",
+          "url": "https://www.tribuneindia.com/news/patiala/nhm-employees-to-gherao-ministers-house-in-patiala-tomorrow/",
+          "domain": "tribuneindia.com",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "NHM employees to gherao minister house in Patiala tomorrow",
+          "url": "https://www.tribuneindia.com/news/patiala/nhm-employees-to-gherao-ministers-house-in-patiala-tomorrow/",
+          "domain": "tribuneindia.com",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "National Health Mission staff stage protest outside Punjab Health Minister residence in Patiala",
+          "url": "https://www.tribuneindia.com/news/patiala/national-health-mission-staff-stage-protest-outside-punjab-health-ministers-residence-in-patiala/",
+          "domain": "tribuneindia.com",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Waris Punjab De protests outside AAP minister houses in Ludhiana",
+          "url": "https://www.tribuneindia.com/news/ludhiana/waris-punjab-de-protests-outside-aap-ministers-houses-in-ludhiana/",
+          "domain": "tribuneindia.com",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Delhi HC rejects Swatantra Bhardwaj habeas corpus plea ; Patiala House court remands him to 14 - day custody",
+          "url": "https://theshillongtimes.com/2026/09/07/delhi-hc-rejects-swatantra-bhardwajs-habeas-corpus-plea-patiala-house-court-remands-him-to-14-day-custody/",
+          "domain": "theshillongtimes.com",
+          "date": "2026-09-07"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "india-nhm-employees-to-gherao-minister-house",
+        "name": "NHM employees to gherao minister house",
+        "region": "Asia",
+        "location": "India",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "nhm",
+          "employees",
+          "gherao",
+          "minister",
+          "house",
+          "india",
+          "protest"
+        ],
+        "strictKeywords": [
+          "nhm",
+          "employees",
+          "gherao",
+          "minister",
+          "house"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=NHM%20employees%20to%20gherao%20minister%20house&hl=en-IN&gl=IN&ceid=IN%3Aen",
+          "https://news.google.com/rss/search?q=India%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "india:employees-gherao-house",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-india:bengal-between-isf",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "India",
+      "countries": [
+        "India"
+      ],
+      "domains": [
+        "news.webindia123.com",
+        "prokerala.com",
+        "aninews.in",
+        "deccanchronicle.com"
+      ],
+      "daysSeen": 3,
+      "articleCount": 6,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-20",
+      "samples": [
+        {
+          "title": "West Bengal : Several injured in political clash between BJP , ISF - CPI ( M ) workers in Jibantala ; situation tense",
+          "url": "https://news.webindia123.com/news/Articles/India/20260905/4495180.html",
+          "domain": "news.webindia123.com",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "West Bengal : Several injured in political clash between BJP , ISF - CPI ( M ) workers in Jibantala ; situation tense",
+          "url": "https://news.webindia123.com/news/Articles/India/20260905/4495180.html",
+          "domain": "news.webindia123.com",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "CPI - M calls for protest march after party office set on fire in Bengal Jalpaiguri",
+          "url": "https://www.prokerala.com/news/articles/a1809731.html",
+          "domain": "prokerala.com",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "CPI - M calls for protest march after party office set on fire in Bengal Jalpaiguri",
+          "url": "https://www.prokerala.com/news/articles/a1809731.html",
+          "domain": "prokerala.com",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "TMC holds protest rally in Kolkata , alleges BJP occupied party office , attacks on workers",
+          "url": "https://aninews.in/news/national/politics/tmc-holds-protest-rally-in-kolkata-alleges-bjp-occupied-party-office-attacks-on-workers20260920145047/",
+          "domain": "aninews.in",
+          "date": "2026-09-20"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "india-west-bengal-several-injured-in-political",
+        "name": "West Bengal Several injured in political",
+        "region": "Asia",
+        "location": "India",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "west",
+          "bengal",
+          "several",
+          "injured",
+          "political",
+          "india",
+          "protest"
+        ],
+        "strictKeywords": [
+          "west",
+          "bengal",
+          "several",
+          "injured",
+          "political"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=West%20Bengal%20Several%20injured%20in%20political&hl=en-IN&gl=IN&ceid=IN%3Aen",
+          "https://news.google.com/rss/search?q=India%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "india:bengal-between-isf",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
       "key": "gd-india:adopt-bigger-guerrilla",
       "source": "gdelt",
       "confidence": "low",
@@ -3802,12 +4130,13 @@
         "barandbench.com",
         "dailypioneer.com",
         "freepressjournal.in",
-        "mid-day.com"
+        "mid-day.com",
+        "oneindia.com"
       ],
-      "daysSeen": 8,
-      "articleCount": 21,
+      "daysSeen": 10,
+      "articleCount": 23,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-22",
       "samples": [
         {
           "title": "Adopt  guerrilla strategy , move quietly to Mumbai for bigger protest : Jarange urges Marathas",
@@ -3894,10 +4223,10 @@
         "siasat.com",
         "news.webindia123.com"
       ],
-      "daysSeen": 8,
-      "articleCount": 29,
+      "daysSeen": 10,
+      "articleCount": 32,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-21",
       "samples": [
         {
           "title": "Udit Raj detained during Congress protest outside RSS headquarters over FIR against Rahul Gandhi",
@@ -3984,12 +4313,13 @@
         "dailyexcelsior.com",
         "jagranjosh.com",
         "freepressjournal.in",
-        "deccanchronicle.com"
+        "deccanchronicle.com",
+        "business-standard.com"
       ],
-      "daysSeen": 9,
-      "articleCount": 32,
+      "daysSeen": 12,
+      "articleCount": 38,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-22",
       "samples": [
         {
           "title": "MBBS , BDS interns to continue strike across J & K over stipend hike",
@@ -4234,12 +4564,14 @@
         "timesofindia.indiatimes.com",
         "economictimes.indiatimes.com",
         "morungexpress.com",
-        "thehindu.com"
+        "thehindu.com",
+        "aninews.in",
+        "livemint.com"
       ],
-      "daysSeen": 4,
-      "articleCount": 8,
+      "daysSeen": 6,
+      "articleCount": 12,
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-21",
       "samples": [
         {
           "title": "Iran IRGC says hit 3 oilers in Hormuz Strait , 3 US vessels elsewhere in retaliatory strikes",
@@ -4308,6 +4640,92 @@
       }
     },
     {
+      "key": "gd-india:answer-charges-nadu",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "India",
+      "countries": [
+        "India"
+      ],
+      "domains": [
+        "prokerala.com",
+        "aninews.in",
+        "news.webindia123.com",
+        "mangalorean.com",
+        "newstodaynet.com",
+        "moneycontrol.com",
+        "thehindu.com"
+      ],
+      "daysSeen": 4,
+      "articleCount": 12,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-21",
+      "samples": [
+        {
+          "title": "CM Vijay set to answer Oppn charges in Tamil Nadu Assembly today",
+          "url": "https://www.prokerala.com/news/articles/a1809302.html",
+          "domain": "prokerala.com",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Tamil Nadu CM Vijay gesture towards DMK MLA draws appreciation in Assembly",
+          "url": "https://aninews.in/news/national/general-news/tamil-nadu-cm-vijay8217s-gesture-towards-dmk-mla-draws-appreciation-in-assembly20260907120852/",
+          "domain": "aninews.in",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Tamil Nadu : DMK walkout turns CM Vijays Assembly speech into a political showdown",
+          "url": "https://news.webindia123.com/news/Articles/India/20260908/4495968.html",
+          "domain": "news.webindia123.com",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Tamil Nadu : DMK walkout turns CM Vijay Assembly speech into a political showdown",
+          "url": "https://aninews.in/news/national/politics/tamil-nadu-dmk-walkout-turns-cm-vijay8217s-assembly-speech-into-a-political-showdown20260908030816/",
+          "domain": "aninews.in",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "CM Vijay set to answer Oppn charges in Tamil Nadu Assembly today",
+          "url": "https://www.prokerala.com/news/articles/a1809302.html",
+          "domain": "prokerala.com",
+          "date": "2026-09-07"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "india-cm-vijay-set-to-answer-oppn",
+        "name": "CM Vijay set to answer Oppn",
+        "region": "Asia",
+        "location": "India",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "vijay",
+          "set",
+          "answer",
+          "oppn",
+          "india",
+          "protest"
+        ],
+        "strictKeywords": [
+          "vijay",
+          "set",
+          "answer",
+          "oppn"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=CM%20Vijay%20set%20to%20answer%20Oppn&hl=en-IN&gl=IN&ceid=IN%3Aen",
+          "https://news.google.com/rss/search?q=India%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "india:answer-charges-nadu",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
       "key": "gd-india:near-open-plans",
       "source": "gdelt",
       "confidence": "low",
@@ -4320,12 +4738,14 @@
         "deccanchronicle.com",
         "news.webindia123.com",
         "hindustantimes.com",
-        "thehindu.com"
+        "thehindu.com",
+        "timesofindia.indiatimes.com",
+        "business-standard.com"
       ],
-      "daysSeen": 3,
-      "articleCount": 7,
+      "daysSeen": 5,
+      "articleCount": 12,
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-22",
       "samples": [
         {
           "title": "Iran plans restricted zone near Hormuz , says strait will open if US stops threats",
@@ -4391,6 +4811,234 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "india:near-open-plans",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-kenya:aladwa-denies-disrupt",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "Kenya",
+      "countries": [
+        "Kenya"
+      ],
+      "domains": [
+        "the-star.co.ke",
+        "ghettoradio.co.ke",
+        "ghafla.co.ke"
+      ],
+      "daysSeen": 5,
+      "articleCount": 7,
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-20",
+      "samples": [
+        {
+          "title": "Aladwa denies plot to disrupt Linda Mwananchi Nairobi rally on Sunday",
+          "url": "https://www.the-star.co.ke/news/2026-09-11-aladwa-denies-plot-to-disrupt-linda-mwananchi-rally",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Linda Mwananchi agent registers in US as Sifuna eyes diaspora support",
+          "url": "https://www.the-star.co.ke/news/2026-09-10-expanding-network-sifuna-us-lobbyist-registers-in-america",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Anti - riot police deployed on Nairobi streets ahead of Linda Mwananchi rally",
+          "url": "https://www.the-star.co.ke/news/2026-09-13-heavy-police-presence-in-nairobi-ahead-of-rally",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Aladwa denies plot to disrupt Linda Mwananchi Nairobi rally on Sunday",
+          "url": "https://www.the-star.co.ke/news/2026-09-11-aladwa-denies-plot-to-disrupt-linda-mwananchi-rally",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Sifuna itinerary as Linda Mwananchi storms Nairobi",
+          "url": "https://www.the-star.co.ke/news/2026-09-13-sifunas-itinerary-as-linda-mwananchi-storms-nairobi",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-13"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "kenya-aladwa-denies-plot-to-disrupt-linda",
+        "name": "Aladwa denies plot to disrupt Linda",
+        "region": "Africa",
+        "location": "Kenya",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "aladwa",
+          "denies",
+          "plot",
+          "disrupt",
+          "linda",
+          "kenya",
+          "protest"
+        ],
+        "strictKeywords": [
+          "aladwa",
+          "denies",
+          "plot",
+          "disrupt",
+          "linda"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Aladwa%20denies%20plot%20to%20disrupt%20Linda&hl=en-KE&gl=KE&ceid=KE%3Aen",
+          "https://news.google.com/rss/search?q=Kenya%20protest&hl=en-KE&gl=KE&ceid=KE%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "kenya:aladwa-denies-disrupt",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-south-africa:attack-cities-expands",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "South Africa",
+      "countries": [
+        "South Africa"
+      ],
+      "domains": [
+        "dailymaverick.co.za",
+        "businessday.co.za",
+        "jacarandafm.com"
+      ],
+      "daysSeen": 3,
+      "articleCount": 3,
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-20",
+      "samples": [
+        {
+          "title": "War expands as Houthis attack Saudi cities and US strikes Iranian tankers",
+          "url": "https://www.dailymaverick.co.za/article/2026-09-09-war-expands-as-houthis-attack-saudi-cities-and-us-strikes-iranian-tankers/",
+          "domain": "dailymaverick.co.za",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Houthis attack four Saudi cities in expansion of Middle East war",
+          "url": "https://www.businessday.co.za/world/2026-09-08-houthis-attack-four-saudi-cities-in-expansion-of-middle-east-war/",
+          "domain": "businessday.co.za",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "US fears rapid escalation in Mideast after Houthis attack Riyadh",
+          "url": "https://www.jacarandafm.com/news/news/us-fears-rapid-escalation-in-mideast-houthis-attack/",
+          "domain": "jacarandafm.com",
+          "date": "2026-09-20"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "south-africa-war-expands-as-houthis-attack-saudi",
+        "name": "War expands as Houthis attack Saudi",
+        "region": "Africa",
+        "location": "South Africa",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "war",
+          "expands",
+          "houthis",
+          "attack",
+          "saudi",
+          "south africa",
+          "protest"
+        ],
+        "strictKeywords": [
+          "war",
+          "expands",
+          "houthis",
+          "attack",
+          "saudi"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=War%20expands%20as%20Houthis%20attack%20Saudi&hl=en-ZA&gl=ZA&ceid=ZA%3Aen",
+          "https://news.google.com/rss/search?q=South%20Africa%20protest&hl=en-ZA&gl=ZA&ceid=ZA%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "south-africa:attack-cities-expands",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-south-africa:flare-grip-hormuz",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "South Africa",
+      "countries": [
+        "South Africa"
+      ],
+      "domains": [
+        "ecr.co.za",
+        "businessday.co.za",
+        "zalebs.com"
+      ],
+      "daysSeen": 3,
+      "articleCount": 3,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-21",
+      "samples": [
+        {
+          "title": "Oil prices flare as Iran tightens grip on Hormuz",
+          "url": "https://www.ecr.co.za/news/news/oil-prices-flare-as-iran-tightens-grip-on-hormuz/",
+          "domain": "ecr.co.za",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Oil nears $100 after US - Iran strikes escalate",
+          "url": "https://www.businessday.co.za/markets/2026-09-07-oil-nears-100-after-us-iran-strikes-escalate/",
+          "domain": "businessday.co.za",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Oil slide intensifies calls for lower petrol prices in Nigeria",
+          "url": "https://zalebs.com/business/oil-slide-intensifies-calls-for-lower-petrol-prices-in-nigeria/",
+          "domain": "zalebs.com",
+          "date": "2026-09-21"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "south-africa-oil-prices-flare-as-iran-tightens",
+        "name": "Oil prices flare as Iran tightens",
+        "region": "Africa",
+        "location": "South Africa",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "oil",
+          "prices",
+          "flare",
+          "iran",
+          "tightens",
+          "south africa",
+          "protest"
+        ],
+        "strictKeywords": [
+          "oil",
+          "prices",
+          "flare",
+          "iran",
+          "tightens"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Oil%20prices%20flare%20as%20Iran%20tightens&hl=en-ZA&gl=ZA&ceid=ZA%3Aen",
+          "https://news.google.com/rss/search?q=South%20Africa%20protest&hl=en-ZA&gl=ZA&ceid=ZA%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "south-africa:flare-grip-hormuz",
           "wikipedia": ""
         }
       }
@@ -4918,6 +5566,95 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "nigeria:agreement-approves-gov",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-india:cheating-clarify-justify",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "India",
+      "countries": [
+        "India"
+      ],
+      "domains": [
+        "freepressjournal.in",
+        "timesofindia.indiatimes.com",
+        "rediff.com",
+        "tv.rediff.com",
+        "livemint.com",
+        "thehindu.com"
+      ],
+      "daysSeen": 3,
+      "articleCount": 6,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-22",
+      "samples": [
+        {
+          "title": "IIT Bombay Student Representatives Clarify Stand On Sahil Wakode Death , Say  Protest Was Not To Justify Cheating",
+          "url": "https://www.freepressjournal.in/mumbai/iit-bombay-student-representatives-clarify-stand-on-sahil-wakode-death-say-protest-was-not-to-justify-cheating-mumbai-news",
+          "domain": "freepressjournal.in",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "No complaint received by SC / ST cell from Sahil Wakode : IIT - B professor on student suicide case",
+          "url": "https://timesofindia.indiatimes.com/india/no-complaint-received-by-sc/st-cell-from-sahil-wakode-iit-b-professor-on-student-suicide-case/articleshow/134403567.cms",
+          "domain": "timesofindia.indiatimes.com",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Protest not to justify cheating but ...: IIT Bombay students",
+          "url": "https://www.rediff.com/news/report/protest-not-to-justify-cheating-but-iit-bombay-students/20260922.htm",
+          "domain": "rediff.com",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "IIT Bombay student suicide : Professor to be questioned | Rediff - TV",
+          "url": "https://tv.rediff.com/news/iit-bombay-student-suicide-professor-to-be-questioned/404734",
+          "domain": "tv.rediff.com",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "Who is Suryakant Waghmore ? IIT - Bombay professor questions faculty protest of dean removal over student suicide",
+          "url": "https://www.livemint.com/news/india/who-is-suryakant-waghmore-iit-bombay-professor-questions-faculty-protest-of-deans-removal-over-student-suicide-11789999470890.html",
+          "domain": "livemint.com",
+          "date": "2026-09-21"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "india-iit-bombay-student-representatives-clarify-stand",
+        "name": "IIT Bombay Student Representatives Clarify Stand",
+        "region": "Asia",
+        "location": "India",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "iit",
+          "bombay",
+          "student",
+          "representatives",
+          "clarify",
+          "stand",
+          "india",
+          "protest"
+        ],
+        "strictKeywords": [
+          "iit",
+          "bombay",
+          "student",
+          "representatives",
+          "clarify",
+          "stand"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=IIT%20Bombay%20Student%20Representatives%20Clarify%20Stand&hl=en-IN&gl=IN&ceid=IN%3Aen",
+          "https://news.google.com/rss/search?q=India%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "india:cheating-clarify-justify",
           "wikipedia": ""
         }
       }
