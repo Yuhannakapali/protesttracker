@@ -103,7 +103,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 181
+      "count": 182
     },
     {
       "start": "2026-08-01",
@@ -111,15 +111,15 @@
     },
     {
       "start": "2026-09-01",
-      "count": 375
+      "count": 378
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 100,
+      "count": 102,
       "first": "2026-06-06",
-      "last": "2026-09-22"
+      "last": "2026-09-23"
     },
     {
       "name": "NDTV",
@@ -129,9 +129,9 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 62,
+      "count": 63,
       "first": "2026-07-22",
-      "last": "2026-09-19"
+      "last": "2026-09-23"
     },
     {
       "name": "The Indian Express",
@@ -141,9 +141,9 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 50,
+      "count": 51,
       "first": "2026-06-06",
-      "last": "2026-09-18"
+      "last": "2026-09-23"
     },
     {
       "name": "Telegraph India",
@@ -278,12 +278,6 @@
       "last": "2026-09-11"
     },
     {
-      "name": "Frontline Magazine",
-      "count": 11,
-      "first": "2026-07-08",
-      "last": "2026-08-25"
-    },
-    {
       "name": "India.com",
       "count": 11,
       "first": "2026-08-18",
@@ -332,6 +326,12 @@
       "last": "2026-09-16"
     },
     {
+      "name": "frontline.thehindu.com",
+      "count": 8,
+      "first": "2026-07-08",
+      "last": "2026-08-20"
+    },
+    {
       "name": "Scroll.in",
       "count": 8,
       "first": "2026-07-26",
@@ -342,12 +342,6 @@
       "count": 8,
       "first": "2026-06-06",
       "last": "2026-09-03"
-    },
-    {
-      "name": "ABP Live English",
-      "count": 7,
-      "first": "2026-07-19",
-      "last": "2026-09-01"
     },
     {
       "name": "moneycontrol.com",
@@ -362,7 +356,7 @@
       "last": "2026-09-16"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 6,
       "first": "2026-07-21",
       "last": "2026-08-19"
@@ -404,6 +398,12 @@
       "last": "2026-09-01"
     },
     {
+      "name": "ABP Live English",
+      "count": 4,
+      "first": "2026-08-27",
+      "last": "2026-09-01"
+    },
+    {
       "name": "AP News",
       "count": 4,
       "first": "2026-05-21",
@@ -420,12 +420,6 @@
       "count": 4,
       "first": "2026-07-12",
       "last": "2026-08-11"
-    },
-    {
-      "name": "Daily Pioneer",
-      "count": 4,
-      "first": "2026-08-17",
-      "last": "2026-09-10"
     },
     {
       "name": "LawChakra",
@@ -470,10 +464,22 @@
       "last": "2026-09-01"
     },
     {
+      "name": "Daily Pioneer",
+      "count": 3,
+      "first": "2026-08-17",
+      "last": "2026-09-10"
+    },
+    {
       "name": "facebook.com",
       "count": 3,
       "first": "2026-07-21",
       "last": "2026-08-28"
+    },
+    {
+      "name": "Frontline Magazine",
+      "count": 3,
+      "first": "2026-07-27",
+      "last": "2026-08-25"
     },
     {
       "name": "GujaratSamachar English",
@@ -486,6 +492,12 @@
       "count": 3,
       "first": "2026-07-24",
       "last": "2026-08-16"
+    },
+    {
+      "name": "news.abplive.com",
+      "count": 3,
+      "first": "2026-07-19",
+      "last": "2026-07-25"
     },
     {
       "name": "Newslaundry",
@@ -522,12 +534,6 @@
       "count": 3,
       "first": "2026-09-04",
       "last": "2026-09-11"
-    },
-    {
-      "name": "thehawk.in",
-      "count": 3,
-      "first": "2026-07-22",
-      "last": "2026-09-21"
     },
     {
       "name": "thepamphlet.in",
@@ -668,6 +674,12 @@
       "last": "2026-08-19"
     },
     {
+      "name": "Pioneer Daily",
+      "count": 2,
+      "first": "2026-08-28",
+      "last": "2026-09-07"
+    },
+    {
       "name": "prameyanews.com",
       "count": 2,
       "first": "2026-08-16",
@@ -734,6 +746,12 @@
       "last": "2026-09-01"
     },
     {
+      "name": "thehawk.in",
+      "count": 2,
+      "first": "2026-07-22",
+      "last": "2026-08-25"
+    },
+    {
       "name": "Time Magazine",
       "count": 2,
       "first": "2026-07-22",
@@ -764,7 +782,7 @@
       "last": "2026-08-17"
     },
     {
-      "name": "acleddata.com",
+      "name": "ACLED",
       "count": 1,
       "first": "2026-07-27",
       "last": "2026-07-27"
@@ -836,6 +854,12 @@
       "last": "2026-08-23"
     },
     {
+      "name": "cfr.org",
+      "count": 1,
+      "first": "2026-07-31",
+      "last": "2026-07-31"
+    },
+    {
       "name": "Cityairnews",
       "count": 1,
       "first": "2026-09-17",
@@ -846,12 +870,6 @@
       "count": 1,
       "first": "2026-08-04",
       "last": "2026-08-04"
-    },
-    {
-      "name": "Council on Foreign Relations",
-      "count": 1,
-      "first": "2026-07-31",
-      "last": "2026-07-31"
     },
     {
       "name": "cpiml.org",
@@ -926,6 +944,12 @@
       "last": "2026-08-24"
     },
     {
+      "name": "fmbharat.com",
+      "count": 1,
+      "first": "2026-09-21",
+      "last": "2026-09-21"
+    },
+    {
       "name": "Foej Media",
       "count": 1,
       "first": "2026-08-21",
@@ -980,7 +1004,7 @@
       "last": "2026-08-30"
     },
     {
-      "name": "indiablooms.com",
+      "name": "Indiablooms",
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
@@ -1112,12 +1136,6 @@
       "last": "2026-08-22"
     },
     {
-      "name": "Pioneer Daily",
-      "count": 1,
-      "first": "2026-08-28",
-      "last": "2026-08-28"
-    },
-    {
       "name": "Prabhat Khabar",
       "count": 1,
       "first": "2026-08-30",
@@ -1130,7 +1148,7 @@
       "last": "2026-09-15"
     },
     {
-      "name": "pratidintime.com",
+      "name": "Pratidin Time",
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"

@@ -815,21 +815,21 @@
     },
     {
       "start": "2026-09-01",
-      "count": 124
+      "count": 126
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 70,
+      "count": 71,
       "first": "2012-01-05",
       "last": "2026-09-23"
     },
     {
       "name": "The Guardian Nigeria News",
-      "count": 51,
+      "count": 52,
       "first": "2015-10-02",
-      "last": "2026-06-08"
+      "last": "2026-09-23"
     },
     {
       "name": "Channels Television",
@@ -842,12 +842,6 @@
       "count": 46,
       "first": "2026-09-02",
       "last": "2026-09-23"
-    },
-    {
-      "name": "Vanguard News",
-      "count": 41,
-      "first": "2012-03-08",
-      "last": "2026-09-14"
     },
     {
       "name": "Premium Times Nigeria",
@@ -868,6 +862,18 @@
       "last": "2026-09-11"
     },
     {
+      "name": "vanguardngr.com",
+      "count": 23,
+      "first": "2012-03-08",
+      "last": "2026-07-24"
+    },
+    {
+      "name": "Vanguard News",
+      "count": 22,
+      "first": "2014-10-31",
+      "last": "2026-09-14"
+    },
+    {
       "name": "Ripples Nigeria",
       "count": 20,
       "first": "2023-06-01",
@@ -878,12 +884,6 @@
       "count": 17,
       "first": "2012-01-03",
       "last": "2026-01-27"
-    },
-    {
-      "name": "Arise News",
-      "count": 15,
-      "first": "2023-06-02",
-      "last": "2026-06-04"
     },
     {
       "name": "The Sun Nigeria",
@@ -928,6 +928,12 @@
       "last": "2026-06-03"
     },
     {
+      "name": "Arise News",
+      "count": 9,
+      "first": "2023-06-02",
+      "last": "2026-02-13"
+    },
+    {
       "name": "Independent Newspaper Nigeria",
       "count": 9,
       "first": "2020-09-07",
@@ -956,6 +962,12 @@
       "count": 7,
       "first": "2009-10-30",
       "last": "2024-08-08"
+    },
+    {
+      "name": "arise.tv",
+      "count": 6,
+      "first": "2024-06-04",
+      "last": "2026-06-04"
     },
     {
       "name": "The Nation Newspaper",
@@ -1024,12 +1036,6 @@
       "last": "2026-05-29"
     },
     {
-      "name": "vanguardngr.com",
-      "count": 4,
-      "first": "2020-07-16",
-      "last": "2025-10-22"
-    },
-    {
       "name": "Nigeria Labour Congress (NLC)",
       "count": 3,
       "first": "2023-03-30",
@@ -1054,10 +1060,10 @@
       "last": "2021-03-12"
     },
     {
-      "name": "FIJ NG",
+      "name": "fij.ng",
       "count": 2,
-      "first": "2024-09-04",
-      "last": "2024-09-05"
+      "first": "2024-09-05",
+      "last": "2024-11-11"
     },
     {
       "name": "legit.ng",
@@ -1198,13 +1204,13 @@
       "last": "2024-07-24"
     },
     {
-      "name": "fij.ng",
+      "name": "FIJ NG",
       "count": 1,
-      "first": "2024-11-11",
-      "last": "2024-11-11"
+      "first": "2024-09-04",
+      "last": "2024-09-04"
     },
     {
-      "name": "firstpost.com",
+      "name": "Firstpost",
       "count": 1,
       "first": "2024-02-15",
       "last": "2024-02-15"
@@ -1318,16 +1324,16 @@
       "last": "2026-09-15"
     },
     {
-      "name": "ndr.org.ng",
-      "count": 1,
-      "first": "2026-09-17",
-      "last": "2026-09-17"
-    },
-    {
       "name": "New Telegraph",
       "count": 1,
       "first": "2024-09-05",
       "last": "2024-09-05"
+    },
+    {
+      "name": "Nigerian Democratic Report",
+      "count": 1,
+      "first": "2026-09-17",
+      "last": "2026-09-17"
     },
     {
       "name": "Parallel Facts",
