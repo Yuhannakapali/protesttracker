@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T08:40:28.584Z",
+  "generated": "2026-09-23T08:38:05.761Z",
   "candidates": [
     {
       "key": "wd-Q133800245",
@@ -532,245 +532,6 @@
         "_source": {
           "wikidata": "Q135486731",
           "wikipedia": "https://en.wikipedia.org/wiki/2025_Iran_water_crisis_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q137366682",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Bulgaria",
-      "countries": [
-        "Bulgaria",
-        "Czech Republic",
-        "Germany",
-        "United Kingdom",
-        "Netherlands",
-        "Austria",
-        "Belgium",
-        "United States",
-        "Spain"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "bulgaria-bulgarian-protests",
-        "name": "2025 Bulgarian protests",
-        "region": "Europe",
-        "location": "Bulgaria",
-        "year": 2025,
-        "description": "Gen Z protests over increasing taxes",
-        "keywords": [
-          "bulgarian",
-          "bulgaria",
-          "protest"
-        ],
-        "strictKeywords": [
-          "bulgarian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en-BG&gl=BG&ceid=BG%3Aen",
-          "https://news.google.com/rss/search?q=Bulgaria%20protest&hl=en-BG&gl=BG&ceid=BG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q137366682",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q137612545",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Iran",
-      "countries": [
-        "Iran"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "iran-iranian-protests",
-        "name": "2025–2026 Iranian protests",
-        "region": "Middle East",
-        "location": "Iran",
-        "year": 2025,
-        "description": "2025–2026 protests against the Islamic Republic",
-        "keywords": [
-          "iranian",
-          "iran",
-          "protest"
-        ],
-        "strictKeywords": [
-          "iranian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Iranian%20protests&hl=en-IR&gl=IR&ceid=IR%3Aen",
-          "https://news.google.com/rss/search?q=Iran%20protest&hl=en-IR&gl=IR&ceid=IR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q137612545",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q137860199",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Uganda",
-      "countries": [
-        "Uganda"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Ugandan_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "uganda-ugandan-protests",
-        "name": "2026 Ugandan protests",
-        "region": "Africa",
-        "location": "Uganda",
-        "year": 2026,
-        "description": "public demonstrations following election fraud",
-        "keywords": [
-          "ugandan",
-          "uganda",
-          "protest"
-        ],
-        "strictKeywords": [
-          "ugandan"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Ugandan%20protests&hl=en-UG&gl=UG&ceid=UG%3Aen",
-          "https://news.google.com/rss/search?q=Uganda%20protest&hl=en-UG&gl=UG&ceid=UG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q137860199",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Ugandan_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q138048080",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Philippines",
-      "countries": [
-        "Philippines"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Dupax_del_Norte_anti-mining_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "philippines-dupax-del-norte-anti-mining-protests",
-        "name": "Dupax del Norte anti-mining protests",
-        "region": "Asia",
-        "location": "Philippines",
-        "year": 2026,
-        "description": "series of protests from 2025 to 2026",
-        "keywords": [
-          "dupax",
-          "del",
-          "norte",
-          "anti",
-          "mining",
-          "philippines",
-          "protest"
-        ],
-        "strictKeywords": [
-          "dupax",
-          "del",
-          "norte",
-          "anti",
-          "mining"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Dupax%20del%20Norte%20anti-mining%20protests&hl=en-PH&gl=PH&ceid=PH%3Aen",
-          "https://news.google.com/rss/search?q=Philippines%20protest&hl=en-PH&gl=PH&ceid=PH%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q138048080",
-          "wikipedia": "https://en.wikipedia.org/wiki/Dupax_del_Norte_anti-mining_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q138497595",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Mexico",
-      "countries": [
-        "Mexico"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Mexico_cartel_unrest",
-      "needsName": false,
-      "suggested": {
-        "id": "mexico-mexico-cartel-unrest",
-        "name": "2026 Mexico cartel unrest",
-        "region": "Americas",
-        "location": "Mexico",
-        "year": 2026,
-        "description": "reaction to the killing of El Mencho",
-        "keywords": [
-          "mexico",
-          "cartel",
-          "protest"
-        ],
-        "strictKeywords": [
-          "mexico",
-          "cartel"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Mexico%20cartel%20unrest&hl=en-MX&gl=MX&ceid=MX%3Aen",
-          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q138497595",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Mexico_cartel_unrest"
-        }
-      }
-    },
-    {
-      "key": "wd-Q138514607",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United States",
-      "countries": [
-        "United States"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_the_2026_Iran_war_in_the_United_States",
-      "needsName": false,
-      "suggested": {
-        "id": "united-states-protests-against-the-iran-war-in-the-united-states",
-        "name": "protests against the 2026 Iran war in the United States",
-        "region": "Americas",
-        "location": "United States",
-        "year": 2026,
-        "description": "",
-        "keywords": [
-          "iran",
-          "war",
-          "united",
-          "states",
-          "united states",
-          "protest"
-        ],
-        "strictKeywords": [
-          "iran",
-          "war",
-          "united",
-          "states"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=protests%20against%20the%202026%20Iran%20war%20in%20the%20United%20States&hl=en-US&gl=US&ceid=US%3Aen",
-          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q138514607",
-          "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_the_2026_Iran_war_in_the_United_States"
         }
       }
     },
@@ -2016,6 +1777,245 @@
         "_source": {
           "wikidata": "Q136799328",
           "wikipedia": "https://en.wikipedia.org/wiki/2025_Mexican_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q137366682",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Czech Republic",
+      "countries": [
+        "Czech Republic",
+        "Bulgaria",
+        "Germany",
+        "United Kingdom",
+        "Austria",
+        "Netherlands",
+        "Belgium",
+        "United States",
+        "Spain"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "czech-republic-bulgarian-protests",
+        "name": "2025 Bulgarian protests",
+        "region": "",
+        "location": "Czech Republic",
+        "year": 2025,
+        "description": "Gen Z protests over increasing taxes",
+        "keywords": [
+          "bulgarian",
+          "czech republic",
+          "protest"
+        ],
+        "strictKeywords": [
+          "bulgarian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=Czech%20Republic%20protest&hl=en&gl=US&ceid=US%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q137366682",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q137612545",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Iran",
+      "countries": [
+        "Iran"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "iran-iranian-protests",
+        "name": "2025–2026 Iranian protests",
+        "region": "Middle East",
+        "location": "Iran",
+        "year": 2025,
+        "description": "2025–2026 protests against the Islamic Republic",
+        "keywords": [
+          "iranian",
+          "iran",
+          "protest"
+        ],
+        "strictKeywords": [
+          "iranian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Iranian%20protests&hl=en-IR&gl=IR&ceid=IR%3Aen",
+          "https://news.google.com/rss/search?q=Iran%20protest&hl=en-IR&gl=IR&ceid=IR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q137612545",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q137860199",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Uganda",
+      "countries": [
+        "Uganda"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Ugandan_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "uganda-ugandan-protests",
+        "name": "2026 Ugandan protests",
+        "region": "Africa",
+        "location": "Uganda",
+        "year": 2026,
+        "description": "public demonstrations following election fraud",
+        "keywords": [
+          "ugandan",
+          "uganda",
+          "protest"
+        ],
+        "strictKeywords": [
+          "ugandan"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Ugandan%20protests&hl=en-UG&gl=UG&ceid=UG%3Aen",
+          "https://news.google.com/rss/search?q=Uganda%20protest&hl=en-UG&gl=UG&ceid=UG%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q137860199",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Ugandan_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q138048080",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Philippines",
+      "countries": [
+        "Philippines"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Dupax_del_Norte_anti-mining_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "philippines-dupax-del-norte-anti-mining-protests",
+        "name": "Dupax del Norte anti-mining protests",
+        "region": "Asia",
+        "location": "Philippines",
+        "year": 2026,
+        "description": "series of protests from 2025 to 2026",
+        "keywords": [
+          "dupax",
+          "del",
+          "norte",
+          "anti",
+          "mining",
+          "philippines",
+          "protest"
+        ],
+        "strictKeywords": [
+          "dupax",
+          "del",
+          "norte",
+          "anti",
+          "mining"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Dupax%20del%20Norte%20anti-mining%20protests&hl=en-PH&gl=PH&ceid=PH%3Aen",
+          "https://news.google.com/rss/search?q=Philippines%20protest&hl=en-PH&gl=PH&ceid=PH%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q138048080",
+          "wikipedia": "https://en.wikipedia.org/wiki/Dupax_del_Norte_anti-mining_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q138497595",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Mexico",
+      "countries": [
+        "Mexico"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Mexico_cartel_unrest",
+      "needsName": false,
+      "suggested": {
+        "id": "mexico-mexico-cartel-unrest",
+        "name": "2026 Mexico cartel unrest",
+        "region": "Americas",
+        "location": "Mexico",
+        "year": 2026,
+        "description": "reaction to the killing of El Mencho",
+        "keywords": [
+          "mexico",
+          "cartel",
+          "protest"
+        ],
+        "strictKeywords": [
+          "mexico",
+          "cartel"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Mexico%20cartel%20unrest&hl=en-MX&gl=MX&ceid=MX%3Aen",
+          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q138497595",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Mexico_cartel_unrest"
+        }
+      }
+    },
+    {
+      "key": "wd-Q138514607",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United States",
+      "countries": [
+        "United States"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_the_2026_Iran_war_in_the_United_States",
+      "needsName": false,
+      "suggested": {
+        "id": "united-states-protests-against-the-iran-war-in-the-united-states",
+        "name": "protests against the 2026 Iran war in the United States",
+        "region": "Americas",
+        "location": "United States",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "iran",
+          "war",
+          "united",
+          "states",
+          "united states",
+          "protest"
+        ],
+        "strictKeywords": [
+          "iran",
+          "war",
+          "united",
+          "states"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=protests%20against%20the%202026%20Iran%20war%20in%20the%20United%20States&hl=en-US&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q138514607",
+          "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_the_2026_Iran_war_in_the_United_States"
         }
       }
     },
