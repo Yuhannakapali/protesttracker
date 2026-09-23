@@ -577,7 +577,7 @@
   "sources": [
     {
       "name": "La Izquierda Diario",
-      "count": 27,
+      "count": 28,
       "first": "2015-04-23",
       "last": "2026-06-24"
     },
@@ -642,12 +642,6 @@
       "last": "2025-02-06"
     },
     {
-      "name": "La Izquierda Diario Chile",
-      "count": 5,
-      "first": "2016-11-05",
-      "last": "2025-03-26"
-    },
-    {
       "name": "La Tercera",
       "count": 5,
       "first": "2018-06-04",
@@ -678,10 +672,10 @@
       "last": "2026-08-06"
     },
     {
-      "name": "NODAL - Noticias de América Latina y el Caribe",
+      "name": "La Izquierda Diario Chile",
       "count": 4,
-      "first": "2016-08-26",
-      "last": "2025-09-23"
+      "first": "2016-11-05",
+      "last": "2021-05-24"
     },
     {
       "name": "- CIPER Chile",
@@ -720,6 +714,12 @@
       "last": "2022-11-06"
     },
     {
+      "name": "nodal.am",
+      "count": 3,
+      "first": "2016-08-19",
+      "last": "2025-09-23"
+    },
+    {
       "name": "Perfil",
       "count": 3,
       "first": "2019-11-23",
@@ -730,12 +730,6 @@
       "count": 3,
       "first": "2019-10-23",
       "last": "2020-10-16"
-    },
-    {
-      "name": "The Guardian",
-      "count": 3,
-      "first": "2016-08-21",
-      "last": "2019-10-30"
     },
     {
       "name": "The New York Times",
@@ -828,6 +822,12 @@
       "last": "2020-03-11"
     },
     {
+      "name": "NODAL - Noticias de América Latina y el Caribe",
+      "count": 2,
+      "first": "2016-08-26",
+      "last": "2021-04-26"
+    },
+    {
       "name": "Pressenza - International Press Agency",
       "count": 2,
       "first": "2015-12-12",
@@ -846,12 +846,6 @@
       "last": "2025-01-29"
     },
     {
-      "name": "South China Morning Post",
-      "count": 2,
-      "first": "2019-10-23",
-      "last": "2022-03-12"
-    },
-    {
       "name": "Teletrece",
       "count": 2,
       "first": "2019-10-06",
@@ -862,6 +856,12 @@
       "count": 2,
       "first": "2024-02-07",
       "last": "2025-11-29"
+    },
+    {
+      "name": "theguardian.com",
+      "count": 2,
+      "first": "2016-08-21",
+      "last": "2019-10-24"
     },
     {
       "name": "TN",
@@ -960,7 +960,7 @@
       "last": "2019-10-26"
     },
     {
-      "name": "Business News Nigeria",
+      "name": "businessday.ng",
       "count": 1,
       "first": "2021-09-22",
       "last": "2021-09-22"
@@ -1188,7 +1188,7 @@
       "last": "2020-02-19"
     },
     {
-      "name": "Infinita",
+      "name": "infinita.cl",
       "count": 1,
       "first": "2021-12-14",
       "last": "2021-12-14"
@@ -1312,12 +1312,6 @@
       "count": 1,
       "first": "2017-12-22",
       "last": "2017-12-22"
-    },
-    {
-      "name": "nodal.am",
-      "count": 1,
-      "first": "2016-08-19",
-      "last": "2016-08-19"
     },
     {
       "name": "Noticias SIN",
@@ -1452,6 +1446,18 @@
       "last": "2025-09-24"
     },
     {
+      "name": "SCMP",
+      "count": 1,
+      "first": "2019-10-23",
+      "last": "2019-10-23"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 1,
+      "first": "2022-03-12",
+      "last": "2022-03-12"
+    },
+    {
       "name": "Sydney Criminal Lawyers",
       "count": 1,
       "first": "2020-03-17",
@@ -1474,6 +1480,12 @@
       "count": 1,
       "first": "2019-11-11",
       "last": "2019-11-11"
+    },
+    {
+      "name": "The Guardian",
+      "count": 1,
+      "first": "2019-10-30",
+      "last": "2019-10-30"
     },
     {
       "name": "The Independent",

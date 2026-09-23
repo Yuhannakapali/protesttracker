@@ -148,12 +148,6 @@
   ],
   "sources": [
     {
-      "name": "Daily Nation",
-      "count": 49,
-      "first": "2024-06-19",
-      "last": "2026-08-10"
-    },
-    {
       "name": "People Daily",
       "count": 44,
       "first": "2025-11-02",
@@ -172,9 +166,21 @@
       "last": "2026-09-17"
     },
     {
+      "name": "Daily Nation",
+      "count": 30,
+      "first": "2024-06-19",
+      "last": "2026-08-10"
+    },
+    {
       "name": "Al Jazeera",
       "count": 22,
       "first": "2024-06-18",
+      "last": "2026-06-27"
+    },
+    {
+      "name": "nation.africa",
+      "count": 19,
+      "first": "2026-04-15",
       "last": "2026-06-27"
     },
     {
@@ -206,12 +212,6 @@
       "count": 10,
       "first": "2025-06-25",
       "last": "2026-07-07"
-    },
-    {
-      "name": "The EastAfrican",
-      "count": 9,
-      "first": "2024-06-18",
-      "last": "2026-06-21"
     },
     {
       "name": "The Kenya Times",
@@ -266,6 +266,12 @@
       "count": 6,
       "first": "2024-06-26",
       "last": "2026-06-25"
+    },
+    {
+      "name": "The EastAfrican",
+      "count": 6,
+      "first": "2024-06-18",
+      "last": "2025-08-09"
     },
     {
       "name": "Context News",
@@ -368,6 +374,12 @@
       "count": 3,
       "first": "2026-08-07",
       "last": "2026-09-22"
+    },
+    {
+      "name": "theeastafrican.co.ke",
+      "count": 3,
+      "first": "2025-06-07",
+      "last": "2026-06-21"
     },
     {
       "name": "accord.org.za",
@@ -484,12 +496,6 @@
       "last": "2024-07-19"
     },
     {
-      "name": "blogs.lse.ac.uk",
-      "count": 1,
-      "first": "2024-08-01",
-      "last": "2024-08-01"
-    },
-    {
       "name": "Bloomberg.com",
       "count": 1,
       "first": "2026-05-05",
@@ -586,6 +592,12 @@
       "last": "2026-06-24"
     },
     {
+      "name": "ibanet.org",
+      "count": 1,
+      "first": "2026-01-19",
+      "last": "2026-01-19"
+    },
+    {
       "name": "ICJ Kenya",
       "count": 1,
       "first": "2024-08-05",
@@ -596,12 +608,6 @@
       "count": 1,
       "first": "2026-02-17",
       "last": "2026-02-17"
-    },
-    {
-      "name": "International Bar Association | IBA",
-      "count": 1,
-      "first": "2026-01-19",
-      "last": "2026-01-19"
     },
     {
       "name": "International Socialist Alternative",
@@ -646,7 +652,7 @@
       "last": "2025-09-20"
     },
     {
-      "name": "kroc.nd.edu",
+      "name": "Kroc Institute for International Peace Studies",
       "count": 1,
       "first": "2024-08-12",
       "last": "2024-08-12"
@@ -658,10 +664,10 @@
       "last": "2026-08-27"
     },
     {
-      "name": "malaysia.news.yahoo.com",
+      "name": "LSE Blogs",
       "count": 1,
-      "first": "2026-09-17",
-      "last": "2026-09-17"
+      "first": "2024-08-01",
+      "last": "2024-08-01"
     },
     {
       "name": "Middle East Monitor",
@@ -806,6 +812,12 @@
       "count": 1,
       "first": "2026-06-15",
       "last": "2026-06-15"
+    },
+    {
+      "name": "Yahoo",
+      "count": 1,
+      "first": "2026-09-17",
+      "last": "2026-09-17"
     },
     {
       "name": "معهد الجزيرة للإعلام",

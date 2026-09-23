@@ -815,21 +815,15 @@
     },
     {
       "start": "2026-09-01",
-      "count": 119
+      "count": 121
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 68,
+      "count": 69,
       "first": "2012-01-05",
-      "last": "2026-09-22"
-    },
-    {
-      "name": "The Guardian Nigeria News",
-      "count": 51,
-      "first": "2015-10-02",
-      "last": "2026-06-08"
+      "last": "2026-09-23"
     },
     {
       "name": "Channels Television",
@@ -839,9 +833,9 @@
     },
     {
       "name": "Vanguard",
-      "count": 44,
+      "count": 45,
       "first": "2026-09-02",
-      "last": "2026-09-22"
+      "last": "2026-09-23"
     },
     {
       "name": "Vanguard News",
@@ -862,10 +856,22 @@
       "last": "2025-12-17"
     },
     {
+      "name": "The Guardian Nigeria News",
+      "count": 35,
+      "first": "2015-10-02",
+      "last": "2026-02-03"
+    },
+    {
       "name": "Punch Newspapers",
       "count": 28,
       "first": "2020-09-04",
       "last": "2026-09-11"
+    },
+    {
+      "name": "The Guardian",
+      "count": 23,
+      "first": "2012-01-03",
+      "last": "2026-06-08"
     },
     {
       "name": "Ripples Nigeria",
@@ -922,12 +928,6 @@
       "last": "2026-06-04"
     },
     {
-      "name": "The Whistler Newspaper",
-      "count": 10,
-      "first": "2020-09-04",
-      "last": "2026-06-03"
-    },
-    {
       "name": "Independent Newspaper Nigeria",
       "count": 9,
       "first": "2020-09-07",
@@ -946,10 +946,10 @@
       "last": "2026-09-21"
     },
     {
-      "name": "The Guardian",
+      "name": "The Whistler Newspaper",
       "count": 7,
-      "first": "2012-01-03",
-      "last": "2026-01-26"
+      "first": "2020-09-04",
+      "last": "2026-04-28"
     },
     {
       "name": "VOA - Voice of America English News",
@@ -1024,6 +1024,12 @@
       "last": "2026-09-11"
     },
     {
+      "name": "thewhistler.ng",
+      "count": 4,
+      "first": "2024-05-06",
+      "last": "2026-06-03"
+    },
+    {
       "name": "vanguardngr.com",
       "count": 4,
       "first": "2020-07-16",
@@ -1048,10 +1054,10 @@
       "last": "2021-03-12"
     },
     {
-      "name": "fij.ng",
+      "name": "FIJ NG",
       "count": 2,
-      "first": "2024-09-05",
-      "last": "2024-11-11"
+      "first": "2024-09-04",
+      "last": "2024-09-05"
     },
     {
       "name": "legit.ng",
@@ -1192,10 +1198,10 @@
       "last": "2024-07-24"
     },
     {
-      "name": "FIJ NG",
+      "name": "fij.ng",
       "count": 1,
-      "first": "2024-09-04",
-      "last": "2024-09-04"
+      "first": "2024-11-11",
+      "last": "2024-11-11"
     },
     {
       "name": "Firstpost",
@@ -1408,12 +1414,6 @@
       "last": "2024-09-04"
     },
     {
-      "name": "thewhistler.ng",
-      "count": 1,
-      "first": "2024-09-07",
-      "last": "2024-09-07"
-    },
-    {
       "name": "Times of Malta",
       "count": 1,
       "first": "2012-01-09",
@@ -1439,5 +1439,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-09-22"
+  "lastDate": "2026-09-23"
 }
