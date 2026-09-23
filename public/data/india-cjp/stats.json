@@ -103,7 +103,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 176
+      "count": 178
     },
     {
       "start": "2026-08-01",
@@ -111,21 +111,21 @@
     },
     {
       "start": "2026-09-01",
-      "count": 371
+      "count": 372
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 99,
+      "count": 100,
       "first": "2026-06-06",
       "last": "2026-09-22"
     },
     {
       "name": "NDTV",
-      "count": 64,
+      "count": 65,
       "first": "2026-05-12",
-      "last": "2026-09-22"
+      "last": "2026-09-23"
     },
     {
       "name": "The New Indian Express",
@@ -236,6 +236,12 @@
       "last": "2026-09-17"
     },
     {
+      "name": "WION",
+      "count": 14,
+      "first": "2026-07-23",
+      "last": "2026-09-01"
+    },
+    {
       "name": "Livemint",
       "count": 13,
       "first": "2026-08-16",
@@ -246,12 +252,6 @@
       "count": 13,
       "first": "2026-07-11",
       "last": "2026-09-09"
-    },
-    {
-      "name": "WION",
-      "count": 13,
-      "first": "2026-08-10",
-      "last": "2026-09-01"
     },
     {
       "name": "Deccan Herald",
@@ -296,6 +296,12 @@
       "last": "2026-09-21"
     },
     {
+      "name": "The Tribune",
+      "count": 11,
+      "first": "2026-08-15",
+      "last": "2026-09-10"
+    },
+    {
       "name": "DNA India",
       "count": 10,
       "first": "2026-07-24",
@@ -317,12 +323,6 @@
       "name": "The Statesman",
       "count": 9,
       "first": "2026-08-18",
-      "last": "2026-09-10"
-    },
-    {
-      "name": "The Tribune",
-      "count": 9,
-      "first": "2026-08-15",
       "last": "2026-09-10"
     },
     {
@@ -362,7 +362,7 @@
       "last": "2026-09-16"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 6,
       "first": "2026-07-21",
       "last": "2026-08-19"
@@ -416,6 +416,12 @@
       "last": "2026-08-24"
     },
     {
+      "name": "Brut",
+      "count": 4,
+      "first": "2026-07-12",
+      "last": "2026-08-11"
+    },
+    {
       "name": "LawChakra",
       "count": 4,
       "first": "2026-09-10",
@@ -450,12 +456,6 @@
       "count": 3,
       "first": "2026-08-16",
       "last": "2026-09-17"
-    },
-    {
-      "name": "Brut",
-      "count": 3,
-      "first": "2026-07-19",
-      "last": "2026-08-11"
     },
     {
       "name": "CNBC TV18",
@@ -506,6 +506,12 @@
       "last": "2026-08-25"
     },
     {
+      "name": "The Quint",
+      "count": 3,
+      "first": "2026-08-18",
+      "last": "2026-09-17"
+    },
+    {
       "name": "The Siasat Daily",
       "count": 3,
       "first": "2026-09-04",
@@ -528,12 +534,6 @@
       "count": 2,
       "first": "2026-08-23",
       "last": "2026-08-24"
-    },
-    {
-      "name": "brut.media",
-      "count": 2,
-      "first": "2026-07-12",
-      "last": "2026-07-20"
     },
     {
       "name": "Business and Human Rights Centre",
@@ -564,12 +564,6 @@
       "count": 2,
       "first": "2026-08-16",
       "last": "2026-08-24"
-    },
-    {
-      "name": "Fact Check AFP",
-      "count": 2,
-      "first": "2026-07-10",
-      "last": "2026-07-31"
     },
     {
       "name": "Free Press Kashmir",
@@ -636,6 +630,12 @@
       "count": 2,
       "first": "2026-08-31",
       "last": "2026-09-03"
+    },
+    {
+      "name": "NPR",
+      "count": 2,
+      "first": "2026-07-21",
+      "last": "2026-07-25"
     },
     {
       "name": "OdishaBytes",
@@ -716,12 +716,6 @@
       "last": "2026-08-29"
     },
     {
-      "name": "The Quint",
-      "count": 2,
-      "first": "2026-08-18",
-      "last": "2026-09-15"
-    },
-    {
       "name": "The Shillong Times",
       "count": 2,
       "first": "2026-08-11",
@@ -752,12 +746,6 @@
       "last": "2026-09-14"
     },
     {
-      "name": "tribuneindia.com",
-      "count": 2,
-      "first": "2026-08-27",
-      "last": "2026-09-08"
-    },
-    {
       "name": "True Scoop",
       "count": 2,
       "first": "2026-07-23",
@@ -770,12 +758,6 @@
       "last": "2026-08-21"
     },
     {
-      "name": "wionews.com",
-      "count": 2,
-      "first": "2026-07-23",
-      "last": "2026-09-03"
-    },
-    {
       "name": "Zee News",
       "count": 2,
       "first": "2026-07-30",
@@ -786,6 +768,12 @@
       "count": 1,
       "first": "2026-07-27",
       "last": "2026-07-27"
+    },
+    {
+      "name": "AFP Fact Check",
+      "count": 1,
+      "first": "2026-07-31",
+      "last": "2026-07-31"
     },
     {
       "name": "Ahmedabad Mirror",
@@ -816,6 +804,12 @@
       "count": 1,
       "first": "2026-09-16",
       "last": "2026-09-16"
+    },
+    {
+      "name": "brut.media",
+      "count": 1,
+      "first": "2026-07-20",
+      "last": "2026-07-20"
     },
     {
       "name": "Business Today",
@@ -920,6 +914,12 @@
       "last": "2026-08-24"
     },
     {
+      "name": "Fact Check AFP",
+      "count": 1,
+      "first": "2026-07-10",
+      "last": "2026-07-10"
+    },
+    {
       "name": "Firstpost",
       "count": 1,
       "first": "2026-08-24",
@@ -986,13 +986,13 @@
       "last": "2026-08-30"
     },
     {
-      "name": "indiablooms.com",
+      "name": "Indiablooms",
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
     },
     {
-      "name": "ishr.ch",
+      "name": "International Service for Human Rights",
       "count": 1,
       "first": "2026-08-14",
       "last": "2026-08-14"
@@ -1076,7 +1076,7 @@
       "last": "2026-08-20"
     },
     {
-      "name": "muslimmirror.com",
+      "name": "Muslim Mirror",
       "count": 1,
       "first": "2026-09-18",
       "last": "2026-09-18"
@@ -1098,12 +1098,6 @@
       "count": 1,
       "first": "2026-07-23",
       "last": "2026-07-23"
-    },
-    {
-      "name": "NPR",
-      "count": 1,
-      "first": "2026-07-25",
-      "last": "2026-07-25"
     },
     {
       "name": "Oneindia",
@@ -1262,12 +1256,6 @@
       "last": "2026-08-23"
     },
     {
-      "name": "thequint.com",
-      "count": 1,
-      "first": "2026-09-17",
-      "last": "2026-09-17"
-    },
-    {
       "name": "thestatesman.com",
       "count": 1,
       "first": "2026-09-06",
@@ -1284,6 +1272,12 @@
       "count": 1,
       "first": "2026-09-01",
       "last": "2026-09-01"
+    },
+    {
+      "name": "wionews.com",
+      "count": 1,
+      "first": "2026-09-03",
+      "last": "2026-09-03"
     },
     {
       "name": "worldpoliticsreview.com",
@@ -1311,5 +1305,5 @@
     }
   ],
   "firstDate": "2024-06-18",
-  "lastDate": "2026-09-22"
+  "lastDate": "2026-09-23"
 }
