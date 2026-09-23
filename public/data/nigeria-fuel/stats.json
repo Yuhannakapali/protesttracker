@@ -807,7 +807,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 4
+      "count": 5
     },
     {
       "start": "2026-08-01",
@@ -815,15 +815,21 @@
     },
     {
       "start": "2026-09-01",
-      "count": 121
+      "count": 124
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 69,
+      "count": 70,
       "first": "2012-01-05",
       "last": "2026-09-23"
+    },
+    {
+      "name": "The Guardian Nigeria News",
+      "count": 51,
+      "first": "2015-10-02",
+      "last": "2026-06-08"
     },
     {
       "name": "Channels Television",
@@ -833,7 +839,7 @@
     },
     {
       "name": "Vanguard",
-      "count": 45,
+      "count": 46,
       "first": "2026-09-02",
       "last": "2026-09-23"
     },
@@ -856,22 +862,10 @@
       "last": "2025-12-17"
     },
     {
-      "name": "The Guardian Nigeria News",
-      "count": 35,
-      "first": "2015-10-02",
-      "last": "2026-02-03"
-    },
-    {
       "name": "Punch Newspapers",
       "count": 28,
       "first": "2020-09-04",
       "last": "2026-09-11"
-    },
-    {
-      "name": "The Guardian",
-      "count": 23,
-      "first": "2012-01-03",
-      "last": "2026-06-08"
     },
     {
       "name": "Ripples Nigeria",
@@ -916,16 +910,22 @@
       "last": "2024-08-02"
     },
     {
+      "name": "Business News Nigeria",
+      "count": 12,
+      "first": "2022-01-21",
+      "last": "2026-07-28"
+    },
+    {
       "name": "THISDAYLIVE",
       "count": 12,
       "first": "2023-01-26",
       "last": "2026-03-11"
     },
     {
-      "name": "Business News Nigeria",
-      "count": 11,
-      "first": "2022-01-21",
-      "last": "2026-06-04"
+      "name": "The Whistler Newspaper",
+      "count": 10,
+      "first": "2020-09-04",
+      "last": "2026-06-03"
     },
     {
       "name": "Independent Newspaper Nigeria",
@@ -946,22 +946,16 @@
       "last": "2026-09-21"
     },
     {
-      "name": "The Whistler Newspaper",
+      "name": "The Guardian",
       "count": 7,
-      "first": "2020-09-04",
-      "last": "2026-04-28"
+      "first": "2012-01-03",
+      "last": "2026-01-26"
     },
     {
       "name": "VOA - Voice of America English News",
       "count": 7,
       "first": "2009-10-30",
       "last": "2024-08-08"
-    },
-    {
-      "name": "Nigeria Labour Congress (NLC)",
-      "count": 6,
-      "first": "2023-03-30",
-      "last": "2026-06-03"
     },
     {
       "name": "The Nation Newspaper",
@@ -1024,16 +1018,22 @@
       "last": "2026-09-11"
     },
     {
-      "name": "thewhistler.ng",
+      "name": "nlcng.org",
       "count": 4,
-      "first": "2024-05-06",
-      "last": "2026-06-03"
+      "first": "2023-11-15",
+      "last": "2026-05-29"
     },
     {
       "name": "vanguardngr.com",
       "count": 4,
       "first": "2020-07-16",
       "last": "2025-10-22"
+    },
+    {
+      "name": "Nigeria Labour Congress (NLC)",
+      "count": 3,
+      "first": "2023-03-30",
+      "last": "2026-06-03"
     },
     {
       "name": "Peoples Gazette Nigeria",
@@ -1204,7 +1204,7 @@
       "last": "2024-11-11"
     },
     {
-      "name": "Firstpost",
+      "name": "firstpost.com",
       "count": 1,
       "first": "2024-02-15",
       "last": "2024-02-15"
@@ -1318,22 +1318,16 @@
       "last": "2026-09-15"
     },
     {
-      "name": "New Telegraph",
-      "count": 1,
-      "first": "2024-09-05",
-      "last": "2024-09-05"
-    },
-    {
-      "name": "Nigerian Democratic Report",
+      "name": "ndr.org.ng",
       "count": 1,
       "first": "2026-09-17",
       "last": "2026-09-17"
     },
     {
-      "name": "nlcng.org",
+      "name": "New Telegraph",
       "count": 1,
-      "first": "2023-11-15",
-      "last": "2023-11-15"
+      "first": "2024-09-05",
+      "last": "2024-09-05"
     },
     {
       "name": "Parallel Facts",
@@ -1346,6 +1340,12 @@
       "count": 1,
       "first": "2026-09-15",
       "last": "2026-09-15"
+    },
+    {
+      "name": "Politics Nigeria",
+      "count": 1,
+      "first": "2026-09-23",
+      "last": "2026-09-23"
     },
     {
       "name": "proshare.co",
@@ -1412,6 +1412,12 @@
       "count": 1,
       "first": "2024-09-04",
       "last": "2024-09-04"
+    },
+    {
+      "name": "thewhistler.ng",
+      "count": 1,
+      "first": "2024-09-07",
+      "last": "2024-09-07"
     },
     {
       "name": "Times of Malta",
