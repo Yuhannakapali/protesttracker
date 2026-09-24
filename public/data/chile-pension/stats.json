@@ -583,12 +583,12 @@
     },
     {
       "name": "The Clinic",
-      "count": 13,
+      "count": 15,
       "first": "2016-07-27",
       "last": "2026-09-24"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -804,7 +804,7 @@
       "last": "2026-07-29"
     },
     {
-      "name": "Interferencia |",
+      "name": "interferencia.cl",
       "count": 2,
       "first": "2019-09-25",
       "last": "2019-10-16"
@@ -870,12 +870,6 @@
       "last": "2025-11-29"
     },
     {
-      "name": "theclinic.cl",
-      "count": 2,
-      "first": "2017-02-11",
-      "last": "2017-03-26"
-    },
-    {
       "name": "TN",
       "count": 2,
       "first": "2023-04-06",
@@ -930,7 +924,7 @@
       "last": "2019-12-13"
     },
     {
-      "name": "Atlantic Council",
+      "name": "atlanticcouncil.org",
       "count": 1,
       "first": "2019-12-09",
       "last": "2019-12-09"
@@ -1110,13 +1104,7 @@
       "last": "2022-05-25"
     },
     {
-      "name": "Fenpruss",
-      "count": 1,
-      "first": "2019-03-25",
-      "last": "2019-03-25"
-    },
-    {
-      "name": "Foreign Policy",
+      "name": "foreignpolicy.com",
       "count": 1,
       "first": "2019-10-23",
       "last": "2019-10-23"
@@ -1194,7 +1182,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "infinita.cl",
+      "name": "Infinita",
       "count": 1,
       "first": "2021-12-14",
       "last": "2021-12-14"
@@ -1212,7 +1200,7 @@
       "last": "2019-12-14"
     },
     {
-      "name": "izquierdaweb.com",
+      "name": "Izquierda Web",
       "count": 1,
       "first": "2020-07-16",
       "last": "2020-07-16"
@@ -1428,7 +1416,7 @@
       "last": "2026-09-16"
     },
     {
-      "name": "reflexionyliberacion.cl",
+      "name": "Reflexión y Liberación",
       "count": 1,
       "first": "2016-11-03",
       "last": "2016-11-03"
@@ -1506,16 +1494,16 @@
       "last": "2019-11-15"
     },
     {
-      "name": "The Sun Nigeria",
-      "count": 1,
-      "first": "2025-07-26",
-      "last": "2025-07-26"
-    },
-    {
       "name": "The World from PRX",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
+    },
+    {
+      "name": "thesun.ng",
+      "count": 1,
+      "first": "2025-07-26",
+      "last": "2025-07-26"
     },
     {
       "name": "Toronto Sun",
@@ -1536,7 +1524,7 @@
       "last": "2019-11-26"
     },
     {
-      "name": "ukamau.cl",
+      "name": "Ukamau",
       "count": 1,
       "first": "2022-04-30",
       "last": "2022-04-30"
@@ -1564,6 +1552,12 @@
       "count": 1,
       "first": "2018-04-23",
       "last": "2018-04-23"
+    },
+    {
+      "name": "web2.fenpruss.cl",
+      "count": 1,
+      "first": "2019-03-25",
+      "last": "2019-03-25"
     },
     {
       "name": "World Socialist Web Site",

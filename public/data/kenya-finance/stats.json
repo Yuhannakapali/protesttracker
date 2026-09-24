@@ -131,7 +131,7 @@
     },
     {
       "start": "2026-06-01",
-      "count": 148
+      "count": 149
     },
     {
       "start": "2026-07-01",
@@ -167,7 +167,7 @@
     },
     {
       "name": "Citizen Digital",
-      "count": 33,
+      "count": 34,
       "first": "2024-12-27",
       "last": "2026-09-17"
     },
@@ -202,6 +202,12 @@
       "last": "2026-06-25"
     },
     {
+      "name": "World Socialist Web Site",
+      "count": 10,
+      "first": "2025-06-25",
+      "last": "2026-07-07"
+    },
+    {
       "name": "The EastAfrican",
       "count": 9,
       "first": "2024-06-18",
@@ -226,16 +232,16 @@
       "last": "2026-07-28"
     },
     {
-      "name": "wsws.org",
-      "count": 8,
-      "first": "2025-06-25",
-      "last": "2026-07-07"
-    },
-    {
       "name": "standardmedia.co.ke",
       "count": 7,
       "first": "2026-04-03",
       "last": "2026-09-14"
+    },
+    {
+      "name": "The Conversation",
+      "count": 7,
+      "first": "2024-06-22",
+      "last": "2026-06-23"
     },
     {
       "name": "VOA - Voice of America English News",
@@ -260,12 +266,6 @@
       "count": 6,
       "first": "2024-06-26",
       "last": "2026-06-25"
-    },
-    {
-      "name": "The Conversation",
-      "count": 6,
-      "first": "2024-06-22",
-      "last": "2024-07-16"
     },
     {
       "name": "Context News",
@@ -394,16 +394,16 @@
       "last": "2026-06-22"
     },
     {
-      "name": "Channels Television",
-      "count": 2,
-      "first": "2026-06-25",
-      "last": "2026-06-27"
-    },
-    {
       "name": "CNBC Africa",
       "count": 2,
       "first": "2024-06-27",
       "last": "2024-07-01"
+    },
+    {
+      "name": "Kenya News Agency",
+      "count": 2,
+      "first": "2026-04-24",
+      "last": "2026-06-25"
     },
     {
       "name": "Nairobi Leo",
@@ -430,12 +430,6 @@
       "last": "2026-06-25"
     },
     {
-      "name": "World Socialist Web Site",
-      "count": 2,
-      "first": "2025-07-07",
-      "last": "2025-10-26"
-    },
-    {
       "name": "aa.com.tr",
       "count": 1,
       "first": "2026-06-25",
@@ -448,7 +442,7 @@
       "last": "2024-06-20"
     },
     {
-      "name": "africacheck.org",
+      "name": "Africa Check",
       "count": 1,
       "first": "2026-09-22",
       "last": "2026-09-22"
@@ -502,10 +496,28 @@
       "last": "2026-08-26"
     },
     {
+      "name": "Channels Television",
+      "count": 1,
+      "first": "2026-06-27",
+      "last": "2026-06-27"
+    },
+    {
+      "name": "channelstv.com",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
       "name": "Chatham House",
       "count": 1,
       "first": "2024-08-01",
       "last": "2024-08-01"
+    },
+    {
+      "name": "christiandaily.com",
+      "count": 1,
+      "first": "2026-06-15",
+      "last": "2026-06-15"
     },
     {
       "name": "Civicus Monitor",
@@ -550,7 +562,7 @@
       "last": "2024-06-27"
     },
     {
-      "name": "Free Malaysia Today",
+      "name": "freemalaysiatoday.com",
       "count": 1,
       "first": "2026-06-26",
       "last": "2026-06-26"
@@ -628,18 +640,6 @@
       "last": "2026-08-28"
     },
     {
-      "name": "Kenya News Agency",
-      "count": 1,
-      "first": "2026-06-25",
-      "last": "2026-06-25"
-    },
-    {
-      "name": "kenyanews.go.ke",
-      "count": 1,
-      "first": "2026-04-24",
-      "last": "2026-04-24"
-    },
-    {
       "name": "khrc.or.ke",
       "count": 1,
       "first": "2025-09-20",
@@ -676,7 +676,7 @@
       "last": "2025-05-13"
     },
     {
-      "name": "openDemocracy",
+      "name": "opendemocracy.net",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -772,12 +772,6 @@
       "last": "2026-04-22"
     },
     {
-      "name": "theconversation.com",
-      "count": 1,
-      "first": "2026-06-23",
-      "last": "2026-06-23"
-    },
-    {
       "name": "Tricontinental: Institute for Social Research",
       "count": 1,
       "first": "2026-03-31",
@@ -812,12 +806,6 @@
       "count": 1,
       "first": "2025-09-01",
       "last": "2025-09-01"
-    },
-    {
-      "name": "www.christiandaily.com",
-      "count": 1,
-      "first": "2026-06-15",
-      "last": "2026-06-15"
     },
     {
       "name": "Yahoo",
