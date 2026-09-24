@@ -343,7 +343,7 @@
     },
     {
       "start": "2021-12-01",
-      "count": 2
+      "count": 3
     },
     {
       "start": "2022-01-01",
@@ -571,13 +571,13 @@
     },
     {
       "start": "2026-09-01",
-      "count": 13
+      "count": 14
     }
   ],
   "sources": [
     {
       "name": "La Izquierda Diario",
-      "count": 31,
+      "count": 32,
       "first": "2015-04-23",
       "last": "2026-06-24"
     },
@@ -630,12 +630,6 @@
       "last": "2024-08-17"
     },
     {
-      "name": "Universidad de Chile",
-      "count": 6,
-      "first": "2017-04-22",
-      "last": "2023-07-16"
-    },
-    {
       "name": "Americas Quarterly",
       "count": 5,
       "first": "2017-07-25",
@@ -678,6 +672,12 @@
       "last": "2025-09-23"
     },
     {
+      "name": "radio.uchile.cl",
+      "count": 4,
+      "first": "2018-10-24",
+      "last": "2023-07-16"
+    },
+    {
       "name": "- CIPER Chile",
       "count": 3,
       "first": "2016-07-26",
@@ -696,6 +696,12 @@
       "last": "2017-09-03"
     },
     {
+      "name": "Cooperativa",
+      "count": 3,
+      "first": "2016-10-08",
+      "last": "2021-12-29"
+    },
+    {
       "name": "Democracy Now!",
       "count": 3,
       "first": "2017-03-27",
@@ -712,12 +718,6 @@
       "count": 3,
       "first": "2021-05-27",
       "last": "2022-11-06"
-    },
-    {
-      "name": "La Izquierda Diario Chile",
-      "count": 3,
-      "first": "2017-03-27",
-      "last": "2021-05-24"
     },
     {
       "name": "Perfil",
@@ -768,12 +768,6 @@
       "last": "2026-07-29"
     },
     {
-      "name": "Cooperativa",
-      "count": 2,
-      "first": "2016-10-08",
-      "last": "2019-10-25"
-    },
-    {
       "name": "Council on Foreign Relations",
       "count": 2,
       "first": "2019-11-01",
@@ -810,6 +804,12 @@
       "last": "2019-10-16"
     },
     {
+      "name": "La Izquierda Diario Chile",
+      "count": 2,
+      "first": "2020-07-20",
+      "last": "2021-05-24"
+    },
+    {
       "name": "Latino Rebels -",
       "count": 2,
       "first": "2019-10-28",
@@ -840,7 +840,7 @@
       "last": "2016-10-16"
     },
     {
-      "name": "Resumen.cl",
+      "name": "resumen.cl",
       "count": 2,
       "first": "2024-08-06",
       "last": "2025-03-20"
@@ -858,10 +858,10 @@
       "last": "2022-03-12"
     },
     {
-      "name": "Teletrece",
+      "name": "t13.cl",
       "count": 2,
-      "first": "2019-10-06",
-      "last": "2022-03-31"
+      "first": "2019-03-31",
+      "last": "2019-10-06"
     },
     {
       "name": "The Nation Newspaper",
@@ -874,6 +874,12 @@
       "count": 2,
       "first": "2023-04-06",
       "last": "2025-12-04"
+    },
+    {
+      "name": "Universidad de Chile",
+      "count": 2,
+      "first": "2017-04-22",
+      "last": "2019-03-31"
     },
     {
       "name": "0264Noticias",
@@ -954,7 +960,7 @@
       "last": "2019-10-26"
     },
     {
-      "name": "businessday.ng",
+      "name": "Business News Nigeria",
       "count": 1,
       "first": "2021-09-22",
       "last": "2021-09-22"
@@ -1026,7 +1032,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Diario Talca",
+      "name": "diariotalca.cl",
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
@@ -1260,7 +1266,7 @@
       "last": "2019-01-24"
     },
     {
-      "name": "Mala Espina",
+      "name": "malaespinacheck.cl",
       "count": 1,
       "first": "2024-12-27",
       "last": "2024-12-27"
@@ -1284,7 +1290,7 @@
       "last": "2019-12-10"
     },
     {
-      "name": "montevideo.com.uy",
+      "name": "Montevideo Portal",
       "count": 1,
       "first": "2023-03-20",
       "last": "2023-03-20"
@@ -1422,7 +1428,7 @@
       "last": "2026-09-16"
     },
     {
-      "name": "reflexionyliberacion.cl",
+      "name": "Reflexión y Liberación",
       "count": 1,
       "first": "2016-11-03",
       "last": "2016-11-03"
@@ -1438,6 +1444,12 @@
       "count": 1,
       "first": "2025-09-14",
       "last": "2025-09-14"
+    },
+    {
+      "name": "roadshow.cl",
+      "count": 1,
+      "first": "2026-09-24",
+      "last": "2026-09-24"
     },
     {
       "name": "RosarioPlus",
@@ -1458,10 +1470,10 @@
       "last": "2020-03-17"
     },
     {
-      "name": "t13.cl",
+      "name": "Teletrece",
       "count": 1,
-      "first": "2019-03-31",
-      "last": "2019-03-31"
+      "first": "2022-03-31",
+      "last": "2022-03-31"
     },
     {
       "name": "The Bogotá Post",
@@ -1530,7 +1542,7 @@
       "last": "2019-11-26"
     },
     {
-      "name": "ukamau.cl",
+      "name": "Ukamau",
       "count": 1,
       "first": "2022-04-30",
       "last": "2022-04-30"

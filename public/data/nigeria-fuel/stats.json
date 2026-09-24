@@ -850,16 +850,16 @@
       "last": "2026-09-14"
     },
     {
+      "name": "Premium Times Nigeria",
+      "count": 37,
+      "first": "2013-04-18",
+      "last": "2026-02-02"
+    },
+    {
       "name": "BBC",
       "count": 35,
       "first": "2018-09-26",
       "last": "2025-12-17"
-    },
-    {
-      "name": "Premium Times Nigeria",
-      "count": 32,
-      "first": "2013-04-18",
-      "last": "2026-02-02"
     },
     {
       "name": "Punch Newspapers",
@@ -884,6 +884,12 @@
       "count": 15,
       "first": "2023-06-02",
       "last": "2026-06-04"
+    },
+    {
+      "name": "The Sun Nigeria",
+      "count": 15,
+      "first": "2022-11-30",
+      "last": "2026-08-14"
     },
     {
       "name": "TheCable",
@@ -916,12 +922,6 @@
       "last": "2026-03-11"
     },
     {
-      "name": "The Sun Nigeria",
-      "count": 11,
-      "first": "2024-09-04",
-      "last": "2026-06-04"
-    },
-    {
       "name": "The Whistler Newspaper",
       "count": 10,
       "first": "2020-09-04",
@@ -952,22 +952,10 @@
       "last": "2026-01-26"
     },
     {
-      "name": "premiumtimesng.com",
-      "count": 7,
-      "first": "2021-12-18",
-      "last": "2026-01-27"
-    },
-    {
       "name": "VOA - Voice of America English News",
       "count": 7,
       "first": "2009-10-30",
       "last": "2024-08-08"
-    },
-    {
-      "name": "The Nation Newspaper",
-      "count": 6,
-      "first": "2022-01-10",
-      "last": "2026-06-03"
     },
     {
       "name": "TVC News",
@@ -1012,12 +1000,6 @@
       "last": "2026-01-27"
     },
     {
-      "name": "LEADERSHIP Newspapers",
-      "count": 4,
-      "first": "2024-09-08",
-      "last": "2026-06-04"
-    },
-    {
       "name": "Nigeria Info FM",
       "count": 4,
       "first": "2025-12-17",
@@ -1030,10 +1012,10 @@
       "last": "2026-09-11"
     },
     {
-      "name": "thesun.ng",
+      "name": "The Nation Newspaper",
       "count": 4,
-      "first": "2022-11-30",
-      "last": "2026-08-14"
+      "first": "2024-09-08",
+      "last": "2026-02-04"
     },
     {
       "name": "vanguardngr.com",
@@ -1042,10 +1024,22 @@
       "last": "2025-10-22"
     },
     {
+      "name": "LEADERSHIP Newspapers",
+      "count": 3,
+      "first": "2024-09-08",
+      "last": "2026-02-03"
+    },
+    {
       "name": "Peoples Gazette Nigeria",
       "count": 3,
       "first": "2024-10-09",
       "last": "2026-05-18"
+    },
+    {
+      "name": "thenationonlineng.net",
+      "count": 3,
+      "first": "2022-01-10",
+      "last": "2026-06-03"
     },
     {
       "name": "VOA Africa",
@@ -1106,6 +1100,12 @@
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
+    },
+    {
+      "name": "premiumtimesng.com",
+      "count": 2,
+      "first": "2024-06-03",
+      "last": "2024-06-03"
     },
     {
       "name": "The ICIR",
@@ -1300,6 +1300,12 @@
       "last": "2024-08-21"
     },
     {
+      "name": "leadership.ng",
+      "count": 1,
+      "first": "2026-06-04",
+      "last": "2026-06-04"
+    },
+    {
       "name": "MarketForces Africa",
       "count": 1,
       "first": "2024-11-05",
@@ -1400,12 +1406,6 @@
       "count": 1,
       "first": "2026-06-08",
       "last": "2026-06-08"
-    },
-    {
-      "name": "thenationonlineng.net",
-      "count": 1,
-      "first": "2026-02-02",
-      "last": "2026-02-02"
     },
     {
       "name": "TheNiche",
