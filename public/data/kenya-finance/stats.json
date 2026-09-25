@@ -148,12 +148,6 @@
   ],
   "sources": [
     {
-      "name": "Daily Nation",
-      "count": 49,
-      "first": "2024-06-19",
-      "last": "2026-08-10"
-    },
-    {
       "name": "People Daily",
       "count": 44,
       "first": "2025-11-02",
@@ -172,9 +166,21 @@
       "last": "2026-09-17"
     },
     {
+      "name": "Daily Nation",
+      "count": 29,
+      "first": "2024-06-25",
+      "last": "2026-08-10"
+    },
+    {
       "name": "Al Jazeera",
       "count": 22,
       "first": "2024-06-18",
+      "last": "2026-06-27"
+    },
+    {
+      "name": "nation.africa",
+      "count": 20,
+      "first": "2024-06-19",
       "last": "2026-06-27"
     },
     {
@@ -206,12 +212,6 @@
       "count": 10,
       "first": "2025-06-25",
       "last": "2026-07-07"
-    },
-    {
-      "name": "The EastAfrican",
-      "count": 9,
-      "first": "2024-06-18",
-      "last": "2026-06-21"
     },
     {
       "name": "The Kenya Times",
@@ -272,6 +272,12 @@
       "count": 6,
       "first": "2024-06-26",
       "last": "2026-06-25"
+    },
+    {
+      "name": "The EastAfrican",
+      "count": 6,
+      "first": "2024-06-18",
+      "last": "2025-08-09"
     },
     {
       "name": "Context News",
@@ -374,6 +380,12 @@
       "count": 3,
       "first": "2026-08-07",
       "last": "2026-09-22"
+    },
+    {
+      "name": "theeastafrican.co.ke",
+      "count": 3,
+      "first": "2025-06-07",
+      "last": "2026-06-21"
     },
     {
       "name": "accord.org.za",
@@ -490,7 +502,7 @@
       "last": "2024-07-19"
     },
     {
-      "name": "Bloomberg.com",
+      "name": "bloomberg.com",
       "count": 1,
       "first": "2026-05-05",
       "last": "2026-05-05"
@@ -550,7 +562,7 @@
       "last": "2026-06-25"
     },
     {
-      "name": "EWN",
+      "name": "ewn.co.za",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
