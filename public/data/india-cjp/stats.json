@@ -111,13 +111,13 @@
     },
     {
       "start": "2026-09-01",
-      "count": 437
+      "count": 443
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 109,
+      "count": 89,
       "first": "2026-06-06",
       "last": "2026-09-24"
     },
@@ -140,15 +140,15 @@
       "last": "2026-09-24"
     },
     {
+      "name": "Telegraph India",
+      "count": 53,
+      "first": "2026-07-21",
+      "last": "2026-09-25"
+    },
+    {
       "name": "The Indian Express",
       "count": 53,
       "first": "2026-07-24",
-      "last": "2026-09-24"
-    },
-    {
-      "name": "Telegraph India",
-      "count": 52,
-      "first": "2026-07-21",
       "last": "2026-09-24"
     },
     {
@@ -165,9 +165,9 @@
     },
     {
       "name": "ThePrint",
-      "count": 26,
+      "count": 27,
       "first": "2026-06-19",
-      "last": "2026-09-18"
+      "last": "2026-09-24"
     },
     {
       "name": "Rediff",
@@ -200,6 +200,12 @@
       "last": "2026-09-24"
     },
     {
+      "name": "thehindu.com",
+      "count": 21,
+      "first": "2026-07-23",
+      "last": "2026-09-25"
+    },
+    {
       "name": "Bhaskar English",
       "count": 20,
       "first": "2026-07-19",
@@ -218,6 +224,12 @@
       "last": "2026-09-21"
     },
     {
+      "name": "Deccan Chronicle",
+      "count": 15,
+      "first": "2026-08-16",
+      "last": "2026-09-24"
+    },
+    {
       "name": "LawBeat",
       "count": 15,
       "first": "2026-02-07",
@@ -234,12 +246,6 @@
       "count": 15,
       "first": "2026-07-23",
       "last": "2026-09-24"
-    },
-    {
-      "name": "Deccan Chronicle",
-      "count": 14,
-      "first": "2026-08-16",
-      "last": "2026-09-17"
     },
     {
       "name": "TheWire.in",
@@ -464,6 +470,12 @@
       "last": "2026-09-24"
     },
     {
+      "name": "Supreme Court Observer",
+      "count": 4,
+      "first": "2026-08-18",
+      "last": "2026-09-16"
+    },
+    {
       "name": "thepamphlet.in",
       "count": 4,
       "first": "2026-08-21",
@@ -488,12 +500,6 @@
       "last": "2026-09-10"
     },
     {
-      "name": "Eastern Mirror",
-      "count": 3,
-      "first": "2026-08-16",
-      "last": "2026-09-24"
-    },
-    {
       "name": "GujaratSamachar English",
       "count": 3,
       "first": "2026-08-24",
@@ -512,16 +518,16 @@
       "last": "2026-09-24"
     },
     {
+      "name": "Nagaland Post",
+      "count": 3,
+      "first": "2026-08-22",
+      "last": "2026-09-25"
+    },
+    {
       "name": "Newslaundry",
       "count": 3,
       "first": "2026-07-28",
       "last": "2026-07-30"
-    },
-    {
-      "name": "scobserver.in",
-      "count": 3,
-      "first": "2026-08-18",
-      "last": "2026-09-16"
     },
     {
       "name": "The Federal",
@@ -590,6 +596,18 @@
       "last": "2026-09-07"
     },
     {
+      "name": "Eastern Mirror",
+      "count": 2,
+      "first": "2026-08-16",
+      "last": "2026-08-24"
+    },
+    {
+      "name": "Eastern Mirror Nagaland",
+      "count": 2,
+      "first": "2026-08-18",
+      "last": "2026-09-24"
+    },
+    {
       "name": "Free Press Kashmir",
       "count": 2,
       "first": "2026-08-22",
@@ -632,12 +650,6 @@
       "last": "2026-09-23"
     },
     {
-      "name": "Nagaland Post",
-      "count": 2,
-      "first": "2026-08-22",
-      "last": "2026-09-05"
-    },
-    {
       "name": "News Arena India",
       "count": 2,
       "first": "2026-08-12",
@@ -654,6 +666,12 @@
       "count": 2,
       "first": "2026-08-31",
       "last": "2026-09-03"
+    },
+    {
+      "name": "newstodaynet.com",
+      "count": 2,
+      "first": "2026-06-02",
+      "last": "2026-09-25"
     },
     {
       "name": "NPR",
@@ -714,6 +732,12 @@
       "count": 2,
       "first": "2026-08-23",
       "last": "2026-09-24"
+    },
+    {
+      "name": "The Conversation",
+      "count": 2,
+      "first": "2026-08-12",
+      "last": "2026-08-17"
     },
     {
       "name": "The CSR Journal",
@@ -860,12 +884,6 @@
       "last": "2026-09-17"
     },
     {
-      "name": "civicus lens",
-      "count": 1,
-      "first": "2026-08-04",
-      "last": "2026-08-04"
-    },
-    {
       "name": "Council on Foreign Relations",
       "count": 1,
       "first": "2026-07-31",
@@ -906,12 +924,6 @@
       "count": 1,
       "first": "2026-09-03",
       "last": "2026-09-03"
-    },
-    {
-      "name": "easternmirrornagaland.com",
-      "count": 1,
-      "first": "2026-08-18",
-      "last": "2026-08-18"
     },
     {
       "name": "Emirates 24|7",
@@ -1010,13 +1022,13 @@
       "last": "2026-08-30"
     },
     {
-      "name": "Indiablooms",
+      "name": "indiablooms.com",
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
     },
     {
-      "name": "International Service for Human Rights",
+      "name": "ishr.ch",
       "count": 1,
       "first": "2026-08-14",
       "last": "2026-08-14"
@@ -1070,6 +1082,12 @@
       "last": "2026-09-10"
     },
     {
+      "name": "lens.civicus.org",
+      "count": 1,
+      "first": "2026-08-04",
+      "last": "2026-08-04"
+    },
+    {
       "name": "Lokmat.com",
       "count": 1,
       "first": "2026-07-22",
@@ -1110,12 +1128,6 @@
       "count": 1,
       "first": "2026-08-20",
       "last": "2026-08-20"
-    },
-    {
-      "name": "newstodaynet.com",
-      "count": 1,
-      "first": "2026-06-02",
-      "last": "2026-06-02"
     },
     {
       "name": "NewsX",
@@ -1178,12 +1190,6 @@
       "last": "2026-09-01"
     },
     {
-      "name": "Supreme Court Observer",
-      "count": 1,
-      "first": "2026-08-25",
-      "last": "2026-08-25"
-    },
-    {
       "name": "The Borgen Project",
       "count": 1,
       "first": "2026-08-25",
@@ -1194,12 +1200,6 @@
       "count": 1,
       "first": "2026-08-29",
       "last": "2026-08-29"
-    },
-    {
-      "name": "The Conversation",
-      "count": 1,
-      "first": "2026-08-17",
-      "last": "2026-08-17"
     },
     {
       "name": "The Daily Star",
@@ -1286,12 +1286,6 @@
       "last": "2026-09-05"
     },
     {
-      "name": "theconversation.com",
-      "count": 1,
-      "first": "2026-08-12",
-      "last": "2026-08-12"
-    },
-    {
       "name": "thefederal.com",
       "count": 1,
       "first": "2026-09-20",
@@ -1365,5 +1359,5 @@
     }
   ],
   "firstDate": "2024-06-18",
-  "lastDate": "2026-09-24"
+  "lastDate": "2026-09-25"
 }
