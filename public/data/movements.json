@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T09:24:26.734Z",
+  "lastUpdated": "2026-09-25T15:00:26.796Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -10,23 +10,23 @@
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 1282,
-      "updated": "9h ago",
+      "articleCount": 1303,
+      "updated": "15h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
-        {
-          "title": "'Stop contesting rigged polls': CJP's Abhijeet Dipke urges opposition parties",
-          "source": "The New Indian Express",
-          "date": "2026-09-25"
-        },
         {
           "title": "FIR against Cockroach Janta Party over ‘AI-morphed photo’ of woman alongside Modi's image | India News",
           "source": "Hindustan Times",
           "date": "2026-09-25"
         },
         {
-          "title": "India news: Elections 'rigged,' allege Rahul Gandhi and Cockroach party",
-          "source": "dw.com",
+          "title": "'Stop contesting rigged polls': CJP's Abhijeet Dipke urges opposition parties",
+          "source": "The New Indian Express",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "India’s ‘cockroach’ movement targets election chief in political pivot",
+          "source": "South China Morning Post",
           "date": "2026-09-25"
         }
       ]
@@ -40,10 +40,15 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 687,
-      "updated": "9h ago",
+      "articleCount": 690,
+      "updated": "15h ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
+        {
+          "title": "BREAKING: NLC declares indefinite strike in Delta over death in secretariat",
+          "source": "Daily Post Nigeria",
+          "date": "2026-09-25"
+        },
         {
           "title": "Subsidy removal: Nigerians paying price with no benefits — Economist",
           "source": "Daily Post Nigeria",
@@ -53,27 +58,27 @@
           "title": "NMDPRA approves 830,000MT petrol imports for Q4’26",
           "source": "Vanguard",
           "date": "2026-09-24"
-        },
-        {
-          "title": "Fuel price hike: Mini bus drivers protest in Osun, increase fares",
-          "source": "The Guardian Nigeria News",
-          "date": "2026-09-23"
         }
       ]
     },
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Active",
+      "status": "Escalating",
       "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 334,
-      "updated": "1d ago",
+      "articleCount": 336,
+      "updated": "15h ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
+        {
+          "title": "Las opciones que abrió Pablo Milad para resolver la llave entre Everton y la U tras la suspensión del partido en Sausalito",
+          "source": "The Clinic",
+          "date": "2026-09-25"
+        },
         {
           "title": "Opinión: De No+AFP a… no, más AFP",
           "source": "roadshow.cl",
@@ -83,11 +88,6 @@
           "title": "Superintendente de Pensiones: los bonos del Fonavi podrían ser un instrumento “bastante apetecido” por las AFP",
           "source": "The Clinic",
           "date": "2026-09-24"
-        },
-        {
-          "title": "En mayores de 50 años, aumentan las personas con empleo en jornadas parciales involuntarias",
-          "source": "The Clinic",
-          "date": "2026-09-21"
         }
       ]
     },
@@ -101,7 +101,7 @@
       "year": 2024,
       "logged": "2024-06-10",
       "articleCount": 476,
-      "updated": "3d ago",
+      "updated": "4d ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
         {

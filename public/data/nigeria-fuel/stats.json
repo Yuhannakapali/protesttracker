@@ -591,7 +591,7 @@
     },
     {
       "start": "2022-01-01",
-      "count": 9
+      "count": 10
     },
     {
       "start": "2022-02-01",
@@ -679,7 +679,7 @@
     },
     {
       "start": "2023-11-01",
-      "count": 12
+      "count": 13
     },
     {
       "start": "2023-12-01",
@@ -815,13 +815,13 @@
     },
     {
       "start": "2026-09-01",
-      "count": 128
+      "count": 129
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 72,
+      "count": 73,
       "first": "2012-01-05",
       "last": "2026-09-25"
     },
@@ -886,22 +886,10 @@
       "last": "2026-09-16"
     },
     {
-      "name": "Arise News",
-      "count": 15,
-      "first": "2023-06-02",
-      "last": "2026-06-04"
-    },
-    {
       "name": "The Sun Nigeria",
       "count": 15,
       "first": "2022-11-30",
       "last": "2026-08-14"
-    },
-    {
-      "name": "Business News Nigeria",
-      "count": 14,
-      "first": "2022-01-21",
-      "last": "2026-07-28"
     },
     {
       "name": "Legit News",
@@ -922,10 +910,22 @@
       "last": "2026-03-11"
     },
     {
+      "name": "Business News Nigeria",
+      "count": 11,
+      "first": "2022-01-21",
+      "last": "2026-07-28"
+    },
+    {
       "name": "The Whistler Newspaper",
       "count": 10,
       "first": "2020-09-04",
       "last": "2026-06-03"
+    },
+    {
+      "name": "Arise News",
+      "count": 9,
+      "first": "2023-06-02",
+      "last": "2026-02-13"
     },
     {
       "name": "Independent Newspaper Nigeria",
@@ -940,10 +940,22 @@
       "last": "2026-09-21"
     },
     {
+      "name": "The Guardian",
+      "count": 8,
+      "first": "2012-01-03",
+      "last": "2026-01-26"
+    },
+    {
       "name": "tribuneonlineng.com",
       "count": 8,
       "first": "2024-07-31",
       "last": "2026-07-26"
+    },
+    {
+      "name": "TVC News",
+      "count": 7,
+      "first": "2022-01-31",
+      "last": "2026-06-03"
     },
     {
       "name": "VOA - Voice of America English News",
@@ -952,9 +964,15 @@
       "last": "2024-08-08"
     },
     {
-      "name": "TVC News",
+      "name": "arise.tv",
       "count": 6,
-      "first": "2025-09-07",
+      "first": "2024-06-04",
+      "last": "2026-06-04"
+    },
+    {
+      "name": "The Nation Newspaper",
+      "count": 6,
+      "first": "2022-01-10",
       "last": "2026-06-03"
     },
     {
@@ -982,16 +1000,16 @@
       "last": "2026-09-14"
     },
     {
-      "name": "The Guardian",
-      "count": 5,
-      "first": "2012-01-03",
-      "last": "2026-01-26"
-    },
-    {
       "name": "allAfrica.com",
       "count": 4,
       "first": "2012-01-16",
       "last": "2025-09-29"
+    },
+    {
+      "name": "businessday.ng",
+      "count": 4,
+      "first": "2023-11-23",
+      "last": "2026-03-16"
     },
     {
       "name": "Daily Trust",
@@ -1012,40 +1030,22 @@
       "last": "2026-01-26"
     },
     {
-      "name": "Nigerian Voice",
-      "count": 4,
-      "first": "2012-01-13",
-      "last": "2026-09-11"
-    },
-    {
-      "name": "The Nation Newspaper",
-      "count": 4,
-      "first": "2024-09-08",
-      "last": "2026-02-04"
-    },
-    {
       "name": "vanguardngr.com",
       "count": 4,
       "first": "2020-07-16",
       "last": "2025-10-22"
     },
     {
+      "name": "Nigerian Voice",
+      "count": 3,
+      "first": "2012-01-13",
+      "last": "2025-10-14"
+    },
+    {
       "name": "Peoples Gazette Nigeria",
       "count": 3,
       "first": "2024-10-09",
       "last": "2026-05-18"
-    },
-    {
-      "name": "theguardian.com",
-      "count": 3,
-      "first": "2012-01-08",
-      "last": "2012-01-09"
-    },
-    {
-      "name": "thenationonlineng.net",
-      "count": 3,
-      "first": "2022-01-10",
-      "last": "2026-06-03"
     },
     {
       "name": "VOA Africa",
@@ -1414,10 +1414,22 @@
       "last": "2026-06-08"
     },
     {
+      "name": "thenationonlineng.net",
+      "count": 1,
+      "first": "2026-02-02",
+      "last": "2026-02-02"
+    },
+    {
       "name": "TheNiche",
       "count": 1,
       "first": "2020-09-11",
       "last": "2020-09-11"
+    },
+    {
+      "name": "thenigerianvoice.com",
+      "count": 1,
+      "first": "2026-09-11",
+      "last": "2026-09-11"
     },
     {
       "name": "thestreetjournal.org",
