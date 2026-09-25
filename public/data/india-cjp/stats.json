@@ -111,7 +111,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 495
+      "count": 497
     }
   ],
   "sources": [
@@ -123,7 +123,7 @@
     },
     {
       "name": "NDTV",
-      "count": 74,
+      "count": 75,
       "first": "2026-05-12",
       "last": "2026-09-25"
     },
@@ -140,6 +140,12 @@
       "last": "2026-09-25"
     },
     {
+      "name": "Telegraph India",
+      "count": 54,
+      "first": "2026-07-21",
+      "last": "2026-09-25"
+    },
+    {
       "name": "The Indian Express",
       "count": 54,
       "first": "2026-07-24",
@@ -149,12 +155,6 @@
       "name": "The Times of India",
       "count": 54,
       "first": "2026-06-06",
-      "last": "2026-09-25"
-    },
-    {
-      "name": "Telegraph India",
-      "count": 53,
-      "first": "2026-07-21",
       "last": "2026-09-25"
     },
     {
@@ -242,12 +242,6 @@
       "last": "2026-09-04"
     },
     {
-      "name": "WION",
-      "count": 15,
-      "first": "2026-07-23",
-      "last": "2026-09-24"
-    },
-    {
       "name": "Livemint",
       "count": 14,
       "first": "2026-08-16",
@@ -270,6 +264,12 @@
       "count": 13,
       "first": "2026-08-15",
       "last": "2026-09-25"
+    },
+    {
+      "name": "WION",
+      "count": 13,
+      "first": "2026-08-10",
+      "last": "2026-09-01"
     },
     {
       "name": "Al Jazeera",
@@ -588,6 +588,12 @@
       "count": 3,
       "first": "2026-07-18",
       "last": "2026-09-04"
+    },
+    {
+      "name": "wionews.com",
+      "count": 3,
+      "first": "2026-07-23",
+      "last": "2026-09-24"
     },
     {
       "name": "Babushahi.com",
@@ -1052,6 +1058,12 @@
       "last": "2026-08-30"
     },
     {
+      "name": "iiss.org",
+      "count": 1,
+      "first": "2026-08-20",
+      "last": "2026-08-20"
+    },
+    {
       "name": "Indiablooms",
       "count": 1,
       "first": "2026-07-30",
@@ -1226,6 +1238,12 @@
       "last": "2026-09-25"
     },
     {
+      "name": "straitstimes.com",
+      "count": 1,
+      "first": "2026-09-24",
+      "last": "2026-09-24"
+    },
+    {
       "name": "The Borgen Project",
       "count": 1,
       "first": "2026-08-25",
@@ -1248,12 +1266,6 @@
       "count": 1,
       "first": "2026-09-24",
       "last": "2026-09-24"
-    },
-    {
-      "name": "The International Institute for Strategic Studies",
-      "count": 1,
-      "first": "2026-08-20",
-      "last": "2026-08-20"
     },
     {
       "name": "The Lallantop",
@@ -1292,12 +1304,6 @@
       "last": "2026-07-30"
     },
     {
-      "name": "The Straits Times",
-      "count": 1,
-      "first": "2026-09-24",
-      "last": "2026-09-24"
-    },
-    {
       "name": "The Sunday Guardian",
       "count": 1,
       "first": "2026-09-24",
@@ -1334,7 +1340,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Thekanal",
+      "name": "thekanal.in",
       "count": 1,
       "first": "2026-09-25",
       "last": "2026-09-25"
@@ -1380,12 +1386,6 @@
       "count": 1,
       "first": "2026-09-01",
       "last": "2026-09-01"
-    },
-    {
-      "name": "wionews.com",
-      "count": 1,
-      "first": "2026-09-03",
-      "last": "2026-09-03"
     },
     {
       "name": "worldpoliticsreview.com",
