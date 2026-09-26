@@ -103,7 +103,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 184
+      "count": 186
     },
     {
       "start": "2026-08-01",
@@ -111,15 +111,15 @@
     },
     {
       "start": "2026-09-01",
-      "count": 500
+      "count": 506
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 111,
+      "count": 116,
       "first": "2026-06-06",
-      "last": "2026-09-25"
+      "last": "2026-09-26"
     },
     {
       "name": "NDTV",
@@ -135,32 +135,32 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 57,
+      "count": 58,
       "first": "2026-06-06",
       "last": "2026-09-25"
     },
     {
       "name": "Telegraph India",
-      "count": 54,
+      "count": 55,
       "first": "2026-07-21",
-      "last": "2026-09-25"
+      "last": "2026-09-26"
     },
     {
       "name": "The Indian Express",
-      "count": 54,
+      "count": 55,
       "first": "2026-07-24",
-      "last": "2026-09-24"
-    },
-    {
-      "name": "The Times of India",
-      "count": 54,
-      "first": "2026-06-06",
       "last": "2026-09-25"
     },
     {
       "name": "India Today",
       "count": 42,
       "first": "2026-07-15",
+      "last": "2026-09-25"
+    },
+    {
+      "name": "The Times of India",
+      "count": 42,
+      "first": "2026-06-06",
       "last": "2026-09-25"
     },
     {
@@ -215,6 +215,12 @@
       "name": "ETV Bharat",
       "count": 20,
       "first": "2026-08-06",
+      "last": "2026-09-25"
+    },
+    {
+      "name": "timesofindia.indiatimes.com",
+      "count": 17,
+      "first": "2026-07-26",
       "last": "2026-09-25"
     },
     {
@@ -356,6 +362,12 @@
       "last": "2026-09-03"
     },
     {
+      "name": "ABP Live English",
+      "count": 7,
+      "first": "2026-07-19",
+      "last": "2026-09-01"
+    },
+    {
       "name": "moneycontrol.com",
       "count": 7,
       "first": "2026-08-18",
@@ -386,7 +398,7 @@
       "last": "2026-09-07"
     },
     {
-      "name": "Bloomberg",
+      "name": "Bloomberg.com",
       "count": 5,
       "first": "2026-08-10",
       "last": "2026-09-25"
@@ -418,18 +430,6 @@
     {
       "name": "Times Now",
       "count": 5,
-      "first": "2026-08-27",
-      "last": "2026-09-01"
-    },
-    {
-      "name": "timesofindia.indiatimes.com",
-      "count": 5,
-      "first": "2026-07-26",
-      "last": "2026-09-21"
-    },
-    {
-      "name": "ABP Live English",
-      "count": 4,
       "first": "2026-08-27",
       "last": "2026-09-01"
     },
@@ -524,22 +524,10 @@
       "last": "2026-08-16"
     },
     {
-      "name": "Maktoob",
-      "count": 3,
-      "first": "2026-08-12",
-      "last": "2026-09-24"
-    },
-    {
       "name": "Nagaland Post",
       "count": 3,
       "first": "2026-08-22",
       "last": "2026-09-25"
-    },
-    {
-      "name": "news.abplive.com",
-      "count": 3,
-      "first": "2026-07-19",
-      "last": "2026-07-25"
     },
     {
       "name": "Newslaundry",
@@ -678,6 +666,12 @@
       "count": 2,
       "first": "2026-08-24",
       "last": "2026-09-24"
+    },
+    {
+      "name": "Maktoob",
+      "count": 2,
+      "first": "2026-08-12",
+      "last": "2026-09-04"
     },
     {
       "name": "News Arena India",
@@ -854,7 +848,7 @@
       "last": "2026-08-26"
     },
     {
-      "name": "Awaz The Voice",
+      "name": "awazthevoice.in",
       "count": 1,
       "first": "2026-09-24",
       "last": "2026-09-24"
@@ -1058,7 +1052,7 @@
       "last": "2026-08-30"
     },
     {
-      "name": "Indiablooms",
+      "name": "indiablooms.com",
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
@@ -1112,7 +1106,7 @@
       "last": "2026-09-10"
     },
     {
-      "name": "LinkedIn",
+      "name": "linkedin.com",
       "count": 1,
       "first": "2026-09-25",
       "last": "2026-09-25"
@@ -1128,6 +1122,12 @@
       "count": 1,
       "first": "2026-08-21",
       "last": "2026-08-21"
+    },
+    {
+      "name": "maktoobmedia.com",
+      "count": 1,
+      "first": "2026-09-24",
+      "last": "2026-09-24"
     },
     {
       "name": "MediaNama",
@@ -1413,5 +1413,5 @@
     }
   ],
   "firstDate": "2024-06-18",
-  "lastDate": "2026-09-25"
+  "lastDate": "2026-09-26"
 }
