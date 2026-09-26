@@ -934,6 +934,12 @@
       "last": "2026-02-13"
     },
     {
+      "name": "Tribune Online",
+      "count": 9,
+      "first": "2021-12-17",
+      "last": "2026-07-26"
+    },
+    {
       "name": "Independent Newspaper Nigeria",
       "count": 8,
       "first": "2023-01-30",
@@ -950,12 +956,6 @@
       "count": 8,
       "first": "2025-10-20",
       "last": "2026-09-11"
-    },
-    {
-      "name": "tribuneonlineng.com",
-      "count": 8,
-      "first": "2024-07-31",
-      "last": "2026-07-26"
     },
     {
       "name": "TVC News",
@@ -980,6 +980,12 @@
       "count": 5,
       "first": "2012-01-03",
       "last": "2024-06-03"
+    },
+    {
+      "name": "Nigeria Labour Congress (NLC)",
+      "count": 5,
+      "first": "2023-03-30",
+      "last": "2026-06-03"
     },
     {
       "name": "Reuters",
@@ -1018,22 +1024,10 @@
       "last": "2026-06-04"
     },
     {
-      "name": "Nigeria Info FM",
-      "count": 4,
-      "first": "2025-12-17",
-      "last": "2026-01-26"
-    },
-    {
       "name": "Nigerian Voice",
       "count": 4,
       "first": "2012-01-13",
       "last": "2026-09-11"
-    },
-    {
-      "name": "nlcng.org",
-      "count": 4,
-      "first": "2023-11-15",
-      "last": "2026-05-29"
     },
     {
       "name": "The Nation Newspaper",
@@ -1048,10 +1042,10 @@
       "last": "2025-10-22"
     },
     {
-      "name": "Nigeria Labour Congress (NLC)",
+      "name": "Peoples Gazette Nigeria",
       "count": 3,
-      "first": "2023-03-30",
-      "last": "2026-06-03"
+      "first": "2024-10-09",
+      "last": "2026-05-18"
     },
     {
       "name": "theguardian.com",
@@ -1102,6 +1096,18 @@
       "last": "2012-01-06"
     },
     {
+      "name": "Nigeria Info FM",
+      "count": 2,
+      "first": "2026-01-24",
+      "last": "2026-01-26"
+    },
+    {
+      "name": "nigeriainfo.fm",
+      "count": 2,
+      "first": "2025-12-17",
+      "last": "2025-12-17"
+    },
+    {
       "name": "Nigerian Bulletin",
       "count": 2,
       "first": "2024-09-02",
@@ -1114,16 +1120,16 @@
       "last": "2026-06-08"
     },
     {
+      "name": "nlcng.org",
+      "count": 2,
+      "first": "2023-11-15",
+      "last": "2024-12-02"
+    },
+    {
       "name": "Opinion Nigeria",
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
-    },
-    {
-      "name": "Peoples Gazette Nigeria",
-      "count": 2,
-      "first": "2024-10-09",
-      "last": "2025-10-16"
     },
     {
       "name": "premiumtimesng.com",
@@ -1132,10 +1138,10 @@
       "last": "2024-06-03"
     },
     {
-      "name": "Tribune Online",
+      "name": "The ICIR",
       "count": 2,
-      "first": "2021-12-17",
-      "last": "2023-08-01"
+      "first": "2023-10-01",
+      "last": "2026-02-03"
     },
     {
       "name": "TRT Afrika",
@@ -1160,12 +1166,6 @@
       "count": 1,
       "first": "2024-08-13",
       "last": "2024-08-13"
-    },
-    {
-      "name": "africarenewal.un.org",
-      "count": 1,
-      "first": "2012-04-15",
-      "last": "2012-04-15"
     },
     {
       "name": "AIT LIVE",
@@ -1258,12 +1258,6 @@
       "last": "2024-05-11"
     },
     {
-      "name": "gazettengr.com",
-      "count": 1,
-      "first": "2026-05-18",
-      "last": "2026-05-18"
-    },
-    {
       "name": "Gistlover",
       "count": 1,
       "first": "2026-09-17",
@@ -1286,12 +1280,6 @@
       "count": 1,
       "first": "2026-08-28",
       "last": "2026-08-28"
-    },
-    {
-      "name": "icirnigeria.org",
-      "count": 1,
-      "first": "2026-02-03",
-      "last": "2026-02-03"
     },
     {
       "name": "impactpolicies.org",
@@ -1390,7 +1378,7 @@
       "last": "2026-09-15"
     },
     {
-      "name": "Politics Nigeria",
+      "name": "politicsnigeria.com",
       "count": 1,
       "first": "2026-09-23",
       "last": "2026-09-23"
@@ -1432,12 +1420,6 @@
       "last": "2024-03-19"
     },
     {
-      "name": "The ICIR",
-      "count": 1,
-      "first": "2023-10-01",
-      "last": "2023-10-01"
-    },
-    {
       "name": "theeagleonline.com.ng",
       "count": 1,
       "first": "2026-06-08",
@@ -1472,6 +1454,18 @@
       "count": 1,
       "first": "2026-03-18",
       "last": "2026-03-18"
+    },
+    {
+      "name": "tribuneonlineng.com",
+      "count": 1,
+      "first": "2026-05-19",
+      "last": "2026-05-19"
+    },
+    {
+      "name": "UN Africa Renewal",
+      "count": 1,
+      "first": "2012-04-15",
+      "last": "2012-04-15"
     }
   ],
   "firstDate": "2009-10-30",
