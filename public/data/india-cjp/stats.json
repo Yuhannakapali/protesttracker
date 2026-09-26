@@ -103,7 +103,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 187
+      "count": 188
     },
     {
       "start": "2026-08-01",
@@ -117,7 +117,7 @@
   "sources": [
     {
       "name": "The Hindu",
-      "count": 117,
+      "count": 118,
       "first": "2026-06-06",
       "last": "2026-09-26"
     },
@@ -153,7 +153,7 @@
     },
     {
       "name": "The Times of India",
-      "count": 44,
+      "count": 43,
       "first": "2026-06-06",
       "last": "2026-09-25"
     },
@@ -230,6 +230,12 @@
       "last": "2026-09-26"
     },
     {
+      "name": "timesofindia.indiatimes.com",
+      "count": 16,
+      "first": "2026-07-26",
+      "last": "2026-09-25"
+    },
+    {
       "name": "Deccan Chronicle",
       "count": 15,
       "first": "2026-08-16",
@@ -246,12 +252,6 @@
       "count": 15,
       "first": "2026-07-11",
       "last": "2026-09-26"
-    },
-    {
-      "name": "timesofindia.indiatimes.com",
-      "count": 15,
-      "first": "2026-07-26",
-      "last": "2026-09-25"
     },
     {
       "name": "WION",
@@ -362,12 +362,6 @@
       "last": "2026-09-03"
     },
     {
-      "name": "ABP Live English",
-      "count": 7,
-      "first": "2026-07-19",
-      "last": "2026-09-01"
-    },
-    {
       "name": "moneycontrol.com",
       "count": 7,
       "first": "2026-08-18",
@@ -396,6 +390,12 @@
       "count": 6,
       "first": "2026-07-23",
       "last": "2026-09-07"
+    },
+    {
+      "name": "ABP Live English",
+      "count": 5,
+      "first": "2026-07-25",
+      "last": "2026-09-01"
     },
     {
       "name": "Bloomberg.com",
@@ -680,6 +680,12 @@
       "last": "2026-08-19"
     },
     {
+      "name": "news.abplive.com",
+      "count": 2,
+      "first": "2026-07-19",
+      "last": "2026-07-23"
+    },
+    {
       "name": "Newschecker",
       "count": 2,
       "first": "2026-08-04",
@@ -920,13 +926,13 @@
       "last": "2026-08-24"
     },
     {
-      "name": "Daily Sabah",
+      "name": "daily-sun.com",
       "count": 1,
       "first": "2026-09-25",
       "last": "2026-09-25"
     },
     {
-      "name": "daily-sun.com",
+      "name": "dailysabah.com",
       "count": 1,
       "first": "2026-09-25",
       "last": "2026-09-25"
@@ -1028,7 +1034,7 @@
       "last": "2026-08-18"
     },
     {
-      "name": "GulfToday",
+      "name": "gulftoday.ae",
       "count": 1,
       "first": "2026-09-24",
       "last": "2026-09-24"
@@ -1046,7 +1052,7 @@
       "last": "2026-08-21"
     },
     {
-      "name": "hubnetwork.in",
+      "name": "Hub News",
       "count": 1,
       "first": "2026-09-26",
       "last": "2026-09-26"
@@ -1190,7 +1196,7 @@
       "last": "2026-09-15"
     },
     {
-      "name": "Pratidin Time",
+      "name": "pratidintime.com",
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
@@ -1226,10 +1232,16 @@
       "last": "2026-09-01"
     },
     {
-      "name": "scmp.com",
+      "name": "South China Morning Post",
       "count": 1,
       "first": "2026-09-25",
       "last": "2026-09-25"
+    },
+    {
+      "name": "straitstimes.com",
+      "count": 1,
+      "first": "2026-09-24",
+      "last": "2026-09-24"
     },
     {
       "name": "Supreme Court Observer",
@@ -1298,10 +1310,10 @@
       "last": "2026-08-22"
     },
     {
-      "name": "The Straits Times",
+      "name": "The Probe",
       "count": 1,
-      "first": "2026-09-24",
-      "last": "2026-09-24"
+      "first": "2026-07-30",
+      "last": "2026-07-30"
     },
     {
       "name": "The Sunday Guardian",
@@ -1350,12 +1362,6 @@
       "count": 1,
       "first": "2026-09-24",
       "last": "2026-09-24"
-    },
-    {
-      "name": "theprobe.in",
-      "count": 1,
-      "first": "2026-07-30",
-      "last": "2026-07-30"
     },
     {
       "name": "thepublicworld.com",
