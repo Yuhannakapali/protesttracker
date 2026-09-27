@@ -726,6 +726,12 @@
       "last": "2020-10-16"
     },
     {
+      "name": "The Guardian",
+      "count": 3,
+      "first": "2016-08-21",
+      "last": "2019-10-30"
+    },
+    {
       "name": "The New York Times",
       "count": 3,
       "first": "2016-09-10",
@@ -864,12 +870,6 @@
       "last": "2025-01-29"
     },
     {
-      "name": "South China Morning Post",
-      "count": 2,
-      "first": "2019-10-23",
-      "last": "2022-03-12"
-    },
-    {
       "name": "Teletrece",
       "count": 2,
       "first": "2019-10-06",
@@ -880,12 +880,6 @@
       "count": 2,
       "first": "2024-02-07",
       "last": "2025-11-29"
-    },
-    {
-      "name": "theguardian.com",
-      "count": 2,
-      "first": "2016-08-21",
-      "last": "2019-10-24"
     },
     {
       "name": "TN",
@@ -966,7 +960,7 @@
       "last": "2020-08-09"
     },
     {
-      "name": "Bloomberg",
+      "name": "bloomberg.com",
       "count": 1,
       "first": "2019-10-26",
       "last": "2019-10-26"
@@ -1278,7 +1272,7 @@
       "last": "2024-12-27"
     },
     {
-      "name": "Meganoticias",
+      "name": "meganoticias.cl",
       "count": 1,
       "first": "2023-07-23",
       "last": "2023-07-23"
@@ -1296,7 +1290,7 @@
       "last": "2019-12-10"
     },
     {
-      "name": "montevideo.com.uy",
+      "name": "Montevideo Portal",
       "count": 1,
       "first": "2023-03-20",
       "last": "2023-03-20"
@@ -1428,7 +1422,7 @@
       "last": "2024-09-11"
     },
     {
-      "name": "reflexionyliberacion.cl",
+      "name": "Reflexión y Liberación",
       "count": 1,
       "first": "2016-11-03",
       "last": "2016-11-03"
@@ -1464,6 +1458,18 @@
       "last": "2025-09-24"
     },
     {
+      "name": "scmp.com",
+      "count": 1,
+      "first": "2019-10-23",
+      "last": "2019-10-23"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 1,
+      "first": "2022-03-12",
+      "last": "2022-03-12"
+    },
+    {
       "name": "Sydney Criminal Lawyers",
       "count": 1,
       "first": "2020-03-17",
@@ -1486,12 +1492,6 @@
       "count": 1,
       "first": "2019-11-11",
       "last": "2019-11-11"
-    },
-    {
-      "name": "The Guardian",
-      "count": 1,
-      "first": "2019-10-30",
-      "last": "2019-10-30"
     },
     {
       "name": "The Independent",
@@ -1518,16 +1518,16 @@
       "last": "2019-11-15"
     },
     {
+      "name": "The Sun Nigeria",
+      "count": 1,
+      "first": "2025-07-26",
+      "last": "2025-07-26"
+    },
+    {
       "name": "The World from PRX",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
-    },
-    {
-      "name": "thesun.ng",
-      "count": 1,
-      "first": "2025-07-26",
-      "last": "2025-07-26"
     },
     {
       "name": "Toronto Sun",
