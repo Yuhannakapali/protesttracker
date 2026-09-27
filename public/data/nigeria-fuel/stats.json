@@ -815,13 +815,13 @@
     },
     {
       "start": "2026-09-01",
-      "count": 146
+      "count": 148
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 82,
+      "count": 83,
       "first": "2012-01-05",
       "last": "2026-09-27"
     },
@@ -833,7 +833,7 @@
     },
     {
       "name": "Vanguard",
-      "count": 49,
+      "count": 50,
       "first": "2026-09-02",
       "last": "2026-09-27"
     },
@@ -850,16 +850,16 @@
       "last": "2026-09-26"
     },
     {
+      "name": "Premium Times Nigeria",
+      "count": 36,
+      "first": "2013-04-18",
+      "last": "2026-02-02"
+    },
+    {
       "name": "BBC",
       "count": 35,
       "first": "2018-09-26",
       "last": "2025-12-17"
-    },
-    {
-      "name": "Premium Times Nigeria",
-      "count": 33,
-      "first": "2013-04-18",
-      "last": "2026-02-02"
     },
     {
       "name": "Punch Newspapers",
@@ -898,12 +898,6 @@
       "last": "2026-06-04"
     },
     {
-      "name": "The Sun Nigeria",
-      "count": 15,
-      "first": "2022-11-30",
-      "last": "2026-08-14"
-    },
-    {
       "name": "Legit News",
       "count": 13,
       "first": "2022-01-02",
@@ -932,6 +926,12 @@
       "count": 9,
       "first": "2026-09-11",
       "last": "2026-09-27"
+    },
+    {
+      "name": "The Sun Nigeria",
+      "count": 9,
+      "first": "2026-01-23",
+      "last": "2026-08-14"
     },
     {
       "name": "Tribune Online",
@@ -964,16 +964,16 @@
       "last": "2024-08-08"
     },
     {
-      "name": "premiumtimesng.com",
-      "count": 6,
-      "first": "2023-06-01",
-      "last": "2026-01-27"
-    },
-    {
       "name": "Sahara Reporters",
       "count": 6,
       "first": "2020-09-10",
       "last": "2026-09-26"
+    },
+    {
+      "name": "thesun.ng",
+      "count": 6,
+      "first": "2022-11-30",
+      "last": "2026-06-08"
     },
     {
       "name": "CNN",
@@ -992,6 +992,12 @@
       "count": 5,
       "first": "2012-01-10",
       "last": "2026-05-19"
+    },
+    {
+      "name": "The Nation Newspaper",
+      "count": 5,
+      "first": "2024-09-08",
+      "last": "2026-06-03"
     },
     {
       "name": "vanguardngr.com",
@@ -1030,22 +1036,16 @@
       "last": "2026-09-11"
     },
     {
-      "name": "The Nation Newspaper",
-      "count": 4,
-      "first": "2024-09-08",
-      "last": "2026-02-04"
-    },
-    {
       "name": "Peoples Gazette Nigeria",
       "count": 3,
       "first": "2024-10-09",
       "last": "2026-05-18"
     },
     {
-      "name": "thenationonlineng.net",
+      "name": "premiumtimesng.com",
       "count": 3,
-      "first": "2022-01-10",
-      "last": "2026-06-03"
+      "first": "2024-06-03",
+      "last": "2024-06-03"
     },
     {
       "name": "VOA Africa",
@@ -1072,6 +1072,12 @@
       "last": "2024-09-04"
     },
     {
+      "name": "Mail & Guardian",
+      "count": 2,
+      "first": "2012-01-16",
+      "last": "2024-03-02"
+    },
+    {
       "name": "Modern Ghana",
       "count": 2,
       "first": "2012-01-05",
@@ -1096,7 +1102,7 @@
       "last": "2024-12-02"
     },
     {
-      "name": "Opinion Nigeria",
+      "name": "opinionnigeria.com",
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
@@ -1108,13 +1114,19 @@
       "last": "2026-02-03"
     },
     {
+      "name": "thenationonlineng.net",
+      "count": 2,
+      "first": "2022-01-10",
+      "last": "2026-02-02"
+    },
+    {
       "name": "TRT Afrika",
       "count": 2,
       "first": "2025-09-17",
       "last": "2026-04-12"
     },
     {
-      "name": "YNaija",
+      "name": "ynaija.com",
       "count": 2,
       "first": "2025-07-24",
       "last": "2026-03-14"
@@ -1300,16 +1312,10 @@
       "last": "2012-01-09"
     },
     {
-      "name": "International Socialist Alternative",
+      "name": "internationalsocialist.net",
       "count": 1,
       "first": "2024-08-21",
       "last": "2024-08-21"
-    },
-    {
-      "name": "Mail & Guardian",
-      "count": 1,
-      "first": "2012-01-16",
-      "last": "2012-01-16"
     },
     {
       "name": "MarketForces Africa",
@@ -1322,12 +1328,6 @@
       "count": 1,
       "first": "2025-07-27",
       "last": "2025-07-27"
-    },
-    {
-      "name": "mg.co.za",
-      "count": 1,
-      "first": "2024-03-02",
-      "last": "2024-03-02"
     },
     {
       "name": "Naija News",
@@ -1348,16 +1348,16 @@
       "last": "2026-09-15"
     },
     {
+      "name": "ndr.org.ng",
+      "count": 1,
+      "first": "2026-09-17",
+      "last": "2026-09-17"
+    },
+    {
       "name": "New Telegraph",
       "count": 1,
       "first": "2024-09-05",
       "last": "2024-09-05"
-    },
-    {
-      "name": "Nigerian Democratic Report",
-      "count": 1,
-      "first": "2026-09-17",
-      "last": "2026-09-17"
     },
     {
       "name": "Parallel Facts News",
