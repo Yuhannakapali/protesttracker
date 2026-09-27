@@ -826,6 +826,12 @@
       "last": "2026-09-26"
     },
     {
+      "name": "The Guardian Nigeria News",
+      "count": 52,
+      "first": "2015-10-02",
+      "last": "2026-09-23"
+    },
+    {
       "name": "Vanguard",
       "count": 48,
       "first": "2026-09-02",
@@ -844,34 +850,22 @@
       "last": "2026-09-26"
     },
     {
+      "name": "Premium Times Nigeria",
+      "count": 36,
+      "first": "2013-04-18",
+      "last": "2026-02-02"
+    },
+    {
       "name": "BBC",
       "count": 35,
       "first": "2018-09-26",
       "last": "2025-12-17"
     },
     {
-      "name": "The Guardian Nigeria News",
-      "count": 35,
-      "first": "2015-10-02",
-      "last": "2026-02-03"
-    },
-    {
-      "name": "Premium Times Nigeria",
-      "count": 33,
-      "first": "2013-04-18",
-      "last": "2026-02-02"
-    },
-    {
       "name": "Punch Newspapers",
       "count": 28,
       "first": "2020-09-04",
       "last": "2026-09-11"
-    },
-    {
-      "name": "The Guardian",
-      "count": 22,
-      "first": "2012-01-03",
-      "last": "2026-09-23"
     },
     {
       "name": "Ripples Nigeria",
@@ -898,6 +892,12 @@
       "last": "2026-09-16"
     },
     {
+      "name": "The Sun Nigeria",
+      "count": 15,
+      "first": "2022-11-30",
+      "last": "2026-08-14"
+    },
+    {
       "name": "Arise News",
       "count": 14,
       "first": "2023-06-02",
@@ -922,18 +922,6 @@
       "last": "2026-03-11"
     },
     {
-      "name": "The Whistler Newspaper",
-      "count": 10,
-      "first": "2020-09-04",
-      "last": "2026-06-03"
-    },
-    {
-      "name": "The Sun Nigeria",
-      "count": 9,
-      "first": "2024-09-07",
-      "last": "2026-08-14"
-    },
-    {
       "name": "Tribune Online",
       "count": 9,
       "first": "2021-12-17",
@@ -952,6 +940,12 @@
       "last": "2026-09-21"
     },
     {
+      "name": "The Guardian",
+      "count": 8,
+      "first": "2012-01-03",
+      "last": "2026-01-26"
+    },
+    {
       "name": "TVC News",
       "count": 7,
       "first": "2022-01-31",
@@ -964,16 +958,10 @@
       "last": "2024-08-08"
     },
     {
-      "name": "premiumtimesng.com",
+      "name": "The Whistler Newspaper",
       "count": 6,
-      "first": "2023-06-01",
-      "last": "2026-01-27"
-    },
-    {
-      "name": "thesun.ng",
-      "count": 6,
-      "first": "2022-11-30",
-      "last": "2026-06-08"
+      "first": "2020-09-04",
+      "last": "2026-04-28"
     },
     {
       "name": "CNN",
@@ -1006,6 +994,12 @@
       "last": "2026-06-03"
     },
     {
+      "name": "thewhistler.ng",
+      "count": 5,
+      "first": "2024-05-06",
+      "last": "2026-06-03"
+    },
+    {
       "name": "vanguardngr.com",
       "count": 5,
       "first": "2020-07-16",
@@ -1024,16 +1018,22 @@
       "last": "2026-01-27"
     },
     {
+      "name": "LEADERSHIP Newspapers",
+      "count": 4,
+      "first": "2024-09-08",
+      "last": "2026-06-04"
+    },
+    {
+      "name": "Nigeria Info FM",
+      "count": 4,
+      "first": "2025-12-17",
+      "last": "2026-01-26"
+    },
+    {
       "name": "Nigerian Voice",
       "count": 4,
       "first": "2012-01-13",
       "last": "2026-09-11"
-    },
-    {
-      "name": "LEADERSHIP Newspapers",
-      "count": 3,
-      "first": "2024-09-08",
-      "last": "2026-02-03"
     },
     {
       "name": "Peoples Gazette Nigeria",
@@ -1042,10 +1042,10 @@
       "last": "2026-05-18"
     },
     {
-      "name": "theguardian.com",
+      "name": "premiumtimesng.com",
       "count": 3,
-      "first": "2012-01-08",
-      "last": "2012-01-09"
+      "first": "2024-06-03",
+      "last": "2024-06-03"
     },
     {
       "name": "VOA Africa",
@@ -1084,18 +1084,6 @@
       "last": "2012-01-06"
     },
     {
-      "name": "Nigeria Info FM",
-      "count": 2,
-      "first": "2026-01-24",
-      "last": "2026-01-26"
-    },
-    {
-      "name": "nigeriainfo.fm",
-      "count": 2,
-      "first": "2025-12-17",
-      "last": "2025-12-17"
-    },
-    {
       "name": "Nigerian Bulletin",
       "count": 2,
       "first": "2024-09-02",
@@ -1118,6 +1106,12 @@
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
+    },
+    {
+      "name": "The ICIR",
+      "count": 2,
+      "first": "2023-10-01",
+      "last": "2026-02-03"
     },
     {
       "name": "thenationonlineng.net",
@@ -1148,12 +1142,6 @@
       "count": 1,
       "first": "2024-08-13",
       "last": "2024-08-13"
-    },
-    {
-      "name": "africarenewal.un.org",
-      "count": 1,
-      "first": "2012-04-15",
-      "last": "2012-04-15"
     },
     {
       "name": "AIT LIVE",
@@ -1264,7 +1252,7 @@
       "last": "2024-05-11"
     },
     {
-      "name": "gistlover.com",
+      "name": "Gistlover",
       "count": 1,
       "first": "2026-09-17",
       "last": "2026-09-17"
@@ -1286,12 +1274,6 @@
       "count": 1,
       "first": "2026-08-28",
       "last": "2026-08-28"
-    },
-    {
-      "name": "icirnigeria.org",
-      "count": 1,
-      "first": "2026-02-03",
-      "last": "2026-02-03"
     },
     {
       "name": "impactpolicies.org",
@@ -1334,12 +1316,6 @@
       "count": 1,
       "first": "2024-08-21",
       "last": "2024-08-21"
-    },
-    {
-      "name": "leadership.ng",
-      "count": 1,
-      "first": "2026-06-04",
-      "last": "2026-06-04"
     },
     {
       "name": "MarketForces Africa",
@@ -1438,12 +1414,6 @@
       "last": "2024-03-19"
     },
     {
-      "name": "The ICIR",
-      "count": 1,
-      "first": "2023-10-01",
-      "last": "2023-10-01"
-    },
-    {
       "name": "theeagleonline.com.ng",
       "count": 1,
       "first": "2026-06-08",
@@ -1462,12 +1432,6 @@
       "last": "2024-09-04"
     },
     {
-      "name": "thewhistler.ng",
-      "count": 1,
-      "first": "2024-09-07",
-      "last": "2024-09-07"
-    },
-    {
       "name": "Times of Malta",
       "count": 1,
       "first": "2012-01-09",
@@ -1484,6 +1448,12 @@
       "count": 1,
       "first": "2026-05-19",
       "last": "2026-05-19"
+    },
+    {
+      "name": "UN Africa Renewal",
+      "count": 1,
+      "first": "2012-04-15",
+      "last": "2012-04-15"
     }
   ],
   "firstDate": "2009-10-30",
