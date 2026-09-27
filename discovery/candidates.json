@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-26T08:43:14.108Z",
+  "generated": "2026-09-27T09:18:33.709Z",
   "candidates": [
     {
       "key": "wd-Q133800245",
@@ -725,542 +725,41 @@
       }
     },
     {
-      "key": "wd-Q139119805",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Ireland",
-      "countries": [
-        "Ireland"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Irish_fuel_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "ireland-irish-fuel-protests",
-        "name": "2026 Irish fuel protests",
-        "region": "Europe",
-        "location": "Ireland",
-        "year": 2026,
-        "description": "series of nationwide demonstrations in the Republic of Ireland",
-        "keywords": [
-          "irish",
-          "fuel",
-          "ireland",
-          "protest"
-        ],
-        "strictKeywords": [
-          "irish",
-          "fuel"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Irish%20fuel%20protests&hl=en-IE&gl=IE&ceid=IE%3Aen",
-          "https://news.google.com/rss/search?q=Ireland%20protest&hl=en-IE&gl=IE&ceid=IE%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139119805",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Irish_fuel_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139736890",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Iran",
-      "countries": [
-        "Iran"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Iranian_pro-government_rallies",
-      "needsName": false,
-      "suggested": {
-        "id": "iran-iranian-pro-government-rallies",
-        "name": "2026 Iranian pro-government rallies",
-        "region": "Middle East",
-        "location": "Iran",
-        "year": 2026,
-        "description": "Iranian support to their government",
-        "keywords": [
-          "iranian",
-          "pro",
-          "government",
-          "iran",
-          "protest"
-        ],
-        "strictKeywords": [
-          "iranian",
-          "pro",
-          "government"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Iranian%20pro-government%20rallies&hl=en-IR&gl=IR&ceid=IR%3Aen",
-          "https://news.google.com/rss/search?q=Iran%20protest&hl=en-IR&gl=IR&ceid=IR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139736890",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Iranian_pro-government_rallies"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139807452",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Bolivia",
-      "countries": [
-        "Bolivia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Bolivian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "bolivia-bolivian-protests",
-        "name": "2026 Bolivian protests",
-        "region": "Americas",
-        "location": "Bolivia",
-        "year": 2026,
-        "description": "anti-government protests in Bolivia",
-        "keywords": [
-          "bolivian",
-          "bolivia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "bolivian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Bolivian%20protests&hl=en-BO&gl=BO&ceid=BO%3Aen",
-          "https://news.google.com/rss/search?q=Bolivia%20protest&hl=en-BO&gl=BO&ceid=BO%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139807452",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Bolivian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139845774",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United States",
-      "countries": [
-        "United States"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Long_Island_Rail_Road_strike",
-      "needsName": false,
-      "suggested": {
-        "id": "united-states-long-island-rail-road-strike",
-        "name": "2026 Long Island Rail Road strike",
-        "region": "Americas",
-        "location": "United States",
-        "year": 2026,
-        "description": "LIRR industrial action",
-        "keywords": [
-          "long",
-          "island",
-          "rail",
-          "road",
-          "united states",
-          "protest"
-        ],
-        "strictKeywords": [
-          "long",
-          "island",
-          "rail",
-          "road"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Long%20Island%20Rail%20Road%20strike&hl=en-US&gl=US&ceid=US%3Aen",
-          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139845774",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Long_Island_Rail_Road_strike"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139891739",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Albania",
-      "countries": [
-        "Albania"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Albanian_opposition_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "albania-albanian-opposition-protests",
-        "name": "2025–2026 Albanian opposition protests",
-        "region": "Europe",
-        "location": "Albania",
-        "year": 2025,
-        "description": "Opposition protests in Albania",
-        "keywords": [
-          "albanian",
-          "opposition",
-          "albania",
-          "protest"
-        ],
-        "strictKeywords": [
-          "albanian",
-          "opposition"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Albanian%20opposition%20protests&hl=en-AL&gl=AL&ceid=AL%3Aen",
-          "https://news.google.com/rss/search?q=Albania%20protest&hl=en-AL&gl=AL&ceid=AL%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139891739",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Albanian_opposition_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139967802",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Maldives",
-      "countries": [
-        "Maldives"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Maldivian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "maldives-maldivian-protests",
-        "name": "2026 Maldivian protests",
-        "region": "Asia",
-        "location": "Maldives",
-        "year": 2026,
-        "description": "series of anti-government protests in the Maldives",
-        "keywords": [
-          "maldivian",
-          "maldives",
-          "protest"
-        ],
-        "strictKeywords": [
-          "maldivian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Maldivian%20protests&hl=en-MV&gl=MV&ceid=MV%3Aen",
-          "https://news.google.com/rss/search?q=Maldives%20protest&hl=en-MV&gl=MV&ceid=MV%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139967802",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Maldivian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139998119",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Albania",
-      "countries": [
-        "Albania"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Flamingo_Revolution",
-      "needsName": false,
-      "suggested": {
-        "id": "albania-flamingo-revolution",
-        "name": "Flamingo Revolution",
-        "region": "Europe",
-        "location": "Albania",
-        "year": 2026,
-        "description": "protests against a proposed tourism development project in southern Albania from May 2026 on",
-        "keywords": [
-          "flamingo",
-          "revolution",
-          "albania",
-          "protest"
-        ],
-        "strictKeywords": [
-          "flamingo",
-          "revolution"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Flamingo%20Revolution&hl=en-AL&gl=AL&ceid=AL%3Aen",
-          "https://news.google.com/rss/search?q=Albania%20protest&hl=en-AL&gl=AL&ceid=AL%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139998119",
-          "wikipedia": "https://en.wikipedia.org/wiki/Flamingo_Revolution"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140164273",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United Kingdom",
-      "countries": [
-        "United Kingdom"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots",
-      "needsName": false,
-      "suggested": {
-        "id": "united-kingdom-northern-ireland-riots",
-        "name": "2026 Northern Ireland riots",
-        "region": "Europe",
-        "location": "United Kingdom",
-        "year": 2026,
-        "description": "series of riots in Northern Ireland",
-        "keywords": [
-          "northern",
-          "ireland",
-          "united kingdom",
-          "protest"
-        ],
-        "strictKeywords": [
-          "northern",
-          "ireland"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Northern%20Ireland%20riots&hl=en-GB&gl=GB&ceid=GB%3Aen",
-          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140164273",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140196966",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Indonesia",
-      "countries": [
-        "Indonesia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "indonesia-june-indonesian-protests",
-        "name": "June 2026 Indonesian protests",
-        "region": "Asia",
-        "location": "Indonesia",
-        "year": 2026,
-        "description": "a series of ongoing student-led demonstrations against government regulations  in Indonesia",
-        "keywords": [
-          "indonesian",
-          "indonesia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "indonesian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=June%202026%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
-          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140196966",
-          "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140263260",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "France",
-      "countries": [
-        "France"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots",
-      "needsName": false,
-      "suggested": {
-        "id": "france-paris-saint-germain-celebration-riots-2",
-        "name": "2026 Paris Saint-Germain celebration riots",
-        "region": "Europe",
-        "location": "France",
-        "year": 2026,
-        "description": "football riots in Paris, France",
-        "keywords": [
-          "paris",
-          "saint",
-          "germain",
-          "celebration",
-          "france",
-          "protest"
-        ],
-        "strictKeywords": [
-          "paris",
-          "saint",
-          "germain",
-          "celebration"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Paris%20Saint-Germain%20celebration%20riots&hl=en-FR&gl=FR&ceid=FR%3Aen",
-          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140263260",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140286022",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Russia",
-      "countries": [
-        "Russia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia",
-      "needsName": false,
-      "suggested": {
-        "id": "russia-roblox-ban-protests-in-russia",
-        "name": "Roblox ban protests in Russia",
-        "region": "Europe",
-        "location": "Russia",
-        "year": 2026,
-        "description": "protest caused by Russia's 2025 ban of Roblox",
-        "keywords": [
-          "roblox",
-          "ban",
-          "russia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "roblox",
-          "ban",
-          "russia"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Roblox%20ban%20protests%20in%20Russia&hl=en-RU&gl=RU&ceid=RU%3Aen",
-          "https://news.google.com/rss/search?q=Russia%20protest&hl=en-RU&gl=RU&ceid=RU%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140286022",
-          "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140379081",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Pakistan",
-      "countries": [
-        "Pakistan"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "pakistan-azad-kashmir-protests",
-        "name": "2026 Azad Kashmir protests",
-        "region": "Asia",
-        "location": "Pakistan",
-        "year": 2026,
-        "description": "ongoing protests in Pakistan-administered Kashmir",
-        "keywords": [
-          "azad",
-          "kashmir",
-          "pakistan",
-          "protest"
-        ],
-        "strictKeywords": [
-          "azad",
-          "kashmir"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Azad%20Kashmir%20protests&hl=en-PK&gl=PK&ceid=PK%3Aen",
-          "https://news.google.com/rss/search?q=Pakistan%20protest&hl=en-PK&gl=PK&ceid=PK%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140379081",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140773593",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Italy",
-      "countries": [
-        "Italy"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
-      "needsName": false,
-      "suggested": {
-        "id": "italy-susa-valley-conflict",
-        "name": "2026 Susa Valley conflict",
-        "region": "Europe",
-        "location": "Italy",
-        "year": 2026,
-        "description": "civil unrest in Italy",
-        "keywords": [
-          "susa",
-          "valley",
-          "conflict",
-          "italy",
-          "protest"
-        ],
-        "strictKeywords": [
-          "susa",
-          "valley",
-          "conflict"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
-          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140773593",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
-        }
-      }
-    },
-    {
       "key": "wd-Q137366682",
       "source": "wikidata",
       "confidence": "high",
-      "country": "Bulgaria",
+      "country": "Czech Republic",
       "countries": [
-        "Bulgaria",
         "Czech Republic",
+        "Bulgaria",
         "Germany",
         "United Kingdom",
         "Netherlands",
         "Austria",
         "Belgium",
-        "United States",
-        "Spain"
+        "Spain",
+        "United States"
       ],
       "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests",
       "needsName": false,
       "suggested": {
-        "id": "bulgaria-bulgarian-protests",
+        "id": "czech-republic-bulgarian-protests",
         "name": "2025 Bulgarian protests",
-        "region": "Europe",
-        "location": "Bulgaria",
+        "region": "",
+        "location": "Czech Republic",
         "year": 2025,
         "description": "Gen Z protests over increasing taxes",
         "keywords": [
           "bulgarian",
-          "bulgaria",
+          "czech republic",
           "protest"
         ],
         "strictKeywords": [
           "bulgarian"
         ],
         "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en-BG&gl=BG&ceid=BG%3Aen",
-          "https://news.google.com/rss/search?q=Bulgaria%20protest&hl=en-BG&gl=BG&ceid=BG%3Aen"
+          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=Czech%20Republic%20protest&hl=en&gl=US&ceid=US%3Aen"
         ],
         "manualStatus": null,
         "_source": {
@@ -1810,7 +1309,7 @@
       "wikipedia": "https://en.wikipedia.org/wiki/2025_Maldivian_protests",
       "needsName": false,
       "suggested": {
-        "id": "maldives-maldivian-protests-2",
+        "id": "maldives-maldivian-protests",
         "name": "2025 Maldivian protests",
         "region": "Asia",
         "location": "Maldives",
@@ -2016,6 +1515,507 @@
         "_source": {
           "wikidata": "Q136799328",
           "wikipedia": "https://en.wikipedia.org/wiki/2025_Mexican_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139119805",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Ireland",
+      "countries": [
+        "Ireland"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Irish_fuel_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "ireland-irish-fuel-protests",
+        "name": "2026 Irish fuel protests",
+        "region": "Europe",
+        "location": "Ireland",
+        "year": 2026,
+        "description": "series of nationwide demonstrations in the Republic of Ireland",
+        "keywords": [
+          "irish",
+          "fuel",
+          "ireland",
+          "protest"
+        ],
+        "strictKeywords": [
+          "irish",
+          "fuel"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Irish%20fuel%20protests&hl=en-IE&gl=IE&ceid=IE%3Aen",
+          "https://news.google.com/rss/search?q=Ireland%20protest&hl=en-IE&gl=IE&ceid=IE%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139119805",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Irish_fuel_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139736890",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Iran",
+      "countries": [
+        "Iran"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Iranian_pro-government_rallies",
+      "needsName": false,
+      "suggested": {
+        "id": "iran-iranian-pro-government-rallies",
+        "name": "2026 Iranian pro-government rallies",
+        "region": "Middle East",
+        "location": "Iran",
+        "year": 2026,
+        "description": "Iranian support to their government",
+        "keywords": [
+          "iranian",
+          "pro",
+          "government",
+          "iran",
+          "protest"
+        ],
+        "strictKeywords": [
+          "iranian",
+          "pro",
+          "government"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Iranian%20pro-government%20rallies&hl=en-IR&gl=IR&ceid=IR%3Aen",
+          "https://news.google.com/rss/search?q=Iran%20protest&hl=en-IR&gl=IR&ceid=IR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139736890",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Iranian_pro-government_rallies"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139807452",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Bolivia",
+      "countries": [
+        "Bolivia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Bolivian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "bolivia-bolivian-protests",
+        "name": "2026 Bolivian protests",
+        "region": "Americas",
+        "location": "Bolivia",
+        "year": 2026,
+        "description": "anti-government protests in Bolivia",
+        "keywords": [
+          "bolivian",
+          "bolivia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "bolivian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Bolivian%20protests&hl=en-BO&gl=BO&ceid=BO%3Aen",
+          "https://news.google.com/rss/search?q=Bolivia%20protest&hl=en-BO&gl=BO&ceid=BO%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139807452",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Bolivian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139845774",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United States",
+      "countries": [
+        "United States"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Long_Island_Rail_Road_strike",
+      "needsName": false,
+      "suggested": {
+        "id": "united-states-long-island-rail-road-strike",
+        "name": "2026 Long Island Rail Road strike",
+        "region": "Americas",
+        "location": "United States",
+        "year": 2026,
+        "description": "LIRR industrial action",
+        "keywords": [
+          "long",
+          "island",
+          "rail",
+          "road",
+          "united states",
+          "protest"
+        ],
+        "strictKeywords": [
+          "long",
+          "island",
+          "rail",
+          "road"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Long%20Island%20Rail%20Road%20strike&hl=en-US&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139845774",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Long_Island_Rail_Road_strike"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139891739",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Albania",
+      "countries": [
+        "Albania"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Albanian_opposition_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "albania-albanian-opposition-protests",
+        "name": "2025–2026 Albanian opposition protests",
+        "region": "Europe",
+        "location": "Albania",
+        "year": 2025,
+        "description": "Opposition protests in Albania",
+        "keywords": [
+          "albanian",
+          "opposition",
+          "albania",
+          "protest"
+        ],
+        "strictKeywords": [
+          "albanian",
+          "opposition"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%E2%80%932026%20Albanian%20opposition%20protests&hl=en-AL&gl=AL&ceid=AL%3Aen",
+          "https://news.google.com/rss/search?q=Albania%20protest&hl=en-AL&gl=AL&ceid=AL%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139891739",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Albanian_opposition_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139967802",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Maldives",
+      "countries": [
+        "Maldives"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Maldivian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "maldives-maldivian-protests-2",
+        "name": "2026 Maldivian protests",
+        "region": "Asia",
+        "location": "Maldives",
+        "year": 2026,
+        "description": "series of anti-government protests in the Maldives",
+        "keywords": [
+          "maldivian",
+          "maldives",
+          "protest"
+        ],
+        "strictKeywords": [
+          "maldivian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Maldivian%20protests&hl=en-MV&gl=MV&ceid=MV%3Aen",
+          "https://news.google.com/rss/search?q=Maldives%20protest&hl=en-MV&gl=MV&ceid=MV%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139967802",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Maldivian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139998119",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Albania",
+      "countries": [
+        "Albania"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Flamingo_Revolution",
+      "needsName": false,
+      "suggested": {
+        "id": "albania-flamingo-revolution",
+        "name": "Flamingo Revolution",
+        "region": "Europe",
+        "location": "Albania",
+        "year": 2026,
+        "description": "protests against a proposed tourism development project in southern Albania from May 2026 on",
+        "keywords": [
+          "flamingo",
+          "revolution",
+          "albania",
+          "protest"
+        ],
+        "strictKeywords": [
+          "flamingo",
+          "revolution"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Flamingo%20Revolution&hl=en-AL&gl=AL&ceid=AL%3Aen",
+          "https://news.google.com/rss/search?q=Albania%20protest&hl=en-AL&gl=AL&ceid=AL%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139998119",
+          "wikipedia": "https://en.wikipedia.org/wiki/Flamingo_Revolution"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140164273",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United Kingdom",
+      "countries": [
+        "United Kingdom"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots",
+      "needsName": false,
+      "suggested": {
+        "id": "united-kingdom-northern-ireland-riots",
+        "name": "2026 Northern Ireland riots",
+        "region": "Europe",
+        "location": "United Kingdom",
+        "year": 2026,
+        "description": "series of riots in Northern Ireland",
+        "keywords": [
+          "northern",
+          "ireland",
+          "united kingdom",
+          "protest"
+        ],
+        "strictKeywords": [
+          "northern",
+          "ireland"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Northern%20Ireland%20riots&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140164273",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140196966",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Indonesia",
+      "countries": [
+        "Indonesia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "indonesia-june-indonesian-protests",
+        "name": "June 2026 Indonesian protests",
+        "region": "Asia",
+        "location": "Indonesia",
+        "year": 2026,
+        "description": "a series of ongoing student-led demonstrations against government regulations  in Indonesia",
+        "keywords": [
+          "indonesian",
+          "indonesia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "indonesian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=June%202026%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
+          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140196966",
+          "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140263260",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "France",
+      "countries": [
+        "France"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots",
+      "needsName": false,
+      "suggested": {
+        "id": "france-paris-saint-germain-celebration-riots-2",
+        "name": "2026 Paris Saint-Germain celebration riots",
+        "region": "Europe",
+        "location": "France",
+        "year": 2026,
+        "description": "football riots in Paris, France",
+        "keywords": [
+          "paris",
+          "saint",
+          "germain",
+          "celebration",
+          "france",
+          "protest"
+        ],
+        "strictKeywords": [
+          "paris",
+          "saint",
+          "germain",
+          "celebration"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Paris%20Saint-Germain%20celebration%20riots&hl=en-FR&gl=FR&ceid=FR%3Aen",
+          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140263260",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140286022",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Russia",
+      "countries": [
+        "Russia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia",
+      "needsName": false,
+      "suggested": {
+        "id": "russia-roblox-ban-protests-in-russia",
+        "name": "Roblox ban protests in Russia",
+        "region": "Europe",
+        "location": "Russia",
+        "year": 2026,
+        "description": "protest caused by Russia's 2025 ban of Roblox",
+        "keywords": [
+          "roblox",
+          "ban",
+          "russia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "roblox",
+          "ban",
+          "russia"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Roblox%20ban%20protests%20in%20Russia&hl=en-RU&gl=RU&ceid=RU%3Aen",
+          "https://news.google.com/rss/search?q=Russia%20protest&hl=en-RU&gl=RU&ceid=RU%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140286022",
+          "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140379081",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Pakistan",
+      "countries": [
+        "Pakistan"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "pakistan-azad-kashmir-protests",
+        "name": "2026 Azad Kashmir protests",
+        "region": "Asia",
+        "location": "Pakistan",
+        "year": 2026,
+        "description": "ongoing protests in Pakistan-administered Kashmir",
+        "keywords": [
+          "azad",
+          "kashmir",
+          "pakistan",
+          "protest"
+        ],
+        "strictKeywords": [
+          "azad",
+          "kashmir"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Azad%20Kashmir%20protests&hl=en-PK&gl=PK&ceid=PK%3Aen",
+          "https://news.google.com/rss/search?q=Pakistan%20protest&hl=en-PK&gl=PK&ceid=PK%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140379081",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140773593",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Italy",
+      "countries": [
+        "Italy"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
+      "needsName": false,
+      "suggested": {
+        "id": "italy-susa-valley-conflict",
+        "name": "2026 Susa Valley conflict",
+        "region": "Europe",
+        "location": "Italy",
+        "year": 2026,
+        "description": "civil unrest in Italy",
+        "keywords": [
+          "susa",
+          "valley",
+          "conflict",
+          "italy",
+          "protest"
+        ],
+        "strictKeywords": [
+          "susa",
+          "valley",
+          "conflict"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
+          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140773593",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
         }
       }
     },
@@ -2280,6 +2280,42 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "Q139895056",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "wd-Q141573327",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Norway",
+      "countries": [
+        "Norway"
+      ],
+      "wikipedia": "",
+      "needsName": true,
+      "suggested": {
+        "id": "norway-q141573327",
+        "name": "Q141573327",
+        "region": "",
+        "location": "Norway",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "q141573327",
+          "norway",
+          "protest"
+        ],
+        "strictKeywords": [
+          "q141573327"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Q141573327&hl=en&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=Norway%20protest&hl=en&gl=US&ceid=US%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q141573327",
           "wikipedia": ""
         }
       }
@@ -3468,78 +3504,6 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "nigeria:fighting-fresh-resumes",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
-      "key": "gd-nigeria:kidnap-nationwide-neutralize",
-      "source": "gdelt",
-      "confidence": "low",
-      "country": "Nigeria",
-      "countries": [
-        "Nigeria"
-      ],
-      "domains": [
-        "quicknews-africa.net",
-        "vanguardngr.com",
-        "punchng.com"
-      ],
-      "daysSeen": 3,
-      "articleCount": 3,
-      "firstSeen": "2026-09-03",
-      "lastSeen": "2026-09-06",
-      "samples": [
-        {
-          "title": "Troops neutralize terrorists , rescue 30 kidnap victims in nationwide operations",
-          "url": "https://quicknews-africa.net/troops-neutralize-terrorists-rescue-30-kidnap-victims-in-nationwide-operations/",
-          "domain": "quicknews-africa.net",
-          "date": "2026-09-03"
-        },
-        {
-          "title": "Enugu Police arrest 6 , 240 suspects , rescue 211 kidnapped victims in 17 months",
-          "url": "https://www.vanguardngr.com/2026/09/enugu-police-arrest-6240-suspects-rescue-211-kidnapped-victims-in-17-months/",
-          "domain": "vanguardngr.com",
-          "date": "2026-09-06"
-        },
-        {
-          "title": "Enugu Police Detain 6 , 240 Suspects , Rescue 211 Kidnap Victim",
-          "url": "https://punchng.com/police-detain-6240-suspects-rescue-211-kidnapped-victims-in-enugu/",
-          "domain": "punchng.com",
-          "date": "2026-09-05"
-        }
-      ],
-      "needsName": true,
-      "suggested": {
-        "id": "nigeria-troops-neutralize-terrorists-rescue-30-kidnap",
-        "name": "Troops neutralize terrorists rescue 30 kidnap",
-        "region": "Africa",
-        "location": "Nigeria",
-        "year": 2026,
-        "description": "",
-        "keywords": [
-          "troops",
-          "neutralize",
-          "terrorists",
-          "rescue",
-          "kidnap",
-          "nigeria",
-          "protest"
-        ],
-        "strictKeywords": [
-          "troops",
-          "neutralize",
-          "terrorists",
-          "rescue",
-          "kidnap"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Troops%20neutralize%20terrorists%20rescue%2030%20kidnap&hl=en-NG&gl=NG&ceid=NG%3Aen",
-          "https://news.google.com/rss/search?q=Nigeria%20protest&hl=en-NG&gl=NG&ceid=NG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "nigeria:kidnap-nationwide-neutralize",
           "wikipedia": ""
         }
       }
