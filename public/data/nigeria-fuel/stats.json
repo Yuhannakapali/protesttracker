@@ -815,15 +815,15 @@
     },
     {
       "start": "2026-09-01",
-      "count": 142
+      "count": 146
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 78,
+      "count": 82,
       "first": "2012-01-05",
-      "last": "2026-09-26"
+      "last": "2026-09-27"
     },
     {
       "name": "The Guardian Nigeria News",
@@ -850,16 +850,16 @@
       "last": "2026-09-26"
     },
     {
-      "name": "Premium Times Nigeria",
-      "count": 36,
-      "first": "2013-04-18",
-      "last": "2026-02-02"
-    },
-    {
       "name": "BBC",
       "count": 35,
       "first": "2018-09-26",
       "last": "2025-12-17"
+    },
+    {
+      "name": "Premium Times Nigeria",
+      "count": 33,
+      "first": "2013-04-18",
+      "last": "2026-02-02"
     },
     {
       "name": "Punch Newspapers",
@@ -880,22 +880,28 @@
       "last": "2026-09-26"
     },
     {
+      "name": "Business News Nigeria",
+      "count": 17,
+      "first": "2022-01-21",
+      "last": "2026-07-28"
+    },
+    {
       "name": "TheCable",
       "count": 16,
       "first": "2020-09-05",
       "last": "2026-09-16"
     },
     {
+      "name": "Arise News",
+      "count": 15,
+      "first": "2023-06-02",
+      "last": "2026-06-04"
+    },
+    {
       "name": "The Sun Nigeria",
       "count": 15,
       "first": "2022-11-30",
       "last": "2026-08-14"
-    },
-    {
-      "name": "Arise News",
-      "count": 14,
-      "first": "2023-06-02",
-      "last": "2026-06-04"
     },
     {
       "name": "Legit News",
@@ -920,12 +926,6 @@
       "count": 12,
       "first": "2023-01-26",
       "last": "2026-03-11"
-    },
-    {
-      "name": "Business News Nigeria",
-      "count": 11,
-      "first": "2022-01-21",
-      "last": "2026-07-28"
     },
     {
       "name": "Premium Times",
@@ -964,10 +964,10 @@
       "last": "2024-08-08"
     },
     {
-      "name": "businessday.ng",
+      "name": "premiumtimesng.com",
       "count": 6,
-      "first": "2023-11-23",
-      "last": "2026-03-16"
+      "first": "2023-06-01",
+      "last": "2026-01-27"
     },
     {
       "name": "Sahara Reporters",
@@ -992,12 +992,6 @@
       "count": 5,
       "first": "2012-01-10",
       "last": "2026-05-19"
-    },
-    {
-      "name": "The Nation Newspaper",
-      "count": 5,
-      "first": "2024-09-08",
-      "last": "2026-06-03"
     },
     {
       "name": "vanguardngr.com",
@@ -1036,16 +1030,22 @@
       "last": "2026-09-11"
     },
     {
+      "name": "The Nation Newspaper",
+      "count": 4,
+      "first": "2024-09-08",
+      "last": "2026-02-04"
+    },
+    {
       "name": "Peoples Gazette Nigeria",
       "count": 3,
       "first": "2024-10-09",
       "last": "2026-05-18"
     },
     {
-      "name": "premiumtimesng.com",
+      "name": "thenationonlineng.net",
       "count": 3,
-      "first": "2024-06-03",
-      "last": "2024-06-03"
+      "first": "2022-01-10",
+      "last": "2026-06-03"
     },
     {
       "name": "VOA Africa",
@@ -1070,12 +1070,6 @@
       "count": 2,
       "first": "2024-09-04",
       "last": "2024-09-04"
-    },
-    {
-      "name": "Mail & Guardian",
-      "count": 2,
-      "first": "2012-01-16",
-      "last": "2024-03-02"
     },
     {
       "name": "Modern Ghana",
@@ -1112,12 +1106,6 @@
       "count": 2,
       "first": "2023-10-01",
       "last": "2026-02-03"
-    },
-    {
-      "name": "thenationonlineng.net",
-      "count": 2,
-      "first": "2022-01-10",
-      "last": "2026-02-02"
     },
     {
       "name": "TRT Afrika",
@@ -1160,12 +1148,6 @@
       "count": 1,
       "first": "2026-08-21",
       "last": "2026-08-21"
-    },
-    {
-      "name": "arise.tv",
-      "count": 1,
-      "first": "2026-01-28",
-      "last": "2026-01-28"
     },
     {
       "name": "Black Agenda Report",
@@ -1324,6 +1306,12 @@
       "last": "2024-08-21"
     },
     {
+      "name": "Mail & Guardian",
+      "count": 1,
+      "first": "2012-01-16",
+      "last": "2012-01-16"
+    },
+    {
       "name": "MarketForces Africa",
       "count": 1,
       "first": "2024-11-05",
@@ -1334,6 +1322,12 @@
       "count": 1,
       "first": "2025-07-27",
       "last": "2025-07-27"
+    },
+    {
+      "name": "mg.co.za",
+      "count": 1,
+      "first": "2024-03-02",
+      "last": "2024-03-02"
     },
     {
       "name": "Naija News",
@@ -1348,7 +1342,7 @@
       "last": "2025-10-16"
     },
     {
-      "name": "nationalaccordnewspaper.com",
+      "name": "National Accord Newspaper",
       "count": 1,
       "first": "2026-09-15",
       "last": "2026-09-15"
@@ -1378,7 +1372,7 @@
       "last": "2026-09-15"
     },
     {
-      "name": "Politics Nigeria",
+      "name": "politicsnigeria.com",
       "count": 1,
       "first": "2026-09-23",
       "last": "2026-09-23"
