@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T09:18:33.709Z",
+  "generated": "2026-09-28T09:51:02.465Z",
   "candidates": [
     {
       "key": "wd-Q133800245",
@@ -536,230 +536,41 @@
       }
     },
     {
-      "key": "wd-Q135741899",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Mexico",
-      "countries": [
-        "Mexico"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_gentrification_in_Mexico_City",
-      "needsName": false,
-      "suggested": {
-        "id": "mexico-protests-against-gentrification-in-mexico-city",
-        "name": "Protests against gentrification in Mexico City",
-        "region": "Americas",
-        "location": "Mexico",
-        "year": 2026,
-        "description": "2025 protests in Mexico",
-        "keywords": [
-          "gentrification",
-          "mexico",
-          "city",
-          "protest"
-        ],
-        "strictKeywords": [
-          "gentrification",
-          "mexico",
-          "city"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Protests%20against%20gentrification%20in%20Mexico%20City&hl=en-MX&gl=MX&ceid=MX%3Aen",
-          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q135741899",
-          "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_gentrification_in_Mexico_City"
-        }
-      }
-    },
-    {
-      "key": "wd-Q135775281",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Indonesia",
-      "countries": [
-        "Indonesia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Pati_demonstrations",
-      "needsName": false,
-      "suggested": {
-        "id": "indonesia-pati-demonstrations",
-        "name": "2025 Pati demonstrations",
-        "region": "Asia",
-        "location": "Indonesia",
-        "year": 2025,
-        "description": "protest on government of Pati's policy on August 2025",
-        "keywords": [
-          "pati",
-          "indonesia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "pati"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Pati%20demonstrations&hl=en-ID&gl=ID&ceid=ID%3Aen",
-          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q135775281",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Pati_demonstrations"
-        }
-      }
-    },
-    {
-      "key": "wd-Q135964336",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United Kingdom",
-      "countries": [
-        "United Kingdom"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom_anti-immigration_protests_(2025%E2%80%93present)",
-      "needsName": false,
-      "suggested": {
-        "id": "united-kingdom-british-anti-immigration-protests",
-        "name": "2025 British anti-immigration protests",
-        "region": "Europe",
-        "location": "United Kingdom",
-        "year": 2025,
-        "description": "Series of anti-immigrant protests in the UK promoted by Tommy Robinson",
-        "keywords": [
-          "british",
-          "anti",
-          "immigration",
-          "united kingdom",
-          "protest"
-        ],
-        "strictKeywords": [
-          "british",
-          "anti",
-          "immigration"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20British%20anti-immigration%20protests&hl=en-GB&gl=GB&ceid=GB%3Aen",
-          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q135964336",
-          "wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom_anti-immigration_protests_(2025%E2%80%93present)"
-        }
-      }
-    },
-    {
-      "key": "wd-Q135989908",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Indonesia",
-      "countries": [
-        "Indonesia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/August_2025_Indonesian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "indonesia-august-september-indonesian-protests",
-        "name": "August–September 2025 Indonesian protests",
-        "region": "Asia",
-        "location": "Indonesia",
-        "year": 2025,
-        "description": "protests in Indonesia since August 2025",
-        "keywords": [
-          "indonesian",
-          "indonesia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "indonesian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=August%E2%80%93September%202025%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
-          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q135989908",
-          "wikipedia": "https://en.wikipedia.org/wiki/August_2025_Indonesian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q136160164",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Nepal",
-      "countries": [
-        "Nepal"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Nepalese_Gen_Z_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "nepal-nepalese-gen-z-protests",
-        "name": "2025 Nepalese Gen Z protests",
-        "region": "Asia",
-        "location": "Nepal",
-        "year": 2025,
-        "description": "anti-government protests in Nepal",
-        "keywords": [
-          "nepalese",
-          "gen",
-          "nepal",
-          "protest"
-        ],
-        "strictKeywords": [
-          "nepalese",
-          "gen"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Nepalese%20Gen%20Z%20protests&hl=en-NP&gl=NP&ceid=NP%3Aen",
-          "https://news.google.com/rss/search?q=Nepal%20protest&hl=en-NP&gl=NP&ceid=NP%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q136160164",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Nepalese_Gen_Z_protests"
-        }
-      }
-    },
-    {
       "key": "wd-Q137366682",
       "source": "wikidata",
       "confidence": "high",
-      "country": "Czech Republic",
+      "country": "Bulgaria",
       "countries": [
-        "Czech Republic",
         "Bulgaria",
+        "Czech Republic",
         "Germany",
         "United Kingdom",
         "Netherlands",
         "Austria",
         "Belgium",
-        "Spain",
-        "United States"
+        "United States",
+        "Spain"
       ],
       "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests",
       "needsName": false,
       "suggested": {
-        "id": "czech-republic-bulgarian-protests",
+        "id": "bulgaria-bulgarian-protests",
         "name": "2025 Bulgarian protests",
-        "region": "",
-        "location": "Czech Republic",
+        "region": "Europe",
+        "location": "Bulgaria",
         "year": 2025,
         "description": "Gen Z protests over increasing taxes",
         "keywords": [
           "bulgarian",
-          "czech republic",
+          "bulgaria",
           "protest"
         ],
         "strictKeywords": [
           "bulgarian"
         ],
         "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en&gl=US&ceid=US%3Aen",
-          "https://news.google.com/rss/search?q=Czech%20Republic%20protest&hl=en&gl=US&ceid=US%3Aen"
+          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en-BG&gl=BG&ceid=BG%3Aen",
+          "https://news.google.com/rss/search?q=Bulgaria%20protest&hl=en-BG&gl=BG&ceid=BG%3Aen"
         ],
         "manualStatus": null,
         "_source": {
@@ -960,6 +771,195 @@
         "_source": {
           "wikidata": "Q138514607",
           "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_the_2026_Iran_war_in_the_United_States"
+        }
+      }
+    },
+    {
+      "key": "wd-Q135741899",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Mexico",
+      "countries": [
+        "Mexico"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_gentrification_in_Mexico_City",
+      "needsName": false,
+      "suggested": {
+        "id": "mexico-protests-against-gentrification-in-mexico-city",
+        "name": "Protests against gentrification in Mexico City",
+        "region": "Americas",
+        "location": "Mexico",
+        "year": 2026,
+        "description": "2025 protests in Mexico",
+        "keywords": [
+          "gentrification",
+          "mexico",
+          "city",
+          "protest"
+        ],
+        "strictKeywords": [
+          "gentrification",
+          "mexico",
+          "city"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Protests%20against%20gentrification%20in%20Mexico%20City&hl=en-MX&gl=MX&ceid=MX%3Aen",
+          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q135741899",
+          "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_gentrification_in_Mexico_City"
+        }
+      }
+    },
+    {
+      "key": "wd-Q135775281",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Indonesia",
+      "countries": [
+        "Indonesia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Pati_demonstrations",
+      "needsName": false,
+      "suggested": {
+        "id": "indonesia-pati-demonstrations",
+        "name": "2025 Pati demonstrations",
+        "region": "Asia",
+        "location": "Indonesia",
+        "year": 2025,
+        "description": "protest on government of Pati's policy on August 2025",
+        "keywords": [
+          "pati",
+          "indonesia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "pati"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Pati%20demonstrations&hl=en-ID&gl=ID&ceid=ID%3Aen",
+          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q135775281",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Pati_demonstrations"
+        }
+      }
+    },
+    {
+      "key": "wd-Q135964336",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United Kingdom",
+      "countries": [
+        "United Kingdom"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom_anti-immigration_protests_(2025%E2%80%93present)",
+      "needsName": false,
+      "suggested": {
+        "id": "united-kingdom-british-anti-immigration-protests",
+        "name": "2025 British anti-immigration protests",
+        "region": "Europe",
+        "location": "United Kingdom",
+        "year": 2025,
+        "description": "Series of anti-immigrant protests in the UK promoted by Tommy Robinson",
+        "keywords": [
+          "british",
+          "anti",
+          "immigration",
+          "united kingdom",
+          "protest"
+        ],
+        "strictKeywords": [
+          "british",
+          "anti",
+          "immigration"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20British%20anti-immigration%20protests&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q135964336",
+          "wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom_anti-immigration_protests_(2025%E2%80%93present)"
+        }
+      }
+    },
+    {
+      "key": "wd-Q135989908",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Indonesia",
+      "countries": [
+        "Indonesia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/August_2025_Indonesian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "indonesia-august-september-indonesian-protests",
+        "name": "August–September 2025 Indonesian protests",
+        "region": "Asia",
+        "location": "Indonesia",
+        "year": 2025,
+        "description": "protests in Indonesia since August 2025",
+        "keywords": [
+          "indonesian",
+          "indonesia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "indonesian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=August%E2%80%93September%202025%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
+          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q135989908",
+          "wikipedia": "https://en.wikipedia.org/wiki/August_2025_Indonesian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q136160164",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Nepal",
+      "countries": [
+        "Nepal"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Nepalese_Gen_Z_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "nepal-nepalese-gen-z-protests",
+        "name": "2025 Nepalese Gen Z protests",
+        "region": "Asia",
+        "location": "Nepal",
+        "year": 2025,
+        "description": "anti-government protests in Nepal",
+        "keywords": [
+          "nepalese",
+          "gen",
+          "nepal",
+          "protest"
+        ],
+        "strictKeywords": [
+          "nepalese",
+          "gen"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Nepalese%20Gen%20Z%20protests&hl=en-NP&gl=NP&ceid=NP%3Aen",
+          "https://news.google.com/rss/search?q=Nepal%20protest&hl=en-NP&gl=NP&ceid=NP%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q136160164",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Nepalese_Gen_Z_protests"
         }
       }
     },
@@ -4081,92 +4081,6 @@
       }
     },
     {
-      "key": "gd-philippines:arabia-attacked-filipino",
-      "source": "gdelt",
-      "confidence": "low",
-      "country": "Philippines",
-      "countries": [
-        "Philippines"
-      ],
-      "domains": [
-        "rappler.com",
-        "philstar.com",
-        "manilatimes.net"
-      ],
-      "daysSeen": 3,
-      "articleCount": 7,
-      "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-07",
-      "samples": [
-        {
-          "title": "Saudi Arabia says Iran attacked vessel in Hormuz , killing 2 Filipino sailors",
-          "url": "https://www.rappler.com/philippines/overseas-filipinos/seafarers-killed-iran-attack-strait-hormuz-august-31-2026/",
-          "domain": "rappler.com",
-          "date": "2026-09-03"
-        },
-        {
-          "title": "Two Filipino seafarers killed as Saudi tanker attacked in Hormuz",
-          "url": "https://www.philstar.com/headlines/2026/09/03/2553745/two-filipino-seafarers-killed-saudi-tanker-attacked-hormuz",
-          "domain": "philstar.com",
-          "date": "2026-09-03"
-        },
-        {
-          "title": "JETOUR Launches Factory - Customized G700 TOPFIRE in Saudi Arabia",
-          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/jetour-launches-factory-customized-g700-topfire-in-saudi-arabia/2415599",
-          "domain": "manilatimes.net",
-          "date": "2026-09-01"
-        },
-        {
-          "title": "Saudi Arabia says Iran attacked vessel in Hormuz , killing 2 Filipino sailors",
-          "url": "https://www.rappler.com/philippines/overseas-filipinos/seafarers-killed-iran-attack-strait-hormuz-august-31-2026/",
-          "domain": "rappler.com",
-          "date": "2026-09-03"
-        },
-        {
-          "title": "Two Filipino seafarers killed as Saudi tanker attacked in Hormuz",
-          "url": "https://www.philstar.com/headlines/2026/09/03/2553745/two-filipino-seafarers-killed-saudi-tanker-attacked-hormuz",
-          "domain": "philstar.com",
-          "date": "2026-09-03"
-        }
-      ],
-      "needsName": true,
-      "suggested": {
-        "id": "philippines-saudi-arabia-says-iran-attacked-vessel",
-        "name": "Saudi Arabia says Iran attacked vessel",
-        "region": "Asia",
-        "location": "Philippines",
-        "year": 2026,
-        "description": "",
-        "keywords": [
-          "saudi",
-          "arabia",
-          "says",
-          "iran",
-          "attacked",
-          "vessel",
-          "philippines",
-          "protest"
-        ],
-        "strictKeywords": [
-          "saudi",
-          "arabia",
-          "says",
-          "iran",
-          "attacked",
-          "vessel"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Saudi%20Arabia%20says%20Iran%20attacked%20vessel&hl=en-PH&gl=PH&ceid=PH%3Aen",
-          "https://news.google.com/rss/search?q=Philippines%20protest&hl=en-PH&gl=PH&ceid=PH%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "philippines:arabia-attacked-filipino",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
       "key": "gd-india:employees-gherao-house",
       "source": "gdelt",
       "confidence": "low",
@@ -5250,12 +5164,68 @@
         "channel4.com",
         "bbc.com",
         "bbc.co.uk",
-        "express.co.uk"
+        "express.co.uk",
+        "oxfordmail.co.uk",
+        "lancashiretelegraph.co.uk",
+        "kentonline.co.uk",
+        "dorsetecho.co.uk",
+        "irvinetimes.com",
+        "surreycomet.co.uk",
+        "times-series.co.uk",
+        "tivysideadvertiser.co.uk",
+        "wisbechstandard.co.uk",
+        "gazetteseries.co.uk",
+        "denbighshirefreepress.co.uk",
+        "northwaleschronicle.co.uk",
+        "eastlondonadvertiser.co.uk",
+        "worcesternews.co.uk",
+        "gazetteandherald.co.uk",
+        "southwalesargus.co.uk",
+        "wiltshiretimes.co.uk",
+        "dunmowbroadcast.co.uk",
+        "thecomet.net",
+        "hamhigh.co.uk",
+        "bridportnews.co.uk",
+        "redditchadvertiser.co.uk",
+        "bridgwatermercury.co.uk",
+        "borehamwoodtimes.co.uk",
+        "keighleynews.co.uk",
+        "enfieldindependent.co.uk",
+        "somersetcountygazette.co.uk",
+        "brentwoodlive.co.uk",
+        "falmouthpacket.co.uk",
+        "southwalesguardian.co.uk",
+        "darlingtonandstocktontimes.co.uk",
+        "halesowennews.co.uk",
+        "northsomersettimes.co.uk",
+        "messengernewspapers.co.uk",
+        "freepressseries.co.uk",
+        "thurrockgazette.co.uk",
+        "ilfordrecorder.co.uk",
+        "sthelensstar.co.uk",
+        "halsteadgazette.co.uk",
+        "malverngazette.co.uk",
+        "harwichandmanningtreestandard.co.uk",
+        "gazette-news.co.uk",
+        "elystandard.co.uk",
+        "countytimes.co.uk",
+        "harrowtimes.co.uk",
+        "leighjournal.co.uk",
+        "bracknellnews.co.uk",
+        "islingtongazette.co.uk",
+        "basingstokegazette.co.uk",
+        "ibtimes.co.uk",
+        "dailyrecord.co.uk",
+        "andoveradvertiser.co.uk",
+        "film-news.co.uk",
+        "independent.co.uk",
+        "somersetlive.co.uk",
+        "coventrytelegraph.net"
       ],
-      "daysSeen": 7,
-      "articleCount": 21,
+      "daysSeen": 12,
+      "articleCount": 38,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-27",
       "samples": [
         {
           "title": "Black - clad masked  stop the boat protesters block roads in Dover",
@@ -5332,12 +5302,19 @@
       "domains": [
         "dailystar.co.uk",
         "express.co.uk",
-        "aol.co.uk"
+        "aol.co.uk",
+        "dailyrecord.co.uk",
+        "edp24.co.uk",
+        "theargus.co.uk",
+        "eadt.co.uk",
+        "herefordtimes.com",
+        "ipswichstar.co.uk",
+        "yorkpress.co.uk"
       ],
-      "daysSeen": 4,
-      "articleCount": 4,
+      "daysSeen": 6,
+      "articleCount": 6,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-23",
       "samples": [
         {
           "title": "Gang of balaclava - wearing protesters block roads near major united kingdom port as theyre branded  idiots",
@@ -5362,6 +5339,12 @@
           "url": "https://www.aol.co.uk/articles/reform-uk-beset-internal-row-040001000.html",
           "domain": "aol.co.uk",
           "date": "2026-09-11"
+        },
+        {
+          "title": "Presiding officer will not tolerate  stunt in Holyrood after Reform united kingdom walkout",
+          "url": "https://www.dailyrecord.co.uk/news/scottish-news/presiding-officer-not-tolerate-stunts-37695884",
+          "domain": "dailyrecord.co.uk",
+          "date": "2026-09-23"
         }
       ],
       "needsName": true,
@@ -5487,12 +5470,13 @@
         "wiltshiretimes.co.uk",
         "thecomet.net",
         "northwaleschronicle.co.uk",
-        "aol.co.uk"
+        "aol.co.uk",
+        "bbc.co.uk"
       ],
-      "daysSeen": 3,
-      "articleCount": 3,
+      "daysSeen": 4,
+      "articleCount": 4,
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-09-10",
+      "lastSeen": "2026-09-24",
       "samples": [
         {
           "title": "Police minister blames Tories for Portsmouth and Dover anti - migration protests",
@@ -5511,6 +5495,12 @@
           "url": "https://www.aol.co.uk/articles/police-absolutely-ready-powers-ban-161928000.html",
           "domain": "aol.co.uk",
           "date": "2026-09-10"
+        },
+        {
+          "title": "Anti - immigration protester admits breaking Surrey ban",
+          "url": "https://www.bbc.co.uk/news/articles/cmd79l2jn4gjo",
+          "domain": "bbc.co.uk",
+          "date": "2026-09-24"
         }
       ],
       "needsName": true,
@@ -6064,6 +6054,78 @@
       }
     },
     {
+      "key": "gd-united-kingdom:channel-dinghie-english",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "United Kingdom",
+      "countries": [
+        "United Kingdom"
+      ],
+      "domains": [
+        "dailystar.co.uk",
+        "lbc.co.uk",
+        "aol.co.uk"
+      ],
+      "daysSeen": 3,
+      "articleCount": 3,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-24",
+      "samples": [
+        {
+          "title": "Patriot Platform  plotting to intercept migrant dinghie in English Channel",
+          "url": "https://www.dailystar.co.uk/news/latest-news/patriot-platform-plotting-intercept-migrant-37656942",
+          "domain": "dailystar.co.uk",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Anti - migrant activist Daniel Thomas charged with criminal damage following incident in the English Channel",
+          "url": "https://www.lbc.co.uk/article/man-charged-criminal-damage-boat-channel-5Hjdhxn_2/",
+          "domain": "lbc.co.uk",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "Far - right activist Daniel Thomas slashes dinghy in Channel with blade while rescue worker onboard",
+          "url": "https://www.aol.co.uk/articles/far-activist-daniel-thomas-slashes-223054000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-09-22"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "united-kingdom-patriot-platform-plotting-to-intercept-migrant",
+        "name": "Patriot Platform plotting to intercept migrant",
+        "region": "Europe",
+        "location": "United Kingdom",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "patriot",
+          "platform",
+          "plotting",
+          "intercept",
+          "migrant",
+          "united kingdom",
+          "protest"
+        ],
+        "strictKeywords": [
+          "patriot",
+          "platform",
+          "plotting",
+          "intercept",
+          "migrant"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Patriot%20Platform%20plotting%20to%20intercept%20migrant&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "united-kingdom:channel-dinghie-english",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
       "key": "gd-india:cheating-clarify-justify",
       "source": "gdelt",
       "confidence": "low",
@@ -6148,6 +6210,171 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "india:cheating-clarify-justify",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-united-kingdom:burnham-calm-ireland",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "United Kingdom",
+      "countries": [
+        "United Kingdom"
+      ],
+      "domains": [
+        "bucksfreepress.co.uk",
+        "belfastlive.co.uk",
+        "kentonline.co.uk",
+        "thetelegraphandargus.co.uk",
+        "independent.co.uk"
+      ],
+      "daysSeen": 3,
+      "articleCount": 4,
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-27",
+      "samples": [
+        {
+          "title": "Burnham urges calm amid tensions in Northern Ireland over Orange Order parade",
+          "url": "https://www.bucksfreepress.co.uk/news/national/26585181.burnham-urges-calm-amid-tensions-northern-ireland-orange-order-parade/",
+          "domain": "bucksfreepress.co.uk",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "Drumcree : How a Portadown parade became one of Northern Ireland defining disputes",
+          "url": "https://www.belfastlive.co.uk/news/northern-ireland/drumcree-how-portadown-parade-became-34665493",
+          "domain": "belfastlive.co.uk",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "Northern Ireland Secretary appeals for calm amid Drumcree stand - off",
+          "url": "https://www.kentonline.co.uk/news/national/northern-ireland-secretary-appeals-for-calm-amid-drumcree-stand-off-172222/",
+          "domain": "kentonline.co.uk",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "Northern Ireland live : Thousands of protesters block Drumcree Orange Order march",
+          "url": "https://www.independent.co.uk/news/uk/home-news/drumcree-orange-order-march-northern-ireland-live-updates-b3057062.html",
+          "domain": "independent.co.uk",
+          "date": "2026-09-27"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "united-kingdom-burnham-urges-calm-amid-tensions-in",
+        "name": "Burnham urges calm amid tensions in",
+        "region": "Europe",
+        "location": "United Kingdom",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "burnham",
+          "urges",
+          "calm",
+          "amid",
+          "tensions",
+          "united kingdom",
+          "protest"
+        ],
+        "strictKeywords": [
+          "burnham",
+          "urges",
+          "calm",
+          "amid",
+          "tensions"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Burnham%20urges%20calm%20amid%20tensions%20in&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "united-kingdom:burnham-calm-ireland",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-indonesia:aparat-dikerahkan-gabungan",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "Indonesia",
+      "countries": [
+        "Indonesia"
+      ],
+      "domains": [
+        "news.okezone.com",
+        "viva.co.id",
+        "daerah.sindonews.com",
+        "liputan6.com",
+        "ekonomi.bisnis.com",
+        "antaranews.com"
+      ],
+      "daysSeen": 3,
+      "articleCount": 8,
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-28",
+      "samples": [
+        {
+          "title": "26 . 386 Aparat Gabungan Dikerahkan Kawal 99 Kegiatan di Jakarta , Termasuk Demo : Okezone News",
+          "url": "https://news.okezone.com/read/2026/09/24/338/3243876/26-386-aparat-gabungan-dikerahkan-kawal-99-kegiatan-di-jakarta-termasuk-demo",
+          "domain": "news.okezone.com",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "26 Ribu Personel Dikerahkan Amankan 99 Kegiatan di Jakarta ! Ada 73 Titik Demo di Ibu Kota Hari Ini",
+          "url": "https://www.viva.co.id/berita/metro/1930749-26-ribu-personel-dikerahkan-amankan-99-kegiatan-di-jakarta-ada-73-titik-demo-di-ibu-kota-hari-ini",
+          "domain": "viva.co.id",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "26 . 386 Personel Gabungan Amankan Demo di Jakarta",
+          "url": "https://daerah.sindonews.com/read/1753067/6/26386-personel-gabungan-amankan-demo-di-jakarta-1790215745",
+          "domain": "daerah.sindonews.com",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "Ribuan Personel Gabungan Kawal Demo di Jakarta Hari Ini",
+          "url": "https://www.liputan6.com/news/read/8298518/ribuan-personel-gabungan-kawal-demo-di-jakarta-hari-ini",
+          "domain": "liputan6.com",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "1 . 550 Polisi Dikerahkan Atur Lalu Lintas saat Demo Buruh Hari Ini : Okezone News",
+          "url": "https://news.okezone.com:443/read/2026/09/24/338/3243853/1-550-polisi-dikerahkan-atur-lalu-lintas-saat-demo-buruh-hari-ini",
+          "domain": "news.okezone.com",
+          "date": "2026-09-24"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "indonesia-26-386-aparat-gabungan-dikerahkan",
+        "name": "26 . 386 Aparat Gabungan Dikerahkan",
+        "region": "Asia",
+        "location": "Indonesia",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "386",
+          "aparat",
+          "gabungan",
+          "dikerahkan",
+          "indonesia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "386",
+          "aparat",
+          "gabungan",
+          "dikerahkan"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=26%20.%20386%20Aparat%20Gabungan%20Dikerahkan&hl=en-ID&gl=ID&ceid=ID%3Aen",
+          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "indonesia:aparat-dikerahkan-gabungan",
           "wikipedia": ""
         }
       }
