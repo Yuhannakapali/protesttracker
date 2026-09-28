@@ -583,7 +583,7 @@
     },
     {
       "name": "The Clinic",
-      "count": 15,
+      "count": 17,
       "first": "2016-07-27",
       "last": "2026-09-25"
     },
@@ -714,6 +714,12 @@
       "last": "2022-11-06"
     },
     {
+      "name": "nytimes.com",
+      "count": 3,
+      "first": "2016-09-10",
+      "last": "2019-11-21"
+    },
+    {
       "name": "Perfil",
       "count": 3,
       "first": "2019-11-23",
@@ -730,12 +736,6 @@
       "count": 3,
       "first": "2016-08-21",
       "last": "2019-10-30"
-    },
-    {
-      "name": "The New York Times",
-      "count": 3,
-      "first": "2016-09-10",
-      "last": "2019-11-21"
     },
     {
       "name": "The Washington Post",
@@ -768,7 +768,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "cfr.org",
+      "name": "Council on Foreign Relations",
       "count": 2,
       "first": "2019-11-01",
       "last": "2022-08-25"
@@ -852,7 +852,7 @@
       "last": "2026-09-25"
     },
     {
-      "name": "Resumen.cl",
+      "name": "resumen.cl",
       "count": 2,
       "first": "2024-08-06",
       "last": "2025-03-20"
@@ -876,10 +876,10 @@
       "last": "2022-03-31"
     },
     {
-      "name": "theclinic.cl",
+      "name": "The Nation Newspaper",
       "count": 2,
-      "first": "2017-03-26",
-      "last": "2019-03-31"
+      "first": "2024-02-07",
+      "last": "2025-11-29"
     },
     {
       "name": "TN",
@@ -1200,7 +1200,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Infinita",
+      "name": "infinita.cl",
       "count": 1,
       "first": "2021-12-14",
       "last": "2021-12-14"
@@ -1422,7 +1422,7 @@
       "last": "2024-09-11"
     },
     {
-      "name": "reflexionyliberacion.cl",
+      "name": "Reflexión y Liberación",
       "count": 1,
       "first": "2016-11-03",
       "last": "2016-11-03"
@@ -1500,12 +1500,6 @@
       "last": "2019-12-10"
     },
     {
-      "name": "The Nation Newspaper",
-      "count": 1,
-      "first": "2024-02-07",
-      "last": "2024-02-07"
-    },
-    {
       "name": "The Sun",
       "count": 1,
       "first": "2019-11-15",
@@ -1522,12 +1516,6 @@
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
-    },
-    {
-      "name": "thenationonlineng.net",
-      "count": 1,
-      "first": "2025-11-29",
-      "last": "2025-11-29"
     },
     {
       "name": "Toronto Sun",
@@ -1548,7 +1536,7 @@
       "last": "2019-11-26"
     },
     {
-      "name": "ukamau.cl",
+      "name": "Ukamau",
       "count": 1,
       "first": "2022-04-30",
       "last": "2022-04-30"
