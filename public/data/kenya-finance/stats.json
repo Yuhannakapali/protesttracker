@@ -131,7 +131,7 @@
     },
     {
       "start": "2026-06-01",
-      "count": 149
+      "count": 150
     },
     {
       "start": "2026-07-01",
@@ -191,7 +191,7 @@
     },
     {
       "name": "The Eastleigh Voice",
-      "count": 16,
+      "count": 17,
       "first": "2024-07-03",
       "last": "2026-08-27"
     },
@@ -238,12 +238,6 @@
       "last": "2026-09-14"
     },
     {
-      "name": "The Conversation",
-      "count": 7,
-      "first": "2024-06-22",
-      "last": "2026-06-23"
-    },
-    {
       "name": "VOA - Voice of America English News",
       "count": 7,
       "first": "2024-06-18",
@@ -266,6 +260,12 @@
       "count": 6,
       "first": "2024-06-26",
       "last": "2026-06-25"
+    },
+    {
+      "name": "The Conversation",
+      "count": 6,
+      "first": "2024-06-22",
+      "last": "2024-07-16"
     },
     {
       "name": "Context News",
@@ -406,12 +406,6 @@
       "last": "2024-07-01"
     },
     {
-      "name": "Kenya News Agency",
-      "count": 2,
-      "first": "2026-04-24",
-      "last": "2026-06-25"
-    },
-    {
       "name": "Nairobi Leo",
       "count": 2,
       "first": "2026-06-23",
@@ -476,12 +470,6 @@
       "count": 1,
       "first": "2024-07-19",
       "last": "2024-07-19"
-    },
-    {
-      "name": "blogs.lse.ac.uk",
-      "count": 1,
-      "first": "2024-08-01",
-      "last": "2024-08-01"
     },
     {
       "name": "Bloomberg",
@@ -604,7 +592,7 @@
       "last": "2025-07-23"
     },
     {
-      "name": "IOL",
+      "name": "iol.co.za",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -634,13 +622,25 @@
       "last": "2026-08-28"
     },
     {
+      "name": "Kenya News Agency",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "kenyanews.go.ke",
+      "count": 1,
+      "first": "2026-04-24",
+      "last": "2026-04-24"
+    },
+    {
       "name": "khrc.or.ke",
       "count": 1,
       "first": "2025-09-20",
       "last": "2025-09-20"
     },
     {
-      "name": "kroc.nd.edu",
+      "name": "Kroc Institute for International Peace Studies",
       "count": 1,
       "first": "2024-08-12",
       "last": "2024-08-12"
@@ -650,6 +650,12 @@
       "count": 1,
       "first": "2026-08-27",
       "last": "2026-08-27"
+    },
+    {
+      "name": "LSE Blogs",
+      "count": 1,
+      "first": "2024-08-01",
+      "last": "2024-08-01"
     },
     {
       "name": "Middle East Monitor",
@@ -758,6 +764,12 @@
       "count": 1,
       "first": "2026-04-22",
       "last": "2026-04-22"
+    },
+    {
+      "name": "theconversation.com",
+      "count": 1,
+      "first": "2026-06-23",
+      "last": "2026-06-23"
     },
     {
       "name": "Tricontinental: Institute for Social Research",
