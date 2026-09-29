@@ -111,15 +111,15 @@
     },
     {
       "start": "2026-09-01",
-      "count": 615
+      "count": 618
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 101,
+      "count": 121,
       "first": "2026-06-06",
-      "last": "2026-09-27"
+      "last": "2026-09-28"
     },
     {
       "name": "NDTV",
@@ -173,12 +173,6 @@
       "name": "The Economic Times",
       "count": 28,
       "first": "2026-06-06",
-      "last": "2026-09-28"
-    },
-    {
-      "name": "thehindu.com",
-      "count": 27,
-      "first": "2026-07-24",
       "last": "2026-09-28"
     },
     {
@@ -362,6 +356,12 @@
       "last": "2026-08-04"
     },
     {
+      "name": "The Hans India",
+      "count": 8,
+      "first": "2026-07-23",
+      "last": "2026-09-28"
+    },
+    {
       "name": "timesofindia.indiatimes.com",
       "count": 8,
       "first": "2026-07-26",
@@ -392,10 +392,10 @@
       "last": "2026-09-16"
     },
     {
-      "name": "The Hans India",
+      "name": "thehindu.com",
       "count": 7,
-      "first": "2026-07-23",
-      "last": "2026-09-27"
+      "first": "2026-07-24",
+      "last": "2026-09-28"
     },
     {
       "name": "Bar and Bench",
@@ -512,12 +512,6 @@
       "last": "2026-09-24"
     },
     {
-      "name": "The Federal",
-      "count": 4,
-      "first": "2026-07-05",
-      "last": "2026-09-27"
-    },
-    {
       "name": "thehawk.in",
       "count": 4,
       "first": "2026-07-22",
@@ -584,6 +578,12 @@
       "last": "2026-09-24"
     },
     {
+      "name": "Republic World",
+      "count": 3,
+      "first": "2026-08-21",
+      "last": "2026-09-27"
+    },
+    {
       "name": "Supreme Court Observer",
       "count": 3,
       "first": "2026-08-18",
@@ -594,6 +594,12 @@
       "count": 3,
       "first": "2026-08-23",
       "last": "2026-09-25"
+    },
+    {
+      "name": "The Federal",
+      "count": 3,
+      "first": "2026-07-05",
+      "last": "2026-09-02"
     },
     {
       "name": "The Independent",
@@ -722,7 +728,7 @@
       "last": "2026-08-19"
     },
     {
-      "name": "newschecker.in",
+      "name": "Newschecker",
       "count": 2,
       "first": "2026-08-04",
       "last": "2026-08-25"
@@ -776,12 +782,6 @@
       "last": "2026-09-01"
     },
     {
-      "name": "Republic World",
-      "count": 2,
-      "first": "2026-08-21",
-      "last": "2026-08-24"
-    },
-    {
       "name": "reutersconnect.com",
       "count": 2,
       "first": "2026-08-29",
@@ -828,6 +828,12 @@
       "count": 2,
       "first": "2026-09-01",
       "last": "2026-09-01"
+    },
+    {
+      "name": "thefederal.com",
+      "count": 2,
+      "first": "2026-09-20",
+      "last": "2026-09-27"
     },
     {
       "name": "thequint.com",
@@ -938,6 +944,12 @@
       "last": "2026-08-23"
     },
     {
+      "name": "cfr.org",
+      "count": 1,
+      "first": "2026-07-31",
+      "last": "2026-07-31"
+    },
+    {
       "name": "civicus lens",
       "count": 1,
       "first": "2026-08-04",
@@ -948,12 +960,6 @@
       "count": 1,
       "first": "2026-09-25",
       "last": "2026-09-25"
-    },
-    {
-      "name": "Council on Foreign Relations",
-      "count": 1,
-      "first": "2026-07-31",
-      "last": "2026-07-31"
     },
     {
       "name": "cpiml.org",
@@ -1196,6 +1202,12 @@
       "last": "2026-07-20"
     },
     {
+      "name": "MillenniumPost",
+      "count": 1,
+      "first": "2026-09-28",
+      "last": "2026-09-28"
+    },
+    {
       "name": "Moneylife",
       "count": 1,
       "first": "2026-08-20",
@@ -1280,16 +1292,16 @@
       "last": "2026-09-01"
     },
     {
+      "name": "scmp.com",
+      "count": 1,
+      "first": "2026-09-25",
+      "last": "2026-09-25"
+    },
+    {
       "name": "scobserver.in",
       "count": 1,
       "first": "2026-09-10",
       "last": "2026-09-10"
-    },
-    {
-      "name": "South China Morning Post",
-      "count": 1,
-      "first": "2026-09-25",
-      "last": "2026-09-25"
     },
     {
       "name": "The Borgen Project",
@@ -1386,12 +1398,6 @@
       "count": 1,
       "first": "2026-09-05",
       "last": "2026-09-05"
-    },
-    {
-      "name": "thefederal.com",
-      "count": 1,
-      "first": "2026-09-20",
-      "last": "2026-09-20"
     },
     {
       "name": "theguardian.com",
