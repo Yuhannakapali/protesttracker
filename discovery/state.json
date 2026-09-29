@@ -5320,83 +5320,6 @@
         }
       ]
     },
-    "india:aspirants-dharwad-job": {
-      "id": "india:aspirants-dharwad-job",
-      "country": "India",
-      "terms": [
-        "dharwad",
-        "lay",
-        "siege",
-        "aspirants",
-        "job",
-        "irregularities",
-        "mpsc",
-        "outrage",
-        "exam",
-        "pune",
-        "hold",
-        "alleged",
-        "pawar",
-        "rohit",
-        "sule",
-        "supriya",
-        "leak",
-        "massive",
-        "recruitment",
-        "transparency",
-        "demand",
-        "cong",
-        "ncp",
-        "paper",
-        "agitation"
-      ],
-      "domains": [
-        "timesofindia.indiatimes.com",
-        "freepressjournal.in",
-        "dailypioneer.com",
-        "economictimes.indiatimes.com"
-      ],
-      "daysSeen": [
-        "2026-09-06",
-        "2026-09-07",
-        "2026-09-08"
-      ],
-      "articleCount": 9,
-      "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Job aspirants lay siege in Dharwad",
-          "url": "https://timesofindia.indiatimes.com/city/bengaluru/job-aspirants-lay-siege-in-dharwad/articleshow/133819924.cms",
-          "domain": "timesofindia.indiatimes.com",
-          "date": "2026-09-06"
-        },
-        {
-          "title": "Pune MPSC Students , Job Aspirants To Hold  Outrage March  Over Alleged Exam Irregularities",
-          "url": "https://www.freepressjournal.in/pune/pune-mpsc-students-job-aspirants-to-hold-outrage-march-over-alleged-exam-irregularities",
-          "domain": "freepressjournal.in",
-          "date": "2026-09-06"
-        },
-        {
-          "title": "Job aspirants lay siege in Dharwad",
-          "url": "https://timesofindia.indiatimes.com/city/bengaluru/job-aspirants-lay-siege-in-dharwad/articleshow/133819924.cms",
-          "domain": "timesofindia.indiatimes.com",
-          "date": "2026-09-06"
-        },
-        {
-          "title": "Pune MPSC Students , Job Aspirants To Hold  Outrage March  Over Alleged Exam Irregularities",
-          "url": "https://www.freepressjournal.in/pune/pune-mpsc-students-job-aspirants-to-hold-outrage-march-over-alleged-exam-irregularities",
-          "domain": "freepressjournal.in",
-          "date": "2026-09-06"
-        },
-        {
-          "title": "Pune : MPSC Aspirants Hold Massive Protest Over Paper Leak ; Supriya Sule , Rohit Pawar Join Stir",
-          "url": "https://www.freepressjournal.in/pune/pune-mpsc-aspirants-hold-massive-protest-over-paper-leak-supriya-sule-rohit-pawar-join-stir",
-          "domain": "freepressjournal.in",
-          "date": "2026-09-07"
-        }
-      ]
-    },
     "india:bengaluru-chalo-commission": {
       "id": "india:bengaluru-chalo-commission",
       "country": "India",
@@ -5534,92 +5457,6 @@
           "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/keerapakkam-residents-block-road-demanding-drinking-water-1989436",
           "domain": "deccanchronicle.com",
           "date": "2026-09-21"
-        }
-      ]
-    },
-    "india:abvp-building-centre": {
-      "id": "india:abvp-building-centre",
-      "country": "India",
-      "terms": [
-        "gathers",
-        "civic",
-        "abvp",
-        "building",
-        "collapse",
-        "centre",
-        "niketan",
-        "satya",
-        "students",
-        "members",
-        "headquarters",
-        "mcd",
-        "protesting",
-        "premises",
-        "vandalise",
-        "toll",
-        "death",
-        "five",
-        "rises",
-        "barwani",
-        "examined",
-        "hindi",
-        "sheets",
-        "answer",
-        "fail",
-        "delhi",
-        "reaction",
-        "shout",
-        "singh",
-        "yogesh",
-        "back"
-      ],
-      "domains": [
-        "siasat.com",
-        "newindianexpress.com",
-        "dailypioneer.com",
-        "economictimes.indiatimes.com",
-        "news.webindia123.com",
-        "freepressjournal.in",
-        "timesofindia.indiatimes.com"
-      ],
-      "daysSeen": [
-        "2026-09-07",
-        "2026-09-06",
-        "2026-09-08"
-      ],
-      "articleCount": 15,
-      "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Delhi building collapse : ABVP gathers at Civic Centre to protest",
-          "url": "https://www.siasat.com/delhi-building-collapse-abvp-gathers-at-civic-centre-to-protest-3537643/",
-          "domain": "siasat.com",
-          "date": "2026-09-07"
-        },
-        {
-          "title": "ABVP students protest at Civic Centre over Satya Niketan building collapse",
-          "url": "https://www.newindianexpress.com/cities/delhi/2026/Sep/06/abvp-students-protest-at-civic-centre-over-satya-niketan-building-collapse",
-          "domain": "newindianexpress.com",
-          "date": "2026-09-06"
-        },
-        {
-          "title": "ABVP students protest at Delhi Civic Centre over Satya Niketan collapse",
-          "url": "https://dailypioneer.com/news/abvp-students-protest-delhi-civic-centre-satya-niketan-collapse",
-          "domain": "dailypioneer.com",
-          "date": "2026-09-07"
-        },
-        {
-          "title": "ABVP members detained for protesting over Satya Niketan building collapse at MCD headquarters",
-          "url": "https://economictimes.indiatimes.com/news/india/abvp-protests-at-mcd-headquarters-demands-resignation-after-satya-niketan-building-collapse/articleshow/133845757.cms",
-          "domain": "economictimes.indiatimes.com",
-          "date": "2026-09-06"
-        },
-        {
-          "title": "ABVP protesters vandalise MCD headquarters premises over Satya Niketan building collapse , detained by police",
-          "url": "https://economictimes.indiatimes.com/news/india/abvp-protesters-enter-mcd-headquarters-vandalise-premises-over-satya-niketan-building-collapse-delhi/articleshow/133861653.cms",
-          "domain": "economictimes.indiatimes.com",
-          "date": "2026-09-07"
         }
       ]
     },
@@ -7496,37 +7333,6 @@
         }
       ]
     },
-    "kenya:biggest-comes-flu": {
-      "id": "kenya:biggest-comes-flu",
-      "country": "Kenya",
-      "terms": [
-        "biggest",
-        "flu",
-        "ministry",
-        "next",
-        "season",
-        "comes",
-        "month",
-        "kenya"
-      ],
-      "domains": [
-        "the-star.co.ke"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Kenya biggest flu season comes next month , ministry says",
-          "url": "https://www.the-star.co.ke/news/2026-09-08-kenyas-biggest-flu-season-comes-next-month-ministry-says",
-          "domain": "the-star.co.ke",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "kenya:africanism-history-objectives": {
       "id": "kenya:africanism-history-objectives",
       "country": "Kenya",
@@ -7765,33 +7571,6 @@
         }
       ]
     },
-    "kenya:conditions-conveyed-iran": {
-      "id": "kenya:conditions-conveyed-iran",
-      "country": "Kenya",
-      "terms": [
-        "conveyed",
-        "source",
-        "conditions",
-        "iran"
-      ],
-      "domains": [
-        "kenyastar.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Iran conveyed its conditions to US source",
-          "url": "http://www.kenyastar.com/news/279292803/iran-conveyed-its-conditions-to-us-source",
-          "domain": "kenyastar.com",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "kenya:before-ceuta-invasion": {
       "id": "kenya:before-ceuta-invasion",
       "country": "Kenya",
@@ -7860,37 +7639,6 @@
           "url": "https://kenya-today.com/trillium-energy-under-scrutiny-as-bribery-claims-rock-renewable-energy-deal-financier-freezes-transaction/",
           "domain": "kenya-today.com",
           "date": "2026-09-11"
-        }
-      ]
-    },
-    "kenya:asia-batting-final": {
-      "id": "kenya:asia-batting-final",
-      "country": "Kenya",
-      "terms": [
-        "batting",
-        "final",
-        "improve",
-        "partnerships",
-        "rotation",
-        "sana",
-        "semi",
-        "asia"
-      ],
-      "domains": [
-        "kenyastar.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "We need more strike rotation and batting partnerships : Fatima Sana urges Pakistan to improve ahead of Asia Cup semi - final",
-          "url": "http://www.kenyastar.com/news/279293031/we-need-more-strike-rotation-and-batting-partnerships-fatima-sana-urges-pakistan-to-improve-ahead-of-asia-cup-semi-final",
-          "domain": "kenyastar.com",
-          "date": "2026-09-08"
         }
       ]
     },
@@ -8248,35 +7996,6 @@
         }
       ]
     },
-    "kenya:african-exit-markets": {
-      "id": "kenya:african-exit-markets",
-      "country": "Kenya",
-      "terms": [
-        "techmoran",
-        "exit",
-        "markets",
-        "uber",
-        "african",
-        "two"
-      ],
-      "domains": [
-        "techmoran.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Uber Exit From Two African Markets : TechMoran",
-          "url": "https://techmoran.com/2026/09/08/ubers-exit-from-two-african-markets-tests-the-economics-of-ride-hailing/",
-          "domain": "techmoran.com",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "india:crumbling-infrastructure-park": {
       "id": "india:crumbling-infrastructure-park",
       "country": "India",
@@ -8348,44 +8067,6 @@
           "url": "https://news.webindia123.com/news/Articles/India/20260910/4496986.html",
           "domain": "news.webindia123.com",
           "date": "2026-09-10"
-        }
-      ]
-    },
-    "india:dmks-evict-height": {
-      "id": "india:dmks-evict-height",
-      "country": "India",
-      "terms": [
-        "dmks",
-        "evict",
-        "height",
-        "marshals",
-        "misa",
-        "remarks",
-        "undemocratic",
-        "velu",
-        "speaker"
-      ],
-      "domains": [
-        "news.webindia123.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Height of undemocratic government : DMKs EV Velu slams TN speaker after marshals evict party MLAs amid protest over Vijays Misa remarks",
-          "url": "https://news.webindia123.com/news/Articles/India/20260908/4496063.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-09-08"
-        },
-        {
-          "title": "Height of undemocratic government : DMKs EV Velu slams TN speaker after marshals evict party MLAs amid protest over Vijays Misa remarks",
-          "url": "https://news.webindia123.com/news/Articles/India/20260908/4496063.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-09-08"
         }
       ]
     },
@@ -8684,74 +8365,6 @@
           "url": "https://www.tribuneindia.com/news/punjab/punjab-govt-employees-continue-pen-down-strike-chief-secretary-calls-union-leaders-for-talks/",
           "domain": "tribuneindia.com",
           "date": "2026-09-09"
-        }
-      ]
-    },
-    "india:exclusion-gulf-operational": {
-      "id": "india:exclusion-gulf-operational",
-      "country": "India",
-      "terms": [
-        "operational",
-        "posture",
-        "recalibrated",
-        "ships",
-        "exclusion",
-        "redirects",
-        "gulf",
-        "threatens",
-        "maritime",
-        "zone",
-        "vessels",
-        "warns",
-        "iran",
-        "energy",
-        "vulnerable",
-        "assets",
-        "latest"
-      ],
-      "domains": [
-        "moneycontrol.com",
-        "economictimes.indiatimes.com",
-        "thehindu.com",
-        "business-standard.com"
-      ],
-      "daysSeen": [
-        "2026-09-08",
-        "2026-09-07"
-      ],
-      "articleCount": 6,
-      "firstSeen": "2026-09-07",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Operational posture recalibrated : Iran threatens Gulf exclusion zone as US redirects 94 ships",
-          "url": "https://www.moneycontrol.com/world/operational-posture-recalibrated-iran-threatens-gulf-exclusion-zone-as-us-redirects-94-ships-article-14024739.html",
-          "domain": "moneycontrol.com",
-          "date": "2026-09-08"
-        },
-        {
-          "title": "US redirects 94 vessels as Iran warns of maritime exclusion zone in Gulf",
-          "url": "https://economictimes.indiatimes.com/news/defence/us-redirects-94-vessels-as-iran-warns-of-maritime-exclusion-zone-in-gulf/articleshow/133902623.cms",
-          "domain": "economictimes.indiatimes.com",
-          "date": "2026-09-08"
-        },
-        {
-          "title": "Operational posture recalibrated : Iran threatens Gulf exclusion zone as US redirects 94 ships",
-          "url": "https://www.moneycontrol.com/world/operational-posture-recalibrated-iran-threatens-gulf-exclusion-zone-as-us-redirects-94-ships-article-14024739.html",
-          "domain": "moneycontrol.com",
-          "date": "2026-09-08"
-        },
-        {
-          "title": "US redirects 94 vessels as Iran warns of maritime exclusion zone in Gulf",
-          "url": "https://economictimes.indiatimes.com/news/defence/us-redirects-94-vessels-as-iran-warns-of-maritime-exclusion-zone-in-gulf/articleshow/133902623.cms",
-          "domain": "economictimes.indiatimes.com",
-          "date": "2026-09-08"
-        },
-        {
-          "title": "Iran warns U . S . energy assets in Gulf are vulnerable after latest clashes",
-          "url": "https://www.thehindu.com/news/international/iran-warns-us-energy-assets-in-gulf-are-vulnerable-after-latest-clashes/article71440074.ece",
-          "domain": "thehindu.com",
-          "date": "2026-09-07"
         }
       ]
     },
@@ -9228,45 +8841,6 @@
         }
       ]
     },
-    "india:allahabad-compensation-detention": {
-      "id": "india:allahabad-compensation-detention",
-      "country": "India",
-      "terms": [
-        "allahabad",
-        "detention",
-        "graduate",
-        "quashes",
-        "nsa",
-        "compensation",
-        "lakh",
-        "noida",
-        "orders",
-        "case"
-      ],
-      "domains": [
-        "aninews.in"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Allahabad HC quashes NSA detention of DU graduate in Noida workers protest case , orders ₹5 lakh compensation",
-          "url": "https://aninews.in/news/national/general-news/allahabad-hc-quashes-nsa-detention-of-du-graduate-in-noida-workers-protest-case-orders-83775-lakh-compensation16020260908083020/",
-          "domain": "aninews.in",
-          "date": "2026-09-08"
-        },
-        {
-          "title": "Allahabad HC quashes NSA detention of DU graduate in Noida workers protest case , orders ₹5 lakh compensation",
-          "url": "https://aninews.in/news/national/general-news/allahabad-hc-quashes-nsa-detention-of-du-graduate-in-noida-workers-protest-case-orders-83775-lakh-compensation16020260908083020/",
-          "domain": "aninews.in",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "india:afd-eyes-far": {
       "id": "india:afd-eyes-far",
       "country": "India",
@@ -9472,45 +9046,6 @@
         }
       ]
     },
-    "india:average-cap-earn": {
-      "id": "india:average-cap-earn",
-      "country": "India",
-      "terms": [
-        "average",
-        "cap",
-        "earn",
-        "gave",
-        "lost",
-        "returns",
-        "small",
-        "funds",
-        "hard",
-        "investors"
-      ],
-      "domains": [
-        "moneycontrol.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Why are average returns so hard to earn ? Small - cap funds gave return of 14 . 8 %, but investors lost 1 . 6 %",
-          "url": "https://www.moneycontrol.com/news/business/personal-finance/why-are-average-returns-so-hard-to-earn-small-cap-funds-gave-return-of-14-8-but-investors-lost-1-6-14024496.html",
-          "domain": "moneycontrol.com",
-          "date": "2026-09-08"
-        },
-        {
-          "title": "Why are average returns so hard to earn ? Small - cap funds gave return of 14 . 8 %, but investors lost 1 . 6 %",
-          "url": "https://www.moneycontrol.com/news/business/personal-finance/why-are-average-returns-so-hard-to-earn-small-cap-funds-gave-return-of-14-8-but-investors-lost-1-6-14024496.html",
-          "domain": "moneycontrol.com",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "india:ajay-differences-gautam": {
       "id": "india:ajay-differences-gautam",
       "country": "India",
@@ -9620,43 +9155,6 @@
         }
       ]
     },
-    "india:candlelight-commemorating-gen": {
-      "id": "india:candlelight-commemorating-gen",
-      "country": "India",
-      "terms": [
-        "candlelight",
-        "last",
-        "martyrs",
-        "uprising",
-        "vigil",
-        "commemorating",
-        "gen",
-        "nepal"
-      ],
-      "domains": [
-        "news.webindia123.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Candlelight vigil held in Nepal commemorating  martyrs  of last year Gen Z uprising",
-          "url": "https://news.webindia123.com/news/Articles/World/20260909/4496410.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-09-08"
-        },
-        {
-          "title": "Candlelight vigil held in Nepal commemorating  martyrs  of last year Gen Z uprising",
-          "url": "https://news.webindia123.com/news/Articles/World/20260909/4496410.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "india:amer-blocking-ended": {
       "id": "india:amer-blocking-ended",
       "country": "India",
@@ -9691,39 +9189,6 @@
           "url": "https://timesofindia.indiatimes.com/city/jaipur/how-row-over-blocking-tourist-vehicles-at-amer-fort-ended-in-guides-murder/articleshow/133950041.cms",
           "domain": "timesofindia.indiatimes.com",
           "date": "2026-09-09"
-        }
-      ]
-    },
-    "india:digest-hindu-morning": {
-      "id": "india:digest-hindu-morning",
-      "country": "India",
-      "terms": [
-        "digest",
-        "morning",
-        "hindu",
-        "september"
-      ],
-      "domains": [
-        "thehindu.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "The Hindu Morning Digest : September 8 , 2026",
-          "url": "https://www.thehindu.com/news/morning-digest-september-08-2026/article71440431.ece",
-          "domain": "thehindu.com",
-          "date": "2026-09-08"
-        },
-        {
-          "title": "The Hindu Morning Digest : September 8 , 2026",
-          "url": "https://www.thehindu.com/news/morning-digest-september-08-2026/article71440431.ece",
-          "domain": "thehindu.com",
-          "date": "2026-09-08"
         }
       ]
     },
@@ -10443,32 +9908,6 @@
         }
       ]
     },
-    "south-africa:poland-rampant-robots": {
-      "id": "south-africa:poland-rampant-robots",
-      "country": "South Africa",
-      "terms": [
-        "poland",
-        "rampant",
-        "robots"
-      ],
-      "domains": [
-        "jacarandafm.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Robots protest against rampant AI in Poland",
-          "url": "https://www.jacarandafm.com/shows/breakfast/robots-protest-against-rampant-ai-in-poland/",
-          "domain": "jacarandafm.com",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "south-africa:durban-just-migrants": {
       "id": "south-africa:durban-just-migrants",
       "country": "South Africa",
@@ -10580,32 +10019,6 @@
         }
       ]
     },
-    "south-africa:author-ludidi-velani": {
-      "id": "south-africa:author-ludidi-velani",
-      "country": "South Africa",
-      "terms": [
-        "author",
-        "ludidi",
-        "velani"
-      ],
-      "domains": [
-        "groundup.org.za"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Author : Velani Ludidi",
-          "url": "https://groundup.org.za/author/424/",
-          "domain": "groundup.org.za",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "south-africa:arrow-court-drivers": {
       "id": "south-africa:arrow-court-drivers",
       "country": "South Africa",
@@ -10705,37 +10118,6 @@
           "url": "https://racinghub.citizen.co.za/mark-jone-posts/from-grassroots-racing-to-toyota-gazoo-racing/",
           "domain": "racinghub.citizen.co.za",
           "date": "2026-09-11"
-        }
-      ]
-    },
-    "south-africa:building-fires-here": {
-      "id": "south-africa:building-fires-here",
-      "country": "South Africa",
-      "terms": [
-        "reduce",
-        "solar",
-        "fires",
-        "risk",
-        "here",
-        "linked",
-        "now",
-        "building"
-      ],
-      "domains": [
-        "citizen.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "One in four building fires now linked to solar : here how to reduce the risk",
-          "url": "https://www.citizen.co.za/business/1-in-4-building-fires-now-linked-to-solar-heres-how-to-reduce-the-risk/",
-          "domain": "citizen.co.za",
-          "date": "2026-09-08"
         }
       ]
     },
@@ -11569,36 +10951,6 @@
         }
       ]
     },
-    "south-africa:break-french-missing": {
-      "id": "south-africa:break-french-missing",
-      "country": "South Africa",
-      "terms": [
-        "break",
-        "french",
-        "museum",
-        "paintings",
-        "renoir",
-        "missing",
-        "two"
-      ],
-      "domains": [
-        "citizen.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Two Renoir paintings missing after break - in at French museum",
-          "url": "https://www.citizen.co.za/lifestyle/two-renoir-paintings-missing-after-break-in-at-french-museum/",
-          "domain": "citizen.co.za",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "south-africa:actually-forget-full": {
       "id": "south-africa:actually-forget-full",
       "country": "South Africa",
@@ -12233,98 +11585,6 @@
         }
       ]
     },
-    "south-africa:asian-europe-holiday": {
-      "id": "south-africa:asian-europe-holiday",
-      "country": "South Africa",
-      "terms": [
-        "asian",
-        "europe",
-        "holiday",
-        "slips",
-        "thinned",
-        "monday",
-        "shine",
-        "while"
-      ],
-      "domains": [
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monday",
-          "url": "http://www.africaleader.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monday",
-          "domain": "africaleader.com",
-          "date": "2026-09-08"
-        }
-      ]
-    },
-    "south-africa:costing-jobs-kwezi": {
-      "id": "south-africa:costing-jobs-kwezi",
-      "country": "South Africa",
-      "terms": [
-        "costing",
-        "kwezi",
-        "platinum",
-        "shaft",
-        "sibanye",
-        "stillwater",
-        "jobs",
-        "shut"
-      ],
-      "domains": [
-        "miningmx.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Sibanye - Stillwater to shut Kwezi platinum shaft costing 1 , 000 jobs",
-          "url": "https://www.miningmx.com/top-story/67149-sibanye-stillwater-to-shut-kwezi-rustenburg-shaft-costing-1000-jobs/",
-          "domain": "miningmx.com",
-          "date": "2026-09-08"
-        }
-      ]
-    },
-    "south-africa:contract-makes-permanent": {
-      "id": "south-africa:contract-makes-permanent",
-      "country": "South Africa",
-      "terms": [
-        "contract",
-        "makes",
-        "permanent",
-        "putco",
-        "push",
-        "union",
-        "workers"
-      ],
-      "domains": [
-        "businessday.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Putco makes 349 contract workers permanent after union push",
-          "url": "https://www.businessday.co.za/news/2026-09-08-putco-makes-349-contract-workers-permanent-after-union-push/",
-          "domain": "businessday.co.za",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "south-africa:dept-efforts-gauteng": {
       "id": "south-africa:dept-efforts-gauteng",
       "country": "South Africa",
@@ -12350,37 +11610,6 @@
           "url": "https://www.sanews.gov.za/south-africa/gauteng-health-depts-efforts-pay",
           "domain": "sanews.gov.za",
           "date": "2026-09-09"
-        }
-      ]
-    },
-    "south-africa:communities-displaced-head": {
-      "id": "south-africa:communities-displaced-head",
-      "country": "South Africa",
-      "terms": [
-        "communities",
-        "displaced",
-        "head",
-        "nations",
-        "settlement",
-        "unmiss",
-        "wau",
-        "witnesses"
-      ],
-      "domains": [
-        "africa-newsroom.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "APO Group - Africa Newsroom / Press release | Head of United Nations Mission in South Sudan ( UNMISS ) witnesses life - changing impact of new settlement for displaced communities during Wau visit",
-          "url": "https://www.africa-newsroom.com/press/head-of-united-nations-mission-in-south-sudan-unmiss-witnesses-lifechanging-impact-of-new-settlement-for-displaced-communities-during-wau-visit",
-          "domain": "africa-newsroom.com",
-          "date": "2026-09-08"
         }
       ]
     },
@@ -12632,37 +11861,6 @@
         }
       ]
     },
-    "south-africa:duma-evidence-fake": {
-      "id": "south-africa:duma-evidence-fake",
-      "country": "South Africa",
-      "terms": [
-        "duma",
-        "gqubule",
-        "statistics",
-        "wake",
-        "journalists",
-        "evidence",
-        "fake",
-        "ruling"
-      ],
-      "domains": [
-        "businessday.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "DUMA GQUBULE | Journalists must demand evidence in the wake of fake statistics ruling",
-          "url": "https://www.businessday.co.za/opinion/2026-09-08-duma-gqubule-journalists-must-demand-evidence-in-the-wake-of-fake-statistics-ruling/",
-          "domain": "businessday.co.za",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "south-africa:earnings-expected-remgro": {
       "id": "south-africa:earnings-expected-remgro",
       "country": "South Africa",
@@ -12688,37 +11886,6 @@
           "url": "https://www.businessday.co.za/companies/earnings/2026-09-11-remgros-earnings-expected-to-rise-by-more-than-a-third/",
           "domain": "businessday.co.za",
           "date": "2026-09-11"
-        }
-      ]
-    },
-    "south-africa:activity-claims-harmony": {
-      "id": "south-africa:activity-claims-harmony",
-      "country": "South Africa",
-      "terms": [
-        "activity",
-        "harmony",
-        "khotsong",
-        "mine",
-        "miner",
-        "moab",
-        "seismic",
-        "claims"
-      ],
-      "domains": [
-        "businessday.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Seismic activity claims miner at Harmony Moab Khotsong mine",
-          "url": "https://www.businessday.co.za/companies/2026-09-08-seismic-activity-claims-miner-at-harmonys-moab-khotsong-mine/",
-          "domain": "businessday.co.za",
-          "date": "2026-09-08"
         }
       ]
     },
@@ -12898,35 +12065,6 @@
         }
       ]
     },
-    "south-africa:banks-billion-china": {
-      "id": "south-africa:banks-billion-china",
-      "country": "South Africa",
-      "terms": [
-        "insurers",
-        "recapitalization",
-        "billion",
-        "china",
-        "leads",
-        "banks"
-      ],
-      "domains": [
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "China leads $54 billion recapitalization of banks and insurers",
-          "url": "http://www.africaleader.com/news/279292264/china-leads-usd54-billion-recapitalization-of-banks-and-insurers",
-          "domain": "africaleader.com",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "south-africa:crr-immediate-liquidity": {
       "id": "south-africa:crr-immediate-liquidity",
       "country": "South Africa",
@@ -12955,37 +12093,6 @@
           "url": "http://www.africaleader.com/news/279295911/rbi-may-not-need-immediate-crr-hike-as-liquidity-surplus-likely-to-moderate-ubi-report",
           "domain": "africaleader.com",
           "date": "2026-09-09"
-        }
-      ]
-    },
-    "south-africa:escape-inside-job": {
-      "id": "south-africa:escape-inside-job",
-      "country": "South Africa",
-      "terms": [
-        "escape",
-        "points",
-        "possible",
-        "prison",
-        "rooigrond",
-        "thobakgale",
-        "inside",
-        "job"
-      ],
-      "domains": [
-        "ofm.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Thobakgale points to possible  inside job  in Rooigrond prison escape",
-          "url": "https://www.ofm.co.za/article/centralsa/343128/thobakgale-points-to-possible-inside-job-in-rooigrond-prison-escape",
-          "domain": "ofm.co.za",
-          "date": "2026-09-08"
         }
       ]
     },
@@ -13050,37 +12157,6 @@
         }
       ]
     },
-    "south-africa:busoga-cell-committee": {
-      "id": "south-africa:busoga-cell-committee",
-      "country": "South Africa",
-      "terms": [
-        "busoga",
-        "cell",
-        "drugs",
-        "irked",
-        "sickle",
-        "stock",
-        "uganda",
-        "committee"
-      ],
-      "domains": [
-        "africa-newsroom.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "APO Group - Africa Newsroom / Press release | Uganda : Health committee irked by stock - out of sickle cell drugs in Busoga",
-          "url": "https://www.africa-newsroom.com/press/uganda-health-committee-irked-by-stockout-of-sickle-cell-drugs-in-busoga",
-          "domain": "africa-newsroom.com",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "south-africa:costs-editorial-probe": {
       "id": "south-africa:costs-editorial-probe",
       "country": "South Africa",
@@ -13107,37 +12183,6 @@
           "url": "https://www.businessday.co.za/opinion/editorials/2026-09-09-editorial-costs-of-telecommunication-a-probe-government-puts-on-repeat/",
           "domain": "businessday.co.za",
           "date": "2026-09-09"
-        }
-      ]
-    },
-    "south-africa:drain-mining-professional": {
-      "id": "south-africa:drain-mining-professional",
-      "country": "South Africa",
-      "terms": [
-        "drain",
-        "professional",
-        "registration",
-        "skills",
-        "undervalued",
-        "mining",
-        "remains",
-        "risks"
-      ],
-      "domains": [
-        "businessday.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "SA mining risks professional skills drain as registration remains undervalued",
-          "url": "https://www.businessday.co.za/economy/2026-09-08-sa-mining-risks-professional-skills-drain-as-registration-remains-undervalued/",
-          "domain": "businessday.co.za",
-          "date": "2026-09-08"
         }
       ]
     },
@@ -13261,36 +12306,6 @@
           "url": "https://who-africa.africa-newsroom.com/press/beyond-the-numbers-how-gavis-support-is-helping-the-gambia-move-towards-reaching-every-child-with-lifesaving-vaccines",
           "domain": "who-africa.africa-newsroom.com",
           "date": "2026-09-11"
-        }
-      ]
-    },
-    "south-africa:administration-attacks-bunch": {
-      "id": "south-africa:administration-attacks-bunch",
-      "country": "South Africa",
-      "terms": [
-        "administration",
-        "bunch",
-        "retire",
-        "smithsonian",
-        "chief",
-        "attacks",
-        "trump"
-      ],
-      "domains": [
-        "businessday.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Smithsonian chief Bunch to retire amid Trump administration attacks",
-          "url": "https://www.businessday.co.za/world/2026-09-08-smithsonian-chief-bunch-to-retire-amid-trump-administration-attacks/",
-          "domain": "businessday.co.za",
-          "date": "2026-09-08"
         }
       ]
     },
@@ -14346,34 +13361,6 @@
         }
       ]
     },
-    "united-kingdom:bournemouth-patriot-portsmouth": {
-      "id": "united-kingdom:bournemouth-patriot-portsmouth",
-      "country": "United Kingdom",
-      "terms": [
-        "bournemouth",
-        "patriot",
-        "robinson",
-        "tommy",
-        "portsmouth"
-      ],
-      "domains": [
-        "bournemouthecho.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Tommy Robinson calls for Bournemouth  patriot to march in Portsmouth",
-          "url": "https://www.bournemouthecho.co.uk/news/26531128.tommy-robinson-calls-southampton-patriots-march-portsmouth/",
-          "domain": "bournemouthecho.co.uk",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "united-kingdom:doctors-join-kenya": {
       "id": "united-kingdom:doctors-join-kenya",
       "country": "United Kingdom",
@@ -14465,35 +13452,6 @@
           "url": "https://www.aol.co.uk/articles/kent-police-knew-dover-protest-090306000.html",
           "domain": "aol.co.uk",
           "date": "2026-09-09"
-        }
-      ]
-    },
-    "united-kingdom:britain-foreign-import": {
-      "id": "united-kingdom:britain-foreign-import",
-      "country": "United Kingdom",
-      "terms": [
-        "import",
-        "really",
-        "britain",
-        "foreign",
-        "without",
-        "masked"
-      ],
-      "domains": [
-        "express.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Masked protest is a foreign import Britain could really do without",
-          "url": "https://www.express.co.uk/news/uk/2246660/farage-nigel-reform-masks-burka-portsmouth-dover-protest",
-          "domain": "express.co.uk",
-          "date": "2026-09-08"
         }
       ]
     },
@@ -14640,64 +13598,6 @@
         }
       ]
     },
-    "indonesia:black-isu-wakapolri": {
-      "id": "indonesia:black-isu-wakapolri",
-      "country": "Indonesia",
-      "terms": [
-        "black",
-        "isu",
-        "wakapolri",
-        "waspadai"
-      ],
-      "domains": [
-        "nasional.sindonews.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Wakapolri : Waspadai Isu Aksi Black September",
-          "url": "https://nasional.sindonews.com/read/1747555/14/wakapolri-waspadai-isu-aksi-black-september-1788847791",
-          "domain": "nasional.sindonews.com",
-          "date": "2026-09-08"
-        }
-      ]
-    },
-    "indonesia:batalkan-berita-dasco": {
-      "id": "indonesia:batalkan-berita-dasco",
-      "country": "Indonesia",
-      "terms": [
-        "batalkan",
-        "mensesneg",
-        "munc",
-        "sindiran",
-        "tangan",
-        "terbuka",
-        "berita",
-        "dasco"
-      ],
-      "domains": [
-        "jpnn.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "5 Berita Terpopuler : Batalkan Demo 7 September , Data PPPK Sudah di Tangan Dasco dan Mensesneg , Sindiran Terbuka Munc ...",
-          "url": "https://www.jpnn.com/news/5-berita-terpopuler-batalkan-demo-7-september-data-pppk-sudah-di-tangan-dasco-dan-mensesneg-sindiran-terbuka-muncul",
-          "domain": "jpnn.com",
-          "date": "2026-09-08"
-        }
-      ]
-    },
     "indonesia:aniaya-ditangkap-rusuh": {
       "id": "indonesia:aniaya-ditangkap-rusuh",
       "country": "Indonesia",
@@ -14721,37 +13621,6 @@
           "url": "https://news.okezone.com/read/2026/09/12/338/3241636/aniaya-pedagang-cermin-hingga-tewas-saat-demo-rusuh-3-orang-ditangkap",
           "domain": "news.okezone.com",
           "date": "2026-09-12"
-        }
-      ]
-    },
-    "indonesia:akun-dpr-kaitkan": {
-      "id": "indonesia:akun-dpr-kaitkan",
-      "country": "Indonesia",
-      "terms": [
-        "kaitkan",
-        "laporkan",
-        "pardede",
-        "akun",
-        "dpr",
-        "medsos",
-        "melva",
-        "ricuh"
-      ],
-      "domains": [
-        "news.okezone.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "PDIP Laporkan Akun Medsos yang Kaitkan dengan Melva Pardede saat Demo Ricuh DPR : Okezone News",
-          "url": "https://news.okezone.com/read/2026/09/08/338/3240816/pdip-laporkan-akun-medsos-yang-kaitkan-dengan-melva-pardede-saat-demo-ricuh-dpr",
-          "domain": "news.okezone.com",
-          "date": "2026-09-08"
         }
       ]
     },
@@ -14832,37 +13701,6 @@
           "url": "https://www.viva.co.id/berita/nasional/1928061-polda-metro-tetapkan-3-tersangka-pengeroyokan-bambang-setiawan-terancam-bui-12-tahun",
           "domain": "viva.co.id",
           "date": "2026-09-12"
-        }
-      ]
-    },
-    "indonesia:berbuah-dasco-forum": {
-      "id": "indonesia:berbuah-dasco-forum",
-      "country": "Indonesia",
-      "terms": [
-        "berbuah",
-        "manis",
-        "pak",
-        "ppp",
-        "dasco",
-        "forum",
-        "pertemuan",
-        "pimpinan"
-      ],
-      "domains": [
-        "jpnn.com"
-      ],
-      "daysSeen": [
-        "2026-09-08"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "samples": [
-        {
-          "title": "Pertemuan 10 Pimpinan Forum PPPK dan PPP Paruh Waktu dengan Pak Dasco Berbuah Manis",
-          "url": "https://www.jpnn.com/news/pertemuan-10-pimpinan-forum-pppk-dan-ppp-paruh-waktu-dengan-pak-dasco-berbuah-manis",
-          "domain": "jpnn.com",
-          "date": "2026-09-08"
         }
       ]
     },
