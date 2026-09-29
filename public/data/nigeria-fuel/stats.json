@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 154
+      "count": 155
     }
   ],
   "sources": [
@@ -844,6 +844,12 @@
       "last": "2026-09-27"
     },
     {
+      "name": "Vanguard News",
+      "count": 41,
+      "first": "2012-03-08",
+      "last": "2026-09-26"
+    },
+    {
       "name": "BBC",
       "count": 35,
       "first": "2018-09-26",
@@ -862,22 +868,10 @@
       "last": "2026-09-11"
     },
     {
-      "name": "vanguardngr.com",
-      "count": 26,
-      "first": "2012-03-08",
-      "last": "2026-09-26"
-    },
-    {
       "name": "Ripples Nigeria",
-      "count": 21,
+      "count": 22,
       "first": "2023-06-01",
-      "last": "2026-09-17"
-    },
-    {
-      "name": "Vanguard News",
-      "count": 20,
-      "first": "2014-10-31",
-      "last": "2026-09-14"
+      "last": "2026-09-29"
     },
     {
       "name": "PM News Nigeria",
@@ -896,12 +890,6 @@
       "count": 16,
       "first": "2020-09-05",
       "last": "2026-09-16"
-    },
-    {
-      "name": "The Sun Nigeria",
-      "count": 15,
-      "first": "2022-11-30",
-      "last": "2026-08-14"
     },
     {
       "name": "Arise News",
@@ -928,16 +916,16 @@
       "last": "2024-08-02"
     },
     {
-      "name": "The Whistler Newspaper",
-      "count": 12,
-      "first": "2020-09-04",
-      "last": "2026-09-27"
-    },
-    {
       "name": "Premium Times",
       "count": 9,
       "first": "2026-09-11",
       "last": "2026-09-27"
+    },
+    {
+      "name": "The Sun Nigeria",
+      "count": 9,
+      "first": "2026-01-23",
+      "last": "2026-08-14"
     },
     {
       "name": "Tribune Online",
@@ -964,6 +952,12 @@
       "last": "2026-06-03"
     },
     {
+      "name": "VOA - Voice of America English News",
+      "count": 7,
+      "first": "2009-10-30",
+      "last": "2024-08-08"
+    },
+    {
       "name": "Nigeria Labour Congress (NLC)",
       "count": 6,
       "first": "2023-03-30",
@@ -982,10 +976,22 @@
       "last": "2026-06-03"
     },
     {
-      "name": "VOA - Voice of America English News",
+      "name": "The Whistler Newspaper",
       "count": 6,
-      "first": "2009-10-30",
-      "last": "2024-08-08"
+      "first": "2020-09-04",
+      "last": "2026-04-28"
+    },
+    {
+      "name": "thesun.ng",
+      "count": 6,
+      "first": "2022-11-30",
+      "last": "2026-06-08"
+    },
+    {
+      "name": "thewhistler.ng",
+      "count": 6,
+      "first": "2024-05-06",
+      "last": "2026-09-27"
     },
     {
       "name": "CNN",
@@ -1006,6 +1012,12 @@
       "last": "2026-05-19"
     },
     {
+      "name": "vanguardngr.com",
+      "count": 5,
+      "first": "2020-07-16",
+      "last": "2025-10-22"
+    },
+    {
       "name": "allAfrica.com",
       "count": 4,
       "first": "2012-01-16",
@@ -1018,16 +1030,22 @@
       "last": "2026-01-27"
     },
     {
-      "name": "LEADERSHIP Newspapers",
+      "name": "Nigeria Info FM",
       "count": 4,
-      "first": "2024-09-08",
-      "last": "2026-06-04"
+      "first": "2025-12-17",
+      "last": "2026-01-26"
     },
     {
       "name": "Nigerian Voice",
-      "count": 3,
+      "count": 4,
       "first": "2012-01-13",
-      "last": "2025-10-14"
+      "last": "2026-09-11"
+    },
+    {
+      "name": "LEADERSHIP Newspapers",
+      "count": 3,
+      "first": "2024-09-08",
+      "last": "2026-02-03"
     },
     {
       "name": "Peoples Gazette Nigeria",
@@ -1060,28 +1078,10 @@
       "last": "2024-09-04"
     },
     {
-      "name": "Mail & Guardian",
-      "count": 2,
-      "first": "2012-01-16",
-      "last": "2024-03-02"
-    },
-    {
       "name": "Modern Ghana",
       "count": 2,
       "first": "2012-01-05",
       "last": "2012-01-06"
-    },
-    {
-      "name": "Nigeria Info FM",
-      "count": 2,
-      "first": "2026-01-24",
-      "last": "2026-01-26"
-    },
-    {
-      "name": "nigeriainfo.fm",
-      "count": 2,
-      "first": "2025-12-17",
-      "last": "2025-12-17"
     },
     {
       "name": "Nigerian Bulletin",
@@ -1312,6 +1312,18 @@
       "last": "2024-08-21"
     },
     {
+      "name": "leadership.ng",
+      "count": 1,
+      "first": "2026-06-04",
+      "last": "2026-06-04"
+    },
+    {
+      "name": "Mail & Guardian",
+      "count": 1,
+      "first": "2012-01-16",
+      "last": "2012-01-16"
+    },
+    {
       "name": "MarketForces Africa",
       "count": 1,
       "first": "2024-11-05",
@@ -1322,6 +1334,12 @@
       "count": 1,
       "first": "2025-07-27",
       "last": "2025-07-27"
+    },
+    {
+      "name": "mg.co.za",
+      "count": 1,
+      "first": "2024-03-02",
+      "last": "2024-03-02"
     },
     {
       "name": "Naija News",
@@ -1432,12 +1450,6 @@
       "last": "2020-09-11"
     },
     {
-      "name": "thenigerianvoice.com",
-      "count": 1,
-      "first": "2026-09-11",
-      "last": "2026-09-11"
-    },
-    {
       "name": "thestreetjournal.org",
       "count": 1,
       "first": "2024-09-04",
@@ -1466,12 +1478,6 @@
       "count": 1,
       "first": "2012-04-15",
       "last": "2012-04-15"
-    },
-    {
-      "name": "voanews.com",
-      "count": 1,
-      "first": "2023-09-26",
-      "last": "2023-09-26"
     }
   ],
   "firstDate": "2009-10-30",
