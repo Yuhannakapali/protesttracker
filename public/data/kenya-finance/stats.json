@@ -87,7 +87,7 @@
     },
     {
       "start": "2025-07-01",
-      "count": 23
+      "count": 24
     },
     {
       "start": "2025-08-01",
@@ -268,12 +268,6 @@
       "last": "2026-06-25"
     },
     {
-      "name": "Context News",
-      "count": 5,
-      "first": "2024-06-26",
-      "last": "2025-07-03"
-    },
-    {
       "name": "France 24",
       "count": 5,
       "first": "2024-06-26",
@@ -284,6 +278,12 @@
       "count": 4,
       "first": "2024-08-13",
       "last": "2026-06-25"
+    },
+    {
+      "name": "Context News",
+      "count": 4,
+      "first": "2024-06-26",
+      "last": "2025-06-25"
     },
     {
       "name": "Dawan Africa",
@@ -406,12 +406,6 @@
       "last": "2024-07-01"
     },
     {
-      "name": "Kenya News Agency",
-      "count": 2,
-      "first": "2026-04-24",
-      "last": "2026-06-25"
-    },
-    {
       "name": "Nairobi Leo",
       "count": 2,
       "first": "2026-06-23",
@@ -430,6 +424,12 @@
       "last": "2025-07-16"
     },
     {
+      "name": "The Guardian",
+      "count": 2,
+      "first": "2024-07-01",
+      "last": "2025-07-09"
+    },
+    {
       "name": "The New York Times",
       "count": 2,
       "first": "2025-07-14",
@@ -442,7 +442,7 @@
       "last": "2024-06-20"
     },
     {
-      "name": "Africa Check",
+      "name": "africacheck.org",
       "count": 1,
       "first": "2026-09-22",
       "last": "2026-09-22"
@@ -476,6 +476,12 @@
       "count": 1,
       "first": "2024-07-19",
       "last": "2024-07-19"
+    },
+    {
+      "name": "blogs.lse.ac.uk",
+      "count": 1,
+      "first": "2024-08-01",
+      "last": "2024-08-01"
     },
     {
       "name": "Bloomberg.com",
@@ -520,6 +526,12 @@
       "last": "2024-06-27"
     },
     {
+      "name": "context.news",
+      "count": 1,
+      "first": "2025-07-03",
+      "last": "2025-07-03"
+    },
+    {
       "name": "Cryptopolitan",
       "count": 1,
       "first": "2026-05-25",
@@ -532,7 +544,7 @@
       "last": "2024-06-27"
     },
     {
-      "name": "dailymaverick.co.za",
+      "name": "Daily Maverick",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -628,6 +640,18 @@
       "last": "2026-08-28"
     },
     {
+      "name": "Kenya News Agency",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "kenyanews.go.ke",
+      "count": 1,
+      "first": "2026-04-24",
+      "last": "2026-04-24"
+    },
+    {
       "name": "khrc.or.ke",
       "count": 1,
       "first": "2025-09-20",
@@ -644,12 +668,6 @@
       "count": 1,
       "first": "2026-08-27",
       "last": "2026-08-27"
-    },
-    {
-      "name": "LSE Blogs",
-      "count": 1,
-      "first": "2024-08-01",
-      "last": "2024-08-01"
     },
     {
       "name": "Middle East Monitor",
@@ -734,12 +752,6 @@
       "count": 1,
       "first": "2024-06-27",
       "last": "2024-06-27"
-    },
-    {
-      "name": "The Guardian",
-      "count": 1,
-      "first": "2024-07-01",
-      "last": "2024-07-01"
     },
     {
       "name": "The Independent Uganda",
