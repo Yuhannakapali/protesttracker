@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 155
+      "count": 156
     }
   ],
   "sources": [
@@ -827,9 +827,9 @@
     },
     {
       "name": "The Guardian Nigeria News",
-      "count": 53,
+      "count": 54,
       "first": "2015-10-02",
-      "last": "2026-09-23"
+      "last": "2026-09-30"
     },
     {
       "name": "Vanguard",
@@ -842,6 +842,12 @@
       "count": 48,
       "first": "2012-01-04",
       "last": "2026-09-27"
+    },
+    {
+      "name": "Vanguard News",
+      "count": 43,
+      "first": "2012-03-08",
+      "last": "2026-09-26"
     },
     {
       "name": "Premium Times Nigeria",
@@ -862,22 +868,10 @@
       "last": "2026-09-11"
     },
     {
-      "name": "vanguardngr.com",
-      "count": 28,
-      "first": "2012-03-08",
-      "last": "2026-09-26"
-    },
-    {
       "name": "Ripples Nigeria",
       "count": 22,
       "first": "2023-06-01",
       "last": "2026-09-29"
-    },
-    {
-      "name": "Vanguard News",
-      "count": 20,
-      "first": "2014-10-31",
-      "last": "2026-09-14"
     },
     {
       "name": "Business News Nigeria",
@@ -946,10 +940,22 @@
       "last": "2026-07-26"
     },
     {
+      "name": "Independent Newspaper Nigeria",
+      "count": 8,
+      "first": "2023-01-30",
+      "last": "2026-01-29"
+    },
+    {
       "name": "The Guardian",
       "count": 8,
       "first": "2012-01-03",
       "last": "2026-01-26"
+    },
+    {
+      "name": "Nigeria Labour Congress (NLC)",
+      "count": 7,
+      "first": "2023-03-30",
+      "last": "2026-06-03"
     },
     {
       "name": "TVC News",
@@ -962,18 +968,6 @@
       "count": 7,
       "first": "2009-10-30",
       "last": "2024-08-08"
-    },
-    {
-      "name": "Independent Newspaper Nigeria",
-      "count": 6,
-      "first": "2024-08-02",
-      "last": "2026-01-29"
-    },
-    {
-      "name": "Nigeria Labour Congress (NLC)",
-      "count": 6,
-      "first": "2023-03-30",
-      "last": "2026-06-03"
     },
     {
       "name": "Sahara Reporters",
@@ -998,6 +992,12 @@
       "count": 5,
       "first": "2012-01-10",
       "last": "2026-05-19"
+    },
+    {
+      "name": "vanguardngr.com",
+      "count": 5,
+      "first": "2020-07-16",
+      "last": "2025-10-22"
     },
     {
       "name": "allAfrica.com",
@@ -1028,12 +1028,6 @@
       "count": 4,
       "first": "2012-01-13",
       "last": "2026-09-11"
-    },
-    {
-      "name": "independent.ng",
-      "count": 3,
-      "first": "2020-09-07",
-      "last": "2026-01-23"
     },
     {
       "name": "Peoples Gazette Nigeria",
@@ -1276,6 +1270,12 @@
       "last": "2012-01-11"
     },
     {
+      "name": "independent.ng",
+      "count": 1,
+      "first": "2020-09-07",
+      "last": "2020-09-07"
+    },
+    {
       "name": "instagram.com",
       "count": 1,
       "first": "2026-01-30",
@@ -1352,12 +1352,6 @@
       "count": 1,
       "first": "2026-09-17",
       "last": "2026-09-17"
-    },
-    {
-      "name": "nlcng.org",
-      "count": 1,
-      "first": "2024-12-02",
-      "last": "2024-12-02"
     },
     {
       "name": "Parallel Facts News",
@@ -1469,5 +1463,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-09-29"
+  "lastDate": "2026-09-30"
 }

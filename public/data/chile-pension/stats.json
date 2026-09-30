@@ -167,7 +167,7 @@
     },
     {
       "start": "2018-04-01",
-      "count": 3
+      "count": 4
     },
     {
       "start": "2018-05-01",
@@ -588,7 +588,7 @@
       "last": "2026-09-25"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -630,6 +630,12 @@
       "last": "2024-08-17"
     },
     {
+      "name": "SoyChile.cl",
+      "count": 6,
+      "first": "2016-08-10",
+      "last": "2019-03-31"
+    },
+    {
       "name": "Universidad de Chile",
       "count": 6,
       "first": "2017-04-22",
@@ -652,12 +658,6 @@
       "count": 5,
       "first": "2016-08-19",
       "last": "2025-09-23"
-    },
-    {
-      "name": "SoyChile.cl",
-      "count": 5,
-      "first": "2016-08-10",
-      "last": "2019-03-31"
     },
     {
       "name": "Clarin.com",
@@ -714,6 +714,12 @@
       "last": "2022-11-06"
     },
     {
+      "name": "nytimes.com",
+      "count": 3,
+      "first": "2016-09-10",
+      "last": "2019-11-21"
+    },
+    {
       "name": "Perfil",
       "count": 3,
       "first": "2019-11-23",
@@ -724,18 +730,6 @@
       "count": 3,
       "first": "2019-10-23",
       "last": "2020-10-16"
-    },
-    {
-      "name": "The Guardian",
-      "count": 3,
-      "first": "2016-08-21",
-      "last": "2019-10-30"
-    },
-    {
-      "name": "The New York Times",
-      "count": 3,
-      "first": "2016-09-10",
-      "last": "2019-11-21"
     },
     {
       "name": "The Washington Post",
@@ -876,10 +870,10 @@
       "last": "2022-03-31"
     },
     {
-      "name": "The Nation Newspaper",
+      "name": "theguardian.com",
       "count": 2,
-      "first": "2024-02-07",
-      "last": "2025-11-29"
+      "first": "2016-08-21",
+      "last": "2019-10-24"
     },
     {
       "name": "TN",
@@ -966,7 +960,7 @@
       "last": "2019-10-26"
     },
     {
-      "name": "businessday.ng",
+      "name": "Business News Nigeria",
       "count": 1,
       "first": "2021-09-22",
       "last": "2021-09-22"
@@ -1122,6 +1116,12 @@
       "last": "2022-05-25"
     },
     {
+      "name": "Fenpruss",
+      "count": 1,
+      "first": "2019-03-25",
+      "last": "2019-03-25"
+    },
+    {
       "name": "Foreign Policy",
       "count": 1,
       "first": "2019-10-23",
@@ -1272,7 +1272,7 @@
       "last": "2024-12-27"
     },
     {
-      "name": "meganoticias.cl",
+      "name": "Meganoticias",
       "count": 1,
       "first": "2023-07-23",
       "last": "2023-07-23"
@@ -1482,6 +1482,12 @@
       "last": "2019-11-11"
     },
     {
+      "name": "The Guardian",
+      "count": 1,
+      "first": "2019-10-30",
+      "last": "2019-10-30"
+    },
+    {
       "name": "The Independent",
       "count": 1,
       "first": "2019-11-30",
@@ -1500,6 +1506,12 @@
       "last": "2019-12-10"
     },
     {
+      "name": "The Nation Newspaper",
+      "count": 1,
+      "first": "2024-02-07",
+      "last": "2024-02-07"
+    },
+    {
       "name": "The Sun",
       "count": 1,
       "first": "2019-11-15",
@@ -1516,6 +1528,12 @@
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
+    },
+    {
+      "name": "thenationonlineng.net",
+      "count": 1,
+      "first": "2025-11-29",
+      "last": "2025-11-29"
     },
     {
       "name": "Toronto Sun",
@@ -1564,12 +1582,6 @@
       "count": 1,
       "first": "2018-04-23",
       "last": "2018-04-23"
-    },
-    {
-      "name": "web2.fenpruss.cl",
-      "count": 1,
-      "first": "2019-03-25",
-      "last": "2019-03-25"
     },
     {
       "name": "World Socialist Web Site",

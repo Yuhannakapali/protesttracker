@@ -35,7 +35,7 @@
     },
     {
       "start": "2024-06-01",
-      "count": 60
+      "count": 61
     },
     {
       "start": "2024-07-01",
@@ -148,6 +148,12 @@
   ],
   "sources": [
     {
+      "name": "Daily Nation",
+      "count": 48,
+      "first": "2024-06-19",
+      "last": "2026-08-10"
+    },
+    {
       "name": "People Daily",
       "count": 44,
       "first": "2025-11-02",
@@ -166,22 +172,10 @@
       "last": "2026-09-26"
     },
     {
-      "name": "Daily Nation",
-      "count": 29,
-      "first": "2024-06-19",
-      "last": "2026-08-10"
-    },
-    {
       "name": "Al Jazeera",
       "count": 22,
       "first": "2024-06-18",
       "last": "2026-06-27"
-    },
-    {
-      "name": "nation.africa",
-      "count": 21,
-      "first": "2026-05-06",
-      "last": "2026-09-29"
     },
     {
       "name": "The Africa Report",
@@ -424,10 +418,22 @@
       "last": "2026-06-25"
     },
     {
+      "name": "nation.africa",
+      "count": 2,
+      "first": "2026-06-16",
+      "last": "2026-09-29"
+    },
+    {
       "name": "NTV Kenya",
       "count": 2,
       "first": "2026-03-23",
       "last": "2026-04-15"
+    },
+    {
+      "name": "Techweez",
+      "count": 2,
+      "first": "2024-06-20",
+      "last": "2024-06-24"
     },
     {
       "name": "The Economist",
@@ -562,7 +568,7 @@
       "last": "2024-06-27"
     },
     {
-      "name": "freemalaysiatoday.com",
+      "name": "Free Malaysia Today",
       "count": 1,
       "first": "2026-06-26",
       "last": "2026-06-26"
@@ -610,7 +616,7 @@
       "last": "2025-07-23"
     },
     {
-      "name": "IOL",
+      "name": "iol.co.za",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -728,12 +734,6 @@
       "count": 1,
       "first": "2026-06-27",
       "last": "2026-06-27"
-    },
-    {
-      "name": "Techweez",
-      "count": 1,
-      "first": "2024-06-20",
-      "last": "2024-06-20"
     },
     {
       "name": "Techzim",
