@@ -845,21 +845,21 @@
     },
     {
       "name": "Vanguard News",
-      "count": 41,
+      "count": 42,
       "first": "2012-03-08",
       "last": "2026-09-26"
+    },
+    {
+      "name": "Premium Times Nigeria",
+      "count": 36,
+      "first": "2013-04-18",
+      "last": "2026-02-02"
     },
     {
       "name": "BBC",
       "count": 35,
       "first": "2018-09-26",
       "last": "2025-12-17"
-    },
-    {
-      "name": "Premium Times Nigeria",
-      "count": 34,
-      "first": "2013-04-18",
-      "last": "2026-02-02"
     },
     {
       "name": "Punch Newspapers",
@@ -892,10 +892,10 @@
       "last": "2026-09-16"
     },
     {
-      "name": "Arise News",
-      "count": 14,
-      "first": "2023-06-02",
-      "last": "2026-06-04"
+      "name": "The Sun Nigeria",
+      "count": 15,
+      "first": "2022-11-30",
+      "last": "2026-08-14"
     },
     {
       "name": "Legit News",
@@ -904,28 +904,34 @@
       "last": "2025-09-16"
     },
     {
-      "name": "THISDAYLIVE",
-      "count": 13,
-      "first": "2023-01-26",
-      "last": "2026-03-11"
-    },
-    {
       "name": "Al Jazeera",
       "count": 12,
       "first": "2012-01-04",
       "last": "2024-08-02"
     },
     {
+      "name": "The Whistler Newspaper",
+      "count": 12,
+      "first": "2020-09-04",
+      "last": "2026-09-27"
+    },
+    {
+      "name": "THISDAYLIVE",
+      "count": 12,
+      "first": "2023-01-26",
+      "last": "2026-02-04"
+    },
+    {
+      "name": "Arise News",
+      "count": 10,
+      "first": "2023-06-02",
+      "last": "2026-02-13"
+    },
+    {
       "name": "Premium Times",
       "count": 9,
       "first": "2026-09-11",
       "last": "2026-09-27"
-    },
-    {
-      "name": "The Sun Nigeria",
-      "count": 9,
-      "first": "2026-01-23",
-      "last": "2026-08-14"
     },
     {
       "name": "Tribune Online",
@@ -952,12 +958,6 @@
       "last": "2026-06-03"
     },
     {
-      "name": "VOA - Voice of America English News",
-      "count": 7,
-      "first": "2009-10-30",
-      "last": "2024-08-08"
-    },
-    {
       "name": "Nigeria Labour Congress (NLC)",
       "count": 6,
       "first": "2023-03-30",
@@ -976,34 +976,22 @@
       "last": "2026-06-03"
     },
     {
-      "name": "The Whistler Newspaper",
+      "name": "VOA - Voice of America English News",
       "count": 6,
-      "first": "2020-09-04",
-      "last": "2026-04-28"
+      "first": "2009-10-30",
+      "last": "2024-08-08"
     },
     {
-      "name": "thesun.ng",
-      "count": 6,
-      "first": "2022-11-30",
-      "last": "2026-06-08"
-    },
-    {
-      "name": "thewhistler.ng",
-      "count": 6,
-      "first": "2024-05-06",
-      "last": "2026-09-27"
+      "name": "arise.tv",
+      "count": 5,
+      "first": "2023-06-19",
+      "last": "2026-06-04"
     },
     {
       "name": "CNN",
       "count": 5,
       "first": "2012-01-03",
       "last": "2024-06-03"
-    },
-    {
-      "name": "premiumtimesng.com",
-      "count": 5,
-      "first": "2023-06-01",
-      "last": "2026-01-23"
     },
     {
       "name": "Reuters",
@@ -1030,6 +1018,12 @@
       "last": "2026-01-27"
     },
     {
+      "name": "LEADERSHIP Newspapers",
+      "count": 4,
+      "first": "2024-09-08",
+      "last": "2026-06-04"
+    },
+    {
       "name": "Nigeria Info FM",
       "count": 4,
       "first": "2025-12-17",
@@ -1042,16 +1036,16 @@
       "last": "2026-09-11"
     },
     {
-      "name": "LEADERSHIP Newspapers",
-      "count": 3,
-      "first": "2024-09-08",
-      "last": "2026-02-03"
-    },
-    {
       "name": "Peoples Gazette Nigeria",
       "count": 3,
       "first": "2024-10-09",
       "last": "2026-05-18"
+    },
+    {
+      "name": "premiumtimesng.com",
+      "count": 3,
+      "first": "2024-06-03",
+      "last": "2024-06-03"
     },
     {
       "name": "VOA Africa",
@@ -1132,6 +1126,12 @@
       "last": "2024-08-13"
     },
     {
+      "name": "africarenewal.un.org",
+      "count": 1,
+      "first": "2012-04-15",
+      "last": "2012-04-15"
+    },
+    {
       "name": "AIT LIVE",
       "count": 1,
       "first": "2026-01-29",
@@ -1148,12 +1148,6 @@
       "count": 1,
       "first": "2026-08-21",
       "last": "2026-08-21"
-    },
-    {
-      "name": "arise.tv",
-      "count": 1,
-      "first": "2024-10-11",
-      "last": "2024-10-11"
     },
     {
       "name": "Black Agenda Report",
@@ -1312,12 +1306,6 @@
       "last": "2024-08-21"
     },
     {
-      "name": "leadership.ng",
-      "count": 1,
-      "first": "2026-06-04",
-      "last": "2026-06-04"
-    },
-    {
       "name": "Mail & Guardian",
       "count": 1,
       "first": "2012-01-16",
@@ -1474,10 +1462,10 @@
       "last": "2026-05-19"
     },
     {
-      "name": "UN Africa Renewal",
+      "name": "voanews.com",
       "count": 1,
-      "first": "2012-04-15",
-      "last": "2012-04-15"
+      "first": "2023-09-26",
+      "last": "2023-09-26"
     }
   ],
   "firstDate": "2009-10-30",

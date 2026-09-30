@@ -103,7 +103,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 188
+      "count": 189
     },
     {
       "start": "2026-08-01",
@@ -111,7 +111,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 633
+      "count": 635
     }
   ],
   "sources": [
@@ -177,9 +177,15 @@
     },
     {
       "name": "Rediff",
-      "count": 26,
+      "count": 27,
       "first": "2026-06-07",
       "last": "2026-09-27"
+    },
+    {
+      "name": "EdexLive",
+      "count": 23,
+      "first": "2024-06-18",
+      "last": "2026-09-17"
     },
     {
       "name": "News18",
@@ -192,12 +198,6 @@
       "count": 22,
       "first": "2026-07-22",
       "last": "2026-09-28"
-    },
-    {
-      "name": "EdexLive",
-      "count": 22,
-      "first": "2024-06-18",
-      "last": "2026-09-17"
     },
     {
       "name": "Outlook India",
@@ -220,7 +220,7 @@
     {
       "name": "Bhaskar English",
       "count": 20,
-      "first": "2026-07-19",
+      "first": "2026-07-22",
       "last": "2026-09-06"
     },
     {
@@ -344,16 +344,16 @@
       "last": "2026-09-28"
     },
     {
+      "name": "theweek.in",
+      "count": 10,
+      "first": "2026-06-06",
+      "last": "2026-09-29"
+    },
+    {
       "name": "The Guardian",
       "count": 9,
       "first": "2026-05-21",
       "last": "2026-08-04"
-    },
-    {
-      "name": "theweek.in",
-      "count": 9,
-      "first": "2026-06-06",
-      "last": "2026-09-27"
     },
     {
       "name": "The Hans India",
@@ -824,12 +824,6 @@
       "last": "2026-08-29"
     },
     {
-      "name": "The Observer Post",
-      "count": 2,
-      "first": "2026-09-27",
-      "last": "2026-09-29"
-    },
-    {
       "name": "The Shillong Times",
       "count": 2,
       "first": "2026-08-11",
@@ -840,6 +834,12 @@
       "count": 2,
       "first": "2026-09-01",
       "last": "2026-09-01"
+    },
+    {
+      "name": "theobserverpost.com",
+      "count": 2,
+      "first": "2026-09-27",
+      "last": "2026-09-29"
     },
     {
       "name": "thequint.com",
@@ -1184,7 +1184,7 @@
       "last": "2026-09-10"
     },
     {
-      "name": "lemonde.fr",
+      "name": "Le Monde.fr",
       "count": 1,
       "first": "2026-09-27",
       "last": "2026-09-27"

@@ -143,16 +143,10 @@
     },
     {
       "start": "2026-09-01",
-      "count": 8
+      "count": 9
     }
   ],
   "sources": [
-    {
-      "name": "Daily Nation",
-      "count": 49,
-      "first": "2024-06-19",
-      "last": "2026-08-10"
-    },
     {
       "name": "People Daily",
       "count": 44,
@@ -172,10 +166,22 @@
       "last": "2026-09-26"
     },
     {
+      "name": "Daily Nation",
+      "count": 29,
+      "first": "2024-06-19",
+      "last": "2026-08-10"
+    },
+    {
       "name": "Al Jazeera",
       "count": 22,
       "first": "2024-06-18",
       "last": "2026-06-27"
+    },
+    {
+      "name": "nation.africa",
+      "count": 21,
+      "first": "2026-05-06",
+      "last": "2026-09-29"
     },
     {
       "name": "The Africa Report",
@@ -206,12 +212,6 @@
       "count": 10,
       "first": "2025-06-25",
       "last": "2026-07-07"
-    },
-    {
-      "name": "The EastAfrican",
-      "count": 9,
-      "first": "2024-06-18",
-      "last": "2026-06-21"
     },
     {
       "name": "The Kenya Times",
@@ -268,6 +268,12 @@
       "last": "2026-06-25"
     },
     {
+      "name": "The EastAfrican",
+      "count": 6,
+      "first": "2024-06-18",
+      "last": "2025-08-09"
+    },
+    {
       "name": "Context News",
       "count": 5,
       "first": "2024-06-26",
@@ -308,6 +314,12 @@
       "count": 3,
       "first": "2025-07-25",
       "last": "2025-10-27"
+    },
+    {
+      "name": "Business Daily",
+      "count": 3,
+      "first": "2024-06-18",
+      "last": "2026-05-24"
     },
     {
       "name": "Democracy in Africa",
@@ -364,6 +376,12 @@
       "last": "2026-09-22"
     },
     {
+      "name": "theeastafrican.co.ke",
+      "count": 3,
+      "first": "2025-06-07",
+      "last": "2026-06-21"
+    },
+    {
       "name": "accord.org.za",
       "count": 2,
       "first": "2024-08-29",
@@ -382,12 +400,6 @@
       "last": "2025-06-24"
     },
     {
-      "name": "Business Daily",
-      "count": 2,
-      "first": "2024-06-18",
-      "last": "2025-11-25"
-    },
-    {
       "name": "Capitalfm.co.ke",
       "count": 2,
       "first": "2026-04-21",
@@ -404,6 +416,12 @@
       "count": 2,
       "first": "2024-06-27",
       "last": "2024-07-01"
+    },
+    {
+      "name": "Kenya News Agency",
+      "count": 2,
+      "first": "2026-04-24",
+      "last": "2026-06-25"
     },
     {
       "name": "Nairobi Leo",
@@ -442,7 +460,7 @@
       "last": "2024-06-20"
     },
     {
-      "name": "africacheck.org",
+      "name": "Africa Check",
       "count": 1,
       "first": "2026-09-22",
       "last": "2026-09-22"
@@ -478,7 +496,7 @@
       "last": "2024-07-19"
     },
     {
-      "name": "Bloomberg",
+      "name": "Bloomberg.com",
       "count": 1,
       "first": "2026-05-05",
       "last": "2026-05-05"
@@ -494,12 +512,6 @@
       "count": 1,
       "first": "2025-06-25",
       "last": "2025-06-25"
-    },
-    {
-      "name": "businessdailyafrica.com",
-      "count": 1,
-      "first": "2026-05-24",
-      "last": "2026-05-24"
     },
     {
       "name": "businesstoday.co.ke",
@@ -544,7 +556,7 @@
       "last": "2026-06-25"
     },
     {
-      "name": "EWN",
+      "name": "ewn.co.za",
       "count": 1,
       "first": "2026-06-24",
       "last": "2026-06-24"
@@ -634,18 +646,6 @@
       "last": "2026-08-28"
     },
     {
-      "name": "Kenya News Agency",
-      "count": 1,
-      "first": "2026-06-25",
-      "last": "2026-06-25"
-    },
-    {
-      "name": "kenyanews.go.ke",
-      "count": 1,
-      "first": "2026-04-24",
-      "last": "2026-04-24"
-    },
-    {
       "name": "khrc.or.ke",
       "count": 1,
       "first": "2025-09-20",
@@ -682,7 +682,7 @@
       "last": "2025-05-13"
     },
     {
-      "name": "openDemocracy",
+      "name": "opendemocracy.net",
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
@@ -742,7 +742,7 @@
       "last": "2026-06-27"
     },
     {
-      "name": "techweez.com",
+      "name": "Techweez",
       "count": 1,
       "first": "2024-06-20",
       "last": "2024-06-20"
@@ -827,5 +827,5 @@
     }
   ],
   "firstDate": "2023-10-20",
-  "lastDate": "2026-09-26"
+  "lastDate": "2026-09-29"
 }
