@@ -815,13 +815,13 @@
     },
     {
       "start": "2026-09-01",
-      "count": 156
+      "count": 157
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 86,
+      "count": 87,
       "first": "2012-01-05",
       "last": "2026-09-29"
     },
@@ -839,13 +839,13 @@
     },
     {
       "name": "Channels Television",
-      "count": 48,
+      "count": 49,
       "first": "2012-01-04",
-      "last": "2026-09-27"
+      "last": "2026-09-30"
     },
     {
       "name": "Vanguard News",
-      "count": 43,
+      "count": 44,
       "first": "2012-03-08",
       "last": "2026-09-26"
     },
@@ -892,12 +892,6 @@
       "last": "2026-09-16"
     },
     {
-      "name": "The Sun Nigeria",
-      "count": 15,
-      "first": "2022-11-30",
-      "last": "2026-08-14"
-    },
-    {
       "name": "Arise News",
       "count": 14,
       "first": "2023-06-02",
@@ -932,6 +926,12 @@
       "count": 9,
       "first": "2026-09-11",
       "last": "2026-09-27"
+    },
+    {
+      "name": "The Sun Nigeria",
+      "count": 9,
+      "first": "2026-01-23",
+      "last": "2026-08-14"
     },
     {
       "name": "Tribune Online",
@@ -994,10 +994,10 @@
       "last": "2026-05-19"
     },
     {
-      "name": "vanguardngr.com",
+      "name": "thesun.ng",
       "count": 5,
-      "first": "2020-07-16",
-      "last": "2025-10-22"
+      "first": "2022-11-30",
+      "last": "2026-06-04"
     },
     {
       "name": "allAfrica.com",
@@ -1030,6 +1030,12 @@
       "last": "2026-09-11"
     },
     {
+      "name": "vanguardngr.com",
+      "count": 4,
+      "first": "2020-07-16",
+      "last": "2025-10-22"
+    },
+    {
       "name": "Peoples Gazette Nigeria",
       "count": 3,
       "first": "2024-10-09",
@@ -1054,7 +1060,7 @@
       "last": "2021-03-12"
     },
     {
-      "name": "FIJ NG",
+      "name": "Foundation for Investigative Journalism (FIJ)",
       "count": 2,
       "first": "2024-09-04",
       "last": "2024-09-05"
@@ -1150,7 +1156,7 @@
       "last": "2025-09-27"
     },
     {
-      "name": "Business Post Nigeria",
+      "name": "businesspost.ng",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
