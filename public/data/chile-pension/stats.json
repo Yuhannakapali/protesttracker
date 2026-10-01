@@ -588,7 +588,7 @@
       "last": "2026-09-25"
     },
     {
-      "name": "DW.com",
+      "name": "dw.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -684,6 +684,12 @@
       "last": "2019-03-21"
     },
     {
+      "name": "Análisis Digital",
+      "count": 3,
+      "first": "2026-05-28",
+      "last": "2026-07-27"
+    },
+    {
       "name": "BioBioChile",
       "count": 3,
       "first": "2014-11-04",
@@ -726,12 +732,6 @@
       "last": "2020-10-16"
     },
     {
-      "name": "The Guardian",
-      "count": 3,
-      "first": "2016-08-21",
-      "last": "2019-10-30"
-    },
-    {
       "name": "The New York Times",
       "count": 3,
       "first": "2016-09-10",
@@ -744,12 +744,6 @@
       "last": "2019-11-21"
     },
     {
-      "name": "VOA - Voice of America English News",
-      "count": 3,
-      "first": "2017-04-13",
-      "last": "2022-03-12"
-    },
-    {
       "name": "ai-cio.com",
       "count": 2,
       "first": "2020-01-22",
@@ -760,12 +754,6 @@
       "count": 2,
       "first": "2026-06-24",
       "last": "2026-07-29"
-    },
-    {
-      "name": "Análisis Digital",
-      "count": 2,
-      "first": "2026-05-28",
-      "last": "2026-07-27"
     },
     {
       "name": "Council on Foreign Relations (CFR)",
@@ -790,12 +778,6 @@
       "count": 2,
       "first": "2018-04-19",
       "last": "2019-03-21"
-    },
-    {
-      "name": "El Miércoles Digital",
-      "count": 2,
-      "first": "2026-07-24",
-      "last": "2026-07-30"
     },
     {
       "name": "Flipr.news",
@@ -828,7 +810,7 @@
       "last": "2020-07-24"
     },
     {
-      "name": "mexicosolidarity.com",
+      "name": "Mexico Solidarity Media",
       "count": 2,
       "first": "2026-03-20",
       "last": "2026-03-20"
@@ -864,6 +846,12 @@
       "last": "2025-01-29"
     },
     {
+      "name": "South China Morning Post",
+      "count": 2,
+      "first": "2019-10-23",
+      "last": "2022-03-12"
+    },
+    {
       "name": "Teletrece",
       "count": 2,
       "first": "2019-10-06",
@@ -876,10 +864,22 @@
       "last": "2025-11-29"
     },
     {
+      "name": "theguardian.com",
+      "count": 2,
+      "first": "2016-08-21",
+      "last": "2019-10-24"
+    },
+    {
       "name": "TN",
       "count": 2,
       "first": "2023-04-06",
       "last": "2025-12-04"
+    },
+    {
+      "name": "VOA - Voice of America English News",
+      "count": 2,
+      "first": "2019-10-29",
+      "last": "2022-03-12"
     },
     {
       "name": "0264Noticias",
@@ -1002,7 +1002,7 @@
       "last": "2025-09-29"
     },
     {
-      "name": "comunicaciones.congreso.gob.pe",
+      "name": "Congreso",
       "count": 1,
       "first": "2021-03-23",
       "last": "2021-03-23"
@@ -1062,10 +1062,16 @@
       "last": "2025-06-27"
     },
     {
-      "name": "El Nacional — La voz de todos",
+      "name": "El Miércoles Digital",
       "count": 1,
-      "first": "2022-03-27",
-      "last": "2022-03-27"
+      "first": "2026-07-30",
+      "last": "2026-07-30"
+    },
+    {
+      "name": "El Nuevo Diario",
+      "count": 1,
+      "first": "2022-09-22",
+      "last": "2022-09-22"
     },
     {
       "name": "El Rancagüino",
@@ -1092,10 +1098,10 @@
       "last": "2022-10-21"
     },
     {
-      "name": "elnuevodiario.com.do",
+      "name": "elnacional.com.do",
       "count": 1,
-      "first": "2022-09-22",
-      "last": "2022-09-22"
+      "first": "2022-03-27",
+      "last": "2022-03-27"
     },
     {
       "name": "elsiglo.cl",
@@ -1194,7 +1200,7 @@
       "last": "2020-02-19"
     },
     {
-      "name": "independentespanol.com",
+      "name": "Independent en Español",
       "count": 1,
       "first": "2025-03-30",
       "last": "2025-03-30"
@@ -1266,7 +1272,7 @@
       "last": "2019-01-24"
     },
     {
-      "name": "Mala Espina",
+      "name": "malaespinacheck.cl",
       "count": 1,
       "first": "2024-12-27",
       "last": "2024-12-27"
@@ -1332,7 +1338,7 @@
       "last": "2026-08-06"
     },
     {
-      "name": "Novara Media",
+      "name": "novaramedia.com",
       "count": 1,
       "first": "2019-10-25",
       "last": "2019-10-25"
@@ -1464,18 +1470,6 @@
       "last": "2025-09-24"
     },
     {
-      "name": "scmp.com",
-      "count": 1,
-      "first": "2019-10-23",
-      "last": "2019-10-23"
-    },
-    {
-      "name": "South China Morning Post",
-      "count": 1,
-      "first": "2022-03-12",
-      "last": "2022-03-12"
-    },
-    {
       "name": "Sydney Criminal Lawyers",
       "count": 1,
       "first": "2020-03-17",
@@ -1498,6 +1492,12 @@
       "count": 1,
       "first": "2019-11-11",
       "last": "2019-11-11"
+    },
+    {
+      "name": "The Guardian",
+      "count": 1,
+      "first": "2019-10-30",
+      "last": "2019-10-30"
     },
     {
       "name": "The Independent",
@@ -1554,7 +1554,7 @@
       "last": "2019-11-29"
     },
     {
-      "name": "truthout.org",
+      "name": "Truthout",
       "count": 1,
       "first": "2019-11-26",
       "last": "2019-11-26"
@@ -1588,6 +1588,12 @@
       "count": 1,
       "first": "2018-04-23",
       "last": "2018-04-23"
+    },
+    {
+      "name": "voanews.com",
+      "count": 1,
+      "first": "2017-04-13",
+      "last": "2017-04-13"
     },
     {
       "name": "World Socialist Web Site",

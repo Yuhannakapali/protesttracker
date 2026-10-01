@@ -591,7 +591,7 @@
     },
     {
       "start": "2022-01-01",
-      "count": 10
+      "count": 11
     },
     {
       "start": "2022-02-01",
@@ -819,13 +819,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 5
+      "count": 8
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 88,
+      "count": 78,
       "first": "2012-01-05",
       "last": "2026-10-01"
     },
@@ -843,7 +843,7 @@
     },
     {
       "name": "Channels Television",
-      "count": 50,
+      "count": 51,
       "first": "2012-01-04",
       "last": "2026-10-01"
     },
@@ -866,22 +866,16 @@
       "last": "2025-12-17"
     },
     {
+      "name": "Punch Newspapers",
+      "count": 28,
+      "first": "2020-09-04",
+      "last": "2026-09-11"
+    },
+    {
       "name": "Ripples Nigeria",
       "count": 22,
       "first": "2023-06-01",
       "last": "2026-09-29"
-    },
-    {
-      "name": "Punch Newspapers",
-      "count": 21,
-      "first": "2020-09-04",
-      "last": "2026-07-20"
-    },
-    {
-      "name": "Business News Nigeria",
-      "count": 18,
-      "first": "2022-01-21",
-      "last": "2026-07-28"
     },
     {
       "name": "PM News Nigeria",
@@ -891,7 +885,7 @@
     },
     {
       "name": "TheCable",
-      "count": 16,
+      "count": 17,
       "first": "2020-09-05",
       "last": "2026-09-16"
     },
@@ -900,6 +894,24 @@
       "count": 15,
       "first": "2022-11-30",
       "last": "2026-08-14"
+    },
+    {
+      "name": "Arise News",
+      "count": 14,
+      "first": "2023-06-02",
+      "last": "2026-06-04"
+    },
+    {
+      "name": "Business News Nigeria",
+      "count": 14,
+      "first": "2022-01-21",
+      "last": "2026-07-28"
+    },
+    {
+      "name": "dailypost.ng",
+      "count": 13,
+      "first": "2012-02-05",
+      "last": "2026-09-25"
     },
     {
       "name": "Legit News",
@@ -932,12 +944,6 @@
       "last": "2026-10-01"
     },
     {
-      "name": "Arise News",
-      "count": 9,
-      "first": "2023-06-02",
-      "last": "2026-02-13"
-    },
-    {
       "name": "Tribune Online",
       "count": 9,
       "first": "2021-12-17",
@@ -962,22 +968,16 @@
       "last": "2026-06-03"
     },
     {
-      "name": "punchng.com",
-      "count": 7,
-      "first": "2025-11-22",
-      "last": "2026-09-11"
-    },
-    {
       "name": "TVC News",
       "count": 7,
       "first": "2022-01-31",
       "last": "2026-06-03"
     },
     {
-      "name": "arise.tv",
-      "count": 6,
-      "first": "2023-06-19",
-      "last": "2026-06-04"
+      "name": "VOA - Voice of America English News",
+      "count": 7,
+      "first": "2009-10-30",
+      "last": "2024-08-08"
     },
     {
       "name": "Sahara Reporters",
@@ -986,10 +986,10 @@
       "last": "2026-09-26"
     },
     {
-      "name": "VOA - Voice of America English News",
+      "name": "The Nation Newspaper",
       "count": 6,
-      "first": "2009-10-30",
-      "last": "2024-08-08"
+      "first": "2022-01-10",
+      "last": "2026-06-03"
     },
     {
       "name": "CNN",
@@ -1004,16 +1004,16 @@
       "last": "2026-05-19"
     },
     {
-      "name": "The Nation Newspaper",
-      "count": 5,
-      "first": "2022-01-10",
-      "last": "2026-02-04"
-    },
-    {
       "name": "allAfrica.com",
       "count": 4,
       "first": "2012-01-16",
       "last": "2025-09-29"
+    },
+    {
+      "name": "businessday.ng",
+      "count": 4,
+      "first": "2023-11-23",
+      "last": "2026-03-20"
     },
     {
       "name": "Daily Trust",
@@ -1106,18 +1106,6 @@
       "last": "2026-06-08"
     },
     {
-      "name": "The ICIR",
-      "count": 2,
-      "first": "2023-10-01",
-      "last": "2026-02-03"
-    },
-    {
-      "name": "thenationonlineng.net",
-      "count": 2,
-      "first": "2026-02-02",
-      "last": "2026-06-03"
-    },
-    {
       "name": "TRT Afrika",
       "count": 2,
       "first": "2025-09-17",
@@ -1160,6 +1148,12 @@
       "last": "2026-08-21"
     },
     {
+      "name": "arise.tv",
+      "count": 1,
+      "first": "2024-10-11",
+      "last": "2024-10-11"
+    },
+    {
       "name": "Black Agenda Report",
       "count": 1,
       "first": "2024-09-25",
@@ -1200,12 +1194,6 @@
       "count": 1,
       "first": "2026-09-18",
       "last": "2026-09-18"
-    },
-    {
-      "name": "dailypost.ng",
-      "count": 1,
-      "first": "2023-09-04",
-      "last": "2023-09-04"
     },
     {
       "name": "dw.com",
@@ -1272,6 +1260,12 @@
       "count": 1,
       "first": "2026-08-28",
       "last": "2026-08-28"
+    },
+    {
+      "name": "icirnigeria.org",
+      "count": 1,
+      "first": "2026-02-03",
+      "last": "2026-02-03"
     },
     {
       "name": "impactpolicies.org",
@@ -1424,10 +1418,22 @@
       "last": "2024-03-19"
     },
     {
+      "name": "The ICIR",
+      "count": 1,
+      "first": "2023-10-01",
+      "last": "2023-10-01"
+    },
+    {
       "name": "theeagleonline.com.ng",
       "count": 1,
       "first": "2026-06-08",
       "last": "2026-06-08"
+    },
+    {
+      "name": "thenationonlineng.net",
+      "count": 1,
+      "first": "2026-02-02",
+      "last": "2026-02-02"
     },
     {
       "name": "TheNiche",
@@ -1464,12 +1470,6 @@
       "count": 1,
       "first": "2012-04-15",
       "last": "2012-04-15"
-    },
-    {
-      "name": "voanews.com",
-      "count": 1,
-      "first": "2023-09-26",
-      "last": "2023-09-26"
     }
   ],
   "firstDate": "2009-10-30",
