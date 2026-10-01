@@ -83,7 +83,7 @@
     },
     {
       "start": "2016-07-01",
-      "count": 5
+      "count": 6
     },
     {
       "start": "2016-08-01",
@@ -559,7 +559,7 @@
     },
     {
       "start": "2026-06-01",
-      "count": 6
+      "count": 7
     },
     {
       "start": "2026-07-01",
@@ -571,7 +571,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 18
+      "count": 17
     }
   ],
   "sources": [
@@ -588,7 +588,7 @@
       "last": "2026-09-25"
     },
     {
-      "name": "dw.com",
+      "name": "DW.com",
       "count": 10,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -630,7 +630,7 @@
       "last": "2024-08-17"
     },
     {
-      "name": "SoyChile.cl",
+      "name": "soychile.cl",
       "count": 6,
       "first": "2016-08-10",
       "last": "2019-03-31"
@@ -669,7 +669,7 @@
       "name": "Diario Junio",
       "count": 4,
       "first": "2026-04-20",
-      "last": "2026-09-23"
+      "last": "2026-07-15"
     },
     {
       "name": "El Desconcierto",
@@ -730,6 +730,12 @@
       "count": 3,
       "first": "2019-10-23",
       "last": "2020-10-16"
+    },
+    {
+      "name": "The Guardian",
+      "count": 3,
+      "first": "2016-08-21",
+      "last": "2019-10-30"
     },
     {
       "name": "The New York Times",
@@ -798,6 +804,12 @@
       "last": "2021-05-24"
     },
     {
+      "name": "lared.cl",
+      "count": 2,
+      "first": "2016-07-26",
+      "last": "2016-10-12"
+    },
+    {
       "name": "Latino Rebels -",
       "count": 2,
       "first": "2019-10-28",
@@ -862,12 +874,6 @@
       "count": 2,
       "first": "2024-02-07",
       "last": "2025-11-29"
-    },
-    {
-      "name": "theguardian.com",
-      "count": 2,
-      "first": "2016-08-21",
-      "last": "2019-10-24"
     },
     {
       "name": "TN",
@@ -1140,7 +1146,7 @@
       "last": "2019-10-23"
     },
     {
-      "name": "G5noticias",
+      "name": "g5noticias.cl",
       "count": 1,
       "first": "2024-08-17",
       "last": "2024-08-17"
@@ -1254,12 +1260,6 @@
       "last": "2025-09-22"
     },
     {
-      "name": "lared.cl",
-      "count": 1,
-      "first": "2016-10-12",
-      "last": "2016-10-12"
-    },
-    {
       "name": "LatinAmerican Post",
       "count": 1,
       "first": "2019-11-28",
@@ -1272,7 +1272,7 @@
       "last": "2019-01-24"
     },
     {
-      "name": "malaespinacheck.cl",
+      "name": "Mala Espina",
       "count": 1,
       "first": "2024-12-27",
       "last": "2024-12-27"
@@ -1332,7 +1332,7 @@
       "last": "2017-12-22"
     },
     {
-      "name": "Noticias SIN",
+      "name": "noticiassin.com",
       "count": 1,
       "first": "2026-08-06",
       "last": "2026-08-06"
@@ -1492,12 +1492,6 @@
       "count": 1,
       "first": "2019-11-11",
       "last": "2019-11-11"
-    },
-    {
-      "name": "The Guardian",
-      "count": 1,
-      "first": "2019-10-30",
-      "last": "2019-10-30"
     },
     {
       "name": "The Independent",
