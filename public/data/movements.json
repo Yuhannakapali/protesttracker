@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-10-02T04:13:00.644Z",
+  "lastUpdated": "2026-10-02T11:56:26.238Z",
   "movements": [
     {
       "id": "india-cjp",
       "name": "Cockroach Janta Party / NEET Protests",
-      "status": "Active",
+      "status": "Escalating",
       "active": true,
       "region": "Asia",
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 1558,
-      "updated": "4h ago",
+      "articleCount": 1631,
+      "updated": "12h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
         {
-          "title": "CJP Protest Live Updates: 'Abhijeet Dipke hasn't been detained', says co-convener Ashutosh Ranka; 11 Delhi Metro stations shut",
-          "source": "The Times of India",
+          "title": "India's 'cockroach' youth party, student groups to protest, demand poll chief's resignation",
+          "source": "Reuters",
           "date": "2026-10-02"
         },
         {
-          "title": "CJP Protest LIVE Updates: Protests For CEC Gyanesh Kumar's Resignation In Delhi, Mumbai And Other Cities",
-          "source": "Outlook India",
+          "title": "CJP Protest Live Updates: Abhijeet Dipke launches 'Jail Bharo Andolan' at Mumbai's Shivaji Park; Naseeruddin Shah, Vishal Dadlani join stir",
+          "source": "timesofindia.indiatimes.com",
           "date": "2026-10-02"
         },
         {
-          "title": "CJP to launch nationwide protest, demands CEC Gyanesh Kumar's head",
-          "source": "Asianet Newsable",
+          "title": "CEC Gyanesh Kumar row: Was CJP's Abhijeet Dipke detained by Mumbai Police ahead of the protest?",
+          "source": "theweek.in",
           "date": "2026-10-02"
         }
       ]
@@ -41,7 +41,7 @@
       "year": 2026,
       "logged": "2026-07-15",
       "articleCount": 739,
-      "updated": "1d ago",
+      "updated": "2d ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
         {
@@ -64,16 +64,21 @@
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Quiet",
-      "active": false,
+      "status": "Active",
+      "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 344,
-      "updated": "1w ago",
+      "articleCount": 346,
+      "updated": "12h ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
+        {
+          "title": "El arquitecto del imperio automotriz chino cae ante la guillotina penal de Beijing",
+          "source": "The Clinic",
+          "date": "2026-10-02"
+        },
         {
           "title": "Día Nacional Sin Auto: gobernador Orrego presiona al Gobierno para que reanude obras de la ciclovía Eje Alameda-Providencia",
           "source": "Radio Universidad de Chile",
@@ -81,11 +86,6 @@
         },
         {
           "title": "¿Quién es Patricio Montero? El nuevo jefe de Seguridad de los Estadios que enfrenta su primer desafío tras los incidentes en Sausalito",
-          "source": "The Clinic",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "Las opciones que abrió Pablo Milad para resolver la llave entre Everton y la U tras la suspensión del partido en Sausalito",
           "source": "The Clinic",
           "date": "2026-09-25"
         }
@@ -101,7 +101,7 @@
       "year": 2024,
       "logged": "2024-06-10",
       "articleCount": 481,
-      "updated": "3d ago",
+      "updated": "4d ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
         {
