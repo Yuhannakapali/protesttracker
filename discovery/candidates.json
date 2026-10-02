@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T10:08:57.206Z",
+  "generated": "2026-10-02T09:50:02.425Z",
   "candidates": [
     {
       "key": "wd-Q133822045",
@@ -74,43 +74,6 @@
         "_source": {
           "wikidata": "Q133830781",
           "wikipedia": "https://en.wikipedia.org/wiki/Tour_de_Strasbourg"
-        }
-      }
-    },
-    {
-      "key": "wd-Q134293546",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Nepal",
-      "countries": [
-        "Nepal"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Nepal_Teachers%27_Protest",
-      "needsName": false,
-      "suggested": {
-        "id": "nepal-nepal-teachers-protest",
-        "name": "2025 Nepal Teachers Protest",
-        "region": "Asia",
-        "location": "Nepal",
-        "year": 2025,
-        "description": "protest movement by Nepali teachers in 2025 against the proposed education bill",
-        "keywords": [
-          "nepal",
-          "teachers",
-          "protest"
-        ],
-        "strictKeywords": [
-          "nepal",
-          "teachers"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Nepal%20Teachers%20Protest&hl=en-NP&gl=NP&ceid=NP%3Aen",
-          "https://news.google.com/rss/search?q=Nepal%20protest&hl=en-NP&gl=NP&ceid=NP%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q134293546",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Nepal_Teachers%27_Protest"
         }
       }
     },
@@ -1633,8 +1596,8 @@
       "country": "Bulgaria",
       "countries": [
         "Bulgaria",
-        "Czech Republic",
         "Germany",
+        "Czech Republic",
         "United Kingdom",
         "Netherlands",
         "Austria",
@@ -2622,92 +2585,6 @@
       }
     },
     {
-      "key": "gd-nigeria:cup-dtigress-fiba",
-      "source": "gdelt",
-      "confidence": "low",
-      "country": "Nigeria",
-      "countries": [
-        "Nigeria"
-      ],
-      "domains": [
-        "dailypost.ng",
-        "premiumtimesng.com",
-        "theeagleonline.com.ng",
-        "promptnewsonline.com",
-        "nigeriasun.com"
-      ],
-      "daysSeen": 3,
-      "articleCount": 5,
-      "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-11",
-      "samples": [
-        {
-          "title": "2026 FIBA Women World Cup : DTigress lose to Hungary",
-          "url": "https://dailypost.ng/2026/09/05/2026-fiba-womens-world-cup-dtigress-lose-to-hungary/",
-          "domain": "dailypost.ng",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "DTigress suffer second straight World Cup defeat against Hungary",
-          "url": "https://www.premiumtimesng.com/news/top-news/907628-dtigress-suffer-second-straight-world-cup-defeat-against-hungary.html",
-          "domain": "premiumtimesng.com",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "Real Betis stun Real Madrid as PSG suffer home defeat",
-          "url": "https://theeagleonline.com.ng/real-betis-stun-real-madrid-as-psg-suffer-home-defeat/",
-          "domain": "theeagleonline.com.ng",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "2026 FIBA WWC : South Korea sink DTigress in opening clash",
-          "url": "https://promptnewsonline.com/2026-fiba-wwc-south-korea-sink-dtigress-in-opening-clash/",
-          "domain": "promptnewsonline.com",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "FIFA denies claim that Morocco will host 2030 World Cup final",
-          "url": "http://www.nigeriasun.com/news/279299573/fifa-denies-claim-that-morocco-will-host-2030-world-cup-final",
-          "domain": "nigeriasun.com",
-          "date": "2026-09-11"
-        }
-      ],
-      "needsName": true,
-      "suggested": {
-        "id": "nigeria-fiba-women-world-cup-dtigress",
-        "name": "2026 FIBA Women World Cup DTigress",
-        "region": "Africa",
-        "location": "Nigeria",
-        "year": 2026,
-        "description": "",
-        "keywords": [
-          "fiba",
-          "women",
-          "world",
-          "cup",
-          "dtigress",
-          "nigeria",
-          "protest"
-        ],
-        "strictKeywords": [
-          "fiba",
-          "women",
-          "world",
-          "cup",
-          "dtigress"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20FIBA%20Women%20World%20Cup%20DTigress&hl=en-NG&gl=NG&ceid=NG%3Aen",
-          "https://news.google.com/rss/search?q=Nigeria%20protest&hl=en-NG&gl=NG&ceid=NG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "nigeria:cup-dtigress-fiba",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
       "key": "gd-nigeria:donates-evacuate-latest",
       "source": "gdelt",
       "confidence": "low",
@@ -3330,12 +3207,13 @@
         "htxt.co.za",
         "ewn.co.za",
         "sanews.gov.za",
-        "dailymaverick.co.za"
+        "dailymaverick.co.za",
+        "bizcommunity.africa"
       ],
-      "daysSeen": 6,
-      "articleCount": 8,
+      "daysSeen": 7,
+      "articleCount": 9,
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-28",
       "samples": [
         {
           "title": "POLL | Was the backlash over Airlink flyover at Cape Town Stadium fair ?",
@@ -3422,12 +3300,15 @@
         "africa.com",
         "roadsafety.co.za",
         "sanews.gov.za",
-        "businessday.co.za"
+        "businessday.co.za",
+        "cnbcafrica.com",
+        "mg.co.za",
+        "sundayworld.co.za"
       ],
-      "daysSeen": 9,
-      "articleCount": 13,
+      "daysSeen": 13,
+      "articleCount": 17,
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-10-02",
       "samples": [
         {
           "title": "When is the next public holiday in South Africa ?",
@@ -3504,12 +3385,13 @@
       "domains": [
         "channelafrica.co.za",
         "citizen.co.za",
-        "enca.com"
+        "enca.com",
+        "thesouthafrican.com"
       ],
-      "daysSeen": 3,
-      "articleCount": 4,
+      "daysSeen": 4,
+      "articleCount": 5,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-21",
+      "lastSeen": "2026-10-01",
       "samples": [
         {
           "title": "SA power producer completes winter without load - shedding as generation improves – Channel Africa",
@@ -3534,6 +3416,12 @@
           "url": "https://www.enca.com/news-top-stories/load-reduction-eradication-programme-yielding-success-eskom",
           "domain": "enca.com",
           "date": "2026-09-21"
+        },
+        {
+          "title": "Electricity Minister makes BIG six - month load reduction promise",
+          "url": "https://www.thesouthafrican.com/news/electricity-minister-makes-big-six-month-load-reduction-promise-to-south-africa/",
+          "domain": "thesouthafrican.com",
+          "date": "2026-10-01"
         }
       ],
       "needsName": true,
@@ -3585,10 +3473,10 @@
         "news24.com",
         "timeslive.co.za"
       ],
-      "daysSeen": 3,
-      "articleCount": 4,
+      "daysSeen": 4,
+      "articleCount": 5,
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-30",
       "samples": [
         {
           "title": "US launches new strikes on Iran and Tehran hits back in widening conflict",
@@ -3613,6 +3501,12 @@
           "url": "https://www.timeslive.co.za/news/world/2026-09-20-ukraine-launches-biggest-moscow-drone-attack-as-russia-votes/",
           "domain": "timeslive.co.za",
           "date": "2026-09-20"
+        },
+        {
+          "title": "Russia hits Ukraine energy grid in heavy winter attack",
+          "url": "https://www.businessday.co.za/world/2026-09-30-russia-hits-ukraines-energy-grid-in-heavy-winter-attack/",
+          "domain": "businessday.co.za",
+          "date": "2026-09-30"
         }
       ],
       "needsName": true,
@@ -4354,6 +4248,90 @@
       }
     },
     {
+      "key": "gd-kenya:amisi-caleb-hanged",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "Kenya",
+      "countries": [
+        "Kenya"
+      ],
+      "domains": [
+        "the-star.co.ke",
+        "standardmedia.co.ke",
+        "kenyan-post.com"
+      ],
+      "daysSeen": 5,
+      "articleCount": 5,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-27",
+      "samples": [
+        {
+          "title": "Caleb Amisi : Opposition must unite or  be hanged separately",
+          "url": "https://www.the-star.co.ke/news/2026-09-10-amisi-opposition-must-unite-or-be-hanged-separately",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Nyoro : End opposition infighting , unite against Ruto",
+          "url": "https://www.the-star.co.ke/news/2026-09-06-nyoro-to-opposition-end-infighting-unite",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Nyoro urges opposition to unite , pick one presidential candidate",
+          "url": "https://www.standardmedia.co.ke/politics/article/2001557190/nyoro-urges-opposition-to-unite-pick-one-presidential-candidate",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Caleb Amisi urges opposition unity , pleads with Kalonzo to back Sifuna",
+          "url": "https://www.standardmedia.co.ke/politics/article/2001557617/caleb-amisi-urges-opposition-unity-pleads-with-kalonzo-to-back-sifuna",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "GACHAGUA predicts a senior opposition leader will join RUTO before 2027 elections , challenges KALONZO and MATIANGI ( VIDEO )",
+          "url": "https://www.kenyan-post.com/2026/09/gachagua-predicts-senior-opposition.html",
+          "domain": "kenyan-post.com",
+          "date": "2026-09-27"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "kenya-caleb-amisi-opposition-must-unite-or",
+        "name": "Caleb Amisi Opposition must unite or",
+        "region": "Africa",
+        "location": "Kenya",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "caleb",
+          "amisi",
+          "opposition",
+          "must",
+          "unite",
+          "kenya",
+          "protest"
+        ],
+        "strictKeywords": [
+          "caleb",
+          "amisi",
+          "opposition",
+          "must",
+          "unite"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Caleb%20Amisi%20Opposition%20must%20unite%20or&hl=en-KE&gl=KE&ceid=KE%3Aen",
+          "https://news.google.com/rss/search?q=Kenya%20protest&hl=en-KE&gl=KE&ceid=KE%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "kenya:amisi-caleb-hanged",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
       "key": "gd-kenya:aladwa-denies-disrupt",
       "source": "gdelt",
       "confidence": "low",
@@ -4364,12 +4342,13 @@
       "domains": [
         "the-star.co.ke",
         "ghettoradio.co.ke",
-        "ghafla.co.ke"
+        "ghafla.co.ke",
+        "standardmedia.co.ke"
       ],
-      "daysSeen": 5,
-      "articleCount": 8,
+      "daysSeen": 7,
+      "articleCount": 10,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-10-01",
       "samples": [
         {
           "title": "Aladwa denies plot to disrupt Linda Mwananchi Nairobi rally on Sunday",
@@ -4438,6 +4417,88 @@
       }
     },
     {
+      "key": "gd-kenya:ameir-buried-hafidh",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "Kenya",
+      "countries": [
+        "Kenya"
+      ],
+      "domains": [
+        "the-star.co.ke",
+        "standardmedia.co.ke",
+        "president.go.ke"
+      ],
+      "daysSeen": 3,
+      "articleCount": 5,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-10-01",
+      "samples": [
+        {
+          "title": "Suluhu husband Hafidh Ameir to be buried today in Kizimkazi , Zanzibar",
+          "url": "https://www.the-star.co.ke/news/2026-09-07-suluhus-husband-to-be-buried-today-in-zanzibar",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Ida Odinga to Suluhu : Pole , I understand pain of losing husband",
+          "url": "https://www.the-star.co.ke/news/2026-09-07-ida-to-suluhu-pole-i-know-the-pain-of-losing-husband",
+          "domain": "the-star.co.ke",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "President Ruto leads Kenyans in mourning Hafidh Ameir",
+          "url": "https://www.standardmedia.co.ke/africa/article/2001557199/president-ruto-leads-kenyans-in-mourning-hafidh-ameir",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "PRESIDENT RUTO ANNOUNCES $2 . 9 BILLION INVESTMENT BY 20 INVESTORS IN KENYA",
+          "url": "http://www.president.go.ke/president-ruto-announces-2-9-billion-investment-by-20-investors-in-kenya/",
+          "domain": "president.go.ke",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "CRIMINALS DISGUISED AS PROTESTERS WILL BE HELD ACCOUNTABLE , PRESIDENT RUTO",
+          "url": "https://www.president.go.ke/criminals-disguised-as-protesters-will-be-held-accountable-president-ruto/",
+          "domain": "president.go.ke",
+          "date": "2026-10-01"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "kenya-suluhu-husband-hafidh-ameir-to-be",
+        "name": "Suluhu husband Hafidh Ameir to be",
+        "region": "Africa",
+        "location": "Kenya",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "suluhu",
+          "husband",
+          "hafidh",
+          "ameir",
+          "kenya",
+          "protest"
+        ],
+        "strictKeywords": [
+          "suluhu",
+          "husband",
+          "hafidh",
+          "ameir"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Suluhu%20husband%20Hafidh%20Ameir%20to%20be&hl=en-KE&gl=KE&ceid=KE%3Aen",
+          "https://news.google.com/rss/search?q=Kenya%20protest&hl=en-KE&gl=KE&ceid=KE%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "kenya:ameir-buried-hafidh",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
       "key": "gd-south-africa:attack-cities-expands",
       "source": "gdelt",
       "confidence": "low",
@@ -4448,12 +4509,14 @@
       "domains": [
         "dailymaverick.co.za",
         "businessday.co.za",
-        "jacarandafm.com"
+        "jacarandafm.com",
+        "channelafrica.co.za",
+        "thesouthafrican.com"
       ],
-      "daysSeen": 3,
-      "articleCount": 3,
+      "daysSeen": 5,
+      "articleCount": 5,
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-30",
       "samples": [
         {
           "title": "War expands as Houthis attack Saudi cities and US strikes Iranian tankers",
@@ -4472,6 +4535,18 @@
           "url": "https://www.jacarandafm.com/news/news/us-fears-rapid-escalation-in-mideast-houthis-attack/",
           "domain": "jacarandafm.com",
           "date": "2026-09-20"
+        },
+        {
+          "title": "Middle East conflict cuts Seychelles growth forecast to 1 % – Channel Africa",
+          "url": "https://www.channelafrica.co.za/channelafrica/news/middle-east-conflict-cuts-seychelles-growth-forecast-to-1/",
+          "domain": "channelafrica.co.za",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Middle East travel alert South Africa : Check before you fly",
+          "url": "https://www.thesouthafrican.com/news/international-travel/middle-east-travel-warnings-remain-in-force-as-key-aviation-bulletins-near-expiry/",
+          "domain": "thesouthafrican.com",
+          "date": "2026-09-29"
         }
       ],
       "needsName": true,
@@ -4577,6 +4652,74 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "south-africa:flare-grip-hormuz",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-south-africa:climate-finance-gets",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "South Africa",
+      "countries": [
+        "South Africa"
+      ],
+      "domains": [
+        "timeslive.co.za",
+        "groundup.org.za",
+        "dailymaverick.co.za"
+      ],
+      "daysSeen": 3,
+      "articleCount": 3,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-28",
+      "samples": [
+        {
+          "title": "Africa gets only 23 % of the climate finance it needs – and pays too much for it",
+          "url": "https://www.timeslive.co.za/news/africa/2026-09-06-africa-gets-only-23-of-the-climate-finance-it-needs-and-pays-too-much-for-it/",
+          "domain": "timeslive.co.za",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Elections 2026 : This town only gets water for an hour a day",
+          "url": "https://groundup.org.za/article/residents-only-get-water-for-an-hour-in-this-town/",
+          "domain": "groundup.org.za",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "Elections 2026 : How this North West town went from boom to bust",
+          "url": "https://www.dailymaverick.co.za/article/2026-09-28-elections-2026-how-this-north-west-town-went-from-boom-to-bust/",
+          "domain": "dailymaverick.co.za",
+          "date": "2026-09-28"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "south-africa-africa-gets-only-23-of",
+        "name": "Africa gets only 23 % of",
+        "region": "Africa",
+        "location": "South Africa",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "africa",
+          "gets",
+          "only",
+          "south africa",
+          "protest"
+        ],
+        "strictKeywords": [
+          "africa",
+          "gets",
+          "only"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Africa%20gets%20only%2023%20%25%20of&hl=en-ZA&gl=ZA&ceid=ZA%3Aen",
+          "https://news.google.com/rss/search?q=South%20Africa%20protest&hl=en-ZA&gl=ZA&ceid=ZA%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "south-africa:climate-finance-gets",
           "wikipedia": ""
         }
       }
@@ -5285,89 +5428,6 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "nigeria:acceptable-convoy-keyamo",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
-      "key": "gd-nigeria:candidate-distance-governorship",
-      "source": "gdelt",
-      "confidence": "low",
-      "country": "Nigeria",
-      "countries": [
-        "Nigeria"
-      ],
-      "domains": [
-        "thenationonlineng.net",
-        "tribuneonlineng.com",
-        "leadership.ng",
-        "punchng.com"
-      ],
-      "daysSeen": 3,
-      "articleCount": 6,
-      "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
-      "samples": [
-        {
-          "title": "Ex - Kogi SDP governorship candidate distance self from protest against INEC",
-          "url": "https://thenationonlineng.net/ex-kogi-sdp-governorship-candidate-distance-self-from-protest-against-inec/",
-          "domain": "thenationonlineng.net",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "Ajaka distances self from sponsored protest against INEC",
-          "url": "https://tribuneonlineng.com/ajaka-distances-self-from-sponsored-protest-against-inec/",
-          "domain": "tribuneonlineng.com",
-          "date": "2026-09-09"
-        },
-        {
-          "title": "Ajaka Denies Sponsoring INEC Protest , Warns Against False Attribution",
-          "url": "https://leadership.ng/ajaka-denies-sponsoring-inec-protest-warns-against-false-attribution/",
-          "domain": "leadership.ng",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "Murtala Ajaka denies involvement in protest against INEC",
-          "url": "https://punchng.com/ex-kogi-sdp-gov-candidate-ajaka-denies-involvement-in-protest-against-inec/",
-          "domain": "punchng.com",
-          "date": "2026-09-09"
-        },
-        {
-          "title": "Kogi group tackles Ajaka over INEC protest claim",
-          "url": "https://tribuneonlineng.com/kogi-group-tackles-ajaka-over-inec-protest-claim/",
-          "domain": "tribuneonlineng.com",
-          "date": "2026-09-11"
-        }
-      ],
-      "needsName": true,
-      "suggested": {
-        "id": "nigeria-ex-kogi-sdp-governorship-candidate",
-        "name": "Ex - Kogi SDP governorship candidate",
-        "region": "Africa",
-        "location": "Nigeria",
-        "year": 2026,
-        "description": "",
-        "keywords": [
-          "kogi",
-          "sdp",
-          "governorship",
-          "candidate",
-          "nigeria",
-          "protest"
-        ],
-        "strictKeywords": [
-          "kogi",
-          "sdp",
-          "governorship",
-          "candidate"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Ex%20-%20Kogi%20SDP%20governorship%20candidate&hl=en-NG&gl=NG&ceid=NG%3Aen",
-          "https://news.google.com/rss/search?q=Nigeria%20protest&hl=en-NG&gl=NG&ceid=NG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "nigeria:candidate-distance-governorship",
           "wikipedia": ""
         }
       }
