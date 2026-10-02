@@ -783,7 +783,7 @@
     },
     {
       "start": "2026-01-01",
-      "count": 35
+      "count": 36
     },
     {
       "start": "2026-02-01",
@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 11
+      "count": 12
     }
   ],
   "sources": [
@@ -849,7 +849,7 @@
     },
     {
       "name": "Vanguard News",
-      "count": 43,
+      "count": 44,
       "first": "2012-03-08",
       "last": "2026-09-26"
     },
@@ -873,13 +873,13 @@
     },
     {
       "name": "Ripples Nigeria",
-      "count": 22,
+      "count": 23,
       "first": "2023-06-01",
-      "last": "2026-09-29"
+      "last": "2026-10-02"
     },
     {
       "name": "Business News Nigeria",
-      "count": 18,
+      "count": 19,
       "first": "2022-01-21",
       "last": "2026-07-28"
     },
@@ -986,12 +986,6 @@
       "last": "2026-06-03"
     },
     {
-      "name": "vanguardngr.com",
-      "count": 6,
-      "first": "2020-07-16",
-      "last": "2025-10-22"
-    },
-    {
       "name": "CNN",
       "count": 5,
       "first": "2012-01-03",
@@ -1002,6 +996,12 @@
       "count": 5,
       "first": "2012-01-10",
       "last": "2026-05-19"
+    },
+    {
+      "name": "vanguardngr.com",
+      "count": 5,
+      "first": "2020-07-16",
+      "last": "2025-10-22"
     },
     {
       "name": "allAfrica.com",
@@ -1455,5 +1455,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-01"
+  "lastDate": "2026-10-02"
 }
