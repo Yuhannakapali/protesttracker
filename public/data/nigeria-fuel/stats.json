@@ -825,9 +825,15 @@
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 84,
+      "count": 93,
       "first": "2012-01-05",
       "last": "2026-10-02"
+    },
+    {
+      "name": "The Guardian Nigeria News",
+      "count": 55,
+      "first": "2015-10-02",
+      "last": "2026-10-01"
     },
     {
       "name": "Vanguard",
@@ -858,18 +864,6 @@
       "count": 35,
       "first": "2018-09-26",
       "last": "2025-12-17"
-    },
-    {
-      "name": "The Guardian Nigeria News",
-      "count": 34,
-      "first": "2015-10-02",
-      "last": "2026-01-27"
-    },
-    {
-      "name": "The Guardian",
-      "count": 29,
-      "first": "2012-01-03",
-      "last": "2026-10-01"
     },
     {
       "name": "Punch Newspapers",
@@ -926,18 +920,6 @@
       "last": "2024-08-02"
     },
     {
-      "name": "dailypost.ng",
-      "count": 12,
-      "first": "2012-02-05",
-      "last": "2026-09-25"
-    },
-    {
-      "name": "The Whistler Newspaper",
-      "count": 12,
-      "first": "2020-09-04",
-      "last": "2026-09-27"
-    },
-    {
       "name": "THISDAYLIVE",
       "count": 12,
       "first": "2023-01-26",
@@ -962,16 +944,34 @@
       "last": "2026-01-29"
     },
     {
+      "name": "The Guardian",
+      "count": 8,
+      "first": "2012-01-03",
+      "last": "2026-01-26"
+    },
+    {
       "name": "Nigeria Labour Congress (NLC)",
       "count": 7,
       "first": "2023-03-30",
       "last": "2026-06-03"
     },
     {
+      "name": "The Whistler Newspaper",
+      "count": 7,
+      "first": "2020-09-04",
+      "last": "2026-04-28"
+    },
+    {
       "name": "TVC News",
       "count": 7,
       "first": "2022-01-31",
       "last": "2026-06-03"
+    },
+    {
+      "name": "VOA - Voice of America English News",
+      "count": 7,
+      "first": "2009-10-30",
+      "last": "2024-08-08"
     },
     {
       "name": "Sahara Reporters",
@@ -986,12 +986,6 @@
       "last": "2026-06-03"
     },
     {
-      "name": "VOA - Voice of America English News",
-      "count": 6,
-      "first": "2009-10-30",
-      "last": "2024-08-08"
-    },
-    {
       "name": "CNN",
       "count": 5,
       "first": "2012-01-03",
@@ -1002,6 +996,12 @@
       "count": 5,
       "first": "2012-01-10",
       "last": "2026-05-19"
+    },
+    {
+      "name": "thewhistler.ng",
+      "count": 5,
+      "first": "2024-09-04",
+      "last": "2026-09-27"
     },
     {
       "name": "vanguardngr.com",
@@ -1038,6 +1038,12 @@
       "count": 4,
       "first": "2012-01-13",
       "last": "2026-09-11"
+    },
+    {
+      "name": "dailypost.ng",
+      "count": 3,
+      "first": "2023-09-04",
+      "last": "2024-11-05"
     },
     {
       "name": "Peoples Gazette Nigeria",
@@ -1358,7 +1364,7 @@
       "last": "2026-09-14"
     },
     {
-      "name": "Pointblank News",
+      "name": "pointblanknews.com",
       "count": 1,
       "first": "2026-09-15",
       "last": "2026-09-15"
@@ -1452,12 +1458,6 @@
       "count": 1,
       "first": "2012-04-15",
       "last": "2012-04-15"
-    },
-    {
-      "name": "voanews.com",
-      "count": 1,
-      "first": "2023-09-26",
-      "last": "2023-09-26"
     }
   ],
   "firstDate": "2009-10-30",
