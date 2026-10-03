@@ -819,15 +819,15 @@
     },
     {
       "start": "2026-10-01",
-      "count": 14
+      "count": 16
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 92,
+      "count": 95,
       "first": "2012-01-05",
-      "last": "2026-10-02"
+      "last": "2026-10-03"
     },
     {
       "name": "The Guardian Nigeria News",
@@ -903,7 +903,7 @@
     },
     {
       "name": "The Sun Nigeria",
-      "count": 15,
+      "count": 14,
       "first": "2022-11-30",
       "last": "2026-08-14"
     },
@@ -1064,10 +1064,10 @@
       "last": "2021-03-12"
     },
     {
-      "name": "fij.ng",
+      "name": "Foundation for Investigative Journalism (FIJ)",
       "count": 2,
-      "first": "2024-09-05",
-      "last": "2024-11-11"
+      "first": "2024-09-04",
+      "last": "2024-09-05"
     },
     {
       "name": "legit.ng",
@@ -1098,6 +1098,12 @@
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
+    },
+    {
+      "name": "The ICIR",
+      "count": 2,
+      "first": "2023-10-01",
+      "last": "2026-02-03"
     },
     {
       "name": "TRT Afrika",
@@ -1208,16 +1214,16 @@
       "last": "2023-08-02"
     },
     {
+      "name": "fij.ng",
+      "count": 1,
+      "first": "2024-11-11",
+      "last": "2024-11-11"
+    },
+    {
       "name": "Firstpost",
       "count": 1,
       "first": "2024-02-15",
       "last": "2024-02-15"
-    },
-    {
-      "name": "Foundation for Investigative Journalism (FIJ)",
-      "count": 1,
-      "first": "2024-09-04",
-      "last": "2024-09-04"
     },
     {
       "name": "France 24",
@@ -1260,12 +1266,6 @@
       "count": 1,
       "first": "2026-08-28",
       "last": "2026-08-28"
-    },
-    {
-      "name": "icirnigeria.org",
-      "count": 1,
-      "first": "2026-02-03",
-      "last": "2026-02-03"
     },
     {
       "name": "impactpolicies.org",
@@ -1322,7 +1322,7 @@
       "last": "2024-11-05"
     },
     {
-      "name": "Meer | English edition",
+      "name": "meer.com",
       "count": 1,
       "first": "2025-07-27",
       "last": "2025-07-27"
@@ -1370,7 +1370,7 @@
       "last": "2026-09-14"
     },
     {
-      "name": "Pointblank News",
+      "name": "pointblanknews.com",
       "count": 1,
       "first": "2026-09-15",
       "last": "2026-09-15"
@@ -1416,12 +1416,6 @@
       "count": 1,
       "first": "2024-03-19",
       "last": "2024-03-19"
-    },
-    {
-      "name": "The ICIR",
-      "count": 1,
-      "first": "2023-10-01",
-      "last": "2023-10-01"
     },
     {
       "name": "theeagleonline.com.ng",
@@ -1479,5 +1473,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-02"
+  "lastDate": "2026-10-03"
 }
