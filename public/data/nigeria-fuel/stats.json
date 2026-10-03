@@ -667,7 +667,7 @@
     },
     {
       "start": "2023-08-01",
-      "count": 22
+      "count": 24
     },
     {
       "start": "2023-09-01",
@@ -825,7 +825,7 @@
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 93,
+      "count": 92,
       "first": "2012-01-05",
       "last": "2026-10-02"
     },
@@ -854,16 +854,16 @@
       "last": "2026-09-26"
     },
     {
+      "name": "Premium Times Nigeria",
+      "count": 37,
+      "first": "2013-04-18",
+      "last": "2026-09-30"
+    },
+    {
       "name": "BBC",
       "count": 35,
       "first": "2018-09-26",
       "last": "2025-12-17"
-    },
-    {
-      "name": "Premium Times Nigeria",
-      "count": 32,
-      "first": "2013-04-18",
-      "last": "2026-02-02"
     },
     {
       "name": "Punch Newspapers",
@@ -896,8 +896,14 @@
       "last": "2026-09-16"
     },
     {
+      "name": "Arise News",
+      "count": 15,
+      "first": "2023-06-02",
+      "last": "2026-06-04"
+    },
+    {
       "name": "The Sun Nigeria",
-      "count": 14,
+      "count": 15,
       "first": "2022-11-30",
       "last": "2026-08-14"
     },
@@ -932,12 +938,6 @@
       "last": "2026-10-01"
     },
     {
-      "name": "Arise News",
-      "count": 9,
-      "first": "2023-06-02",
-      "last": "2026-02-13"
-    },
-    {
       "name": "Tribune Online",
       "count": 9,
       "first": "2021-12-17",
@@ -948,12 +948,6 @@
       "count": 8,
       "first": "2023-01-30",
       "last": "2026-01-29"
-    },
-    {
-      "name": "premiumtimesng.com",
-      "count": 8,
-      "first": "2021-12-18",
-      "last": "2026-09-30"
     },
     {
       "name": "The Guardian",
@@ -978,12 +972,6 @@
       "count": 7,
       "first": "2009-10-30",
       "last": "2024-08-08"
-    },
-    {
-      "name": "arise.tv",
-      "count": 6,
-      "first": "2023-06-19",
-      "last": "2026-06-04"
     },
     {
       "name": "Sahara Reporters",
@@ -1040,28 +1028,28 @@
       "last": "2026-01-26"
     },
     {
-      "name": "Nigerian Voice",
-      "count": 4,
-      "first": "2012-01-13",
-      "last": "2026-09-11"
-    },
-    {
       "name": "dailypost.ng",
       "count": 3,
       "first": "2023-09-04",
       "last": "2024-11-05"
     },
     {
-      "name": "fij.ng",
+      "name": "Nigerian Voice",
       "count": 3,
-      "first": "2024-09-04",
-      "last": "2024-11-11"
+      "first": "2012-01-13",
+      "last": "2026-09-11"
     },
     {
       "name": "Peoples Gazette Nigeria",
       "count": 3,
       "first": "2024-10-09",
       "last": "2026-05-18"
+    },
+    {
+      "name": "premiumtimesng.com",
+      "count": 3,
+      "first": "2024-06-03",
+      "last": "2024-06-03"
     },
     {
       "name": "VOA Africa",
@@ -1074,6 +1062,12 @@
       "count": 2,
       "first": "2016-05-18",
       "last": "2021-03-12"
+    },
+    {
+      "name": "fij.ng",
+      "count": 2,
+      "first": "2024-09-05",
+      "last": "2024-11-11"
     },
     {
       "name": "legit.ng",
@@ -1104,12 +1098,6 @@
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
-    },
-    {
-      "name": "The ICIR",
-      "count": 2,
-      "first": "2023-10-01",
-      "last": "2026-02-03"
     },
     {
       "name": "TRT Afrika",
@@ -1196,6 +1184,12 @@
       "last": "2026-09-18"
     },
     {
+      "name": "DAILY TIMES Nigeria",
+      "count": 1,
+      "first": "2023-08-14",
+      "last": "2023-08-14"
+    },
+    {
       "name": "dw.com",
       "count": 1,
       "first": "2022-01-25",
@@ -1208,10 +1202,22 @@
       "last": "2024-07-24"
     },
     {
+      "name": "facebook.com",
+      "count": 1,
+      "first": "2023-08-02",
+      "last": "2023-08-02"
+    },
+    {
       "name": "Firstpost",
       "count": 1,
       "first": "2024-02-15",
       "last": "2024-02-15"
+    },
+    {
+      "name": "Foundation for Investigative Journalism (FIJ)",
+      "count": 1,
+      "first": "2024-09-04",
+      "last": "2024-09-04"
     },
     {
       "name": "France 24",
@@ -1256,6 +1262,12 @@
       "last": "2026-08-28"
     },
     {
+      "name": "icirnigeria.org",
+      "count": 1,
+      "first": "2026-02-03",
+      "last": "2026-02-03"
+    },
+    {
       "name": "impactpolicies.org",
       "count": 1,
       "first": "2026-02-12",
@@ -1292,7 +1304,7 @@
       "last": "2012-01-09"
     },
     {
-      "name": "internationalsocialist.net",
+      "name": "International Socialist Alternative",
       "count": 1,
       "first": "2024-08-21",
       "last": "2024-08-21"
@@ -1310,7 +1322,7 @@
       "last": "2024-11-05"
     },
     {
-      "name": "meer.com",
+      "name": "Meer | English edition",
       "count": 1,
       "first": "2025-07-27",
       "last": "2025-07-27"
@@ -1340,16 +1352,16 @@
       "last": "2026-09-15"
     },
     {
-      "name": "ndr.org.ng",
-      "count": 1,
-      "first": "2026-09-17",
-      "last": "2026-09-17"
-    },
-    {
       "name": "New Telegraph",
       "count": 1,
       "first": "2024-09-05",
       "last": "2024-09-05"
+    },
+    {
+      "name": "Nigerian Democratic Report",
+      "count": 1,
+      "first": "2026-09-17",
+      "last": "2026-09-17"
     },
     {
       "name": "Parallel Facts News",
@@ -1406,6 +1418,12 @@
       "last": "2024-03-19"
     },
     {
+      "name": "The ICIR",
+      "count": 1,
+      "first": "2023-10-01",
+      "last": "2023-10-01"
+    },
+    {
       "name": "theeagleonline.com.ng",
       "count": 1,
       "first": "2026-06-08",
@@ -1418,10 +1436,16 @@
       "last": "2026-02-02"
     },
     {
-      "name": "thenicheng.com",
+      "name": "TheNiche",
       "count": 1,
       "first": "2020-09-11",
       "last": "2020-09-11"
+    },
+    {
+      "name": "thenigerianvoice.com",
+      "count": 1,
+      "first": "2021-12-18",
+      "last": "2021-12-18"
     },
     {
       "name": "thestreetjournal.org",
