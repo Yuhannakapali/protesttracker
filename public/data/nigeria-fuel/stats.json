@@ -825,15 +825,9 @@
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 94,
+      "count": 84,
       "first": "2012-01-05",
       "last": "2026-10-02"
-    },
-    {
-      "name": "The Guardian Nigeria News",
-      "count": 55,
-      "first": "2015-10-02",
-      "last": "2026-10-01"
     },
     {
       "name": "Vanguard",
@@ -866,6 +860,18 @@
       "last": "2025-12-17"
     },
     {
+      "name": "The Guardian Nigeria News",
+      "count": 34,
+      "first": "2015-10-02",
+      "last": "2026-01-27"
+    },
+    {
+      "name": "The Guardian",
+      "count": 29,
+      "first": "2012-01-03",
+      "last": "2026-10-01"
+    },
+    {
       "name": "Punch Newspapers",
       "count": 28,
       "first": "2020-09-04",
@@ -896,6 +902,12 @@
       "last": "2026-09-16"
     },
     {
+      "name": "Arise News",
+      "count": 15,
+      "first": "2023-06-02",
+      "last": "2026-06-04"
+    },
+    {
       "name": "The Sun Nigeria",
       "count": 14,
       "first": "2022-11-30",
@@ -912,6 +924,12 @@
       "count": 12,
       "first": "2012-01-04",
       "last": "2024-08-02"
+    },
+    {
+      "name": "dailypost.ng",
+      "count": 12,
+      "first": "2012-02-05",
+      "last": "2026-09-25"
     },
     {
       "name": "The Whistler Newspaper",
@@ -932,12 +950,6 @@
       "last": "2026-10-01"
     },
     {
-      "name": "Arise News",
-      "count": 9,
-      "first": "2023-06-02",
-      "last": "2026-02-13"
-    },
-    {
       "name": "Tribune Online",
       "count": 9,
       "first": "2021-12-17",
@@ -948,12 +960,6 @@
       "count": 8,
       "first": "2023-01-30",
       "last": "2026-01-29"
-    },
-    {
-      "name": "The Guardian",
-      "count": 8,
-      "first": "2012-01-03",
-      "last": "2026-01-26"
     },
     {
       "name": "Nigeria Labour Congress (NLC)",
@@ -968,18 +974,6 @@
       "last": "2026-06-03"
     },
     {
-      "name": "VOA - Voice of America English News",
-      "count": 7,
-      "first": "2009-10-30",
-      "last": "2024-08-08"
-    },
-    {
-      "name": "arise.tv",
-      "count": 6,
-      "first": "2023-06-19",
-      "last": "2026-06-04"
-    },
-    {
       "name": "Sahara Reporters",
       "count": 6,
       "first": "2020-09-10",
@@ -990,6 +984,12 @@
       "count": 6,
       "first": "2022-01-10",
       "last": "2026-06-03"
+    },
+    {
+      "name": "VOA - Voice of America English News",
+      "count": 6,
+      "first": "2009-10-30",
+      "last": "2024-08-08"
     },
     {
       "name": "CNN",
@@ -1062,12 +1062,6 @@
       "count": 2,
       "first": "2016-05-18",
       "last": "2021-03-12"
-    },
-    {
-      "name": "dailypost.ng",
-      "count": 2,
-      "first": "2023-09-04",
-      "last": "2024-11-05"
     },
     {
       "name": "Foundation for Investigative Journalism (FIJ)",
@@ -1458,6 +1452,12 @@
       "count": 1,
       "first": "2012-04-15",
       "last": "2012-04-15"
+    },
+    {
+      "name": "voanews.com",
+      "count": 1,
+      "first": "2023-09-26",
+      "last": "2023-09-26"
     }
   ],
   "firstDate": "2009-10-30",
