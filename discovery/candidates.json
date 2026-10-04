@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T09:14:04.735Z",
+  "generated": "2026-10-04T09:48:55.355Z",
   "candidates": [
     {
       "key": "wd-Q133822045",
@@ -1079,6 +1079,279 @@
       }
     },
     {
+      "key": "wd-Q137860199",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Uganda",
+      "countries": [
+        "Uganda"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Ugandan_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "uganda-ugandan-protests",
+        "name": "2026 Ugandan protests",
+        "region": "Africa",
+        "location": "Uganda",
+        "year": 2026,
+        "description": "public demonstrations following election fraud",
+        "keywords": [
+          "ugandan",
+          "uganda",
+          "protest"
+        ],
+        "strictKeywords": [
+          "ugandan"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Ugandan%20protests&hl=en-UG&gl=UG&ceid=UG%3Aen",
+          "https://news.google.com/rss/search?q=Uganda%20protest&hl=en-UG&gl=UG&ceid=UG%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q137860199",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Ugandan_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q138048080",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Philippines",
+      "countries": [
+        "Philippines"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Dupax_del_Norte_anti-mining_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "philippines-dupax-del-norte-anti-mining-protests",
+        "name": "Dupax del Norte anti-mining protests",
+        "region": "Asia",
+        "location": "Philippines",
+        "year": 2026,
+        "description": "series of protests from 2025 to 2026",
+        "keywords": [
+          "dupax",
+          "del",
+          "norte",
+          "anti",
+          "mining",
+          "philippines",
+          "protest"
+        ],
+        "strictKeywords": [
+          "dupax",
+          "del",
+          "norte",
+          "anti",
+          "mining"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Dupax%20del%20Norte%20anti-mining%20protests&hl=en-PH&gl=PH&ceid=PH%3Aen",
+          "https://news.google.com/rss/search?q=Philippines%20protest&hl=en-PH&gl=PH&ceid=PH%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q138048080",
+          "wikipedia": "https://en.wikipedia.org/wiki/Dupax_del_Norte_anti-mining_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q138497595",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Mexico",
+      "countries": [
+        "Mexico"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Mexico_cartel_unrest",
+      "needsName": false,
+      "suggested": {
+        "id": "mexico-mexico-cartel-unrest",
+        "name": "2026 Mexico cartel unrest",
+        "region": "Americas",
+        "location": "Mexico",
+        "year": 2026,
+        "description": "reaction to the killing of El Mencho",
+        "keywords": [
+          "mexico",
+          "cartel",
+          "protest"
+        ],
+        "strictKeywords": [
+          "mexico",
+          "cartel"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Mexico%20cartel%20unrest&hl=en-MX&gl=MX&ceid=MX%3Aen",
+          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q138497595",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Mexico_cartel_unrest"
+        }
+      }
+    },
+    {
+      "key": "wd-Q138514607",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United States",
+      "countries": [
+        "United States"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_the_2026_Iran_war_in_the_United_States",
+      "needsName": false,
+      "suggested": {
+        "id": "united-states-protests-against-the-iran-war-in-the-united-states",
+        "name": "protests against the 2026 Iran war in the United States",
+        "region": "Americas",
+        "location": "United States",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "iran",
+          "war",
+          "united",
+          "states",
+          "united states",
+          "protest"
+        ],
+        "strictKeywords": [
+          "iran",
+          "war",
+          "united",
+          "states"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=protests%20against%20the%202026%20Iran%20war%20in%20the%20United%20States&hl=en-US&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q138514607",
+          "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_the_2026_Iran_war_in_the_United_States"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139119805",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Ireland",
+      "countries": [
+        "Ireland"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Irish_fuel_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "ireland-irish-fuel-protests",
+        "name": "2026 Irish fuel protests",
+        "region": "Europe",
+        "location": "Ireland",
+        "year": 2026,
+        "description": "series of nationwide demonstrations in the Republic of Ireland",
+        "keywords": [
+          "irish",
+          "fuel",
+          "ireland",
+          "protest"
+        ],
+        "strictKeywords": [
+          "irish",
+          "fuel"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Irish%20fuel%20protests&hl=en-IE&gl=IE&ceid=IE%3Aen",
+          "https://news.google.com/rss/search?q=Ireland%20protest&hl=en-IE&gl=IE&ceid=IE%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139119805",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Irish_fuel_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139736890",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Iran",
+      "countries": [
+        "Iran"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Iranian_pro-government_rallies",
+      "needsName": false,
+      "suggested": {
+        "id": "iran-iranian-pro-government-rallies",
+        "name": "2026 Iranian pro-government rallies",
+        "region": "Middle East",
+        "location": "Iran",
+        "year": 2026,
+        "description": "Iranian support to their government",
+        "keywords": [
+          "iranian",
+          "pro",
+          "government",
+          "iran",
+          "protest"
+        ],
+        "strictKeywords": [
+          "iranian",
+          "pro",
+          "government"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Iranian%20pro-government%20rallies&hl=en-IR&gl=IR&ceid=IR%3Aen",
+          "https://news.google.com/rss/search?q=Iran%20protest&hl=en-IR&gl=IR&ceid=IR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139736890",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Iranian_pro-government_rallies"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139807452",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Bolivia",
+      "countries": [
+        "Bolivia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Bolivian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "bolivia-bolivian-protests",
+        "name": "2026 Bolivian protests",
+        "region": "Americas",
+        "location": "Bolivia",
+        "year": 2026,
+        "description": "anti-government protests in Bolivia",
+        "keywords": [
+          "bolivian",
+          "bolivia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "bolivian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Bolivian%20protests&hl=en-BO&gl=BO&ceid=BO%3Aen",
+          "https://news.google.com/rss/search?q=Bolivia%20protest&hl=en-BO&gl=BO&ceid=BO%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139807452",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Bolivian_protests"
+        }
+      }
+    },
+    {
       "key": "wd-Q136343583",
       "source": "wikidata",
       "confidence": "high",
@@ -1676,279 +1949,6 @@
       }
     },
     {
-      "key": "wd-Q137860199",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Uganda",
-      "countries": [
-        "Uganda"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Ugandan_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "uganda-ugandan-protests",
-        "name": "2026 Ugandan protests",
-        "region": "Africa",
-        "location": "Uganda",
-        "year": 2026,
-        "description": "public demonstrations following election fraud",
-        "keywords": [
-          "ugandan",
-          "uganda",
-          "protest"
-        ],
-        "strictKeywords": [
-          "ugandan"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Ugandan%20protests&hl=en-UG&gl=UG&ceid=UG%3Aen",
-          "https://news.google.com/rss/search?q=Uganda%20protest&hl=en-UG&gl=UG&ceid=UG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q137860199",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Ugandan_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q138048080",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Philippines",
-      "countries": [
-        "Philippines"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Dupax_del_Norte_anti-mining_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "philippines-dupax-del-norte-anti-mining-protests",
-        "name": "Dupax del Norte anti-mining protests",
-        "region": "Asia",
-        "location": "Philippines",
-        "year": 2026,
-        "description": "series of protests from 2025 to 2026",
-        "keywords": [
-          "dupax",
-          "del",
-          "norte",
-          "anti",
-          "mining",
-          "philippines",
-          "protest"
-        ],
-        "strictKeywords": [
-          "dupax",
-          "del",
-          "norte",
-          "anti",
-          "mining"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Dupax%20del%20Norte%20anti-mining%20protests&hl=en-PH&gl=PH&ceid=PH%3Aen",
-          "https://news.google.com/rss/search?q=Philippines%20protest&hl=en-PH&gl=PH&ceid=PH%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q138048080",
-          "wikipedia": "https://en.wikipedia.org/wiki/Dupax_del_Norte_anti-mining_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q138497595",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Mexico",
-      "countries": [
-        "Mexico"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Mexico_cartel_unrest",
-      "needsName": false,
-      "suggested": {
-        "id": "mexico-mexico-cartel-unrest",
-        "name": "2026 Mexico cartel unrest",
-        "region": "Americas",
-        "location": "Mexico",
-        "year": 2026,
-        "description": "reaction to the killing of El Mencho",
-        "keywords": [
-          "mexico",
-          "cartel",
-          "protest"
-        ],
-        "strictKeywords": [
-          "mexico",
-          "cartel"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Mexico%20cartel%20unrest&hl=en-MX&gl=MX&ceid=MX%3Aen",
-          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q138497595",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Mexico_cartel_unrest"
-        }
-      }
-    },
-    {
-      "key": "wd-Q138514607",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United States",
-      "countries": [
-        "United States"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_the_2026_Iran_war_in_the_United_States",
-      "needsName": false,
-      "suggested": {
-        "id": "united-states-protests-against-the-iran-war-in-the-united-states",
-        "name": "protests against the 2026 Iran war in the United States",
-        "region": "Americas",
-        "location": "United States",
-        "year": 2026,
-        "description": "",
-        "keywords": [
-          "iran",
-          "war",
-          "united",
-          "states",
-          "united states",
-          "protest"
-        ],
-        "strictKeywords": [
-          "iran",
-          "war",
-          "united",
-          "states"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=protests%20against%20the%202026%20Iran%20war%20in%20the%20United%20States&hl=en-US&gl=US&ceid=US%3Aen",
-          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q138514607",
-          "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_the_2026_Iran_war_in_the_United_States"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139119805",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Ireland",
-      "countries": [
-        "Ireland"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Irish_fuel_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "ireland-irish-fuel-protests",
-        "name": "2026 Irish fuel protests",
-        "region": "Europe",
-        "location": "Ireland",
-        "year": 2026,
-        "description": "series of nationwide demonstrations in the Republic of Ireland",
-        "keywords": [
-          "irish",
-          "fuel",
-          "ireland",
-          "protest"
-        ],
-        "strictKeywords": [
-          "irish",
-          "fuel"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Irish%20fuel%20protests&hl=en-IE&gl=IE&ceid=IE%3Aen",
-          "https://news.google.com/rss/search?q=Ireland%20protest&hl=en-IE&gl=IE&ceid=IE%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139119805",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Irish_fuel_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139736890",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Iran",
-      "countries": [
-        "Iran"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Iranian_pro-government_rallies",
-      "needsName": false,
-      "suggested": {
-        "id": "iran-iranian-pro-government-rallies",
-        "name": "2026 Iranian pro-government rallies",
-        "region": "Middle East",
-        "location": "Iran",
-        "year": 2026,
-        "description": "Iranian support to their government",
-        "keywords": [
-          "iranian",
-          "pro",
-          "government",
-          "iran",
-          "protest"
-        ],
-        "strictKeywords": [
-          "iranian",
-          "pro",
-          "government"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Iranian%20pro-government%20rallies&hl=en-IR&gl=IR&ceid=IR%3Aen",
-          "https://news.google.com/rss/search?q=Iran%20protest&hl=en-IR&gl=IR&ceid=IR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139736890",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Iranian_pro-government_rallies"
-        }
-      }
-    },
-    {
-      "key": "wd-Q139807452",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Bolivia",
-      "countries": [
-        "Bolivia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Bolivian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "bolivia-bolivian-protests",
-        "name": "2026 Bolivian protests",
-        "region": "Americas",
-        "location": "Bolivia",
-        "year": 2026,
-        "description": "anti-government protests in Bolivia",
-        "keywords": [
-          "bolivian",
-          "bolivia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "bolivian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Bolivian%20protests&hl=en-BO&gl=BO&ceid=BO%3Aen",
-          "https://news.google.com/rss/search?q=Bolivia%20protest&hl=en-BO&gl=BO&ceid=BO%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139807452",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Bolivian_protests"
-        }
-      }
-    },
-    {
       "key": "wd-Q134451129",
       "source": "wikidata",
       "confidence": "high",
@@ -2264,12 +2264,14 @@
         "thenationonlineng.net",
         "premiumtimesng.com",
         "tribuneonlineng.com",
-        "vanguardngr.com"
+        "vanguardngr.com",
+        "punchng.com",
+        "theeagleonline.com.ng"
       ],
-      "daysSeen": 7,
-      "articleCount": 19,
+      "daysSeen": 11,
+      "articleCount": 32,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-10-01",
       "samples": [
         {
           "title": "Injuries as violence erupts at South Africa anti - migrant protest",
@@ -2346,12 +2348,14 @@
       "domains": [
         "premiumtimesng.com",
         "dailypost.ng",
-        "punchng.com"
+        "punchng.com",
+        "leadership.ng",
+        "thisdaylive.com"
       ],
-      "daysSeen": 6,
-      "articleCount": 8,
+      "daysSeen": 8,
+      "articleCount": 10,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-30",
       "samples": [
         {
           "title": "Police fire tear gas at pensioners protesting arrears at Lagos House",
@@ -2420,95 +2424,6 @@
       }
     },
     {
-      "key": "gd-nigeria:disrupts-dover-ferry",
-      "source": "gdelt",
-      "confidence": "low",
-      "country": "Nigeria",
-      "countries": [
-        "Nigeria"
-      ],
-      "domains": [
-        "punchng.com",
-        "africanews.com",
-        "vanguardngr.com",
-        "leadership.ng",
-        "thisdaylive.com",
-        "pmnewsnigeria.com",
-        "nigerianeye.com",
-        "allafrica.com"
-      ],
-      "daysSeen": 5,
-      "articleCount": 12,
-      "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-24",
-      "samples": [
-        {
-          "title": "Dover Migrant Protest Disrupts united kingdom Ferry Port Traffic",
-          "url": "https://punchng.com/masked-anti-migrant-protesters-disrupt-key-uk-ferry-port/",
-          "domain": "punchng.com",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "Masked anti - immigration protesters disrupt united kingdom Dover port",
-          "url": "https://www.africanews.com/2026/09/05/masked-anti-immigration-protesters-disrupt-uks-dover-port/",
-          "domain": "africanews.com",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "Masked anti - migrant protesters shut down united kingdom Dover port",
-          "url": "https://www.vanguardngr.com/2026/09/masked-anti-migrant-protesters-shut-down-uks-dover-port/",
-          "domain": "vanguardngr.com",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "Nigerian jailed 17 years in united kingdom for raping woman in Wales",
-          "url": "https://punchng.com/i-thought-hed-kill-me-woman-recounts-rape-by-uk-based-nigerian-jailed-17-years/",
-          "domain": "punchng.com",
-          "date": "2026-09-09"
-        },
-        {
-          "title": "New US Sanctions Shut Down Iranian Flights",
-          "url": "https://leadership.ng/new-us-sanctions-shut-down-iranian-flights/",
-          "domain": "leadership.ng",
-          "date": "2026-09-24"
-        }
-      ],
-      "needsName": true,
-      "suggested": {
-        "id": "nigeria-dover-migrant-protest-disrupts-united-kingdom",
-        "name": "Dover Migrant Protest Disrupts united kingdom",
-        "region": "Africa",
-        "location": "Nigeria",
-        "year": 2026,
-        "description": "",
-        "keywords": [
-          "dover",
-          "migrant",
-          "disrupts",
-          "united",
-          "kingdom",
-          "nigeria",
-          "protest"
-        ],
-        "strictKeywords": [
-          "dover",
-          "migrant",
-          "disrupts",
-          "united",
-          "kingdom"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Dover%20Migrant%20Protest%20Disrupts%20united%20kingdom&hl=en-NG&gl=NG&ceid=NG%3Aen",
-          "https://news.google.com/rss/search?q=Nigeria%20protest&hl=en-NG&gl=NG&ceid=NG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "nigeria:disrupts-dover-ferry",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
       "key": "gd-nigeria:apology-assault-doctors",
       "source": "gdelt",
       "confidence": "low",
@@ -2519,12 +2434,13 @@
       "domains": [
         "premiumtimesng.com",
         "blueprint.ng",
-        "tribuneonlineng.com"
+        "tribuneonlineng.com",
+        "saharareporters.com"
       ],
-      "daysSeen": 5,
-      "articleCount": 9,
+      "daysSeen": 6,
+      "articleCount": 10,
       "firstSeen": "2026-09-03",
-      "lastSeen": "2026-09-21",
+      "lastSeen": "2026-09-30",
       "samples": [
         {
           "title": "Assault : Doctors call off strike at teaching hospital after apology , management intervention",
@@ -2609,12 +2525,15 @@
         "leadership.ng",
         "vanguardngr.com",
         "pmnewsnigeria.com",
-        "premiumtimesng.com"
+        "premiumtimesng.com",
+        "opinionnigeria.com",
+        "saharareporters.com",
+        "theeagleonline.com.ng"
       ],
-      "daysSeen": 13,
-      "articleCount": 44,
+      "daysSeen": 19,
+      "articleCount": 72,
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-10-02",
       "samples": [
         {
           "title": "RCCG Donates $265 , 854 to Evacuate Nigerians from South Africa - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
@@ -2683,186 +2602,6 @@
       }
     },
     {
-      "key": "gd-nigeria:chairman-divorce-husband",
-      "source": "gdelt",
-      "confidence": "low",
-      "country": "Nigeria",
-      "countries": [
-        "Nigeria"
-      ],
-      "domains": [
-        "leadership.ng",
-        "punchng.com",
-        "vanguardngr.com",
-        "informationng.com",
-        "dailypost.ng",
-        "theeagleonline.com.ng",
-        "silverbirdtv.com",
-        "promptnewsonline.com",
-        "blueprint.ng",
-        "thenationonlineng.net",
-        "thisdaylive.com"
-      ],
-      "daysSeen": 6,
-      "articleCount": 29,
-      "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-25",
-      "samples": [
-        {
-          "title": "Divorce Your Husband If He Stops You From Voting APC - Yobe APC Chairman Tells Women",
-          "url": "https://leadership.ng/divorce-your-husband-if-he-stops-you-from-voting-apc-yobe-apc-chairman-tells-women/",
-          "domain": "leadership.ng",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "Yobe APC Chairman : Divorce Husband to Vote APC",
-          "url": "https://punchng.com/divorce-husband-if-he-stops-you-from-voting-apc-yobe-apc-chairman/",
-          "domain": "punchng.com",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "Nigeria is behind you  - FG tells Karibi - George ahead Miss World finale",
-          "url": "https://www.vanguardngr.com/2026/09/nigeria-is-behind-you-fg-tells-karibi-george-ahead-miss-world-finale/",
-          "domain": "vanguardngr.com",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "Forum Steps Up APC , Tinubu 2027 Mobilisation Ahead Of National Conference",
-          "url": "https://leadership.ng/forum-steps-up-apc-tinubu-2027-mobilisation-ahead-of-national-conference/",
-          "domain": "leadership.ng",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "Tinubu Mourns Death Of Ex - PDP Chairman Bamanga Tukur At 90",
-          "url": "https://www.informationng.com/2026/09/tinubu-mourns-death-of-ex-pdp-chairman-bamanga-tukur-at-90.html",
-          "domain": "informationng.com",
-          "date": "2026-09-12"
-        }
-      ],
-      "needsName": true,
-      "suggested": {
-        "id": "nigeria-divorce-your-husband-if-he-stops",
-        "name": "Divorce Your Husband If He Stops",
-        "region": "Africa",
-        "location": "Nigeria",
-        "year": 2026,
-        "description": "",
-        "keywords": [
-          "divorce",
-          "your",
-          "husband",
-          "stops",
-          "nigeria",
-          "protest"
-        ],
-        "strictKeywords": [
-          "divorce",
-          "your",
-          "husband",
-          "stops"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Divorce%20Your%20Husband%20If%20He%20Stops&hl=en-NG&gl=NG&ceid=NG%3Aen",
-          "https://news.google.com/rss/search?q=Nigeria%20protest&hl=en-NG&gl=NG&ceid=NG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "nigeria:chairman-divorce-husband",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
-      "key": "gd-nigeria:envoys-kyiv-moscow",
-      "source": "gdelt",
-      "confidence": "low",
-      "country": "Nigeria",
-      "countries": [
-        "Nigeria"
-      ],
-      "domains": [
-        "punchng.com",
-        "vanguardngr.com",
-        "tribuneonlineng.com",
-        "allafrica.com",
-        "pmnewsnigeria.com",
-        "dailypost.ng",
-        "thisdaylive.com",
-        "thenationonlineng.net",
-        "saharareporters.com"
-      ],
-      "daysSeen": 9,
-      "articleCount": 20,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "samples": [
-        {
-          "title": "Trump Sends Envoys to Moscow , Kyiv with New Ukraine Peace Pl",
-          "url": "https://punchng.com/trump-sends-envoys-to-moscow-kyiv-with-new-plan-to-end-war/",
-          "domain": "punchng.com",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "Trump sends envoys to Moscow , Kyiv with new plan to  end war",
-          "url": "https://www.vanguardngr.com/2026/09/trump-sends-envoys-to-moscow-kyiv-with-new-plan-to-end-war/",
-          "domain": "vanguardngr.com",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "US envoys land in Moscow , as Russian bombs Ukraine airports",
-          "url": "https://www.vanguardngr.com/2026/09/us-envoys-land-in-moscow-as-russian-bombs-ukraine-airports/",
-          "domain": "vanguardngr.com",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "Russian strikes kill 12 in Kyiv , hit railway depot",
-          "url": "https://tribuneonlineng.com/russian-strikes-kill-12-in-kyiv-hit-railway-depot/",
-          "domain": "tribuneonlineng.com",
-          "date": "2026-09-01"
-        },
-        {
-          "title": "Kenya : KAA Issues Passenger Alert As Flight Delays Hit Airports",
-          "url": "https://allafrica.com/stories/202608310055.html",
-          "domain": "allafrica.com",
-          "date": "2026-08-31"
-        }
-      ],
-      "needsName": true,
-      "suggested": {
-        "id": "nigeria-trump-sends-envoys-to-moscow-kyiv",
-        "name": "Trump Sends Envoys to Moscow Kyiv",
-        "region": "Africa",
-        "location": "Nigeria",
-        "year": 2026,
-        "description": "",
-        "keywords": [
-          "trump",
-          "sends",
-          "envoys",
-          "moscow",
-          "kyiv",
-          "nigeria",
-          "protest"
-        ],
-        "strictKeywords": [
-          "trump",
-          "sends",
-          "envoys",
-          "moscow",
-          "kyiv"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Trump%20Sends%20Envoys%20to%20Moscow%20Kyiv&hl=en-NG&gl=NG&ceid=NG%3Aen",
-          "https://news.google.com/rss/search?q=Nigeria%20protest&hl=en-NG&gl=NG&ceid=NG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "nigeria:envoys-kyiv-moscow",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
       "key": "gd-nigeria:eyes-galatasaray-injury",
       "source": "gdelt",
       "confidence": "low",
@@ -2877,10 +2616,10 @@
         "pmnewsnigeria.com",
         "theeagleonline.com.ng"
       ],
-      "daysSeen": 4,
-      "articleCount": 6,
+      "daysSeen": 5,
+      "articleCount": 7,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-27",
       "samples": [
         {
           "title": "Osimhen Injury Update : Eyes UCL Return for Galatasaray",
@@ -2961,12 +2700,13 @@
       "domains": [
         "tribuneonlineng.com",
         "vanguardngr.com",
-        "theeagleonline.com.ng"
+        "theeagleonline.com.ng",
+        "leadership.ng"
       ],
-      "daysSeen": 3,
-      "articleCount": 5,
+      "daysSeen": 4,
+      "articleCount": 6,
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-28",
       "samples": [
         {
           "title": "Trump threatens fresh strikes on Iran as fighting resumes",
@@ -3045,10 +2785,10 @@
         "punchng.com",
         "vanguardngr.com"
       ],
-      "daysSeen": 6,
-      "articleCount": 8,
+      "daysSeen": 8,
+      "articleCount": 10,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-29",
       "samples": [
         {
           "title": "APC is one in Ondo  Aiyedatiwa declares , rallies support for Tinubu re - election",
@@ -3133,7 +2873,7 @@
         "bizcommunity.africa"
       ],
       "daysSeen": 7,
-      "articleCount": 10,
+      "articleCount": 11,
       "firstSeen": "2026-09-01",
       "lastSeen": "2026-09-28",
       "samples": [
@@ -3228,7 +2968,7 @@
         "sundayworld.co.za"
       ],
       "daysSeen": 13,
-      "articleCount": 21,
+      "articleCount": 25,
       "firstSeen": "2026-09-01",
       "lastSeen": "2026-10-02",
       "samples": [
@@ -3311,7 +3051,7 @@
         "thesouthafrican.com"
       ],
       "daysSeen": 4,
-      "articleCount": 6,
+      "articleCount": 7,
       "firstSeen": "2026-09-05",
       "lastSeen": "2026-10-01",
       "samples": [
@@ -3396,7 +3136,7 @@
         "timeslive.co.za"
       ],
       "daysSeen": 4,
-      "articleCount": 6,
+      "articleCount": 7,
       "firstSeen": "2026-09-02",
       "lastSeen": "2026-09-30",
       "samples": [
@@ -4440,7 +4180,7 @@
         "thesouthafrican.com"
       ],
       "daysSeen": 5,
-      "articleCount": 7,
+      "articleCount": 9,
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-30",
       "samples": [
@@ -4596,7 +4336,7 @@
         "dailymaverick.co.za"
       ],
       "daysSeen": 3,
-      "articleCount": 4,
+      "articleCount": 5,
       "firstSeen": "2026-09-06",
       "lastSeen": "2026-09-28",
       "samples": [
@@ -4611,6 +4351,12 @@
           "url": "https://groundup.org.za/article/residents-only-get-water-for-an-hour-in-this-town/",
           "domain": "groundup.org.za",
           "date": "2026-09-21"
+        },
+        {
+          "title": "Elections 2026 : How this North West town went from boom to bust",
+          "url": "https://www.dailymaverick.co.za/article/2026-09-28-elections-2026-how-this-north-west-town-went-from-boom-to-bust/",
+          "domain": "dailymaverick.co.za",
+          "date": "2026-09-28"
         },
         {
           "title": "Elections 2026 : How this North West town went from boom to bust",
@@ -5291,12 +5037,13 @@
         "premiumtimesng.com",
         "thenationonlineng.net",
         "vanguardngr.com",
-        "punchng.com"
+        "punchng.com",
+        "thisdaylive.com"
       ],
-      "daysSeen": 3,
-      "articleCount": 10,
+      "daysSeen": 4,
+      "articleCount": 11,
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-30",
       "samples": [
         {
           "title": "Not acceptable  Keyamo reacts to Peter Obi convoy blockade",
@@ -5463,12 +5210,14 @@
         "premiumtimesng.com",
         "vanguardngr.com",
         "blueprint.ng",
-        "dailypost.ng"
+        "dailypost.ng",
+        "allafrica.com",
+        "theeagleonline.com.ng"
       ],
-      "daysSeen": 5,
-      "articleCount": 12,
+      "daysSeen": 6,
+      "articleCount": 14,
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-10-01",
       "samples": [
         {
           "title": "Gov Sani approves implementation of 2025 agreement for Kaduna varsity lecturers",
@@ -5548,10 +5297,10 @@
         "premiumtimesng.com",
         "punchng.com"
       ],
-      "daysSeen": 4,
-      "articleCount": 8,
+      "daysSeen": 5,
+      "articleCount": 9,
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-28",
       "samples": [
         {
           "title": "Middle East has no need for US  policeman  - Iran",
@@ -5633,10 +5382,10 @@
         "tribuneonlineng.com",
         "leadership.ng"
       ],
-      "daysSeen": 4,
-      "articleCount": 5,
+      "daysSeen": 5,
+      "articleCount": 6,
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-10-01",
       "samples": [
         {
           "title": "Ogun 2027 : PDP flags off Adebutu campaign , promises liberation , better governance",
@@ -5700,6 +5449,84 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "nigeria:adebutu-better-campaign",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "gd-nigeria:leader-mondlane-mozambique",
+      "source": "gdelt",
+      "confidence": "low",
+      "country": "Nigeria",
+      "countries": [
+        "Nigeria"
+      ],
+      "domains": [
+        "allafrica.com",
+        "dailypost.ng",
+        "thenationonlineng.net"
+      ],
+      "daysSeen": 4,
+      "articleCount": 4,
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-29",
+      "samples": [
+        {
+          "title": "Mozambique : Opposition Leader Venâncio Mondlane to be Tried for Treason",
+          "url": "https://allafrica.com/stories/202609100517.html",
+          "domain": "allafrica.com",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Mozambique : Supreme Court Refuses Live Broadcast of Mondlane Trial",
+          "url": "https://allafrica.com/stories/202609220080.html",
+          "domain": "allafrica.com",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "2027 : Concern mounts over APC leader threats against opposition",
+          "url": "https://dailypost.ng/2026/09/20/2027-concern-mounts-over-apc-leaders-threats-against-opposition/",
+          "domain": "dailypost.ng",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "Supreme Court restores INEC timetable",
+          "url": "https://thenationonlineng.net/supreme-court-restores-inec-timetable/",
+          "domain": "thenationonlineng.net",
+          "date": "2026-09-29"
+        }
+      ],
+      "needsName": true,
+      "suggested": {
+        "id": "nigeria-mozambique-opposition-leader-venancio-mondlane-to",
+        "name": "Mozambique Opposition Leader Venâncio Mondlane to",
+        "region": "Africa",
+        "location": "Nigeria",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "mozambique",
+          "opposition",
+          "leader",
+          "venancio",
+          "mondlane",
+          "nigeria",
+          "protest"
+        ],
+        "strictKeywords": [
+          "mozambique",
+          "opposition",
+          "leader",
+          "venancio",
+          "mondlane"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Mozambique%20Opposition%20Leader%20Ven%C3%A2ncio%20Mondlane%20to&hl=en-NG&gl=NG&ceid=NG%3Aen",
+          "https://news.google.com/rss/search?q=Nigeria%20protest&hl=en-NG&gl=NG&ceid=NG%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "nigeria:leader-mondlane-mozambique",
           "wikipedia": ""
         }
       }
