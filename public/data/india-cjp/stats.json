@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 377
+      "count": 382
     }
   ],
   "sources": [
@@ -133,7 +133,7 @@
     },
     {
       "name": "NDTV",
-      "count": 91,
+      "count": 92,
       "first": "2026-05-12",
       "last": "2026-10-04"
     },
@@ -180,15 +180,15 @@
       "last": "2026-10-04"
     },
     {
-      "name": "Rediff",
+      "name": "ANI News",
       "count": 37,
-      "first": "2026-06-07",
+      "first": "2026-07-22",
       "last": "2026-10-04"
     },
     {
-      "name": "ANI News",
+      "name": "Rediff",
       "count": 36,
-      "first": "2026-07-22",
+      "first": "2026-06-07",
       "last": "2026-10-04"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "name": "The News Mill",
-      "count": 29,
+      "count": 30,
       "first": "2026-08-12",
       "last": "2026-10-04"
     },
@@ -259,9 +259,9 @@
     },
     {
       "name": "TheWire.in",
-      "count": 18,
+      "count": 19,
       "first": "2026-07-11",
-      "last": "2026-10-02"
+      "last": "2026-10-04"
     },
     {
       "name": "The Statesman",
@@ -378,6 +378,12 @@
       "last": "2026-09-06"
     },
     {
+      "name": "The Guardian",
+      "count": 10,
+      "first": "2026-05-21",
+      "last": "2026-10-02"
+    },
+    {
       "name": "timesofindia.indiatimes.com",
       "count": 10,
       "first": "2026-07-26",
@@ -426,12 +432,6 @@
       "last": "2026-10-02"
     },
     {
-      "name": "The Guardian",
-      "count": 7,
-      "first": "2026-05-21",
-      "last": "2026-08-04"
-    },
-    {
       "name": "Bar and Bench",
       "count": 6,
       "first": "2026-08-07",
@@ -474,6 +474,12 @@
       "last": "2026-10-04"
     },
     {
+      "name": "Maktoob",
+      "count": 5,
+      "first": "2026-08-12",
+      "last": "2026-10-04"
+    },
+    {
       "name": "MillenniumPost",
       "count": 5,
       "first": "2026-09-28",
@@ -483,6 +489,12 @@
       "name": "MorungExpress",
       "count": 5,
       "first": "2026-08-20",
+      "last": "2026-10-03"
+    },
+    {
+      "name": "The Quint",
+      "count": 5,
+      "first": "2026-08-18",
       "last": "2026-10-03"
     },
     {
@@ -552,12 +564,6 @@
       "last": "2026-10-02"
     },
     {
-      "name": "Maktoob",
-      "count": 4,
-      "first": "2026-08-12",
-      "last": "2026-10-04"
-    },
-    {
       "name": "Nagaland Post",
       "count": 4,
       "first": "2026-08-22",
@@ -604,12 +610,6 @@
       "count": 4,
       "first": "2026-08-29",
       "last": "2026-10-04"
-    },
-    {
-      "name": "The Quint",
-      "count": 4,
-      "first": "2026-08-18",
-      "last": "2026-10-03"
     },
     {
       "name": "thehawk.in",
@@ -660,6 +660,12 @@
       "last": "2026-09-29"
     },
     {
+      "name": "Kashmir Observer",
+      "count": 3,
+      "first": "2026-09-18",
+      "last": "2026-10-02"
+    },
+    {
       "name": "madhyamamonline.com",
       "count": 3,
       "first": "2026-07-24",
@@ -696,16 +702,16 @@
       "last": "2026-09-11"
     },
     {
-      "name": "theguardian.com",
+      "name": "The South First",
       "count": 3,
-      "first": "2026-07-20",
-      "last": "2026-10-02"
+      "first": "2026-09-01",
+      "last": "2026-10-04"
     },
     {
-      "name": "thequint.com",
-      "count": 3,
-      "first": "2026-09-17",
-      "last": "2026-09-25"
+      "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "count": 2,
+      "first": "2026-10-02",
+      "last": "2026-10-04"
     },
     {
       "name": "Business and Human Rights Centre",
@@ -789,12 +795,6 @@
       "name": "jagranjosh.com",
       "count": 2,
       "first": "2026-09-03",
-      "last": "2026-10-02"
-    },
-    {
-      "name": "Kashmir Observer",
-      "count": 2,
-      "first": "2026-09-18",
       "last": "2026-10-02"
     },
     {
@@ -882,6 +882,12 @@
       "last": "2026-09-26"
     },
     {
+      "name": "South China Morning Post",
+      "count": 2,
+      "first": "2026-09-25",
+      "last": "2026-10-02"
+    },
+    {
       "name": "The Assam Tribune",
       "count": 2,
       "first": "2026-10-03",
@@ -930,12 +936,6 @@
       "last": "2026-09-21"
     },
     {
-      "name": "The South First",
-      "count": 2,
-      "first": "2026-09-01",
-      "last": "2026-09-01"
-    },
-    {
       "name": "thehindu.com",
       "count": 2,
       "first": "2026-08-07",
@@ -946,6 +946,12 @@
       "count": 2,
       "first": "2026-09-27",
       "last": "2026-09-29"
+    },
+    {
+      "name": "thequint.com",
+      "count": 2,
+      "first": "2026-09-17",
+      "last": "2026-09-20"
     },
     {
       "name": "Time Magazine",
@@ -976,12 +982,6 @@
       "count": 2,
       "first": "2026-07-30",
       "last": "2026-08-17"
-    },
-    {
-      "name": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "count": 1,
-      "first": "2026-10-02",
-      "last": "2026-10-02"
     },
     {
       "name": "ACLED",
@@ -1080,18 +1080,6 @@
       "last": "2026-08-23"
     },
     {
-      "name": "cfr.org",
-      "count": 1,
-      "first": "2026-07-31",
-      "last": "2026-07-31"
-    },
-    {
-      "name": "civicus lens",
-      "count": 1,
-      "first": "2026-08-04",
-      "last": "2026-08-04"
-    },
-    {
       "name": "CNA",
       "count": 1,
       "first": "2026-10-02",
@@ -1108,6 +1096,12 @@
       "count": 1,
       "first": "2026-10-02",
       "last": "2026-10-02"
+    },
+    {
+      "name": "Council on Foreign Relations (CFR)",
+      "count": 1,
+      "first": "2026-07-31",
+      "last": "2026-07-31"
     },
     {
       "name": "cpiml.org",
@@ -1290,7 +1284,7 @@
       "last": "2026-08-30"
     },
     {
-      "name": "indialegallive.com",
+      "name": "India Legal",
       "count": 1,
       "first": "2026-10-03",
       "last": "2026-10-03"
@@ -1350,10 +1344,16 @@
       "last": "2026-09-10"
     },
     {
-      "name": "lemonde.fr",
+      "name": "Le Monde.fr",
       "count": 1,
       "first": "2026-09-27",
       "last": "2026-09-27"
+    },
+    {
+      "name": "lens.civicus.org",
+      "count": 1,
+      "first": "2026-08-04",
+      "last": "2026-08-04"
     },
     {
       "name": "LinkedIn",
@@ -1372,12 +1372,6 @@
       "count": 1,
       "first": "2026-08-21",
       "last": "2026-08-21"
-    },
-    {
-      "name": "maktoobmedia.com",
-      "count": 1,
-      "first": "2026-10-02",
-      "last": "2026-10-02"
     },
     {
       "name": "MediaNama",
@@ -1488,22 +1482,10 @@
       "last": "2026-10-02"
     },
     {
-      "name": "scmp.com",
-      "count": 1,
-      "first": "2026-10-02",
-      "last": "2026-10-02"
-    },
-    {
       "name": "scobserver.in",
       "count": 1,
       "first": "2026-09-10",
       "last": "2026-09-10"
-    },
-    {
-      "name": "South China Morning Post",
-      "count": 1,
-      "first": "2026-09-25",
-      "last": "2026-09-25"
     },
     {
       "name": "Taipei Times",
@@ -1642,12 +1624,6 @@
       "count": 1,
       "first": "2026-08-23",
       "last": "2026-08-23"
-    },
-    {
-      "name": "thesouthfirst.com",
-      "count": 1,
-      "first": "2026-10-04",
-      "last": "2026-10-04"
     },
     {
       "name": "thestatesman.com",

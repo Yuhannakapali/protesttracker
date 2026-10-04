@@ -148,6 +148,18 @@
   ],
   "sources": [
     {
+      "name": "Daily Nation",
+      "count": 48,
+      "first": "2024-06-19",
+      "last": "2026-08-10"
+    },
+    {
+      "name": "People Daily",
+      "count": 45,
+      "first": "2025-11-02",
+      "last": "2026-09-28"
+    },
+    {
       "name": "BBC",
       "count": 37,
       "first": "2024-06-18",
@@ -160,34 +172,10 @@
       "last": "2026-09-26"
     },
     {
-      "name": "Daily Nation",
-      "count": 27,
-      "first": "2024-06-19",
-      "last": "2026-08-10"
-    },
-    {
-      "name": "peopledaily.digital",
-      "count": 24,
-      "first": "2026-04-23",
-      "last": "2026-09-28"
-    },
-    {
-      "name": "nation.africa",
-      "count": 23,
-      "first": "2025-06-24",
-      "last": "2026-09-29"
-    },
-    {
       "name": "Al Jazeera",
       "count": 22,
       "first": "2024-06-18",
       "last": "2026-06-27"
-    },
-    {
-      "name": "People Daily",
-      "count": 22,
-      "first": "2025-11-02",
-      "last": "2026-07-30"
     },
     {
       "name": "The Africa Report",
@@ -280,6 +268,12 @@
       "last": "2026-06-25"
     },
     {
+      "name": "Context News",
+      "count": 5,
+      "first": "2024-06-26",
+      "last": "2025-07-03"
+    },
+    {
       "name": "France 24",
       "count": 5,
       "first": "2024-06-26",
@@ -290,12 +284,6 @@
       "count": 4,
       "first": "2024-08-13",
       "last": "2026-06-25"
-    },
-    {
-      "name": "Context News",
-      "count": 4,
-      "first": "2024-06-26",
-      "last": "2025-06-25"
     },
     {
       "name": "Dawan Africa",
@@ -418,16 +406,16 @@
       "last": "2024-07-01"
     },
     {
-      "name": "Kenya News Agency",
-      "count": 2,
-      "first": "2026-04-24",
-      "last": "2026-06-25"
-    },
-    {
       "name": "Nairobi Leo",
       "count": 2,
       "first": "2026-06-23",
       "last": "2026-06-25"
+    },
+    {
+      "name": "nation.africa",
+      "count": 2,
+      "first": "2026-06-16",
+      "last": "2026-09-29"
     },
     {
       "name": "NTV Kenya",
@@ -520,7 +508,7 @@
       "last": "2025-06-25"
     },
     {
-      "name": "Business Today Kenya",
+      "name": "businesstoday.co.ke",
       "count": 1,
       "first": "2026-08-26",
       "last": "2026-08-26"
@@ -542,12 +530,6 @@
       "count": 1,
       "first": "2024-06-27",
       "last": "2024-06-27"
-    },
-    {
-      "name": "context.news",
-      "count": 1,
-      "first": "2025-07-03",
-      "last": "2025-07-03"
     },
     {
       "name": "Cryptopolitan",
@@ -658,6 +640,18 @@
       "last": "2026-08-28"
     },
     {
+      "name": "Kenya News Agency",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
+    },
+    {
+      "name": "kenyanews.go.ke",
+      "count": 1,
+      "first": "2026-04-24",
+      "last": "2026-04-24"
+    },
+    {
       "name": "khrc.or.ke",
       "count": 1,
       "first": "2025-09-20",
@@ -674,6 +668,12 @@
       "count": 1,
       "first": "2026-08-27",
       "last": "2026-08-27"
+    },
+    {
+      "name": "malaysia.news.yahoo.com",
+      "count": 1,
+      "first": "2026-09-17",
+      "last": "2026-09-17"
     },
     {
       "name": "Middle East Monitor",
@@ -698,6 +698,12 @@
       "count": 1,
       "first": "2025-05-22",
       "last": "2025-05-22"
+    },
+    {
+      "name": "peopledaily.digital",
+      "count": 1,
+      "first": "2026-06-24",
+      "last": "2026-06-24"
     },
     {
       "name": "Peoples Dispatch",
@@ -812,12 +818,6 @@
       "count": 1,
       "first": "2026-06-15",
       "last": "2026-06-15"
-    },
-    {
-      "name": "Yahoo",
-      "count": 1,
-      "first": "2026-09-17",
-      "last": "2026-09-17"
     },
     {
       "name": "معهد الجزيرة للإعلام",
