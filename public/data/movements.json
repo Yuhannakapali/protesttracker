@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-03T20:37:46.332Z",
+  "lastUpdated": "2026-10-04T00:22:09.395Z",
   "movements": [
     {
       "id": "india-cjp",
       "name": "Cockroach Janta Party / NEET Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Asia",
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 1805,
-      "updated": "21h ago",
+      "articleCount": 1806,
+      "updated": "1d ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
         {
@@ -21,12 +21,12 @@
         },
         {
           "title": "Cockroach Janta Party Organizes Protest in Delhi on October 10, Demands Resignation of Gyanesh Kumar",
-          "source": "Nacionale News",
+          "source": "nacionale.com",
           "date": "2026-10-03"
         },
         {
-          "title": "India’s Gen Z Cockroach Janta Party protests election leader after voter roll changes",
-          "source": "wng.org",
+          "title": "Mumbai Police registers FIR against CJP protest organisers, 400-500 agitators",
+          "source": "ANI News",
           "date": "2026-10-03"
         }
       ]
@@ -40,10 +40,15 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 747,
-      "updated": "21h ago",
+      "articleCount": 748,
+      "updated": "1d ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
+        {
+          "title": "Tinubu saved Nigeria from collapse – Shettima",
+          "source": "Vanguard",
+          "date": "2026-10-03"
+        },
         {
           "title": "Subsidy removal: Nigerians yet to see dividends – Ogun APM gov candidate",
           "source": "Daily Post Nigeria",
@@ -53,25 +58,20 @@
           "title": "Atiku, Amaechi draw crowd at filling station, promise ‘we’ll bring back fuel subsidy’",
           "source": "Daily Post Nigeria",
           "date": "2026-10-03"
-        },
-        {
-          "title": "NLC demands new minimum wage, reduction in petrol price",
-          "source": "Ripples Nigeria",
-          "date": "2026-10-02"
         }
       ]
     },
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 350,
-      "updated": "21h ago",
+      "articleCount": 351,
+      "updated": "1d ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
         {
@@ -100,7 +100,7 @@
       "location": "Kenya · Nairobi",
       "year": 2024,
       "logged": "2024-06-10",
-      "articleCount": 481,
+      "articleCount": 482,
       "updated": "5d ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
@@ -110,14 +110,14 @@
           "date": "2026-09-29"
         },
         {
+          "title": "Murkomen links Finance Bill 2024 crisis to communication failures",
+          "source": "People Daily",
+          "date": "2026-09-28"
+        },
+        {
           "title": "Scars of June 25th: Maimed protest victim yet to receive promised gov't compensation",
           "source": "Citizen Digital",
           "date": "2026-09-26"
-        },
-        {
-          "title": "No, this viral video does not show Kenyans protesting against xenophobia in 2026",
-          "source": "Africa Check",
-          "date": "2026-09-22"
         }
       ]
     }

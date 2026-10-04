@@ -83,7 +83,7 @@
     },
     {
       "start": "2016-07-01",
-      "count": 6
+      "count": 7
     },
     {
       "start": "2016-08-01",
@@ -587,8 +587,8 @@
     },
     {
       "name": "The Clinic",
-      "count": 19,
-      "first": "2016-07-27",
+      "count": 20,
+      "first": "2016-07-25",
       "last": "2026-10-02"
     },
     {
@@ -640,6 +640,12 @@
       "last": "2019-03-31"
     },
     {
+      "name": "Universidad de Chile",
+      "count": 6,
+      "first": "2017-04-22",
+      "last": "2023-07-16"
+    },
+    {
       "name": "Americas Quarterly",
       "count": 5,
       "first": "2017-07-25",
@@ -664,7 +670,7 @@
       "last": "2021-11-18"
     },
     {
-      "name": "clarin.com",
+      "name": "Clarin.com",
       "count": 4,
       "first": "2017-12-18",
       "last": "2019-12-24"
@@ -724,12 +730,6 @@
       "last": "2026-10-03"
     },
     {
-      "name": "radio.uchile.cl",
-      "count": 3,
-      "first": "2020-01-28",
-      "last": "2023-07-16"
-    },
-    {
       "name": "Remezcla",
       "count": 3,
       "first": "2019-10-23",
@@ -760,12 +760,6 @@
       "last": "2019-11-21"
     },
     {
-      "name": "Universidad de Chile",
-      "count": 3,
-      "first": "2017-04-22",
-      "last": "2019-03-31"
-    },
-    {
       "name": "VOA - Voice of America English News",
       "count": 3,
       "first": "2017-04-13",
@@ -790,7 +784,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Council on Foreign Relations (CFR)",
+      "name": "cfr.org",
       "count": 2,
       "first": "2019-11-01",
       "last": "2022-08-25"
@@ -820,7 +814,13 @@
       "last": "2026-07-29"
     },
     {
-      "name": "interferencia.cl",
+      "name": "hoy.com.do",
+      "count": 2,
+      "first": "2021-09-02",
+      "last": "2023-08-31"
+    },
+    {
+      "name": "Interferencia |",
       "count": 2,
       "first": "2019-09-25",
       "last": "2019-10-16"
@@ -850,7 +850,7 @@
       "last": "2020-07-24"
     },
     {
-      "name": "mexicosolidarity.com",
+      "name": "Mexico Solidarity Media",
       "count": 2,
       "first": "2026-03-20",
       "last": "2026-03-20"
@@ -940,7 +940,7 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Atacama Noticias",
+      "name": "atacamanoticias.cl",
       "count": 1,
       "first": "2019-12-13",
       "last": "2019-12-13"
@@ -982,7 +982,7 @@
       "last": "2021-09-22"
     },
     {
-      "name": "Cambridge University Press & Assessment",
+      "name": "cambridge.org",
       "count": 1,
       "first": "2025-03-31",
       "last": "2025-03-31"
@@ -1024,7 +1024,7 @@
       "last": "2025-09-29"
     },
     {
-      "name": "Congreso",
+      "name": "comunicaciones.congreso.gob.pe",
       "count": 1,
       "first": "2021-03-23",
       "last": "2021-03-23"
@@ -1186,7 +1186,7 @@
       "last": "2026-05-16"
     },
     {
-      "name": "Guioteca",
+      "name": "guioteca.com",
       "count": 1,
       "first": "2017-03-26",
       "last": "2017-03-26"
@@ -1202,18 +1202,6 @@
       "count": 1,
       "first": "2017-03-27",
       "last": "2017-03-27"
-    },
-    {
-      "name": "Hoy Digital",
-      "count": 1,
-      "first": "2023-08-31",
-      "last": "2023-08-31"
-    },
-    {
-      "name": "hoy.com.do",
-      "count": 1,
-      "first": "2021-09-02",
-      "last": "2021-09-02"
     },
     {
       "name": "In These Times",
