@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 20
+      "count": 21
     }
   ],
   "sources": [
@@ -831,7 +831,7 @@
     },
     {
       "name": "Vanguard",
-      "count": 58,
+      "count": 59,
       "first": "2026-09-02",
       "last": "2026-10-04"
     },
@@ -848,6 +848,12 @@
       "last": "2026-10-01"
     },
     {
+      "name": "Vanguard News",
+      "count": 44,
+      "first": "2012-03-08",
+      "last": "2026-09-26"
+    },
+    {
       "name": "Premium Times Nigeria",
       "count": 37,
       "first": "2013-04-18",
@@ -860,28 +866,16 @@
       "last": "2025-12-17"
     },
     {
-      "name": "vanguardngr.com",
-      "count": 25,
-      "first": "2012-09-19",
-      "last": "2026-09-26"
-    },
-    {
-      "name": "Vanguard News",
-      "count": 24,
-      "first": "2012-03-08",
-      "last": "2026-09-14"
+      "name": "Punch Newspapers",
+      "count": 28,
+      "first": "2020-09-04",
+      "last": "2026-09-11"
     },
     {
       "name": "Ripples Nigeria",
       "count": 23,
       "first": "2023-06-01",
       "last": "2026-10-02"
-    },
-    {
-      "name": "Punch Newspapers",
-      "count": 22,
-      "first": "2020-09-04",
-      "last": "2026-07-20"
     },
     {
       "name": "Business News Nigeria",
@@ -944,6 +938,18 @@
       "last": "2026-10-01"
     },
     {
+      "name": "Tribune Online",
+      "count": 9,
+      "first": "2021-12-17",
+      "last": "2026-07-26"
+    },
+    {
+      "name": "Independent Newspaper Nigeria",
+      "count": 8,
+      "first": "2023-01-30",
+      "last": "2026-01-29"
+    },
+    {
       "name": "The Guardian",
       "count": 8,
       "first": "2012-01-03",
@@ -966,18 +972,6 @@
       "count": 7,
       "first": "2009-10-30",
       "last": "2024-08-08"
-    },
-    {
-      "name": "Independent Newspaper Nigeria",
-      "count": 6,
-      "first": "2024-08-02",
-      "last": "2026-01-29"
-    },
-    {
-      "name": "punchng.com",
-      "count": 6,
-      "first": "2025-12-03",
-      "last": "2026-09-11"
     },
     {
       "name": "Sahara Reporters",
@@ -1004,16 +998,10 @@
       "last": "2026-05-19"
     },
     {
-      "name": "Tribune Online",
+      "name": "vanguardngr.com",
       "count": 5,
-      "first": "2021-12-17",
-      "last": "2024-10-15"
-    },
-    {
-      "name": "tribuneonlineng.com",
-      "count": 5,
-      "first": "2023-08-01",
-      "last": "2026-07-26"
+      "first": "2020-07-16",
+      "last": "2025-10-22"
     },
     {
       "name": "allAfrica.com",
@@ -1046,10 +1034,10 @@
       "last": "2026-09-11"
     },
     {
-      "name": "independent.ng",
+      "name": "fij.ng",
       "count": 3,
-      "first": "2020-09-07",
-      "last": "2026-01-23"
+      "first": "2024-09-04",
+      "last": "2024-11-11"
     },
     {
       "name": "Peoples Gazette Nigeria",
@@ -1074,12 +1062,6 @@
       "count": 2,
       "first": "2016-05-18",
       "last": "2021-03-12"
-    },
-    {
-      "name": "Foundation for Investigative Journalism (FIJ)",
-      "count": 2,
-      "first": "2024-09-04",
-      "last": "2024-09-05"
     },
     {
       "name": "legit.ng",
@@ -1226,6 +1208,12 @@
       "last": "2023-09-04"
     },
     {
+      "name": "dmarketforces.com",
+      "count": 1,
+      "first": "2024-11-05",
+      "last": "2024-11-05"
+    },
+    {
       "name": "dw.com",
       "count": 1,
       "first": "2022-01-25",
@@ -1242,12 +1230,6 @@
       "count": 1,
       "first": "2023-08-02",
       "last": "2023-08-02"
-    },
-    {
-      "name": "fij.ng",
-      "count": 1,
-      "first": "2024-11-11",
-      "last": "2024-11-11"
     },
     {
       "name": "Firstpost",
@@ -1310,6 +1292,12 @@
       "last": "2012-01-11"
     },
     {
+      "name": "independent.ng",
+      "count": 1,
+      "first": "2020-09-07",
+      "last": "2020-09-07"
+    },
+    {
       "name": "instagram.com",
       "count": 1,
       "first": "2026-01-30",
@@ -1332,12 +1320,6 @@
       "count": 1,
       "first": "2024-08-21",
       "last": "2024-08-21"
-    },
-    {
-      "name": "MarketForces Africa",
-      "count": 1,
-      "first": "2024-11-05",
-      "last": "2024-11-05"
     },
     {
       "name": "Meer | English edition",
@@ -1464,6 +1446,12 @@
       "count": 1,
       "first": "2026-03-18",
       "last": "2026-03-18"
+    },
+    {
+      "name": "tribuneonlineng.com",
+      "count": 1,
+      "first": "2026-05-19",
+      "last": "2026-05-19"
     },
     {
       "name": "UN Africa Renewal",
