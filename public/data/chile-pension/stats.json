@@ -95,7 +95,7 @@
     },
     {
       "start": "2016-10-01",
-      "count": 7
+      "count": 8
     },
     {
       "start": "2016-11-01",
@@ -581,18 +581,18 @@
   "sources": [
     {
       "name": "La Izquierda Diario",
-      "count": 35,
+      "count": 36,
       "first": "2015-04-23",
       "last": "2026-06-24"
     },
     {
       "name": "The Clinic",
-      "count": 20,
+      "count": 17,
       "first": "2016-07-25",
       "last": "2026-10-02"
     },
     {
-      "name": "dw.com",
+      "name": "DW.com",
       "count": 11,
       "first": "2016-07-26",
       "last": "2025-09-14"
@@ -706,7 +706,7 @@
       "last": "2019-10-29"
     },
     {
-      "name": "diariolaquinta.cl",
+      "name": "Diario La Quinta",
       "count": 3,
       "first": "2018-06-01",
       "last": "2022-01-18"
@@ -758,6 +758,12 @@
       "count": 3,
       "first": "2019-10-30",
       "last": "2019-11-21"
+    },
+    {
+      "name": "theclinic.cl",
+      "count": 3,
+      "first": "2016-07-27",
+      "last": "2019-03-31"
     },
     {
       "name": "TN",
@@ -898,6 +904,12 @@
       "last": "2023-05-01"
     },
     {
+      "name": "2025.agmer.org.ar",
+      "count": 1,
+      "first": "2026-06-18",
+      "last": "2026-06-18"
+    },
+    {
       "name": "7dias.com.do",
       "count": 1,
       "first": "2022-12-03",
@@ -920,12 +932,6 @@
       "count": 1,
       "first": "2016-09-24",
       "last": "2016-09-24"
-    },
-    {
-      "name": "AGMER",
-      "count": 1,
-      "first": "2026-06-18",
-      "last": "2026-06-18"
     },
     {
       "name": "APFDigital",
@@ -1138,13 +1144,7 @@
       "last": "2022-05-25"
     },
     {
-      "name": "Fenpruss",
-      "count": 1,
-      "first": "2019-03-25",
-      "last": "2019-03-25"
-    },
-    {
-      "name": "foreignpolicy.com",
+      "name": "Foreign Policy",
       "count": 1,
       "first": "2019-10-23",
       "last": "2019-10-23"
@@ -1216,7 +1216,7 @@
       "last": "2020-02-19"
     },
     {
-      "name": "Independent en Español",
+      "name": "independentespanol.com",
       "count": 1,
       "first": "2025-03-30",
       "last": "2025-03-30"
@@ -1342,7 +1342,7 @@
       "last": "2017-12-22"
     },
     {
-      "name": "Noticias SIN",
+      "name": "noticiassin.com",
       "count": 1,
       "first": "2026-08-06",
       "last": "2026-08-06"
@@ -1586,6 +1586,12 @@
       "count": 1,
       "first": "2018-04-23",
       "last": "2018-04-23"
+    },
+    {
+      "name": "web2.fenpruss.cl",
+      "count": 1,
+      "first": "2019-03-25",
+      "last": "2019-03-25"
     },
     {
       "name": "World Socialist Web Site",
