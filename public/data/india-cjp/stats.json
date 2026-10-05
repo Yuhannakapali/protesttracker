@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 382
+      "count": 386
     }
   ],
   "sources": [
@@ -163,7 +163,7 @@
     },
     {
       "name": "India Today",
-      "count": 50,
+      "count": 51,
       "first": "2026-07-15",
       "last": "2026-10-04"
     },
@@ -271,9 +271,9 @@
     },
     {
       "name": "The Tribune",
-      "count": 16,
+      "count": 17,
       "first": "2026-08-15",
-      "last": "2026-10-03"
+      "last": "2026-10-05"
     },
     {
       "name": "WION",
@@ -348,12 +348,6 @@
       "last": "2026-10-02"
     },
     {
-      "name": "Frontline Magazine",
-      "count": 11,
-      "first": "2026-07-20",
-      "last": "2026-10-03"
-    },
-    {
       "name": "Live Law",
       "count": 11,
       "first": "2026-07-24",
@@ -420,6 +414,12 @@
       "last": "2026-10-02"
     },
     {
+      "name": "frontline.thehindu.com",
+      "count": 7,
+      "first": "2026-07-08",
+      "last": "2026-10-03"
+    },
+    {
       "name": "opindia.com",
       "count": 7,
       "first": "2026-08-17",
@@ -436,6 +436,12 @@
       "count": 6,
       "first": "2026-08-07",
       "last": "2026-09-18"
+    },
+    {
+      "name": "Frontline Magazine",
+      "count": 6,
+      "first": "2026-07-20",
+      "last": "2026-08-25"
     },
     {
       "name": "LawChakra",
@@ -882,12 +888,6 @@
       "last": "2026-09-26"
     },
     {
-      "name": "South China Morning Post",
-      "count": 2,
-      "first": "2026-09-25",
-      "last": "2026-10-02"
-    },
-    {
       "name": "The Assam Tribune",
       "count": 2,
       "first": "2026-10-03",
@@ -1008,6 +1008,12 @@
       "last": "2026-08-24"
     },
     {
+      "name": "Anadolu Ajansı",
+      "count": 1,
+      "first": "2026-10-02",
+      "last": "2026-10-02"
+    },
+    {
       "name": "AP7AM",
       "count": 1,
       "first": "2026-10-03",
@@ -1086,7 +1092,7 @@
       "last": "2026-10-02"
     },
     {
-      "name": "CNBC",
+      "name": "cnbc.com",
       "count": 1,
       "first": "2026-09-25",
       "last": "2026-09-25"
@@ -1224,12 +1230,6 @@
       "last": "2026-07-18"
     },
     {
-      "name": "frontline.thehindu.com",
-      "count": 1,
-      "first": "2026-07-08",
-      "last": "2026-07-08"
-    },
-    {
       "name": "Genocide Watch",
       "count": 1,
       "first": "2026-06-30",
@@ -1282,6 +1282,12 @@
       "count": 1,
       "first": "2026-08-30",
       "last": "2026-08-30"
+    },
+    {
+      "name": "iiss.org",
+      "count": 1,
+      "first": "2026-08-20",
+      "last": "2026-08-20"
     },
     {
       "name": "India Legal",
@@ -1362,7 +1368,7 @@
       "last": "2026-09-25"
     },
     {
-      "name": "Lokmat.com",
+      "name": "lokmat.com",
       "count": 1,
       "first": "2026-07-22",
       "last": "2026-07-22"
@@ -1428,7 +1434,7 @@
       "last": "2026-09-28"
     },
     {
-      "name": "NewsX",
+      "name": "newsx.com",
       "count": 1,
       "first": "2026-07-23",
       "last": "2026-07-23"
@@ -1446,7 +1452,7 @@
       "last": "2026-08-22"
     },
     {
-      "name": "Pratidin Time",
+      "name": "pratidintime.com",
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
@@ -1482,10 +1488,22 @@
       "last": "2026-10-02"
     },
     {
+      "name": "scmp.com",
+      "count": 1,
+      "first": "2026-10-02",
+      "last": "2026-10-02"
+    },
+    {
       "name": "scobserver.in",
       "count": 1,
       "first": "2026-09-10",
       "last": "2026-09-10"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 1,
+      "first": "2026-09-25",
+      "last": "2026-09-25"
     },
     {
       "name": "Taipei Times",
@@ -1522,12 +1540,6 @@
       "count": 1,
       "first": "2026-09-29",
       "last": "2026-09-29"
-    },
-    {
-      "name": "The International Institute for Strategic Studies",
-      "count": 1,
-      "first": "2026-08-20",
-      "last": "2026-08-20"
     },
     {
       "name": "The Lallantop",
@@ -1699,5 +1711,5 @@
     }
   ],
   "firstDate": "2024-06-18",
-  "lastDate": "2026-10-04"
+  "lastDate": "2026-10-05"
 }
