@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 29
+      "count": 30
     }
   ],
   "sources": [
@@ -836,10 +836,16 @@
       "last": "2026-10-05"
     },
     {
-      "name": "Channels Television",
-      "count": 51,
-      "first": "2012-01-04",
+      "name": "The Guardian Nigeria News",
+      "count": 55,
+      "first": "2015-10-02",
       "last": "2026-10-01"
+    },
+    {
+      "name": "Channels Television",
+      "count": 52,
+      "first": "2012-01-04",
+      "last": "2026-10-06"
     },
     {
       "name": "Vanguard News",
@@ -860,22 +866,10 @@
       "last": "2025-12-17"
     },
     {
-      "name": "The Guardian Nigeria News",
-      "count": 35,
-      "first": "2015-10-02",
-      "last": "2026-01-27"
-    },
-    {
       "name": "Punch Newspapers",
       "count": 28,
       "first": "2020-09-04",
       "last": "2026-09-11"
-    },
-    {
-      "name": "The Guardian",
-      "count": 28,
-      "first": "2012-01-03",
-      "last": "2026-10-01"
     },
     {
       "name": "Ripples Nigeria",
@@ -900,6 +894,12 @@
       "count": 16,
       "first": "2022-01-21",
       "last": "2026-07-28"
+    },
+    {
+      "name": "Arise News",
+      "count": 15,
+      "first": "2023-06-02",
+      "last": "2026-06-04"
     },
     {
       "name": "The Sun Nigeria",
@@ -950,22 +950,10 @@
       "last": "2026-07-26"
     },
     {
-      "name": "Arise News",
+      "name": "The Guardian",
       "count": 8,
-      "first": "2023-06-02",
-      "last": "2026-02-13"
-    },
-    {
-      "name": "arise.tv",
-      "count": 7,
-      "first": "2023-06-19",
-      "last": "2026-06-04"
-    },
-    {
-      "name": "Nigeria Labour Congress (NLC)",
-      "count": 7,
-      "first": "2023-03-30",
-      "last": "2026-06-03"
+      "first": "2012-01-03",
+      "last": "2026-01-26"
     },
     {
       "name": "TVC News",
@@ -1004,6 +992,12 @@
       "last": "2026-10-05"
     },
     {
+      "name": "Nigeria Labour Congress (NLC)",
+      "count": 5,
+      "first": "2023-03-30",
+      "last": "2026-06-03"
+    },
+    {
       "name": "Reuters",
       "count": 5,
       "first": "2012-01-10",
@@ -1034,16 +1028,16 @@
       "last": "2026-01-26"
     },
     {
+      "name": "Nigerian Voice",
+      "count": 4,
+      "first": "2012-01-13",
+      "last": "2026-09-11"
+    },
+    {
       "name": "businessday.ng",
       "count": 3,
       "first": "2023-11-23",
       "last": "2026-01-24"
-    },
-    {
-      "name": "Nigerian Voice",
-      "count": 3,
-      "first": "2012-01-13",
-      "last": "2026-09-11"
     },
     {
       "name": "Peoples Gazette Nigeria",
@@ -1106,10 +1100,22 @@
       "last": "2026-06-08"
     },
     {
+      "name": "nlcng.org",
+      "count": 2,
+      "first": "2024-12-02",
+      "last": "2026-05-29"
+    },
+    {
       "name": "Opinion Nigeria",
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
+    },
+    {
+      "name": "The ICIR",
+      "count": 2,
+      "first": "2023-10-01",
+      "last": "2026-02-03"
     },
     {
       "name": "TRT Afrika",
@@ -1118,7 +1124,7 @@
       "last": "2026-04-12"
     },
     {
-      "name": "ynaija.com",
+      "name": "YNaija",
       "count": 2,
       "first": "2025-07-24",
       "last": "2026-03-14"
@@ -1280,12 +1286,6 @@
       "last": "2026-08-28"
     },
     {
-      "name": "icirnigeria.org",
-      "count": 1,
-      "first": "2026-02-03",
-      "last": "2026-02-03"
-    },
-    {
       "name": "impactpolicies.org",
       "count": 1,
       "first": "2026-02-12",
@@ -1418,12 +1418,6 @@
       "last": "2024-03-19"
     },
     {
-      "name": "The ICIR",
-      "count": 1,
-      "first": "2023-10-01",
-      "last": "2023-10-01"
-    },
-    {
       "name": "theeagleonline.com.ng",
       "count": 1,
       "first": "2026-06-08",
@@ -1446,12 +1440,6 @@
       "count": 1,
       "first": "2020-09-11",
       "last": "2020-09-11"
-    },
-    {
-      "name": "thenigerianvoice.com",
-      "count": 1,
-      "first": "2021-12-18",
-      "last": "2021-12-18"
     },
     {
       "name": "thestreetjournal.org",
@@ -1485,5 +1473,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-05"
+  "lastDate": "2026-10-06"
 }
