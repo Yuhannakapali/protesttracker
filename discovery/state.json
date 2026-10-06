@@ -2460,7 +2460,7 @@
         "2026-09-27",
         "2026-09-30"
       ],
-      "articleCount": 25,
+      "articleCount": 27,
       "firstSeen": "2026-09-01",
       "lastSeen": "2026-10-02",
       "samples": [
@@ -2538,7 +2538,7 @@
         "2026-09-21",
         "2026-10-01"
       ],
-      "articleCount": 7,
+      "articleCount": 8,
       "firstSeen": "2026-09-05",
       "lastSeen": "2026-10-01",
       "samples": [
@@ -2659,7 +2659,7 @@
         "2026-09-20",
         "2026-09-30"
       ],
-      "articleCount": 7,
+      "articleCount": 8,
       "firstSeen": "2026-09-02",
       "lastSeen": "2026-09-30",
       "samples": [
@@ -6482,7 +6482,7 @@
         "2026-09-30",
         "2026-09-29"
       ],
-      "articleCount": 9,
+      "articleCount": 11,
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-30",
       "samples": [
@@ -23317,7 +23317,8 @@
         "ancam",
         "pengesahan",
         "ketenagakerjaan",
-        "ruu"
+        "ruu",
+        "buruh"
       ],
       "domains": [
         "daerah.sindonews.com",
@@ -23328,7 +23329,7 @@
         "2026-09-24",
         "2026-09-29"
       ],
-      "articleCount": 8,
+      "articleCount": 9,
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-09-29",
       "samples": [
@@ -24807,10 +24808,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Pendukung Gelar Doa Bersama Sebelum Vonis Khariq Anhar",
+          "url": "https://www.tempo.co/hukum/sebelum-vonis-khariq-anhar-2297187",
+          "domain": "tempo.co",
+          "date": "2026-09-30"
+        },
         {
           "title": "Pendukung Gelar Doa Bersama Sebelum Vonis Khariq Anhar",
           "url": "https://www.tempo.co/hukum/sebelum-vonis-khariq-anhar-2297187",
@@ -24907,7 +24914,10 @@
         "solar",
         "subsidi",
         "surabaya",
-        "tuntutan"
+        "tuntutan",
+        "ketapang",
+        "sopir",
+        "truk"
       ],
       "domains": [
         "jatim.jpnn.com"
@@ -24915,10 +24925,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Barcode Subsidi Solar Hingga Kemacetan Ketapang Jadi Tuntutan Demo Sopir Truk di Surabaya",
+          "url": "https://jatim.jpnn.com/jatim-terkini/48992/barcode-subsidi-solar-hingga-kemacetan-ketapang-jadi-tuntutan-demo-sopir-truk-di-surabaya",
+          "domain": "jatim.jpnn.com",
+          "date": "2026-09-30"
+        },
         {
           "title": "Barcode Subsidi Solar Hingga Kemacetan Ketapang Jadi Tuntutan Demo Sopir Truk di Surabaya",
           "url": "https://jatim.jpnn.com/jatim-terkini/48992/barcode-subsidi-solar-hingga-kemacetan-ketapang-jadi-tuntutan-demo-sopir-truk-di-surabaya",
@@ -26657,10 +26673,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Men urged to confront GBVF as national marches take place",
+          "url": "https://www.ecr.co.za/news/news/march-and-march-gbvf-national-action-durban/",
+          "domain": "ecr.co.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "Men urged to confront GBVF as national marches take place",
           "url": "https://www.ecr.co.za/news/news/march-and-march-gbvf-national-action-durban/",
@@ -26698,10 +26720,16 @@
       "daysSeen": [
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "samples": [
+        {
+          "title": "March and March against GBV and anti - immigration protests planned across SA on Wednesday",
+          "url": "https://www.citizen.co.za/news/march-and-march-against-gbv-and-anti-immigration-protests-planned-across-sa-on-wednesday/",
+          "domain": "citizen.co.za",
+          "date": "2026-09-29"
+        },
         {
           "title": "March and March against GBV and anti - immigration protests planned across SA on Wednesday",
           "url": "https://www.citizen.co.za/news/march-and-march-against-gbv-and-anti-immigration-protests-planned-across-sa-on-wednesday/",
@@ -26738,10 +26766,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "South African Immigration Protests Escalate Pressure on Government",
+          "url": "https://www.africa.com/top-10-news/south-african-immigration-protests-escalate-pressure-on-government",
+          "domain": "africa.com",
+          "date": "2026-10-02"
+        },
         {
           "title": "South African Immigration Protests Escalate Pressure on Government",
           "url": "https://www.africa.com/top-10-news/south-african-immigration-protests-escalate-pressure-on-government",
@@ -26815,10 +26849,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "Ronaldo Portugal future in doubt after walkout",
+          "url": "https://www.ewn.co.za/2026/10/02/ronaldos-portugal-future-in-doubt-after-walkout",
+          "domain": "ewn.co.za",
+          "date": "2026-10-02"
+        },
         {
           "title": "Ronaldo Portugal future in doubt after walkout",
           "url": "https://www.ewn.co.za/2026/10/02/ronaldos-portugal-future-in-doubt-after-walkout",
@@ -26896,10 +26936,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Activists call out hypocrisy of March and March protests",
+          "url": "https://groundup.org.za/article/march-and-march/",
+          "domain": "groundup.org.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "Activists call out hypocrisy of March and March protests",
           "url": "https://groundup.org.za/article/march-and-march/",
@@ -26939,10 +26985,16 @@
       "daysSeen": [
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "samples": [
+        {
+          "title": "Julius Malema granted leave to appeal conviction in gun - discharge case",
+          "url": "https://www.thesouthafrican.com/news/politics/julius-malema-firearm-case-granted-leave-to-appeal-conviction-latest/",
+          "domain": "thesouthafrican.com",
+          "date": "2026-09-29"
+        },
         {
           "title": "Julius Malema granted leave to appeal conviction in gun - discharge case",
           "url": "https://www.thesouthafrican.com/news/politics/julius-malema-firearm-case-granted-leave-to-appeal-conviction-latest/",
@@ -27060,10 +27112,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "The Mitsubishi Destinator is the family SUV surprise of the year",
+          "url": "https://mg.co.za/news/motoring/2026-10-01-the-mitsubishi-destinator-is-the-family-suv-surprise-of-the-year/",
+          "domain": "mg.co.za",
+          "date": "2026-10-02"
+        },
         {
           "title": "The Mitsubishi Destinator is the family SUV surprise of the year",
           "url": "https://mg.co.za/news/motoring/2026-10-01-the-mitsubishi-destinator-is-the-family-suv-surprise-of-the-year/",
@@ -27102,10 +27160,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "New radar to help big birds navigate around little birds",
+          "url": "https://www.timeslive.co.za/news/south-africa/2026-10-02-new-radar-to-help-big-birds-navigate-around-little-birds/",
+          "domain": "timeslive.co.za",
+          "date": "2026-10-02"
+        },
         {
           "title": "New radar to help big birds navigate around little birds",
           "url": "https://www.timeslive.co.za/news/south-africa/2026-10-02-new-radar-to-help-big-birds-navigate-around-little-birds/",
@@ -27197,7 +27261,7 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 8,
+      "articleCount": 11,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
@@ -27270,7 +27334,7 @@
         "2026-09-30",
         "2026-09-29"
       ],
-      "articleCount": 15,
+      "articleCount": 20,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-30",
       "samples": [
@@ -27335,7 +27399,7 @@
         "2026-10-02",
         "2026-10-01"
       ],
-      "articleCount": 12,
+      "articleCount": 15,
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-02",
       "samples": [
@@ -27388,10 +27452,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Zulu regiments storm Ingonyama Trust meeting",
+          "url": "https://www.ecr.co.za/news/news/zulu-regiments-storm-ingonyama-meeting/",
+          "domain": "ecr.co.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "Zulu regiments storm Ingonyama Trust meeting",
           "url": "https://www.ecr.co.za/news/news/zulu-regiments-storm-ingonyama-meeting/",
@@ -27429,10 +27499,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Former PP Busisiwe Mkhwebane legal woes far from over",
+          "url": "https://www.ewn.co.za/2026/10/01/former-pp-busisiwe-mkhwebanes-legal-woes-far-from-over",
+          "domain": "ewn.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "Former PP Busisiwe Mkhwebane legal woes far from over",
           "url": "https://www.ewn.co.za/2026/10/01/former-pp-busisiwe-mkhwebanes-legal-woes-far-from-over",
@@ -27471,10 +27547,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Is AgriSA setting up to betray our farmers – again ? - TCS",
+          "url": "https://www.politicsweb.co.za/news/is-agrisa-setting-up-to-betray-our-farmers-again-tcs",
+          "domain": "politicsweb.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "Is AgriSA setting up to betray our farmers – again ? - TCS",
           "url": "https://www.politicsweb.co.za/news/is-agrisa-setting-up-to-betray-our-farmers-again-tcs",
@@ -27556,10 +27638,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Gaza conflict : George Galloway and Yvonne Ridley rally support in Cape Town",
+          "url": "https://www.ewn.co.za/2026/09/30/gaza-conflict-george-galloway-and-yvonne-ridley-rally-support-in-cape-town",
+          "domain": "ewn.co.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "Gaza conflict : George Galloway and Yvonne Ridley rally support in Cape Town",
           "url": "https://www.ewn.co.za/2026/09/30/gaza-conflict-george-galloway-and-yvonne-ridley-rally-support-in-cape-town",
@@ -27599,10 +27687,16 @@
       "daysSeen": [
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "samples": [
+        {
+          "title": "Resilient by design : Bushtec tents complete Sindile Lodge at Shamwari",
+          "url": "https://www.bizcommunity.com/article/resilient-by-design-bushtec-tents-complete-sindile-lodge-at-shamwari-636671a",
+          "domain": "bizcommunity.com",
+          "date": "2026-09-29"
+        },
         {
           "title": "Resilient by design : Bushtec tents complete Sindile Lodge at Shamwari",
           "url": "https://www.bizcommunity.com/article/resilient-by-design-bushtec-tents-complete-sindile-lodge-at-shamwari-636671a",
@@ -27648,7 +27742,7 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 6,
+      "articleCount": 8,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
@@ -27699,10 +27793,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "On Netanyahu UNGA 81 speech | Politicsweb",
+          "url": "https://www.politicsweb.co.za/news/on-netanyahus-unga-81-speech",
+          "domain": "politicsweb.co.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "On Netanyahu UNGA 81 speech | Politicsweb",
           "url": "https://www.politicsweb.co.za/news/on-netanyahus-unga-81-speech",
@@ -27749,7 +27849,7 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 6,
+      "articleCount": 8,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
@@ -27804,10 +27904,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Family of woman killed by US immigration agent sues Trump administration",
+          "url": "https://www.news24.com/world/family-of-woman-killed-by-us-immigration-agent-sues-trump-administration-20261001-1004",
+          "domain": "news24.com",
+          "date": "2026-10-01"
+        },
         {
           "title": "Family of woman killed by US immigration agent sues Trump administration",
           "url": "https://www.news24.com/world/family-of-woman-killed-by-us-immigration-agent-sues-trump-administration-20261001-1004",
@@ -27995,10 +28101,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "Prima Facie  turns the spotlight on rape and the law",
+          "url": "https://mg.co.za/friday/2026-10-02-prima-facie-turns-the-spotlight-on-rape-and-the-law/",
+          "domain": "mg.co.za",
+          "date": "2026-10-02"
+        },
         {
           "title": "Prima Facie  turns the spotlight on rape and the law",
           "url": "https://mg.co.za/friday/2026-10-02-prima-facie-turns-the-spotlight-on-rape-and-the-law/",
@@ -28036,10 +28148,16 @@
       "daysSeen": [
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "samples": [
+        {
+          "title": "The document security gap hiding in everyday workflows",
+          "url": "https://www.itweb.co.za/article/the-document-security-gap-hiding-in-everyday-workflows/PmxVEMKEYdmvQY85",
+          "domain": "itweb.co.za",
+          "date": "2026-09-29"
+        },
         {
           "title": "The document security gap hiding in everyday workflows",
           "url": "https://www.itweb.co.za/article/the-document-security-gap-hiding-in-everyday-workflows/PmxVEMKEYdmvQY85",
@@ -28087,7 +28205,7 @@
         "2026-09-30",
         "2026-10-01"
       ],
-      "articleCount": 6,
+      "articleCount": 8,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-10-01",
       "samples": [
@@ -28144,10 +28262,16 @@
         "2026-09-30",
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Rail theft case accused changes lawyers for 7th time",
+          "url": "https://www.dailymaverick.co.za/article/2026-09-30-eastern-cape-rail-theft-case-accused-changes-lawyers-for-7th-time/",
+          "domain": "dailymaverick.co.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "Rail theft case accused changes lawyers for 7th time",
           "url": "https://www.dailymaverick.co.za/article/2026-09-30-eastern-cape-rail-theft-case-accused-changes-lawyers-for-7th-time/",
@@ -28220,7 +28344,8 @@
         "never",
         "probe",
         "she",
-        "uct"
+        "uct",
+        "centre"
       ],
       "domains": [
         "timeslive.co.za"
@@ -28228,10 +28353,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "UCT academic at centre of Moshabela Forest Hill probe says she never complained",
+          "url": "https://www.timeslive.co.za/news/south-africa/2026-09-30-uct-academic-at-centre-of-moshabelas-forest-hill-probe-says-she-never-complained/",
+          "domain": "timeslive.co.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "UCT academic at centre of Moshabela Forest Hill probe says she never complained",
           "url": "https://www.timeslive.co.za/news/south-africa/2026-09-30-uct-academic-at-centre-of-moshabelas-forest-hill-probe-says-she-never-complained/",
@@ -28285,7 +28416,7 @@
         "2026-09-29",
         "2026-10-01"
       ],
-      "articleCount": 9,
+      "articleCount": 10,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-10-01",
       "samples": [
@@ -28340,10 +28471,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "TOM EATON | South Africa , prepare to unite against the machine Tucker Carlson is jumpstarting",
+          "url": "https://www.timeslive.co.za/opinion/2026-10-02-tom-eaton-south-africa-prepare-to-unite-against-the-machine-tucker-carlson-is-jumpstarting/",
+          "domain": "timeslive.co.za",
+          "date": "2026-10-02"
+        },
         {
           "title": "TOM EATON | South Africa , prepare to unite against the machine Tucker Carlson is jumpstarting",
           "url": "https://www.timeslive.co.za/opinion/2026-10-02-tom-eaton-south-africa-prepare-to-unite-against-the-machine-tucker-carlson-is-jumpstarting/",
@@ -28447,10 +28584,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "I have been victimised : More than R4k  deducted  from Gauteng EMS workers who refused unpaid overtime",
+          "url": "https://www.citizen.co.za/news/i-have-been-victimised-more-than-r4k-deducted-from-gauteng-ems-workers-who-refused-unpaid-overtime/",
+          "domain": "citizen.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "I have been victimised : More than R4k  deducted  from Gauteng EMS workers who refused unpaid overtime",
           "url": "https://www.citizen.co.za/news/i-have-been-victimised-more-than-r4k-deducted-from-gauteng-ems-workers-who-refused-unpaid-overtime/",
@@ -28494,7 +28637,7 @@
         "2026-10-01",
         "2026-10-02"
       ],
-      "articleCount": 6,
+      "articleCount": 8,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-02",
       "samples": [
@@ -28549,10 +28692,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "SA should remain firm while continuing to engage Washington  – Channel Africa",
+          "url": "https://www.channelafrica.co.za/channelafrica/news/sa-should-remain-firm-while-continuing-to-engage-washington/",
+          "domain": "channelafrica.co.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "SA should remain firm while continuing to engage Washington  – Channel Africa",
           "url": "https://www.channelafrica.co.za/channelafrica/news/sa-should-remain-firm-while-continuing-to-engage-washington/",
@@ -28591,10 +28740,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Good news for households looking to get new solar installations",
+          "url": "https://www.citizen.co.za/news/eskom-extends-solar-registration-waiver-drops-costs-rooftop-users/",
+          "domain": "citizen.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "Good news for households looking to get new solar installations",
           "url": "https://www.citizen.co.za/news/eskom-extends-solar-registration-waiver-drops-costs-rooftop-users/",
@@ -28674,10 +28829,16 @@
       "daysSeen": [
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "samples": [
+        {
+          "title": "Complexity isnt the problem . Fragmentation is",
+          "url": "https://www.itweb.co.za/article/complexity-isnt-the-problem-fragmentation-is/Gb3BwMWaODzv2k6V",
+          "domain": "itweb.co.za",
+          "date": "2026-09-29"
+        },
         {
           "title": "Complexity isnt the problem . Fragmentation is",
           "url": "https://www.itweb.co.za/article/complexity-isnt-the-problem-fragmentation-is/Gb3BwMWaODzv2k6V",
@@ -28764,7 +28925,7 @@
         "2026-09-30",
         "2026-09-29"
       ],
-      "articleCount": 6,
+      "articleCount": 8,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-30",
       "samples": [
@@ -28820,10 +28981,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "LUCKY MATHEBULA | GBV crisis : violence bites where toothless leadership fails",
+          "url": "https://www.timeslive.co.za/opinion/2026-10-02-lucky-mathebula-gbv-crisis-violence-bites-where-toothless-leadership-fails/",
+          "domain": "timeslive.co.za",
+          "date": "2026-10-02"
+        },
         {
           "title": "LUCKY MATHEBULA | GBV crisis : violence bites where toothless leadership fails",
           "url": "https://www.timeslive.co.za/opinion/2026-10-02-lucky-mathebula-gbv-crisis-violence-bites-where-toothless-leadership-fails/",
@@ -28991,10 +29158,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "It u : Sibanyoni Putco bid puts political access and business interests under scrutiny",
+          "url": "https://www.dailymaverick.co.za/article/2026-09-30-sibanyonis-putco-bid-puts-focus-on-political-access-business-interests/",
+          "domain": "dailymaverick.co.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "It u : Sibanyoni Putco bid puts political access and business interests under scrutiny",
           "url": "https://www.dailymaverick.co.za/article/2026-09-30-sibanyonis-putco-bid-puts-focus-on-political-access-business-interests/",
@@ -29074,10 +29247,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "City Power  ringfencing  guarantees failure",
+          "url": "https://www.dailymaverick.co.za/article/2026-09-30-fenced-in-why-city-powers-ringfencing-in-joburg-is-a-30-revenue-grab/",
+          "domain": "dailymaverick.co.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "City Power  ringfencing  guarantees failure",
           "url": "https://www.dailymaverick.co.za/article/2026-09-30-fenced-in-why-city-powers-ringfencing-in-joburg-is-a-30-revenue-grab/",
@@ -29117,10 +29296,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
+          "url": "https://www.ecr.co.za/news/news/openai-cheaper-ai-model-chatgpt-ai-app-store/",
+          "domain": "ecr.co.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
           "url": "https://www.ecr.co.za/news/news/openai-cheaper-ai-model-chatgpt-ai-app-store/",
@@ -29158,10 +29343,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "eThekwini ratepayers lose two court battles",
+          "url": "https://www.timeslive.co.za/news/south-africa/2026-10-02-ethekwini-ratepayers-lose-two-court-battles/",
+          "domain": "timeslive.co.za",
+          "date": "2026-10-02"
+        },
         {
           "title": "eThekwini ratepayers lose two court battles",
           "url": "https://www.timeslive.co.za/news/south-africa/2026-10-02-ethekwini-ratepayers-lose-two-court-battles/",
@@ -29242,10 +29433,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "AfriForum Kriel slams Pretoria demarche of US envoy Bozell as diplomatic rift deepens",
+          "url": "https://www.news24.com/politics/afriforums-kriel-slams-pretorias-demarche-of-us-envoy-bozell-as-diplomatic-rift-deepens-20260930-0594",
+          "domain": "news24.com",
+          "date": "2026-09-30"
+        },
         {
           "title": "AfriForum Kriel slams Pretoria demarche of US envoy Bozell as diplomatic rift deepens",
           "url": "https://www.news24.com/politics/afriforums-kriel-slams-pretorias-demarche-of-us-envoy-bozell-as-diplomatic-rift-deepens-20260930-0594",
@@ -29283,10 +29480,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Capitec fintech income surges amid MVNO gains",
+          "url": "https://www.itweb.co.za/article/capitecs-fintech-income-surges-amid-mvno-gains/KBpdgvpm5xE7LEew",
+          "domain": "itweb.co.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "Capitec fintech income surges amid MVNO gains",
           "url": "https://www.itweb.co.za/article/capitecs-fintech-income-surges-amid-mvno-gains/KBpdgvpm5xE7LEew",
@@ -29326,10 +29529,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Somali families face renewed violence amid worsening hunger crisis",
+          "url": "https://www.africa.com/apo/somali-families-face-renewed-violence-amid-worsening-hunger-crisis",
+          "domain": "africa.com",
+          "date": "2026-10-01"
+        },
         {
           "title": "Somali families face renewed violence amid worsening hunger crisis",
           "url": "https://www.africa.com/apo/somali-families-face-renewed-violence-amid-worsening-hunger-crisis",
@@ -29415,7 +29624,7 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 6,
+      "articleCount": 8,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
@@ -29470,10 +29679,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "A diversified engine firing on all cylinders : Capitec headline earnings up 19 %",
+          "url": "https://www.bizcommunity.com/article/a-diversified-engine-firing-on-all-cylinders-capitec-headline-earnings-up-19-525570a",
+          "domain": "bizcommunity.com",
+          "date": "2026-09-30"
+        },
         {
           "title": "A diversified engine firing on all cylinders : Capitec headline earnings up 19 %",
           "url": "https://www.bizcommunity.com/article/a-diversified-engine-firing-on-all-cylinders-capitec-headline-earnings-up-19-525570a",
@@ -29512,10 +29727,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Renewable energy was promised as a path to prosperity what happened ?",
+          "url": "https://www.dailymaverick.co.za/article/2026-10-01-renewable-energy-was-promised-as-a-path-to-prosperity-what-happened/",
+          "domain": "dailymaverick.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "Renewable energy was promised as a path to prosperity what happened ?",
           "url": "https://www.dailymaverick.co.za/article/2026-10-01-renewable-energy-was-promised-as-a-path-to-prosperity-what-happened/",
@@ -29554,10 +29775,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "SRD grant is not keeping people out of work , evidence shows",
+          "url": "https://www.dailymaverick.co.za/article/2026-10-01-srd-grant-is-not-keeping-people-out-of-work-evidence-shows/",
+          "domain": "dailymaverick.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "SRD grant is not keeping people out of work , evidence shows",
           "url": "https://www.dailymaverick.co.za/article/2026-10-01-srd-grant-is-not-keeping-people-out-of-work-evidence-shows/",
@@ -29592,10 +29819,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Agentic AI and the SA cloud paradox",
+          "url": "https://www.itweb.co.za/article/agentic-ai-and-the-sa-cloud-paradox/nWJadMbN3DbMbjO1",
+          "domain": "itweb.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "Agentic AI and the SA cloud paradox",
           "url": "https://www.itweb.co.za/article/agentic-ai-and-the-sa-cloud-paradox/nWJadMbN3DbMbjO1",
@@ -29650,7 +29883,7 @@
         "2026-10-01",
         "2026-09-30"
       ],
-      "articleCount": 12,
+      "articleCount": 16,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-10-01",
       "samples": [
@@ -29708,7 +29941,7 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 6,
+      "articleCount": 8,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
@@ -29848,10 +30081,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "SA advertisers lose up to R12bn a year to ad fraud",
+          "url": "https://www.itweb.co.za/article/sa-advertisers-lose-up-to-r12bn-a-year-to-ad-fraud/Pero3qZ36JzvQb6m",
+          "domain": "itweb.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "SA advertisers lose up to R12bn a year to ad fraud",
           "url": "https://www.itweb.co.za/article/sa-advertisers-lose-up-to-r12bn-a-year-to-ad-fraud/Pero3qZ36JzvQb6m",
@@ -29892,10 +30131,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Triple Assault : West Indies slam 3 centuries in single ODI inning in a first ; India concede 400+ at home for third time",
+          "url": "http://www.africaleader.com/news/279343576/triple-assault-west-indies-slam-3-centuries-in-single-odi-inning-in-a-first-india-concede-400-at-home-for-third-time",
+          "domain": "africaleader.com",
+          "date": "2026-09-30"
+        },
         {
           "title": "Triple Assault : West Indies slam 3 centuries in single ODI inning in a first ; India concede 400+ at home for third time",
           "url": "http://www.africaleader.com/news/279343576/triple-assault-west-indies-slam-3-centuries-in-single-odi-inning-in-a-first-india-concede-400-at-home-for-third-time",
@@ -29972,10 +30217,16 @@
       "daysSeen": [
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "samples": [
+        {
+          "title": "V & A Waterfront CIO hid ties to R1 . 87m IT consultants",
+          "url": "https://www.itweb.co.za/article/va-waterfront-cio-hid-ties-to-r187m-it-consultants/xA9PO7NE21Rvo4J8",
+          "domain": "itweb.co.za",
+          "date": "2026-09-29"
+        },
         {
           "title": "V & A Waterfront CIO hid ties to R1 . 87m IT consultants",
           "url": "https://www.itweb.co.za/article/va-waterfront-cio-hid-ties-to-r187m-it-consultants/xA9PO7NE21Rvo4J8",
@@ -30099,10 +30350,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "OFENTSE DAVHIE | Ronald Lamola is worsening relations with Washington",
+          "url": "https://www.businessday.co.za/opinion/2026-10-02-ofentse-davhie-ronald-lamolas-stance-risks-worsening-us-relations/",
+          "domain": "businessday.co.za",
+          "date": "2026-10-02"
+        },
         {
           "title": "OFENTSE DAVHIE | Ronald Lamola is worsening relations with Washington",
           "url": "https://www.businessday.co.za/opinion/2026-10-02-ofentse-davhie-ronald-lamolas-stance-risks-worsening-us-relations/",
@@ -30267,10 +30524,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Sibanye - Stillwater sits out capital raise on copper project",
+          "url": "https://www.miningmx.com/news/platinum/67637-sibanye-stillwater-sits-out-c240m-capital-raise-on-copper-project/",
+          "domain": "miningmx.com",
+          "date": "2026-10-01"
+        },
         {
           "title": "Sibanye - Stillwater sits out capital raise on copper project",
           "url": "https://www.miningmx.com/news/platinum/67637-sibanye-stillwater-sits-out-c240m-capital-raise-on-copper-project/",
@@ -30310,10 +30573,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "South Africa : Immediate measures on GBVF come seven years too late",
+          "url": "https://www.polity.org.za/article/south-africa-immediate-measures-on-gbvf-come-seven-years-too-late-2026-09-30",
+          "domain": "polity.org.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "South Africa : Immediate measures on GBVF come seven years too late",
           "url": "https://www.polity.org.za/article/south-africa-immediate-measures-on-gbvf-come-seven-years-too-late-2026-09-30",
@@ -30353,10 +30622,16 @@
       "daysSeen": [
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "samples": [
+        {
+          "title": "The retirement system unfair bet and how you can improve the outcome",
+          "url": "https://www.biznews.com/sponsored/retirement-system-improve-outcome-fred-van-der-vyfer-old-mutual",
+          "domain": "biznews.com",
+          "date": "2026-09-29"
+        },
         {
           "title": "The retirement system unfair bet and how you can improve the outcome",
           "url": "https://www.biznews.com/sponsored/retirement-system-improve-outcome-fred-van-der-vyfer-old-mutual",
@@ -30394,10 +30669,16 @@
       "daysSeen": [
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "samples": [
+        {
+          "title": "Keeping SA reform and policy commitments on track - BLSA",
+          "url": "https://www.politicsweb.co.za/news/keeping-sas-reform-and-policy-commitments-on-track-blsa",
+          "domain": "politicsweb.co.za",
+          "date": "2026-09-29"
+        },
         {
           "title": "Keeping SA reform and policy commitments on track - BLSA",
           "url": "https://www.politicsweb.co.za/news/keeping-sas-reform-and-policy-commitments-on-track-blsa",
@@ -30434,10 +30715,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Stream of the Week : SA AI festival finalist – Gadget",
+          "url": "https://gadget.co.za/aifestivalfinalist32t/",
+          "domain": "gadget.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "Stream of the Week : SA AI festival finalist – Gadget",
           "url": "https://gadget.co.za/aifestivalfinalist32t/",
@@ -30557,10 +30844,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "SOWETAN | PSL must explain why MTN8 finals go to Durban",
+          "url": "https://www.sowetan.co.za/opinion/2026-10-02-sowetan-psl-must-explain-why-mtn8-finals-go-to-durban/",
+          "domain": "sowetan.co.za",
+          "date": "2026-10-02"
+        },
         {
           "title": "SOWETAN | PSL must explain why MTN8 finals go to Durban",
           "url": "https://www.sowetan.co.za/opinion/2026-10-02-sowetan-psl-must-explain-why-mtn8-finals-go-to-durban/",
@@ -30598,10 +30891,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Hertha Metals Secures $133 . 65M for Steel Production",
+          "url": "https://ventureburn.com/hertha-metals-secures-133-65m-for-steel-production/",
+          "domain": "ventureburn.com",
+          "date": "2026-09-30"
+        },
         {
           "title": "Hertha Metals Secures $133 . 65M for Steel Production",
           "url": "https://ventureburn.com/hertha-metals-secures-133-65m-for-steel-production/",
@@ -30726,10 +31025,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "10 - Year Treasury Yield Nears 6 %: 4 Bitcoin Signals",
+          "url": "https://memeburn.com/treasury-yield-bitcoin/",
+          "domain": "memeburn.com",
+          "date": "2026-10-02"
+        },
         {
           "title": "10 - Year Treasury Yield Nears 6 %: 4 Bitcoin Signals",
           "url": "https://memeburn.com/treasury-yield-bitcoin/",
@@ -30766,10 +31071,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Confident Beech heads to Zwartkops Raceway",
+          "url": "https://theherald.co.za/lifestyle/motoring/2026-09-11-confident-beech-heads-to-zwartkops-raceway/",
+          "domain": "theherald.co.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "Confident Beech heads to Zwartkops Raceway",
           "url": "https://theherald.co.za/lifestyle/motoring/2026-09-11-confident-beech-heads-to-zwartkops-raceway/",
@@ -30852,10 +31163,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Reserve Bank MPC finally back at full strength",
+          "url": "https://www.businessday.co.za/economy/2026-10-01-reserve-banks-mpc-finally-back-at-full-strength/",
+          "domain": "businessday.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "Reserve Bank MPC finally back at full strength",
           "url": "https://www.businessday.co.za/economy/2026-10-01-reserve-banks-mpc-finally-back-at-full-strength/",
@@ -30979,10 +31296,16 @@
       "daysSeen": [
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "samples": [
+        {
+          "title": "From apartheid to illiberalism - Azhar Cachalia",
+          "url": "https://www.politicsweb.co.za/news/from-apartheid-to-illiberalism-azhar-cachalia",
+          "domain": "politicsweb.co.za",
+          "date": "2026-09-29"
+        },
         {
           "title": "From apartheid to illiberalism - Azhar Cachalia",
           "url": "https://www.politicsweb.co.za/news/from-apartheid-to-illiberalism-azhar-cachalia",
@@ -31021,10 +31344,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Lula and Bolsonaro tied in polls ahead of presidential vote",
+          "url": "https://www.businessday.co.za/world/americas/2026-10-01-lula-and-bolsonaro-tied-in-polls-ahead-of-presidential-vote/",
+          "domain": "businessday.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "Lula and Bolsonaro tied in polls ahead of presidential vote",
           "url": "https://www.businessday.co.za/world/americas/2026-10-01-lula-and-bolsonaro-tied-in-polls-ahead-of-presidential-vote/",
@@ -31101,10 +31430,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "Costly delay",
+          "url": "https://www.polity.org.za/article/costly-delay-2026-10-02",
+          "domain": "polity.org.za",
+          "date": "2026-10-02"
+        },
         {
           "title": "Costly delay",
           "url": "https://www.polity.org.za/article/costly-delay-2026-10-02",
@@ -31144,10 +31479,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Report : Phil Mickelson completed stay at addiction treatment center",
+          "url": "http://www.africaleader.com/news/279344335/report-phil-mickelson-completed-stay-at-addiction-treatment-center",
+          "domain": "africaleader.com",
+          "date": "2026-10-01"
+        },
         {
           "title": "Report : Phil Mickelson completed stay at addiction treatment center",
           "url": "http://www.africaleader.com/news/279344335/report-phil-mickelson-completed-stay-at-addiction-treatment-center",
@@ -31183,10 +31524,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "As extreme El Niño threatens , government holds off on funding",
+          "url": "https://www.businessday.co.za/economy/2026-10-02-as-el-nino-threatens-government-holds-off-on-funding/",
+          "domain": "businessday.co.za",
+          "date": "2026-10-02"
+        },
         {
           "title": "As extreme El Niño threatens , government holds off on funding",
           "url": "https://www.businessday.co.za/economy/2026-10-02-as-el-nino-threatens-government-holds-off-on-funding/",
@@ -31219,7 +31566,8 @@
         "bank",
         "communities",
         "access",
-        "risk"
+        "risk",
+        "across"
       ],
       "domains": [
         "polity.org.za"
@@ -31227,10 +31575,16 @@
       "daysSeen": [
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "samples": [
+        {
+          "title": "Palestinian Communities at Risk of Erasure : Amid escalating settler violence and access restrictions across the West Bank",
+          "url": "https://www.polity.org.za/article/palestinian-communities-at-risk-of-erasure-amid-escalating-settler-violence-and-access-restrictions-across-the-west-bank-2026-09-29",
+          "domain": "polity.org.za",
+          "date": "2026-09-29"
+        },
         {
           "title": "Palestinian Communities at Risk of Erasure : Amid escalating settler violence and access restrictions across the West Bank",
           "url": "https://www.polity.org.za/article/palestinian-communities-at-risk-of-erasure-amid-escalating-settler-violence-and-access-restrictions-across-the-west-bank-2026-09-29",
@@ -31431,10 +31785,16 @@
       "daysSeen": [
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "samples": [
+        {
+          "title": "Data governance culture is key to successful AI governance",
+          "url": "https://it-online.co.za/2026/09/29/data-governance-culture-is-key-to-successful-ai-governance/",
+          "domain": "it-online.co.za",
+          "date": "2026-09-29"
+        },
         {
           "title": "Data governance culture is key to successful AI governance",
           "url": "https://it-online.co.za/2026/09/29/data-governance-culture-is-key-to-successful-ai-governance/",
@@ -31519,10 +31879,16 @@
       "daysSeen": [
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "samples": [
+        {
+          "title": "SpaceX enters ring as new bill pits SA telcos against civil society",
+          "url": "https://sundayworld.co.za/business/elon-musks-spacex-joins-the-fight-around-sas-proposed-new-telecoms-law/",
+          "domain": "sundayworld.co.za",
+          "date": "2026-09-29"
+        },
         {
           "title": "SpaceX enters ring as new bill pits SA telcos against civil society",
           "url": "https://sundayworld.co.za/business/elon-musks-spacex-joins-the-fight-around-sas-proposed-new-telecoms-law/",
@@ -31563,10 +31929,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "MAS shifts investment focus beyond Europe as annual earnings tumble",
+          "url": "https://www.businessday.co.za/companies/2026-09-30-mas-shifts-investment-focus-beyond-europe-as-annual-earnings-tumble/",
+          "domain": "businessday.co.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "MAS shifts investment focus beyond Europe as annual earnings tumble",
           "url": "https://www.businessday.co.za/companies/2026-09-30-mas-shifts-investment-focus-beyond-europe-as-annual-earnings-tumble/",
@@ -31646,10 +32018,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "The Honor MagicPad 4 12 . 1 Matches the Honor Pad 20 Pro Spec for Spec",
+          "url": "https://memeburn.com/the-honor-magicpad-4-12-1-for-spec/",
+          "domain": "memeburn.com",
+          "date": "2026-10-01"
+        },
         {
           "title": "The Honor MagicPad 4 12 . 1 Matches the Honor Pad 20 Pro Spec for Spec",
           "url": "https://memeburn.com/the-honor-magicpad-4-12-1-for-spec/",
@@ -31776,10 +32154,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "EXPLAINER | All you need to know about Eskom solar registration waiver extension",
+          "url": "https://www.sowetan.co.za/news/2026-10-01-explainer-all-you-need-to-know-about-eskoms-solar-registration-waiver-extension/",
+          "domain": "sowetan.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "EXPLAINER | All you need to know about Eskom solar registration waiver extension",
           "url": "https://www.sowetan.co.za/news/2026-10-01-explainer-all-you-need-to-know-about-eskoms-solar-registration-waiver-extension/",
@@ -31951,10 +32335,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "AI Skills Now Among South Africa Hardest to Recruit , as Employers Cool on Hiring Abroad",
+          "url": "https://iafrica.com/ai-skills-now-among-south-africas-hardest-to-recruit-as-employers-cool-on-hiring-abroad/",
+          "domain": "iafrica.com",
+          "date": "2026-09-30"
+        },
         {
           "title": "AI Skills Now Among South Africa Hardest to Recruit , as Employers Cool on Hiring Abroad",
           "url": "https://iafrica.com/ai-skills-now-among-south-africas-hardest-to-recruit-as-employers-cool-on-hiring-abroad/",
@@ -32076,10 +32466,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "EXPLAINER | Why are world bond markets selling off again ?",
+          "url": "https://www.businessday.co.za/markets/2026-10-01-explainer-why-are-world-bond-markets-selling-off-again/",
+          "domain": "businessday.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "EXPLAINER | Why are world bond markets selling off again ?",
           "url": "https://www.businessday.co.za/markets/2026-10-01-explainer-why-are-world-bond-markets-selling-off-again/",
@@ -32117,10 +32513,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Nothing Headphone ( 1 ) Pro vs Headphone ( 1 ) vs Headphone ( a ): Is the $399 Model Worth the Jump ?",
+          "url": "https://memeburn.com/nothing-headphone-1-pro-vs-headphone-1-vs-headphone-a/",
+          "domain": "memeburn.com",
+          "date": "2026-09-30"
+        },
         {
           "title": "Nothing Headphone ( 1 ) Pro vs Headphone ( 1 ) vs Headphone ( a ): Is the $399 Model Worth the Jump ?",
           "url": "https://memeburn.com/nothing-headphone-1-pro-vs-headphone-1-vs-headphone-a/",
@@ -32244,10 +32646,16 @@
       "daysSeen": [
         "2026-09-29"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "samples": [
+        {
+          "title": "Measure Crypto Startup Funding Beyond Bitcoin ETF Inflows",
+          "url": "https://ventureburn.com/do-bitcoin-etf-inflows-signal-easier-startup-funding/",
+          "domain": "ventureburn.com",
+          "date": "2026-09-29"
+        },
         {
           "title": "Measure Crypto Startup Funding Beyond Bitcoin ETF Inflows",
           "url": "https://ventureburn.com/do-bitcoin-etf-inflows-signal-easier-startup-funding/",
@@ -32371,10 +32779,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Saving lives : rising above Letaba floodwaters",
+          "url": "https://www.sanews.gov.za/features-south-africa/saving-lives-rising-above-letaba-floodwaters",
+          "domain": "sanews.gov.za",
+          "date": "2026-09-30"
+        },
         {
           "title": "Saving lives : rising above Letaba floodwaters",
           "url": "https://www.sanews.gov.za/features-south-africa/saving-lives-rising-above-letaba-floodwaters",
@@ -32413,10 +32827,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Capitec grows profits and lifts dividend as group diversifies",
+          "url": "https://www.businessday.co.za/companies/2026-10-01-capitec-grows-profits-and-lifts-dividend-as-group-diversifies/",
+          "domain": "businessday.co.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "Capitec grows profits and lifts dividend as group diversifies",
           "url": "https://www.businessday.co.za/companies/2026-10-01-capitec-grows-profits-and-lifts-dividend-as-group-diversifies/",
@@ -32502,10 +32922,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "The Honor Watch 6 Pro Doesnt Measure Your Blood Sugar , and Its Cardiac Arrest Alert Isnt the First of Its Kind",
+          "url": "https://memeburn.com/the-honor-watch-6-pro-doesnt-measure-your-blood-sugar/",
+          "domain": "memeburn.com",
+          "date": "2026-09-30"
+        },
         {
           "title": "The Honor Watch 6 Pro Doesnt Measure Your Blood Sugar , and Its Cardiac Arrest Alert Isnt the First of Its Kind",
           "url": "https://memeburn.com/the-honor-watch-6-pro-doesnt-measure-your-blood-sugar/",
@@ -32580,7 +33006,8 @@
         "cant",
         "institute",
         "jeffery",
-        "race"
+        "race",
+        "find"
       ],
       "domains": [
         "irr.org.za"
@@ -32588,10 +33015,16 @@
       "daysSeen": [
         "2026-10-01"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "samples": [
+        {
+          "title": "Anthea Jeffery : Treasury wants to put Bitcoin behind a border it cant find - Biznews Institute of Race Relations",
+          "url": "https://irr.org.za/media/anthea-jeffery-treasury-wants-to-put-bitcoin-behind-a-border-it-cant-find-biznews",
+          "domain": "irr.org.za",
+          "date": "2026-10-01"
+        },
         {
           "title": "Anthea Jeffery : Treasury wants to put Bitcoin behind a border it cant find - Biznews Institute of Race Relations",
           "url": "https://irr.org.za/media/anthea-jeffery-treasury-wants-to-put-bitcoin-behind-a-border-it-cant-find-biznews",
@@ -33589,10 +34022,16 @@
       "daysSeen": [
         "2026-10-02"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
       "samples": [
+        {
+          "title": "Paid off your home loan ? Your bond may still need to be cancelled",
+          "url": "https://www.ewn.co.za/2026/10/02/paid-off-your-home-loan-your-bond-may-still-need-to-be-cancelled",
+          "domain": "ewn.co.za",
+          "date": "2026-10-02"
+        },
         {
           "title": "Paid off your home loan ? Your bond may still need to be cancelled",
           "url": "https://www.ewn.co.za/2026/10/02/paid-off-your-home-loan-your-bond-may-still-need-to-be-cancelled",
@@ -33618,7 +34057,8 @@
         "rohit",
         "stand",
         "gill",
-        "put"
+        "put",
+        "opening"
       ],
       "domains": [
         "africaleader.com"
@@ -33626,10 +34066,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Rohit Sharma - Shubman Gill put on 2nd - highest opening stand for India in ODIs during 2nd WI clash",
+          "url": "http://www.africaleader.com/news/279343649/rohit-sharma-shubman-gill-put-on-2nd-highest-opening-stand-for-india-in-odis-during-2nd-wi-clash",
+          "domain": "africaleader.com",
+          "date": "2026-09-30"
+        },
         {
           "title": "Rohit Sharma - Shubman Gill put on 2nd - highest opening stand for India in ODIs during 2nd WI clash",
           "url": "http://www.africaleader.com/news/279343649/rohit-sharma-shubman-gill-put-on-2nd-highest-opening-stand-for-india-in-odis-during-2nd-wi-clash",
@@ -33656,7 +34102,8 @@
         "double",
         "gill",
         "odi",
-        "might"
+        "might",
+        "run"
       ],
       "domains": [
         "africaleader.com"
@@ -33664,7 +34111,7 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 4,
+      "articleCount": 6,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
@@ -33689,6 +34136,12 @@
         {
           "title": "Riding on Gill might double hundred , India pull off their highest ODI run chase against West Indies",
           "url": "http://www.africaleader.com/news/279343669/riding-on-gill-might-double-hundred-india-pull-off-their-highest-odi-run-chase-against-west-indies",
+          "domain": "africaleader.com",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Riding on Gill mighty double hundred , India pull off their highest ODI run chase against West Indies",
+          "url": "http://www.africaleader.com/news/279343673/riding-on-gill-mighty-double-hundred-india-pull-off-their-highest-odi-run-chase-against-west-indies",
           "domain": "africaleader.com",
           "date": "2026-09-30"
         }
@@ -33705,7 +34158,8 @@
         "needed",
         "reflects",
         "tighter",
-        "hope"
+        "hope",
+        "positive"
       ],
       "domains": [
         "africaleader.com"
@@ -33713,10 +34167,16 @@
       "daysSeen": [
         "2026-09-30"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30",
       "samples": [
+        {
+          "title": "Hope reflects on  batting positive as West Indies suffer defeat , says team needed tighter bowling effort",
+          "url": "http://www.africaleader.com/news/279343725/hope-reflects-on-batting-positives-as-west-indies-suffer-defeat-says-team-needed-tighter-bowling-effort",
+          "domain": "africaleader.com",
+          "date": "2026-09-30"
+        },
         {
           "title": "Hope reflects on  batting positive as West Indies suffer defeat , says team needed tighter bowling effort",
           "url": "http://www.africaleader.com/news/279343725/hope-reflects-on-batting-positives-as-west-indies-suffer-defeat-says-team-needed-tighter-bowling-effort",
@@ -44540,6 +45000,130 @@
           "url": "https://www.opinionnigeria.com/the-problem-with-okpebholos-public-statements-by-oluwafemi-popoola/",
           "domain": "opinionnigeria.com",
           "date": "2026-09-28"
+        }
+      ]
+    },
+    "indonesia:aktivis-bakom-gantikan": {
+      "id": "indonesia:aktivis-bakom-gantikan",
+      "country": "Indonesia",
+      "terms": [
+        "aktivis",
+        "bakom",
+        "gantikan",
+        "kepala",
+        "nainggolan",
+        "profil",
+        "qodari",
+        "syahganda"
+      ],
+      "domains": [
+        "liputan6.com"
+      ],
+      "daysSeen": [
+        "2026-10-02"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "samples": [
+        {
+          "title": "Profil Syahganda Nainggolan , Aktivis Jadi Kepala Bakom Gantikan Qodari",
+          "url": "https://www.liputan6.com/news/read/8304715/profil-syahganda-nainggolan-aktivis-jadi-kepala-bakom-gantikan-qodari",
+          "domain": "liputan6.com",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "indonesia:abdurachman-dudung-jabat": {
+      "id": "indonesia:abdurachman-dudung-jabat",
+      "country": "Indonesia",
+      "terms": [
+        "abdurachman",
+        "dudung",
+        "jabat",
+        "jaya",
+        "kini",
+        "ksad",
+        "menko",
+        "pandam"
+      ],
+      "domains": [
+        "jawapos.com"
+      ],
+      "daysSeen": [
+        "2026-10-01"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "samples": [
+        {
+          "title": "Dudung Abdurachman : dari Prajurit TNI AD , Pandam Jaya , Pangkostrad , KSAD , Kini Jabat Menko Polkam",
+          "url": "https://www.jawapos.com/nasional/2610010202/dudung-abdurachman-dari-prajurit-tni-ad-pandam-jaya-pangkostrad-ksad-kini-jabat-menko-polkam",
+          "domain": "jawapos.com",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "indonesia:apindo-cegah-evaluasi": {
+      "id": "indonesia:apindo-cegah-evaluasi",
+      "country": "Indonesia",
+      "terms": [
+        "cegah",
+        "evaluasi",
+        "jatim",
+        "masif",
+        "minta",
+        "pelindungan",
+        "phk",
+        "apindo"
+      ],
+      "domains": [
+        "jawapos.com"
+      ],
+      "daysSeen": [
+        "2026-10-01"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "samples": [
+        {
+          "title": "Apindo Jatim Minta Evaluasi RUU Pelindungan Ketenagakerjaan untuk Cegah PHK Masif",
+          "url": "https://www.jawapos.com/ekonomi/2610010298/apindo-jatim-minta-evaluasi-ruu-pelindungan-ketenagakerjaan-untuk-cegah-phk-masif",
+          "domain": "jawapos.com",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "indonesia:desak-dpr-jangan": {
+      "id": "indonesia:desak-dpr-jangan",
+      "country": "Indonesia",
+      "terms": [
+        "desak",
+        "dpr",
+        "jangan",
+        "kembalikan",
+        "lama",
+        "pemerintah",
+        "pendekatan",
+        "tinjau"
+      ],
+      "domains": [
+        "beritajatim.com"
+      ],
+      "daysSeen": [
+        "2026-10-01"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "samples": [
+        {
+          "title": "APINDO Desak Pemerintah dan DPR Tinjau Ulang RUU Ketenagakerjaan :  Jangan Kembalikan Pendekatan Lama",
+          "url": "https://beritajatim.com/apindo-desak-pemerintah-dan-dpr-tinjau-ulang-ruu-ketenagakerjaan-jangan-kembalikan-pendekatan-lama",
+          "domain": "beritajatim.com",
+          "date": "2026-10-01"
         }
       ]
     }
