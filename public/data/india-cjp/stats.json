@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 484
+      "count": 490
     }
   ],
   "sources": [
@@ -169,7 +169,7 @@
     },
     {
       "name": "The Economic Times",
-      "count": 46,
+      "count": 47,
       "first": "2026-06-06",
       "last": "2026-10-06"
     },
@@ -180,16 +180,16 @@
       "last": "2026-10-06"
     },
     {
+      "name": "News18",
+      "count": 40,
+      "first": "2026-07-20",
+      "last": "2026-10-06"
+    },
+    {
       "name": "ANI News",
       "count": 39,
       "first": "2026-07-22",
       "last": "2026-10-05"
-    },
-    {
-      "name": "News18",
-      "count": 39,
-      "first": "2026-07-20",
-      "last": "2026-10-06"
     },
     {
       "name": "Rediff",
@@ -234,28 +234,28 @@
       "last": "2026-10-06"
     },
     {
+      "name": "Deccan Chronicle",
+      "count": 22,
+      "first": "2026-08-16",
+      "last": "2026-10-06"
+    },
+    {
       "name": "Livemint",
       "count": 22,
       "first": "2026-08-16",
       "last": "2026-10-04"
     },
     {
-      "name": "Deccan Chronicle",
+      "name": "Telangana Today",
       "count": 21,
-      "first": "2026-08-16",
-      "last": "2026-10-03"
+      "first": "2026-07-25",
+      "last": "2026-10-04"
     },
     {
       "name": "Bhaskar English",
       "count": 20,
       "first": "2026-07-22",
       "last": "2026-09-06"
-    },
-    {
-      "name": "Telangana Today",
-      "count": 20,
-      "first": "2026-07-25",
-      "last": "2026-10-04"
     },
     {
       "name": "TheWire.in",
@@ -342,6 +342,12 @@
       "last": "2026-10-03"
     },
     {
+      "name": "Frontline Magazine",
+      "count": 12,
+      "first": "2026-07-20",
+      "last": "2026-10-03"
+    },
+    {
       "name": "Pragativadi",
       "count": 12,
       "first": "2026-09-15",
@@ -358,12 +364,6 @@
       "count": 11,
       "first": "2026-08-21",
       "last": "2026-10-02"
-    },
-    {
-      "name": "Frontline Magazine",
-      "count": 11,
-      "first": "2026-07-20",
-      "last": "2026-10-03"
     },
     {
       "name": "Live Law",
@@ -388,6 +388,12 @@
       "count": 10,
       "first": "2026-05-21",
       "last": "2026-10-02"
+    },
+    {
+      "name": "Pioneer Daily",
+      "count": 9,
+      "first": "2026-08-28",
+      "last": "2026-10-04"
     },
     {
       "name": "The Hans India",
@@ -420,12 +426,6 @@
       "last": "2026-10-06"
     },
     {
-      "name": "Pioneer Daily",
-      "count": 8,
-      "first": "2026-08-28",
-      "last": "2026-10-04"
-    },
-    {
       "name": "The Federal",
       "count": 8,
       "first": "2026-07-05",
@@ -436,6 +436,12 @@
       "count": 7,
       "first": "2026-07-19",
       "last": "2026-09-01"
+    },
+    {
+      "name": "MillenniumPost",
+      "count": 7,
+      "first": "2026-09-28",
+      "last": "2026-10-06"
     },
     {
       "name": "Udayavani",
@@ -456,12 +462,6 @@
       "last": "2026-10-05"
     },
     {
-      "name": "MillenniumPost",
-      "count": 6,
-      "first": "2026-09-28",
-      "last": "2026-10-05"
-    },
-    {
       "name": "National Herald",
       "count": 6,
       "first": "2026-08-19",
@@ -474,16 +474,16 @@
       "last": "2026-10-03"
     },
     {
+      "name": "Asianet Newsable",
+      "count": 5,
+      "first": "2026-08-16",
+      "last": "2026-10-06"
+    },
+    {
       "name": "Bloomberg.com",
       "count": 5,
       "first": "2026-08-10",
       "last": "2026-09-25"
-    },
-    {
-      "name": "Daily Pioneer",
-      "count": 5,
-      "first": "2026-08-17",
-      "last": "2026-10-03"
     },
     {
       "name": "Maktoob",
@@ -528,12 +528,6 @@
       "last": "2026-07-22"
     },
     {
-      "name": "Asianet Newsable",
-      "count": 4,
-      "first": "2026-08-16",
-      "last": "2026-10-02"
-    },
-    {
       "name": "Babushahi.com",
       "count": 4,
       "first": "2026-08-23",
@@ -556,6 +550,12 @@
       "count": 4,
       "first": "2026-08-21",
       "last": "2026-10-06"
+    },
+    {
+      "name": "Daily Pioneer",
+      "count": 4,
+      "first": "2026-08-17",
+      "last": "2026-09-25"
     },
     {
       "name": "Eastern Mirror Nagaland",
@@ -778,12 +778,6 @@
       "count": 2,
       "first": "2026-08-16",
       "last": "2026-08-24"
-    },
-    {
-      "name": "frontline.thehindu.com",
-      "count": 2,
-      "first": "2026-07-08",
-      "last": "2026-07-22"
     },
     {
       "name": "GulfToday",
@@ -1258,6 +1252,12 @@
       "count": 1,
       "first": "2026-07-18",
       "last": "2026-07-18"
+    },
+    {
+      "name": "frontline.thehindu.com",
+      "count": 1,
+      "first": "2026-07-08",
+      "last": "2026-07-08"
     },
     {
       "name": "Genocide Watch",
