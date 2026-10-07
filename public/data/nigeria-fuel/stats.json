@@ -819,15 +819,15 @@
     },
     {
       "start": "2026-10-01",
-      "count": 30
+      "count": 37
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 100,
+      "count": 103,
       "first": "2012-01-05",
-      "last": "2026-10-05"
+      "last": "2026-10-07"
     },
     {
       "name": "Vanguard",
@@ -908,16 +908,16 @@
       "last": "2026-08-14"
     },
     {
+      "name": "The Whistler Newspaper",
+      "count": 14,
+      "first": "2020-09-04",
+      "last": "2026-10-07"
+    },
+    {
       "name": "Legit News",
       "count": 13,
       "first": "2022-01-02",
       "last": "2025-09-16"
-    },
-    {
-      "name": "The Whistler Newspaper",
-      "count": 13,
-      "first": "2020-09-04",
-      "last": "2026-09-27"
     },
     {
       "name": "Al Jazeera",
@@ -945,9 +945,9 @@
     },
     {
       "name": "Tribune Online",
-      "count": 9,
+      "count": 10,
       "first": "2021-12-17",
-      "last": "2026-07-26"
+      "last": "2026-10-07"
     },
     {
       "name": "The Guardian",
@@ -1035,9 +1035,9 @@
     },
     {
       "name": "Peoples Gazette Nigeria",
-      "count": 3,
+      "count": 4,
       "first": "2024-10-09",
-      "last": "2026-05-18"
+      "last": "2026-10-07"
     },
     {
       "name": "premiumtimesng.com",
@@ -1080,6 +1080,12 @@
       "count": 2,
       "first": "2024-09-02",
       "last": "2026-08-19"
+    },
+    {
+      "name": "Nigerian Democratic Report",
+      "count": 2,
+      "first": "2026-09-17",
+      "last": "2026-10-07"
     },
     {
       "name": "nigerianeye.com",
@@ -1358,12 +1364,6 @@
       "last": "2024-09-05"
     },
     {
-      "name": "Nigerian Democratic Report",
-      "count": 1,
-      "first": "2026-09-17",
-      "last": "2026-09-17"
-    },
-    {
       "name": "Parallel Facts News",
       "count": 1,
       "first": "2026-09-14",
@@ -1473,5 +1473,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-06"
+  "lastDate": "2026-10-07"
 }
