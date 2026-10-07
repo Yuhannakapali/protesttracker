@@ -819,13 +819,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 37
+      "count": 40
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 103,
+      "count": 102,
       "first": "2012-01-05",
       "last": "2026-10-07"
     },
@@ -837,15 +837,15 @@
     },
     {
       "name": "The Guardian Nigeria News",
-      "count": 55,
+      "count": 56,
       "first": "2015-10-02",
       "last": "2026-10-01"
     },
     {
       "name": "Channels Television",
-      "count": 52,
+      "count": 53,
       "first": "2012-01-04",
-      "last": "2026-10-06"
+      "last": "2026-10-07"
     },
     {
       "name": "Vanguard News",
@@ -867,9 +867,9 @@
     },
     {
       "name": "Punch Newspapers",
-      "count": 28,
+      "count": 29,
       "first": "2020-09-04",
-      "last": "2026-09-11"
+      "last": "2026-10-07"
     },
     {
       "name": "Ripples Nigeria",
@@ -932,16 +932,16 @@
       "last": "2026-02-04"
     },
     {
+      "name": "Premium Times",
+      "count": 11,
+      "first": "2026-09-11",
+      "last": "2026-10-07"
+    },
+    {
       "name": "Independent Newspaper Nigeria",
       "count": 10,
       "first": "2020-09-07",
       "last": "2026-10-05"
-    },
-    {
-      "name": "Premium Times",
-      "count": 10,
-      "first": "2026-09-11",
-      "last": "2026-10-01"
     },
     {
       "name": "Tribune Online",
@@ -950,16 +950,16 @@
       "last": "2026-10-07"
     },
     {
-      "name": "The Guardian",
-      "count": 8,
-      "first": "2012-01-03",
-      "last": "2026-01-26"
-    },
-    {
       "name": "Nigeria Labour Congress (NLC)",
       "count": 7,
       "first": "2023-03-30",
       "last": "2026-06-03"
+    },
+    {
+      "name": "The Guardian",
+      "count": 7,
+      "first": "2012-01-03",
+      "last": "2021-03-17"
     },
     {
       "name": "TVC News",
@@ -1056,6 +1056,12 @@
       "count": 2,
       "first": "2016-05-18",
       "last": "2021-03-12"
+    },
+    {
+      "name": "Foundation for Investigative Journalism (FIJ)",
+      "count": 2,
+      "first": "2024-09-04",
+      "last": "2024-09-05"
     },
     {
       "name": "legit.ng",
@@ -1226,12 +1232,6 @@
       "last": "2023-08-02"
     },
     {
-      "name": "FIJ NG",
-      "count": 1,
-      "first": "2024-09-05",
-      "last": "2024-09-05"
-    },
-    {
       "name": "fij.ng",
       "count": 1,
       "first": "2024-11-11",
@@ -1242,12 +1242,6 @@
       "count": 1,
       "first": "2024-02-15",
       "last": "2024-02-15"
-    },
-    {
-      "name": "Foundation for Investigative Journalism (FIJ)",
-      "count": 1,
-      "first": "2024-09-04",
-      "last": "2024-09-04"
     },
     {
       "name": "France 24",
@@ -1470,6 +1464,12 @@
       "count": 1,
       "first": "2012-04-15",
       "last": "2012-04-15"
+    },
+    {
+      "name": "Voice of Nigeria",
+      "count": 1,
+      "first": "2026-10-07",
+      "last": "2026-10-07"
     }
   ],
   "firstDate": "2009-10-30",
