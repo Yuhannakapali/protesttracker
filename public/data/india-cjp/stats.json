@@ -103,7 +103,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 191
+      "count": 192
     },
     {
       "start": "2026-08-01",
@@ -115,21 +115,21 @@
     },
     {
       "start": "2026-10-01",
-      "count": 490
+      "count": 496
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 157,
+      "count": 159,
       "first": "2026-06-06",
-      "last": "2026-10-06"
+      "last": "2026-10-07"
     },
     {
       "name": "Hindustan Times",
-      "count": 107,
+      "count": 108,
       "first": "2026-06-06",
-      "last": "2026-10-06"
+      "last": "2026-10-07"
     },
     {
       "name": "NDTV",
@@ -151,13 +151,13 @@
     },
     {
       "name": "Telegraph India",
-      "count": 73,
+      "count": 74,
       "first": "2026-07-21",
-      "last": "2026-10-06"
+      "last": "2026-10-07"
     },
     {
       "name": "The Indian Express",
-      "count": 69,
+      "count": 70,
       "first": "2026-07-24",
       "last": "2026-10-06"
     },
@@ -486,6 +486,12 @@
       "last": "2026-09-25"
     },
     {
+      "name": "Facebook",
+      "count": 5,
+      "first": "2026-07-21",
+      "last": "2026-08-28"
+    },
+    {
       "name": "Maktoob",
       "count": 5,
       "first": "2026-08-12",
@@ -562,12 +568,6 @@
       "count": 4,
       "first": "2026-08-18",
       "last": "2026-10-05"
-    },
-    {
-      "name": "facebook.com",
-      "count": 4,
-      "first": "2026-07-21",
-      "last": "2026-08-28"
     },
     {
       "name": "India TV News",
@@ -670,6 +670,12 @@
       "count": 3,
       "first": "2026-08-21",
       "last": "2026-10-04"
+    },
+    {
+      "name": "Muslim Mirror",
+      "count": 3,
+      "first": "2026-09-18",
+      "last": "2026-10-03"
     },
     {
       "name": "News Mobile",
@@ -832,12 +838,6 @@
       "count": 2,
       "first": "2026-10-02",
       "last": "2026-10-03"
-    },
-    {
-      "name": "Muslim Mirror",
-      "count": 2,
-      "first": "2026-09-18",
-      "last": "2026-09-30"
     },
     {
       "name": "News Arena India",
@@ -1741,5 +1741,5 @@
     }
   ],
   "firstDate": "2024-06-18",
-  "lastDate": "2026-10-06"
+  "lastDate": "2026-10-07"
 }
