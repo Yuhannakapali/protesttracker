@@ -103,7 +103,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 192
+      "count": 193
     },
     {
       "start": "2026-08-01",
@@ -115,25 +115,25 @@
     },
     {
       "start": "2026-10-01",
-      "count": 563
+      "count": 574
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 163,
+      "count": 165,
       "first": "2026-06-06",
       "last": "2026-10-07"
     },
     {
       "name": "Hindustan Times",
-      "count": 109,
+      "count": 110,
       "first": "2026-06-06",
       "last": "2026-10-07"
     },
     {
       "name": "The Times of India",
-      "count": 97,
+      "count": 99,
       "first": "2026-06-06",
       "last": "2026-10-07"
     },
@@ -145,7 +145,7 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 90,
+      "count": 91,
       "first": "2026-07-22",
       "last": "2026-10-07"
     },
@@ -163,7 +163,7 @@
     },
     {
       "name": "India Today",
-      "count": 56,
+      "count": 57,
       "first": "2026-07-15",
       "last": "2026-10-07"
     },
@@ -180,15 +180,15 @@
       "last": "2026-10-07"
     },
     {
-      "name": "ANI News",
-      "count": 42,
-      "first": "2026-07-22",
+      "name": "News18",
+      "count": 44,
+      "first": "2026-07-20",
       "last": "2026-10-07"
     },
     {
-      "name": "News18",
-      "count": 42,
-      "first": "2026-07-20",
+      "name": "ANI News",
+      "count": 43,
+      "first": "2026-07-22",
       "last": "2026-10-07"
     },
     {
@@ -372,6 +372,12 @@
       "last": "2026-09-27"
     },
     {
+      "name": "The Guardian",
+      "count": 11,
+      "first": "2026-05-21",
+      "last": "2026-10-02"
+    },
+    {
       "name": "DNA India",
       "count": 10,
       "first": "2026-07-24",
@@ -382,12 +388,6 @@
       "count": 10,
       "first": "2026-08-20",
       "last": "2026-10-06"
-    },
-    {
-      "name": "The Guardian",
-      "count": 10,
-      "first": "2026-05-21",
-      "last": "2026-10-02"
     },
     {
       "name": "OpIndia",
@@ -429,7 +429,7 @@
       "name": "LawChakra",
       "count": 8,
       "first": "2026-09-10",
-      "last": "2026-10-07"
+      "last": "2026-10-06"
     },
     {
       "name": "Udayavani",
@@ -630,6 +630,12 @@
       "last": "2026-10-02"
     },
     {
+      "name": "The South First",
+      "count": 4,
+      "first": "2026-09-01",
+      "last": "2026-10-07"
+    },
+    {
       "name": "thehawk.in",
       "count": 4,
       "first": "2026-07-22",
@@ -712,12 +718,6 @@
       "count": 3,
       "first": "2026-09-04",
       "last": "2026-09-11"
-    },
-    {
-      "name": "The South First",
-      "count": 3,
-      "first": "2026-09-01",
-      "last": "2026-10-05"
     },
     {
       "name": "The Week",
@@ -867,7 +867,7 @@
       "name": "Mumbai Mirror",
       "count": 2,
       "first": "2026-10-03",
-      "last": "2026-10-06"
+      "last": "2026-10-07"
     },
     {
       "name": "News Arena India",
