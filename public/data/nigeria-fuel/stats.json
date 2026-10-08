@@ -527,11 +527,11 @@
     },
     {
       "start": "2020-09-01",
-      "count": 27
+      "count": 28
     },
     {
       "start": "2020-10-01",
-      "count": 0
+      "count": 1
     },
     {
       "start": "2020-11-01",
@@ -819,21 +819,21 @@
     },
     {
       "start": "2026-10-01",
-      "count": 52
+      "count": 59
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 103,
+      "count": 105,
       "first": "2012-01-05",
       "last": "2026-10-08"
     },
     {
       "name": "Vanguard",
-      "count": 61,
+      "count": 63,
       "first": "2026-09-02",
-      "last": "2026-10-05"
+      "last": "2026-10-08"
     },
     {
       "name": "The Guardian Nigeria News",
@@ -843,7 +843,7 @@
     },
     {
       "name": "Channels Television",
-      "count": 54,
+      "count": 55,
       "first": "2012-01-04",
       "last": "2026-10-08"
     },
@@ -855,7 +855,7 @@
     },
     {
       "name": "Premium Times Nigeria",
-      "count": 37,
+      "count": 38,
       "first": "2013-04-18",
       "last": "2026-09-30"
     },
@@ -878,22 +878,22 @@
       "last": "2026-10-02"
     },
     {
-      "name": "Business News Nigeria",
-      "count": 18,
-      "first": "2022-01-21",
-      "last": "2026-07-28"
-    },
-    {
       "name": "PM News Nigeria",
-      "count": 18,
+      "count": 19,
       "first": "2012-01-03",
-      "last": "2026-09-26"
+      "last": "2026-10-07"
     },
     {
       "name": "TheCable",
       "count": 18,
       "first": "2020-09-05",
       "last": "2026-10-07"
+    },
+    {
+      "name": "Business News Nigeria",
+      "count": 17,
+      "first": "2022-01-21",
+      "last": "2026-07-28"
     },
     {
       "name": "Arise News",
@@ -920,16 +920,16 @@
       "last": "2025-09-16"
     },
     {
+      "name": "Premium Times",
+      "count": 13,
+      "first": "2026-09-11",
+      "last": "2026-10-08"
+    },
+    {
       "name": "Al Jazeera",
       "count": 12,
       "first": "2012-01-04",
       "last": "2024-08-02"
-    },
-    {
-      "name": "Premium Times",
-      "count": 12,
-      "first": "2026-09-11",
-      "last": "2026-10-08"
     },
     {
       "name": "THISDAYLIVE",
@@ -1062,6 +1062,12 @@
       "count": 2,
       "first": "2016-05-18",
       "last": "2021-03-12"
+    },
+    {
+      "name": "Businessday NG",
+      "count": 2,
+      "first": "2020-10-02",
+      "last": "2026-03-16"
     },
     {
       "name": "Foundation for Investigative Journalism (FIJ)",

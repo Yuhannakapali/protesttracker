@@ -115,13 +115,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 663
+      "count": 681
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 170,
+      "count": 176,
       "first": "2026-06-06",
       "last": "2026-10-08"
     },
@@ -157,7 +157,7 @@
     },
     {
       "name": "The Indian Express",
-      "count": 76,
+      "count": 77,
       "first": "2026-07-24",
       "last": "2026-10-08"
     },
@@ -169,7 +169,7 @@
     },
     {
       "name": "The Economic Times",
-      "count": 53,
+      "count": 54,
       "first": "2026-06-06",
       "last": "2026-10-08"
     },
@@ -235,27 +235,27 @@
     },
     {
       "name": "Mid-Day",
-      "count": 23,
+      "count": 24,
       "first": "2026-08-23",
       "last": "2026-10-08"
     },
     {
       "name": "Livemint",
-      "count": 22,
+      "count": 23,
       "first": "2026-08-16",
-      "last": "2026-10-04"
+      "last": "2026-10-08"
+    },
+    {
+      "name": "moneycontrol.com",
+      "count": 22,
+      "first": "2026-08-18",
+      "last": "2026-10-08"
     },
     {
       "name": "Telangana Today",
       "count": 22,
       "first": "2026-07-25",
       "last": "2026-10-07"
-    },
-    {
-      "name": "moneycontrol.com",
-      "count": 21,
-      "first": "2026-08-18",
-      "last": "2026-10-08"
     },
     {
       "name": "Bhaskar English",
@@ -277,21 +277,21 @@
     },
     {
       "name": "The Tribune",
-      "count": 18,
+      "count": 19,
       "first": "2026-08-15",
       "last": "2026-10-08"
     },
     {
       "name": "Mathrubhumi English",
-      "count": 17,
+      "count": 18,
       "first": "2026-08-17",
-      "last": "2026-10-07"
+      "last": "2026-10-08"
     },
     {
       "name": "Al Jazeera",
-      "count": 16,
+      "count": 17,
       "first": "2026-05-20",
-      "last": "2026-10-06"
+      "last": "2026-10-08"
     },
     {
       "name": "LawBeat",
@@ -348,6 +348,12 @@
       "last": "2026-10-02"
     },
     {
+      "name": "DT Next",
+      "count": 12,
+      "first": "2026-08-21",
+      "last": "2026-10-08"
+    },
+    {
       "name": "DW.com",
       "count": 12,
       "first": "2026-07-21",
@@ -357,12 +363,6 @@
       "name": "theweek.in",
       "count": 12,
       "first": "2026-06-06",
-      "last": "2026-10-02"
-    },
-    {
-      "name": "DT Next",
-      "count": 11,
-      "first": "2026-08-21",
       "last": "2026-10-02"
     },
     {
@@ -450,6 +450,12 @@
       "last": "2026-09-01"
     },
     {
+      "name": "Maktoob",
+      "count": 7,
+      "first": "2026-08-12",
+      "last": "2026-10-08"
+    },
+    {
       "name": "MillenniumPost",
       "count": 7,
       "first": "2026-09-28",
@@ -472,12 +478,6 @@
       "count": 6,
       "first": "2026-08-24",
       "last": "2026-10-05"
-    },
-    {
-      "name": "Maktoob",
-      "count": 6,
-      "first": "2026-08-12",
-      "last": "2026-10-08"
     },
     {
       "name": "National Herald",
@@ -672,6 +672,18 @@
       "last": "2026-09-11"
     },
     {
+      "name": "Cityairnews",
+      "count": 3,
+      "first": "2026-09-17",
+      "last": "2026-10-08"
+    },
+    {
+      "name": "Dawn",
+      "count": 3,
+      "first": "2026-09-24",
+      "last": "2026-10-08"
+    },
+    {
       "name": "Free Press Kashmir",
       "count": 3,
       "first": "2026-08-22",
@@ -786,12 +798,6 @@
       "last": "2026-10-02"
     },
     {
-      "name": "Cityairnews",
-      "count": 2,
-      "first": "2026-09-17",
-      "last": "2026-09-27"
-    },
-    {
       "name": "Countercurrents",
       "count": 2,
       "first": "2026-07-17",
@@ -813,12 +819,6 @@
       "name": "daily-sun.com",
       "count": 2,
       "first": "2026-09-25",
-      "last": "2026-10-02"
-    },
-    {
-      "name": "Dawn",
-      "count": 2,
-      "first": "2026-09-24",
       "last": "2026-10-02"
     },
     {
@@ -1308,6 +1308,12 @@
       "last": "2026-08-21"
     },
     {
+      "name": "Greenwich Time",
+      "count": 1,
+      "first": "2026-10-08",
+      "last": "2026-10-08"
+    },
+    {
       "name": "Gujarat Samachar",
       "count": 1,
       "first": "2026-10-02",
@@ -1354,12 +1360,6 @@
       "count": 1,
       "first": "2026-08-30",
       "last": "2026-08-30"
-    },
-    {
-      "name": "India Currents",
-      "count": 1,
-      "first": "2026-10-08",
-      "last": "2026-10-08"
     },
     {
       "name": "IndiaWest",
