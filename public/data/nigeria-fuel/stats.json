@@ -691,7 +691,7 @@
     },
     {
       "start": "2024-02-01",
-      "count": 10
+      "count": 11
     },
     {
       "start": "2024-03-01",
@@ -771,7 +771,7 @@
     },
     {
       "start": "2025-10-01",
-      "count": 27
+      "count": 28
     },
     {
       "start": "2025-11-01",
@@ -791,11 +791,11 @@
     },
     {
       "start": "2026-03-01",
-      "count": 13
+      "count": 14
     },
     {
       "start": "2026-04-01",
-      "count": 5
+      "count": 6
     },
     {
       "start": "2026-05-01",
@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 59
+      "count": 60
     }
   ],
   "sources": [
@@ -908,6 +908,12 @@
       "last": "2026-10-08"
     },
     {
+      "name": "Premium Times",
+      "count": 14,
+      "first": "2026-09-11",
+      "last": "2026-10-09"
+    },
+    {
       "name": "The Whistler Newspaper",
       "count": 14,
       "first": "2020-09-04",
@@ -918,12 +924,6 @@
       "count": 13,
       "first": "2022-01-02",
       "last": "2025-09-16"
-    },
-    {
-      "name": "Premium Times",
-      "count": 13,
-      "first": "2026-09-11",
-      "last": "2026-10-08"
     },
     {
       "name": "Al Jazeera",
@@ -972,6 +972,12 @@
       "count": 7,
       "first": "2009-10-30",
       "last": "2024-08-08"
+    },
+    {
+      "name": "Businessday NG",
+      "count": 6,
+      "first": "2020-10-02",
+      "last": "2026-04-18"
     },
     {
       "name": "Sahara Reporters",
@@ -1062,12 +1068,6 @@
       "count": 2,
       "first": "2016-05-18",
       "last": "2021-03-12"
-    },
-    {
-      "name": "Businessday NG",
-      "count": 2,
-      "first": "2020-10-02",
-      "last": "2026-03-16"
     },
     {
       "name": "Foundation for Investigative Journalism (FIJ)",
@@ -1491,5 +1491,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-08"
+  "lastDate": "2026-10-09"
 }
