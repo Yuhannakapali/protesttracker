@@ -715,7 +715,7 @@
     },
     {
       "start": "2024-08-01",
-      "count": 15
+      "count": 16
     },
     {
       "start": "2024-09-01",
@@ -747,11 +747,11 @@
     },
     {
       "start": "2025-04-01",
-      "count": 0
+      "count": 1
     },
     {
       "start": "2025-05-01",
-      "count": 0
+      "count": 1
     },
     {
       "start": "2025-06-01",
@@ -787,7 +787,7 @@
     },
     {
       "start": "2026-02-01",
-      "count": 27
+      "count": 28
     },
     {
       "start": "2026-03-01",
@@ -819,13 +819,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 79
+      "count": 84
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 107,
+      "count": 109,
       "first": "2012-01-05",
       "last": "2026-10-09"
     },
@@ -837,7 +837,7 @@
     },
     {
       "name": "Channels Television",
-      "count": 58,
+      "count": 59,
       "first": "2012-01-04",
       "last": "2026-10-09"
     },
@@ -878,22 +878,28 @@
       "last": "2026-10-09"
     },
     {
+      "name": "PM News Nigeria",
+      "count": 20,
+      "first": "2012-01-03",
+      "last": "2026-10-09"
+    },
+    {
       "name": "TheCable",
       "count": 20,
       "first": "2020-09-05",
       "last": "2026-10-09"
     },
     {
-      "name": "PM News Nigeria",
-      "count": 19,
-      "first": "2012-01-03",
-      "last": "2026-10-07"
-    },
-    {
       "name": "Business News Nigeria",
       "count": 17,
       "first": "2022-01-21",
       "last": "2026-07-28"
+    },
+    {
+      "name": "Businessday NG",
+      "count": 17,
+      "first": "2020-10-02",
+      "last": "2026-10-09"
     },
     {
       "name": "Premium Times",
@@ -930,12 +936,6 @@
       "count": 12,
       "first": "2012-01-04",
       "last": "2024-08-02"
-    },
-    {
-      "name": "Businessday NG",
-      "count": 12,
-      "first": "2020-10-02",
-      "last": "2026-04-18"
     },
     {
       "name": "THISDAYLIVE",

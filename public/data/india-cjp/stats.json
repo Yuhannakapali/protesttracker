@@ -115,25 +115,25 @@
     },
     {
       "start": "2026-10-01",
-      "count": 896
+      "count": 918
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 194,
+      "count": 195,
       "first": "2026-06-06",
       "last": "2026-10-09"
     },
     {
       "name": "Hindustan Times",
-      "count": 124,
+      "count": 125,
       "first": "2026-06-06",
       "last": "2026-10-09"
     },
     {
       "name": "The Times of India",
-      "count": 120,
+      "count": 121,
       "first": "2026-06-06",
       "last": "2026-10-09"
     },
@@ -145,13 +145,13 @@
     },
     {
       "name": "NDTV",
-      "count": 111,
+      "count": 112,
       "first": "2026-05-12",
       "last": "2026-10-09"
     },
     {
       "name": "The Indian Express",
-      "count": 90,
+      "count": 95,
       "first": "2026-07-24",
       "last": "2026-10-09"
     },
@@ -163,7 +163,7 @@
     },
     {
       "name": "India Today",
-      "count": 74,
+      "count": 75,
       "first": "2026-07-15",
       "last": "2026-10-09"
     },
@@ -175,19 +175,19 @@
     },
     {
       "name": "ThePrint",
-      "count": 57,
+      "count": 58,
       "first": "2026-06-19",
       "last": "2026-10-09"
     },
     {
       "name": "Rediff",
-      "count": 53,
+      "count": 57,
       "first": "2026-06-07",
       "last": "2026-10-09"
     },
     {
       "name": "ANI News",
-      "count": 52,
+      "count": 53,
       "first": "2026-07-22",
       "last": "2026-10-09"
     },
@@ -199,7 +199,7 @@
     },
     {
       "name": "Deccan Herald",
-      "count": 45,
+      "count": 46,
       "first": "2026-06-05",
       "last": "2026-10-09"
     },
@@ -228,6 +228,12 @@
       "last": "2026-10-09"
     },
     {
+      "name": "Livemint",
+      "count": 26,
+      "first": "2026-08-16",
+      "last": "2026-10-09"
+    },
+    {
       "name": "Deccan Chronicle",
       "count": 25,
       "first": "2026-08-16",
@@ -238,12 +244,6 @@
       "count": 25,
       "first": "2024-06-18",
       "last": "2026-09-26"
-    },
-    {
-      "name": "Livemint",
-      "count": 25,
-      "first": "2026-08-16",
-      "last": "2026-10-09"
     },
     {
       "name": "moneycontrol.com",
@@ -492,6 +492,12 @@
       "last": "2026-10-07"
     },
     {
+      "name": "Facebook",
+      "count": 6,
+      "first": "2026-07-21",
+      "last": "2026-10-09"
+    },
+    {
       "name": "GujaratSamachar English",
       "count": 6,
       "first": "2026-08-24",
@@ -538,12 +544,6 @@
       "count": 5,
       "first": "2026-09-04",
       "last": "2026-10-09"
-    },
-    {
-      "name": "Facebook",
-      "count": 5,
-      "first": "2026-07-21",
-      "last": "2026-08-28"
     },
     {
       "name": "MorungExpress",
@@ -714,6 +714,12 @@
       "last": "2026-09-29"
     },
     {
+      "name": "Kashmir Observer",
+      "count": 3,
+      "first": "2026-09-18",
+      "last": "2026-10-09"
+    },
+    {
       "name": "Millat Times",
       "count": 3,
       "first": "2026-08-21",
@@ -876,10 +882,10 @@
       "last": "2026-10-02"
     },
     {
-      "name": "Kashmir Observer",
+      "name": "Kanak News Odisha",
       "count": 2,
-      "first": "2026-09-18",
-      "last": "2026-10-02"
+      "first": "2026-10-02",
+      "last": "2026-10-09"
     },
     {
       "name": "Khaleej Times",
@@ -1434,12 +1440,6 @@
       "last": "2026-10-08"
     },
     {
-      "name": "Kanak News Odisha",
-      "count": 1,
-      "first": "2026-10-02",
-      "last": "2026-10-02"
-    },
-    {
       "name": "Kashmir Life",
       "count": 1,
       "first": "2026-08-25",
@@ -1588,6 +1588,12 @@
       "count": 1,
       "first": "2026-09-26",
       "last": "2026-09-26"
+    },
+    {
+      "name": "SafeAbroad",
+      "count": 1,
+      "first": "2026-10-09",
+      "last": "2026-10-09"
     },
     {
       "name": "Sandesh News",
