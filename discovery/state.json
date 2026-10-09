@@ -10118,23 +10118,34 @@
       "terms": [
         "chester",
         "district",
-        "standard"
+        "standard",
+        "jailed",
+        "man",
+        "subjecting",
+        "warrington"
       ],
       "domains": [
         "chesterstandard.co.uk"
       ],
       "daysSeen": [
-        "2026-09-20"
+        "2026-09-20",
+        "2026-10-06"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-10-06",
       "samples": [
         {
           "title": "Ed Sheeran admits  mistake at first concert since Macklemore tour row | Chester and District Standard",
           "url": "https://www.chesterstandard.co.uk/news/national/26565310.ed-sheeran-admits-mistakes-first-concert-since-macklemore-tour-row/",
           "domain": "chesterstandard.co.uk",
           "date": "2026-09-20"
+        },
+        {
+          "title": "Warrington man jailed for subjecting woman to attack | Chester and District Standard",
+          "url": "https://www.chesterstandard.co.uk/news/26607366.man-jailed-subjecting-woman-horrific-violent-attack/",
+          "domain": "chesterstandard.co.uk",
+          "date": "2026-10-06"
         }
       ]
     },
@@ -21320,7 +21331,12 @@
         "reapply",
         "runs",
         "irish",
-        "parade"
+        "parade",
+        "concerned",
+        "dispute",
+        "order",
+        "protestants",
+        "urge"
       ],
       "domains": [
         "bbc.co.uk",
@@ -21328,11 +21344,12 @@
       ],
       "daysSeen": [
         "2026-09-27",
-        "2026-09-28"
+        "2026-09-28",
+        "2026-10-02"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-10-02",
       "samples": [
         {
           "title": "Orange Order march to go ahead for first time in nearly 30 years after late night drama",
@@ -21351,6 +21368,12 @@
           "url": "https://www.irishnews.com/news/northern-ireland/orange-order-must-reapply-for-drumcree-parade-as-time-runs-out-on-permission-to-march-P4WJBL73TNDXXBAQO25RT3LUCI/",
           "domain": "irishnews.com",
           "date": "2026-09-28"
+        },
+        {
+          "title": "Concerned  Protestants urge Orange Order to end Drumcree dispute – The Irish News",
+          "url": "https://www.irishnews.com/news/northern-ireland/concerned-protestants-urge-orange-order-to-end-drumcree-dispute-WLO3RFG23RH25A52BG423WKFBM/",
+          "domain": "irishnews.com",
+          "date": "2026-10-02"
         }
       ]
     },
@@ -21784,19 +21807,26 @@
         "spread",
         "ukraine",
         "russia",
-        "war"
+        "war",
+        "burning",
+        "drone",
+        "launches",
+        "massive",
+        "moscow"
       ],
       "domains": [
         "aol.co.uk",
-        "kentonline.co.uk"
+        "kentonline.co.uk",
+        "express.co.uk"
       ],
       "daysSeen": [
         "2026-09-23",
-        "2026-09-24"
+        "2026-09-24",
+        "2026-10-06"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-10-06",
       "samples": [
         {
           "title": "Rubio concerned Ukraine war could spread as Russia harries united kingdom and allies",
@@ -21809,6 +21839,12 @@
           "url": "https://www.aol.co.uk/articles/rubio-concerned-ukraine-war-could-212840000.html",
           "domain": "aol.co.uk",
           "date": "2026-09-23"
+        },
+        {
+          "title": "Russia burning as Ukraine launches massive drone attack on Moscow",
+          "url": "https://www.express.co.uk/news/world/2254731/russia-burning-ukraine-massive-drone-attack-moscow",
+          "domain": "express.co.uk",
+          "date": "2026-10-06"
         }
       ]
     },
@@ -46014,6 +46050,492 @@
           "url": "https://beritajatim.com/apindo-desak-pemerintah-dan-dpr-tinjau-ulang-ruu-ketenagakerjaan-jangan-kembalikan-pendekatan-lama",
           "domain": "beritajatim.com",
           "date": "2026-10-01"
+        }
+      ]
+    },
+    "united-kingdom:barcelona-barricades-burn": {
+      "id": "united-kingdom:barcelona-barricades-burn",
+      "country": "United Kingdom",
+      "terms": [
+        "barcelona",
+        "barricades",
+        "burn",
+        "erupts",
+        "violence",
+        "world"
+      ],
+      "domains": [
+        "express.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "Violence erupts in Barcelona as barricades burn in street | World | News",
+          "url": "https://www.express.co.uk/news/world/2254743/barcelona-protest-housing-violence",
+          "domain": "express.co.uk",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "united-kingdom:crowds-high-historic": {
+      "id": "united-kingdom:crowds-high-historic",
+      "country": "United Kingdom",
+      "terms": [
+        "crowds",
+        "high",
+        "historic",
+        "mold",
+        "pack",
+        "revival"
+      ],
+      "domains": [
+        "leaderlive.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "Crowds pack Mold High Street for historic Rally Revival",
+          "url": "https://www.leaderlive.co.uk/news/26607635.crowds-pack-mold-high-street-historic-rally-revival/",
+          "domain": "leaderlive.co.uk",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "united-kingdom:city-council-issue": {
+      "id": "united-kingdom:city-council-issue",
+      "country": "United Kingdom",
+      "terms": [
+        "city",
+        "council",
+        "issue",
+        "looking",
+        "norwich",
+        "quit",
+        "vapers"
+      ],
+      "domains": [
+        "edp24.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-02"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "samples": [
+        {
+          "title": "Norwich City Council issue warning to vapers looking to quit",
+          "url": "https://www.edp24.co.uk/news/26600740.norwich-city-council-issue-warning-vapers-looking-quit/",
+          "domain": "edp24.co.uk",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "united-kingdom:cadets-hours-months": {
+      "id": "united-kingdom:cadets-hours-months",
+      "country": "United Kingdom",
+      "terms": [
+        "cadets",
+        "hours",
+        "months",
+        "volunteer",
+        "wiltshire"
+      ],
+      "domains": [
+        "swindonadvertiser.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "Wiltshire police cadets volunteer 670 hours in seven months",
+          "url": "https://www.swindonadvertiser.co.uk/news/26608877.wiltshire-police-cadets-volunteer-670-hours-seven-months/",
+          "domain": "swindonadvertiser.co.uk",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "united-kingdom:being-bride-cancer": {
+      "id": "united-kingdom:being-bride-cancer",
+      "country": "United Kingdom",
+      "terms": [
+        "being",
+        "bride",
+        "cancer",
+        "didnt",
+        "die",
+        "incurable",
+        "she",
+        "solo"
+      ],
+      "domains": [
+        "plymouthherald.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "Totnes woman with incurable cancer throws solo wedding as she  didnt want to die without being a bride",
+          "url": "https://www.plymouthherald.co.uk/news/health/totnes-woman-incurable-cancer-throws-11185681",
+          "domain": "plymouthherald.co.uk",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "united-kingdom:2bn-buy-clarion": {
+      "id": "united-kingdom:2bn-buy-clarion",
+      "country": "United Kingdom",
+      "terms": [
+        "2bn",
+        "buy",
+        "clarion",
+        "events",
+        "firm",
+        "informa",
+        "overhaul",
+        "rival"
+      ],
+      "domains": [
+        "salisburyjournal.co.uk",
+        "kentonline.co.uk",
+        "swindonadvertiser.co.uk",
+        "leaderlive.co.uk",
+        "sthelensstar.co.uk",
+        "southwalesargus.co.uk",
+        "worcesternews.co.uk",
+        "dunmowbroadcast.co.uk",
+        "wiltshiretimes.co.uk",
+        "gazetteherald.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "Informa to buy rival events firm Clarion for £2 . 2bn amid strategy overhaul",
+          "url": "https://www.salisburyjournal.co.uk/news/national/26609956.informa-buy-rival-events-firm-clarion-gbp2-2bn-amid-strategy-overhaul/",
+          "domain": "salisburyjournal.co.uk",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "united-kingdom:bills-electricity-get": {
+      "id": "united-kingdom:bills-electricity-get",
+      "country": "United Kingdom",
+      "terms": [
+        "bills",
+        "electricity",
+        "get",
+        "households",
+        "reopens",
+        "scheme",
+        "some"
+      ],
+      "domains": [
+        "derbytelegraph.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "Some households could get £150 off electricity bills as scheme reopens",
+          "url": "https://www.derbytelegraph.co.uk/news/uk-world-news/households-could-150-electricity-bills-11185613",
+          "domain": "derbytelegraph.co.uk",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "united-kingdom:alleged-billion-daily": {
+      "id": "united-kingdom:alleged-billion-daily",
+      "country": "United Kingdom",
+      "terms": [
+        "alleged",
+        "billion",
+        "daily",
+        "google",
+        "join",
+        "mail",
+        "monopoly",
+        "publishers"
+      ],
+      "domains": [
+        "ibtimes.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "USA Today and Daily Mail Join Publishers Seeking $3 . 2 Billion From Google Over Alleged Ad Monopoly",
+          "url": "https://www.ibtimes.co.uk/usa-today-daily-mail-google-ad-tech-claims-trial-1823827",
+          "domain": "ibtimes.co.uk",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "united-kingdom:anyone-born-cancers": {
+      "id": "united-kingdom:anyone-born-cancers",
+      "country": "United Kingdom",
+      "terms": [
+        "anyone",
+        "born",
+        "cancers",
+        "full",
+        "list",
+        "since"
+      ],
+      "domains": [
+        "derbytelegraph.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "New warning to anyone born since 1976 over seven cancers - full list",
+          "url": "https://www.derbytelegraph.co.uk/news/uk-world-news/new-warning-anyone-born-1976-11185583",
+          "domain": "derbytelegraph.co.uk",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "united-kingdom:before-claimant-death": {
+      "id": "united-kingdom:before-claimant-death",
+      "country": "United Kingdom",
+      "terms": [
+        "before",
+        "claimant",
+        "death",
+        "dwp",
+        "error",
+        "leaves",
+        "mum",
+        "pip"
+      ],
+      "domains": [
+        "plymouthherald.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "DWP  error  leaves PIP claimant unable to see sick mum before her death",
+          "url": "https://www.plymouthherald.co.uk/news/cost-of-living/dwp-error-leaves-pip-claimant-11185435",
+          "domain": "plymouthherald.co.uk",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "united-kingdom:action-balloted-cabin": {
+      "id": "united-kingdom:action-balloted-cabin",
+      "country": "United Kingdom",
+      "terms": [
+        "action",
+        "balloted",
+        "cabin",
+        "crews",
+        "disruption",
+        "fears",
+        "flight",
+        "inverness"
+      ],
+      "domains": [
+        "ross-shirejournal.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "Inverness flight disruption fears after Loganair cabin crews to be balloted on strike action",
+          "url": "https://www.ross-shirejournal.co.uk/news/inverness-flight-disruption-fears-after-loganair-cabin-crews-446769/",
+          "domain": "ross-shirejournal.co.uk",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "united-kingdom:agreement-latest-stand": {
+      "id": "united-kingdom:agreement-latest-stand",
+      "country": "United Kingdom",
+      "terms": [
+        "agreement",
+        "latest",
+        "stand",
+        "talks"
+      ],
+      "domains": [
+        "countytimes.co.uk",
+        "ealingtimes.co.uk",
+        "ludlowadvertiser.co.uk",
+        "northwaleschronicle.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-02"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "samples": [
+        {
+          "title": "Latest talks on Drumcree stand off end without agreement",
+          "url": "https://www.countytimes.co.uk/news/national/26601080.latest-talks-drumcree-stand-off-end-without-agreement/",
+          "domain": "countytimes.co.uk",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "united-kingdom:available-crisis-fund": {
+      "id": "united-kingdom:available-crisis-fund",
+      "country": "United Kingdom",
+      "terms": [
+        "available",
+        "crisis",
+        "fund",
+        "resilience",
+        "worcestershire"
+      ],
+      "domains": [
+        "malverngazette.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "New Crisis and Resilience Fund available in Worcestershire",
+          "url": "https://www.malverngazette.co.uk/news/26606486.new-crisis-resilience-fund-available-worcestershire/",
+          "domain": "malverngazette.co.uk",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "united-kingdom:eurozone-fault-lines": {
+      "id": "united-kingdom:eurozone-fault-lines",
+      "country": "United Kingdom",
+      "terms": [
+        "eurozone",
+        "fault",
+        "lines",
+        "old",
+        "rock",
+        "threatening"
+      ],
+      "domains": [
+        "cityam.com"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "Old fault lines are threatening to rock the Eurozone",
+          "url": "https://www.cityam.com/old-fault-lines-are-threatening-to-rock-the-eurozone/",
+          "domain": "cityam.com",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "united-kingdom:benefits-big-development": {
+      "id": "united-kingdom:benefits-big-development",
+      "country": "United Kingdom",
+      "terms": [
+        "benefits",
+        "big",
+        "development",
+        "ensure",
+        "help",
+        "highland",
+        "investment",
+        "region"
+      ],
+      "domains": [
+        "ross-shirejournal.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "Highland Sustainable Development Summit will help ensure region benefits from renewables and other big investment",
+          "url": "https://www.ross-shirejournal.co.uk/news/highlands-can-benefit-more-from-renewables-and-other-big-inv-446759/",
+          "domain": "ross-shirejournal.co.uk",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "united-kingdom:car-donkervoort-dutch": {
+      "id": "united-kingdom:car-donkervoort-dutch",
+      "country": "United Kingdom",
+      "terms": [
+        "car",
+        "donkervoort",
+        "dutch",
+        "inside",
+        "like",
+        "super"
+      ],
+      "domains": [
+        "cityam.com"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "Inside the Donkervoort , a Dutch super car like no other",
+          "url": "https://www.cityam.com/inside-the-donkervoort-a-dutch-super-car-like-no-other/",
+          "domain": "cityam.com",
+          "date": "2026-10-06"
         }
       ]
     }
