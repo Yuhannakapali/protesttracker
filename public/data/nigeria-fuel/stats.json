@@ -591,7 +591,7 @@
     },
     {
       "start": "2022-01-01",
-      "count": 12
+      "count": 13
     },
     {
       "start": "2022-02-01",
@@ -691,7 +691,7 @@
     },
     {
       "start": "2024-02-01",
-      "count": 11
+      "count": 12
     },
     {
       "start": "2024-03-01",
@@ -767,7 +767,7 @@
     },
     {
       "start": "2025-09-01",
-      "count": 10
+      "count": 11
     },
     {
       "start": "2025-10-01",
@@ -791,7 +791,7 @@
     },
     {
       "start": "2026-03-01",
-      "count": 14
+      "count": 15
     },
     {
       "start": "2026-04-01",
@@ -815,17 +815,17 @@
     },
     {
       "start": "2026-09-01",
-      "count": 158
+      "count": 159
     },
     {
       "start": "2026-10-01",
-      "count": 75
+      "count": 79
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 106,
+      "count": 107,
       "first": "2012-01-05",
       "last": "2026-10-09"
     },
@@ -849,9 +849,9 @@
     },
     {
       "name": "Vanguard News",
-      "count": 44,
+      "count": 45,
       "first": "2012-03-08",
-      "last": "2026-09-26"
+      "last": "2026-10-09"
     },
     {
       "name": "Premium Times Nigeria",
@@ -878,16 +878,16 @@
       "last": "2026-10-09"
     },
     {
+      "name": "TheCable",
+      "count": 20,
+      "first": "2020-09-05",
+      "last": "2026-10-09"
+    },
+    {
       "name": "PM News Nigeria",
       "count": 19,
       "first": "2012-01-03",
       "last": "2026-10-07"
-    },
-    {
-      "name": "TheCable",
-      "count": 19,
-      "first": "2020-09-05",
-      "last": "2026-10-09"
     },
     {
       "name": "Business News Nigeria",
@@ -932,6 +932,12 @@
       "last": "2024-08-02"
     },
     {
+      "name": "Businessday NG",
+      "count": 12,
+      "first": "2020-10-02",
+      "last": "2026-04-18"
+    },
+    {
       "name": "THISDAYLIVE",
       "count": 12,
       "first": "2023-01-26",
@@ -948,12 +954,6 @@
       "count": 11,
       "first": "2021-12-17",
       "last": "2026-10-09"
-    },
-    {
-      "name": "Businessday NG",
-      "count": 9,
-      "first": "2020-10-02",
-      "last": "2026-04-18"
     },
     {
       "name": "TVC News",
@@ -986,6 +986,12 @@
       "last": "2024-08-08"
     },
     {
+      "name": "LEADERSHIP Newspapers",
+      "count": 6,
+      "first": "2024-09-08",
+      "last": "2026-10-09"
+    },
+    {
       "name": "Sahara Reporters",
       "count": 6,
       "first": "2020-09-10",
@@ -1004,10 +1010,10 @@
       "last": "2026-10-05"
     },
     {
-      "name": "LEADERSHIP Newspapers",
+      "name": "Peoples Gazette Nigeria",
       "count": 5,
-      "first": "2024-09-08",
-      "last": "2026-10-08"
+      "first": "2024-10-09",
+      "last": "2026-10-09"
     },
     {
       "name": "Reuters",
@@ -1038,12 +1044,6 @@
       "count": 4,
       "first": "2012-01-13",
       "last": "2026-09-11"
-    },
-    {
-      "name": "Peoples Gazette Nigeria",
-      "count": 4,
-      "first": "2024-10-09",
-      "last": "2026-10-07"
     },
     {
       "name": "FRCN HQ",
@@ -1370,7 +1370,7 @@
       "last": "2024-09-05"
     },
     {
-      "name": "Parallel Facts News",
+      "name": "Parallel Facts",
       "count": 1,
       "first": "2026-09-14",
       "last": "2026-09-14"
@@ -1482,6 +1482,12 @@
       "count": 1,
       "first": "2012-04-15",
       "last": "2012-04-15"
+    },
+    {
+      "name": "Wansom AI",
+      "count": 1,
+      "first": "2026-09-26",
+      "last": "2026-09-26"
     }
   ],
   "firstDate": "2009-10-30",
