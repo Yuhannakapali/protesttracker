@@ -791,7 +791,7 @@
     },
     {
       "start": "2026-03-01",
-      "count": 15
+      "count": 16
     },
     {
       "start": "2026-04-01",
@@ -819,19 +819,19 @@
     },
     {
       "start": "2026-10-01",
-      "count": 89
+      "count": 91
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 110,
+      "count": 111,
       "first": "2012-01-05",
       "last": "2026-10-10"
     },
     {
       "name": "Vanguard",
-      "count": 67,
+      "count": 68,
       "first": "2026-09-02",
       "last": "2026-10-10"
     },
@@ -1298,6 +1298,12 @@
       "last": "2026-09-17"
     },
     {
+      "name": "Gulf Times",
+      "count": 1,
+      "first": "2026-03-18",
+      "last": "2026-03-18"
+    },
+    {
       "name": "Head Topics",
       "count": 1,
       "first": "2026-08-28",
@@ -1370,7 +1376,7 @@
       "last": "2024-09-05"
     },
     {
-      "name": "Parallel Facts",
+      "name": "Parallel Facts News",
       "count": 1,
       "first": "2026-09-14",
       "last": "2026-09-14"
