@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 88
+      "count": 89
     }
   ],
   "sources": [
@@ -831,7 +831,7 @@
     },
     {
       "name": "Vanguard",
-      "count": 66,
+      "count": 67,
       "first": "2026-09-02",
       "last": "2026-10-10"
     },
@@ -926,16 +926,16 @@
       "last": "2026-10-07"
     },
     {
-      "name": "Legit News",
-      "count": 13,
-      "first": "2022-01-02",
-      "last": "2025-09-16"
-    },
-    {
       "name": "Al Jazeera",
       "count": 12,
       "first": "2012-01-04",
       "last": "2024-08-02"
+    },
+    {
+      "name": "Legit News",
+      "count": 12,
+      "first": "2022-01-02",
+      "last": "2025-09-16"
     },
     {
       "name": "THISDAYLIVE",
@@ -1052,6 +1052,12 @@
       "last": "2026-10-07"
     },
     {
+      "name": "legit.ng",
+      "count": 3,
+      "first": "2024-09-04",
+      "last": "2024-09-06"
+    },
+    {
       "name": "premiumtimesng.com",
       "count": 3,
       "first": "2024-06-03",
@@ -1080,12 +1086,6 @@
       "count": 2,
       "first": "2026-01-30",
       "last": "2026-10-09"
-    },
-    {
-      "name": "legit.ng",
-      "count": 2,
-      "first": "2024-09-04",
-      "last": "2024-09-04"
     },
     {
       "name": "Mail & Guardian",
