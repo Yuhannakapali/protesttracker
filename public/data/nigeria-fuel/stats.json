@@ -591,7 +591,7 @@
     },
     {
       "start": "2022-01-01",
-      "count": 13
+      "count": 14
     },
     {
       "start": "2022-02-01",
@@ -819,21 +819,21 @@
     },
     {
       "start": "2026-10-01",
-      "count": 94
+      "count": 98
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 112,
+      "count": 113,
       "first": "2012-01-05",
       "last": "2026-10-11"
     },
     {
       "name": "Vanguard",
-      "count": 68,
+      "count": 70,
       "first": "2026-09-02",
-      "last": "2026-10-10"
+      "last": "2026-10-11"
     },
     {
       "name": "Channels Television",
@@ -890,22 +890,22 @@
       "last": "2026-10-09"
     },
     {
-      "name": "Business News Nigeria",
-      "count": 17,
-      "first": "2022-01-21",
-      "last": "2026-07-28"
-    },
-    {
       "name": "Businessday NG",
-      "count": 17,
+      "count": 18,
       "first": "2020-10-02",
       "last": "2026-10-09"
     },
     {
       "name": "Premium Times",
-      "count": 17,
+      "count": 18,
       "first": "2026-09-11",
       "last": "2026-10-11"
+    },
+    {
+      "name": "Business News Nigeria",
+      "count": 17,
+      "first": "2022-01-21",
+      "last": "2026-07-28"
     },
     {
       "name": "Arise News",
@@ -1074,12 +1074,6 @@
       "count": 2,
       "first": "2016-05-18",
       "last": "2021-03-12"
-    },
-    {
-      "name": "Foundation for Investigative Journalism (FIJ)",
-      "count": 2,
-      "first": "2024-09-04",
-      "last": "2024-09-05"
     },
     {
       "name": "Instagram",
@@ -1256,6 +1250,12 @@
       "last": "2023-08-02"
     },
     {
+      "name": "FIJ NG",
+      "count": 1,
+      "first": "2024-09-04",
+      "last": "2024-09-04"
+    },
+    {
       "name": "fij.ng",
       "count": 1,
       "first": "2024-11-11",
@@ -1266,6 +1266,12 @@
       "count": 1,
       "first": "2024-02-15",
       "last": "2024-02-15"
+    },
+    {
+      "name": "Foundation for Investigative Journalism (FIJ)",
+      "count": 1,
+      "first": "2024-09-05",
+      "last": "2024-09-05"
     },
     {
       "name": "France 24",
