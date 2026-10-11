@@ -652,7 +652,13 @@
         "emotional",
         "moses",
         "sends",
-        "message"
+        "message",
+        "claim",
+        "comeback",
+        "crucial",
+        "hungary",
+        "italy",
+        "nations"
       ],
       "domains": [
         "blueprint.ng",
@@ -665,7 +671,8 @@
         "dailypost.ng",
         "allafrica.com",
         "promptnewsonline.com",
-        "nigerianobservernews.com"
+        "nigerianobservernews.com",
+        "hallmarknews.com"
       ],
       "daysSeen": [
         "2026-09-02",
@@ -685,11 +692,12 @@
         "2026-10-02",
         "2026-09-27",
         "2026-09-30",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-06"
       ],
-      "articleCount": 53,
+      "articleCount": 54,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-06",
       "samples": [
         {
           "title": "Yari PCC DG appointment :  Zamfara APC holds 2m man march for Tinubu  - Blueprint Newspapers Limited",
@@ -1290,7 +1298,13 @@
         "felix",
         "ncdmb",
         "ogbe",
-        "under"
+        "under",
+        "killing",
+        "diesel",
+        "months",
+        "petrol",
+        "prices",
+        "surge"
       ],
       "domains": [
         "nigerianeye.com",
@@ -1306,7 +1320,8 @@
         "premiumtimesng.com",
         "opinionnigeria.com",
         "saharareporters.com",
-        "theeagleonline.com.ng"
+        "theeagleonline.com.ng",
+        "hallmarknews.com"
       ],
       "daysSeen": [
         "2026-09-04",
@@ -1327,11 +1342,13 @@
         "2026-09-28",
         "2026-09-29",
         "2026-09-30",
-        "2026-10-02"
+        "2026-10-02",
+        "2026-10-08",
+        "2026-10-06"
       ],
-      "articleCount": 94,
+      "articleCount": 96,
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-08",
       "samples": [
         {
           "title": "RCCG Donates $265 , 854 to Evacuate Nigerians from South Africa - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
@@ -2838,84 +2855,6 @@
           "url": "https://theshillongtimes.com/2026/09/07/delhi-hc-rejects-swatantra-bhardwajs-habeas-corpus-plea-patiala-house-court-remands-him-to-14-day-custody/",
           "domain": "theshillongtimes.com",
           "date": "2026-09-07"
-        }
-      ]
-    },
-    "india:bengal-between-isf": {
-      "id": "india:bengal-between-isf",
-      "country": "India",
-      "terms": [
-        "bengal",
-        "between",
-        "isf",
-        "jibantala",
-        "political",
-        "situation",
-        "tense",
-        "west",
-        "several",
-        "cpi",
-        "injured",
-        "jalpaiguri",
-        "fire",
-        "set",
-        "office",
-        "party",
-        "kolkata",
-        "occupied",
-        "tmc",
-        "workers",
-        "alleges",
-        "attacks",
-        "jadavpur",
-        "mla",
-        "attacked",
-        "home"
-      ],
-      "domains": [
-        "news.webindia123.com",
-        "prokerala.com",
-        "aninews.in",
-        "deccanchronicle.com"
-      ],
-      "daysSeen": [
-        "2026-09-05",
-        "2026-09-08",
-        "2026-09-20"
-      ],
-      "articleCount": 6,
-      "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "West Bengal : Several injured in political clash between BJP , ISF - CPI ( M ) workers in Jibantala ; situation tense",
-          "url": "https://news.webindia123.com/news/Articles/India/20260905/4495180.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "West Bengal : Several injured in political clash between BJP , ISF - CPI ( M ) workers in Jibantala ; situation tense",
-          "url": "https://news.webindia123.com/news/Articles/India/20260905/4495180.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "CPI - M calls for protest march after party office set on fire in Bengal Jalpaiguri",
-          "url": "https://www.prokerala.com/news/articles/a1809731.html",
-          "domain": "prokerala.com",
-          "date": "2026-09-08"
-        },
-        {
-          "title": "CPI - M calls for protest march after party office set on fire in Bengal Jalpaiguri",
-          "url": "https://www.prokerala.com/news/articles/a1809731.html",
-          "domain": "prokerala.com",
-          "date": "2026-09-08"
-        },
-        {
-          "title": "TMC holds protest rally in Kolkata , alleges BJP occupied party office , attacks on workers",
-          "url": "https://aninews.in/news/national/politics/tmc-holds-protest-rally-in-kolkata-alleges-bjp-occupied-party-office-attacks-on-workers20260920145047/",
-          "domain": "aninews.in",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -5877,56 +5816,6 @@
         }
       ]
     },
-    "india:businessman-digital-down": {
-      "id": "india:businessman-digital-down",
-      "country": "India",
-      "terms": [
-        "businessman",
-        "gunned",
-        "indiablooms",
-        "management",
-        "portal",
-        "quetta",
-        "digital",
-        "down",
-        "family",
-        "takes",
-        "aleema",
-        "days",
-        "first",
-        "pti"
-      ],
-      "domains": [
-        "indiablooms.com"
-      ],
-      "daysSeen": [
-        "2026-09-05",
-        "2026-09-20"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Pakistan : Businessman gunned down in Quetta , family takes body to road in protest | Indiablooms - First Portal on Digital News Management",
-          "url": "https://www.indiablooms.com/world/pakistan-businessman-gunned-down-in-quetta-family-takes-body-to-road-in-protest/details",
-          "domain": "indiablooms.com",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "Pakistan : Businessman gunned down in Quetta , family takes body to road in protest | Indiablooms - First Portal on Digital News Management",
-          "url": "https://www.indiablooms.com/world/pakistan-businessman-gunned-down-in-quetta-family-takes-body-to-road-in-protest/details",
-          "domain": "indiablooms.com",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "Pakistan : Imran Khan sister Aleema Khan detained for 30 days ahead of PTI protest | Indiablooms - First Portal on Digital News Management",
-          "url": "https://www.indiablooms.com/world/pakistan-imran-khans-sister-aleema-khan-detained-for-30-days-ahead-of-pti-protest/details",
-          "domain": "indiablooms.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "india:near-open-plans": {
       "id": "india:near-open-plans",
       "country": "India",
@@ -6283,56 +6172,6 @@
         }
       ]
     },
-    "kenya:chief-despite-insecurity": {
-      "id": "kenya:chief-despite-insecurity",
-      "country": "Kenya",
-      "terms": [
-        "insecurity",
-        "nigeria",
-        "safe",
-        "secure",
-        "vote",
-        "despite",
-        "vows",
-        "chief",
-        "detainees",
-        "suspends",
-        "dead",
-        "found",
-        "security"
-      ],
-      "domains": [
-        "standardmedia.co.ke",
-        "kenyastar.com"
-      ],
-      "daysSeen": [
-        "2026-09-11",
-        "2026-09-20"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Nigeria police chief vows  safe , secure  vote despite insecurity",
-          "url": "https://www.standardmedia.co.ke/africa/article/2001557550/nigeria-police-chief-vows-safe-secure-vote-despite-insecurity",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-09-11"
-        },
-        {
-          "title": "Nigeria suspends security chief after detainees found dead",
-          "url": "http://www.kenyastar.com/news/279315982/nigeria-suspends-security-chief-after-detainees-found-dead",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Nigeria suspends security chief after detainees found dead",
-          "url": "http://www.kenyastar.com/news/279315982/nigeria-suspends-security-chief-after-detainees-found-dead",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "kenya:arabia-chinese-leap": {
       "id": "kenya:arabia-chinese-leap",
       "country": "Kenya",
@@ -6490,53 +6329,6 @@
         }
       ]
     },
-    "india:age-chee-colonial": {
-      "id": "india:age-chee-colonial",
-      "country": "India",
-      "terms": [
-        "age",
-        "chee",
-        "colonial",
-        "hwa",
-        "tung",
-        "hong",
-        "kong",
-        "post",
-        "dies",
-        "funeral"
-      ],
-      "domains": [
-        "hindustantimes.com",
-        "dailyexcelsior.com"
-      ],
-      "daysSeen": [
-        "2026-09-09",
-        "2026-09-20"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Tung Chee - hwa , Hong Kong first post - colonial leader , dies at age 89",
-          "url": "https://www.hindustantimes.com/world-news/tung-chee-hwa-hong-kongs-first-post-colonial-leader-dies-at-age-89-101788915108526.html",
-          "domain": "hindustantimes.com",
-          "date": "2026-09-09"
-        },
-        {
-          "title": "Tung Chee - hwa , Hong Kong first post - colonial leader , dies at age 89",
-          "url": "https://www.hindustantimes.com/world-news/tung-chee-hwa-hong-kongs-first-post-colonial-leader-dies-at-age-89-101788915108526.html",
-          "domain": "hindustantimes.com",
-          "date": "2026-09-09"
-        },
-        {
-          "title": "A state funeral in Hong Kong honors Tung  Chee - hwa , the city first post - colonial leader",
-          "url": "https://www.dailyexcelsior.com/a-state-funeral-in-hong-kong-honors-tung-chee-hwa-the-citys-first-post-colonial-leader/",
-          "domain": "dailyexcelsior.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "india:authum-decode-experts": {
       "id": "india:authum-decode-experts",
       "country": "India",
@@ -6586,50 +6378,6 @@
           "url": "https://timesofindia.indiatimes.com/city/mumbai/psychological-autopsies-can-help-identify-preventable-factors-experts-after-iit-b-students-suicide/articleshow/134396662.cms",
           "domain": "timesofindia.indiatimes.com",
           "date": "2026-09-21"
-        }
-      ]
-    },
-    "south-africa:candidate-investigation-list": {
-      "id": "south-africa:candidate-investigation-list",
-      "country": "South Africa",
-      "terms": [
-        "investigation",
-        "malfeasance",
-        "mkp",
-        "candidate",
-        "list",
-        "orders",
-        "zuma",
-        "eff",
-        "malema",
-        "swipe",
-        "takes",
-        "dead",
-        "led"
-      ],
-      "domains": [
-        "politicsweb.co.za",
-        "thesouthafrican.com"
-      ],
-      "daysSeen": [
-        "2026-09-10",
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-10",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Zuma orders investigation in candidate list malfeasance - MKP",
-          "url": "https://www.politicsweb.co.za/news/zuma-orders-investigation-in-candidate-list-malfeasance-mkp",
-          "domain": "politicsweb.co.za",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "MKP is dead : EFF Malema takes swipe at Zuma - led party",
-          "url": "https://www.thesouthafrican.com/news/elections/julius-malema-eff-manifesto-launch-kzn-jl-dube-stadium-inanda/",
-          "domain": "thesouthafrican.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -6766,48 +6514,6 @@
           "url": "https://zalebs.com/business/oil-slide-intensifies-calls-for-lower-petrol-prices-in-nigeria/",
           "domain": "zalebs.com",
           "date": "2026-09-21"
-        }
-      ]
-    },
-    "south-africa:beyond-body-drc": {
-      "id": "south-africa:beyond-body-drc",
-      "country": "South Africa",
-      "terms": [
-        "drc",
-        "ebola",
-        "epicentre",
-        "outbreak",
-        "rapidly",
-        "spreading",
-        "beyond",
-        "body",
-        "vaccinations",
-        "begins",
-        "health",
-        "workers"
-      ],
-      "domains": [
-        "timeslive.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-11",
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "DRC Ebola outbreak spreading rapidly beyond epicentre , Africa top health body warns",
-          "url": "https://www.timeslive.co.za/news/world/2026-09-11-africas-top-health-body-warns-congos-ebola-outbreak-is-rapidly-spreading-beyond-epicente/",
-          "domain": "timeslive.co.za",
-          "date": "2026-09-11"
-        },
-        {
-          "title": "DRC begins Ebola vaccinations for health workers in the epicentre of the outbreak",
-          "url": "https://www.timeslive.co.za/news/africa/2026-09-20-congo-begins-ebola-vaccinations-for-health-workers-in-the-epicenter-of-the-outbreak/",
-          "domain": "timeslive.co.za",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -7749,79 +7455,6 @@
           "url": "https://jakarta.bisnis.com/read/20260924/77/2006731/ada-demo-buruh-24-september-hindari-titik-rawan-macet-berikut-ini",
           "domain": "jakarta.bisnis.com",
           "date": "2026-09-24"
-        }
-      ]
-    },
-    "india:chief-condemning-joseph": {
-      "id": "india:chief-condemning-joseph",
-      "country": "India",
-      "terms": [
-        "joseph",
-        "wide",
-        "chief",
-        "condemning",
-        "president",
-        "stalin",
-        "vijay",
-        "minister",
-        "salem",
-        "stages",
-        "dmk",
-        "tiruchi",
-        "stalwarts",
-        "statewide",
-        "agitation",
-        "party",
-        "remarks",
-        "bike",
-        "helmet",
-        "siva",
-        "awareness",
-        "flags",
-        "tiruchirappalli"
-      ],
-      "domains": [
-        "thehindu.com",
-        "moneycontrol.com",
-        "news.webindia123.com"
-      ],
-      "daysSeen": [
-        "2026-09-12",
-        "2026-09-20"
-      ],
-      "articleCount": 5,
-      "firstSeen": "2026-09-12",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "DMK stages State - wide demonstrations condemning Chief Minister C . Joseph Vijay remarks in the Assembly against DMK president M . K . Stalin .",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-stages-state-wide-demonstrations-condemning-vijays-remarks-against-stalin/article71460596.ece",
-          "domain": "thehindu.com",
-          "date": "2026-09-12"
-        },
-        {
-          "title": "DMK stages demonstration against Chief Minister in Salem",
-          "url": "https://www.thehindu.com/news/cities/Coimbatore/dmk-stages-demonstration-against-chief-minister-in-salem/article71459738.ece",
-          "domain": "thehindu.com",
-          "date": "2026-09-12"
-        },
-        {
-          "title": "DMK stages demonstration in Tiruchi",
-          "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/dmk-stages-demonstration-in-tiruchi/article71459519.ece",
-          "domain": "thehindu.com",
-          "date": "2026-09-12"
-        },
-        {
-          "title": "DMK holds statewide agitation condemning CM Vijay remarks against party stalwarts",
-          "url": "https://www.moneycontrol.com/news/india/dmk-holds-statewide-agitation-condemning-cm-vijay-s-remarks-against-party-stalwarts-14028699.html",
-          "domain": "moneycontrol.com",
-          "date": "2026-09-12"
-        },
-        {
-          "title": "DMK MP Tiruchi Siva flags off helmet awareness bike rally in Tiruchirappalli",
-          "url": "https://news.webindia123.com/news/Articles/India/20260920/4501045.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -8871,59 +8504,6 @@
         }
       ]
     },
-    "kenya:arabian-border-continue": {
-      "id": "kenya:arabian-border-continue",
-      "country": "Kenya",
-      "terms": [
-        "arabian",
-        "grip",
-        "tighten",
-        "border",
-        "continue",
-        "route",
-        "saudi",
-        "houthis",
-        "front",
-        "mulls",
-        "option",
-        "capital",
-        "asia",
-        "west",
-        "attack"
-      ],
-      "domains": [
-        "kenyastar.com",
-        "news.webindia123.com",
-        "aninews.in"
-      ],
-      "daysSeen": [
-        "2026-09-13",
-        "2026-09-20"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Houthis continue strike at Saudi Arabian border , tighten grip on oil route",
-          "url": "http://www.kenyastar.com/news/279304011/houthis-continue-strike-at-saudi-arabian-border-tighten-grip-on-oil-route",
-          "domain": "kenyastar.com",
-          "date": "2026-09-13"
-        },
-        {
-          "title": "New front in West Asia ; Trump mulls option on strike against Houthis after attack on Saudi capital",
-          "url": "http://www.kenyastar.com/news/279318196/new-front-in-west-asia-trump-mulls-option-on-strike-against-houthis-after-attack-on-saudi-capital",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "New front in West Asia ; Trump mulls option on strike against Houthis after attack on Saudi capital",
-          "url": "http://www.kenyastar.com/news/279318196/new-front-in-west-asia-trump-mulls-option-on-strike-against-houthis-after-attack-on-saudi-capital",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "united-kingdom:defuse-france-media": {
       "id": "united-kingdom:defuse-france-media",
       "country": "United Kingdom",
@@ -8964,64 +8544,6 @@
           "url": "https://metro.co.uk/2026/09/25/social-media-users-end-government-list-speaking-prevent-29649220/",
           "domain": "metro.co.uk",
           "date": "2026-09-25"
-        }
-      ]
-    },
-    "united-kingdom:gaza-plunged-show": {
-      "id": "united-kingdom:gaza-plunged-show",
-      "country": "United Kingdom",
-      "terms": [
-        "gaza",
-        "plunged",
-        "show",
-        "situation",
-        "turmoil",
-        "unjustifiable"
-      ],
-      "domains": [
-        "theguardian.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Ed Sheeran says situation in Gaza  unjustifiable  in first show since tour plunged into turmoil | Ed Sheeran",
-          "url": "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-gaza-catastrophic-and-unjustifiable-first-show-tour-loop-philadelphia-us",
-          "domain": "theguardian.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:archives-captured-community": {
-      "id": "united-kingdom:archives-captured-community",
-      "country": "United Kingdom",
-      "terms": [
-        "archives",
-        "captured",
-        "community",
-        "events",
-        "life",
-        "local"
-      ],
-      "domains": [
-        "salisburyjournal.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Community events and local life captured in 1976 archives",
-          "url": "https://www.salisburyjournal.co.uk/news/26543720.community-events-local-life-captured-1976-archives/",
-          "domain": "salisburyjournal.co.uk",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -9081,151 +8603,6 @@
         }
       ]
     },
-    "united-kingdom:dem-economic-entice": {
-      "id": "united-kingdom:dem-economic-entice",
-      "country": "United Kingdom",
-      "terms": [
-        "dem",
-        "economic",
-        "entice",
-        "heart",
-        "kingdom",
-        "lib",
-        "plan",
-        "stay"
-      ],
-      "domains": [
-        "edp24.co.uk",
-        "thetelegraphandargus.co.uk",
-        "echo-news.co.uk",
-        "aol.co.uk",
-        "ipswichstar.co.uk",
-        "eveningnews24.co.uk",
-        "oxfordmail.co.uk",
-        "brentwoodlive.co.uk",
-        "thetottenhamindependent.co.uk",
-        "rhyljournal.co.uk",
-        "cotswoldjournal.co.uk",
-        "kilburntimes.co.uk",
-        "gazetteherald.co.uk",
-        "thecomet.net",
-        "hackneygazette.co.uk",
-        "eveshamjournal.co.uk",
-        "huntspost.co.uk",
-        "keighleynews.co.uk",
-        "guardian-series.co.uk",
-        "gazette-news.co.uk",
-        "warringtonguardian.co.uk",
-        "hertsad.co.uk",
-        "eppingforestguardian.co.uk",
-        "ludlowadvertiser.co.uk",
-        "times-series.co.uk",
-        "northsomersettimes.co.uk",
-        "wirralglobe.co.uk",
-        "wiltshiretimes.co.uk",
-        "malverngazette.co.uk",
-        "eastlondonadvertiser.co.uk",
-        "eastlothiancourier.com",
-        "dailyecho.co.uk",
-        "northwichguardian.co.uk",
-        "hillingdontimes.co.uk",
-        "cambstimes.co.uk",
-        "wharfedaleobserver.co.uk",
-        "hampshirechronicle.co.uk",
-        "bracknellnews.co.uk",
-        "bicesteradvertiser.net",
-        "barryanddistrictnews.co.uk",
-        "thisiswiltshire.co.uk",
-        "gazetteandherald.co.uk",
-        "basingstokegazette.co.uk",
-        "westerntelegraph.co.uk",
-        "redditchadvertiser.co.uk",
-        "chardandilminsternews.co.uk",
-        "watfordobserver.co.uk",
-        "andoveradvertiser.co.uk",
-        "peeblesshirenews.com",
-        "dissexpress.co.uk",
-        "stratford-herald.com",
-        "rutland-times.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Lib Dem economic plan to put united kingdom at heart of Europe and entice start - ups to stay",
-          "url": "https://www.edp24.co.uk/news/national/26565303.lib-dem-economic-plan-put-uk-heart-europe-entice-start-ups-stay/",
-          "domain": "edp24.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:aftermath-contemplated-performing": {
-      "id": "united-kingdom:aftermath-contemplated-performing",
-      "country": "United Kingdom",
-      "terms": [
-        "aftermath",
-        "contemplated",
-        "performing",
-        "quitting"
-      ],
-      "domains": [
-        "salisburyjournal.co.uk",
-        "eadt.co.uk",
-        "yorkpress.co.uk",
-        "theboltonnews.co.uk",
-        "bucksfreepress.co.uk",
-        "eveningnews24.co.uk",
-        "oxfordmail.co.uk",
-        "dorsetecho.co.uk",
-        "yourlocalguardian.co.uk",
-        "stourbridgenews.co.uk",
-        "wiltshiretimes.co.uk",
-        "maldonandburnhamstandard.co.uk",
-        "wimbledonguardian.co.uk",
-        "worcesternews.co.uk",
-        "midweekherald.co.uk",
-        "elystandard.co.uk",
-        "tivysideadvertiser.co.uk",
-        "gazetteherald.co.uk",
-        "clydebankpost.co.uk",
-        "northsomersettimes.co.uk",
-        "hackneygazette.co.uk",
-        "cotswoldjournal.co.uk",
-        "ealingtimes.co.uk",
-        "bridgwatermercury.co.uk",
-        "heraldseries.co.uk",
-        "cravenherald.co.uk",
-        "northwaleschronicle.co.uk",
-        "surreycomet.co.uk",
-        "milfordmercury.co.uk",
-        "borehamwoodtimes.co.uk",
-        "dudleynews.co.uk",
-        "dissexpress.co.uk",
-        "denbighshirefreepress.co.uk",
-        "countytimes.co.uk",
-        "newarkadvertiser.co.uk",
-        "andoveradvertiser.co.uk",
-        "fenlandcitizen.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Ed Sheeran contemplated quitting performing in aftermath of Macklemore row",
-          "url": "https://www.salisburyjournal.co.uk/news/national/26565332.ed-sheeran-contemplated-quitting-performing-aftermath-macklemore-row/",
-          "domain": "salisburyjournal.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "united-kingdom:election-huge-humiliated": {
       "id": "united-kingdom:election-huge-humiliated",
       "country": "United Kingdom",
@@ -9267,102 +8644,6 @@
           "url": "https://www.express.co.uk/news/world/2250541/putin-plans-launch-dangerous-new-drone",
           "domain": "express.co.uk",
           "date": "2026-09-21"
-        }
-      ]
-    },
-    "united-kingdom:drones-election-hundreds": {
-      "id": "united-kingdom:drones-election-hundreds",
-      "country": "United Kingdom",
-      "terms": [
-        "drones",
-        "parliamentary",
-        "russia",
-        "target",
-        "voting",
-        "election",
-        "hundreds",
-        "last"
-      ],
-      "domains": [
-        "theguardian.com",
-        "aol.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Hundreds of drones target Moscow on last day of voting in Russia parliamentary election | Russia",
-          "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
-          "domain": "theguardian.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Hundreds of drones target Moscow on last day of voting in Russia parliamentary election",
-          "url": "https://www.aol.co.uk/articles/hundreds-drones-target-moscow-last-060448000.html",
-          "domain": "aol.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:arsenal-brighton-defeat": {
-      "id": "united-kingdom:arsenal-brighton-defeat",
-      "country": "United Kingdom",
-      "terms": [
-        "brighton",
-        "defeat",
-        "ends",
-        "shock",
-        "unbeaten",
-        "arsenal",
-        "start"
-      ],
-      "domains": [
-        "lbc.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Arsenal unbeaten start ends with shock 3 - 0 defeat at Brighton",
-          "url": "https://www.lbc.co.uk/article/arsenals-unbeaten-start-ends-with-shock-3-0-defeat-at-brighton-5HjdhgL_2/",
-          "domain": "lbc.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:cursed-definitely-horror": {
-      "id": "united-kingdom:cursed-definitely-horror",
-      "country": "United Kingdom",
-      "terms": [
-        "cursed",
-        "definitely",
-        "horror",
-        "movie",
-        "sets"
-      ],
-      "domains": [
-        "hellomagazine.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "5 horror movie sets that were definitely cursed",
-          "url": "https://www.hellomagazine.com/film/923656/5-horror-movie-sets-that-were-definitely-cursed/",
-          "domain": "hellomagazine.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -9415,627 +8696,6 @@
         }
       ]
     },
-    "united-kingdom:barred-before-biological": {
-      "id": "united-kingdom:barred-before-biological",
-      "country": "United Kingdom",
-      "terms": [
-        "barred",
-        "before",
-        "biological",
-        "high",
-        "jails",
-        "men",
-        "prisoners",
-        "record"
-      ],
-      "domains": [
-        "dailyrecord.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Trans prisoners at record high weeks before biological men barred from women jails",
-          "url": "https://www.dailyrecord.co.uk/news/trans-prisoners-record-high-weeks-37680626",
-          "domain": "dailyrecord.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:horoscope-reading-tarot": {
-      "id": "united-kingdom:horoscope-reading-tarot",
-      "country": "United Kingdom",
-      "terms": [
-        "horoscope",
-        "reading",
-        "tarot",
-        "weekly"
-      ],
-      "domains": [
-        "metro.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Weekly tarot horoscope reading for September 21 to September 27 , 2026",
-          "url": "https://metro.co.uk/2026/09/20/weekly-tarot-horoscope-reading-september-21-september-27-2026-29632049/",
-          "domain": "metro.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:chiltern-enters-labour": {
-      "id": "united-kingdom:chiltern-enters-labour",
-      "country": "United Kingdom",
-      "terms": [
-        "chiltern",
-        "enters",
-        "labour",
-        "nationalisation",
-        "ownership",
-        "push",
-        "railways"
-      ],
-      "domains": [
-        "theguardian.com",
-        "aol.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Chiltern Railways enters public ownership in Labour nationalisation push",
-          "url": "https://www.theguardian.com/business/2026/sep/20/chiltern-railways-enters-public-ownership-labour-nationalisation",
-          "domain": "theguardian.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:carrick-derby-error": {
-      "id": "united-kingdom:carrick-derby-error",
-      "country": "United Kingdom",
-      "terms": [
-        "carrick",
-        "derby",
-        "error",
-        "fronts",
-        "manchester",
-        "michael",
-        "pro",
-        "ref"
-      ],
-      "domains": [
-        "aol.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Michael Carrick fronts up on Pro Ref apology after Manchester derby error",
-          "url": "https://www.aol.co.uk/articles/michael-carrick-fronts-pro-refs-065519000.html",
-          "domain": "aol.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:bomb-dropping-everything": {
-      "id": "united-kingdom:bomb-dropping-everything",
-      "country": "United Kingdom",
-      "terms": [
-        "bomb",
-        "dropping",
-        "everything",
-        "minutes",
-        "nuclear",
-        "within",
-        "you",
-        "must"
-      ],
-      "domains": [
-        "express.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Everything you must do within 45 minutes of nuclear bomb dropping | US | News",
-          "url": "https://www.express.co.uk/news/us/2248823/all-action-you-must-take-survive-nuclear-strike",
-          "domain": "express.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:celebrity-showbiz": {
-      "id": "united-kingdom:celebrity-showbiz",
-      "country": "United Kingdom",
-      "terms": [
-        "celebrity",
-        "showbiz"
-      ],
-      "domains": [
-        "express.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Ed Sheeran admits  mistake at first concert since Macklemore row | Celebrity News | Showbiz & TV",
-          "url": "https://www.express.co.uk/celebrity-news/2250066/ed-sheeran-admits-mistakes-macklemore",
-          "domain": "express.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:fans-singer-support": {
-      "id": "united-kingdom:fans-singer-support",
-      "country": "United Kingdom",
-      "terms": [
-        "fans",
-        "singer",
-        "support"
-      ],
-      "domains": [
-        "echo-news.co.uk",
-        "edp24.co.uk",
-        "kentonline.co.uk",
-        "thetelegraphandargus.co.uk",
-        "ipswichstar.co.uk",
-        "thenorthernecho.co.uk",
-        "eveningnews24.co.uk",
-        "oxfordmail.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Ed Sheeran fans support singer at first concert since Macklemore tour row",
-          "url": "https://www.echo-news.co.uk/news/national/26565305.ed-sheeran-fans-support-singer-first-concert-since-macklemore-tour-row/",
-          "domain": "echo-news.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:arundell-horoscopes-monday": {
-      "id": "united-kingdom:arundell-horoscopes-monday",
-      "country": "United Kingdom",
-      "terms": [
-        "arundell",
-        "horoscopes",
-        "monday",
-        "patrick",
-        "stars",
-        "starting",
-        "week",
-        "your"
-      ],
-      "domains": [
-        "kentonline.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Horoscopes with Patrick Arundell : Your stars for the week starting Monday , September 21",
-          "url": "https://www.kentonline.co.uk/news/native/there-s-a-golden-opportunity-just-around-the-corner-find-ou-345213/",
-          "domain": "kentonline.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:alan-celebrity-discovery": {
-      "id": "united-kingdom:alan-celebrity-discovery",
-      "country": "United Kingdom",
-      "terms": [
-        "alan",
-        "discovery",
-        "home",
-        "irritated",
-        "leaves",
-        "titchmarsh",
-        "celebrity",
-        "him"
-      ],
-      "domains": [
-        "express.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Alan Titchmarsh says  it a mistake  as discovery at new home leaves him  irritated  | Celebrity News | Showbiz & TV",
-          "url": "https://www.express.co.uk/celebrity-news/2249410/alan-titchmarsh-home-garden-struggle-youtube",
-          "domain": "express.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:become-beyond-control": {
-      "id": "united-kingdom:become-beyond-control",
-      "country": "United Kingdom",
-      "terms": [
-        "become",
-        "beyond",
-        "control",
-        "rise",
-        "threat",
-        "human",
-        "warfare",
-        "now",
-        "declines",
-        "oversight",
-        "reshape",
-        "systems"
-      ],
-      "domains": [
-        "heraldscotland.com",
-        "thenational.scot"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "The rise of AI warfare has now become a threat beyond human control",
-          "url": "https://www.heraldscotland.com/news/26565123.rise-ai-warfare-now-become-threat-beyond-human-control/",
-          "domain": "heraldscotland.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "AI systems reshape warfare as human oversight declines",
-          "url": "https://www.thenational.scot/news/26565297.ai-systems-reshape-warfare-human-oversight-declines/",
-          "domain": "thenational.scot",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:anywhere-british-calendar": {
-      "id": "united-kingdom:anywhere-british-calendar",
-      "country": "United Kingdom",
-      "terms": [
-        "anywhere",
-        "british",
-        "calendar",
-        "changed",
-        "forever",
-        "going",
-        "holiest",
-        "jewish"
-      ],
-      "domains": [
-        "lbc.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Last Yom Kippur , the holiest day in the Jewish calendar , our lives changed forever - but British Jews are not going anywhere",
-          "url": "https://www.lbc.co.uk/article/manchester-synagogue-attack-yom-kippur-5HjdhgR_2/",
-          "domain": "lbc.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:algal-australian-bloom": {
-      "id": "united-kingdom:algal-australian-bloom",
-      "country": "United Kingdom",
-      "terms": [
-        "algal",
-        "australian",
-        "bloom",
-        "blowing",
-        "caused",
-        "decimated",
-        "dragon",
-        "event"
-      ],
-      "domains": [
-        "theguardian.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Sea dragon populations decimated in  mind - blowing  mass mortality event caused by South Australian algal bloom | South Australian algal bloom",
-          "url": "https://www.theguardian.com/environment/2026/sep/20/sea-dragon-populations-decimated-mind-blowing-mass-mortality-event-south-australia-algal-bloom",
-          "domain": "theguardian.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:autumn-best-bulbs": {
-      "id": "united-kingdom:autumn-best-bulbs",
-      "country": "United Kingdom",
-      "terms": [
-        "best",
-        "bulbs",
-        "display",
-        "impressive",
-        "spring",
-        "year",
-        "autumn",
-        "next"
-      ],
-      "domains": [
-        "birminghammail.co.uk",
-        "bristolpost.co.uk",
-        "plymouthherald.co.uk",
-        "gazettelive.co.uk",
-        "somersetlive.co.uk",
-        "getsurrey.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "The best bulbs to plant in autumn for an impressive spring display next year",
-          "url": "https://www.birminghammail.co.uk/whats-on/shopping/best-bulbs-plant-autumn-impressive-34619511",
-          "domain": "birminghammail.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:burnley-existential-fan": {
-      "id": "united-kingdom:burnley-existential-fan",
-      "country": "United Kingdom",
-      "terms": [
-        "burnley",
-        "existential",
-        "fan",
-        "fears",
-        "future",
-        "hayen",
-        "worry",
-        "must"
-      ],
-      "domains": [
-        "aol.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Hayen must worry about his Burnley future but fan fears are existential",
-          "url": "https://www.aol.co.uk/articles/hayen-must-worry-burnley-future-070009000.html",
-          "domain": "aol.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:apology-emotional-sorry": {
-      "id": "united-kingdom:apology-emotional-sorry",
-      "country": "United Kingdom",
-      "terms": [
-        "emotional",
-        "sorry",
-        "weeps",
-        "apology"
-      ],
-      "domains": [
-        "hellomagazine.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Ed Sheeran weeps on stage in emotional apology :  Im so , so , sorry",
-          "url": "https://www.hellomagazine.com/us/924379/ed-sheeran-breaks-down-in-tears-on-stage-as-he-apologises-over-macklemore-tour-controversy/",
-          "domain": "hellomagazine.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:brutally-danes-deal": {
-      "id": "united-kingdom:brutally-danes-deal",
-      "country": "United Kingdom",
-      "terms": [
-        "brutally",
-        "danes",
-        "deal",
-        "greenland",
-        "insult",
-        "mocked",
-        "trump",
-        "two"
-      ],
-      "domains": [
-        "express.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Trump brutally mocked in two - word insult by Danes on Greenland deal",
-          "url": "https://www.express.co.uk/news/world/2250076/trump-mocked-danes-insult-greenland-deal",
-          "domain": "express.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:25m-a36-back": {
-      "id": "united-kingdom:25m-a36-back",
-      "country": "United Kingdom",
-      "terms": [
-        "25m",
-        "a36",
-        "back",
-        "corridor",
-        "councillors",
-        "overhaul",
-        "salisbury"
-      ],
-      "domains": [
-        "salisburyjournal.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Salisbury councillors back £25m A36 corridor overhaul",
-          "url": "https://www.salisburyjournal.co.uk/news/26556625.salisbury-councillors-back-25m-a36-corridor-overhaul/",
-          "domain": "salisburyjournal.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:charles-claims-dad": {
-      "id": "united-kingdom:charles-claims-dad",
-      "country": "United Kingdom",
-      "terms": [
-        "charles",
-        "claims",
-        "dad",
-        "earl",
-        "inherited",
-        "king",
-        "lucky",
-        "spencer"
-      ],
-      "domains": [
-        "aol.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Earl Spencer claims King Charles said  youre so lucky to have inherited so young  after dad death",
-          "url": "https://www.aol.co.uk/articles/earl-spencer-claims-king-charles-064757000.html",
-          "domain": "aol.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:air-base-charged": {
-      "id": "united-kingdom:air-base-charged",
-      "country": "United Kingdom",
-      "terms": [
-        "air",
-        "base",
-        "charged",
-        "force",
-        "hampshire",
-        "man"
-      ],
-      "domains": [
-        "dailyecho.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Hampshire man charged over protest at US Air Force base",
-          "url": "https://www.dailyecho.co.uk/news/26562911.hampshire-man-charged-protest-us-air-force-base/",
-          "domain": "dailyecho.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:deadly-drug-nicknamed": {
-      "id": "united-kingdom:deadly-drug-nicknamed",
-      "country": "United Kingdom",
-      "terms": [
-        "deadly",
-        "drug",
-        "nicknamed",
-        "rhino",
-        "scotland",
-        "streets",
-        "sweeping",
-        "tranq"
-      ],
-      "domains": [
-        "dailyrecord.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Deadly new  zombie drug  nicknamed  rhino tranq  sweeping Scotland streets",
-          "url": "https://www.dailyrecord.co.uk/news/scottish-news/deadly-new-zombie-drug-nicknamed-37680828",
-          "domain": "dailyrecord.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "united-kingdom:bolton-bus-cut": {
       "id": "united-kingdom:bolton-bus-cut",
       "country": "United Kingdom",
@@ -10081,229 +8741,6 @@
         }
       ]
     },
-    "united-kingdom:all-buzzing-five": {
-      "id": "united-kingdom:all-buzzing-five",
-      "country": "United Kingdom",
-      "terms": [
-        "five",
-        "garden",
-        "grow",
-        "plants",
-        "all",
-        "buzzing",
-        "your",
-        "keep",
-        "any",
-        "gardens",
-        "pollinators",
-        "autumn",
-        "plant",
-        "now"
-      ],
-      "domains": [
-        "bristolpost.co.uk",
-        "plymouthherald.co.uk",
-        "somersetlive.co.uk",
-        "gazettelive.co.uk",
-        "getsurrey.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Five plants to grow now to keep your garden buzzing all winter",
-          "url": "https://www.bristolpost.co.uk/whats-on/whats-on-news/five-pollinator-plants-grow-now-11158439",
-          "domain": "bristolpost.co.uk",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Plant any of these pollinators now  to keep gardens buzzing during autumn and winter",
-          "url": "https://www.gazettelive.co.uk/whats-on/whats-on-news/plant-any-pollinators-now-keep-34624567",
-          "domain": "gazettelive.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:40k-claimed-driving": {
-      "id": "united-kingdom:40k-claimed-driving",
-      "country": "United Kingdom",
-      "terms": [
-        "40k",
-        "claimed",
-        "driving",
-        "emissary",
-        "fraudulent",
-        "galactic",
-        "instructor",
-        "ordered"
-      ],
-      "domains": [
-        "walesonline.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Fraudulent driving instructor who claimed to be  galactic emissary  ordered to pay £40k",
-          "url": "https://www.walesonline.co.uk/news/wales-news/fraudulent-driving-instructor-who-claimed-34640885",
-          "domain": "walesonline.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:blood-compensation-family": {
-      "id": "united-kingdom:blood-compensation-family",
-      "country": "United Kingdom",
-      "terms": [
-        "blood",
-        "compensation",
-        "family",
-        "infected",
-        "still",
-        "waits",
-        "york"
-      ],
-      "domains": [
-        "yorkpress.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "York family still waits for infected blood compensation",
-          "url": "https://www.yorkpress.co.uk/news/26561325.york-family-still-waits-infected-blood-compensation/",
-          "domain": "yorkpress.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:diagnosis-disease-firefighter": {
-      "id": "united-kingdom:diagnosis-disease-firefighter",
-      "country": "United Kingdom",
-      "terms": [
-        "diagnosis",
-        "disease",
-        "firefighter",
-        "helped",
-        "lung",
-        "hundreds"
-      ],
-      "domains": [
-        "theboltonnews.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Firefighter helped hundreds after lung disease diagnosis",
-          "url": "https://www.theboltonnews.co.uk/news/26557040.firefighter-helped-hundreds-lung-disease-diagnosis/",
-          "domain": "theboltonnews.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:all-haining-heroine": {
-      "id": "united-kingdom:all-haining-heroine",
-      "country": "United Kingdom",
-      "terms": [
-        "haining",
-        "heroine",
-        "humble",
-        "jane",
-        "proud",
-        "scots",
-        "whom",
-        "all"
-      ],
-      "domains": [
-        "heraldscotland.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Jane haining was a humble heroine of whom all Scots should be proud",
-          "url": "https://www.heraldscotland.com/news/26565000.humble-heroine-scots-proud/",
-          "domain": "heraldscotland.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:didnt-dyson-four": {
-      "id": "united-kingdom:didnt-dyson-four",
-      "country": "United Kingdom",
-      "terms": [
-        "dyson",
-        "four",
-        "product",
-        "revolutionised",
-        "types",
-        "didnt"
-      ],
-      "domains": [
-        "dezeen.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Four product types that Dyson revolutionised , and four it didnt",
-          "url": "https://www.dezeen.com/2026/09/12/dyson-products-roundup/",
-          "domain": "dezeen.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:gazette-herald-wiltshire": {
-      "id": "united-kingdom:gazette-herald-wiltshire",
-      "country": "United Kingdom",
-      "terms": [
-        "gazette",
-        "herald",
-        "wiltshire"
-      ],
-      "domains": [
-        "gazetteandherald.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Ed Sheeran admits  mistake at first concert since Macklemore tour row | The Wiltshire Gazette and Herald",
-          "url": "https://www.gazetteandherald.co.uk/news/national/26565310.ed-sheeran-admits-mistakes-first-concert-since-macklemore-tour-row/",
-          "domain": "gazetteandherald.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "united-kingdom:chester-district-standard": {
       "id": "united-kingdom:chester-district-standard",
       "country": "United Kingdom",
@@ -10345,190 +8782,6 @@
           "url": "https://www.chesterstandard.co.uk/news/26607366.man-jailed-subjecting-woman-horrific-violent-attack/",
           "domain": "chesterstandard.co.uk",
           "date": "2026-10-06"
-        }
-      ]
-    },
-    "united-kingdom:gloucestershire-standard-wilts": {
-      "id": "united-kingdom:gloucestershire-standard-wilts",
-      "country": "United Kingdom",
-      "terms": [
-        "gloucestershire",
-        "wilts",
-        "standard"
-      ],
-      "domains": [
-        "wiltsglosstandard.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Ed Sheeran admits  mistake at first concert since Macklemore tour row | Wilts and Gloucestershire Standard",
-          "url": "https://www.wiltsglosstandard.co.uk/news/national/26565310.ed-sheeran-admits-mistakes-first-concert-since-macklemore-tour-row/",
-          "domain": "wiltsglosstandard.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:destroyed-developed-disabilities": {
-      "id": "united-kingdom:destroyed-developed-disabilities",
-      "country": "United Kingdom",
-      "terms": [
-        "destroyed",
-        "developed",
-        "disabilities",
-        "law",
-        "snp",
-        "then"
-      ],
-      "domains": [
-        "heraldscotland.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "How the SNP developed then destroyed a new disabilities law",
-          "url": "https://www.heraldscotland.com/news/26562127.snp-developed-destroyed-new-disabilities-law/",
-          "domain": "heraldscotland.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:music-quitting-thought": {
-      "id": "united-kingdom:music-quitting-thought",
-      "country": "United Kingdom",
-      "terms": [
-        "music",
-        "thought",
-        "quitting"
-      ],
-      "domains": [
-        "yourlocalguardian.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Ed Sheeran thought about quitting music from Macklemore row",
-          "url": "https://www.yourlocalguardian.co.uk/news/national/uk-today/26565333.ed-sheeran-thought-quitting-music-macklemore-row/",
-          "domain": "yourlocalguardian.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:announcements-death-funeral": {
-      "id": "united-kingdom:announcements-death-funeral",
-      "country": "United Kingdom",
-      "terms": [
-        "announcements",
-        "funeral",
-        "grimsby",
-        "notices",
-        "scunthorpe",
-        "death",
-        "telegraph"
-      ],
-      "domains": [
-        "grimsbytelegraph.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Death notices and funeral announcements from the Grimsby and Scunthorpe Telegraph - September 14 - 20 , 2026",
-          "url": "https://www.grimsbytelegraph.co.uk/news/grimsby-news/death-notices-funeral-announcements-grimsby-11161481",
-          "domain": "grimsbytelegraph.co.uk",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "united-kingdom:alabama-drives-florida": {
-      "id": "united-kingdom:alabama-drives-florida",
-      "country": "United Kingdom",
-      "terms": [
-        "alabama",
-        "drives",
-        "florida",
-        "scores",
-        "straight",
-        "subdue",
-        "state"
-      ],
-      "domains": [
-        "britainnews.net"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "No . 10 Alabama scores on 9 straight drives to subdue Florida State",
-          "url": "http://www.britainnews.net/news/279317835/no-10-alabama-scores-on-9-straight-drives-to-subdue-florida-state",
-          "domain": "britainnews.net",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "indonesia:anti-belanda-bubarkan": {
-      "id": "indonesia:anti-belanda-bubarkan",
-      "country": "Indonesia",
-      "terms": [
-        "anti",
-        "belanda",
-        "bubarkan",
-        "imigrasi",
-        "pengunjuk",
-        "polisi",
-        "ratusan",
-        "ricuh"
-      ],
-      "domains": [
-        "metrotvnews.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Demo Anti - Imigrasi di Belanda Ricuh , Polisi Bubarkan Ratusan Pengunjuk Rasa",
-          "url": "https://www.metrotvnews.com/read/kBVCMY59-demo-anti-imigrasi-di-belanda-ricuh-polisi-bubarkan-ratusan-pengunjuk-rasa",
-          "domain": "metrotvnews.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Demo Anti - Imigrasi di Belanda Ricuh , Polisi Bubarkan Ratusan Pengunjuk Rasa",
-          "url": "https://www.metrotvnews.com/read/kBVCMY59-demo-anti-imigrasi-di-belanda-ricuh-polisi-bubarkan-ratusan-pengunjuk-rasa",
-          "domain": "metrotvnews.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Demo Anti - Imigrasi di Belanda Ricuh , Polisi Bubarkan Ratusan Pengunjuk Rasa",
-          "url": "https://www.metrotvnews.com/read/kBVCMY59-demo-anti-imigrasi-di-belanda-ricuh-polisi-bubarkan-ratusan-pengunjuk-rasa",
-          "domain": "metrotvnews.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -10601,79 +8854,6 @@
         }
       ]
     },
-    "kenya:driver-drying-farmers": {
-      "id": "kenya:driver-drying-farmers",
-      "country": "Kenya",
-      "terms": [
-        "driver",
-        "drying",
-        "farms",
-        "industry",
-        "sugarcane",
-        "sukari",
-        "leaves",
-        "farmers"
-      ],
-      "domains": [
-        "standardmedia.co.ke"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Farmers protest as Sukari Industry driver strike leaves sugarcane drying in farms",
-          "url": "https://www.standardmedia.co.ke/nyanza/article/2001558215/farmers-protest-as-sukari-industry-drivers-strike-leaves-sugarcane-drying-in-farms",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Farmers protest as Sukari Industry driver strike leaves sugarcane drying in farms",
-          "url": "https://www.standardmedia.co.ke/nyanza/article/2001558215/farmers-protest-as-sukari-industry-drivers-strike-leaves-sugarcane-drying-in-farms",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "kenya:action-ahead-early": {
-      "id": "kenya:action-ahead-early",
-      "country": "Kenya",
-      "terms": [
-        "faith",
-        "rains",
-        "nino",
-        "leaders",
-        "action",
-        "early",
-        "ahead"
-      ],
-      "domains": [
-        "standardmedia.co.ke"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Faith leaders call for early action ahead of El Nino rains",
-          "url": "https://www.standardmedia.co.ke/national/article/2001558208/faith-leaders-call-for-early-action-ahead-of-el-nino-rains",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Faith leaders call for early action ahead of El Nino rains",
-          "url": "https://www.standardmedia.co.ke/national/article/2001558208/faith-leaders-call-for-early-action-ahead-of-el-nino-rains",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "kenya:ahead-alleges-disgrace": {
       "id": "kenya:ahead-alleges-disgrace",
       "country": "Kenya",
@@ -10709,41 +8889,6 @@
           "url": "http://www.kenyastar.com/news/279319863/this-is-a-disgrace-imran-khan-son-kasim-alleges-relatives-arrested-ahead-of-pti-march",
           "domain": "kenyastar.com",
           "date": "2026-09-21"
-        }
-      ]
-    },
-    "kenya:alleged-kinangop-message": {
-      "id": "kenya:alleged-kinangop-message",
-      "country": "Kenya",
-      "terms": [
-        "kinangop",
-        "message",
-        "ndindi",
-        "threatening",
-        "nyoro",
-        "alleged"
-      ],
-      "domains": [
-        "standardmedia.co.ke"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Ndindi Nyoro , Kinangop MP clash over alleged threatening message",
-          "url": "https://www.standardmedia.co.ke/politics/article/2001558224/ndindi-nyoro-kinangop-mp-clash-over-alleged-threatening-message",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Ndindi Nyoro , Kinangop MP clash over alleged threatening message",
-          "url": "https://www.standardmedia.co.ke/politics/article/2001558224/ndindi-nyoro-kinangop-mp-clash-over-alleged-threatening-message",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -10791,71 +8936,6 @@
           "url": "https://www.standardmedia.co.ke/politics/article/2001559028/kindiki-urges-mt-kenya-leaders-to-shun-insults",
           "domain": "standardmedia.co.ke",
           "date": "2026-09-30"
-        }
-      ]
-    },
-    "kenya:ghalibaf": {
-      "id": "kenya:ghalibaf",
-      "country": "Kenya",
-      "terms": [
-        "ghalibaf"
-      ],
-      "domains": [
-        "kenyastar.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Iran Ghalibaf says",
-          "url": "http://www.kenyastar.com/news/279318995/iran-ghalibaf-says-there-will-be-no-opening-of-strait-of-hormuz-until-conditions-are-met",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "kenya:camp-conflict-cuts": {
-      "id": "kenya:camp-conflict-cuts",
-      "country": "Kenya",
-      "terms": [
-        "soar",
-        "conflict",
-        "short",
-        "stay",
-        "camp",
-        "cuts",
-        "david",
-        "returns",
-        "conditions"
-      ],
-      "domains": [
-        "kenyastar.com",
-        "news.webindia123.com",
-        "tribuneindia.com",
-        "aninews.in"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "West Asia tensions soar ; Trump cuts short Camp David stay , returns to White House as Iran sets conditions to end conflict",
-          "url": "http://www.kenyastar.com/news/279317872/west-asia-tensions-soar-trump-cuts-short-camp-david-stay-returns-to-white-house-as-iran-sets-conditions-to-end-conflict",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "West Asia tensions soar ; Trump cuts short Camp David stay , returns to White House as Iran sets conditions to end conflict",
-          "url": "http://www.kenyastar.com/news/279317872/west-asia-tensions-soar-trump-cuts-short-camp-david-stay-returns-to-white-house-as-iran-sets-conditions-to-end-conflict",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -10958,41 +9038,6 @@
         }
       ]
     },
-    "kenya:church-kwenya-mps": {
-      "id": "kenya:church-kwenya-mps",
-      "country": "Kenya",
-      "terms": [
-        "church",
-        "kwenya",
-        "mps",
-        "nyandarua",
-        "nyoro",
-        "service"
-      ],
-      "domains": [
-        "the-star.co.ke"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "MPs Nyoro , Kwenya clash at church service in Nyandarua",
-          "url": "https://www.the-star.co.ke/news/2026-09-20-mps-nyoro-kwenya-clash-at-church-service-in-nyandarua",
-          "domain": "the-star.co.ke",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "MPs Nyoro , Kwenya clash at church service in Nyandarua",
-          "url": "https://www.the-star.co.ke/news/2026-09-20-mps-nyoro-kwenya-clash-at-church-service-in-nyandarua",
-          "domain": "the-star.co.ke",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "kenya:africa-blocking-capital": {
       "id": "kenya:africa-blocking-capital",
       "country": "Kenya",
@@ -11068,41 +9113,6 @@
         }
       ]
     },
-    "kenya:christian-dividend-expect": {
-      "id": "kenya:christian-dividend-expect",
-      "country": "Kenya",
-      "terms": [
-        "christian",
-        "dividend",
-        "expect",
-        "nation",
-        "should",
-        "leaders"
-      ],
-      "domains": [
-        "standardmedia.co.ke"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Should the nation expect a dividend from Christian leaders ?",
-          "url": "https://www.standardmedia.co.ke/opinion/article/2001558181/should-the-nation-expect-a-dividend-from-christian-leaders",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Should the nation expect a dividend from Christian leaders ?",
-          "url": "https://www.standardmedia.co.ke/opinion/article/2001558181/should-the-nation-expect-a-dividend-from-christian-leaders",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "kenya:african-case-kenya": {
       "id": "kenya:african-case-kenya",
       "country": "Kenya",
@@ -11136,43 +9146,6 @@
           "url": "https://www.standardmedia.co.ke/business/article/2001558309/ruto-offers-kenya-as-test-case-on-african-risk",
           "domain": "standardmedia.co.ke",
           "date": "2026-09-21"
-        }
-      ]
-    },
-    "kenya:becoming-breaks-dangerous": {
-      "id": "kenya:becoming-breaks-dangerous",
-      "country": "Kenya",
-      "terms": [
-        "becoming",
-        "dangerous",
-        "kenyatta",
-        "too",
-        "uhuru",
-        "life",
-        "breaks",
-        "silence"
-      ],
-      "domains": [
-        "ghafla.co.ke"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Uhuru Kenyatta Breaks Silence On Government Attacks , Says Life Is Becoming  Too Dangerous",
-          "url": "https://www.ghafla.co.ke/uhuru-kenyatta-breaks-silence-on-government-attacks-says-life-is-becoming-too-dangerous/",
-          "domain": "ghafla.co.ke",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Uhuru Kenyatta Breaks Silence On Government Attacks , Says Life Is Becoming  Too Dangerous",
-          "url": "https://www.ghafla.co.ke/uhuru-kenyatta-breaks-silence-on-government-attacks-says-life-is-becoming-too-dangerous/",
-          "domain": "ghafla.co.ke",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -11246,46 +9219,6 @@
         }
       ]
     },
-    "kenya:check-concerns-fresh": {
-      "id": "kenya:check-concerns-fresh",
-      "country": "Kenya",
-      "terms": [
-        "concerns",
-        "medical",
-        "fresh",
-        "gets",
-        "health",
-        "jail",
-        "check",
-        "khan",
-        "imran"
-      ],
-      "domains": [
-        "kenyastar.com",
-        "news.webindia123.com",
-        "aninews.in"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Imran Khan gets jail medical check - up amid fresh health concerns",
-          "url": "http://www.kenyastar.com/news/279319356/imran-khan-gets-jail-medical-check-up-amid-fresh-health-concerns",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Imran Khan gets jail medical check - up amid fresh health concerns",
-          "url": "http://www.kenyastar.com/news/279319356/imran-khan-gets-jail-medical-check-up-amid-fresh-health-concerns",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "kenya:back-claim-french": {
       "id": "kenya:back-claim-french",
       "country": "Kenya",
@@ -11340,80 +9273,6 @@
           "url": "http://www.kenyastar.com/news/279320301/macron-hits-back-at-trump-over-french-territory",
           "domain": "kenyastar.com",
           "date": "2026-09-21"
-        }
-      ]
-    },
-    "kenya:dollar-eased-economy": {
-      "id": "kenya:dollar-eased-economy",
-      "country": "Kenya",
-      "terms": [
-        "eased",
-        "economy",
-        "framework",
-        "petroleum",
-        "scarcity",
-        "stabilized",
-        "dollar",
-        "kenya"
-      ],
-      "domains": [
-        "ghafla.co.ke"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "How The G - to - G Petroleum Framework Eased US Dollar Scarcity And Stabilized Kenya Economy",
-          "url": "https://www.ghafla.co.ke/how-the-g-to-g-petroleum-framework-eased-us-dollar-scarcity-and-stabilized-kenyas-economy/",
-          "domain": "ghafla.co.ke",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "How The G - to - G Petroleum Framework Eased US Dollar Scarcity And Stabilized Kenya Economy",
-          "url": "https://www.ghafla.co.ke/how-the-g-to-g-petroleum-framework-eased-us-dollar-scarcity-and-stabilized-kenyas-economy/",
-          "domain": "ghafla.co.ke",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "kenya:firing-following-gachagua": {
-      "id": "kenya:firing-following-gachagua",
-      "country": "Kenya",
-      "terms": [
-        "gachagua",
-        "heated",
-        "interview",
-        "ombija",
-        "sought",
-        "trevor",
-        "firing",
-        "following"
-      ],
-      "domains": [
-        "ghafla.co.ke"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Trevor Ombija Claims Gachagua Sought His Firing Following Heated Interview",
-          "url": "https://www.ghafla.co.ke/trevor-ombija-claims-gachagua-sought-his-firing-following-heated-interview/",
-          "domain": "ghafla.co.ke",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Trevor Ombija Claims Gachagua Sought His Firing Following Heated Interview",
-          "url": "https://www.ghafla.co.ke/trevor-ombija-claims-gachagua-sought-his-firing-following-heated-interview/",
-          "domain": "ghafla.co.ke",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -11507,44 +9366,6 @@
         }
       ]
     },
-    "kenya:authorities-disclose-former": {
-      "id": "kenya:authorities-disclose-former",
-      "country": "Kenya",
-      "terms": [
-        "disclose",
-        "pak",
-        "whereabouts",
-        "former",
-        "immediately",
-        "authorities",
-        "sister",
-        "khan",
-        "imran"
-      ],
-      "domains": [
-        "kenyastar.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Immediately disclose her whereabouts : Former Pak PM Imran Khan sister detained by authorities",
-          "url": "http://www.kenyastar.com/news/279319375/immediately-disclose-her-whereabouts-former-pak-pm-imran-khan-sister-detained-by-authorities",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Immediately disclose her whereabouts : Former Pak PM Imran Khan sister detained by authorities",
-          "url": "http://www.kenyastar.com/news/279319375/immediately-disclose-her-whereabouts-former-pak-pm-imran-khan-sister-detained-by-authorities",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "kenya:air-carried-claims": {
       "id": "kenya:air-carried-claims",
       "country": "Kenya",
@@ -11582,155 +9403,6 @@
         }
       ]
     },
-    "kenya:blackout-cuba-darkness": {
-      "id": "kenya:blackout-cuba-darkness",
-      "country": "Kenya",
-      "terms": [
-        "blackout",
-        "cuba",
-        "darkness",
-        "plunges",
-        "nationwide"
-      ],
-      "domains": [
-        "kenyastar.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Cuba plunges into darkness amid nationwide blackout",
-          "url": "http://www.kenyastar.com/news/279317904/cuba-plunges-into-darkness-amid-nationwide-blackout",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Cuba plunges into darkness amid nationwide blackout",
-          "url": "http://www.kenyastar.com/news/279317904/cuba-plunges-into-darkness-amid-nationwide-blackout",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "kenya:asian-bishop-century": {
-      "id": "kenya:asian-bishop-century",
-      "country": "Kenya",
-      "terms": [
-        "asian",
-        "bishop",
-        "century",
-        "games",
-        "ian",
-        "due",
-        "hails",
-        "maiden",
-        "reward",
-        "shafali",
-        "verma"
-      ],
-      "domains": [
-        "kenyastar.com",
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "A due reward : Ian Bishop hails Shafali Verma for maiden T20I century in Asian Games",
-          "url": "http://www.kenyastar.com/news/279318963/a-due-reward-ian-bishop-hails-shafali-verma-for-maiden-t20i-century-in-asian-games",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "A due reward : Ian Bishop hails Shafali Verma for maiden T20I century in Asian Games",
-          "url": "http://www.kenyastar.com/news/279318963/a-due-reward-ian-bishop-hails-shafali-verma-for-maiden-t20i-century-in-asian-games",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "kenya:abhishek-bright-jayasuriya": {
-      "id": "kenya:abhishek-bright-jayasuriya",
-      "country": "Kenya",
-      "terms": [
-        "abhishek",
-        "bright",
-        "jayasuriya",
-        "prospects",
-        "sanath",
-        "sharma",
-        "sooryavanshi",
-        "vaibhav"
-      ],
-      "domains": [
-        "kenyastar.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Sanath Jayasuriya hails Abhishek Sharma , Vaibhav Sooryavanshi as bright prospects for India",
-          "url": "http://www.kenyastar.com/news/279319589/sanath-jayasuriya-hails-abhishek-sharma-vaibhav-sooryavanshi-as-bright-prospects-for-india",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Sanath Jayasuriya hails Abhishek Sharma , Vaibhav Sooryavanshi as bright prospects for India",
-          "url": "http://www.kenyastar.com/news/279319589/sanath-jayasuriya-hails-abhishek-sharma-vaibhav-sooryavanshi-as-bright-prospects-for-india",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "kenya:african-all-cities": {
-      "id": "kenya:african-all-cities",
-      "country": "Kenya",
-      "terms": [
-        "cities",
-        "franco",
-        "phoenicians",
-        "spanish",
-        "these",
-        "african",
-        "all"
-      ],
-      "domains": [
-        "kenyastar.com",
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "From Phoenicians to Franco : Why are these African cities Spanish at all ?",
-          "url": "http://www.kenyastar.com/news/279319018/from-phoenicians-to-franco-why-are-these-african-cities-spanish-at-all",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "From Phoenicians to Franco : Why are these African cities Spanish at all ?",
-          "url": "http://www.kenyastar.com/news/279319018/from-phoenicians-to-franco-why-are-these-african-cities-spanish-at-all",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "india:abdullah-anniversaries-hari": {
       "id": "india:abdullah-anniversaries-hari",
       "country": "India",
@@ -11759,37 +9431,6 @@
           "url": "https://www.thehindu.com/news/national/nc-bjp-members-spar-on-issue-of-holiday-on-anniversaries-of-maharaja-hari-singh-sheikh-mohammad-abdullah/article71494490.ece",
           "domain": "thehindu.com",
           "date": "2026-09-22"
-        }
-      ]
-    },
-    "india:challenges-enter-ground": {
-      "id": "india:challenges-enter-ground",
-      "country": "India",
-      "terms": [
-        "challenges",
-        "enter",
-        "ground",
-        "mohsen",
-        "national",
-        "ongoing",
-        "rezaei",
-        "troops"
-      ],
-      "domains": [
-        "freepressjournal.in"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Why Not Enter Iran ? National Security Chief Mohsen Rezaei Challenges US Over Ground Troops Amid Ongoing War",
-          "url": "https://www.freepressjournal.in/world/why-not-enter-iran-national-security-chief-mohsen-rezaei-challenges-us-over-ground-troops-amid-ongoing-war",
-          "domain": "freepressjournal.in",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -11881,77 +9522,6 @@
         }
       ]
     },
-    "india:chinas-falun-gong": {
-      "id": "india:chinas-falun-gong",
-      "country": "India",
-      "terms": [
-        "chinas",
-        "falun",
-        "gong",
-        "persecution",
-        "repression",
-        "toronto",
-        "transnational",
-        "hundreds",
-        "china"
-      ],
-      "domains": [
-        "news.webindia123.com",
-        "aninews.in"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Hundreds rally in Toronto against Chinas persecution of Falun Gong , transnational repression",
-          "url": "https://news.webindia123.com/news/Articles/World/20260920/4501063.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Hundreds rally in Toronto against China persecution of Falun Gong , transnational repression",
-          "url": "https://aninews.in/news/world/others/hundreds-rally-in-toronto-against-china8217s-persecution-of-falun-gong-transnational-repression20260920155803/",
-          "domain": "aninews.in",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "india:amarnath-announces-crisis": {
-      "id": "india:amarnath-announces-crisis",
-      "country": "India",
-      "terms": [
-        "amarnath",
-        "gudivada",
-        "naidu",
-        "slams",
-        "visakhapatnam",
-        "announces",
-        "drinking",
-        "crisis"
-      ],
-      "domains": [
-        "news.webindia123.com",
-        "aninews.in"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "YSRCP leader Gudivada Amarnath slams CM Naidu over Visakhapatnam visit , announces protest over drinking water crisis",
-          "url": "https://news.webindia123.com/news/Articles/India/20260920/4500911.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "india:cheating-clarify-justify": {
       "id": "india:cheating-clarify-justify",
       "country": "India",
@@ -12035,36 +9605,6 @@
         }
       ]
     },
-    "india:attack-bengal-burdwan": {
-      "id": "india:attack-bengal-burdwan",
-      "country": "India",
-      "terms": [
-        "burdwan",
-        "doctors",
-        "hospital",
-        "nurses",
-        "bengal",
-        "east",
-        "attack"
-      ],
-      "domains": [
-        "prokerala.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Bengal : Doctors , nurses strike after attack at East Burdwan hospital",
-          "url": "https://www.prokerala.com/news/articles/a1814605.html",
-          "domain": "prokerala.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "india:afghanistan-again-civilian": {
       "id": "india:afghanistan-again-civilian",
       "country": "India",
@@ -12122,99 +9662,6 @@
           "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-says-airstrikes-in-afghanistan-kill-28-militants-kabul-reports-3-civilians-killed/articleshow/134400591.cms",
           "domain": "economictimes.indiatimes.com",
           "date": "2026-09-22"
-        }
-      ]
-    },
-    "india:adorns-car-cars": {
-      "id": "india:adorns-car-cars",
-      "country": "India",
-      "terms": [
-        "adorns",
-        "completion",
-        "marking",
-        "reaches",
-        "schemes",
-        "sports",
-        "car",
-        "cars"
-      ],
-      "domains": [
-        "news.webindia123.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "25 schemes of Modi govt adorns 25 sports cars ; Car rally reaches Kashi from Patna marking the completion of 25 years of public service",
-          "url": "https://news.webindia123.com/news/Articles/India/20260920/4501180.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "india:awareness-children-disabilities": {
-      "id": "india:awareness-children-disabilities",
-      "country": "India",
-      "terms": [
-        "children",
-        "disabilities",
-        "elderly",
-        "physiotherapy",
-        "stroke",
-        "survivors",
-        "awareness",
-        "participate"
-      ],
-      "domains": [
-        "aninews.in"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "World Physiotherapy Day awareness rally held in Tiruchirappalli ; children with disabilities , elderly stroke survivors participate",
-          "url": "https://aninews.in/news/national/general-news/world-physiotherapy-day-awareness-rally-held-in-tiruchirappalli-children-with-disabilities-elderly-stroke-survivors-participate20260920105829/",
-          "domain": "aninews.in",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "india:cars-journey-kashi": {
-      "id": "india:cars-journey-kashi",
-      "country": "India",
-      "terms": [
-        "journey",
-        "varanasi",
-        "cars",
-        "kashi",
-        "marks",
-        "modi",
-        "patna",
-        "service"
-      ],
-      "domains": [
-        "timesofindia.indiatimes.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "25 cars , 25 years : Patna - Kashi rally marks Modi public service journey | Varanasi News",
-          "url": "https://timesofindia.indiatimes.com/city/varanasi/25-cars-25-years-patna-kashi-rally-marks-modis-public-service-journey/articleshow/134373402.cms",
-          "domain": "timesofindia.indiatimes.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -12289,99 +9736,6 @@
         }
       ]
     },
-    "india:ali-amnesty-chattha": {
-      "id": "india:ali-amnesty-chattha",
-      "country": "India",
-      "terms": [
-        "ali",
-        "amnesty",
-        "chattha",
-        "hadi",
-        "hazir",
-        "human",
-        "imaan",
-        "international"
-      ],
-      "domains": [
-        "news.webindia123.com",
-        "aninews.in"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Pakistan : Amnesty International condemns re - arrest of human rights lawyers Imaan Mazari - Hazir , Hadi Ali Chattha",
-          "url": "https://news.webindia123.com/news/Articles/World/20260920/4501093.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "india:bauxite-intensifies-khandual": {
-      "id": "india:bauxite-intensifies-khandual",
-      "country": "India",
-      "terms": [
-        "bauxite",
-        "khandual",
-        "mining",
-        "second",
-        "mali",
-        "intensifies",
-        "meeting"
-      ],
-      "domains": [
-        "orissapost.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Protest against Khandual Mali bauxite mining intensifies , second meeting held",
-          "url": "https://www.orissapost.com/protest-against-khandual-mali-bauxite-mining-intensifies-second-meeting-held/",
-          "domain": "orissapost.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "india:boom-chip-earnings": {
-      "id": "india:boom-chip-earnings",
-      "country": "India",
-      "terms": [
-        "boom",
-        "chip",
-        "hynix",
-        "lifts",
-        "micron",
-        "operating",
-        "samsung",
-        "earnings"
-      ],
-      "domains": [
-        "livemint.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Micron workers demand 15 % of operating profit as AI boom lifts chip earnings , point to Samsung , SK Hynix",
-          "url": "https://www.livemint.com/companies/news/micron-workers-demand-15-of-operating-profit-as-ai-boom-lifts-chip-earnings-point-to-samsung-sk-hynix-11789897628988.html",
-          "domain": "livemint.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "india:death-mount-security": {
       "id": "india:death-mount-security",
       "country": "India",
@@ -12451,37 +9805,6 @@
         }
       ]
     },
-    "india:approaches-committee-doctored": {
-      "id": "india:approaches-committee-doctored",
-      "country": "India",
-      "terms": [
-        "approaches",
-        "committee",
-        "doctored",
-        "motha",
-        "sec",
-        "tipra",
-        "tripura",
-        "video"
-      ],
-      "domains": [
-        "news.webindia123.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "TIPRA Motha Party approaches Tripura SEC over alleged doctored video during Village Committee polls",
-          "url": "https://news.webindia123.com/news/Articles/India/20260920/4501078.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "india:bitcoin-peak-retreats": {
       "id": "india:bitcoin-peak-retreats",
       "country": "India",
@@ -12534,75 +9857,6 @@
         }
       ]
     },
-    "india:bid-chennamma-kittur": {
-      "id": "india:bid-chennamma-kittur",
-      "country": "India",
-      "terms": [
-        "bid",
-        "chennamma",
-        "kittur",
-        "remove",
-        "statue"
-      ],
-      "domains": [
-        "timesofindia.indiatimes.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Protest over bid to remove Kittur Chennamma statue",
-          "url": "https://timesofindia.indiatimes.com/city/hubballi/protest-over-bid-to-remove-kittur-chennamma-statue/articleshow/134374147.cms",
-          "domain": "timesofindia.indiatimes.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "india:alleged-boat-caribbean": {
-      "id": "india:alleged-boat-caribbean",
-      "country": "India",
-      "terms": [
-        "boat",
-        "military",
-        "smuggling",
-        "four",
-        "caribbean",
-        "drug",
-        "alleged",
-        "killed",
-        "southcom",
-        "vessel"
-      ],
-      "domains": [
-        "economictimes.indiatimes.com",
-        "aninews.in",
-        "news.webindia123.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "US military says it killed four in strike on alleged drug - smuggling boat in the Caribbean",
-          "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-killed-four-in-strike-on-alleged-drug-smuggling-boat-in-the-caribbean/articleshow/134362520.cms",
-          "domain": "economictimes.indiatimes.com",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "4 killed in strike on vessel in Caribbean : SOUTHCOM",
-          "url": "https://aninews.in/news/world/us/4-killed-in-strike-on-vessel-in-caribbean-southcom20260920084403/",
-          "domain": "aninews.in",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "india:agent-fuels-global": {
       "id": "india:agent-fuels-global",
       "country": "India",
@@ -12631,37 +9885,6 @@
           "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-ai-trade-roars-back-as-metas-personal-agent-fuels-optimism/articleshow/134401713.cms",
           "domain": "economictimes.indiatimes.com",
           "date": "2026-09-22"
-        }
-      ]
-    },
-    "india:amritpal-amritsar-controversy": {
-      "id": "india:amritpal-amritsar-controversy",
-      "country": "India",
-      "terms": [
-        "amritpal",
-        "pamphlet",
-        "sad",
-        "taran",
-        "tarn",
-        "amritsar",
-        "controversy",
-        "questions"
-      ],
-      "domains": [
-        "timesofindia.indiatimes.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "SAD questions AAP silence on Amritpal Singh party , pamphlet controversy in Tarn Taran | Amritsar News",
-          "url": "https://timesofindia.indiatimes.com/city/amritsar/sad-questions-aaps-silence-on-amritpal-singhs-party-pamphlet-controversy-in-tarn-taran/articleshow/134369583.cms",
-          "domain": "timesofindia.indiatimes.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -12728,67 +9951,6 @@
         }
       ]
     },
-    "india:days-jac-marks": {
-      "id": "india:days-jac-marks",
-      "country": "India",
-      "terms": [
-        "jac",
-        "plant",
-        "privatisation",
-        "steel",
-        "vizag",
-        "marks",
-        "days"
-      ],
-      "domains": [
-        "thehindu.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "JAC marks 2 , 000 days of protest against Vizag steel plant privatisation",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/jac-marks-2000-days-of-protest-against-vizag-steel-plant-privatisation/article71488505.ece",
-          "domain": "thehindu.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "india:abhyas-firepower-foces": {
-      "id": "india:abhyas-firepower-foces",
-      "country": "India",
-      "terms": [
-        "abhyas",
-        "firepower",
-        "foces",
-        "howitzers",
-        "m777",
-        "rajasthan",
-        "roar",
-        "showcase"
-      ],
-      "domains": [
-        "timesofindia.indiatimes.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Yudh Abhyas 2026 : M777 howitzers roar as Indian , US foces showcase firepower in Rajasthan",
-          "url": "https://timesofindia.indiatimes.com/defence/news/yudh-abhyas-2026-m777-howitzers-roar-as-indian-us-foces-showcase-firepower-in-rajasthan/articleshow/134364756.cms",
-          "domain": "timesofindia.indiatimes.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "india:action-activists-anitha": {
       "id": "india:action-activists-anitha",
       "country": "India",
@@ -12817,37 +9979,6 @@
           "url": "https://www.thehindu.com/news/national/andhra-pradesh/anitha-warns-of-action-against-ysrcp-activists-who-tried-to-attack-physical-education-teachers/article71492519.ece",
           "domain": "thehindu.com",
           "date": "2026-09-21"
-        }
-      ]
-    },
-    "india:bitcoin-btc-can": {
-      "id": "india:bitcoin-btc-can",
-      "country": "India",
-      "terms": [
-        "btc",
-        "etf",
-        "inflows",
-        "eyes",
-        "can",
-        "bitcoin",
-        "fuel",
-        "high"
-      ],
-      "domains": [
-        "hindustantimes.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "How high can Bitcoin go ? BTC eyes $83 , 000 as ETF inflows fuel its latest rally",
-          "url": "https://www.hindustantimes.com/world-news/us-news/how-high-can-bitcoin-go-btc-eyes-83-000-as-etf-inflows-fuel-its-latest-rally-101789917394601.html",
-          "domain": "hindustantimes.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -12913,68 +10044,6 @@
         }
       ]
     },
-    "india:accelerates-earth-grahaa": {
-      "id": "india:accelerates-earth-grahaa",
-      "country": "India",
-      "terms": [
-        "accelerates",
-        "earth",
-        "grahaa",
-        "launch",
-        "observation",
-        "satellites",
-        "space",
-        "plans"
-      ],
-      "domains": [
-        "thehindubusinessline.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Grahaa Space accelerates launch plans for Earth - observation satellites",
-          "url": "https://www.thehindubusinessline.com/companies/grahaa-space-accelerates-launch-plans-for-earth-observation-satellites/article71487888.ece",
-          "domain": "thehindubusinessline.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "india:begins-campaign-candidate": {
-      "id": "india:begins-campaign-candidate",
-      "country": "India",
-      "terms": [
-        "campaign",
-        "candidate",
-        "rejinagar",
-        "begins",
-        "strategy",
-        "tmc",
-        "leaders",
-        "meet"
-      ],
-      "domains": [
-        "deccanchronicle.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "TMC Rejinagar Candidate Begins Campaign After Strategy Meet With Leaders",
-          "url": "https://www.deccanchronicle.com/nation/tmc-rejinagar-candidate-begins-campaign-after-strategy-meet-with-party-leaders-1989017",
-          "domain": "deccanchronicle.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "india:branch-cctv-crime": {
       "id": "india:branch-cctv-crime",
       "country": "India",
@@ -13018,35 +10087,6 @@
         }
       ]
     },
-    "india:camera-expose-flaw": {
-      "id": "india:camera-expose-flaw",
-      "country": "India",
-      "terms": [
-        "camera",
-        "expose",
-        "flaw",
-        "tiktok",
-        "found",
-        "phone"
-      ],
-      "domains": [
-        "moneycontrol.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "AI found TikTok flaw that could expose a phone camera",
-          "url": "https://www.moneycontrol.com/news/trends/ai-found-tiktok-flaw-that-could-expose-a-phone-s-camera-14033889.html",
-          "domain": "moneycontrol.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "india:bullets-daily-excelsior": {
       "id": "india:bullets-daily-excelsior",
       "country": "India",
@@ -13084,67 +10124,6 @@
           "url": "https://www.dailyexcelsior.com/dubious-agenda-nefarious-designs-2/",
           "domain": "dailyexcelsior.com",
           "date": "2026-09-28"
-        }
-      ]
-    },
-    "india:coimbatore-inrc-kadur": {
-      "id": "india:coimbatore-inrc-kadur",
-      "country": "India",
-      "terms": [
-        "coimbatore",
-        "inrc",
-        "kadur",
-        "mascarenhas",
-        "reels",
-        "seconds",
-        "win"
-      ],
-      "domains": [
-        "prokerala.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "INRC : Mascarenhas reels In Kadur to win rally of Coimbatore by 23 seconds",
-          "url": "https://www.prokerala.com/news/articles/a1814587.html",
-          "domain": "prokerala.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "india:adcp-amritsar-manhandle": {
-      "id": "india:adcp-amritsar-manhandle",
-      "country": "India",
-      "terms": [
-        "adcp",
-        "manhandle",
-        "nihangs",
-        "promises",
-        "sho",
-        "strict",
-        "woman",
-        "amritsar"
-      ],
-      "domains": [
-        "tribuneindia.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Nihangs manhandle Amritsar woman SHO ; ADCP promises strict action",
-          "url": "https://www.tribuneindia.com/news/amritsar/nihangs-manhandle-amritsar-woman-sho-adcp-promises-strict-action/",
-          "domain": "tribuneindia.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -13207,34 +10186,6 @@
           "url": "https://www.hindustantimes.com/india-news/stones-bottles-thrown-gaurav-gogoi-alleges-convoy-attacked-by-bjp-workers-in-assam-101790046090225.html",
           "domain": "hindustantimes.com",
           "date": "2026-09-22"
-        }
-      ]
-    },
-    "india:away-china-nepal": {
-      "id": "india:away-china-nepal",
-      "country": "India",
-      "terms": [
-        "away",
-        "nepal",
-        "pivot",
-        "washes",
-        "china"
-      ],
-      "domains": [
-        "hindustantimes.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Nepal China pivot washes away",
-          "url": "https://www.hindustantimes.com/ht-insight/international-affairs/nepals-china-pivot-washes-away-101789900351187.html",
-          "domain": "hindustantimes.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -13560,37 +10511,6 @@
         }
       ]
     },
-    "india:exotic-eyes-nuh": {
-      "id": "india:exotic-eyes-nuh",
-      "country": "India",
-      "terms": [
-        "exotic",
-        "nuh",
-        "radish",
-        "revolution",
-        "varieties",
-        "eyes",
-        "turn",
-        "seek"
-      ],
-      "domains": [
-        "tribuneindia.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Nuh radish revolution eyes global turn as farmers seek exotic varieties",
-          "url": "https://www.tribuneindia.com/news/haryana/nuhs-radish-revolution-eyes-global-turn-as-farmers-seek-exotic-varieties/",
-          "domain": "tribuneindia.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "india:conflict-dollar-eases": {
       "id": "india:conflict-dollar-eases",
       "country": "India",
@@ -13619,129 +10539,6 @@
           "url": "https://www.thehindubusinessline.com/markets/gold/gold-eases-on-firmer-dollar-profit-taking-mideast-conflict-in-focus/article71490843.ece",
           "domain": "thehindubusinessline.com",
           "date": "2026-09-21"
-        }
-      ]
-    },
-    "india:35m-anglo-christmas": {
-      "id": "india:35m-anglo-christmas",
-      "country": "India",
-      "terms": [
-        "35m",
-        "anglo",
-        "christmas",
-        "coins",
-        "detectorist",
-        "farmer",
-        "field",
-        "saxon"
-      ],
-      "domains": [
-        "timesofindia.indiatimes.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "In 2014 , a detectorist uncovered 5 , 251 Anglo - Saxon coins four days before Christmas ; the £1 . 35m reward was shared with the farmer whose field held them | World News",
-          "url": "https://timesofindia.indiatimes.com/world/uk/in-2014-a-detectorist-uncovered-5251-anglo-saxon-coins-four-days-before-christmas-the-1-35m-reward-was-shared-with-the-farmer-whose-field-held-them/articleshow/134350998.cms",
-          "domain": "timesofindia.indiatimes.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "india:210mwh-frame-grid": {
-      "id": "india:210mwh-frame-grid",
-      "country": "India",
-      "terms": [
-        "210mwh",
-        "frame",
-        "grid",
-        "had",
-        "later",
-        "lowered",
-        "made",
-        "river"
-      ],
-      "domains": [
-        "economictimes.indiatimes.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "In 2020 , a three - turbine frame was lowered into New York City East River ; six months later , it had sent 210MWh of tide - made power to the U . S . grid",
-          "url": "https://economictimes.indiatimes.com/news/international/us/in-2020-a-three-turbine-frame-was-lowered-into-new-york-citys-east-river-six-months-later-it-had-sent-210mwh-of-tide-made-power-to-the-u-s-grid/articleshow/134351609.cms",
-          "domain": "economictimes.indiatimes.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "india:bag-becomes-cadre": {
-      "id": "india:bag-becomes-cadre",
-      "country": "India",
-      "terms": [
-        "bag",
-        "cadre",
-        "jsp",
-        "manohar",
-        "poor",
-        "punching",
-        "becomes"
-      ],
-      "domains": [
-        "gulte.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Poor Manohar Becomes Punching Bag For JSP Cadre",
-          "url": "https://www.gulte.com/political-news/432760/poor-manohar-becomes-punching-bag-for-jsp-cadre",
-          "domain": "gulte.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "india:abuse-act-allege": {
-      "id": "india:abuse-act-allege",
-      "country": "India",
-      "terms": [
-        "abuse",
-        "allege",
-        "caste",
-        "invoked",
-        "parents",
-        "act",
-        "months",
-        "prof"
-      ],
-      "domains": [
-        "dailypioneer.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "SC / ST Act invoked against IIT Bombay prof as parents allege 3 months of caste abuse",
-          "url": "https://dailypioneer.com/news/iit-bombay-professor-booked-sc-st-act-student-death-caste-abuse",
-          "domain": "dailypioneer.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -13859,66 +10656,6 @@
         }
       ]
     },
-    "south-africa:africa-channel-gbv": {
-      "id": "south-africa:africa-channel-gbv",
-      "country": "South Africa",
-      "terms": [
-        "channel",
-        "gbv",
-        "honour",
-        "solidarity",
-        "victims",
-        "africa"
-      ],
-      "domains": [
-        "channelafrica.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "SA solidarity march to honour GBV victims – Channel Africa",
-          "url": "https://www.channelafrica.co.za/channelafrica/news/sa-solidarity-march-to-honour-gbv-victims/",
-          "domain": "channelafrica.co.za",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "south-africa:die-gqeberha-happy": {
-      "id": "south-africa:die-gqeberha-happy",
-      "country": "South Africa",
-      "terms": [
-        "die",
-        "gqeberha",
-        "happy",
-        "let",
-        "magic",
-        "refuse",
-        "valley",
-        "residents"
-      ],
-      "domains": [
-        "dailymaverick.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Gqeberha residents refuse to let the Happy Valley magic die",
-          "url": "https://www.dailymaverick.co.za/article/2026-09-20-we-miss-happy-valley-gqeberha-residents-refuse-to-let-the-magic-die/",
-          "domain": "dailymaverick.co.za",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "south-africa:african-change-dissent": {
       "id": "south-africa:african-change-dissent",
       "country": "South Africa",
@@ -13980,34 +10717,6 @@
         }
       ]
     },
-    "south-africa:airways-british-flights": {
-      "id": "south-africa:airways-british-flights",
-      "country": "South Africa",
-      "terms": [
-        "airways",
-        "british",
-        "flights",
-        "tanzania",
-        "resume"
-      ],
-      "domains": [
-        "africa.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "British Airways to Resume Flights to Tanzania",
-          "url": "https://www.africa.com/top-10-news/british-airways-to-resume-flights-to-tanzania",
-          "domain": "africa.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "south-africa:coach-falls-move": {
       "id": "south-africa:coach-falls-move",
       "country": "South Africa",
@@ -14034,38 +10743,6 @@
           "url": "https://www.kickoff.com/news/sanews/siwelele-fc-talks-with-ex-marumo-gallants-coach-alexandre-lafitte-collapse",
           "domain": "kickoff.com",
           "date": "2026-09-21"
-        }
-      ]
-    },
-    "south-africa:controversy-following-gaza": {
-      "id": "south-africa:controversy-following-gaza",
-      "country": "South Africa",
-      "terms": [
-        "gaza",
-        "sheeran",
-        "singer",
-        "situation",
-        "unjustifiable",
-        "controversy",
-        "following"
-      ],
-      "domains": [
-        "jacarandafm.com",
-        "ecr.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-20",
-        "2026-09-21"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Singer Ed Sheeran says Gaza situation  unjustifiable  following controversy",
-          "url": "https://www.jacarandafm.com/news/news/ed-sheeran-says-gaza-situation-unjustifiable/",
-          "domain": "jacarandafm.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -14160,35 +10837,6 @@
         }
       ]
     },
-    "south-africa:cited-intelligence-iranian": {
-      "id": "south-africa:cited-intelligence-iranian",
-      "country": "South Africa",
-      "terms": [
-        "cited",
-        "intelligence",
-        "iranian",
-        "reliance",
-        "stale",
-        "school"
-      ],
-      "domains": [
-        "sundayworld.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Stale intelligence , AI reliance cited in US strike on Iranian school",
-          "url": "https://sundayworld.co.za/world/stale-intelligence-ai-reliance-cited-in-us-strike-on-iranian-school/",
-          "domain": "sundayworld.co.za",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "south-africa:crypto-debates-highest": {
       "id": "south-africa:crypto-debates-highest",
       "country": "South Africa",
@@ -14248,36 +10896,6 @@
           "url": "https://www.dailymaverick.co.za/article/2026-09-22-serial-entrepreneur-emma-grede-wants-women-to-talk-about-money/",
           "domain": "dailymaverick.co.za",
           "date": "2026-09-21"
-        }
-      ]
-    },
-    "south-africa:any-countries-make": {
-      "id": "south-africa:any-countries-make",
-      "country": "South Africa",
-      "terms": [
-        "any",
-        "countries",
-        "make",
-        "mistakes",
-        "painful",
-        "regional",
-        "warns"
-      ],
-      "domains": [
-        "sundayworld.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Iran warns of  painful  strikes if US , regional countries make any mistakes",
-          "url": "https://sundayworld.co.za/world/iran-warns-of-painful-strikes-if-us-regional-countries-make-any-mistakes/",
-          "domain": "sundayworld.co.za",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -14399,65 +11017,6 @@
         }
       ]
     },
-    "south-africa:arctic-denmark-greenland": {
-      "id": "south-africa:arctic-denmark-greenland",
-      "country": "South Africa",
-      "terms": [
-        "arctic",
-        "denmark",
-        "greenland",
-        "pact",
-        "reach",
-        "security"
-      ],
-      "domains": [
-        "sundayworld.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Denmark and the US reach Arctic security pact over Greenland",
-          "url": "https://sundayworld.co.za/world/denmark-and-the-us-reach-arctic-security-pact-over-greenland/",
-          "domain": "sundayworld.co.za",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "south-africa:expulsion-faces-legal": {
-      "id": "south-africa:expulsion-faces-legal",
-      "country": "South Africa",
-      "terms": [
-        "expulsion",
-        "legal",
-        "unchecked",
-        "faces",
-        "test",
-        "zuma",
-        "power"
-      ],
-      "domains": [
-        "sundayworld.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Zuma unchecked expulsion power faces legal test",
-          "url": "https://sundayworld.co.za/politics/zumas-unchecked-expulsion-power-faces-legal-test/",
-          "domain": "sundayworld.co.za",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "south-africa:boss-denies-inquiry": {
       "id": "south-africa:boss-denies-inquiry",
       "country": "South Africa",
@@ -14517,37 +11076,6 @@
           "url": "https://www.ofm.co.za/article/centralsa/343296/murder-trial-of-bloemfontein-artist-postponed-to-january-next-year",
           "domain": "ofm.co.za",
           "date": "2026-09-21"
-        }
-      ]
-    },
-    "south-africa:celebrates-dreamed-maiden": {
-      "id": "south-africa:celebrates-dreamed-maiden",
-      "country": "South Africa",
-      "terms": [
-        "celebrates",
-        "dreamed",
-        "manifested",
-        "ton",
-        "maiden",
-        "shafali",
-        "t20i",
-        "verma"
-      ],
-      "domains": [
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Dreamed it , manifested it ...: Shafali Verma celebrates her maiden T20I ton",
-          "url": "http://www.africaleader.com/news/279319185/dreamed-it-manifested-it-shafali-verma-celebrates-her-maiden-t20i-ton",
-          "domain": "africaleader.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -14674,63 +11202,6 @@
         }
       ]
     },
-    "south-africa:falters-joburg-litany": {
-      "id": "south-africa:falters-joburg-litany",
-      "country": "South Africa",
-      "terms": [
-        "falters",
-        "joburg",
-        "litany",
-        "woes",
-        "plan"
-      ],
-      "domains": [
-        "businessday.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Joburg Wi - Fi plan falters amid litany of woes",
-          "url": "https://www.businessday.co.za/news/2026-09-19-joburgs-wi-fi-plan-falters-amid-litany-of-woes/",
-          "domain": "businessday.co.za",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "south-africa:earn-kruger-stripes": {
-      "id": "south-africa:earn-kruger-stripes",
-      "country": "South Africa",
-      "terms": [
-        "earn",
-        "kruger",
-        "stripes",
-        "strives",
-        "tiger",
-        "tjaart"
-      ],
-      "domains": [
-        "businessday.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "TJAART KRUGER | How Tiger strives to earn its stripes",
-          "url": "https://www.businessday.co.za/business-times/opinion/2026-09-19-tjaart-kruger-how-tiger-strives-to-earn-its-stripes/",
-          "domain": "businessday.co.za",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "south-africa:banking-consumer-fraudsters": {
       "id": "south-africa:banking-consumer-fraudsters",
       "country": "South Africa",
@@ -14757,97 +11228,6 @@
           "url": "https://it-online.co.za/2026/09/21/fraudsters-are-banking-on-consumer-trust-this-tax-season/",
           "domain": "it-online.co.za",
           "date": "2026-09-21"
-        }
-      ]
-    },
-    "south-africa:duncan-economic-electricity": {
-      "id": "south-africa:duncan-economic-electricity",
-      "country": "South Africa",
-      "terms": [
-        "duncan",
-        "economic",
-        "electricity",
-        "growth",
-        "pieterse",
-        "reforms",
-        "sector",
-        "set"
-      ],
-      "domains": [
-        "businessday.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "DUNCAN PIETERSE | SA set for economic growth after reforms in electricity sector",
-          "url": "https://www.businessday.co.za/news/2026-09-19-duncan-pieterse-sa-set-for-economic-growth-after-reforms-in-electricity-sector/",
-          "domain": "businessday.co.za",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "south-africa:beyond-ceuta-decolonization": {
-      "id": "south-africa:beyond-ceuta-decolonization",
-      "country": "South Africa",
-      "terms": [
-        "beyond",
-        "ceuta",
-        "decolonization",
-        "europes",
-        "fence",
-        "melilla",
-        "unfinished"
-      ],
-      "domains": [
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Beyond Europes fence : Ceuta , Melilla , and unfinished decolonization",
-          "url": "http://www.africaleader.com/news/279318782/beyond-europes-fence-ceuta-melilla-and-unfinished-decolonization",
-          "domain": "africaleader.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
-    "south-africa:avid-best-gamers": {
-      "id": "south-africa:avid-best-gamers",
-      "country": "South Africa",
-      "terms": [
-        "avid",
-        "gamers",
-        "gaming",
-        "laptops",
-        "picks",
-        "best",
-        "top"
-      ],
-      "domains": [
-        "memeburn.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "10 Best Gaming Laptops 2026 : Top 10 Picks for Avid Gamers",
-          "url": "https://memeburn.com/best-gaming-laptops/",
-          "domain": "memeburn.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -15298,33 +11678,6 @@
         }
       ]
     },
-    "nigeria:emir-illegal-murder": {
-      "id": "nigeria:emir-illegal-murder",
-      "country": "Nigeria",
-      "terms": [
-        "murder",
-        "emir",
-        "illegal",
-        "warn"
-      ],
-      "domains": [
-        "vanguardngr.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Emir murder : Police warn against illegal protest",
-          "url": "https://www.vanguardngr.com/2026/09/emirs-murder-police-warn-against-illegal-protest/",
-          "domain": "vanguardngr.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "nigeria:cult-osun-planned": {
       "id": "nigeria:cult-osun-planned",
       "country": "Nigeria",
@@ -15385,33 +11738,6 @@
         }
       ]
     },
-    "nigeria:horror-lagos-minna": {
-      "id": "nigeria:horror-lagos-minna",
-      "country": "Nigeria",
-      "terms": [
-        "horror",
-        "sinophobia",
-        "minna",
-        "lagos"
-      ],
-      "domains": [
-        "leadership.ng"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Horror In Minna , Sinophobia In Lagos ?",
-          "url": "https://leadership.ng/horror-in-minna-sinophobia-in-lagos/",
-          "domain": "leadership.ng",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "nigeria:bosses-kwam-long": {
       "id": "nigeria:bosses-kwam-long",
       "country": "Nigeria",
@@ -15440,36 +11766,6 @@
           "url": "https://punchng.com/kwam-1-settles-nurtw-bosses-mc-oluomo-segos-long-rift/",
           "domain": "punchng.com",
           "date": "2026-09-22"
-        }
-      ]
-    },
-    "nigeria:ascsn-claim-education": {
-      "id": "nigeria:ascsn-claim-education",
-      "country": "Nigeria",
-      "terms": [
-        "ascsn",
-        "ministry",
-        "null",
-        "void",
-        "education",
-        "suspension",
-        "claim"
-      ],
-      "domains": [
-        "dailypost.ng"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Education ministry strike suspension claim null , void - ASCSN",
-          "url": "https://dailypost.ng/2026/09/20/education-ministrys-strike-suspension-claim-null-void-ascsn/",
-          "domain": "dailypost.ng",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -16212,36 +12508,6 @@
         }
       ]
     },
-    "nigeria:delta-end-intimidation": {
-      "id": "nigeria:delta-end-intimidation",
-      "country": "Nigeria",
-      "terms": [
-        "intimidation",
-        "obidients",
-        "urge",
-        "delta",
-        "security",
-        "end",
-        "political"
-      ],
-      "domains": [
-        "punchng.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "End political intimidation in Delta , Obidients urge security",
-          "url": "https://punchng.com/end-political-intimidation-in-delta-obidients-urge-security-agencies/",
-          "domain": "punchng.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "nigeria:critic-extradition-military": {
       "id": "nigeria:critic-extradition-military",
       "country": "Nigeria",
@@ -16683,36 +12949,6 @@
         }
       ]
     },
-    "nigeria:action-climate-commends": {
-      "id": "nigeria:action-climate-commends",
-      "country": "Nigeria",
-      "terms": [
-        "climate",
-        "commends",
-        "efforts",
-        "roundtable",
-        "sdg",
-        "action",
-        "unga"
-      ],
-      "domains": [
-        "leadership.ng"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "UNGA Roundtable Commends Nigeria Climate Action , SDG Efforts",
-          "url": "https://leadership.ng/unga-roundtable-commends-nigerias-climate-action-sdg-efforts/",
-          "domain": "leadership.ng",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "nigeria:agreement-finalise-move": {
       "id": "nigeria:agreement-finalise-move",
       "country": "Nigeria",
@@ -16994,36 +13230,6 @@
         }
       ]
     },
-    "nigeria:campaign-congo-ebola": {
-      "id": "nigeria:campaign-congo-ebola",
-      "country": "Nigeria",
-      "terms": [
-        "congo",
-        "ebola",
-        "frontline",
-        "launches",
-        "vaccination",
-        "workers",
-        "campaign"
-      ],
-      "domains": [
-        "africanews.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Congo launches Ebola vaccination campaign for frontline workers",
-          "url": "https://www.africanews.com/2026/09/20/congo-launches-ebola-vaccination-campaign-for-frontline-workers/",
-          "domain": "africanews.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "nigeria:beyond-first-headlines": {
       "id": "nigeria:beyond-first-headlines",
       "country": "Nigeria",
@@ -17202,47 +13408,6 @@
         }
       ]
     },
-    "nigeria:first-records-robotic": {
-      "id": "nigeria:first-records-robotic",
-      "country": "Nigeria",
-      "terms": [
-        "robotic",
-        "surgery",
-        "tele",
-        "records",
-        "west",
-        "first",
-        "hospitals",
-        "nisa",
-        "perform",
-        "rhv",
-        "premier"
-      ],
-      "domains": [
-        "theeagleonline.com.ng",
-        "vanguardngr.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Nigeria records first tele - robotic surgery in West Africa",
-          "url": "https://theeagleonline.com.ng/nigeria-records-first-tele-robotic-surgery-in-west-africa/",
-          "domain": "theeagleonline.com.ng",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "RHV , Nisa Premier Hospitals perform first tele - robotic surgery in West Africa",
-          "url": "https://www.vanguardngr.com/2026/09/rhv-nisa-premier-hospitals-perform-first-tele-robotic-surgery-in-west-africa/",
-          "domain": "vanguardngr.com",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "nigeria:cba-day-issues": {
       "id": "nigeria:cba-day-issues",
       "country": "Nigeria",
@@ -17271,37 +13436,6 @@
           "url": "https://allafrica.com/stories/202609240078.html",
           "domain": "allafrica.com",
           "date": "2026-09-24"
-        }
-      ]
-    },
-    "nigeria:action-agenda-commitments": {
-      "id": "nigeria:action-agenda-commitments",
-      "country": "Nigeria",
-      "terms": [
-        "agenda",
-        "commitments",
-        "financing",
-        "impact",
-        "social",
-        "summit",
-        "takes",
-        "action"
-      ],
-      "domains": [
-        "premiumtimesng.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "From Commitments to Action : Africa Social Impact Summit takes Africa financing agenda to UNGA 2026",
-          "url": "https://www.premiumtimesng.com/promoted/911031-from-commitments-to-action-africa-social-impact-summit-takes-africas-financing-agenda-to-unga-2026.html",
-          "domain": "premiumtimesng.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -17556,37 +13690,6 @@
         }
       ]
     },
-    "nigeria:anambra-disowns-intervention": {
-      "id": "nigeria:anambra-disowns-intervention",
-      "country": "Nigeria",
-      "terms": [
-        "disowns",
-        "letter",
-        "onitsha",
-        "purporting",
-        "row",
-        "intervention",
-        "seek",
-        "anambra"
-      ],
-      "domains": [
-        "leadership.ng"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Anambra Debt Row : Obi Disowns Letter Purporting To Seek Obi Of Onitsha Intervention",
-          "url": "https://leadership.ng/anambra-debt-row-obi-disowns-letter-purporting-to-seek-obi-of-onitshas-intervention/",
-          "domain": "leadership.ng",
-          "date": "2026-09-20"
-        }
-      ]
-    },
     "nigeria:insecurity-ncentral-partners": {
       "id": "nigeria:insecurity-ncentral-partners",
       "country": "Nigeria",
@@ -17731,36 +13834,6 @@
           "url": "https://punchng.com/growing-attacks-harassment-of-journalists/",
           "domain": "punchng.com",
           "date": "2026-09-24"
-        }
-      ]
-    },
-    "nigeria:akinwande-anselm-braithwaite": {
-      "id": "nigeria:akinwande-anselm-braithwaite",
-      "country": "Nigeria",
-      "terms": [
-        "akinwande",
-        "anselm",
-        "braithwaite",
-        "chidi",
-        "odinkalu",
-        "remembering",
-        "olatunji"
-      ],
-      "domains": [
-        "premiumtimesng.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Remembering Olatunji Akinwande Braithwaite ( 1933 - 2016 ), By Chidi Anselm Odinkalu",
-          "url": "https://www.premiumtimesng.com/opinion/911110-remembering-olatunji-akinwande-braithwaite-1933-2016-by-chidi-anselm-odinkalu.html",
-          "domain": "premiumtimesng.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -18573,37 +14646,6 @@
           "url": "https://punchng.com/fg-targets-1-2bn-private-funding-for-fibre-project/",
           "domain": "punchng.com",
           "date": "2026-09-25"
-        }
-      ]
-    },
-    "nigeria:aids-bill-bishops": {
-      "id": "nigeria:aids-bill-bishops",
-      "country": "Nigeria",
-      "terms": [
-        "aids",
-        "bishops",
-        "religious",
-        "bill",
-        "catholic",
-        "freedom",
-        "reject",
-        "foreign"
-      ],
-      "domains": [
-        "saharareporters.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Catholic Bishops Reject Foreign Aids Bill , Warn It Threatens Religious Freedom In Nigeria",
-          "url": "https://saharareporters.com/2026/09/20/catholic-bishops-reject-foreign-aids-bill-warn-it-threatens-religious-freedom-nigeria",
-          "domain": "saharareporters.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -19472,31 +15514,6 @@
           "url": "https://www.the-star.co.ke/news/2026-09-25-how-blunders-by-sifuna-team-cost-him-the-ukombozi-name",
           "domain": "the-star.co.ke",
           "date": "2026-09-25"
-        }
-      ]
-    },
-    "kenya:ghalibaf-iran": {
-      "id": "kenya:ghalibaf-iran",
-      "country": "Kenya",
-      "terms": [
-        "ghalibaf",
-        "iran"
-      ],
-      "domains": [
-        "kenyastar.com"
-      ],
-      "daysSeen": [
-        "2026-09-20"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "samples": [
-        {
-          "title": "Iran Ghalibaf says",
-          "url": "http://www.kenyastar.com/news/279318995/iran-ghalibaf-says-there-will-be-no-opening-of-strait-of-hormuz-until-conditions-are-met",
-          "domain": "kenyastar.com",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -28753,20 +24770,26 @@
         "lifeline",
         "millions",
         "srd",
-        "years"
+        "years",
+        "been",
+        "confirmed",
+        "dates",
+        "yet"
       ],
       "domains": [
         "timeslive.co.za",
         "businessday.co.za",
-        "groundup.org.za"
+        "groundup.org.za",
+        "thesouthafrican.com"
       ],
       "daysSeen": [
         "2026-09-30",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-08"
       ],
-      "articleCount": 9,
+      "articleCount": 10,
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-08",
       "samples": [
         {
           "title": "Local elections force Sassa to review November grant payments",
@@ -47443,6 +43466,94 @@
           "url": "https://newstodaynet.com/2026/10/06/russian-strikes-kill-six-in-kharkiv-as-war-intensifies/",
           "domain": "newstodaynet.com",
           "date": "2026-10-06"
+        }
+      ]
+    },
+    "nigeria:ahead-battle-editors": {
+      "id": "nigeria:ahead-battle-editors",
+      "country": "Nigeria",
+      "terms": [
+        "ahead",
+        "battle",
+        "editors",
+        "inec",
+        "nigeria",
+        "trust"
+      ],
+      "domains": [
+        "allafrica.com"
+      ],
+      "daysSeen": [
+        "2026-10-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "samples": [
+        {
+          "title": "Nigeria : INEC , Editors and the Battle for Trust Ahead of 2027",
+          "url": "https://allafrica.com/stories/202610060134.html",
+          "domain": "allafrica.com",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "south-africa:action-cannery-closes": {
+      "id": "south-africa:action-cannery-closes",
+      "country": "South Africa",
+      "terms": [
+        "action",
+        "cannery",
+        "closes",
+        "cosatu",
+        "dire",
+        "fruit",
+        "premier",
+        "warns"
+      ],
+      "domains": [
+        "timeslive.co.za"
+      ],
+      "daysSeen": [
+        "2026-10-10"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10",
+      "samples": [
+        {
+          "title": "Cosatu warns Premier of dire action if fruit cannery closes",
+          "url": "https://www.timeslive.co.za/news/business/2026-10-10-cosatu-warns-premier-of-dire-action-if-fruit-cannery-closes/",
+          "domain": "timeslive.co.za",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "philippines:buzz-grows-midterms": {
+      "id": "philippines:buzz-grows-midterms",
+      "country": "Philippines",
+      "terms": [
+        "buzz",
+        "grows",
+        "midterms",
+        "sting",
+        "vance"
+      ],
+      "domains": [
+        "philstar.com"
+      ],
+      "daysSeen": [
+        "2026-10-10"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10",
+      "samples": [
+        {
+          "title": "Vance 2028 buzz grows , but US midterms could sting",
+          "url": "https://www.philstar.com/world/2026/10/10/2562260/vance-2028-buzz-grows-us-midterms-could-sting",
+          "domain": "philstar.com",
+          "date": "2026-10-10"
         }
       ]
     }
