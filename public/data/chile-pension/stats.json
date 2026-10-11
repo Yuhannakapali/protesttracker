@@ -227,7 +227,7 @@
     },
     {
       "start": "2019-07-01",
-      "count": 0
+      "count": 1
     },
     {
       "start": "2019-08-01",
@@ -575,7 +575,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 8
+      "count": 9
     }
   ],
   "sources": [
@@ -587,9 +587,9 @@
     },
     {
       "name": "The Clinic",
-      "count": 22,
+      "count": 23,
       "first": "2016-07-25",
-      "last": "2026-10-07"
+      "last": "2026-10-11"
     },
     {
       "name": "DW.com",
@@ -682,6 +682,12 @@
       "last": "2026-07-15"
     },
     {
+      "name": "Diario La Quinta",
+      "count": 4,
+      "first": "2018-06-01",
+      "last": "2022-01-18"
+    },
+    {
       "name": "El Desconcierto",
       "count": 4,
       "first": "2016-08-05",
@@ -716,12 +722,6 @@
       "count": 3,
       "first": "2020-01-30",
       "last": "2025-05-02"
-    },
-    {
-      "name": "Diario La Quinta",
-      "count": 3,
-      "first": "2018-06-01",
-      "last": "2022-01-18"
     },
     {
       "name": "Ex-ante",
@@ -1222,6 +1222,12 @@
       "last": "2021-09-02"
     },
     {
+      "name": "https://roadshow.cl/",
+      "count": 1,
+      "first": "2026-09-24",
+      "last": "2026-09-24"
+    },
+    {
       "name": "In These Times",
       "count": 1,
       "first": "2020-02-19",
@@ -1492,12 +1498,6 @@
       "last": "2025-09-14"
     },
     {
-      "name": "roadshow.cl",
-      "count": 1,
-      "first": "2026-09-24",
-      "last": "2026-09-24"
-    },
-    {
       "name": "RosarioPlus",
       "count": 1,
       "first": "2024-09-05",
@@ -1643,5 +1643,5 @@
     }
   ],
   "firstDate": "2014-11-04",
-  "lastDate": "2026-10-10"
+  "lastDate": "2026-10-11"
 }
