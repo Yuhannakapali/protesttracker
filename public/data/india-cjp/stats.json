@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 1327
+      "count": 1331
     }
   ],
   "sources": [
@@ -175,7 +175,7 @@
     },
     {
       "name": "The Economic Times",
-      "count": 66,
+      "count": 67,
       "first": "2026-06-06",
       "last": "2026-10-11"
     },
@@ -246,6 +246,12 @@
       "last": "2026-10-11"
     },
     {
+      "name": "moneycontrol.com",
+      "count": 26,
+      "first": "2026-08-18",
+      "last": "2026-10-11"
+    },
+    {
       "name": "Telangana Today",
       "count": 26,
       "first": "2026-07-25",
@@ -256,12 +262,6 @@
       "count": 25,
       "first": "2024-06-18",
       "last": "2026-09-26"
-    },
-    {
-      "name": "moneycontrol.com",
-      "count": 25,
-      "first": "2026-08-18",
-      "last": "2026-10-09"
     },
     {
       "name": "TheWire.in",
@@ -624,10 +624,22 @@
       "last": "2026-07-22"
     },
     {
+      "name": "AP7AM",
+      "count": 4,
+      "first": "2026-10-03",
+      "last": "2026-10-11"
+    },
+    {
       "name": "Babushahi.com",
       "count": 4,
       "first": "2026-08-23",
       "last": "2026-10-02"
+    },
+    {
+      "name": "Dawn",
+      "count": 4,
+      "first": "2026-09-24",
+      "last": "2026-10-11"
     },
     {
       "name": "Eastern Mirror Nagaland",
@@ -738,12 +750,6 @@
       "last": "2026-09-11"
     },
     {
-      "name": "AP7AM",
-      "count": 3,
-      "first": "2026-10-03",
-      "last": "2026-10-11"
-    },
-    {
       "name": "BusinessLine",
       "count": 3,
       "first": "2026-08-07",
@@ -759,12 +765,6 @@
       "name": "Daily Sabah",
       "count": 3,
       "first": "2026-09-25",
-      "last": "2026-10-10"
-    },
-    {
-      "name": "Dawn",
-      "count": 3,
-      "first": "2026-09-24",
       "last": "2026-10-10"
     },
     {
