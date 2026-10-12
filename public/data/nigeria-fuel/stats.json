@@ -819,15 +819,15 @@
     },
     {
       "start": "2026-10-01",
-      "count": 99
+      "count": 104
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 113,
+      "count": 114,
       "first": "2012-01-05",
-      "last": "2026-10-11"
+      "last": "2026-10-12"
     },
     {
       "name": "Vanguard",
@@ -849,9 +849,9 @@
     },
     {
       "name": "Vanguard News",
-      "count": 45,
+      "count": 46,
       "first": "2012-03-08",
-      "last": "2026-10-09"
+      "last": "2026-10-12"
     },
     {
       "name": "Premium Times Nigeria",
@@ -891,9 +891,9 @@
     },
     {
       "name": "Businessday NG",
-      "count": 18,
+      "count": 19,
       "first": "2020-10-02",
-      "last": "2026-10-09"
+      "last": "2026-10-12"
     },
     {
       "name": "Premium Times",
@@ -926,12 +926,6 @@
       "last": "2026-10-07"
     },
     {
-      "name": "Al Jazeera",
-      "count": 12,
-      "first": "2012-01-04",
-      "last": "2024-08-02"
-    },
-    {
       "name": "Legit News",
       "count": 12,
       "first": "2022-01-02",
@@ -944,6 +938,12 @@
       "last": "2026-02-04"
     },
     {
+      "name": "Al Jazeera",
+      "count": 11,
+      "first": "2012-01-04",
+      "last": "2024-08-02"
+    },
+    {
       "name": "Independent Newspaper Nigeria",
       "count": 11,
       "first": "2020-09-07",
@@ -954,6 +954,12 @@
       "count": 11,
       "first": "2021-12-17",
       "last": "2026-10-09"
+    },
+    {
+      "name": "The Nation Newspaper",
+      "count": 8,
+      "first": "2022-01-10",
+      "last": "2026-10-12"
     },
     {
       "name": "TVC News",
@@ -974,12 +980,6 @@
       "last": "2021-03-17"
     },
     {
-      "name": "The Nation Newspaper",
-      "count": 7,
-      "first": "2022-01-10",
-      "last": "2026-10-09"
-    },
-    {
       "name": "VOA - Voice of America English News",
       "count": 7,
       "first": "2009-10-30",
@@ -990,6 +990,18 @@
       "count": 6,
       "first": "2024-09-08",
       "last": "2026-10-09"
+    },
+    {
+      "name": "Peoples Gazette Nigeria",
+      "count": 6,
+      "first": "2024-10-09",
+      "last": "2026-10-12"
+    },
+    {
+      "name": "Reuters",
+      "count": 6,
+      "first": "2012-01-10",
+      "last": "2026-05-19"
     },
     {
       "name": "Sahara Reporters",
@@ -1008,18 +1020,6 @@
       "count": 5,
       "first": "2023-07-31",
       "last": "2026-10-05"
-    },
-    {
-      "name": "Peoples Gazette Nigeria",
-      "count": 5,
-      "first": "2024-10-09",
-      "last": "2026-10-09"
-    },
-    {
-      "name": "Reuters",
-      "count": 5,
-      "first": "2012-01-10",
-      "last": "2026-05-19"
     },
     {
       "name": "vanguardngr.com",
@@ -1074,12 +1074,6 @@
       "count": 2,
       "first": "2016-05-18",
       "last": "2021-03-12"
-    },
-    {
-      "name": "Foundation for Investigative Journalism (FIJ)",
-      "count": 2,
-      "first": "2024-09-04",
-      "last": "2024-09-05"
     },
     {
       "name": "Instagram",
@@ -1256,6 +1250,12 @@
       "last": "2023-08-02"
     },
     {
+      "name": "FIJ NG",
+      "count": 1,
+      "first": "2024-09-04",
+      "last": "2024-09-04"
+    },
+    {
       "name": "fij.ng",
       "count": 1,
       "first": "2024-11-11",
@@ -1266,6 +1266,12 @@
       "count": 1,
       "first": "2024-02-15",
       "last": "2024-02-15"
+    },
+    {
+      "name": "Foundation for Investigative Journalism (FIJ)",
+      "count": 1,
+      "first": "2024-09-05",
+      "last": "2024-09-05"
     },
     {
       "name": "France 24",

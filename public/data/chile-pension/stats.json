@@ -87,7 +87,7 @@
     },
     {
       "start": "2016-08-01",
-      "count": 16
+      "count": 17
     },
     {
       "start": "2016-09-01",
@@ -575,7 +575,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 9
+      "count": 10
     }
   ],
   "sources": [
@@ -664,6 +664,12 @@
       "last": "2025-09-23"
     },
     {
+      "name": "Radio Universidad de Chile",
+      "count": 5,
+      "first": "2026-09-16",
+      "last": "2026-10-12"
+    },
+    {
       "name": "BioBioChile",
       "count": 4,
       "first": "2014-11-04",
@@ -692,12 +698,6 @@
       "count": 4,
       "first": "2016-08-05",
       "last": "2026-08-06"
-    },
-    {
-      "name": "Radio Universidad de Chile",
-      "count": 4,
-      "first": "2026-09-16",
-      "last": "2026-10-05"
     },
     {
       "name": "- CIPER Chile",
@@ -800,12 +800,6 @@
       "count": 2,
       "first": "2026-03-11",
       "last": "2026-07-27"
-    },
-    {
-      "name": "Council on Foreign Relations (CFR)",
-      "count": 2,
-      "first": "2019-11-01",
-      "last": "2022-08-25"
     },
     {
       "name": "Daily Mail",
@@ -1034,6 +1028,18 @@
       "count": 1,
       "first": "2021-03-23",
       "last": "2021-03-23"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "count": 1,
+      "first": "2022-08-25",
+      "last": "2022-08-25"
+    },
+    {
+      "name": "Council on Foreign Relations (CFR)",
+      "count": 1,
+      "first": "2019-11-01",
+      "last": "2019-11-01"
     },
     {
       "name": "Diario Democracia",
@@ -1462,6 +1468,12 @@
       "last": "2023-04-06"
     },
     {
+      "name": "Radio Estrella del Mar",
+      "count": 1,
+      "first": "2016-08-19",
+      "last": "2016-08-19"
+    },
+    {
       "name": "Radio Gol",
       "count": 1,
       "first": "2024-09-24",
@@ -1643,5 +1655,5 @@
     }
   ],
   "firstDate": "2014-11-04",
-  "lastDate": "2026-10-11"
+  "lastDate": "2026-10-12"
 }
