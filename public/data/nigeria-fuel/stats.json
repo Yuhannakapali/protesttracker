@@ -819,13 +819,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 110
+      "count": 113
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 115,
+      "count": 117,
       "first": "2012-01-05",
       "last": "2026-10-13"
     },
@@ -1070,6 +1070,12 @@
       "last": "2024-02-19"
     },
     {
+      "name": "Voice of Nigeria",
+      "count": 3,
+      "first": "2026-10-07",
+      "last": "2026-10-13"
+    },
+    {
       "name": "BellaNaija",
       "count": 2,
       "first": "2016-05-18",
@@ -1140,12 +1146,6 @@
       "count": 2,
       "first": "2025-09-17",
       "last": "2026-04-12"
-    },
-    {
-      "name": "Voice of Nigeria",
-      "count": 2,
-      "first": "2026-10-07",
-      "last": "2026-10-09"
     },
     {
       "name": "YNaija",

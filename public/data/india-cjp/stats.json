@@ -115,25 +115,25 @@
     },
     {
       "start": "2026-10-01",
-      "count": 1552
+      "count": 1563
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 261,
+      "count": 262,
       "first": "2026-06-06",
       "last": "2026-10-13"
     },
     {
       "name": "The Times of India",
-      "count": 195,
+      "count": 196,
       "first": "2026-06-06",
       "last": "2026-10-13"
     },
     {
       "name": "NDTV",
-      "count": 158,
+      "count": 159,
       "first": "2026-05-12",
       "last": "2026-10-13"
     },
@@ -145,7 +145,7 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 146,
+      "count": 148,
       "first": "2026-07-22",
       "last": "2026-10-13"
     },
@@ -157,7 +157,7 @@
     },
     {
       "name": "India Today",
-      "count": 102,
+      "count": 103,
       "first": "2026-07-15",
       "last": "2026-10-13"
     },
@@ -169,13 +169,13 @@
     },
     {
       "name": "Rediff",
-      "count": 74,
+      "count": 75,
       "first": "2026-06-07",
       "last": "2026-10-13"
     },
     {
       "name": "The Economic Times",
-      "count": 73,
+      "count": 74,
       "first": "2026-06-06",
       "last": "2026-10-13"
     },
@@ -402,16 +402,16 @@
       "last": "2026-10-13"
     },
     {
+      "name": "Reuters",
+      "count": 12,
+      "first": "2026-07-25",
+      "last": "2026-10-13"
+    },
+    {
       "name": "theweek.in",
       "count": 12,
       "first": "2026-06-06",
       "last": "2026-10-02"
-    },
-    {
-      "name": "Reuters",
-      "count": 11,
-      "first": "2026-07-25",
-      "last": "2026-10-13"
     },
     {
       "name": "DNA India",
@@ -558,6 +558,12 @@
       "last": "2026-10-12"
     },
     {
+      "name": "Dawn",
+      "count": 6,
+      "first": "2026-09-24",
+      "last": "2026-10-13"
+    },
+    {
       "name": "NDTV Profit",
       "count": 6,
       "first": "2026-09-25",
@@ -586,12 +592,6 @@
       "count": 5,
       "first": "2026-08-17",
       "last": "2026-10-10"
-    },
-    {
-      "name": "Dawn",
-      "count": 5,
-      "first": "2026-09-24",
-      "last": "2026-10-12"
     },
     {
       "name": "MorungExpress",
@@ -909,7 +909,7 @@
       "name": "The Daily Star",
       "count": 3,
       "first": "2026-09-12",
-      "last": "2026-10-11"
+      "last": "2026-10-13"
     },
     {
       "name": "The Siasat Daily",
@@ -1758,7 +1758,7 @@
       "last": "2026-09-04"
     },
     {
-      "name": "RunBlogRun",
+      "name": "runblogrun",
       "count": 1,
       "first": "2026-10-12",
       "last": "2026-10-12"
@@ -1870,6 +1870,12 @@
       "count": 1,
       "first": "2026-08-13",
       "last": "2026-08-13"
+    },
+    {
+      "name": "The Observer Post",
+      "count": 1,
+      "first": "2026-10-13",
+      "last": "2026-10-13"
     },
     {
       "name": "The Probe",
