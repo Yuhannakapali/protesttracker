@@ -581,7 +581,7 @@
   "sources": [
     {
       "name": "La Izquierda Diario",
-      "count": 36,
+      "count": 37,
       "first": "2015-04-23",
       "last": "2026-06-24"
     },
@@ -706,6 +706,12 @@
       "last": "2019-03-21"
     },
     {
+      "name": "Análisis Digital",
+      "count": 3,
+      "first": "2026-05-28",
+      "last": "2026-07-27"
+    },
+    {
       "name": "Cooperativa",
       "count": 3,
       "first": "2016-10-08",
@@ -790,16 +796,16 @@
       "last": "2026-07-29"
     },
     {
-      "name": "Análisis Digital",
-      "count": 2,
-      "first": "2026-05-28",
-      "last": "2026-07-27"
-    },
-    {
       "name": "APFDigital",
       "count": 2,
       "first": "2026-03-11",
       "last": "2026-07-27"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "count": 2,
+      "first": "2019-11-01",
+      "last": "2022-08-25"
     },
     {
       "name": "Daily Mail",
@@ -814,12 +820,6 @@
       "last": "2019-03-21"
     },
     {
-      "name": "El Miércoles Digital",
-      "count": 2,
-      "first": "2026-07-24",
-      "last": "2026-07-30"
-    },
-    {
       "name": "Flipr.news",
       "count": 2,
       "first": "2026-07-15",
@@ -830,12 +830,6 @@
       "count": 2,
       "first": "2019-09-25",
       "last": "2019-10-16"
-    },
-    {
-      "name": "La Izquierda Diario Chile",
-      "count": 2,
-      "first": "2020-07-20",
-      "last": "2021-05-24"
     },
     {
       "name": "lared.cl",
@@ -877,7 +871,7 @@
       "name": "Resumen.cl",
       "count": 2,
       "first": "2024-08-06",
-      "last": "2025-03-20"
+      "last": "2025-03-21"
     },
     {
       "name": "Reuters",
@@ -932,6 +926,12 @@
       "count": 1,
       "first": "2020-01-22",
       "last": "2020-01-22"
+    },
+    {
+      "name": "América TeVé",
+      "count": 1,
+      "first": "2025-03-30",
+      "last": "2025-03-30"
     },
     {
       "name": "Atacama Noticias",
@@ -1030,18 +1030,6 @@
       "last": "2021-03-23"
     },
     {
-      "name": "Council on Foreign Relations",
-      "count": 1,
-      "first": "2022-08-25",
-      "last": "2022-08-25"
-    },
-    {
-      "name": "Council on Foreign Relations (CFR)",
-      "count": 1,
-      "first": "2019-11-01",
-      "last": "2019-11-01"
-    },
-    {
       "name": "Diario Democracia",
       "count": 1,
       "first": "2017-12-14",
@@ -1100,6 +1088,12 @@
       "count": 1,
       "first": "2025-06-27",
       "last": "2025-06-27"
+    },
+    {
+      "name": "El Miércoles Digital",
+      "count": 1,
+      "first": "2026-07-30",
+      "last": "2026-07-30"
     },
     {
       "name": "El Nacional — La voz de todos",
@@ -1234,12 +1228,6 @@
       "last": "2020-02-19"
     },
     {
-      "name": "Independent en Español",
-      "count": 1,
-      "first": "2025-03-30",
-      "last": "2025-03-30"
-    },
-    {
       "name": "Infinita",
       "count": 1,
       "first": "2021-12-14",
@@ -1274,6 +1262,12 @@
       "count": 1,
       "first": "2017-12-18",
       "last": "2017-12-18"
+    },
+    {
+      "name": "La Izquierda Diario Chile",
+      "count": 1,
+      "first": "2020-07-20",
+      "last": "2020-07-20"
     },
     {
       "name": "La Izquierda Diario Uruguay",
