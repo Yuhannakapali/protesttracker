@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 1444
+      "count": 1456
     }
   ],
   "sources": [
@@ -127,21 +127,21 @@
     },
     {
       "name": "The Times of India",
-      "count": 187,
+      "count": 189,
       "first": "2026-06-06",
       "last": "2026-10-12"
     },
     {
       "name": "NDTV",
-      "count": 152,
+      "count": 154,
       "first": "2026-05-12",
       "last": "2026-10-12"
     },
     {
       "name": "Hindustan Times",
-      "count": 145,
+      "count": 147,
       "first": "2026-06-06",
-      "last": "2026-10-12"
+      "last": "2026-10-13"
     },
     {
       "name": "The New Indian Express",
@@ -151,15 +151,15 @@
     },
     {
       "name": "The Indian Express",
-      "count": 118,
+      "count": 119,
       "first": "2026-07-24",
-      "last": "2026-10-12"
+      "last": "2026-10-13"
     },
     {
       "name": "India Today",
-      "count": 95,
+      "count": 96,
       "first": "2026-07-15",
-      "last": "2026-10-12"
+      "last": "2026-10-13"
     },
     {
       "name": "Telegraph India",
@@ -193,7 +193,7 @@
     },
     {
       "name": "Deccan Herald",
-      "count": 53,
+      "count": 54,
       "first": "2026-06-05",
       "last": "2026-10-12"
     },
@@ -228,16 +228,16 @@
       "last": "2026-10-11"
     },
     {
+      "name": "Deccan Chronicle",
+      "count": 30,
+      "first": "2026-08-16",
+      "last": "2026-10-12"
+    },
+    {
       "name": "Mid-Day",
       "count": 30,
       "first": "2026-08-23",
       "last": "2026-10-11"
-    },
-    {
-      "name": "Deccan Chronicle",
-      "count": 29,
-      "first": "2026-08-16",
-      "last": "2026-10-12"
     },
     {
       "name": "The Statesman",
@@ -270,6 +270,12 @@
       "last": "2026-10-11"
     },
     {
+      "name": "The Tribune",
+      "count": 22,
+      "first": "2026-08-15",
+      "last": "2026-10-12"
+    },
+    {
       "name": "Al Jazeera",
       "count": 21,
       "first": "2026-05-20",
@@ -285,13 +291,7 @@
       "name": "DW.com",
       "count": 21,
       "first": "2026-07-21",
-      "last": "2026-10-12"
-    },
-    {
-      "name": "The Tribune",
-      "count": 21,
-      "first": "2026-08-15",
-      "last": "2026-10-12"
+      "last": "2026-10-11"
     },
     {
       "name": "The Business Standard",
@@ -864,6 +864,12 @@
       "last": "2026-10-08"
     },
     {
+      "name": "News On AIR",
+      "count": 3,
+      "first": "2026-08-20",
+      "last": "2026-10-09"
+    },
+    {
       "name": "prameyanews.com",
       "count": 3,
       "first": "2026-08-16",
@@ -1018,12 +1024,6 @@
       "count": 2,
       "first": "2026-10-03",
       "last": "2026-10-11"
-    },
-    {
-      "name": "News On AIR",
-      "count": 2,
-      "first": "2026-08-20",
-      "last": "2026-10-09"
     },
     {
       "name": "NewsGram",
@@ -1981,5 +1981,5 @@
     }
   ],
   "firstDate": "2024-06-18",
-  "lastDate": "2026-10-12"
+  "lastDate": "2026-10-13"
 }
