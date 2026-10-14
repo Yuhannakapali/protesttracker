@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 1732
+      "count": 1739
     }
   ],
   "sources": [
@@ -133,7 +133,7 @@
     },
     {
       "name": "NDTV",
-      "count": 173,
+      "count": 175,
       "first": "2026-05-12",
       "last": "2026-10-14"
     },
@@ -157,7 +157,7 @@
     },
     {
       "name": "India Today",
-      "count": 112,
+      "count": 114,
       "first": "2026-07-15",
       "last": "2026-10-14"
     },
@@ -193,7 +193,7 @@
     },
     {
       "name": "Deccan Herald",
-      "count": 62,
+      "count": 63,
       "first": "2026-06-05",
       "last": "2026-10-14"
     },
@@ -1152,6 +1152,12 @@
       "last": "2026-10-14"
     },
     {
+      "name": "Taipei Times",
+      "count": 2,
+      "first": "2026-10-02",
+      "last": "2026-10-14"
+    },
+    {
       "name": "The Conversation",
       "count": 2,
       "first": "2026-08-12",
@@ -1878,12 +1884,6 @@
       "last": "2026-10-10"
     },
     {
-      "name": "Taipei Times",
-      "count": 1,
-      "first": "2026-10-02",
-      "last": "2026-10-02"
-    },
-    {
       "name": "The Borgen Project",
       "count": 1,
       "first": "2026-08-25",
@@ -1972,6 +1972,12 @@
       "count": 1,
       "first": "2026-07-30",
       "last": "2026-07-30"
+    },
+    {
+      "name": "The Saturday Paper",
+      "count": 1,
+      "first": "2026-10-14",
+      "last": "2026-10-14"
     },
     {
       "name": "The Standard (HK)",

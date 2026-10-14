@@ -531,7 +531,7 @@
     },
     {
       "start": "2020-10-01",
-      "count": 1
+      "count": 2
     },
     {
       "start": "2020-11-01",
@@ -884,6 +884,12 @@
       "last": "2026-10-12"
     },
     {
+      "name": "Businessday NG",
+      "count": 20,
+      "first": "2020-10-02",
+      "last": "2026-10-12"
+    },
+    {
       "name": "PM News Nigeria",
       "count": 20,
       "first": "2012-01-03",
@@ -894,12 +900,6 @@
       "count": 20,
       "first": "2026-09-11",
       "last": "2026-10-13"
-    },
-    {
-      "name": "Businessday NG",
-      "count": 19,
-      "first": "2020-10-02",
-      "last": "2026-10-12"
     },
     {
       "name": "Business News Nigeria",

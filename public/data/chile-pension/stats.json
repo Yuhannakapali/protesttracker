@@ -575,7 +575,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 13
+      "count": 15
     }
   ],
   "sources": [
@@ -622,6 +622,12 @@
       "last": "2025-12-04"
     },
     {
+      "name": "Radio Universidad de Chile",
+      "count": 8,
+      "first": "2026-09-16",
+      "last": "2026-10-14"
+    },
+    {
       "name": "SoyChile.cl",
       "count": 8,
       "first": "2016-08-05",
@@ -638,12 +644,6 @@
       "count": 6,
       "first": "2016-07-24",
       "last": "2024-08-17"
-    },
-    {
-      "name": "Radio Universidad de Chile",
-      "count": 6,
-      "first": "2026-09-16",
-      "last": "2026-10-14"
     },
     {
       "name": "Universidad de Chile",
@@ -1228,6 +1228,12 @@
       "last": "2021-09-02"
     },
     {
+      "name": "https://roadshow.cl/",
+      "count": 1,
+      "first": "2026-09-24",
+      "last": "2026-09-24"
+    },
+    {
       "name": "In These Times",
       "count": 1,
       "first": "2020-02-19",
@@ -1502,12 +1508,6 @@
       "count": 1,
       "first": "2025-09-14",
       "last": "2025-09-14"
-    },
-    {
-      "name": "roadshow.cl",
-      "count": 1,
-      "first": "2026-09-24",
-      "last": "2026-09-24"
     },
     {
       "name": "RosarioPlus",
