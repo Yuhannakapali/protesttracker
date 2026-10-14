@@ -819,15 +819,15 @@
     },
     {
       "start": "2026-10-01",
-      "count": 113
+      "count": 115
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 117,
+      "count": 118,
       "first": "2012-01-05",
-      "last": "2026-10-13"
+      "last": "2026-10-14"
     },
     {
       "name": "Vanguard",
@@ -1058,6 +1058,12 @@
       "last": "2024-09-06"
     },
     {
+      "name": "News Agency of Nigeria",
+      "count": 3,
+      "first": "2026-10-08",
+      "last": "2026-10-14"
+    },
+    {
       "name": "premiumtimesng.com",
       "count": 3,
       "first": "2024-06-03",
@@ -1098,12 +1104,6 @@
       "count": 2,
       "first": "2012-01-05",
       "last": "2012-01-06"
-    },
-    {
-      "name": "News Agency of Nigeria",
-      "count": 2,
-      "first": "2026-10-08",
-      "last": "2026-10-08"
     },
     {
       "name": "Nigerian Bulletin",
@@ -1503,5 +1503,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-13"
+  "lastDate": "2026-10-14"
 }

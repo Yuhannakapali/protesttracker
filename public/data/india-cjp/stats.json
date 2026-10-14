@@ -115,87 +115,87 @@
     },
     {
       "start": "2026-10-01",
-      "count": 1592
+      "count": 1658
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 266,
+      "count": 271,
       "first": "2026-06-06",
       "last": "2026-10-14"
     },
     {
       "name": "The Times of India",
-      "count": 197,
+      "count": 202,
       "first": "2026-06-06",
       "last": "2026-10-14"
     },
     {
       "name": "NDTV",
-      "count": 160,
+      "count": 165,
       "first": "2026-05-12",
       "last": "2026-10-14"
     },
     {
       "name": "Hindustan Times",
-      "count": 151,
+      "count": 153,
       "first": "2026-06-06",
       "last": "2026-10-14"
     },
     {
       "name": "The New Indian Express",
-      "count": 149,
+      "count": 152,
       "first": "2026-07-22",
       "last": "2026-10-14"
     },
     {
       "name": "The Indian Express",
-      "count": 126,
+      "count": 129,
       "first": "2026-07-24",
       "last": "2026-10-14"
     },
     {
       "name": "India Today",
-      "count": 104,
+      "count": 106,
       "first": "2026-07-15",
       "last": "2026-10-14"
     },
     {
       "name": "Telegraph India",
-      "count": 98,
+      "count": 100,
       "first": "2026-07-21",
       "last": "2026-10-14"
     },
     {
       "name": "The Economic Times",
-      "count": 76,
+      "count": 77,
       "first": "2026-06-06",
       "last": "2026-10-14"
     },
     {
       "name": "Rediff",
-      "count": 75,
+      "count": 76,
       "first": "2026-06-07",
-      "last": "2026-10-13"
+      "last": "2026-10-14"
     },
     {
       "name": "ThePrint",
-      "count": 65,
+      "count": 67,
       "first": "2026-06-19",
-      "last": "2026-10-13"
+      "last": "2026-10-14"
     },
     {
       "name": "ANI News",
-      "count": 64,
+      "count": 66,
       "first": "2026-07-22",
-      "last": "2026-10-13"
+      "last": "2026-10-14"
     },
     {
       "name": "Deccan Herald",
-      "count": 59,
+      "count": 60,
       "first": "2026-06-05",
-      "last": "2026-10-13"
+      "last": "2026-10-14"
     },
     {
       "name": "News18",
@@ -229,8 +229,14 @@
     },
     {
       "name": "The Statesman",
-      "count": 31,
+      "count": 32,
       "first": "2026-08-18",
+      "last": "2026-10-14"
+    },
+    {
+      "name": "Mid-Day",
+      "count": 31,
+      "first": "2026-08-23",
       "last": "2026-10-14"
     },
     {
@@ -240,12 +246,6 @@
       "last": "2026-10-12"
     },
     {
-      "name": "Mid-Day",
-      "count": 30,
-      "first": "2026-08-23",
-      "last": "2026-10-11"
-    },
-    {
       "name": "moneycontrol.com",
       "count": 29,
       "first": "2026-08-18",
@@ -253,9 +253,9 @@
     },
     {
       "name": "Telangana Today",
-      "count": 26,
+      "count": 27,
       "first": "2026-07-25",
-      "last": "2026-10-11"
+      "last": "2026-10-14"
     },
     {
       "name": "EdexLive",
@@ -265,9 +265,9 @@
     },
     {
       "name": "TheWire.in",
-      "count": 23,
+      "count": 25,
       "first": "2026-07-11",
-      "last": "2026-10-11"
+      "last": "2026-10-14"
     },
     {
       "name": "Al Jazeera",
@@ -307,21 +307,27 @@
     },
     {
       "name": "WION",
-      "count": 19,
+      "count": 20,
       "first": "2026-07-23",
-      "last": "2026-10-13"
+      "last": "2026-10-14"
     },
     {
       "name": "BBC",
-      "count": 18,
+      "count": 19,
       "first": "2026-05-21",
-      "last": "2026-10-13"
+      "last": "2026-10-14"
     },
     {
       "name": "Live Law",
-      "count": 18,
+      "count": 19,
       "first": "2026-07-24",
-      "last": "2026-10-13"
+      "last": "2026-10-14"
+    },
+    {
+      "name": "LawBeat",
+      "count": 18,
+      "first": "2026-02-07",
+      "last": "2026-10-14"
     },
     {
       "name": "Mathrubhumi English",
@@ -330,10 +336,10 @@
       "last": "2026-10-08"
     },
     {
-      "name": "LawBeat",
-      "count": 17,
-      "first": "2026-02-07",
-      "last": "2026-10-13"
+      "name": "DT Next",
+      "count": 15,
+      "first": "2026-08-21",
+      "last": "2026-10-14"
     },
     {
       "name": "Frontline Magazine",
@@ -348,10 +354,10 @@
       "last": "2026-10-12"
     },
     {
-      "name": "DT Next",
-      "count": 14,
-      "first": "2026-08-21",
-      "last": "2026-10-13"
+      "name": "The Guardian",
+      "count": 15,
+      "first": "2026-05-21",
+      "last": "2026-10-14"
     },
     {
       "name": "Pragativadi",
@@ -364,12 +370,6 @@
       "count": 14,
       "first": "2026-07-05",
       "last": "2026-10-13"
-    },
-    {
-      "name": "The Guardian",
-      "count": 14,
-      "first": "2026-05-21",
-      "last": "2026-10-11"
     },
     {
       "name": "India.com",
@@ -408,10 +408,22 @@
       "last": "2026-10-13"
     },
     {
+      "name": "The South First",
+      "count": 12,
+      "first": "2026-09-01",
+      "last": "2026-10-14"
+    },
+    {
       "name": "theweek.in",
       "count": 12,
       "first": "2026-06-06",
       "last": "2026-10-02"
+    },
+    {
+      "name": "Bar and Bench",
+      "count": 10,
+      "first": "2026-08-07",
+      "last": "2026-10-14"
     },
     {
       "name": "CNBC TV18",
@@ -444,22 +456,10 @@
       "last": "2026-10-08"
     },
     {
-      "name": "The South First",
-      "count": 10,
-      "first": "2026-09-01",
-      "last": "2026-10-14"
-    },
-    {
       "name": "Udayavani",
       "count": 10,
       "first": "2026-07-18",
       "last": "2026-10-13"
-    },
-    {
-      "name": "Bar and Bench",
-      "count": 9,
-      "first": "2026-08-07",
-      "last": "2026-10-12"
     },
     {
       "name": "Brut",
@@ -474,6 +474,18 @@
       "last": "2026-10-10"
     },
     {
+      "name": "Firstpost",
+      "count": 9,
+      "first": "2026-08-24",
+      "last": "2026-10-14"
+    },
+    {
+      "name": "India Today NE",
+      "count": 9,
+      "first": "2026-09-27",
+      "last": "2026-10-14"
+    },
+    {
       "name": "The Hans India",
       "count": 9,
       "first": "2026-07-23",
@@ -486,21 +498,9 @@
       "last": "2026-10-02"
     },
     {
-      "name": "Firstpost",
-      "count": 8,
-      "first": "2026-08-24",
-      "last": "2026-10-12"
-    },
-    {
       "name": "GujaratSamachar English",
       "count": 8,
       "first": "2026-08-24",
-      "last": "2026-10-13"
-    },
-    {
-      "name": "India Today NE",
-      "count": 8,
-      "first": "2026-09-27",
       "last": "2026-10-13"
     },
     {
@@ -552,6 +552,12 @@
       "last": "2026-10-14"
     },
     {
+      "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "count": 6,
+      "first": "2026-10-02",
+      "last": "2026-10-14"
+    },
+    {
       "name": "Asianet Newsable",
       "count": 6,
       "first": "2026-08-16",
@@ -586,12 +592,6 @@
       "count": 6,
       "first": "2026-08-18",
       "last": "2026-10-07"
-    },
-    {
-      "name": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "count": 5,
-      "first": "2026-10-02",
-      "last": "2026-10-11"
     },
     {
       "name": "MorungExpress",
@@ -666,6 +666,18 @@
       "last": "2026-10-02"
     },
     {
+      "name": "BusinessLine",
+      "count": 4,
+      "first": "2026-08-07",
+      "last": "2026-10-14"
+    },
+    {
+      "name": "CNA",
+      "count": 4,
+      "first": "2026-10-10",
+      "last": "2026-10-14"
+    },
+    {
       "name": "Eastern Mirror Nagaland",
       "count": 4,
       "first": "2026-08-18",
@@ -718,6 +730,12 @@
       "count": 4,
       "first": "2026-09-01",
       "last": "2026-10-02"
+    },
+    {
+      "name": "Millat Times",
+      "count": 4,
+      "first": "2026-08-21",
+      "last": "2026-10-14"
     },
     {
       "name": "Nagaland Post",
@@ -792,22 +810,16 @@
       "last": "2026-09-11"
     },
     {
-      "name": "BusinessLine",
-      "count": 3,
-      "first": "2026-08-07",
-      "last": "2026-10-11"
-    },
-    {
       "name": "Cityairnews",
       "count": 3,
       "first": "2026-09-17",
       "last": "2026-10-08"
     },
     {
-      "name": "CNA",
+      "name": "Connected to India",
       "count": 3,
-      "first": "2026-10-10",
-      "last": "2026-10-13"
+      "first": "2026-10-02",
+      "last": "2026-10-14"
     },
     {
       "name": "Daily Sabah",
@@ -858,12 +870,6 @@
       "last": "2026-10-11"
     },
     {
-      "name": "Millat Times",
-      "count": 3,
-      "first": "2026-08-21",
-      "last": "2026-10-04"
-    },
-    {
       "name": "Muslim Mirror",
       "count": 3,
       "first": "2026-09-18",
@@ -910,6 +916,12 @@
       "count": 3,
       "first": "2026-09-12",
       "last": "2026-10-13"
+    },
+    {
+      "name": "The Lufkin Daily News",
+      "count": 3,
+      "first": "2026-10-10",
+      "last": "2026-10-14"
     },
     {
       "name": "The Siasat Daily",
@@ -960,15 +972,15 @@
       "last": "2026-08-20"
     },
     {
+      "name": "BW Police World",
+      "count": 2,
+      "first": "2026-10-13",
+      "last": "2026-10-14"
+    },
+    {
       "name": "CNBC",
       "count": 2,
       "first": "2026-09-25",
-      "last": "2026-10-13"
-    },
-    {
-      "name": "Connected to India",
-      "count": 2,
-      "first": "2026-10-02",
       "last": "2026-10-13"
     },
     {
@@ -1146,16 +1158,22 @@
       "last": "2026-10-02"
     },
     {
-      "name": "The Lufkin Daily News",
-      "count": 2,
-      "first": "2026-10-10",
-      "last": "2026-10-10"
-    },
-    {
       "name": "The News Minute",
       "count": 2,
       "first": "2026-08-22",
       "last": "2026-10-10"
+    },
+    {
+      "name": "The Straits Times",
+      "count": 2,
+      "first": "2026-09-24",
+      "last": "2026-10-14"
+    },
+    {
+      "name": "The Sunday Guardian",
+      "count": 2,
+      "first": "2026-09-24",
+      "last": "2026-10-14"
     },
     {
       "name": "The Times",
@@ -1266,6 +1284,12 @@
       "last": "2026-10-02"
     },
     {
+      "name": "Bangkok Post",
+      "count": 1,
+      "first": "2026-10-14",
+      "last": "2026-10-14"
+    },
+    {
       "name": "Bharatiya Janata Party",
       "count": 1,
       "first": "2026-07-27",
@@ -1294,12 +1318,6 @@
       "count": 1,
       "first": "2026-08-24",
       "last": "2026-08-24"
-    },
-    {
-      "name": "BW Police World",
-      "count": 1,
-      "first": "2026-10-13",
-      "last": "2026-10-13"
     },
     {
       "name": "Careers360",
@@ -1572,6 +1590,12 @@
       "last": "2026-08-14"
     },
     {
+      "name": "Internazionale",
+      "count": 1,
+      "first": "2026-10-14",
+      "last": "2026-10-14"
+    },
+    {
       "name": "Jagran",
       "count": 1,
       "first": "2026-10-07",
@@ -1618,6 +1642,12 @@
       "count": 1,
       "first": "2026-10-10",
       "last": "2026-10-10"
+    },
+    {
+      "name": "Kuwait Times",
+      "count": 1,
+      "first": "2026-10-14",
+      "last": "2026-10-14"
     },
     {
       "name": "LatestLY",
@@ -1770,6 +1800,12 @@
       "last": "2026-09-04"
     },
     {
+      "name": "RFI",
+      "count": 1,
+      "first": "2026-10-14",
+      "last": "2026-10-14"
+    },
+    {
       "name": "runblogrun",
       "count": 1,
       "first": "2026-10-12",
@@ -1792,6 +1828,12 @@
       "count": 1,
       "first": "2026-10-02",
       "last": "2026-10-02"
+    },
+    {
+      "name": "SCC Online",
+      "count": 1,
+      "first": "2026-10-14",
+      "last": "2026-10-14"
     },
     {
       "name": "scobserver.in",
@@ -1902,18 +1944,6 @@
       "last": "2026-10-11"
     },
     {
-      "name": "The Straits Times",
-      "count": 1,
-      "first": "2026-09-24",
-      "last": "2026-09-24"
-    },
-    {
-      "name": "The Sunday Guardian",
-      "count": 1,
-      "first": "2026-09-24",
-      "last": "2026-09-24"
-    },
-    {
       "name": "The Wire India",
       "count": 1,
       "first": "2026-08-06",
@@ -1956,6 +1986,12 @@
       "last": "2026-08-23"
     },
     {
+      "name": "TheReport.live",
+      "count": 1,
+      "first": "2026-10-14",
+      "last": "2026-10-14"
+    },
+    {
       "name": "thestatesman.com",
       "count": 1,
       "first": "2026-09-06",
@@ -1978,6 +2014,12 @@
       "count": 1,
       "first": "2026-10-05",
       "last": "2026-10-05"
+    },
+    {
+      "name": "UA.NEWS",
+      "count": 1,
+      "first": "2026-10-14",
+      "last": "2026-10-14"
     },
     {
       "name": "United News of Bangladesh",
