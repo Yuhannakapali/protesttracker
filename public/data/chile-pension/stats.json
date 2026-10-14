@@ -83,7 +83,7 @@
     },
     {
       "start": "2016-07-01",
-      "count": 9
+      "count": 10
     },
     {
       "start": "2016-08-01",
@@ -575,7 +575,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 11
+      "count": 13
     }
   ],
   "sources": [
@@ -587,9 +587,9 @@
     },
     {
       "name": "The Clinic",
-      "count": 24,
+      "count": 25,
       "first": "2016-07-25",
-      "last": "2026-10-13"
+      "last": "2026-10-14"
     },
     {
       "name": "DW.com",
@@ -640,6 +640,12 @@
       "last": "2024-08-17"
     },
     {
+      "name": "Radio Universidad de Chile",
+      "count": 6,
+      "first": "2026-09-16",
+      "last": "2026-10-14"
+    },
+    {
       "name": "Universidad de Chile",
       "count": 6,
       "first": "2017-04-22",
@@ -662,12 +668,6 @@
       "count": 5,
       "first": "2016-08-19",
       "last": "2025-09-23"
-    },
-    {
-      "name": "Radio Universidad de Chile",
-      "count": 5,
-      "first": "2026-09-16",
-      "last": "2026-10-12"
     },
     {
       "name": "BioBioChile",
@@ -872,6 +872,12 @@
       "count": 2,
       "first": "2015-12-12",
       "last": "2016-10-16"
+    },
+    {
+      "name": "Radio Estrella del Mar",
+      "count": 2,
+      "first": "2016-07-25",
+      "last": "2016-08-19"
     },
     {
       "name": "Resumen.cl",
@@ -1468,12 +1474,6 @@
       "last": "2023-04-06"
     },
     {
-      "name": "Radio Estrella del Mar",
-      "count": 1,
-      "first": "2016-08-19",
-      "last": "2016-08-19"
-    },
-    {
       "name": "Radio Gol",
       "count": 1,
       "first": "2024-09-24",
@@ -1661,5 +1661,5 @@
     }
   ],
   "firstDate": "2014-11-04",
-  "lastDate": "2026-10-13"
+  "lastDate": "2026-10-14"
 }
