@@ -115,61 +115,61 @@
     },
     {
       "start": "2026-10-01",
-      "count": 1831
+      "count": 1859
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 284,
+      "count": 287,
       "first": "2026-06-06",
       "last": "2026-10-15"
     },
     {
       "name": "The Times of India",
-      "count": 211,
+      "count": 215,
       "first": "2026-06-06",
       "last": "2026-10-15"
     },
     {
       "name": "NDTV",
-      "count": 180,
+      "count": 182,
       "first": "2026-05-12",
       "last": "2026-10-15"
     },
     {
       "name": "The New Indian Express",
-      "count": 158,
+      "count": 159,
       "first": "2026-07-22",
       "last": "2026-10-15"
     },
     {
       "name": "Hindustan Times",
-      "count": 155,
+      "count": 157,
       "first": "2026-06-06",
       "last": "2026-10-15"
     },
     {
       "name": "The Indian Express",
-      "count": 140,
+      "count": 142,
       "first": "2026-07-24",
       "last": "2026-10-15"
     },
     {
       "name": "India Today",
-      "count": 119,
+      "count": 121,
       "first": "2026-07-15",
       "last": "2026-10-15"
     },
     {
       "name": "Telegraph India",
-      "count": 107,
+      "count": 108,
       "first": "2026-07-21",
       "last": "2026-10-15"
     },
     {
       "name": "Rediff",
-      "count": 81,
+      "count": 82,
       "first": "2026-06-07",
       "last": "2026-10-15"
     },
@@ -181,13 +181,13 @@
     },
     {
       "name": "ThePrint",
-      "count": 72,
+      "count": 73,
       "first": "2026-06-19",
       "last": "2026-10-15"
     },
     {
       "name": "ANI News",
-      "count": 70,
+      "count": 72,
       "first": "2026-07-22",
       "last": "2026-10-15"
     },
@@ -198,16 +198,16 @@
       "last": "2026-10-15"
     },
     {
+      "name": "The News Mill",
+      "count": 54,
+      "first": "2026-08-12",
+      "last": "2026-10-15"
+    },
+    {
       "name": "News18",
       "count": 53,
       "first": "2026-07-20",
       "last": "2026-10-13"
-    },
-    {
-      "name": "The News Mill",
-      "count": 53,
-      "first": "2026-08-12",
-      "last": "2026-10-15"
     },
     {
       "name": "ETV Bharat",
@@ -223,13 +223,13 @@
     },
     {
       "name": "Livemint",
-      "count": 36,
+      "count": 39,
       "first": "2026-08-16",
       "last": "2026-10-15"
     },
     {
       "name": "The Statesman",
-      "count": 34,
+      "count": 35,
       "first": "2026-08-18",
       "last": "2026-10-15"
     },
@@ -288,6 +288,12 @@
       "last": "2026-10-14"
     },
     {
+      "name": "The Week",
+      "count": 23,
+      "first": "2026-07-27",
+      "last": "2026-10-15"
+    },
+    {
       "name": "Live Law",
       "count": 22,
       "first": "2026-07-24",
@@ -298,12 +304,6 @@
       "count": 22,
       "first": "2026-08-15",
       "last": "2026-10-12"
-    },
-    {
-      "name": "The Week",
-      "count": 22,
-      "first": "2026-07-27",
-      "last": "2026-10-15"
     },
     {
       "name": "The Business Standard",
@@ -462,6 +462,12 @@
       "last": "2026-10-11"
     },
     {
+      "name": "MillenniumPost",
+      "count": 10,
+      "first": "2026-09-28",
+      "last": "2026-10-15"
+    },
+    {
       "name": "NewsBytes",
       "count": 10,
       "first": "2026-08-20",
@@ -490,12 +496,6 @@
       "count": 9,
       "first": "2026-07-21",
       "last": "2026-10-10"
-    },
-    {
-      "name": "MillenniumPost",
-      "count": 9,
-      "first": "2026-09-28",
-      "last": "2026-10-14"
     },
     {
       "name": "National Herald",
@@ -795,7 +795,7 @@
       "name": "The Daily Star",
       "count": 4,
       "first": "2026-09-12",
-      "last": "2026-10-14"
+      "last": "2026-10-15"
     },
     {
       "name": "The Japan Times",
@@ -934,12 +934,6 @@
       "count": 3,
       "first": "2026-10-09",
       "last": "2026-10-13"
-    },
-    {
-      "name": "The CSR Journal",
-      "count": 3,
-      "first": "2026-08-18",
-      "last": "2026-10-15"
     },
     {
       "name": "The Lufkin Daily News",
@@ -1198,6 +1192,12 @@
       "count": 2,
       "first": "2026-08-12",
       "last": "2026-08-17"
+    },
+    {
+      "name": "The CSR Journal",
+      "count": 2,
+      "first": "2026-08-18",
+      "last": "2026-08-18"
     },
     {
       "name": "The Diplomat – Asia-Pacific",
@@ -2086,6 +2086,12 @@
       "count": 1,
       "first": "2026-07-20",
       "last": "2026-07-20"
+    },
+    {
+      "name": "www.nationpathindia.com",
+      "count": 1,
+      "first": "2026-10-15",
+      "last": "2026-10-15"
     },
     {
       "name": "Wyrta",
