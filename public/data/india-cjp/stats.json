@@ -115,13 +115,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 1859
+      "count": 1866
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 287,
+      "count": 288,
       "first": "2026-06-06",
       "last": "2026-10-15"
     },
@@ -157,7 +157,7 @@
     },
     {
       "name": "India Today",
-      "count": 121,
+      "count": 122,
       "first": "2026-07-15",
       "last": "2026-10-15"
     },
@@ -169,7 +169,7 @@
     },
     {
       "name": "Rediff",
-      "count": 82,
+      "count": 83,
       "first": "2026-06-07",
       "last": "2026-10-15"
     },
@@ -180,15 +180,15 @@
       "last": "2026-10-15"
     },
     {
-      "name": "ThePrint",
+      "name": "ANI News",
       "count": 73,
-      "first": "2026-06-19",
+      "first": "2026-07-22",
       "last": "2026-10-15"
     },
     {
-      "name": "ANI News",
-      "count": 72,
-      "first": "2026-07-22",
+      "name": "ThePrint",
+      "count": 73,
+      "first": "2026-06-19",
       "last": "2026-10-15"
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "name": "Livemint",
-      "count": 39,
+      "count": 38,
       "first": "2026-08-16",
       "last": "2026-10-15"
     },
@@ -444,6 +444,12 @@
       "last": "2026-09-06"
     },
     {
+      "name": "Facebook",
+      "count": 10,
+      "first": "2026-07-21",
+      "last": "2026-10-15"
+    },
+    {
       "name": "Firstpost",
       "count": 10,
       "first": "2026-08-24",
@@ -490,12 +496,6 @@
       "count": 9,
       "first": "2026-07-12",
       "last": "2026-10-13"
-    },
-    {
-      "name": "Facebook",
-      "count": 9,
-      "first": "2026-07-21",
-      "last": "2026-10-10"
     },
     {
       "name": "National Herald",
@@ -606,6 +606,12 @@
       "last": "2026-10-07"
     },
     {
+      "name": "CNA",
+      "count": 5,
+      "first": "2026-10-10",
+      "last": "2026-10-15"
+    },
+    {
       "name": "France 24",
       "count": 5,
       "first": "2026-07-18",
@@ -693,12 +699,6 @@
       "name": "BusinessLine",
       "count": 4,
       "first": "2026-08-07",
-      "last": "2026-10-14"
-    },
-    {
-      "name": "CNA",
-      "count": 4,
-      "first": "2026-10-10",
       "last": "2026-10-14"
     },
     {
@@ -934,6 +934,12 @@
       "count": 3,
       "first": "2026-10-09",
       "last": "2026-10-13"
+    },
+    {
+      "name": "The CSR Journal",
+      "count": 3,
+      "first": "2026-08-18",
+      "last": "2026-10-15"
     },
     {
       "name": "The Lufkin Daily News",
@@ -1192,12 +1198,6 @@
       "count": 2,
       "first": "2026-08-12",
       "last": "2026-08-17"
-    },
-    {
-      "name": "The CSR Journal",
-      "count": 2,
-      "first": "2026-08-18",
-      "last": "2026-08-18"
     },
     {
       "name": "The Diplomat – Asia-Pacific",
@@ -1882,6 +1882,12 @@
       "count": 1,
       "first": "2026-10-10",
       "last": "2026-10-10"
+    },
+    {
+      "name": "The Arunachal Times",
+      "count": 1,
+      "first": "2026-10-15",
+      "last": "2026-10-15"
     },
     {
       "name": "The Borgen Project",
