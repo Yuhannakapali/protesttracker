@@ -819,15 +819,15 @@
     },
     {
       "start": "2026-10-01",
-      "count": 115
+      "count": 116
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 118,
+      "count": 119,
       "first": "2012-01-05",
-      "last": "2026-10-14"
+      "last": "2026-10-15"
     },
     {
       "name": "Vanguard",
@@ -926,12 +926,6 @@
       "last": "2026-10-07"
     },
     {
-      "name": "Al Jazeera",
-      "count": 12,
-      "first": "2012-01-04",
-      "last": "2024-08-02"
-    },
-    {
       "name": "Legit News",
       "count": 12,
       "first": "2022-01-02",
@@ -942,6 +936,12 @@
       "count": 12,
       "first": "2023-01-26",
       "last": "2026-02-04"
+    },
+    {
+      "name": "Al Jazeera",
+      "count": 11,
+      "first": "2012-01-04",
+      "last": "2024-08-02"
     },
     {
       "name": "Independent Newspaper Nigeria",
@@ -1004,6 +1004,12 @@
       "last": "2026-10-12"
     },
     {
+      "name": "Reuters",
+      "count": 6,
+      "first": "2012-01-10",
+      "last": "2026-05-19"
+    },
+    {
       "name": "CNN",
       "count": 5,
       "first": "2012-01-03",
@@ -1014,12 +1020,6 @@
       "count": 5,
       "first": "2023-07-31",
       "last": "2026-10-05"
-    },
-    {
-      "name": "Reuters",
-      "count": 5,
-      "first": "2012-01-10",
-      "last": "2026-05-19"
     },
     {
       "name": "vanguardngr.com",
@@ -1509,5 +1509,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-14"
+  "lastDate": "2026-10-15"
 }

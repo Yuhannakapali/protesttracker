@@ -147,15 +147,15 @@
     },
     {
       "start": "2026-10-01",
-      "count": 3
+      "count": 5
     }
   ],
   "sources": [
     {
       "name": "Daily Nation",
-      "count": 49,
+      "count": 50,
       "first": "2024-06-19",
-      "last": "2026-10-14"
+      "last": "2026-10-15"
     },
     {
       "name": "People Daily",
@@ -332,6 +332,12 @@
       "last": "2026-05-24"
     },
     {
+      "name": "Capital FM",
+      "count": 3,
+      "first": "2026-04-21",
+      "last": "2026-10-15"
+    },
+    {
       "name": "CNBC Africa",
       "count": 3,
       "first": "2024-06-27",
@@ -408,12 +414,6 @@
       "count": 2,
       "first": "2024-07-05",
       "last": "2025-06-24"
-    },
-    {
-      "name": "Capitalfm.co.ke",
-      "count": 2,
-      "first": "2026-04-21",
-      "last": "2026-06-22"
     },
     {
       "name": "Channels Television",
@@ -849,5 +849,5 @@
     }
   ],
   "firstDate": "2023-10-20",
-  "lastDate": "2026-10-14"
+  "lastDate": "2026-10-15"
 }
