@@ -115,21 +115,21 @@
     },
     {
       "start": "2026-10-01",
-      "count": 1739
+      "count": 1752
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 277,
+      "count": 280,
       "first": "2026-06-06",
-      "last": "2026-10-14"
+      "last": "2026-10-15"
     },
     {
       "name": "The Times of India",
-      "count": 205,
+      "count": 206,
       "first": "2026-06-06",
-      "last": "2026-10-14"
+      "last": "2026-10-15"
     },
     {
       "name": "NDTV",
@@ -145,15 +145,15 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 153,
+      "count": 155,
       "first": "2026-06-06",
-      "last": "2026-10-14"
+      "last": "2026-10-15"
     },
     {
       "name": "The Indian Express",
-      "count": 131,
+      "count": 132,
       "first": "2026-07-24",
-      "last": "2026-10-14"
+      "last": "2026-10-15"
     },
     {
       "name": "India Today",
@@ -163,15 +163,15 @@
     },
     {
       "name": "Telegraph India",
-      "count": 101,
+      "count": 104,
       "first": "2026-07-21",
-      "last": "2026-10-14"
+      "last": "2026-10-15"
     },
     {
       "name": "Rediff",
-      "count": 78,
+      "count": 79,
       "first": "2026-06-07",
-      "last": "2026-10-14"
+      "last": "2026-10-15"
     },
     {
       "name": "The Economic Times",
@@ -193,7 +193,7 @@
     },
     {
       "name": "Deccan Herald",
-      "count": 63,
+      "count": 64,
       "first": "2026-06-05",
       "last": "2026-10-14"
     },
@@ -642,6 +642,12 @@
       "last": "2026-10-12"
     },
     {
+      "name": "The Shillong Times",
+      "count": 5,
+      "first": "2026-08-11",
+      "last": "2026-10-15"
+    },
+    {
       "name": "thepamphlet.in",
       "count": 5,
       "first": "2026-08-21",
@@ -802,12 +808,6 @@
       "count": 4,
       "first": "2026-07-29",
       "last": "2026-10-11"
-    },
-    {
-      "name": "The Shillong Times",
-      "count": 4,
-      "first": "2026-08-11",
-      "last": "2026-10-12"
     },
     {
       "name": "thehawk.in",
@@ -2119,5 +2119,5 @@
     }
   ],
   "firstDate": "2024-06-18",
-  "lastDate": "2026-10-14"
+  "lastDate": "2026-10-15"
 }
