@@ -575,7 +575,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 27
+      "count": 31
     }
   ],
   "sources": [
@@ -593,21 +593,21 @@
     },
     {
       "name": "El Ciudadano",
-      "count": 18,
+      "count": 21,
       "first": "2016-08-10",
-      "last": "2026-10-15"
+      "last": "2026-10-16"
+    },
+    {
+      "name": "Radio Universidad de Chile",
+      "count": 12,
+      "first": "2026-09-16",
+      "last": "2026-10-16"
     },
     {
       "name": "DW.com",
       "count": 11,
       "first": "2016-07-26",
       "last": "2025-09-14"
-    },
-    {
-      "name": "Radio Universidad de Chile",
-      "count": 11,
-      "first": "2026-09-16",
-      "last": "2026-10-15"
     },
     {
       "name": "BBC",
@@ -1667,5 +1667,5 @@
     }
   ],
   "firstDate": "2014-11-04",
-  "lastDate": "2026-10-15"
+  "lastDate": "2026-10-16"
 }
