@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 1976
+      "count": 1986
     }
   ],
   "sources": [
@@ -127,7 +127,7 @@
     },
     {
       "name": "The Times of India",
-      "count": 216,
+      "count": 217,
       "first": "2026-06-06",
       "last": "2026-10-16"
     },
@@ -151,13 +151,13 @@
     },
     {
       "name": "The Indian Express",
-      "count": 147,
+      "count": 148,
       "first": "2026-07-24",
       "last": "2026-10-16"
     },
     {
       "name": "India Today",
-      "count": 128,
+      "count": 129,
       "first": "2026-07-15",
       "last": "2026-10-16"
     },
@@ -169,7 +169,7 @@
     },
     {
       "name": "Rediff",
-      "count": 86,
+      "count": 87,
       "first": "2026-06-07",
       "last": "2026-10-16"
     },
@@ -438,6 +438,12 @@
       "last": "2026-10-15"
     },
     {
+      "name": "Udayavani",
+      "count": 11,
+      "first": "2026-07-18",
+      "last": "2026-10-13"
+    },
+    {
       "name": "CNBC TV18",
       "count": 10,
       "first": "2026-07-30",
@@ -492,10 +498,10 @@
       "last": "2026-10-15"
     },
     {
-      "name": "Udayavani",
-      "count": 10,
-      "first": "2026-07-18",
-      "last": "2026-10-13"
+      "name": "Bloomberg.com",
+      "count": 9,
+      "first": "2026-08-10",
+      "last": "2026-10-16"
     },
     {
       "name": "Brut",
@@ -514,12 +520,6 @@
       "count": 9,
       "first": "2026-07-26",
       "last": "2026-10-02"
-    },
-    {
-      "name": "Bloomberg.com",
-      "count": 8,
-      "first": "2026-08-10",
-      "last": "2026-10-16"
     },
     {
       "name": "Business Today",
@@ -564,6 +564,12 @@
       "last": "2026-10-15"
     },
     {
+      "name": "France 24",
+      "count": 7,
+      "first": "2026-07-18",
+      "last": "2026-10-16"
+    },
+    {
       "name": "Kashmir Observer",
       "count": 7,
       "first": "2026-09-18",
@@ -585,12 +591,6 @@
       "name": "CNA",
       "count": 6,
       "first": "2026-10-10",
-      "last": "2026-10-16"
-    },
-    {
-      "name": "France 24",
-      "count": 6,
-      "first": "2026-07-18",
       "last": "2026-10-16"
     },
     {
@@ -712,6 +712,12 @@
       "count": 4,
       "first": "2026-08-07",
       "last": "2026-10-14"
+    },
+    {
+      "name": "Daily Sabah",
+      "count": 4,
+      "first": "2026-09-25",
+      "last": "2026-10-16"
     },
     {
       "name": "Eastern Mirror Nagaland",
@@ -850,12 +856,6 @@
       "count": 3,
       "first": "2026-10-02",
       "last": "2026-10-14"
-    },
-    {
-      "name": "Daily Sabah",
-      "count": 3,
-      "first": "2026-09-25",
-      "last": "2026-10-10"
     },
     {
       "name": "daily-sun.com",
@@ -1020,6 +1020,12 @@
       "last": "2026-10-09"
     },
     {
+      "name": "Bangkok Post",
+      "count": 2,
+      "first": "2026-10-14",
+      "last": "2026-10-16"
+    },
+    {
       "name": "Business and Human Rights Centre",
       "count": 2,
       "first": "2026-08-20",
@@ -1036,6 +1042,12 @@
       "count": 2,
       "first": "2026-09-25",
       "last": "2026-10-13"
+    },
+    {
+      "name": "CNN",
+      "count": 2,
+      "first": "2026-10-10",
+      "last": "2026-10-16"
     },
     {
       "name": "Countercurrents",
@@ -1180,12 +1192,6 @@
       "count": 2,
       "first": "2026-07-30",
       "last": "2026-10-05"
-    },
-    {
-      "name": "RFI",
-      "count": 2,
-      "first": "2026-10-14",
-      "last": "2026-10-16"
     },
     {
       "name": "Rising Kashmir",
@@ -1350,12 +1356,6 @@
       "last": "2026-10-02"
     },
     {
-      "name": "Bangkok Post",
-      "count": 1,
-      "first": "2026-10-14",
-      "last": "2026-10-14"
-    },
-    {
       "name": "Bharatiya Janata Party",
       "count": 1,
       "first": "2026-07-27",
@@ -1414,12 +1414,6 @@
       "count": 1,
       "first": "2026-08-04",
       "last": "2026-08-04"
-    },
-    {
-      "name": "CNN",
-      "count": 1,
-      "first": "2026-10-10",
-      "last": "2026-10-10"
     },
     {
       "name": "Council on Foreign Relations (CFR)",
@@ -1618,6 +1612,12 @@
       "count": 1,
       "first": "2026-09-26",
       "last": "2026-09-26"
+    },
+    {
+      "name": "Human Rights Research Center | HRRC",
+      "count": 1,
+      "first": "2026-10-16",
+      "last": "2026-10-16"
     },
     {
       "name": "Hürriyet Daily News",
@@ -1882,6 +1882,12 @@
       "count": 1,
       "first": "2026-09-04",
       "last": "2026-09-04"
+    },
+    {
+      "name": "RFI",
+      "count": 1,
+      "first": "2026-10-14",
+      "last": "2026-10-14"
     },
     {
       "name": "runblogrun",
