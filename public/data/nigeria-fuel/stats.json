@@ -819,21 +819,21 @@
     },
     {
       "start": "2026-10-01",
-      "count": 120
+      "count": 123
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 121,
+      "count": 122,
       "first": "2012-01-05",
-      "last": "2026-10-15"
+      "last": "2026-10-16"
     },
     {
       "name": "Vanguard",
-      "count": 72,
+      "count": 73,
       "first": "2026-09-02",
-      "last": "2026-10-15"
+      "last": "2026-10-16"
     },
     {
       "name": "Channels Television",
@@ -1034,6 +1034,12 @@
       "last": "2025-09-29"
     },
     {
+      "name": "News Agency of Nigeria",
+      "count": 4,
+      "first": "2026-10-08",
+      "last": "2026-10-14"
+    },
+    {
       "name": "Nigeria Info FM",
       "count": 4,
       "first": "2025-12-17",
@@ -1056,12 +1062,6 @@
       "count": 3,
       "first": "2024-09-04",
       "last": "2024-09-06"
-    },
-    {
-      "name": "News Agency of Nigeria",
-      "count": 3,
-      "first": "2026-10-08",
-      "last": "2026-10-14"
     },
     {
       "name": "premiumtimesng.com",
@@ -1509,5 +1509,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-15"
+  "lastDate": "2026-10-16"
 }
