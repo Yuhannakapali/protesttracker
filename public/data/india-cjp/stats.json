@@ -115,13 +115,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2062
+      "count": 2068
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 301,
+      "count": 302,
       "first": "2026-06-06",
       "last": "2026-10-17"
     },
@@ -145,13 +145,13 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 159,
+      "count": 160,
       "first": "2026-06-06",
       "last": "2026-10-17"
     },
     {
       "name": "The Indian Express",
-      "count": 151,
+      "count": 152,
       "first": "2026-07-24",
       "last": "2026-10-17"
     },
@@ -175,9 +175,9 @@
     },
     {
       "name": "The Economic Times",
-      "count": 84,
+      "count": 85,
       "first": "2026-06-06",
-      "last": "2026-10-16"
+      "last": "2026-10-17"
     },
     {
       "name": "ThePrint",
@@ -756,6 +756,12 @@
       "last": "2026-10-02"
     },
     {
+      "name": "Le Monde.fr",
+      "count": 4,
+      "first": "2026-09-28",
+      "last": "2026-10-17"
+    },
+    {
       "name": "Millat Times",
       "count": 4,
       "first": "2026-08-21",
@@ -846,12 +852,6 @@
       "last": "2026-09-11"
     },
     {
-      "name": "Arab News",
-      "count": 3,
-      "first": "2026-10-10",
-      "last": "2026-10-17"
-    },
-    {
       "name": "BW Police World",
       "count": 3,
       "first": "2026-10-13",
@@ -924,12 +924,6 @@
       "last": "2026-10-17"
     },
     {
-      "name": "Le Monde.fr",
-      "count": 3,
-      "first": "2026-09-28",
-      "last": "2026-10-14"
-    },
-    {
       "name": "Malay Mail",
       "count": 3,
       "first": "2026-10-10",
@@ -970,6 +964,12 @@
       "count": 3,
       "first": "2026-10-09",
       "last": "2026-10-13"
+    },
+    {
+      "name": "The Conversation",
+      "count": 3,
+      "first": "2026-08-12",
+      "last": "2026-10-16"
     },
     {
       "name": "The CSR Journal",
@@ -1030,6 +1030,12 @@
       "count": 2,
       "first": "2026-10-02",
       "last": "2026-10-17"
+    },
+    {
+      "name": "Arab News",
+      "count": 2,
+      "first": "2026-10-10",
+      "last": "2026-10-11"
     },
     {
       "name": "Arunachal24",
@@ -1224,12 +1230,6 @@
       "last": "2026-10-14"
     },
     {
-      "name": "The Conversation",
-      "count": 2,
-      "first": "2026-08-12",
-      "last": "2026-08-17"
-    },
-    {
       "name": "The Diplomat – Asia-Pacific",
       "count": 2,
       "first": "2026-07-23",
@@ -1240,6 +1240,12 @@
       "count": 2,
       "first": "2026-09-24",
       "last": "2026-10-02"
+    },
+    {
+      "name": "The New Arab",
+      "count": 2,
+      "first": "2026-10-16",
+      "last": "2026-10-17"
     },
     {
       "name": "The Straits Times",
@@ -2062,12 +2068,6 @@
       "count": 1,
       "first": "2026-08-13",
       "last": "2026-08-13"
-    },
-    {
-      "name": "The New Arab",
-      "count": 1,
-      "first": "2026-10-16",
-      "last": "2026-10-16"
     },
     {
       "name": "The News Pakistan",
