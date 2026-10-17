@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2055
+      "count": 2062
     }
   ],
   "sources": [
@@ -127,7 +127,7 @@
     },
     {
       "name": "The Times of India",
-      "count": 218,
+      "count": 219,
       "first": "2026-06-06",
       "last": "2026-10-17"
     },
@@ -145,9 +145,9 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 158,
+      "count": 159,
       "first": "2026-06-06",
-      "last": "2026-10-16"
+      "last": "2026-10-17"
     },
     {
       "name": "The Indian Express",
@@ -157,7 +157,7 @@
     },
     {
       "name": "India Today",
-      "count": 132,
+      "count": 133,
       "first": "2026-07-15",
       "last": "2026-10-17"
     },
@@ -265,8 +265,14 @@
     },
     {
       "name": "The Week",
-      "count": 27,
+      "count": 28,
       "first": "2026-07-27",
+      "last": "2026-10-17"
+    },
+    {
+      "name": "DW.com",
+      "count": 27,
+      "first": "2026-07-21",
       "last": "2026-10-17"
     },
     {
@@ -274,12 +280,6 @@
       "count": 26,
       "first": "2026-05-20",
       "last": "2026-10-16"
-    },
-    {
-      "name": "DW.com",
-      "count": 26,
-      "first": "2026-07-21",
-      "last": "2026-10-17"
     },
     {
       "name": "EdexLive",
@@ -516,6 +516,12 @@
       "last": "2026-10-17"
     },
     {
+      "name": "Dawn",
+      "count": 9,
+      "first": "2026-09-24",
+      "last": "2026-10-17"
+    },
+    {
       "name": "GujaratSamachar English",
       "count": 9,
       "first": "2026-08-24",
@@ -540,16 +546,16 @@
       "last": "2026-10-15"
     },
     {
-      "name": "Dawn",
-      "count": 8,
-      "first": "2026-09-24",
-      "last": "2026-10-14"
-    },
-    {
       "name": "NDTV Profit",
       "count": 8,
       "first": "2026-09-25",
       "last": "2026-10-15"
+    },
+    {
+      "name": "South China Morning Post",
+      "count": 8,
+      "first": "2026-09-25",
+      "last": "2026-10-17"
     },
     {
       "name": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -574,12 +580,6 @@
       "count": 7,
       "first": "2026-09-18",
       "last": "2026-10-12"
-    },
-    {
-      "name": "South China Morning Post",
-      "count": 7,
-      "first": "2026-09-25",
-      "last": "2026-10-17"
     },
     {
       "name": "The Quint",
