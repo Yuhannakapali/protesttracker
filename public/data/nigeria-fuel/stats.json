@@ -591,7 +591,7 @@
     },
     {
       "start": "2022-01-01",
-      "count": 14
+      "count": 15
     },
     {
       "start": "2022-02-01",
@@ -807,7 +807,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 5
+      "count": 6
     },
     {
       "start": "2026-08-01",
@@ -819,15 +819,15 @@
     },
     {
       "start": "2026-10-01",
-      "count": 131
+      "count": 133
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 123,
+      "count": 124,
       "first": "2012-01-05",
-      "last": "2026-10-16"
+      "last": "2026-10-17"
     },
     {
       "name": "Vanguard",
@@ -843,7 +843,7 @@
     },
     {
       "name": "The Guardian Nigeria News",
-      "count": 56,
+      "count": 57,
       "first": "2015-10-02",
       "last": "2026-10-01"
     },
@@ -878,6 +878,12 @@
       "last": "2026-10-09"
     },
     {
+      "name": "Premium Times",
+      "count": 21,
+      "first": "2026-09-11",
+      "last": "2026-10-17"
+    },
+    {
       "name": "TheCable",
       "count": 21,
       "first": "2020-09-05",
@@ -894,12 +900,6 @@
       "count": 20,
       "first": "2012-01-03",
       "last": "2026-10-09"
-    },
-    {
-      "name": "Premium Times",
-      "count": 20,
-      "first": "2026-09-11",
-      "last": "2026-10-13"
     },
     {
       "name": "Business News Nigeria",
@@ -1164,6 +1164,12 @@
       "count": 2,
       "first": "2025-09-17",
       "last": "2026-04-12"
+    },
+    {
+      "name": "Wansom AI",
+      "count": 2,
+      "first": "2026-07-23",
+      "last": "2026-09-26"
     },
     {
       "name": "YNaija",
@@ -1506,12 +1512,6 @@
       "count": 1,
       "first": "2012-04-15",
       "last": "2012-04-15"
-    },
-    {
-      "name": "Wansom AI",
-      "count": 1,
-      "first": "2026-09-26",
-      "last": "2026-09-26"
     }
   ],
   "firstDate": "2009-10-30",
