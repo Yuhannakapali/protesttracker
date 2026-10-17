@@ -115,13 +115,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2042
+      "count": 2055
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 300,
+      "count": 301,
       "first": "2026-06-06",
       "last": "2026-10-17"
     },
@@ -133,13 +133,13 @@
     },
     {
       "name": "NDTV",
-      "count": 195,
+      "count": 196,
       "first": "2026-05-12",
       "last": "2026-10-17"
     },
     {
       "name": "The New Indian Express",
-      "count": 167,
+      "count": 168,
       "first": "2026-07-22",
       "last": "2026-10-17"
     },
@@ -151,19 +151,19 @@
     },
     {
       "name": "The Indian Express",
-      "count": 150,
+      "count": 151,
       "first": "2026-07-24",
       "last": "2026-10-17"
     },
     {
       "name": "India Today",
-      "count": 131,
+      "count": 132,
       "first": "2026-07-15",
       "last": "2026-10-17"
     },
     {
       "name": "Telegraph India",
-      "count": 112,
+      "count": 113,
       "first": "2026-07-21",
       "last": "2026-10-17"
     },
@@ -193,9 +193,9 @@
     },
     {
       "name": "Deccan Herald",
-      "count": 69,
+      "count": 70,
       "first": "2026-06-05",
-      "last": "2026-10-16"
+      "last": "2026-10-17"
     },
     {
       "name": "The News Mill",
@@ -223,9 +223,9 @@
     },
     {
       "name": "Livemint",
-      "count": 38,
+      "count": 39,
       "first": "2026-08-16",
-      "last": "2026-10-15"
+      "last": "2026-10-17"
     },
     {
       "name": "Telangana Today",
@@ -360,6 +360,12 @@
       "last": "2026-10-16"
     },
     {
+      "name": "The South First",
+      "count": 16,
+      "first": "2026-09-01",
+      "last": "2026-10-17"
+    },
+    {
       "name": "DT Next",
       "count": 15,
       "first": "2026-08-21",
@@ -376,12 +382,6 @@
       "count": 15,
       "first": "2026-07-05",
       "last": "2026-10-16"
-    },
-    {
-      "name": "The South First",
-      "count": 15,
-      "first": "2026-09-01",
-      "last": "2026-10-17"
     },
     {
       "name": "Pragativadi",
@@ -756,12 +756,6 @@
       "last": "2026-10-02"
     },
     {
-      "name": "Le Monde.fr",
-      "count": 4,
-      "first": "2026-09-28",
-      "last": "2026-10-17"
-    },
-    {
       "name": "Millat Times",
       "count": 4,
       "first": "2026-08-21",
@@ -852,6 +846,12 @@
       "last": "2026-09-11"
     },
     {
+      "name": "Arab News",
+      "count": 3,
+      "first": "2026-10-10",
+      "last": "2026-10-17"
+    },
+    {
       "name": "BW Police World",
       "count": 3,
       "first": "2026-10-13",
@@ -922,6 +922,12 @@
       "count": 3,
       "first": "2026-10-09",
       "last": "2026-10-17"
+    },
+    {
+      "name": "Le Monde.fr",
+      "count": 3,
+      "first": "2026-09-28",
+      "last": "2026-10-14"
     },
     {
       "name": "Malay Mail",
@@ -1020,10 +1026,10 @@
       "last": "2026-10-11"
     },
     {
-      "name": "Arab News",
+      "name": "Anadolu Ajansı",
       "count": 2,
-      "first": "2026-10-10",
-      "last": "2026-10-11"
+      "first": "2026-10-02",
+      "last": "2026-10-17"
     },
     {
       "name": "Arunachal24",
@@ -1350,12 +1356,6 @@
       "last": "2026-10-14"
     },
     {
-      "name": "Anadolu Ajansı",
-      "count": 1,
-      "first": "2026-10-02",
-      "last": "2026-10-02"
-    },
-    {
       "name": "AppleValleyNewsNow.com",
       "count": 1,
       "first": "2026-10-10",
@@ -1674,6 +1674,12 @@
       "last": "2026-10-08"
     },
     {
+      "name": "INDIA New England News",
+      "count": 1,
+      "first": "2026-10-17",
+      "last": "2026-10-17"
+    },
+    {
       "name": "India Weekly",
       "count": 1,
       "first": "2026-10-09",
@@ -1702,6 +1708,12 @@
       "count": 1,
       "first": "2026-10-16",
       "last": "2026-10-16"
+    },
+    {
+      "name": "Jagonews24",
+      "count": 1,
+      "first": "2026-10-17",
+      "last": "2026-10-17"
     },
     {
       "name": "Jagran",
@@ -2200,6 +2212,12 @@
       "count": 1,
       "first": "2026-10-14",
       "last": "2026-10-14"
+    },
+    {
+      "name": "Yeni Şafak English",
+      "count": 1,
+      "first": "2026-10-17",
+      "last": "2026-10-17"
     },
     {
       "name": "youtu.be",
