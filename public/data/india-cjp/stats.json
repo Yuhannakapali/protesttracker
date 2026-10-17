@@ -115,33 +115,33 @@
     },
     {
       "start": "2026-10-01",
-      "count": 1986
+      "count": 1997
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 297,
+      "count": 298,
       "first": "2026-06-06",
-      "last": "2026-10-16"
+      "last": "2026-10-17"
     },
     {
       "name": "The Times of India",
-      "count": 217,
+      "count": 218,
       "first": "2026-06-06",
-      "last": "2026-10-16"
+      "last": "2026-10-17"
     },
     {
       "name": "NDTV",
-      "count": 190,
+      "count": 192,
       "first": "2026-05-12",
-      "last": "2026-10-16"
+      "last": "2026-10-17"
     },
     {
       "name": "The New Indian Express",
-      "count": 164,
+      "count": 165,
       "first": "2026-07-22",
-      "last": "2026-10-16"
+      "last": "2026-10-17"
     },
     {
       "name": "Hindustan Times",
@@ -151,15 +151,15 @@
     },
     {
       "name": "The Indian Express",
-      "count": 148,
+      "count": 149,
       "first": "2026-07-24",
-      "last": "2026-10-16"
+      "last": "2026-10-17"
     },
     {
       "name": "India Today",
       "count": 129,
       "first": "2026-07-15",
-      "last": "2026-10-16"
+      "last": "2026-10-17"
     },
     {
       "name": "Telegraph India",
@@ -169,7 +169,7 @@
     },
     {
       "name": "Rediff",
-      "count": 87,
+      "count": 88,
       "first": "2026-06-07",
       "last": "2026-10-16"
     },
@@ -181,7 +181,7 @@
     },
     {
       "name": "ThePrint",
-      "count": 77,
+      "count": 78,
       "first": "2026-06-19",
       "last": "2026-10-16"
     },
@@ -211,9 +211,9 @@
     },
     {
       "name": "ETV Bharat",
-      "count": 44,
+      "count": 45,
       "first": "2026-08-06",
-      "last": "2026-10-14"
+      "last": "2026-10-17"
     },
     {
       "name": "Outlook India",
@@ -312,16 +312,16 @@
       "last": "2026-10-12"
     },
     {
+      "name": "BBC",
+      "count": 21,
+      "first": "2026-05-21",
+      "last": "2026-10-17"
+    },
+    {
       "name": "WION",
       "count": 21,
       "first": "2026-07-23",
       "last": "2026-10-14"
-    },
-    {
-      "name": "BBC",
-      "count": 20,
-      "first": "2026-05-21",
-      "last": "2026-10-15"
     },
     {
       "name": "LawBeat",
@@ -438,12 +438,6 @@
       "last": "2026-10-15"
     },
     {
-      "name": "Udayavani",
-      "count": 11,
-      "first": "2026-07-18",
-      "last": "2026-10-13"
-    },
-    {
       "name": "CNBC TV18",
       "count": 10,
       "first": "2026-07-30",
@@ -496,6 +490,12 @@
       "count": 10,
       "first": "2026-08-29",
       "last": "2026-10-15"
+    },
+    {
+      "name": "Udayavani",
+      "count": 10,
+      "first": "2026-07-18",
+      "last": "2026-10-13"
     },
     {
       "name": "Bloomberg.com",
@@ -552,6 +552,12 @@
       "last": "2026-10-15"
     },
     {
+      "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "count": 7,
+      "first": "2026-10-02",
+      "last": "2026-10-17"
+    },
+    {
       "name": "ABP Live English",
       "count": 7,
       "first": "2026-07-19",
@@ -564,22 +570,10 @@
       "last": "2026-10-15"
     },
     {
-      "name": "France 24",
-      "count": 7,
-      "first": "2026-07-18",
-      "last": "2026-10-16"
-    },
-    {
       "name": "Kashmir Observer",
       "count": 7,
       "first": "2026-09-18",
       "last": "2026-10-12"
-    },
-    {
-      "name": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "count": 6,
-      "first": "2026-10-02",
-      "last": "2026-10-14"
     },
     {
       "name": "Asianet Newsable",
@@ -591,6 +585,12 @@
       "name": "CNA",
       "count": 6,
       "first": "2026-10-10",
+      "last": "2026-10-16"
+    },
+    {
+      "name": "France 24",
+      "count": 6,
+      "first": "2026-07-18",
       "last": "2026-10-16"
     },
     {
@@ -634,6 +634,12 @@
       "count": 6,
       "first": "2026-08-18",
       "last": "2026-10-07"
+    },
+    {
+      "name": "India TV News",
+      "count": 5,
+      "first": "2026-08-20",
+      "last": "2026-10-11"
     },
     {
       "name": "MorungExpress",
@@ -742,12 +748,6 @@
       "count": 4,
       "first": "2026-08-18",
       "last": "2026-10-11"
-    },
-    {
-      "name": "India TV News",
-      "count": 4,
-      "first": "2026-08-20",
-      "last": "2026-10-02"
     },
     {
       "name": "Kerala Kaumudi",
@@ -1192,6 +1192,12 @@
       "count": 2,
       "first": "2026-07-30",
       "last": "2026-10-05"
+    },
+    {
+      "name": "RFI",
+      "count": 2,
+      "first": "2026-10-14",
+      "last": "2026-10-16"
     },
     {
       "name": "Rising Kashmir",
@@ -1746,7 +1752,7 @@
       "last": "2026-09-25"
     },
     {
-      "name": "LiveTube",
+      "name": "livetube.tv",
       "count": 1,
       "first": "2026-10-16",
       "last": "2026-10-16"
@@ -1882,12 +1888,6 @@
       "count": 1,
       "first": "2026-09-04",
       "last": "2026-09-04"
-    },
-    {
-      "name": "RFI",
-      "count": 1,
-      "first": "2026-10-14",
-      "last": "2026-10-14"
     },
     {
       "name": "runblogrun",
@@ -2197,5 +2197,5 @@
     }
   ],
   "firstDate": "2024-06-18",
-  "lastDate": "2026-10-16"
+  "lastDate": "2026-10-17"
 }

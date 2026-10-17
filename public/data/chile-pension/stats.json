@@ -239,11 +239,11 @@
     },
     {
       "start": "2019-10-01",
-      "count": 34
+      "count": 36
     },
     {
       "start": "2019-11-01",
-      "count": 24
+      "count": 25
     },
     {
       "start": "2019-12-01",
@@ -255,7 +255,7 @@
     },
     {
       "start": "2020-02-01",
-      "count": 3
+      "count": 4
     },
     {
       "start": "2020-03-01",
@@ -575,7 +575,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 36
+      "count": 37
     }
   ],
   "sources": [
@@ -593,7 +593,7 @@
     },
     {
       "name": "El Ciudadano",
-      "count": 25,
+      "count": 26,
       "first": "2016-08-10",
       "last": "2026-10-16"
     },
@@ -611,13 +611,13 @@
     },
     {
       "name": "BBC",
-      "count": 9,
+      "count": 10,
       "first": "2016-08-22",
       "last": "2021-12-20"
     },
     {
       "name": "Al Jazeera",
-      "count": 8,
+      "count": 9,
       "first": "2019-10-26",
       "last": "2020-07-23"
     },
@@ -700,6 +700,12 @@
       "last": "2026-08-06"
     },
     {
+      "name": "VOA - Voice of America English News",
+      "count": 4,
+      "first": "2017-04-13",
+      "last": "2022-03-12"
+    },
+    {
       "name": "- CIPER Chile",
       "count": 3,
       "first": "2016-07-26",
@@ -776,12 +782,6 @@
       "count": 3,
       "first": "2017-12-18",
       "last": "2025-12-04"
-    },
-    {
-      "name": "VOA - Voice of America English News",
-      "count": 3,
-      "first": "2017-04-13",
-      "last": "2022-03-12"
     },
     {
       "name": "AIM Digital",
@@ -1622,6 +1622,12 @@
       "count": 1,
       "first": "2019-11-26",
       "last": "2019-11-26"
+    },
+    {
+      "name": "Tufts University",
+      "count": 1,
+      "first": "2020-02-06",
+      "last": "2020-02-06"
     },
     {
       "name": "Ukamau",
