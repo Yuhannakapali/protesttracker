@@ -5140,23 +5140,30 @@
         "join",
         "matiangi",
         "predicts",
-        "senior"
+        "senior",
+        "accuses",
+        "intimidation",
+        "president",
+        "security",
+        "withdrawal"
       ],
       "domains": [
         "the-star.co.ke",
         "standardmedia.co.ke",
-        "kenyan-post.com"
+        "kenyan-post.com",
+        "kenya-today.com"
       ],
       "daysSeen": [
         "2026-09-10",
         "2026-09-06",
         "2026-09-07",
         "2026-09-12",
-        "2026-09-27"
+        "2026-09-27",
+        "2026-10-17"
       ],
-      "articleCount": 5,
+      "articleCount": 6,
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-10-17",
       "samples": [
         {
           "title": "Caleb Amisi : Opposition must unite or  be hanged separately",
@@ -5381,20 +5388,34 @@
         "coalition",
         "intercepted",
         "missiles",
-        "drones"
+        "drones",
+        "cites",
+        "drone",
+        "fuel",
+        "kenya",
+        "missile",
+        "worries",
+        "enemy",
+        "may",
+        "problem",
+        "smallest",
+        "weapons",
+        "biggest"
       ],
       "domains": [
         "kenyastar.com",
-        "standardmedia.co.ke"
+        "standardmedia.co.ke",
+        "kenya-today.com"
       ],
       "daysSeen": [
         "2026-09-05",
         "2026-09-20",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-16"
       ],
-      "articleCount": 5,
+      "articleCount": 7,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-16",
       "samples": [
         {
           "title": "Chinese robots shine at LEAP 2026 in Saudi Arabia",
@@ -20232,7 +20253,39 @@
         "high",
         "year",
         "bank",
-        "two"
+        "two",
+        "community",
+        "huntington",
+        "investment",
+        "stack",
+        "supports",
+        "infrastructure",
+        "imports",
+        "jump",
+        "rice",
+        "ahead",
+        "nino",
+        "placement",
+        "private",
+        "board",
+        "million",
+        "bancorp",
+        "dividend",
+        "five",
+        "star",
+        "third",
+        "avicanna",
+        "listing",
+        "otcqb",
+        "transitions",
+        "abits",
+        "half",
+        "group",
+        "reaffirms",
+        "revenue",
+        "sealsq",
+        "guidance",
+        "corp"
       ],
       "domains": [
         "manilatimes.net",
@@ -20242,11 +20295,13 @@
         "2026-09-30",
         "2026-09-28",
         "2026-10-01",
-        "2026-09-29"
+        "2026-09-29",
+        "2026-10-15",
+        "2026-10-16"
       ],
-      "articleCount": 41,
+      "articleCount": 48,
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-16",
       "samples": [
         {
           "title": "Ittikar Is Live and Open to New Members | The Manila Times",
@@ -21589,17 +21644,25 @@
         "investment",
         "completes",
         "online",
-        "school"
+        "school",
+        "labor",
+        "mining",
+        "philex",
+        "reaches",
+        "settlement",
+        "work",
+        "now"
       ],
       "domains": [
         "bworldonline.com"
       ],
       "daysSeen": [
-        "2026-09-28"
+        "2026-09-28",
+        "2026-10-15"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-10-15",
       "samples": [
         {
           "title": "FEU completes P156 - M investment in Bataan school - BusinessWorld Online",
@@ -21612,6 +21675,18 @@
           "url": "https://bworldonline.com/corporate/2026/09/28/782650/feu-completes-p156-m-investment-in-bataan-school/",
           "domain": "bworldonline.com",
           "date": "2026-09-28"
+        },
+        {
+          "title": "Philex Mining reaches labor settlement - BusinessWorld Online",
+          "url": "http://bworldonline.com/corporate/2026/10/15/787280/philex-mining-reaches-labor-settlement/",
+          "domain": "bworldonline.com",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Now … to work - BusinessWorld Online",
+          "url": "http://bworldonline.com/opinion/2026/10/14/786940/now-to-work/",
+          "domain": "bworldonline.com",
+          "date": "2026-10-15"
         }
       ]
     },
@@ -22302,17 +22377,24 @@
         "sure",
         "did",
         "check",
-        "say"
+        "say",
+        "drugs",
+        "duterte",
+        "fly",
+        "hague",
+        "plane",
+        "aircraft"
       ],
       "domains": [
         "rappler.com"
       ],
       "daysSeen": [
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-16"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-16",
       "samples": [
         {
           "title": "FACT CHECK : Jonvic Remulla did not say Marcoses are  sure to be jailed  after 2028",
@@ -22331,6 +22413,12 @@
           "url": "https://www.rappler.com/newsbreak/fact-check/fake-quote-jonvic-remulla-2028-election-marcos/",
           "domain": "rappler.com",
           "date": "2026-10-01"
+        },
+        {
+          "title": "FACT CHECK : Plane with drugs not same aircraft used to fly Duterte to The Hague",
+          "url": "https://www.rappler.com/newsbreak/fact-check/plane-drugs-not-same-used-duterte-icc/",
+          "domain": "rappler.com",
+          "date": "2026-10-16"
         }
       ]
     },
@@ -25676,23 +25764,32 @@
       "terms": [
         "mcdonalds",
         "tribune",
-        "daily"
+        "daily",
+        "bug",
+        "stop"
       ],
       "domains": [
         "tribune.net.ph"
       ],
       "daysSeen": [
-        "2026-09-27"
+        "2026-09-27",
+        "2026-10-15"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-10-15",
       "samples": [
         {
           "title": "McDonalds | Daily Tribune",
           "url": "https://tribune.net.ph/topic/mcdonalds",
           "domain": "tribune.net.ph",
           "date": "2026-09-27"
+        },
+        {
+          "title": "Bug stop | Daily Tribune",
+          "url": "https://tribune.net.ph/2026/10/15/bug-stop",
+          "domain": "tribune.net.ph",
+          "date": "2026-10-15"
         }
       ]
     },
@@ -32938,7 +33035,8 @@
         "kpc",
         "mombasa",
         "oil",
-        "sh35b"
+        "sh35b",
+        "rise"
       ],
       "domains": [
         "standardmedia.co.ke"
@@ -32946,10 +33044,16 @@
       "daysSeen": [
         "2026-10-15"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-15",
       "samples": [
+        {
+          "title": "KPC eyes Sh35b oil trading hub in Mombasa as earnings rise 13pc",
+          "url": "https://www.standardmedia.co.ke/business/article/2001560168/kpc-eyes-sh35b-oil-trading-hub-in-mombasa-as-earnings-rise-13pc",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-15"
+        },
         {
           "title": "KPC eyes Sh35b oil trading hub in Mombasa as earnings rise 13pc",
           "url": "https://www.standardmedia.co.ke/business/article/2001560168/kpc-eyes-sh35b-oil-trading-hub-in-mombasa-as-earnings-rise-13pc",
@@ -32975,10 +33079,16 @@
       "daysSeen": [
         "2026-10-16"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-16",
       "lastSeen": "2026-10-16",
       "samples": [
+        {
+          "title": "Matatu Owners Announce Immediate 10 % Fare Hike",
+          "url": "https://nairobiwire.com/2026/10/kenya-matatu-fare-increase-10-percent-fuel-prices.html",
+          "domain": "nairobiwire.com",
+          "date": "2026-10-16"
+        },
         {
           "title": "Matatu Owners Announce Immediate 10 % Fare Hike",
           "url": "https://nairobiwire.com/2026/10/kenya-matatu-fare-increase-10-percent-fuel-prices.html",
@@ -33006,10 +33116,16 @@
       "daysSeen": [
         "2026-10-16"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-16",
       "lastSeen": "2026-10-16",
       "samples": [
+        {
+          "title": "You Do Not Abandon Him : Uhuru Moving Tribute to Raila Odinga",
+          "url": "https://nairobiwire.com/2026/10/uhuru-kenyatta-tribute-raila-odinga-handshake-2022.html",
+          "domain": "nairobiwire.com",
+          "date": "2026-10-16"
+        },
         {
           "title": "You Do Not Abandon Him : Uhuru Moving Tribute to Raila Odinga",
           "url": "https://nairobiwire.com/2026/10/uhuru-kenyatta-tribute-raila-odinga-handshake-2022.html",
@@ -33037,10 +33153,16 @@
       "daysSeen": [
         "2026-10-15"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-15",
       "samples": [
+        {
+          "title": "Two traders charged in Sh3 . 9 billion fake invoice tax fraud",
+          "url": "https://www.standardmedia.co.ke/crime-and-justice/article/2001560218/two-traders-charged-in-sh39-billion-fake-invoice-tax-fraud",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-15"
+        },
         {
           "title": "Two traders charged in Sh3 . 9 billion fake invoice tax fraud",
           "url": "https://www.standardmedia.co.ke/crime-and-justice/article/2001560218/two-traders-charged-in-sh39-billion-fake-invoice-tax-fraud",
@@ -33068,10 +33190,16 @@
       "daysSeen": [
         "2026-10-15"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-15",
       "samples": [
+        {
+          "title": "Remembering Jakom , the enigma , Baba Raila Amolo Odinga : The spirit did not leave with him",
+          "url": "https://www.standardmedia.co.ke/opinion/article/2001560223/remembering-jakom-the-enigma-baba-raila-amolo-odinga-the-spirit-lives-on",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-15"
+        },
         {
           "title": "Remembering Jakom , the enigma , Baba Raila Amolo Odinga : The spirit did not leave with him",
           "url": "https://www.standardmedia.co.ke/opinion/article/2001560223/remembering-jakom-the-enigma-baba-raila-amolo-odinga-the-spirit-lives-on",
@@ -33097,10 +33225,16 @@
       "daysSeen": [
         "2026-10-15"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-15",
       "samples": [
+        {
+          "title": "Ebola watch : Counties await government guidance , supplies",
+          "url": "https://www.standardmedia.co.ke/health/health-science/article/2001560220/ebola-watch-counties-await-government-guidance-supplies",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-15"
+        },
         {
           "title": "Ebola watch : Counties await government guidance , supplies",
           "url": "https://www.standardmedia.co.ke/health/health-science/article/2001560220/ebola-watch-counties-await-government-guidance-supplies",
@@ -33128,10 +33262,16 @@
       "daysSeen": [
         "2026-10-15"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-15",
       "samples": [
+        {
+          "title": "Unbothered Royalty - Koffi Olomide Signals Dominance With Cryptic Post After Dramatic Walkout At Fred Machoka Event",
+          "url": "https://www.ghafla.co.ke/unbothered-royalty-koffi-olomide-signals-dominance-with-cryptic-post-after-dramatic-walkout-at-fred-machokas-event/",
+          "domain": "ghafla.co.ke",
+          "date": "2026-10-15"
+        },
         {
           "title": "Unbothered Royalty - Koffi Olomide Signals Dominance With Cryptic Post After Dramatic Walkout At Fred Machoka Event",
           "url": "https://www.ghafla.co.ke/unbothered-royalty-koffi-olomide-signals-dominance-with-cryptic-post-after-dramatic-walkout-at-fred-machokas-event/",
@@ -33178,10 +33318,16 @@
       "daysSeen": [
         "2026-10-15"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-15",
       "samples": [
+        {
+          "title": "Trump calls off firing squad livestream",
+          "url": "http://www.kenyastar.com/news/279377317/trump-calls-off-firing-squad-livestream",
+          "domain": "kenyastar.com",
+          "date": "2026-10-15"
+        },
         {
           "title": "Trump calls off firing squad livestream",
           "url": "http://www.kenyastar.com/news/279377317/trump-calls-off-firing-squad-livestream",
@@ -33202,7 +33348,8 @@
         "connects",
         "dhabi",
         "global",
-        "opportunities"
+        "opportunities",
+        "british"
       ],
       "domains": [
         "kenyastar.com"
@@ -33210,10 +33357,22 @@
       "daysSeen": [
         "2026-10-15"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-15",
       "samples": [
+        {
+          "title": "Abu Dhabi Chamber connects 11 Abu Dhabi companies with British and international businesses to unlock global growth ppportunities",
+          "url": "http://www.kenyastar.com/news/279376738/abu-dhabi-chamber-connects-11-abu-dhabi-companies-with-british-and-international-businesses-to-unlock-global-growth-ppportunities",
+          "domain": "kenyastar.com",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Abu Dhabi Chamber connects 11 Abu Dhabi companies with British and international businesses to unlock global growth opportunities",
+          "url": "http://www.kenyastar.com/news/279376772/abu-dhabi-chamber-connects-11-abu-dhabi-companies-with-british-and-international-businesses-to-unlock-global-growth-opportunities",
+          "domain": "kenyastar.com",
+          "date": "2026-10-15"
+        },
         {
           "title": "Abu Dhabi Chamber connects 11 Abu Dhabi companies with British and international businesses to unlock global growth ppportunities",
           "url": "http://www.kenyastar.com/news/279376738/abu-dhabi-chamber-connects-11-abu-dhabi-companies-with-british-and-international-businesses-to-unlock-global-growth-ppportunities",
@@ -33247,10 +33406,16 @@
       "daysSeen": [
         "2026-10-15"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-15",
       "samples": [
+        {
+          "title": "Bolt Plus KSh 280 Subscription Faces a Bigger Hurdle : TechMoran",
+          "url": "https://techmoran.com/2026/10/15/bolt-pluss-ksh-280-subscription-faces-a-bigger-hurdle-than-loyalty/",
+          "domain": "techmoran.com",
+          "date": "2026-10-15"
+        },
         {
           "title": "Bolt Plus KSh 280 Subscription Faces a Bigger Hurdle : TechMoran",
           "url": "https://techmoran.com/2026/10/15/bolt-pluss-ksh-280-subscription-faces-a-bigger-hurdle-than-loyalty/",
@@ -33277,7 +33442,7 @@
       "daysSeen": [
         "2026-10-15"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-15",
       "samples": [
@@ -33285,6 +33450,2224 @@
           "title": "Netanyahu survived his enemies . Can he survive his own voters ?",
           "url": "http://www.kenyastar.com/news/279377299/netanyahu-survived-his-enemies-can-he-survive-his-own-voters",
           "domain": "kenyastar.com",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Netanyahu survived his enemies . Can he survive his own voters ?",
+          "url": "http://www.kenyastar.com/news/279377299/netanyahu-survived-his-enemies-can-he-survive-his-own-voters",
+          "domain": "kenyastar.com",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "kenya:alberta-canada-high": {
+      "id": "kenya:alberta-canada-high",
+      "country": "Kenya",
+      "terms": [
+        "alberta",
+        "nears",
+        "separation",
+        "stakes",
+        "vote",
+        "warns",
+        "canada",
+        "high"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Canada PM warns  stakes are high  as Alberta separation vote nears",
+          "url": "https://www.the-star.co.ke/news/world/2026-10-16-canada-pm-warns-stakes-are-high-as-alberta-separation-vote-nears",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "kenya:arati-elect-governor": {
+      "id": "kenya:arati-elect-governor",
+      "country": "Kenya",
+      "terms": [
+        "arati",
+        "elect",
+        "kisii",
+        "mcas",
+        "polls",
+        "rep",
+        "woman",
+        "governor"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Governor Arati urges Kisii voters to elect new senator , woman rep and MCAs in 2027 polls",
+          "url": "https://kenya-today.com/report-governor-arati-urges-kisii-voters-to-elect-new-senator-woman-rep-and-mcas-in-2027-polls-12360/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "kenya:ahead-chief-election": {
+      "id": "kenya:ahead-chief-election",
+      "country": "Kenya",
+      "terms": [
+        "chief",
+        "election",
+        "former",
+        "justice",
+        "maraga",
+        "opposition",
+        "ahead",
+        "united"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-17"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17",
+      "samples": [
+        {
+          "title": "Former Chief Justice Maraga Calls for United Opposition Ahead of 2027 Election",
+          "url": "https://kenya-today.com/report-former-chief-justice-maraga-calls-for-united-opposition-ahead-of-2027-election-12406/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "kenya:appeal-assets-court": {
+      "id": "kenya:appeal-assets-court",
+      "country": "Kenya",
+      "terms": [
+        "appeal",
+        "assets",
+        "court",
+        "dpp",
+        "keep",
+        "matter",
+        "rejects",
+        "seized"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-17"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17",
+      "samples": [
+        {
+          "title": "High Court Rejects DPP Appeal to Keep Seized Assets in Natembeya Matter",
+          "url": "https://kenya-today.com/report-high-court-rejects-dpp-appeal-to-keep-seized-assets-in-natembeya-matter-12492/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "kenya:appointed-captain-experience": {
+      "id": "kenya:appointed-captain-experience",
+      "country": "Kenya",
+      "terms": [
+        "appointed",
+        "captain",
+        "experience",
+        "guiding",
+        "harmanpreet",
+        "key",
+        "mandhana",
+        "newly"
+      ],
+      "domains": [
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Harmanpreet experience will be key in guiding youngsters : Newly appointed captain Smriti Mandhana",
+          "url": "http://www.kenyastar.com/news/279378362/harmanpreet-experience-will-be-key-in-guiding-youngsters-newly-appointed-captain-smriti-mandhana",
+          "domain": "kenyastar.com",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "kenya:end-putin-russia": {
+      "id": "kenya:end-putin-russia",
+      "country": "Kenya",
+      "terms": [
+        "end",
+        "putin",
+        "russia",
+        "trusting",
+        "war",
+        "warning",
+        "ukraine",
+        "zelenskyy"
+      ],
+      "domains": [
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Trump calls for end to Russia - Ukraine war amid Zelenskyy warning against trusting Putin",
+          "url": "http://www.kenyastar.com/news/279380111/trump-calls-for-end-to-russia-ukraine-war-amid-zelenskyy-warning-against-trusting-putin",
+          "domain": "kenyastar.com",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "kenya:zelensky-2": {
+      "id": "kenya:zelensky-2",
+      "country": "Kenya",
+      "terms": [
+        "zelensky"
+      ],
+      "domains": [
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Trump could have Zelensky arrested",
+          "url": "http://www.kenyastar.com/news/279377239/trump-could-have-zelensky-arrested-galloway",
+          "domain": "kenyastar.com",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "kenya:colonial-genocide-german": {
+      "id": "kenya:colonial-genocide-german",
+      "country": "Kenya",
+      "terms": [
+        "colonial",
+        "genocide",
+        "mps",
+        "german"
+      ],
+      "domains": [
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "German MPs clash over colonial genocide",
+          "url": "http://www.kenyastar.com/news/279378442/german-mps-clash-over-colonial-genocide",
+          "domain": "kenyastar.com",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:access-assert-beach": {
+      "id": "philippines:access-assert-beach",
+      "country": "Philippines",
+      "terms": [
+        "access",
+        "assert",
+        "beach",
+        "blocked",
+        "fishers",
+        "resorts",
+        "rights",
+        "zambales"
+      ],
+      "domains": [
+        "philstar.com"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Zambales fishers assert rights to beach access blocked by resorts",
+          "url": "https://www.philstar.com/nation/2026/10/15/2563442/zambales-fishers-assert-rights-beach-access-blocked-resorts",
+          "domain": "philstar.com",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:ammo-central-fisherfolk": {
+      "id": "philippines:ammo-central-fisherfolk",
+      "country": "Philippines",
+      "terms": [
+        "ammo",
+        "central",
+        "fisherfolk",
+        "luzon",
+        "plant",
+        "punto",
+        "slam",
+        "subic"
+      ],
+      "domains": [
+        "punto.com.ph"
+      ],
+      "daysSeen": [
+        "2026-10-17"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17",
+      "samples": [
+        {
+          "title": "Fisherfolk slam plan for US ammo plant in Subic , Punto ! Central Luzon",
+          "url": "https://punto.com.ph/fisherfolk-slam-plan-for-us-ammo-plant-in-subic/",
+          "domain": "punto.com.ph",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "philippines:allies-european-slump": {
+      "id": "philippines:allies-european-slump",
+      "country": "Philippines",
+      "terms": [
+        "allies",
+        "european",
+        "slump",
+        "ties",
+        "zelensky"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Zelensky rallies European allies as Trump ties slump",
+          "url": "https://www.manilatimes.net/2026/10/16/world/americas-emea/zelensky-rallies-european-allies-as-trump-ties-slump/2447185",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:art-commission-facility": {
+      "id": "philippines:art-commission-facility",
+      "country": "Philippines",
+      "terms": [
+        "art",
+        "commission",
+        "facility",
+        "granted",
+        "lis",
+        "nuclear",
+        "oak",
+        "practice"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "LIS Technologies Granted U . S . Nuclear Regulatory Commission Approval of Standard Practice Procedures Plan for its State - of - the - Art Demonstration Facility in Oak Ridge , TN",
+          "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/lis-technologies-granted-us-nuclear-regulatory-commission-approval-of-standard-practice-procedures-plan-for-its-state-of-the-art-demonstration-facility-in-oak-ridge-tn/2446541",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:forages-ilocos-improved": {
+      "id": "philippines:forages-ilocos-improved",
+      "country": "Philippines",
+      "terms": [
+        "forages",
+        "ilocos",
+        "improved",
+        "mmsu",
+        "norte",
+        "pushes"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "MMSU pushes improved forages for Ilocos Norte",
+          "url": "https://www.manilatimes.net/2026/10/16/business/agribusiness/mmsu-pushes-improved-forages-for-ilocos-norte/2447066",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:albuquerque-nearly-robotics": {
+      "id": "philippines:albuquerque-nearly-robotics",
+      "country": "Philippines",
+      "terms": [
+        "albuquerque",
+        "robotics",
+        "student",
+        "teams",
+        "turns",
+        "nearly",
+        "route"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Route 66 Turns 100 as Nearly 100 Student Robotics Teams Rally in Albuquerque",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/route-66-turns-100-as-nearly-100-student-robotics-teams-rally-in-albuquerque/2446990",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:face-floods-further": {
+      "id": "philippines:face-floods-further",
+      "country": "Philippines",
+      "terms": [
+        "face",
+        "floods",
+        "further",
+        "hardship",
+        "hunger",
+        "loom",
+        "millions",
+        "somalia"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Somalia : As El Niño floods loom , millions could face further hardship and hunger",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/somalia-as-el-nio-floods-loom-millions-could-face-further-hardship-and-hunger/2447257",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:bust-drug-headlines": {
+      "id": "philippines:bust-drug-headlines",
+      "country": "Philippines",
+      "terms": [
+        "bust",
+        "drug",
+        "headlines",
+        "politician",
+        "tagged",
+        "mindanao",
+        "october"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "HEADLINES : Mindanao politician tagged in drug bust | October 16 , 2026",
+          "url": "https://www.manilatimes.net/2026/10/16/podcasts/headlines-mindanao-politician-tagged-in-drug-bust-october-16-2026/2446530",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:bicycle-german-long": {
+      "id": "philippines:bicycle-german-long",
+      "country": "Philippines",
+      "terms": [
+        "bicycle",
+        "long",
+        "retrace",
+        "writers",
+        "german",
+        "two"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Two German writers retrace the Long March by bicycle",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/pr-newswire/two-german-writers-retrace-the-long-march-by-bicycle/2447332",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:anger-expresses-hitting": {
+      "id": "philippines:anger-expresses-hitting",
+      "country": "Philippines",
+      "terms": [
+        "anger",
+        "expresses",
+        "hitting",
+        "kyiv",
+        "refineries",
+        "resumes",
+        "zelenskyy"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Kyiv resumes hitting refineries as Zelenskyy expresses anger",
+          "url": "https://www.manilatimes.net/2026/10/16/world/americas-emea/kyiv-resumes-hitting-refineries-as-zelenskyy-expresses-anger/2446815",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:belarus-fan-freed": {
+      "id": "philippines:belarus-fan-freed",
+      "country": "Philippines",
+      "terms": [
+        "belarus",
+        "fan",
+        "freed",
+        "gaga",
+        "lady",
+        "site",
+        "story",
+        "tells"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Freed from Belarus , founder of Lady Gaga biggest fan site tells his story",
+          "url": "https://www.manilatimes.net/2026/10/15/entertainment-lifestyle/freed-from-belarus-founder-of-lady-gagas-biggest-fan-site-tells-his-story/2446727",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:defenses-drill-eastern": {
+      "id": "philippines:defenses-drill-eastern",
+      "country": "Philippines",
+      "terms": [
+        "defenses",
+        "drill",
+        "eastern",
+        "seaboard",
+        "sentinel",
+        "surigao",
+        "tests"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Surigao Sentinel drill tests eastern seaboard defenses",
+          "url": "https://www.manilatimes.net/2026/10/16/news/national/surigao-sentinel-drill-tests-eastern-seaboard-defenses/2446873",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:ecosystem-generation-liteon": {
+      "id": "philippines:ecosystem-generation-liteon",
+      "country": "Philippines",
+      "terms": [
+        "ecosystem",
+        "generation",
+        "liteon",
+        "mgx",
+        "next",
+        "nvidia",
+        "ocp",
+        "power"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "LITEON Showcases at NVIDIA MGX Ecosystem at OCP , Highlighting 800 VDC Power Technologies to Advance Next - Generation AI Infrastructure",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/pr-newswire/liteon-showcases-at-nvidia-mgx-ecosystem-at-ocp-highlighting-800-vdc-power-technologies-to-advance-next-generation-ai-infrastructure/2447199",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:done-energy-hits": {
+      "id": "philippines:done-energy-hits",
+      "country": "Philippines",
+      "terms": [
+        "done",
+        "refinery",
+        "russian",
+        "truce",
+        "energy",
+        "hits",
+        "ukraine",
+        "zelenskyy"
+      ],
+      "domains": [
+        "rappler.com"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Ukraine hits Russian refinery as Zelenskyy says  were done  with Trump energy truce",
+          "url": "https://www.rappler.com/world/europe/russia-ukraine-crisis-updates-october-15-2026/",
+          "domain": "rappler.com",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:clinical-focus-founder": {
+      "id": "philippines:clinical-focus-founder",
+      "country": "Philippines",
+      "terms": [
+        "clinical",
+        "focus",
+        "gray",
+        "mentoring",
+        "opinions",
+        "trevor",
+        "vision",
+        "founder"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-17"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17",
+      "samples": [
+        {
+          "title": "Re : Vision Founder Dr Trevor Gray Shifts Focus to Second Opinions and Clinical Mentoring",
+          "url": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/revision-founder-dr-trevor-gray-shifts-focus-to-second-opinions-and-clinical-mentoring/2447861",
+          "domain": "manilatimes.net",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "philippines:ciif-drive-electric": {
+      "id": "philippines:ciif-drive-electric",
+      "country": "Philippines",
+      "terms": [
+        "ciif",
+        "drive",
+        "electric",
+        "industrial",
+        "innovation",
+        "integrated",
+        "solutions",
+        "shanghai"
+      ],
+      "domains": [
+        "manilatimes.net",
+        "philippinetimes.com"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Shanghai Electric Showcases Integrated Solutions to Drive Industrial Innovation at CIIF 2026",
+          "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/pr-newswire/shanghai-electric-showcases-integrated-solutions-to-drive-industrial-innovation-at-ciif-2026/2446902",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:advisory-committees-disbands": {
+      "id": "philippines:advisory-committees-disbands",
+      "country": "Philippines",
+      "terms": [
+        "advisory",
+        "committees",
+        "disbands",
+        "expert",
+        "groups",
+        "ioc",
+        "olympic",
+        "shifts"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "IOC disbands 12 Olympic committees , shifts to smaller expert advisory groups",
+          "url": "https://www.manilatimes.net/2026/10/17/world/ioc-disbands-12-olympic-committees-shifts-to-smaller-expert-advisory-groups/2447810",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:joy-speed": {
+      "id": "philippines:joy-speed",
+      "country": "Philippines",
+      "terms": [
+        "joy",
+        "speed"
+      ],
+      "domains": [
+        "philstar.com"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "The Speed of Joy",
+          "url": "https://www.philstar.com/other-sections/daily-bread/2026/10/16/2563428/speed-joy",
+          "domain": "philstar.com",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:1bb-antibody-biolab": {
+      "id": "philippines:1bb-antibody-biolab",
+      "country": "Philippines",
+      "terms": [
+        "1bb",
+        "antibody",
+        "biolab",
+        "bispecific",
+        "cancer",
+        "colorectal",
+        "enrolls",
+        "leads"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Leads Biolab Opamtistomig ( PD - L1 / 4 - 1BB Bispecific Antibody ) Enrolls First Patient in Phase Ib / II Combination Trial in Metastatic Colorectal Cancer",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/leads-biolabs-opamtistomig-pd-l14-1bb-bispecific-antibody-enrolls-first-patient-in-phase-ibii-combination-trial-in-metastatic-colorectal-cancer/2447217",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:cagayan-construction-jojo": {
+      "id": "philippines:cagayan-construction-jojo",
+      "country": "Philippines",
+      "terms": [
+        "cagayan",
+        "construction",
+        "jojo",
+        "lara",
+        "ombudsman",
+        "plunder",
+        "potential",
+        "probes"
+      ],
+      "domains": [
+        "rappler.com"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Ombudsman probes Cagayan Jojo Lara for potential plunder over construction ties",
+          "url": "https://www.rappler.com/philippines/ombudsman-preliminary-investigation-jojo-lara-plunder-construction-ties/",
+          "domain": "rappler.com",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:day-goosehead-insurance": {
+      "id": "philippines:day-goosehead-insurance",
+      "country": "Philippines",
+      "terms": [
+        "day",
+        "goosehead",
+        "insurance",
+        "reschedules",
+        "investor"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Goosehead Insurance , Inc . Reschedules Investor Day to March 31 , 2027",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/goosehead-insurance-inc-reschedules-investor-day-to-march-31-2027/2447051",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:calendar-coop-correction": {
+      "id": "philippines:calendar-coop-correction",
+      "country": "Philippines",
+      "terms": [
+        "calendar",
+        "coop",
+        "correction",
+        "pank",
+        "financial"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Correction : Coop Pank AS Financial Calendar for 2027",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/correction-coop-pank-as-financial-calendar-for-2027/2447600",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:black-bosch-cooking": {
+      "id": "philippines:black-bosch-cooking",
+      "country": "Philippines",
+      "terms": [
+        "black",
+        "bosch",
+        "cooking",
+        "home",
+        "kitchens",
+        "modern",
+        "philippines",
+        "range"
+      ],
+      "domains": [
+        "philstar.com"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Bosch Home Philippines redefines modern kitchens with Black Series 8 Cooking Range",
+          "url": "https://www.philstar.com/lifestyle/modern-living/2026/10/16/2562936/bosch-home-philippines-redefines-modern-kitchens-black-series-8-cooking-range",
+          "domain": "philstar.com",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:15th-critical-eastport": {
+      "id": "philippines:15th-critical-eastport",
+      "country": "Philippines",
+      "terms": [
+        "15th",
+        "critical",
+        "eastport",
+        "metals",
+        "minerals",
+        "precious",
+        "present",
+        "virtual"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Eastport Critical Metals Corp . to Present at the Precious Metals & Critical Minerals Virtual Investor Conference October 15th",
+          "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/eastport-critical-metals-corp-to-present-at-the-precious-metals-critical-minerals-virtual-investor-conference-october-15th/2446571",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:bts-extraordinary-general": {
+      "id": "philippines:bts-extraordinary-general",
+      "country": "Philippines",
+      "terms": [
+        "bts",
+        "extraordinary",
+        "general",
+        "notice",
+        "publ",
+        "group",
+        "meeting"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Notice to Extraordinary General Meeting for BTS Group AB ( publ )",
+          "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/notice-to-extraordinary-general-meeting-for-bts-group-ab-publ/2446745",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:banking-businessworld-channels": {
+      "id": "philippines:banking-businessworld-channels",
+      "country": "Philippines",
+      "terms": [
+        "banking",
+        "channels",
+        "haus",
+        "p499m",
+        "talk",
+        "land",
+        "projects",
+        "businessworld"
+      ],
+      "domains": [
+        "bworldonline.com"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Haus Talk channels P499M into projects , land banking - BusinessWorld Online",
+          "url": "http://bworldonline.com/corporate/2026/10/15/787278/haus-talk-channels-p499m-into-projects-land-banking/",
+          "domain": "bworldonline.com",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:combs-diddy-prison": {
+      "id": "philippines:combs-diddy-prison",
+      "country": "Philippines",
+      "terms": [
+        "combs",
+        "diddy",
+        "prison",
+        "sean",
+        "transferred",
+        "smaller"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Sean  Diddy  Combs transferred to smaller US prison",
+          "url": "https://www.manilatimes.net/2026/10/17/world/americas-emea/sean-diddy-combs-transferred-to-smaller-us-prison/2447814",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:23m-crypto-ethereum": {
+      "id": "philippines:23m-crypto-ethereum",
+      "country": "Philippines",
+      "terms": [
+        "23m",
+        "crypto",
+        "ethereum",
+        "fast",
+        "pepeto",
+        "points",
+        "prediction",
+        "price"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "New Crypto : Pepeto Announces $11 . 23M Raised Fast While the Ethereum Price Prediction Points to $10 , 000",
+          "url": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/new-crypto-pepeto-announces-1123m-raised-fast-while-the-ethereum-price-prediction-points-to-10000/2447714",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:confiscated-explosives-hezbollah": {
+      "id": "philippines:confiscated-explosives-hezbollah",
+      "country": "Philippines",
+      "terms": [
+        "confiscated",
+        "explosives",
+        "hezbollah",
+        "lebanon",
+        "official",
+        "rubio",
+        "return",
+        "urges"
+      ],
+      "domains": [
+        "bworldonline.com"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Rubio urges Lebanon to not return confiscated explosives to Hezbollah , US official says",
+          "url": "https://bworldonline.com/world/2026/10/16/787371/rubio-urges-lebanon-to-not-return-confiscated-explosives-to-hezbollah-us-official-says/",
+          "domain": "bworldonline.com",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:aerospace-ceo-certain": {
+      "id": "philippines:aerospace-ceo-certain",
+      "country": "Philippines",
+      "terms": [
+        "aerospace",
+        "ceo",
+        "certain",
+        "chairman",
+        "comments",
+        "commercial",
+        "company",
+        "engine"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Park Aerospace Corp . Chairman and CEO Comments on Certain Incorrect Reporting About the Robustness of the Ramp - Up of the Company Commercial Aircraft Jet Engine Business",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/park-aerospace-corp-chairman-and-ceo-comments-on-certain-incorrect-reporting-about-the-robustness-of-the-ramp-up-of-the-companys-commercial-aircraft-jet-engine-business/2447119",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:backlash-execution-fierce": {
+      "id": "philippines:backlash-execution-fierce",
+      "country": "Philippines",
+      "terms": [
+        "backlash",
+        "execution",
+        "fierce",
+        "scraps",
+        "livestream",
+        "plan"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Trump scraps plan to livestream execution after fierce backlash",
+          "url": "https://www.manilatimes.net/2026/10/16/world/americas-emea/trump-scraps-plan-to-livestream-execution-after-fierce-backlash/2447187",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:among-attacks-casualty": {
+      "id": "philippines:among-attacks-casualty",
+      "country": "Philippines",
+      "terms": [
+        "among",
+        "casualty",
+        "civilian",
+        "deadliest",
+        "intensify",
+        "rates",
+        "attacks",
+        "energy"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-17"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17",
+      "samples": [
+        {
+          "title": "Ukraine : Civilian casualty rates among  deadliest  in years , as energy attacks intensify",
+          "url": "https://www.manilatimes.net/2026/10/17/world/un-news/ukraine-civilian-casualty-rates-among-deadliest-in-years-as-energy-attacks-intensify/2447865",
+          "domain": "manilatimes.net",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "philippines:chinese-chokehold-filipinos": {
+      "id": "philippines:chinese-chokehold-filipinos",
+      "country": "Philippines",
+      "terms": [
+        "chinese",
+        "chokehold",
+        "filipinos",
+        "intel",
+        "microdramas",
+        "trend",
+        "watching",
+        "you"
+      ],
+      "domains": [
+        "rappler.com"
+      ],
+      "daysSeen": [
+        "2026-10-17"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17",
+      "samples": [
+        {
+          "title": "Trend Intel : Chinese microdramas have Filipinos in a chokehold – are you watching ?",
+          "url": "https://www.rappler.com/culture-desk/trend-intel-chinese-microdramas-craze-filipinos/",
+          "domain": "rappler.com",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "philippines:car-deal-france": {
+      "id": "philippines:car-deal-france",
+      "country": "Philippines",
+      "terms": [
+        "car",
+        "deal",
+        "france",
+        "future",
+        "germany",
+        "industry",
+        "reach"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "France , Germany reach deal on future of car industry",
+          "url": "https://www.manilatimes.net/2026/10/16/world/americas-emea/france-germany-reach-deal-on-future-of-car-industry/2447188",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:adults-automated-cleared": {
+      "id": "philippines:adults-automated-cleared",
+      "country": "Philippines",
+      "terms": [
+        "adults",
+        "automated",
+        "cleared",
+        "delivery",
+        "diabetes",
+        "insulin",
+        "system",
+        "twiist"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "twiist™ Automated Insulin Delivery System is Now Cleared for Adults with Type 2 Diabetes",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/twiist-automated-insulin-delivery-system-is-now-cleared-for-adults-with-type-2-diabetes/2447457",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:advance-along-bird": {
+      "id": "philippines:advance-along-bird",
+      "country": "Philippines",
+      "terms": [
+        "along",
+        "bird",
+        "migration",
+        "negros",
+        "occidental",
+        "wind",
+        "advance",
+        "projects"
+      ],
+      "domains": [
+        "rappler.com"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "11 Negros Occidental wind projects advance along bird migration route",
+          "url": "https://www.rappler.com/philippines/visayas/negros-occidental-wind-projects-advance-along-bird-migration-route/",
+          "domain": "rappler.com",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:bangkok-five-gym": {
+      "id": "philippines:bangkok-five-gym",
+      "country": "Philippines",
+      "terms": [
+        "bangkok",
+        "gym",
+        "location",
+        "locations",
+        "plans",
+        "thailand",
+        "world",
+        "five"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "World Gym Announces Second Bangkok Location , Plans for 30 Thailand Locations in Five Years",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/pr-newswire/world-gym-announces-second-bangkok-location-plans-for-30-thailand-locations-in-five-years/2447333",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:fourth-kicks-league": {
+      "id": "philippines:fourth-kicks-league",
+      "country": "Philippines",
+      "terms": [
+        "fourth",
+        "kicks",
+        "league",
+        "matchups",
+        "national",
+        "season",
+        "squash",
+        "studded"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "National Squash League Kicks Off Fourth Season with Star - Studded Matchups",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/national-squash-league-kicks-off-fourth-season-with-star-studded-matchups/2446922",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:coron-discovery-exclusive": {
+      "id": "philippines:coron-discovery-exclusive",
+      "country": "Philippines",
+      "terms": [
+        "coron",
+        "discovery",
+        "exclusive",
+        "pass",
+        "stay",
+        "unveils",
+        "way",
+        "your"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Discovery Coron unveils exclusive Stay Your Way Pass",
+          "url": "https://www.manilatimes.net/2026/10/16/entertainment-lifestyle/life-times/discovery-coron-unveils-exclusive-stay-your-way-pass/2447154",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:campaign-canada-celebrate": {
+      "id": "philippines:campaign-canada-celebrate",
+      "country": "Philippines",
+      "terms": [
+        "campaign",
+        "celebrate",
+        "creating",
+        "decades",
+        "games",
+        "legacies",
+        "since",
+        "canada"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Canada Games Celebrate Six Decades of Creating Legacies in  Since 1967  Campaign",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/canada-games-celebrate-six-decades-of-creating-legacies-in-since-1967-campaign/2447106",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:amusement-coaster-days": {
+      "id": "philippines:amusement-coaster-days",
+      "country": "Philippines",
+      "terms": [
+        "amusement",
+        "coaster",
+        "days",
+        "death",
+        "georgia",
+        "reopen",
+        "roller",
+        "scheduled"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Georgia amusement park to reopen as scheduled days after roller coaster death",
+          "url": "https://www.manilatimes.net/2026/10/17/world/americas-emea/georgia-amusement-park-to-reopen-as-scheduled-days-after-roller-coaster-death/2447801",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:aside-bbm-can": {
+      "id": "philippines:aside-bbm-can",
+      "country": "Philippines",
+      "terms": [
+        "aside",
+        "bbm",
+        "pail",
+        "these",
+        "water",
+        "can",
+        "nino"
+      ],
+      "domains": [
+        "philstar.com"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Aside from water pail , BBM can do these vs El Niño",
+          "url": "https://www.philstar.com/opinion/2026/10/16/2563493/aside-water-pail-bbm-can-do-these-vs-el-nio",
+          "domain": "philstar.com",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:22nd-century-pinnacle": {
+      "id": "philippines:22nd-century-pinnacle",
+      "country": "Philippines",
+      "terms": [
+        "22nd",
+        "century",
+        "pinnacle",
+        "pure",
+        "sales",
+        "store",
+        "surge",
+        "unit"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "22nd Century Same Store Unit Sales for Pinnacle VLN® and Pinnacle Pure Surge 161 %",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/22nd-century-same-store-unit-sales-for-pinnacle-vln-and-pinnacle-pure-surge-161/2447079",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:everyone-isnt-laugh": {
+      "id": "philippines:everyone-isnt-laugh",
+      "country": "Philippines",
+      "terms": [
+        "everyone",
+        "isnt",
+        "laugh",
+        "luis",
+        "making",
+        "manzano",
+        "when"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-17"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17",
+      "samples": [
+        {
+          "title": "When Luis Manzano isnt making everyone laugh",
+          "url": "https://www.manilatimes.net/2026/10/17/tmt-newswire/when-luis-manzano-isnt-making-everyone-laugh/2447862",
+          "domain": "manilatimes.net",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "philippines:blaize-common-distribution": {
+      "id": "philippines:blaize-common-distribution",
+      "country": "Philippines",
+      "terms": [
+        "blaize",
+        "common",
+        "distribution",
+        "facilitate",
+        "holders",
+        "holdings",
+        "intended",
+        "necessary"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-17"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17",
+      "samples": [
+        {
+          "title": "Blaize Holdings , Inc . Announces Distribution of Series B Preferred Stock to Holders of its Common Stock Intended to Facilitate a Reverse Stock Split , if Necessary",
+          "url": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/blaize-holdings-inc-announces-distribution-of-series-b-preferred-stock-to-holders-of-its-common-stock-intended-to-facilitate-a-reverse-stock-split-if-necessary/2447824",
+          "domain": "manilatimes.net",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "philippines:act-deregister-exchange": {
+      "id": "philippines:act-deregister-exchange",
+      "country": "Philippines",
+      "terms": [
+        "act",
+        "deregister",
+        "exchange",
+        "files",
+        "form",
+        "obligations",
+        "plc",
+        "sec"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Waldencast plc Files Form 15 to Deregister its Securities and Suspend its SEC Reporting Obligations under the Exchange Act",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/waldencast-plc-files-form-15-to-deregister-its-securities-and-suspend-its-sec-reporting-obligations-under-the-exchange-act/2447069",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:chain-cheetah-consent": {
+      "id": "philippines:chain-cheetah-consent",
+      "country": "Philippines",
+      "terms": [
+        "chain",
+        "cheetah",
+        "consent",
+        "net",
+        "regarding",
+        "service",
+        "solicitation",
+        "statement"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Cheetah Net Supply Chain Service Inc . Statement Regarding Preliminary Stockholder Consent Solicitation",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/cheetah-net-supply-chain-service-inc-statement-regarding-preliminary-stockholder-consent-solicitation/2447035",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:cap-compliance-edgar": {
+      "id": "philippines:cap-compliance-edgar",
+      "country": "Philippines",
+      "terms": [
+        "cap",
+        "compliance",
+        "edgar",
+        "filing",
+        "inline",
+        "issuers",
+        "readiness",
+        "small"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "M2 Compliance Sponsors 2026 ThinkEquity Conference , Highlighting EDGAR and Inline XBRL Filing Readiness for Small - Cap Issuers",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/m2-compliance-sponsors-2026-thinkequity-conference-highlighting-edgar-and-inline-xbrl-filing-readiness-for-small-cap-issuers/2446986",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:behind-boom-burden": {
+      "id": "philippines:behind-boom-burden",
+      "country": "Philippines",
+      "terms": [
+        "behind",
+        "boom",
+        "burden",
+        "coreweave",
+        "debt",
+        "growing",
+        "spotlights",
+        "slump"
+      ],
+      "domains": [
+        "bworldonline.com"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "CoreWeave slump spotlights growing burden of debt behind AI boom",
+          "url": "https://bworldonline.com/technology/2026/10/16/787383/coreweaves-slump-spotlights-growing-burden-of-debt-behind-ai-boom/",
+          "domain": "bworldonline.com",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:alstom-anglia-contract": {
+      "id": "philippines:alstom-anglia-contract",
+      "country": "Philippines",
+      "terms": [
+        "alstom",
+        "anglia",
+        "contract",
+        "euro",
+        "extension",
+        "greater",
+        "kingdom",
+        "secures"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "ALSTOM S . A : Alstom secures 15 - year services contract extension worth nearly 1 billion euro from Greater Anglia in the United Kingdom",
+          "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/alstom-sa-alstom-secures-15-year-services-contract-extension-worth-nearly-1-billion-euro-from-greater-anglia-in-the-united-kingdom/2446888",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:before-paycheck-payday": {
+      "id": "philippines:before-paycheck-payday",
+      "country": "Philippines",
+      "terms": [
+        "before",
+        "paycheck",
+        "payday",
+        "point",
+        "runs",
+        "vantage",
+        "when"
+      ],
+      "domains": [
+        "rappler.com"
+      ],
+      "daysSeen": [
+        "2026-10-17"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17",
+      "samples": [
+        {
+          "title": "[ Vantage Point ] When a paycheck runs out before payday",
+          "url": "https://www.rappler.com/voices/thought-leaders/vantage-point-when-paycheck-runs-out-before-payday-credit-card-debt-philippines/",
+          "domain": "rappler.com",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "philippines:anavex-application-blarcamesine": {
+      "id": "philippines:anavex-application-blarcamesine",
+      "country": "Philippines",
+      "terms": [
+        "anavex",
+        "application",
+        "blarcamesine",
+        "clearance",
+        "fda",
+        "fragile",
+        "ind",
+        "receives"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Anavex Receives FDA Clearance of its IND Application for Blarcamesine in Fragile X Syndrome",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/anavex-receives-fda-clearance-of-its-ind-application-for-blarcamesine-in-fragile-x-syndrome/2447028",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:ended-gross-kandal": {
+      "id": "philippines:ended-gross-kandal",
+      "country": "Philippines",
+      "terms": [
+        "ended",
+        "gross",
+        "kandal",
+        "limited",
+        "months",
+        "profit",
+        "september",
+        "significant"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Kandal M Venture Limited Reports Significant Gross Profit Growth of 45 % in Financial Results for the Six Months Ended September 30 , 2026",
+          "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/kandal-m-venture-limited-reports-significant-gross-profit-growth-of-45-in-financial-results-for-the-six-months-ended-september-30-2026/2446567",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:acccess-collapse-complete": {
+      "id": "philippines:acccess-collapse-complete",
+      "country": "Philippines",
+      "terms": [
+        "acccess",
+        "collapse",
+        "complete",
+        "concentric",
+        "data",
+        "isss",
+        "month",
+        "patients"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Full 12 - Month Data from the ACCCESS U . S . Pivotal Study in Complete Concentric Collapse Patients Presented at ISSS 2026",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/full-12-month-data-from-the-acccess-us-pivotal-study-in-complete-concentric-collapse-patients-presented-at-isss-2026/2447060",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:closing-compression-condor": {
+      "id": "philippines:closing-compression-condor",
+      "country": "Philippines",
+      "terms": [
+        "closing",
+        "compression",
+        "condor",
+        "facilities",
+        "field",
+        "financing",
+        "fund",
+        "investments"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Condor Announces Closing of C$72 Million Financing to Fund Infrastructure Investments for Field Compression in Uzbekistan and Modular LNG Facilities in Kazakhstan",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/condor-announces-closing-of-c72-million-financing-to-fund-infrastructure-investments-for-field-compression-in-uzbekistan-and-modular-lng-facilities-in-kazakhstan/2447015",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:archimedes-forge-nano": {
+      "id": "philippines:archimedes-forge-nano",
+      "country": "Philippines",
+      "terms": [
+        "archimedes",
+        "forge",
+        "nano",
+        "partners",
+        "proposed",
+        "shareholder",
+        "spac",
+        "tech"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Archimedes Tech SPAC Partners II Co . Announces Shareholder Approval of Proposed Business Combination with Forge Nano , Inc .",
+          "url": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/archimedes-tech-spac-partners-ii-co-announces-shareholder-approval-of-proposed-business-combination-with-forge-nano-inc/2447789",
+          "domain": "manilatimes.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:annual-capital-initiatives": {
+      "id": "philippines:annual-capital-initiatives",
+      "country": "Philippines",
+      "terms": [
+        "annual",
+        "capital",
+        "initiatives",
+        "select",
+        "shareholders",
+        "sndl",
+        "special",
+        "meeting"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "SNDL Announces 2026 Annual and Special Shareholders Meeting Results , Select Preliminary Third Quarter Results and Capital Return Initiatives",
+          "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/sndl-announces-2026-annual-and-special-shareholders-meeting-results-select-preliminary-third-quarter-results-and-capital-return-initiatives/2447100",
+          "domain": "manilatimes.net",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:exams-passing-physician": {
+      "id": "philippines:exams-passing-physician",
+      "country": "Philippines",
+      "terms": [
+        "exams",
+        "passing",
+        "physician",
+        "posts",
+        "rate",
+        "thomasians",
+        "top",
+        "ust"
+      ],
+      "domains": [
+        "varsitarian.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "7 Thomasians land in top 10 of physician board exams ; UST posts 100 % passing rate",
+          "url": "https://varsitarian.net/7-thomasians-land-in-top-10-of-physician-board-exams-ust-posts-100-passing-rate/",
+          "domain": "varsitarian.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:crop-damage-farmers": {
+      "id": "philippines:crop-damage-farmers",
+      "country": "Philippines",
+      "terms": [
+        "crop",
+        "damage",
+        "farmers",
+        "losses",
+        "p540",
+        "reel",
+        "reported",
+        "mindanao"
+      ],
+      "domains": [
+        "davaotoday.com"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "EL NIÑO WATCH : Mindanao farmers reel from El Niño crop losses , P540 million in damage reported",
+          "url": "https://davaotoday.com/headline/el-nino-watch-mindanao-farmers-reel-from-el-nino-crop-losses-p540-million-in-damage-reported/",
+          "domain": "davaotoday.com",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:chao-criticized-elaine": {
+      "id": "philippines:chao-criticized-elaine",
+      "country": "Philippines",
+      "terms": [
+        "chao",
+        "criticized",
+        "elaine",
+        "figures",
+        "kindergarten",
+        "remarks",
+        "right",
+        "visit"
+      ],
+      "domains": [
+        "shangbao.com.ph"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "U . S . right - wing figures criticized over remarks on Elaine Chao Shanghai kindergarten visit",
+          "url": "http://www.shangbao.com.ph/zgxw/2026/10-16/206749.shtml",
+          "domain": "shangbao.com.ph",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:beyond-climate-distress": {
+      "id": "philippines:beyond-climate-distress",
+      "country": "Philippines",
+      "terms": [
+        "beyond",
+        "climate",
+        "distress",
+        "individual",
+        "mental",
+        "neglect",
+        "neoliberal",
+        "resilience"
+      ],
+      "domains": [
+        "davaotoday.com"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Beyond individual resilience : Climate shocks , neoliberal neglect , and the structural roots of mental distress",
+          "url": "https://davaotoday.com/todays-views/beyond-individual-resilience-climate-shocks-neoliberal-neglect-and-the-structural-roots-of-mental-distress/",
+          "domain": "davaotoday.com",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:exercise-futility": {
+      "id": "philippines:exercise-futility",
+      "country": "Philippines",
+      "terms": [
+        "exercise",
+        "futility"
+      ],
+      "domains": [
+        "tribune.net.ph"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "An exercise in futility",
+          "url": "https://tribune.net.ph/2026/10/15/an-exercise-in-futility",
+          "domain": "tribune.net.ph",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:greenback-hits-low": {
+      "id": "philippines:greenback-hits-low",
+      "country": "Philippines",
+      "terms": [
+        "greenback",
+        "low",
+        "peso",
+        "record",
+        "hits"
+      ],
+      "domains": [
+        "tribune.net.ph"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "Peso hits record - low 63 . 06 vs greenback",
+          "url": "https://tribune.net.ph/2026/10/15/peso-hits-record-low-6306-vs-greenback",
+          "domain": "tribune.net.ph",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "philippines:aquino-canadian-filipino": {
+      "id": "philippines:aquino-canadian-filipino",
+      "country": "Philippines",
+      "terms": [
+        "aquino",
+        "canadian",
+        "filipino",
+        "following",
+        "inquirer",
+        "josh",
+        "mockery",
+        "nationwide"
+      ],
+      "domains": [
+        "canadianinquirer.net"
+      ],
+      "daysSeen": [
+        "2026-10-16"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "samples": [
+        {
+          "title": "Senators seek stronger PWD protections following mockery of Josh Aquino - Philippine Canadian Inquirer Nationwide Filipino Newspaper",
+          "url": "https://canadianinquirer.net/2026/10/16/senators-seek-stronger-pwd-protections-following-mockery-of-josh-aquino/",
+          "domain": "canadianinquirer.net",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "philippines:acceptance-advincula-archbishop": {
+      "id": "philippines:acceptance-advincula-archbishop",
+      "country": "Philippines",
+      "terms": [
+        "acceptance",
+        "advincula",
+        "archbishop",
+        "cardinal",
+        "doctorate",
+        "honorary",
+        "speech",
+        "text"
+      ],
+      "domains": [
+        "varsitarian.net"
+      ],
+      "daysSeen": [
+        "2026-10-15"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "samples": [
+        {
+          "title": "FULL TEXT : Manila Archbishop Cardinal Advincula honorary doctorate acceptance speech",
+          "url": "https://varsitarian.net/full-text-manila-archbishop-cardinal-advinculas-honorary-doctorate-acceptance-speech/",
+          "domain": "varsitarian.net",
           "date": "2026-10-15"
         }
       ]
