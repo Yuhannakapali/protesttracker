@@ -351,7 +351,7 @@
     },
     {
       "start": "2022-02-01",
-      "count": 0
+      "count": 1
     },
     {
       "start": "2022-03-01",
@@ -658,6 +658,12 @@
       "last": "2025-02-06"
     },
     {
+      "name": "Diario La Quinta",
+      "count": 5,
+      "first": "2018-06-01",
+      "last": "2022-02-14"
+    },
+    {
       "name": "La Tercera",
       "count": 5,
       "first": "2018-06-04",
@@ -698,12 +704,6 @@
       "count": 4,
       "first": "2026-04-20",
       "last": "2026-07-15"
-    },
-    {
-      "name": "Diario La Quinta",
-      "count": 4,
-      "first": "2018-06-01",
-      "last": "2022-01-18"
     },
     {
       "name": "El Desconcierto",
