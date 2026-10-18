@@ -115,33 +115,33 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2090
+      "count": 2101
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 307,
+      "count": 312,
       "first": "2026-06-06",
       "last": "2026-10-18"
     },
     {
       "name": "The Times of India",
-      "count": 221,
+      "count": 222,
       "first": "2026-06-06",
       "last": "2026-10-18"
     },
     {
       "name": "NDTV",
-      "count": 197,
+      "count": 198,
       "first": "2026-05-12",
       "last": "2026-10-18"
     },
     {
       "name": "The New Indian Express",
-      "count": 168,
+      "count": 169,
       "first": "2026-07-22",
-      "last": "2026-10-17"
+      "last": "2026-10-18"
     },
     {
       "name": "Hindustan Times",
@@ -228,20 +228,20 @@
       "last": "2026-10-17"
     },
     {
+      "name": "The Statesman",
+      "count": 37,
+      "first": "2026-08-18",
+      "last": "2026-10-18"
+    },
+    {
       "name": "Telangana Today",
       "count": 36,
       "first": "2026-07-25",
       "last": "2026-10-18"
     },
     {
-      "name": "The Statesman",
-      "count": 36,
-      "first": "2026-08-18",
-      "last": "2026-10-17"
-    },
-    {
       "name": "Deccan Chronicle",
-      "count": 34,
+      "count": 35,
       "first": "2026-08-16",
       "last": "2026-10-16"
     },
@@ -282,16 +282,16 @@
       "last": "2026-10-16"
     },
     {
+      "name": "EdexLive",
+      "count": 26,
+      "first": "2024-06-18",
+      "last": "2026-10-17"
+    },
+    {
       "name": "Bhaskar English",
       "count": 25,
       "first": "2026-07-22",
       "last": "2026-10-18"
-    },
-    {
-      "name": "EdexLive",
-      "count": 25,
-      "first": "2024-06-18",
-      "last": "2026-09-26"
     },
     {
       "name": "The Business Standard",
@@ -498,7 +498,7 @@
       "last": "2026-10-13"
     },
     {
-      "name": "Bloomberg",
+      "name": "Bloomberg.com",
       "count": 9,
       "first": "2026-08-10",
       "last": "2026-10-16"
@@ -576,6 +576,12 @@
       "last": "2026-10-15"
     },
     {
+      "name": "France 24",
+      "count": 7,
+      "first": "2026-07-18",
+      "last": "2026-10-18"
+    },
+    {
       "name": "Kashmir Observer",
       "count": 7,
       "first": "2026-09-18",
@@ -597,12 +603,6 @@
       "name": "CNA",
       "count": 6,
       "first": "2026-10-10",
-      "last": "2026-10-16"
-    },
-    {
-      "name": "France 24",
-      "count": 6,
-      "first": "2026-07-18",
       "last": "2026-10-16"
     },
     {
@@ -1144,12 +1144,6 @@
       "count": 2,
       "first": "2026-07-20",
       "last": "2026-10-09"
-    },
-    {
-      "name": "Modern Ghana",
-      "count": 2,
-      "first": "2026-10-16",
-      "last": "2026-10-18"
     },
     {
       "name": "Mumbai Mirror",
@@ -1852,6 +1846,12 @@
       "count": 1,
       "first": "2026-10-10",
       "last": "2026-10-10"
+    },
+    {
+      "name": "Modern Ghana",
+      "count": 1,
+      "first": "2026-10-16",
+      "last": "2026-10-16"
     },
     {
       "name": "Moneylife",
