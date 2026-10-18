@@ -115,21 +115,21 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2068
+      "count": 2075
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 302,
+      "count": 304,
       "first": "2026-06-06",
-      "last": "2026-10-17"
+      "last": "2026-10-18"
     },
     {
       "name": "The Times of India",
-      "count": 219,
+      "count": 221,
       "first": "2026-06-06",
-      "last": "2026-10-17"
+      "last": "2026-10-18"
     },
     {
       "name": "NDTV",
@@ -145,15 +145,15 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 160,
+      "count": 161,
       "first": "2026-06-06",
-      "last": "2026-10-17"
+      "last": "2026-10-18"
     },
     {
       "name": "The Indian Express",
-      "count": 152,
+      "count": 153,
       "first": "2026-07-24",
-      "last": "2026-10-17"
+      "last": "2026-10-18"
     },
     {
       "name": "India Today",
@@ -175,9 +175,9 @@
     },
     {
       "name": "The Economic Times",
-      "count": 85,
+      "count": 86,
       "first": "2026-06-06",
-      "last": "2026-10-17"
+      "last": "2026-10-18"
     },
     {
       "name": "ThePrint",
@@ -756,12 +756,6 @@
       "last": "2026-10-02"
     },
     {
-      "name": "Le Monde.fr",
-      "count": 4,
-      "first": "2026-09-28",
-      "last": "2026-10-17"
-    },
-    {
       "name": "Millat Times",
       "count": 4,
       "first": "2026-08-21",
@@ -852,6 +846,12 @@
       "last": "2026-09-11"
     },
     {
+      "name": "Arab News",
+      "count": 3,
+      "first": "2026-10-10",
+      "last": "2026-10-17"
+    },
+    {
       "name": "BW Police World",
       "count": 3,
       "first": "2026-10-13",
@@ -922,6 +922,12 @@
       "count": 3,
       "first": "2026-10-09",
       "last": "2026-10-17"
+    },
+    {
+      "name": "Le Monde.fr",
+      "count": 3,
+      "first": "2026-09-28",
+      "last": "2026-10-14"
     },
     {
       "name": "Malay Mail",
@@ -1021,18 +1027,6 @@
     },
     {
       "name": "AFP.com",
-      "count": 2,
-      "first": "2026-10-10",
-      "last": "2026-10-11"
-    },
-    {
-      "name": "Anadolu Ajansı",
-      "count": 2,
-      "first": "2026-10-02",
-      "last": "2026-10-17"
-    },
-    {
-      "name": "Arab News",
       "count": 2,
       "first": "2026-10-10",
       "last": "2026-10-11"
@@ -1326,6 +1320,12 @@
       "last": "2026-08-17"
     },
     {
+      "name": "A News",
+      "count": 1,
+      "first": "2026-10-17",
+      "last": "2026-10-17"
+    },
+    {
       "name": "ACLED",
       "count": 1,
       "first": "2026-07-27",
@@ -1360,6 +1360,12 @@
       "count": 1,
       "first": "2026-10-14",
       "last": "2026-10-14"
+    },
+    {
+      "name": "Anadolu Ajansı",
+      "count": 1,
+      "first": "2026-10-02",
+      "last": "2026-10-02"
     },
     {
       "name": "AppleValleyNewsNow.com",
@@ -2245,5 +2251,5 @@
     }
   ],
   "firstDate": "2024-06-18",
-  "lastDate": "2026-10-17"
+  "lastDate": "2026-10-18"
 }
