@@ -139,7 +139,7 @@
     },
     {
       "start": "2017-09-01",
-      "count": 3
+      "count": 4
     },
     {
       "start": "2017-10-01",
@@ -523,7 +523,7 @@
     },
     {
       "start": "2025-09-01",
-      "count": 7
+      "count": 8
     },
     {
       "start": "2025-10-01",
@@ -575,7 +575,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 40
+      "count": 41
     }
   ],
   "sources": [
@@ -682,6 +682,18 @@
       "last": "2019-12-24"
     },
     {
+      "name": "Cooperativa",
+      "count": 4,
+      "first": "2016-10-08",
+      "last": "2026-10-18"
+    },
+    {
+      "name": "Diario El Mundo",
+      "count": 4,
+      "first": "2017-09-05",
+      "last": "2025-05-02"
+    },
+    {
       "name": "Diario Junio",
       "count": 4,
       "first": "2026-04-20",
@@ -718,22 +730,10 @@
       "last": "2026-07-27"
     },
     {
-      "name": "Cooperativa",
-      "count": 3,
-      "first": "2016-10-08",
-      "last": "2021-12-29"
-    },
-    {
       "name": "Democracy Now!",
       "count": 3,
       "first": "2017-03-27",
       "last": "2019-10-29"
-    },
-    {
-      "name": "Diario El Mundo",
-      "count": 3,
-      "first": "2020-01-30",
-      "last": "2025-05-02"
     },
     {
       "name": "Ex-ante",
@@ -980,6 +980,12 @@
       "count": 1,
       "first": "2019-10-26",
       "last": "2019-10-26"
+    },
+    {
+      "name": "Bolognesi Noticias",
+      "count": 1,
+      "first": "2025-09-15",
+      "last": "2025-09-15"
     },
     {
       "name": "Business News Nigeria",
