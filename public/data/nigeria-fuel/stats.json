@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 136
+      "count": 138
     }
   ],
   "sources": [
@@ -831,9 +831,9 @@
     },
     {
       "name": "Vanguard",
-      "count": 75,
+      "count": 76,
       "first": "2026-09-02",
-      "last": "2026-10-18"
+      "last": "2026-10-19"
     },
     {
       "name": "Channels Television",
@@ -1148,6 +1148,12 @@
       "last": "2024-06-03"
     },
     {
+      "name": "Real Broadcasting Network",
+      "count": 2,
+      "first": "2026-10-08",
+      "last": "2026-10-12"
+    },
+    {
       "name": "The ICIR",
       "count": 2,
       "first": "2023-10-01",
@@ -1442,12 +1448,6 @@
       "last": "2026-03-12"
     },
     {
-      "name": "Real Broadcasting Network",
-      "count": 1,
-      "first": "2026-10-08",
-      "last": "2026-10-08"
-    },
-    {
       "name": "Starconnect Media",
       "count": 1,
       "first": "2023-05-31",
@@ -1515,5 +1515,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-18"
+  "lastDate": "2026-10-19"
 }
