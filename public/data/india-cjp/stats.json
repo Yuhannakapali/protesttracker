@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2155
+      "count": 2165
     }
   ],
   "sources": [
@@ -133,19 +133,19 @@
     },
     {
       "name": "NDTV",
-      "count": 200,
+      "count": 201,
       "first": "2026-05-12",
       "last": "2026-10-19"
     },
     {
       "name": "The New Indian Express",
-      "count": 171,
+      "count": 173,
       "first": "2026-07-22",
       "last": "2026-10-19"
     },
     {
       "name": "Hindustan Times",
-      "count": 167,
+      "count": 169,
       "first": "2026-06-06",
       "last": "2026-10-19"
     },
@@ -157,7 +157,7 @@
     },
     {
       "name": "India Today",
-      "count": 139,
+      "count": 140,
       "first": "2026-07-15",
       "last": "2026-10-19"
     },
@@ -169,9 +169,9 @@
     },
     {
       "name": "Rediff",
-      "count": 89,
+      "count": 90,
       "first": "2026-06-07",
-      "last": "2026-10-18"
+      "last": "2026-10-19"
     },
     {
       "name": "The Economic Times",
@@ -277,9 +277,9 @@
     },
     {
       "name": "Al Jazeera",
-      "count": 26,
+      "count": 27,
       "first": "2026-05-20",
-      "last": "2026-10-16"
+      "last": "2026-10-19"
     },
     {
       "name": "EdexLive",
@@ -594,6 +594,12 @@
       "last": "2026-10-12"
     },
     {
+      "name": "MorungExpress",
+      "count": 7,
+      "first": "2026-08-20",
+      "last": "2026-10-19"
+    },
+    {
       "name": "Asianet Newsable",
       "count": 6,
       "first": "2026-08-16",
@@ -616,12 +622,6 @@
       "count": 6,
       "first": "2026-10-02",
       "last": "2026-10-16"
-    },
-    {
-      "name": "MorungExpress",
-      "count": 6,
-      "first": "2026-08-20",
-      "last": "2026-10-19"
     },
     {
       "name": "News Arena India",
@@ -984,6 +984,12 @@
       "last": "2026-10-13"
     },
     {
+      "name": "Sandesh",
+      "count": 3,
+      "first": "2026-08-18",
+      "last": "2026-10-16"
+    },
+    {
       "name": "The Conversation",
       "count": 3,
       "first": "2026-08-12",
@@ -1222,12 +1228,6 @@
       "count": 2,
       "first": "2026-09-26",
       "last": "2026-10-09"
-    },
-    {
-      "name": "Sandesh",
-      "count": 2,
-      "first": "2026-08-18",
-      "last": "2026-09-26"
     },
     {
       "name": "Taipei Times",

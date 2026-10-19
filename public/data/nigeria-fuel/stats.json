@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 139
+      "count": 145
     }
   ],
   "sources": [
@@ -831,15 +831,15 @@
     },
     {
       "name": "Vanguard",
-      "count": 77,
+      "count": 79,
       "first": "2026-09-02",
       "last": "2026-10-19"
     },
     {
       "name": "Channels Television",
-      "count": 64,
+      "count": 65,
       "first": "2012-01-04",
-      "last": "2026-10-17"
+      "last": "2026-10-19"
     },
     {
       "name": "The Guardian Nigeria News",
@@ -873,9 +873,9 @@
     },
     {
       "name": "Ripples Nigeria",
-      "count": 25,
+      "count": 26,
       "first": "2023-06-01",
-      "last": "2026-10-09"
+      "last": "2026-10-19"
     },
     {
       "name": "Premium Times",
@@ -908,22 +908,28 @@
       "last": "2026-07-28"
     },
     {
+      "name": "The Sun Nigeria",
+      "count": 16,
+      "first": "2022-11-30",
+      "last": "2026-10-19"
+    },
+    {
       "name": "Arise News",
       "count": 15,
       "first": "2023-06-02",
       "last": "2026-06-04"
     },
     {
-      "name": "The Sun Nigeria",
-      "count": 15,
-      "first": "2022-11-30",
-      "last": "2026-10-08"
-    },
-    {
       "name": "The Whistler Newspaper",
       "count": 14,
       "first": "2020-09-04",
       "last": "2026-10-07"
+    },
+    {
+      "name": "Independent Newspaper Nigeria",
+      "count": 12,
+      "first": "2020-09-07",
+      "last": "2026-10-19"
     },
     {
       "name": "THISDAYLIVE",
@@ -936,12 +942,6 @@
       "count": 11,
       "first": "2012-01-04",
       "last": "2024-08-02"
-    },
-    {
-      "name": "Independent Newspaper Nigeria",
-      "count": 11,
-      "first": "2020-09-07",
-      "last": "2026-10-09"
     },
     {
       "name": "Tribune Online",
