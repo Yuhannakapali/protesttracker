@@ -115,21 +115,21 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2171
+      "count": 2186
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 314,
+      "count": 317,
       "first": "2026-06-06",
-      "last": "2026-10-19"
+      "last": "2026-10-20"
     },
     {
       "name": "The Times of India",
-      "count": 224,
+      "count": 225,
       "first": "2026-06-06",
-      "last": "2026-10-19"
+      "last": "2026-10-20"
     },
     {
       "name": "NDTV",
@@ -139,9 +139,9 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 173,
+      "count": 174,
       "first": "2026-07-22",
-      "last": "2026-10-19"
+      "last": "2026-10-20"
     },
     {
       "name": "Hindustan Times",
@@ -151,9 +151,9 @@
     },
     {
       "name": "The Indian Express",
-      "count": 155,
+      "count": 156,
       "first": "2026-07-24",
-      "last": "2026-10-19"
+      "last": "2026-10-20"
     },
     {
       "name": "India Today",
@@ -175,9 +175,9 @@
     },
     {
       "name": "The Economic Times",
-      "count": 87,
+      "count": 88,
       "first": "2026-06-06",
-      "last": "2026-10-19"
+      "last": "2026-10-20"
     },
     {
       "name": "ThePrint",
@@ -187,9 +187,9 @@
     },
     {
       "name": "ANI News",
-      "count": 77,
+      "count": 78,
       "first": "2026-07-22",
-      "last": "2026-10-18"
+      "last": "2026-10-20"
     },
     {
       "name": "Deccan Herald",
@@ -259,9 +259,15 @@
     },
     {
       "name": "moneycontrol.com",
-      "count": 30,
+      "count": 31,
       "first": "2026-08-18",
-      "last": "2026-10-19"
+      "last": "2026-10-20"
+    },
+    {
+      "name": "TheWire.in",
+      "count": 30,
+      "first": "2026-07-11",
+      "last": "2026-10-20"
     },
     {
       "name": "DW.com",
@@ -270,28 +276,22 @@
       "last": "2026-10-19"
     },
     {
-      "name": "TheWire.in",
-      "count": 29,
-      "first": "2026-07-11",
-      "last": "2026-10-16"
-    },
-    {
       "name": "Al Jazeera",
       "count": 27,
       "first": "2026-05-20",
       "last": "2026-10-19"
     },
     {
+      "name": "Bhaskar English",
+      "count": 26,
+      "first": "2026-07-19",
+      "last": "2026-10-20"
+    },
+    {
       "name": "EdexLive",
       "count": 26,
       "first": "2024-06-18",
       "last": "2026-10-17"
-    },
-    {
-      "name": "Bhaskar English",
-      "count": 25,
-      "first": "2026-07-19",
-      "last": "2026-10-18"
     },
     {
       "name": "The Business Standard",
@@ -336,16 +336,16 @@
       "last": "2026-10-08"
     },
     {
+      "name": "Scroll.in",
+      "count": 18,
+      "first": "2026-07-26",
+      "last": "2026-10-20"
+    },
+    {
       "name": "Reuters",
       "count": 17,
       "first": "2026-07-25",
       "last": "2026-10-19"
-    },
-    {
-      "name": "Scroll.in",
-      "count": 17,
-      "first": "2026-07-26",
-      "last": "2026-10-16"
     },
     {
       "name": "The South First",
@@ -420,6 +420,12 @@
       "last": "2026-10-05"
     },
     {
+      "name": "MillenniumPost",
+      "count": 12,
+      "first": "2026-09-28",
+      "last": "2026-10-20"
+    },
+    {
       "name": "OpIndia",
       "count": 12,
       "first": "2026-08-17",
@@ -438,16 +444,16 @@
       "last": "2026-10-15"
     },
     {
-      "name": "MillenniumPost",
-      "count": 11,
-      "first": "2026-09-28",
-      "last": "2026-10-18"
-    },
-    {
       "name": "CNBC TV18",
       "count": 10,
       "first": "2026-07-30",
       "last": "2026-10-11"
+    },
+    {
+      "name": "Daily Pioneer",
+      "count": 10,
+      "first": "2026-08-17",
+      "last": "2026-10-20"
     },
     {
       "name": "DNA India",
@@ -514,12 +520,6 @@
       "count": 9,
       "first": "2026-07-12",
       "last": "2026-10-13"
-    },
-    {
-      "name": "Daily Pioneer",
-      "count": 9,
-      "first": "2026-08-17",
-      "last": "2026-10-17"
     },
     {
       "name": "Dawn",
@@ -840,6 +840,12 @@
       "last": "2026-10-11"
     },
     {
+      "name": "The News Minute",
+      "count": 4,
+      "first": "2026-08-22",
+      "last": "2026-10-20"
+    },
+    {
       "name": "thehawk.in",
       "count": 4,
       "first": "2026-07-22",
@@ -1006,12 +1012,6 @@
       "count": 3,
       "first": "2026-08-18",
       "last": "2026-10-15"
-    },
-    {
-      "name": "The News Minute",
-      "count": 3,
-      "first": "2026-08-22",
-      "last": "2026-10-17"
     },
     {
       "name": "The Siasat Daily",

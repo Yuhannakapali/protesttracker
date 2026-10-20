@@ -147,7 +147,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 7
+      "count": 8
     }
   ],
   "sources": [
@@ -159,9 +159,9 @@
     },
     {
       "name": "People Daily",
-      "count": 45,
+      "count": 46,
       "first": "2025-11-02",
-      "last": "2026-09-29"
+      "last": "2026-10-20"
     },
     {
       "name": "BBC",
@@ -266,10 +266,10 @@
       "last": "2026-08-27"
     },
     {
-      "name": "standardmedia.co.ke",
-      "count": 6,
-      "first": "2026-04-03",
-      "last": "2026-09-14"
+      "name": "Context News",
+      "count": 5,
+      "first": "2024-06-26",
+      "last": "2025-07-03"
     },
     {
       "name": "France 24",
@@ -284,16 +284,22 @@
       "last": "2025-06-25"
     },
     {
+      "name": "standardmedia.co.ke",
+      "count": 5,
+      "first": "2026-04-03",
+      "last": "2026-09-14"
+    },
+    {
+      "name": "The Standard",
+      "count": 5,
+      "first": "2026-06-22",
+      "last": "2026-09-22"
+    },
+    {
       "name": "Africanews",
       "count": 4,
       "first": "2024-08-13",
       "last": "2026-06-25"
-    },
-    {
-      "name": "Context News",
-      "count": 4,
-      "first": "2024-06-26",
-      "last": "2025-06-25"
     },
     {
       "name": "Dawan Africa",
@@ -306,12 +312,6 @@
       "count": 4,
       "first": "2025-11-20",
       "last": "2026-06-25"
-    },
-    {
-      "name": "The Standard",
-      "count": 4,
-      "first": "2026-06-22",
-      "last": "2026-09-22"
     },
     {
       "name": "theelephant.info",
@@ -342,12 +342,6 @@
       "count": 3,
       "first": "2026-04-21",
       "last": "2026-10-15"
-    },
-    {
-      "name": "CNBC Africa",
-      "count": 3,
-      "first": "2024-06-27",
-      "last": "2025-07-04"
     },
     {
       "name": "Democracy in Africa",
@@ -426,6 +420,12 @@
       "count": 2,
       "first": "2026-06-25",
       "last": "2026-06-27"
+    },
+    {
+      "name": "CNBC Africa",
+      "count": 2,
+      "first": "2024-06-27",
+      "last": "2024-07-01"
     },
     {
       "name": "Jurist.org",
