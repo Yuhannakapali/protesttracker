@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T22:01:26.629Z",
+  "lastUpdated": "2026-10-20T03:32:27.802Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -10,24 +10,24 @@
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 3649,
-      "updated": "22h ago",
+      "articleCount": 3655,
+      "updated": "4h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
         {
-          "title": "'Laal Hit Janta Party': New outfit emerges to counter CJP's protests against CEC Gyanesh Kumar",
-          "source": "The Times of India",
-          "date": "2026-10-19"
+          "title": "New Delhi protest arrests: Court extends Cockroach Janta Party leaders’ detention",
+          "source": "Asia News Network",
+          "date": "2026-10-20"
         },
         {
-          "title": "CJP's new rival? What's the Laal Hit Janta Party gaining traction on social media?",
-          "source": "The Week",
-          "date": "2026-10-19"
+          "title": "How inexperience, strategic missteps hobbled the CJP's anti-CEC protests",
+          "source": "Deccan Herald",
+          "date": "2026-10-20"
         },
         {
-          "title": "India extends detention of top Cockroach Janta Party leaders",
-          "source": "Dawn",
-          "date": "2026-10-19"
+          "title": "Exposing the Anti-Hindu Agenda: How CJP leaders continually insult Sanatana Dharma and back anti-national forces",
+          "source": "Organiser",
+          "date": "2026-10-20"
         }
       ]
     },
@@ -40,10 +40,15 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 906,
-      "updated": "22h ago",
+      "articleCount": 907,
+      "updated": "1d ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
+        {
+          "title": "NLC strike ultimatum fuels Labour-FG tension",
+          "source": "Punch Newspapers",
+          "date": "2026-10-19"
+        },
         {
           "title": "Edo NLC backs NUEE strike, slams BEDC over workers’ welfare, threat of mass sack",
           "source": "The Sun Nigeria",
@@ -53,32 +58,22 @@
           "title": "Edo NLC knocks BEDC Over Poor Workers Welfare, Declares Support For NUEE Strike Action",
           "source": "Independent Newspaper Nigeria",
           "date": "2026-10-19"
-        },
-        {
-          "title": "APM to Tinubu: You’re paying fuel subsidy through back door",
-          "source": "Vanguard",
-          "date": "2026-10-19"
         }
       ]
     },
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
       "articleCount": 435,
-      "updated": "22h ago",
+      "updated": "1d ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
-        {
-          "title": "Políticos reaccionan a pérdidas del Fondo E con sesiones especiales, proyectos de ley y propuestas para adelantar la reforma de pensiones",
-          "source": "The Clinic",
-          "date": "2026-10-19"
-        },
         {
           "title": "¿Las AFPs o el gobierno anterior? Oficialismo y oposición difieren sobre responsable de la caída del Fondo E",
           "source": "Radio Universidad de Chile",
@@ -86,6 +81,11 @@
         },
         {
           "title": "José Luis Ruiz por pérdidas del Fondo E: “Las AFP tienen que explicar por qué este apetito por tomar tanto riesgo”",
+          "source": "Radio Universidad de Chile",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Afiliados de AFP presentan recursos de protección ante millonarias pérdidas del Fondo E",
           "source": "Radio Universidad de Chile",
           "date": "2026-10-19"
         }
@@ -100,10 +100,15 @@
       "location": "Kenya · Nairobi",
       "year": 2024,
       "logged": "2024-06-10",
-      "articleCount": 492,
-      "updated": "5d ago",
+      "articleCount": 493,
+      "updated": "4h ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
+        {
+          "title": "Kenya deployed violent measures to repress youth-led protests, rights group says",
+          "source": "Jurist.org",
+          "date": "2026-10-20"
+        },
         {
           "title": "Gen-Z Kenyans could determine William Ruto’s future",
           "source": "The Economist",
@@ -112,11 +117,6 @@
         {
           "title": "Saboti MP Amisi reveals Raila refused pressure to take over from Ruto during the 2024 Gen Z protests",
           "source": "Daily Nation",
-          "date": "2026-10-15"
-        },
-        {
-          "title": "Motorists Association demands independent audit of EPRA fuel prices, G-to-G oil deal",
-          "source": "Capital FM",
           "date": "2026-10-15"
         }
       ]

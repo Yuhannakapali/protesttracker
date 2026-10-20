@@ -147,7 +147,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 6
+      "count": 7
     }
   ],
   "sources": [
@@ -428,6 +428,12 @@
       "last": "2026-06-27"
     },
     {
+      "name": "Jurist.org",
+      "count": 2,
+      "first": "2025-06-13",
+      "last": "2026-10-20"
+    },
+    {
       "name": "nation.africa",
       "count": 2,
       "first": "2026-06-16",
@@ -644,12 +650,6 @@
       "last": "2025-09-20"
     },
     {
-      "name": "Jurist.org",
-      "count": 1,
-      "first": "2025-06-13",
-      "last": "2025-06-13"
-    },
-    {
       "name": "Kahawatungu",
       "count": 1,
       "first": "2026-08-28",
@@ -849,5 +849,5 @@
     }
   ],
   "firstDate": "2023-10-20",
-  "lastDate": "2026-10-15"
+  "lastDate": "2026-10-20"
 }
