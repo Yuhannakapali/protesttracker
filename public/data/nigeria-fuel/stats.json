@@ -111,7 +111,7 @@
     },
     {
       "start": "2012-01-01",
-      "count": 37
+      "count": 38
     },
     {
       "start": "2012-02-01",
@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 149
+      "count": 150
     }
   ],
   "sources": [
@@ -926,6 +926,12 @@
       "last": "2026-10-07"
     },
     {
+      "name": "Al Jazeera",
+      "count": 12,
+      "first": "2012-01-04",
+      "last": "2024-08-02"
+    },
+    {
       "name": "Independent Newspaper Nigeria",
       "count": 12,
       "first": "2020-09-07",
@@ -936,12 +942,6 @@
       "count": 12,
       "first": "2023-01-26",
       "last": "2026-02-04"
-    },
-    {
-      "name": "Al Jazeera",
-      "count": 11,
-      "first": "2012-01-04",
-      "last": "2024-08-02"
     },
     {
       "name": "Tribune Online",
@@ -1218,6 +1218,12 @@
       "count": 1,
       "first": "2026-08-21",
       "last": "2026-08-21"
+    },
+    {
+      "name": "Atiku tells Tinubu",
+      "count": 1,
+      "first": "2026-10-20",
+      "last": "2026-10-20"
     },
     {
       "name": "Black Agenda Report",

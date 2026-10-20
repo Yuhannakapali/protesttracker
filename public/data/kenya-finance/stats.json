@@ -123,7 +123,7 @@
     },
     {
       "start": "2026-04-01",
-      "count": 22
+      "count": 23
     },
     {
       "start": "2026-05-01",
@@ -159,7 +159,7 @@
     },
     {
       "name": "People Daily",
-      "count": 46,
+      "count": 47,
       "first": "2025-11-02",
       "last": "2026-10-20"
     },
@@ -266,12 +266,6 @@
       "last": "2026-08-27"
     },
     {
-      "name": "Context News",
-      "count": 5,
-      "first": "2024-06-26",
-      "last": "2025-07-03"
-    },
-    {
       "name": "France 24",
       "count": 5,
       "first": "2024-06-26",
@@ -300,6 +294,12 @@
       "count": 4,
       "first": "2024-08-13",
       "last": "2026-06-25"
+    },
+    {
+      "name": "Context News",
+      "count": 4,
+      "first": "2024-06-26",
+      "last": "2025-06-25"
     },
     {
       "name": "Dawan Africa",
@@ -342,6 +342,12 @@
       "count": 3,
       "first": "2026-04-21",
       "last": "2026-10-15"
+    },
+    {
+      "name": "CNBC Africa",
+      "count": 3,
+      "first": "2024-06-27",
+      "last": "2025-07-04"
     },
     {
       "name": "Democracy in Africa",
@@ -420,12 +426,6 @@
       "count": 2,
       "first": "2026-06-25",
       "last": "2026-06-27"
-    },
-    {
-      "name": "CNBC Africa",
-      "count": 2,
-      "first": "2024-06-27",
-      "last": "2024-07-01"
     },
     {
       "name": "Jurist.org",
