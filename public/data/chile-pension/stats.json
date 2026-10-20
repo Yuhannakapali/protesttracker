@@ -575,7 +575,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 57
+      "count": 59
     }
   ],
   "sources": [
@@ -599,7 +599,7 @@
     },
     {
       "name": "Radio Universidad de Chile",
-      "count": 17,
+      "count": 19,
       "first": "2026-09-16",
       "last": "2026-10-20"
     },
@@ -1150,6 +1150,12 @@
       "last": "2021-05-19"
     },
     {
+      "name": "El Siglo",
+      "count": 1,
+      "first": "2023-07-25",
+      "last": "2023-07-25"
+    },
+    {
       "name": "El Sol de Iquique",
       "count": 1,
       "first": "2025-03-31",
@@ -1166,12 +1172,6 @@
       "count": 1,
       "first": "2022-10-21",
       "last": "2022-10-21"
-    },
-    {
-      "name": "elsiglo.cl",
-      "count": 1,
-      "first": "2023-07-25",
-      "last": "2023-07-25"
     },
     {
       "name": "eltrecetv",

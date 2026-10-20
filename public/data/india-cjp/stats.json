@@ -115,25 +115,25 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2225
+      "count": 2239
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 321,
+      "count": 322,
       "first": "2026-06-06",
       "last": "2026-10-20"
     },
     {
       "name": "The Times of India",
-      "count": 228,
+      "count": 229,
       "first": "2026-06-06",
       "last": "2026-10-20"
     },
     {
       "name": "NDTV",
-      "count": 202,
+      "count": 205,
       "first": "2026-05-12",
       "last": "2026-10-20"
     },
@@ -163,9 +163,15 @@
     },
     {
       "name": "Telegraph India",
-      "count": 115,
+      "count": 116,
       "first": "2026-07-21",
-      "last": "2026-10-19"
+      "last": "2026-10-20"
+    },
+    {
+      "name": "The Economic Times",
+      "count": 92,
+      "first": "2026-06-06",
+      "last": "2026-10-20"
     },
     {
       "name": "Rediff",
@@ -174,14 +180,8 @@
       "last": "2026-10-20"
     },
     {
-      "name": "The Economic Times",
-      "count": 90,
-      "first": "2026-06-06",
-      "last": "2026-10-20"
-    },
-    {
       "name": "ThePrint",
-      "count": 83,
+      "count": 84,
       "first": "2026-06-19",
       "last": "2026-10-20"
     },
@@ -205,9 +205,9 @@
     },
     {
       "name": "News18",
-      "count": 54,
+      "count": 55,
       "first": "2026-07-20",
-      "last": "2026-10-19"
+      "last": "2026-10-20"
     },
     {
       "name": "ETV Bharat",
@@ -361,7 +361,7 @@
     },
     {
       "name": "The Federal",
-      "count": 16,
+      "count": 17,
       "first": "2026-07-05",
       "last": "2026-10-20"
     },
@@ -408,6 +408,12 @@
       "last": "2026-09-27"
     },
     {
+      "name": "MillenniumPost",
+      "count": 13,
+      "first": "2026-09-28",
+      "last": "2026-10-20"
+    },
+    {
       "name": "Pioneer Daily",
       "count": 13,
       "first": "2026-08-28",
@@ -423,12 +429,6 @@
       "name": "Daily Pioneer",
       "count": 12,
       "first": "2026-08-17",
-      "last": "2026-10-20"
-    },
-    {
-      "name": "MillenniumPost",
-      "count": 12,
-      "first": "2026-09-28",
       "last": "2026-10-20"
     },
     {
@@ -630,6 +630,12 @@
       "last": "2026-10-16"
     },
     {
+      "name": "Organiser",
+      "count": 6,
+      "first": "2026-08-13",
+      "last": "2026-10-20"
+    },
+    {
       "name": "OrissaPOST",
       "count": 6,
       "first": "2026-08-16",
@@ -672,16 +678,16 @@
       "last": "2026-10-11"
     },
     {
-      "name": "Organiser",
-      "count": 5,
-      "first": "2026-08-13",
-      "last": "2026-10-20"
-    },
-    {
       "name": "Republic World",
       "count": 5,
       "first": "2026-08-21",
       "last": "2026-10-10"
+    },
+    {
+      "name": "The Daily Star",
+      "count": 5,
+      "first": "2026-09-12",
+      "last": "2026-10-20"
     },
     {
       "name": "The Japan Times",
@@ -820,12 +826,6 @@
       "count": 4,
       "first": "2026-10-03",
       "last": "2026-10-13"
-    },
-    {
-      "name": "The Daily Star",
-      "count": 4,
-      "first": "2026-09-12",
-      "last": "2026-10-15"
     },
     {
       "name": "The Lufkin Daily News",
