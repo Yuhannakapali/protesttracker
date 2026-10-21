@@ -151,7 +151,7 @@
     },
     {
       "start": "2017-12-01",
-      "count": 20
+      "count": 21
     },
     {
       "start": "2018-01-01",
@@ -575,7 +575,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 71
+      "count": 72
     }
   ],
   "sources": [
@@ -599,7 +599,7 @@
     },
     {
       "name": "Radio Universidad de Chile",
-      "count": 22,
+      "count": 23,
       "first": "2026-09-16",
       "last": "2026-10-21"
     },
@@ -1034,6 +1034,12 @@
       "count": 1,
       "first": "2019-12-18",
       "last": "2019-12-18"
+    },
+    {
+      "name": "Chequeado",
+      "count": 1,
+      "first": "2017-12-19",
+      "last": "2017-12-19"
     },
     {
       "name": "Chief Investment Officer",

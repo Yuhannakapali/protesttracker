@@ -147,7 +147,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 8
+      "count": 9
     }
   ],
   "sources": [
@@ -302,6 +302,12 @@
       "last": "2026-06-25"
     },
     {
+      "name": "Capital FM",
+      "count": 4,
+      "first": "2026-04-21",
+      "last": "2026-10-21"
+    },
+    {
       "name": "Dawan Africa",
       "count": 4,
       "first": "2026-05-11",
@@ -336,12 +342,6 @@
       "count": 3,
       "first": "2024-06-18",
       "last": "2026-05-24"
-    },
-    {
-      "name": "Capital FM",
-      "count": 3,
-      "first": "2026-04-21",
-      "last": "2026-10-15"
     },
     {
       "name": "Democracy in Africa",
@@ -849,5 +849,5 @@
     }
   ],
   "firstDate": "2023-10-20",
-  "lastDate": "2026-10-20"
+  "lastDate": "2026-10-21"
 }

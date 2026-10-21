@@ -527,7 +527,7 @@
     },
     {
       "start": "2020-09-01",
-      "count": 29
+      "count": 30
     },
     {
       "start": "2020-10-01",
@@ -655,7 +655,7 @@
     },
     {
       "start": "2023-05-01",
-      "count": 1
+      "count": 2
     },
     {
       "start": "2023-06-01",
@@ -715,11 +715,11 @@
     },
     {
       "start": "2024-08-01",
-      "count": 16
+      "count": 17
     },
     {
       "start": "2024-09-01",
-      "count": 46
+      "count": 47
     },
     {
       "start": "2024-10-01",
@@ -799,7 +799,7 @@
     },
     {
       "start": "2026-05-01",
-      "count": 5
+      "count": 6
     },
     {
       "start": "2026-06-01",
@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 166
+      "count": 168
     }
   ],
   "sources": [
@@ -879,8 +879,8 @@
     },
     {
       "name": "Premium Times",
-      "count": 22,
-      "first": "2026-09-11",
+      "count": 23,
+      "first": "2020-09-04",
       "last": "2026-10-21"
     },
     {
@@ -890,28 +890,28 @@
       "last": "2026-10-21"
     },
     {
+      "name": "Businessday NG",
+      "count": 21,
+      "first": "2020-10-02",
+      "last": "2026-10-12"
+    },
+    {
       "name": "PM News Nigeria",
       "count": 21,
       "first": "2012-01-03",
       "last": "2026-10-20"
     },
     {
-      "name": "Businessday NG",
-      "count": 20,
-      "first": "2020-10-02",
-      "last": "2026-10-12"
+      "name": "The Sun Nigeria",
+      "count": 18,
+      "first": "2022-11-30",
+      "last": "2026-10-21"
     },
     {
       "name": "Business News Nigeria",
       "count": 17,
       "first": "2022-01-21",
       "last": "2026-07-28"
-    },
-    {
-      "name": "The Sun Nigeria",
-      "count": 17,
-      "first": "2022-11-30",
-      "last": "2026-10-19"
     },
     {
       "name": "The Whistler Newspaper",
@@ -927,7 +927,7 @@
     },
     {
       "name": "Al Jazeera",
-      "count": 13,
+      "count": 14,
       "first": "2012-01-04",
       "last": "2024-08-02"
     },
@@ -962,6 +962,12 @@
       "last": "2026-10-09"
     },
     {
+      "name": "LEADERSHIP Newspapers",
+      "count": 8,
+      "first": "2024-09-04",
+      "last": "2026-10-20"
+    },
+    {
       "name": "Nigeria Labour Congress (NLC)",
       "count": 8,
       "first": "2020-09-22",
@@ -972,12 +978,6 @@
       "count": 8,
       "first": "2022-01-10",
       "last": "2026-10-12"
-    },
-    {
-      "name": "LEADERSHIP Newspapers",
-      "count": 7,
-      "first": "2024-09-08",
-      "last": "2026-10-20"
     },
     {
       "name": "Sahara Reporters",
@@ -1010,6 +1010,12 @@
       "last": "2026-10-12"
     },
     {
+      "name": "Reuters",
+      "count": 6,
+      "first": "2012-01-09",
+      "last": "2026-05-19"
+    },
+    {
       "name": "CNN",
       "count": 5,
       "first": "2012-01-03",
@@ -1020,12 +1026,6 @@
       "count": 5,
       "first": "2023-07-31",
       "last": "2026-10-05"
-    },
-    {
-      "name": "Reuters",
-      "count": 5,
-      "first": "2012-01-10",
-      "last": "2026-05-19"
     },
     {
       "name": "vanguardngr.com",
@@ -1488,6 +1488,12 @@
       "count": 1,
       "first": "2024-03-19",
       "last": "2024-03-19"
+    },
+    {
+      "name": "The Trumpet Newspaper Nigeria",
+      "count": 1,
+      "first": "2026-10-18",
+      "last": "2026-10-18"
     },
     {
       "name": "theeagleonline.com.ng",
