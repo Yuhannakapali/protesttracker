@@ -807,7 +807,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 6
+      "count": 8
     },
     {
       "start": "2026-08-01",
@@ -815,11 +815,11 @@
     },
     {
       "start": "2026-09-01",
-      "count": 160
+      "count": 161
     },
     {
       "start": "2026-10-01",
-      "count": 158
+      "count": 163
     }
   ],
   "sources": [
@@ -878,16 +878,16 @@
       "last": "2026-10-20"
     },
     {
+      "name": "Premium Times",
+      "count": 22,
+      "first": "2026-09-11",
+      "last": "2026-10-21"
+    },
+    {
       "name": "PM News Nigeria",
       "count": 21,
       "first": "2012-01-03",
       "last": "2026-10-20"
-    },
-    {
-      "name": "Premium Times",
-      "count": 21,
-      "first": "2026-09-11",
-      "last": "2026-10-17"
     },
     {
       "name": "TheCable",
@@ -909,21 +909,21 @@
     },
     {
       "name": "The Sun Nigeria",
-      "count": 16,
+      "count": 17,
       "first": "2022-11-30",
       "last": "2026-10-19"
+    },
+    {
+      "name": "The Whistler Newspaper",
+      "count": 16,
+      "first": "2020-09-04",
+      "last": "2026-10-21"
     },
     {
       "name": "Arise News",
       "count": 15,
       "first": "2023-06-02",
       "last": "2026-06-04"
-    },
-    {
-      "name": "The Whistler Newspaper",
-      "count": 14,
-      "first": "2020-09-04",
-      "last": "2026-10-07"
     },
     {
       "name": "Al Jazeera",
@@ -956,6 +956,12 @@
       "last": "2025-09-16"
     },
     {
+      "name": "TVC News",
+      "count": 9,
+      "first": "2022-01-31",
+      "last": "2026-10-09"
+    },
+    {
       "name": "Nigeria Labour Congress (NLC)",
       "count": 8,
       "first": "2020-09-22",
@@ -966,12 +972,6 @@
       "count": 8,
       "first": "2022-01-10",
       "last": "2026-10-12"
-    },
-    {
-      "name": "TVC News",
-      "count": 8,
-      "first": "2022-01-31",
-      "last": "2026-10-09"
     },
     {
       "name": "LEADERSHIP Newspapers",
@@ -1046,6 +1046,12 @@
       "last": "2026-10-20"
     },
     {
+      "name": "Head Topics",
+      "count": 4,
+      "first": "2026-07-10",
+      "last": "2026-10-12"
+    },
+    {
       "name": "News Agency of Nigeria",
       "count": 4,
       "first": "2026-10-08",
@@ -1064,22 +1070,16 @@
       "last": "2026-09-11"
     },
     {
-      "name": "Head Topics",
-      "count": 3,
-      "first": "2026-08-28",
-      "last": "2026-10-12"
+      "name": "Voice of Nigeria",
+      "count": 4,
+      "first": "2026-10-07",
+      "last": "2026-10-21"
     },
     {
       "name": "VOA Africa",
       "count": 3,
       "first": "2023-08-02",
       "last": "2024-02-19"
-    },
-    {
-      "name": "Voice of Nigeria",
-      "count": 3,
-      "first": "2026-10-07",
-      "last": "2026-10-13"
     },
     {
       "name": "BellaNaija",
@@ -1458,6 +1458,12 @@
       "count": 1,
       "first": "2026-10-20",
       "last": "2026-10-20"
+    },
+    {
+      "name": "SDP's Adebayo",
+      "count": 1,
+      "first": "2026-10-21",
+      "last": "2026-10-21"
     },
     {
       "name": "Starconnect Media",
