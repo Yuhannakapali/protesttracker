@@ -115,15 +115,15 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2242
+      "count": 2249
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 322,
+      "count": 324,
       "first": "2026-06-06",
-      "last": "2026-10-20"
+      "last": "2026-10-21"
     },
     {
       "name": "The Times of India",
@@ -139,13 +139,13 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 175,
+      "count": 176,
       "first": "2026-07-22",
       "last": "2026-10-20"
     },
     {
       "name": "Hindustan Times",
-      "count": 172,
+      "count": 173,
       "first": "2026-06-06",
       "last": "2026-10-20"
     },
@@ -168,15 +168,15 @@
       "last": "2026-10-20"
     },
     {
-      "name": "The Economic Times",
-      "count": 92,
-      "first": "2026-06-06",
-      "last": "2026-10-20"
-    },
-    {
       "name": "Rediff",
       "count": 91,
       "first": "2026-06-07",
+      "last": "2026-10-20"
+    },
+    {
+      "name": "The Economic Times",
+      "count": 91,
+      "first": "2026-06-06",
       "last": "2026-10-20"
     },
     {
@@ -193,9 +193,9 @@
     },
     {
       "name": "Deccan Herald",
-      "count": 75,
+      "count": 77,
       "first": "2026-06-05",
-      "last": "2026-10-20"
+      "last": "2026-10-21"
     },
     {
       "name": "The News Mill",
@@ -246,16 +246,16 @@
       "last": "2026-10-18"
     },
     {
+      "name": "moneycontrol.com",
+      "count": 33,
+      "first": "2026-08-18",
+      "last": "2026-10-21"
+    },
+    {
       "name": "Mid-Day",
       "count": 32,
       "first": "2026-08-23",
       "last": "2026-10-15"
-    },
-    {
-      "name": "moneycontrol.com",
-      "count": 32,
-      "first": "2026-08-18",
-      "last": "2026-10-20"
     },
     {
       "name": "The Week",
@@ -630,12 +630,6 @@
       "last": "2026-10-16"
     },
     {
-      "name": "Organiser",
-      "count": 6,
-      "first": "2026-08-13",
-      "last": "2026-10-20"
-    },
-    {
       "name": "OrissaPOST",
       "count": 6,
       "first": "2026-08-16",
@@ -676,6 +670,12 @@
       "count": 5,
       "first": "2026-07-28",
       "last": "2026-10-11"
+    },
+    {
+      "name": "Organiser",
+      "count": 5,
+      "first": "2026-08-13",
+      "last": "2026-10-20"
     },
     {
       "name": "Republic World",
@@ -984,6 +984,12 @@
       "last": "2026-10-09"
     },
     {
+      "name": "Organiser Weekly",
+      "count": 3,
+      "first": "2026-10-06",
+      "last": "2026-10-20"
+    },
+    {
       "name": "prameyanews.com",
       "count": 3,
       "first": "2026-08-16",
@@ -1222,12 +1228,6 @@
       "count": 2,
       "first": "2026-08-17",
       "last": "2026-08-24"
-    },
-    {
-      "name": "Organiser Weekly",
-      "count": 2,
-      "first": "2026-10-06",
-      "last": "2026-10-08"
     },
     {
       "name": "Pratidin Time",
@@ -1926,6 +1926,12 @@
       "last": "2026-10-09"
     },
     {
+      "name": "Oherald",
+      "count": 1,
+      "first": "2026-10-20",
+      "last": "2026-10-20"
+    },
+    {
       "name": "Oneindia",
       "count": 1,
       "first": "2026-08-30",
@@ -2263,5 +2269,5 @@
     }
   ],
   "firstDate": "2024-06-18",
-  "lastDate": "2026-10-20"
+  "lastDate": "2026-10-21"
 }

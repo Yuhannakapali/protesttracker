@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 157
+      "count": 158
     }
   ],
   "sources": [
@@ -831,9 +831,9 @@
     },
     {
       "name": "Vanguard",
-      "count": 81,
+      "count": 82,
       "first": "2026-09-02",
-      "last": "2026-10-20"
+      "last": "2026-10-21"
     },
     {
       "name": "Channels Television",
@@ -855,9 +855,9 @@
     },
     {
       "name": "Premium Times Nigeria",
-      "count": 42,
+      "count": 43,
       "first": "2013-04-18",
-      "last": "2026-09-30"
+      "last": "2026-10-20"
     },
     {
       "name": "BBC",
@@ -878,16 +878,16 @@
       "last": "2026-10-20"
     },
     {
-      "name": "Premium Times",
-      "count": 22,
-      "first": "2026-09-11",
-      "last": "2026-10-20"
-    },
-    {
       "name": "PM News Nigeria",
       "count": 21,
       "first": "2012-01-03",
       "last": "2026-10-20"
+    },
+    {
+      "name": "Premium Times",
+      "count": 21,
+      "first": "2026-09-11",
+      "last": "2026-10-17"
     },
     {
       "name": "TheCable",
@@ -1527,5 +1527,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-20"
+  "lastDate": "2026-10-21"
 }
