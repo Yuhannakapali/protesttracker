@@ -575,10 +575,16 @@
     },
     {
       "start": "2026-10-01",
-      "count": 62
+      "count": 71
     }
   ],
   "sources": [
+    {
+      "name": "El Ciudadano",
+      "count": 41,
+      "first": "2016-08-10",
+      "last": "2026-10-21"
+    },
     {
       "name": "La Izquierda Diario",
       "count": 37,
@@ -586,22 +592,16 @@
       "last": "2026-06-24"
     },
     {
-      "name": "El Ciudadano",
-      "count": 35,
-      "first": "2016-08-10",
-      "last": "2026-10-20"
-    },
-    {
       "name": "The Clinic",
-      "count": 35,
+      "count": 36,
       "first": "2016-07-25",
-      "last": "2026-10-20"
+      "last": "2026-10-21"
     },
     {
       "name": "Radio Universidad de Chile",
-      "count": 20,
+      "count": 22,
       "first": "2026-09-16",
-      "last": "2026-10-20"
+      "last": "2026-10-21"
     },
     {
       "name": "DW.com",
@@ -1691,5 +1691,5 @@
     }
   ],
   "firstDate": "2014-11-04",
-  "lastDate": "2026-10-20"
+  "lastDate": "2026-10-21"
 }

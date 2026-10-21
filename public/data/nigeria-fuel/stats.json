@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 163
+      "count": 166
     }
   ],
   "sources": [
@@ -884,16 +884,16 @@
       "last": "2026-10-21"
     },
     {
+      "name": "TheCable",
+      "count": 22,
+      "first": "2020-09-05",
+      "last": "2026-10-21"
+    },
+    {
       "name": "PM News Nigeria",
       "count": 21,
       "first": "2012-01-03",
       "last": "2026-10-20"
-    },
-    {
-      "name": "TheCable",
-      "count": 21,
-      "first": "2020-09-05",
-      "last": "2026-10-12"
     },
     {
       "name": "Businessday NG",
@@ -927,21 +927,21 @@
     },
     {
       "name": "Al Jazeera",
-      "count": 12,
+      "count": 13,
       "first": "2012-01-04",
       "last": "2024-08-02"
+    },
+    {
+      "name": "THISDAYLIVE",
+      "count": 13,
+      "first": "2023-01-26",
+      "last": "2026-10-21"
     },
     {
       "name": "Independent Newspaper Nigeria",
       "count": 12,
       "first": "2020-09-07",
       "last": "2026-10-19"
-    },
-    {
-      "name": "THISDAYLIVE",
-      "count": 12,
-      "first": "2023-01-26",
-      "last": "2026-02-04"
     },
     {
       "name": "Tribune Online",
@@ -1010,12 +1010,6 @@
       "last": "2026-10-12"
     },
     {
-      "name": "Reuters",
-      "count": 6,
-      "first": "2012-01-10",
-      "last": "2026-05-19"
-    },
-    {
       "name": "CNN",
       "count": 5,
       "first": "2012-01-03",
@@ -1026,6 +1020,12 @@
       "count": 5,
       "first": "2023-07-31",
       "last": "2026-10-05"
+    },
+    {
+      "name": "Reuters",
+      "count": 5,
+      "first": "2012-01-10",
+      "last": "2026-05-19"
     },
     {
       "name": "vanguardngr.com",
@@ -1236,6 +1236,12 @@
       "count": 1,
       "first": "2024-09-25",
       "last": "2024-09-25"
+    },
+    {
+      "name": "Blueprint Newspapers",
+      "count": 1,
+      "first": "2026-10-21",
+      "last": "2026-10-21"
     },
     {
       "name": "Business Insider Africa",
