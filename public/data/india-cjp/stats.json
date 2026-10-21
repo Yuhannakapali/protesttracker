@@ -99,11 +99,11 @@
     },
     {
       "start": "2026-06-01",
-      "count": 23
+      "count": 24
     },
     {
       "start": "2026-07-01",
-      "count": 194
+      "count": 199
     },
     {
       "start": "2026-08-01",
@@ -115,13 +115,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2343
+      "count": 2362
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 334,
+      "count": 338,
       "first": "2026-06-06",
       "last": "2026-10-21"
     },
@@ -145,7 +145,7 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 176,
+      "count": 177,
       "first": "2026-06-06",
       "last": "2026-10-21"
     },
@@ -175,13 +175,13 @@
     },
     {
       "name": "The Economic Times",
-      "count": 94,
+      "count": 95,
       "first": "2026-06-06",
       "last": "2026-10-21"
     },
     {
       "name": "ThePrint",
-      "count": 88,
+      "count": 87,
       "first": "2026-06-19",
       "last": "2026-10-21"
     },
@@ -217,13 +217,13 @@
     },
     {
       "name": "Outlook India",
-      "count": 43,
+      "count": 44,
       "first": "2026-08-17",
-      "last": "2026-10-20"
+      "last": "2026-10-21"
     },
     {
       "name": "The Statesman",
-      "count": 40,
+      "count": 41,
       "first": "2026-08-18",
       "last": "2026-10-21"
     },
@@ -337,9 +337,9 @@
     },
     {
       "name": "Mathrubhumi English",
-      "count": 18,
+      "count": 19,
       "first": "2026-08-17",
-      "last": "2026-10-08"
+      "last": "2026-10-21"
     },
     {
       "name": "Reuters",
@@ -444,6 +444,18 @@
       "last": "2026-10-02"
     },
     {
+      "name": "Brut",
+      "count": 11,
+      "first": "2026-07-12",
+      "last": "2026-10-13"
+    },
+    {
+      "name": "DNA India",
+      "count": 11,
+      "first": "2026-07-24",
+      "last": "2026-10-21"
+    },
+    {
       "name": "Facebook",
       "count": 11,
       "first": "2026-07-21",
@@ -466,12 +478,6 @@
       "count": 10,
       "first": "2026-07-30",
       "last": "2026-10-11"
-    },
-    {
-      "name": "DNA India",
-      "count": 10,
-      "first": "2026-07-24",
-      "last": "2026-09-06"
     },
     {
       "name": "GujaratSamachar English",
@@ -514,12 +520,6 @@
       "count": 9,
       "first": "2026-08-10",
       "last": "2026-10-16"
-    },
-    {
-      "name": "Brut",
-      "count": 9,
-      "first": "2026-07-12",
-      "last": "2026-10-13"
     },
     {
       "name": "Dawn",
@@ -636,6 +636,12 @@
       "last": "2026-10-16"
     },
     {
+      "name": "Newslaundry",
+      "count": 6,
+      "first": "2026-07-24",
+      "last": "2026-10-11"
+    },
+    {
       "name": "OrissaPOST",
       "count": 6,
       "first": "2026-08-16",
@@ -646,6 +652,12 @@
       "count": 6,
       "first": "2026-08-14",
       "last": "2026-10-17"
+    },
+    {
+      "name": "Times Now",
+      "count": 6,
+      "first": "2026-08-27",
+      "last": "2026-10-21"
     },
     {
       "name": "Daily Sabah",
@@ -666,10 +678,10 @@
       "last": "2026-10-11"
     },
     {
-      "name": "Newslaundry",
+      "name": "Organiser Weekly",
       "count": 5,
-      "first": "2026-07-28",
-      "last": "2026-10-11"
+      "first": "2026-10-06",
+      "last": "2026-10-21"
     },
     {
       "name": "Republic World",
@@ -706,12 +718,6 @@
       "count": 5,
       "first": "2026-08-21",
       "last": "2026-09-25"
-    },
-    {
-      "name": "Times Now",
-      "count": 5,
-      "first": "2026-08-27",
-      "last": "2026-09-01"
     },
     {
       "name": "Urban Acres",
@@ -831,12 +837,6 @@
       "name": "Organiser",
       "count": 4,
       "first": "2026-08-13",
-      "last": "2026-10-20"
-    },
-    {
-      "name": "Organiser Weekly",
-      "count": 4,
-      "first": "2026-10-06",
       "last": "2026-10-20"
     },
     {
@@ -960,6 +960,12 @@
       "last": "2026-10-17"
     },
     {
+      "name": "LatestLY",
+      "count": 3,
+      "first": "2026-07-20",
+      "last": "2026-10-21"
+    },
+    {
       "name": "LawStreet Journal",
       "count": 3,
       "first": "2026-10-09",
@@ -1056,6 +1062,12 @@
       "last": "2026-10-04"
     },
     {
+      "name": "Zee News",
+      "count": 3,
+      "first": "2026-07-30",
+      "last": "2026-10-21"
+    },
+    {
       "name": "AFP Fact Check",
       "count": 2,
       "first": "2026-07-31",
@@ -1126,6 +1138,12 @@
       "count": 2,
       "first": "2026-08-24",
       "last": "2026-10-20"
+    },
+    {
+      "name": "Dainik Jagran MP CG",
+      "count": 2,
+      "first": "2026-09-01",
+      "last": "2026-10-21"
     },
     {
       "name": "Dubai Eye 103.8",
@@ -1248,6 +1266,12 @@
       "last": "2026-08-24"
     },
     {
+      "name": "Oneindia",
+      "count": 2,
+      "first": "2026-08-30",
+      "last": "2026-10-21"
+    },
+    {
       "name": "Pratidin Time",
       "count": 2,
       "first": "2026-07-30",
@@ -1270,6 +1294,12 @@
       "count": 2,
       "first": "2026-10-15",
       "last": "2026-10-19"
+    },
+    {
+      "name": "The Daily Jagran",
+      "count": 2,
+      "first": "2026-10-21",
+      "last": "2026-10-21"
     },
     {
       "name": "The Diplomat – Asia-Pacific",
@@ -1372,12 +1402,6 @@
       "count": 2,
       "first": "2026-10-17",
       "last": "2026-10-19"
-    },
-    {
-      "name": "Zee News",
-      "count": 2,
-      "first": "2026-07-30",
-      "last": "2026-08-17"
     },
     {
       "name": "A News",
@@ -1524,16 +1548,16 @@
       "last": "2026-10-03"
     },
     {
+      "name": "Daijiworld",
+      "count": 1,
+      "first": "2026-10-21",
+      "last": "2026-10-21"
+    },
+    {
       "name": "dailyrecordnews.com",
       "count": 1,
       "first": "2026-10-02",
       "last": "2026-10-02"
-    },
-    {
-      "name": "Dainik Jagran MP CG",
-      "count": 1,
-      "first": "2026-09-01",
-      "last": "2026-09-01"
     },
     {
       "name": "dandc.eu",
@@ -1546,6 +1570,12 @@
       "count": 1,
       "first": "2026-10-14",
       "last": "2026-10-14"
+    },
+    {
+      "name": "Devdiscourse",
+      "count": 1,
+      "first": "2026-10-21",
+      "last": "2026-10-21"
     },
     {
       "name": "Diplomacy and Law",
@@ -1642,6 +1672,12 @@
       "count": 1,
       "first": "2026-10-12",
       "last": "2026-10-12"
+    },
+    {
+      "name": "Greater Kashmir",
+      "count": 1,
+      "first": "2026-10-21",
+      "last": "2026-10-21"
     },
     {
       "name": "Gujarat Samachar",
@@ -1812,12 +1848,6 @@
       "last": "2026-10-16"
     },
     {
-      "name": "LatestLY",
-      "count": 1,
-      "first": "2026-07-20",
-      "last": "2026-07-20"
-    },
-    {
       "name": "Law Trend",
       "count": 1,
       "first": "2026-09-10",
@@ -1914,6 +1944,12 @@
       "last": "2026-09-30"
     },
     {
+      "name": "NewsDrum",
+      "count": 1,
+      "first": "2026-10-21",
+      "last": "2026-10-21"
+    },
+    {
       "name": "NewsX",
       "count": 1,
       "first": "2026-07-23",
@@ -1936,12 +1972,6 @@
       "count": 1,
       "first": "2026-10-20",
       "last": "2026-10-20"
-    },
-    {
-      "name": "Oneindia",
-      "count": 1,
-      "first": "2026-08-30",
-      "last": "2026-08-30"
     },
     {
       "name": "PBS",

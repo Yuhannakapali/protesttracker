@@ -575,13 +575,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 72
+      "count": 76
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 41,
+      "count": 44,
       "first": "2016-08-10",
       "last": "2026-10-21"
     },
@@ -593,7 +593,7 @@
     },
     {
       "name": "The Clinic",
-      "count": 36,
+      "count": 37,
       "first": "2016-07-25",
       "last": "2026-10-21"
     },
@@ -1046,12 +1046,6 @@
       "count": 1,
       "first": "2022-04-19",
       "last": "2022-04-19"
-    },
-    {
-      "name": "Christian Science Monitor - CSMonitor.com",
-      "count": 1,
-      "first": "2019-11-06",
-      "last": "2019-11-06"
     },
     {
       "name": "CN digital",
@@ -1580,6 +1574,12 @@
       "count": 1,
       "first": "2016-11-19",
       "last": "2016-11-19"
+    },
+    {
+      "name": "The Christian Science Monitor",
+      "count": 1,
+      "first": "2019-11-14",
+      "last": "2019-11-14"
     },
     {
       "name": "The Conversation",

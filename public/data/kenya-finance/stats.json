@@ -147,7 +147,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 9
+      "count": 11
     }
   ],
   "sources": [
@@ -212,6 +212,12 @@
       "last": "2026-07-07"
     },
     {
+      "name": "Facebook",
+      "count": 9,
+      "first": "2026-04-04",
+      "last": "2026-10-21"
+    },
+    {
       "name": "The EastAfrican",
       "count": 9,
       "first": "2024-06-18",
@@ -222,12 +228,6 @@
       "count": 9,
       "first": "2024-06-24",
       "last": "2026-08-27"
-    },
-    {
-      "name": "Facebook",
-      "count": 8,
-      "first": "2026-04-04",
-      "last": "2026-08-04"
     },
     {
       "name": "Kenyans.co.ke",
@@ -816,6 +816,12 @@
       "count": 1,
       "first": "2024-07-10",
       "last": "2024-07-10"
+    },
+    {
+      "name": "Uzalendo News",
+      "count": 1,
+      "first": "2026-10-20",
+      "last": "2026-10-20"
     },
     {
       "name": "Wansom AI",
