@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 161
+      "count": 162
     },
     {
       "start": "2026-10-01",
@@ -897,9 +897,9 @@
     },
     {
       "name": "PM News Nigeria",
-      "count": 21,
+      "count": 20,
       "first": "2012-01-03",
-      "last": "2026-10-20"
+      "last": "2026-10-09"
     },
     {
       "name": "The Sun Nigeria",
@@ -998,6 +998,12 @@
       "last": "2024-08-08"
     },
     {
+      "name": "Daily Trust",
+      "count": 6,
+      "first": "2023-07-31",
+      "last": "2026-10-05"
+    },
+    {
       "name": "Legit.ng",
       "count": 6,
       "first": "2024-08-11",
@@ -1020,12 +1026,6 @@
       "count": 5,
       "first": "2012-01-03",
       "last": "2024-06-03"
-    },
-    {
-      "name": "Daily Trust",
-      "count": 5,
-      "first": "2023-07-31",
-      "last": "2026-10-05"
     },
     {
       "name": "vanguardngr.com",
@@ -1542,6 +1542,12 @@
       "count": 1,
       "first": "2012-04-15",
       "last": "2012-04-15"
+    },
+    {
+      "name": "شبكة تواصل الإخبارية",
+      "count": 1,
+      "first": "2026-10-21",
+      "last": "2026-10-21"
     }
   ],
   "firstDate": "2009-10-30",

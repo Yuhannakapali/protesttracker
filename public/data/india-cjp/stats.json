@@ -115,27 +115,27 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2362
+      "count": 2372
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 338,
+      "count": 339,
       "first": "2026-06-06",
-      "last": "2026-10-21"
+      "last": "2026-10-22"
     },
     {
       "name": "The Times of India",
-      "count": 231,
+      "count": 232,
       "first": "2026-06-06",
       "last": "2026-10-21"
     },
     {
       "name": "NDTV",
-      "count": 211,
+      "count": 214,
       "first": "2026-05-12",
-      "last": "2026-10-21"
+      "last": "2026-10-22"
     },
     {
       "name": "The New Indian Express",
@@ -199,7 +199,7 @@
     },
     {
       "name": "News18",
-      "count": 58,
+      "count": 59,
       "first": "2026-07-20",
       "last": "2026-10-21"
     },
@@ -307,7 +307,7 @@
     },
     {
       "name": "LawBeat",
-      "count": 24,
+      "count": 25,
       "first": "2026-02-07",
       "last": "2026-10-21"
     },
@@ -342,6 +342,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "Frontline Magazine",
+      "count": 18,
+      "first": "2026-07-20",
+      "last": "2026-10-21"
+    },
+    {
       "name": "Reuters",
       "count": 18,
       "first": "2026-07-25",
@@ -364,12 +370,6 @@
       "count": 18,
       "first": "2026-05-21",
       "last": "2026-10-21"
-    },
-    {
-      "name": "Frontline Magazine",
-      "count": 17,
-      "first": "2026-07-20",
-      "last": "2026-10-20"
     },
     {
       "name": "DT Next",
@@ -474,6 +474,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "Bloomberg.com",
+      "count": 10,
+      "first": "2026-08-10",
+      "last": "2026-10-21"
+    },
+    {
       "name": "CNBC TV18",
       "count": 10,
       "first": "2026-07-30",
@@ -514,12 +520,6 @@
       "count": 10,
       "first": "2026-07-18",
       "last": "2026-10-13"
-    },
-    {
-      "name": "Bloomberg.com",
-      "count": 9,
-      "first": "2026-08-10",
-      "last": "2026-10-16"
     },
     {
       "name": "Dawn",
@@ -870,6 +870,12 @@
       "last": "2026-10-11"
     },
     {
+      "name": "The Straits Times",
+      "count": 4,
+      "first": "2026-09-24",
+      "last": "2026-10-22"
+    },
+    {
       "name": "thehawk.in",
       "count": 4,
       "first": "2026-07-22",
@@ -1030,12 +1036,6 @@
       "count": 3,
       "first": "2026-09-04",
       "last": "2026-09-11"
-    },
-    {
-      "name": "The Straits Times",
-      "count": 3,
-      "first": "2026-09-24",
-      "last": "2026-10-19"
     },
     {
       "name": "Türkiye Today",
@@ -2311,5 +2311,5 @@
     }
   ],
   "firstDate": "2024-06-18",
-  "lastDate": "2026-10-21"
+  "lastDate": "2026-10-22"
 }
