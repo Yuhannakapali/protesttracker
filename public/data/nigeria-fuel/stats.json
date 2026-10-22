@@ -431,7 +431,7 @@
     },
     {
       "start": "2018-09-01",
-      "count": 5
+      "count": 6
     },
     {
       "start": "2018-10-01",
@@ -671,7 +671,7 @@
     },
     {
       "start": "2023-09-01",
-      "count": 30
+      "count": 33
     },
     {
       "start": "2023-10-01",
@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 170
+      "count": 178
     }
   ],
   "sources": [
@@ -837,13 +837,13 @@
     },
     {
       "name": "Channels Television",
-      "count": 65,
+      "count": 67,
       "first": "2012-01-04",
-      "last": "2026-10-19"
+      "last": "2026-10-22"
     },
     {
       "name": "The Guardian Nigeria News",
-      "count": 57,
+      "count": 58,
       "first": "2015-10-02",
       "last": "2026-10-01"
     },
@@ -855,13 +855,13 @@
     },
     {
       "name": "Premium Times Nigeria",
-      "count": 43,
+      "count": 45,
       "first": "2013-04-18",
       "last": "2026-10-20"
     },
     {
       "name": "BBC",
-      "count": 35,
+      "count": 36,
       "first": "2018-09-26",
       "last": "2025-12-17"
     },
@@ -1070,10 +1070,22 @@
       "last": "2026-09-11"
     },
     {
+      "name": "Politics Nigeria",
+      "count": 4,
+      "first": "2026-09-23",
+      "last": "2026-10-22"
+    },
+    {
       "name": "Voice of Nigeria",
       "count": 4,
       "first": "2026-10-07",
       "last": "2026-10-21"
+    },
+    {
+      "name": "Nigerian Bulletin",
+      "count": 3,
+      "first": "2024-09-02",
+      "last": "2026-10-20"
     },
     {
       "name": "VOA Africa",
@@ -1086,6 +1098,12 @@
       "count": 2,
       "first": "2016-05-18",
       "last": "2021-03-12"
+    },
+    {
+      "name": "Daily Report Nigeria",
+      "count": 2,
+      "first": "2026-09-18",
+      "last": "2026-10-20"
     },
     {
       "name": "FIJ NG",
@@ -1118,12 +1136,6 @@
       "last": "2026-10-12"
     },
     {
-      "name": "Nigerian Bulletin",
-      "count": 2,
-      "first": "2024-09-02",
-      "last": "2026-08-19"
-    },
-    {
       "name": "Nigerian Democratic Report",
       "count": 2,
       "first": "2026-09-17",
@@ -1140,12 +1152,6 @@
       "count": 2,
       "first": "2026-03-24",
       "last": "2026-06-08"
-    },
-    {
-      "name": "Politics Nigeria",
-      "count": 2,
-      "first": "2026-09-23",
-      "last": "2026-10-12"
     },
     {
       "name": "premiumtimesng.com",
@@ -1272,12 +1278,6 @@
       "count": 1,
       "first": "2026-08-19",
       "last": "2026-08-19"
-    },
-    {
-      "name": "Daily Report Nigeria",
-      "count": 1,
-      "first": "2026-09-18",
-      "last": "2026-09-18"
     },
     {
       "name": "DAILY TIMES Nigeria",
@@ -1424,6 +1424,12 @@
       "last": "2026-09-15"
     },
     {
+      "name": "Nigeria Education News",
+      "count": 1,
+      "first": "2026-10-21",
+      "last": "2026-10-21"
+    },
+    {
       "name": "Nigerian NewsDirect",
       "count": 1,
       "first": "2026-09-23",
@@ -1434,6 +1440,12 @@
       "count": 1,
       "first": "2026-09-14",
       "last": "2026-09-14"
+    },
+    {
+      "name": "Per Second News",
+      "count": 1,
+      "first": "2026-10-21",
+      "last": "2026-10-21"
     },
     {
       "name": "Pointblank News",
