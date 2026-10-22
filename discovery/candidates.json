@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T08:40:00.056Z",
+  "generated": "2026-10-22T08:35:27.831Z",
   "candidates": [
     {
       "key": "wd-Q134574040",
@@ -682,6 +682,353 @@
         "_source": {
           "wikidata": "Q136373399",
           "wikipedia": "https://en.wikipedia.org/wiki/2025_Italian_general_strikes_and_protests_for_Gaza"
+        }
+      }
+    },
+    {
+      "key": "wd-Q139998119",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Albania",
+      "countries": [
+        "Albania"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Flamingo_Revolution",
+      "needsName": false,
+      "suggested": {
+        "id": "albania-flamingo-revolution",
+        "name": "Flamingo Revolution",
+        "region": "Europe",
+        "location": "Albania",
+        "year": 2026,
+        "description": "protests against a proposed tourism development project in southern Albania from May 2026 on",
+        "keywords": [
+          "flamingo",
+          "revolution",
+          "albania",
+          "protest"
+        ],
+        "strictKeywords": [
+          "flamingo",
+          "revolution"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Flamingo%20Revolution&hl=en-AL&gl=AL&ceid=AL%3Aen",
+          "https://news.google.com/rss/search?q=Albania%20protest&hl=en-AL&gl=AL&ceid=AL%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q139998119",
+          "wikipedia": "https://en.wikipedia.org/wiki/Flamingo_Revolution"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140164273",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United Kingdom",
+      "countries": [
+        "United Kingdom"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots",
+      "needsName": false,
+      "suggested": {
+        "id": "united-kingdom-northern-ireland-riots",
+        "name": "2026 Northern Ireland riots",
+        "region": "Europe",
+        "location": "United Kingdom",
+        "year": 2026,
+        "description": "series of riots in Northern Ireland",
+        "keywords": [
+          "northern",
+          "ireland",
+          "united kingdom",
+          "protest"
+        ],
+        "strictKeywords": [
+          "northern",
+          "ireland"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Northern%20Ireland%20riots&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140164273",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140196966",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Indonesia",
+      "countries": [
+        "Indonesia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "indonesia-june-indonesian-protests",
+        "name": "June 2026 Indonesian protests",
+        "region": "Asia",
+        "location": "Indonesia",
+        "year": 2026,
+        "description": "a series of ongoing student-led demonstrations against government regulations  in Indonesia",
+        "keywords": [
+          "indonesian",
+          "indonesia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "indonesian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=June%202026%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
+          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140196966",
+          "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140263260",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "France",
+      "countries": [
+        "France"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots",
+      "needsName": false,
+      "suggested": {
+        "id": "france-paris-saint-germain-celebration-riots-2",
+        "name": "2026 Paris Saint-Germain celebration riots",
+        "region": "Europe",
+        "location": "France",
+        "year": 2026,
+        "description": "football riots in Paris, France",
+        "keywords": [
+          "paris",
+          "saint",
+          "germain",
+          "celebration",
+          "france",
+          "protest"
+        ],
+        "strictKeywords": [
+          "paris",
+          "saint",
+          "germain",
+          "celebration"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Paris%20Saint-Germain%20celebration%20riots&hl=en-FR&gl=FR&ceid=FR%3Aen",
+          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140263260",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140286022",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Russia",
+      "countries": [
+        "Russia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia",
+      "needsName": false,
+      "suggested": {
+        "id": "russia-roblox-ban-protests-in-russia",
+        "name": "Roblox ban protests in Russia",
+        "region": "Europe",
+        "location": "Russia",
+        "year": 2026,
+        "description": "protest caused by Russia's 2025 ban of Roblox",
+        "keywords": [
+          "roblox",
+          "ban",
+          "russia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "roblox",
+          "ban",
+          "russia"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Roblox%20ban%20protests%20in%20Russia&hl=en-RU&gl=RU&ceid=RU%3Aen",
+          "https://news.google.com/rss/search?q=Russia%20protest&hl=en-RU&gl=RU&ceid=RU%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140286022",
+          "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140379081",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Pakistan",
+      "countries": [
+        "Pakistan"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "pakistan-azad-kashmir-protests",
+        "name": "2026 Azad Kashmir protests",
+        "region": "Asia",
+        "location": "Pakistan",
+        "year": 2026,
+        "description": "ongoing protests in Pakistan-administered Kashmir",
+        "keywords": [
+          "azad",
+          "kashmir",
+          "pakistan",
+          "protest"
+        ],
+        "strictKeywords": [
+          "azad",
+          "kashmir"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Azad%20Kashmir%20protests&hl=en-PK&gl=PK&ceid=PK%3Aen",
+          "https://news.google.com/rss/search?q=Pakistan%20protest&hl=en-PK&gl=PK&ceid=PK%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140379081",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140773593",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Italy",
+      "countries": [
+        "Italy"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
+      "needsName": false,
+      "suggested": {
+        "id": "italy-susa-valley-conflict",
+        "name": "2026 Susa Valley conflict",
+        "region": "Europe",
+        "location": "Italy",
+        "year": 2026,
+        "description": "civil unrest in Italy",
+        "keywords": [
+          "susa",
+          "valley",
+          "conflict",
+          "italy",
+          "protest"
+        ],
+        "strictKeywords": [
+          "susa",
+          "valley",
+          "conflict"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
+          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140773593",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
+        }
+      }
+    },
+    {
+      "key": "wd-Q141592947",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Spain",
+      "countries": [
+        "Spain"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Spanish_housing_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "spain-spanish-housing-protests",
+        "name": "2026 Spanish housing protests",
+        "region": "Europe",
+        "location": "Spain",
+        "year": 2026,
+        "description": "social movement for housing rights",
+        "keywords": [
+          "spanish",
+          "housing",
+          "spain",
+          "protest"
+        ],
+        "strictKeywords": [
+          "spanish",
+          "housing"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Spanish%20housing%20protests&hl=en-ES&gl=ES&ceid=ES%3Aen",
+          "https://news.google.com/rss/search?q=Spain%20protest&hl=en-ES&gl=ES&ceid=ES%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q141592947",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Spanish_housing_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q141615137",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "France",
+      "countries": [
+        "France"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_French_student_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "france-french-student-protests",
+        "name": "2026 French student protests",
+        "region": "Europe",
+        "location": "France",
+        "year": 2026,
+        "description": "Student protests in France",
+        "keywords": [
+          "french",
+          "student",
+          "france",
+          "protest"
+        ],
+        "strictKeywords": [
+          "french",
+          "student"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20French%20student%20protests&hl=en-FR&gl=FR&ceid=FR%3Aen",
+          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q141615137",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_French_student_protests"
         }
       }
     },
@@ -1706,353 +2053,6 @@
       }
     },
     {
-      "key": "wd-Q139998119",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Albania",
-      "countries": [
-        "Albania"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Flamingo_Revolution",
-      "needsName": false,
-      "suggested": {
-        "id": "albania-flamingo-revolution",
-        "name": "Flamingo Revolution",
-        "region": "Europe",
-        "location": "Albania",
-        "year": 2026,
-        "description": "protests against a proposed tourism development project in southern Albania from May 2026 on",
-        "keywords": [
-          "flamingo",
-          "revolution",
-          "albania",
-          "protest"
-        ],
-        "strictKeywords": [
-          "flamingo",
-          "revolution"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Flamingo%20Revolution&hl=en-AL&gl=AL&ceid=AL%3Aen",
-          "https://news.google.com/rss/search?q=Albania%20protest&hl=en-AL&gl=AL&ceid=AL%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q139998119",
-          "wikipedia": "https://en.wikipedia.org/wiki/Flamingo_Revolution"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140164273",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United Kingdom",
-      "countries": [
-        "United Kingdom"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots",
-      "needsName": false,
-      "suggested": {
-        "id": "united-kingdom-northern-ireland-riots",
-        "name": "2026 Northern Ireland riots",
-        "region": "Europe",
-        "location": "United Kingdom",
-        "year": 2026,
-        "description": "series of riots in Northern Ireland",
-        "keywords": [
-          "northern",
-          "ireland",
-          "united kingdom",
-          "protest"
-        ],
-        "strictKeywords": [
-          "northern",
-          "ireland"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Northern%20Ireland%20riots&hl=en-GB&gl=GB&ceid=GB%3Aen",
-          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140164273",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140196966",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Indonesia",
-      "countries": [
-        "Indonesia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "indonesia-june-indonesian-protests",
-        "name": "June 2026 Indonesian protests",
-        "region": "Asia",
-        "location": "Indonesia",
-        "year": 2026,
-        "description": "a series of ongoing student-led demonstrations against government regulations  in Indonesia",
-        "keywords": [
-          "indonesian",
-          "indonesia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "indonesian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=June%202026%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
-          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140196966",
-          "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140263260",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "France",
-      "countries": [
-        "France"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots",
-      "needsName": false,
-      "suggested": {
-        "id": "france-paris-saint-germain-celebration-riots-2",
-        "name": "2026 Paris Saint-Germain celebration riots",
-        "region": "Europe",
-        "location": "France",
-        "year": 2026,
-        "description": "football riots in Paris, France",
-        "keywords": [
-          "paris",
-          "saint",
-          "germain",
-          "celebration",
-          "france",
-          "protest"
-        ],
-        "strictKeywords": [
-          "paris",
-          "saint",
-          "germain",
-          "celebration"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Paris%20Saint-Germain%20celebration%20riots&hl=en-FR&gl=FR&ceid=FR%3Aen",
-          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140263260",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140286022",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Russia",
-      "countries": [
-        "Russia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia",
-      "needsName": false,
-      "suggested": {
-        "id": "russia-roblox-ban-protests-in-russia",
-        "name": "Roblox ban protests in Russia",
-        "region": "Europe",
-        "location": "Russia",
-        "year": 2026,
-        "description": "protest caused by Russia's 2025 ban of Roblox",
-        "keywords": [
-          "roblox",
-          "ban",
-          "russia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "roblox",
-          "ban",
-          "russia"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Roblox%20ban%20protests%20in%20Russia&hl=en-RU&gl=RU&ceid=RU%3Aen",
-          "https://news.google.com/rss/search?q=Russia%20protest&hl=en-RU&gl=RU&ceid=RU%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140286022",
-          "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140379081",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Pakistan",
-      "countries": [
-        "Pakistan"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "pakistan-azad-kashmir-protests",
-        "name": "2026 Azad Kashmir protests",
-        "region": "Asia",
-        "location": "Pakistan",
-        "year": 2026,
-        "description": "ongoing protests in Pakistan-administered Kashmir",
-        "keywords": [
-          "azad",
-          "kashmir",
-          "pakistan",
-          "protest"
-        ],
-        "strictKeywords": [
-          "azad",
-          "kashmir"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Azad%20Kashmir%20protests&hl=en-PK&gl=PK&ceid=PK%3Aen",
-          "https://news.google.com/rss/search?q=Pakistan%20protest&hl=en-PK&gl=PK&ceid=PK%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140379081",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140773593",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Italy",
-      "countries": [
-        "Italy"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
-      "needsName": false,
-      "suggested": {
-        "id": "italy-susa-valley-conflict",
-        "name": "2026 Susa Valley conflict",
-        "region": "Europe",
-        "location": "Italy",
-        "year": 2026,
-        "description": "civil unrest in Italy",
-        "keywords": [
-          "susa",
-          "valley",
-          "conflict",
-          "italy",
-          "protest"
-        ],
-        "strictKeywords": [
-          "susa",
-          "valley",
-          "conflict"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
-          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140773593",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
-        }
-      }
-    },
-    {
-      "key": "wd-Q141592947",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Spain",
-      "countries": [
-        "Spain"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Spanish_housing_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "spain-spanish-housing-protests",
-        "name": "2026 Spanish housing protests",
-        "region": "Europe",
-        "location": "Spain",
-        "year": 2026,
-        "description": "social movement for housing rights",
-        "keywords": [
-          "spanish",
-          "housing",
-          "spain",
-          "protest"
-        ],
-        "strictKeywords": [
-          "spanish",
-          "housing"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Spanish%20housing%20protests&hl=en-ES&gl=ES&ceid=ES%3Aen",
-          "https://news.google.com/rss/search?q=Spain%20protest&hl=en-ES&gl=ES&ceid=ES%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q141592947",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Spanish_housing_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q141615137",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "France",
-      "countries": [
-        "France"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_French_student_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "france-french-student-protests",
-        "name": "2026 French student protests",
-        "region": "Europe",
-        "location": "France",
-        "year": 2026,
-        "description": "Student protests in France",
-        "keywords": [
-          "french",
-          "student",
-          "france",
-          "protest"
-        ],
-        "strictKeywords": [
-          "french",
-          "student"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20French%20student%20protests&hl=en-FR&gl=FR&ceid=FR%3Aen",
-          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q141615137",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_French_student_protests"
-        }
-      }
-    },
-    {
       "key": "wd-Q134451129",
       "source": "wikidata",
       "confidence": "high",
@@ -2351,6 +2351,42 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "Q141573327",
+          "wikipedia": ""
+        }
+      }
+    },
+    {
+      "key": "wd-Q141801387",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Italy",
+      "countries": [
+        "Italy"
+      ],
+      "wikipedia": "",
+      "needsName": true,
+      "suggested": {
+        "id": "italy-q141801387",
+        "name": "Q141801387",
+        "region": "Europe",
+        "location": "Italy",
+        "year": 2026,
+        "description": "",
+        "keywords": [
+          "q141801387",
+          "italy",
+          "protest"
+        ],
+        "strictKeywords": [
+          "q141801387"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Q141801387&hl=en-IT&gl=IT&ceid=IT%3Aen",
+          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q141801387",
           "wikipedia": ""
         }
       }
@@ -2868,88 +2904,6 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "kenya:aladwa-denies-disrupt",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
-      "key": "gd-kenya:ameir-buried-hafidh",
-      "source": "gdelt",
-      "confidence": "low",
-      "country": "Kenya",
-      "countries": [
-        "Kenya"
-      ],
-      "domains": [
-        "the-star.co.ke",
-        "standardmedia.co.ke",
-        "president.go.ke"
-      ],
-      "daysSeen": 3,
-      "articleCount": 6,
-      "firstSeen": "2026-09-07",
-      "lastSeen": "2026-10-01",
-      "samples": [
-        {
-          "title": "Suluhu husband Hafidh Ameir to be buried today in Kizimkazi , Zanzibar",
-          "url": "https://www.the-star.co.ke/news/2026-09-07-suluhus-husband-to-be-buried-today-in-zanzibar",
-          "domain": "the-star.co.ke",
-          "date": "2026-09-07"
-        },
-        {
-          "title": "Ida Odinga to Suluhu : Pole , I understand pain of losing husband",
-          "url": "https://www.the-star.co.ke/news/2026-09-07-ida-to-suluhu-pole-i-know-the-pain-of-losing-husband",
-          "domain": "the-star.co.ke",
-          "date": "2026-09-07"
-        },
-        {
-          "title": "President Ruto leads Kenyans in mourning Hafidh Ameir",
-          "url": "https://www.standardmedia.co.ke/africa/article/2001557199/president-ruto-leads-kenyans-in-mourning-hafidh-ameir",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-09-07"
-        },
-        {
-          "title": "PRESIDENT RUTO ANNOUNCES $2 . 9 BILLION INVESTMENT BY 20 INVESTORS IN KENYA",
-          "url": "http://www.president.go.ke/president-ruto-announces-2-9-billion-investment-by-20-investors-in-kenya/",
-          "domain": "president.go.ke",
-          "date": "2026-09-23"
-        },
-        {
-          "title": "CRIMINALS DISGUISED AS PROTESTERS WILL BE HELD ACCOUNTABLE , PRESIDENT RUTO",
-          "url": "https://www.president.go.ke/criminals-disguised-as-protesters-will-be-held-accountable-president-ruto/",
-          "domain": "president.go.ke",
-          "date": "2026-10-01"
-        }
-      ],
-      "needsName": true,
-      "suggested": {
-        "id": "kenya-suluhu-husband-hafidh-ameir-to-be",
-        "name": "Suluhu husband Hafidh Ameir to be",
-        "region": "Africa",
-        "location": "Kenya",
-        "year": 2026,
-        "description": "",
-        "keywords": [
-          "suluhu",
-          "husband",
-          "hafidh",
-          "ameir",
-          "kenya",
-          "protest"
-        ],
-        "strictKeywords": [
-          "suluhu",
-          "husband",
-          "hafidh",
-          "ameir"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Suluhu%20husband%20Hafidh%20Ameir%20to%20be&hl=en-KE&gl=KE&ceid=KE%3Aen",
-          "https://news.google.com/rss/search?q=Kenya%20protest&hl=en-KE&gl=KE&ceid=KE%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "kenya:ameir-buried-hafidh",
           "wikipedia": ""
         }
       }
@@ -3500,91 +3454,6 @@
       }
     },
     {
-      "key": "gd-nigeria:adebutu-better-campaign",
-      "source": "gdelt",
-      "confidence": "low",
-      "country": "Nigeria",
-      "countries": [
-        "Nigeria"
-      ],
-      "domains": [
-        "thenationonlineng.net",
-        "blueprint.ng",
-        "tribuneonlineng.com",
-        "leadership.ng"
-      ],
-      "daysSeen": 5,
-      "articleCount": 7,
-      "firstSeen": "2026-09-09",
-      "lastSeen": "2026-10-01",
-      "samples": [
-        {
-          "title": "Ogun 2027 : PDP flags off Adebutu campaign , promises liberation , better governance",
-          "url": "https://thenationonlineng.net/ogun-2027-pdp-flags-off-adebutu-campaign-promises-liberation-better-governance/",
-          "domain": "thenationonlineng.net",
-          "date": "2026-09-09"
-        },
-        {
-          "title": "2027 election : Adebutu spreads promises as rain disrupt Ogun PDP campaign flag - off",
-          "url": "https://blueprint.ng/2027-election-adebutu-spreads-promises-as-rain-disrupt-ogun-pdp-campaign-flag-off/",
-          "domain": "blueprint.ng",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "Ogun PDP flags off governorship campaign for 2027",
-          "url": "https://tribuneonlineng.com/ogun-pdp-flags-off-governorship-campaign-for-2027/",
-          "domain": "tribuneonlineng.com",
-          "date": "2026-09-09"
-        },
-        {
-          "title": "PDP campaign disruption : Ogun community leaders exonerate monarch , call for investigation",
-          "url": "https://tribuneonlineng.com/pdp-campaign-disruption-ogun-community-leaders-exonerate-monarch-call-for-investigation/",
-          "domain": "tribuneonlineng.com",
-          "date": "2026-09-23"
-        },
-        {
-          "title": "Adebutu Running Mate Rallies Ogun Communities For PDP",
-          "url": "https://leadership.ng/adebutus-running-mate-rallies-ogun-communities-for-pdp-2/",
-          "domain": "leadership.ng",
-          "date": "2026-09-21"
-        }
-      ],
-      "needsName": true,
-      "suggested": {
-        "id": "nigeria-ogun-pdp-flags-off-adebutu",
-        "name": "Ogun 2027 PDP flags off Adebutu",
-        "region": "Africa",
-        "location": "Nigeria",
-        "year": 2027,
-        "description": "",
-        "keywords": [
-          "ogun",
-          "pdp",
-          "flags",
-          "off",
-          "adebutu",
-          "nigeria",
-          "protest"
-        ],
-        "strictKeywords": [
-          "ogun",
-          "pdp",
-          "flags",
-          "off",
-          "adebutu"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Ogun%202027%20PDP%20flags%20off%20Adebutu&hl=en-NG&gl=NG&ceid=NG%3Aen",
-          "https://news.google.com/rss/search?q=Nigeria%20protest&hl=en-NG&gl=NG&ceid=NG%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "nigeria:adebutu-better-campaign",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
       "key": "gd-united-kingdom:address-being-disperse",
       "source": "gdelt",
       "confidence": "low",
@@ -4119,7 +3988,7 @@
         "news.harianjogja.com"
       ],
       "daysSeen": 4,
-      "articleCount": 12,
+      "articleCount": 24,
       "firstSeen": "2026-10-18",
       "lastSeen": "2026-10-21",
       "samples": [
@@ -4200,12 +4069,13 @@
       "domains": [
         "merdeka.com",
         "jawapos.com",
-        "news.okezone.com"
+        "news.okezone.com",
+        "koran-jakarta.com"
       ],
-      "daysSeen": 3,
-      "articleCount": 3,
+      "daysSeen": 4,
+      "articleCount": 7,
       "firstSeen": "2026-10-18",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
       "samples": [
         {
           "title": "Demo di Bandung Memanas , Massa Bentrok dengan Polisi",
@@ -4224,6 +4094,18 @@
           "url": "https://news.okezone.com/read/2026/10/18/18/3248592/demo-ricuh-prancis-nbsp-massa-melakukan-penjarahan-hingga-gedung-kantor-pariwisata-dibakar",
           "domain": "news.okezone.com",
           "date": "2026-10-18"
+        },
+        {
+          "title": "Demo di Bandung Memanas , Massa Bentrok dengan Polisi",
+          "url": "https://www.merdeka.com/peristiwa/read/8317673/demo-di-bandung-memanas-massa-bentrok-dengan-polisi",
+          "domain": "merdeka.com",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Demo di Bandung Ricuh Semalam , Truk Polisi Dibakar , Vandalisme di Simpang Lima",
+          "url": "https://www.jawapos.com/berita-daerah/2610210164/demo-di-bandung-ricuh-semalam-truk-polisi-dibakar-vandalisme-di-simpang-lima",
+          "domain": "jawapos.com",
+          "date": "2026-10-21"
         }
       ],
       "needsName": true,
