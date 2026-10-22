@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2404
+      "count": 2424
     }
   ],
   "sources": [
@@ -127,14 +127,20 @@
     },
     {
       "name": "The Times of India",
-      "count": 232,
+      "count": 233,
       "first": "2026-06-06",
-      "last": "2026-10-21"
+      "last": "2026-10-22"
     },
     {
       "name": "NDTV",
-      "count": 217,
+      "count": 219,
       "first": "2026-05-12",
+      "last": "2026-10-22"
+    },
+    {
+      "name": "The New Indian Express",
+      "count": 180,
+      "first": "2026-07-22",
       "last": "2026-10-22"
     },
     {
@@ -144,12 +150,6 @@
       "last": "2026-10-22"
     },
     {
-      "name": "The New Indian Express",
-      "count": 179,
-      "first": "2026-07-22",
-      "last": "2026-10-21"
-    },
-    {
       "name": "The Indian Express",
       "count": 159,
       "first": "2026-07-24",
@@ -157,7 +157,7 @@
     },
     {
       "name": "India Today",
-      "count": 152,
+      "count": 154,
       "first": "2026-07-15",
       "last": "2026-10-22"
     },
@@ -181,8 +181,14 @@
     },
     {
       "name": "ThePrint",
-      "count": 88,
+      "count": 90,
       "first": "2026-06-19",
+      "last": "2026-10-22"
+    },
+    {
+      "name": "Deccan Herald",
+      "count": 84,
+      "first": "2026-06-05",
       "last": "2026-10-22"
     },
     {
@@ -192,14 +198,8 @@
       "last": "2026-10-21"
     },
     {
-      "name": "Deccan Herald",
-      "count": 83,
-      "first": "2026-06-05",
-      "last": "2026-10-22"
-    },
-    {
       "name": "News18",
-      "count": 60,
+      "count": 61,
       "first": "2026-07-20",
       "last": "2026-10-22"
     },
@@ -247,19 +247,19 @@
     },
     {
       "name": "Mid-Day",
-      "count": 33,
+      "count": 34,
       "first": "2026-08-23",
-      "last": "2026-10-21"
+      "last": "2026-10-22"
     },
     {
       "name": "moneycontrol.com",
-      "count": 33,
+      "count": 34,
       "first": "2026-08-18",
-      "last": "2026-10-21"
+      "last": "2026-10-22"
     },
     {
       "name": "The Week",
-      "count": 33,
+      "count": 34,
       "first": "2026-07-27",
       "last": "2026-10-22"
     },
@@ -271,7 +271,7 @@
     },
     {
       "name": "DW.com",
-      "count": 30,
+      "count": 31,
       "first": "2026-07-21",
       "last": "2026-10-22"
     },
@@ -307,9 +307,15 @@
     },
     {
       "name": "LawBeat",
-      "count": 25,
+      "count": 26,
       "first": "2026-02-07",
-      "last": "2026-10-21"
+      "last": "2026-10-22"
+    },
+    {
+      "name": "The South First",
+      "count": 23,
+      "first": "2026-09-01",
+      "last": "2026-10-22"
     },
     {
       "name": "The Tribune",
@@ -324,16 +330,10 @@
       "last": "2026-10-21"
     },
     {
-      "name": "The South First",
-      "count": 22,
-      "first": "2026-09-01",
-      "last": "2026-10-22"
-    },
-    {
       "name": "WION",
-      "count": 21,
+      "count": 22,
       "first": "2026-07-23",
-      "last": "2026-10-14"
+      "last": "2026-10-22"
     },
     {
       "name": "Mathrubhumi English",
@@ -450,6 +450,12 @@
       "last": "2026-10-02"
     },
     {
+      "name": "Bloomberg.com",
+      "count": 11,
+      "first": "2026-08-10",
+      "last": "2026-10-22"
+    },
+    {
       "name": "Brut",
       "count": 11,
       "first": "2026-07-12",
@@ -472,12 +478,6 @@
       "count": 11,
       "first": "2026-09-10",
       "last": "2026-10-21"
-    },
-    {
-      "name": "Bloomberg.com",
-      "count": 10,
-      "first": "2026-08-10",
-      "last": "2026-10-22"
     },
     {
       "name": "CNBC TV18",
@@ -564,6 +564,12 @@
       "last": "2026-10-15"
     },
     {
+      "name": "News Arena India",
+      "count": 8,
+      "first": "2026-08-12",
+      "last": "2026-10-22"
+    },
+    {
       "name": "South China Morning Post",
       "count": 8,
       "first": "2026-09-25",
@@ -604,12 +610,6 @@
       "count": 7,
       "first": "2026-09-18",
       "last": "2026-10-12"
-    },
-    {
-      "name": "News Arena India",
-      "count": 7,
-      "first": "2026-08-12",
-      "last": "2026-10-21"
     },
     {
       "name": "PTC News",
@@ -858,6 +858,12 @@
       "last": "2026-10-13"
     },
     {
+      "name": "The Conversation",
+      "count": 4,
+      "first": "2026-08-12",
+      "last": "2026-10-22"
+    },
+    {
       "name": "The Lufkin Daily News",
       "count": 4,
       "first": "2026-10-10",
@@ -1017,12 +1023,6 @@
       "name": "Sandesh",
       "count": 3,
       "first": "2026-08-18",
-      "last": "2026-10-16"
-    },
-    {
-      "name": "The Conversation",
-      "count": 3,
-      "first": "2026-08-12",
       "last": "2026-10-16"
     },
     {
