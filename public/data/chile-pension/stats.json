@@ -575,7 +575,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 79
+      "count": 82
     }
   ],
   "sources": [
@@ -586,20 +586,20 @@
       "last": "2026-10-21"
     },
     {
+      "name": "The Clinic",
+      "count": 38,
+      "first": "2016-07-25",
+      "last": "2026-10-22"
+    },
+    {
       "name": "La Izquierda Diario",
       "count": 37,
       "first": "2015-04-23",
       "last": "2026-06-24"
     },
     {
-      "name": "The Clinic",
-      "count": 37,
-      "first": "2016-07-25",
-      "last": "2026-10-21"
-    },
-    {
       "name": "Radio Universidad de Chile",
-      "count": 26,
+      "count": 28,
       "first": "2026-09-16",
       "last": "2026-10-22"
     },
@@ -1258,12 +1258,6 @@
       "last": "2021-09-02"
     },
     {
-      "name": "https://roadshow.cl/",
-      "count": 1,
-      "first": "2026-09-24",
-      "last": "2026-09-24"
-    },
-    {
       "name": "In These Times",
       "count": 1,
       "first": "2020-02-19",
@@ -1538,6 +1532,12 @@
       "count": 1,
       "first": "2026-10-17",
       "last": "2026-10-17"
+    },
+    {
+      "name": "roadshow.cl",
+      "count": 1,
+      "first": "2026-09-24",
+      "last": "2026-09-24"
     },
     {
       "name": "RosarioPlus",
