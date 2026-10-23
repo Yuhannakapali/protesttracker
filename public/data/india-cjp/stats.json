@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2434
+      "count": 2444
     }
   ],
   "sources": [
@@ -127,7 +127,7 @@
     },
     {
       "name": "The Times of India",
-      "count": 234,
+      "count": 235,
       "first": "2026-06-06",
       "last": "2026-10-23"
     },
@@ -138,15 +138,15 @@
       "last": "2026-10-22"
     },
     {
+      "name": "Hindustan Times",
+      "count": 180,
+      "first": "2026-06-06",
+      "last": "2026-10-23"
+    },
+    {
       "name": "The New Indian Express",
       "count": 180,
       "first": "2026-07-22",
-      "last": "2026-10-22"
-    },
-    {
-      "name": "Hindustan Times",
-      "count": 179,
-      "first": "2026-06-06",
       "last": "2026-10-22"
     },
     {
@@ -157,7 +157,7 @@
     },
     {
       "name": "India Today",
-      "count": 155,
+      "count": 156,
       "first": "2026-07-15",
       "last": "2026-10-23"
     },
@@ -169,7 +169,7 @@
     },
     {
       "name": "Rediff",
-      "count": 95,
+      "count": 96,
       "first": "2026-06-07",
       "last": "2026-10-21"
     },
@@ -193,15 +193,15 @@
     },
     {
       "name": "ANI News",
-      "count": 83,
+      "count": 84,
       "first": "2026-07-22",
-      "last": "2026-10-21"
+      "last": "2026-10-23"
     },
     {
       "name": "News18",
-      "count": 61,
+      "count": 62,
       "first": "2026-07-20",
-      "last": "2026-10-22"
+      "last": "2026-10-23"
     },
     {
       "name": "The News Mill",
@@ -480,6 +480,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "NewsBytes",
+      "count": 11,
+      "first": "2026-08-20",
+      "last": "2026-10-23"
+    },
+    {
       "name": "CNBC TV18",
       "count": 10,
       "first": "2026-07-30",
@@ -502,12 +508,6 @@
       "count": 10,
       "first": "2026-08-19",
       "last": "2026-10-16"
-    },
-    {
-      "name": "NewsBytes",
-      "count": 10,
-      "first": "2026-08-20",
-      "last": "2026-10-06"
     },
     {
       "name": "Reuters Connect",
@@ -550,6 +550,12 @@
       "count": 9,
       "first": "2026-07-26",
       "last": "2026-10-02"
+    },
+    {
+      "name": "Kashmir Observer",
+      "count": 8,
+      "first": "2026-09-18",
+      "last": "2026-10-23"
     },
     {
       "name": "MorungExpress",
@@ -604,12 +610,6 @@
       "count": 7,
       "first": "2026-08-22",
       "last": "2026-10-21"
-    },
-    {
-      "name": "Kashmir Observer",
-      "count": 7,
-      "first": "2026-09-18",
-      "last": "2026-10-12"
     },
     {
       "name": "PTC News",
@@ -876,6 +876,12 @@
       "last": "2026-10-11"
     },
     {
+      "name": "The Siasat Daily",
+      "count": 4,
+      "first": "2026-09-04",
+      "last": "2026-10-22"
+    },
+    {
       "name": "The Straits Times",
       "count": 4,
       "first": "2026-09-24",
@@ -1032,12 +1038,6 @@
       "last": "2026-10-15"
     },
     {
-      "name": "The Siasat Daily",
-      "count": 3,
-      "first": "2026-09-04",
-      "last": "2026-09-11"
-    },
-    {
       "name": "Türkiye Today",
       "count": 3,
       "first": "2026-10-10",
@@ -1072,6 +1072,12 @@
       "count": 2,
       "first": "2026-07-31",
       "last": "2026-10-15"
+    },
+    {
+      "name": "Ahmedabad Mirror",
+      "count": 2,
+      "first": "2026-08-22",
+      "last": "2026-10-23"
     },
     {
       "name": "Al Arabiya English",
@@ -1438,12 +1444,6 @@
       "count": 1,
       "first": "2026-07-27",
       "last": "2026-07-27"
-    },
-    {
-      "name": "Ahmedabad Mirror",
-      "count": 1,
-      "first": "2026-08-22",
-      "last": "2026-08-22"
     },
     {
       "name": "Amnesty International",
