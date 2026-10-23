@@ -1,13 +1,6 @@
 {
   "articles": [
     {
-      "title": "“Toda una vida trabajando para perder millones”: Las historias de dos jubiladas que decidieron enfrentar sin abogados a las AFP por las pérdidas del Fondo E",
-      "source": "The Clinic",
-      "url": "https://www.theclinic.cl/2026/10/22/toda-una-vida-trabajando-para-perder-millones-las-historias-de-dos-jubiladas-que-enfrentan-sin-abogados-a-las-afp-por-las-perdidas-del-fondo-e/",
-      "date": "2026-10-22",
-      "excerpt": "Mientras el Gobierno y el Congreso impulsan acciones frente a las pérdidas de los fondos de pensiones, afiliados que mantienen sus ahorros en el Fondo E recurrieron a la justicia para exigir la restitución del dinero. En conversación con The Clinic, cuestionan el impacto de la caída en sus pensiones y apuntan a la falt"
-    },
-    {
       "title": "Las AFP bajo presión: oposición cuestiona nuevos negocios y pide investigar pérdidas de los fondos",
       "source": "Radio Universidad de Chile",
       "url": "https://radio.uchile.cl/2026/10/22/las-afp-bajo-presion-oposicion-cuestiona-nuevos-negocios-y-pide-investigar-perdidas-de-los-fondos/",
@@ -41,6 +34,13 @@
       "url": "https://radio.uchile.cl/2026/10/22/gobierno-abre-otra-puerta-a-las-afp-propone-que-administren-el-ahorro-para-la-vivienda/",
       "date": "2026-10-22",
       "excerpt": "La Comisión de Hacienda de la Cámara ya aprobó incorporar a las AFP en la gestión del nuevo ahorro habitacional, en medio de las millonarias pérdidas del fondo E. La entrada Gobierno abre otra puerta a las AFP: propone que puedan administrar nuevo ahorro para la vivienda se publicó primero en Diario y Radio Universidad"
+    },
+    {
+      "title": "“Toda una vida trabajando para perder millones”: Las historias de dos jubiladas que decidieron enfrentar sin abogados a las AFP por las pérdidas del Fondo E",
+      "source": "The Clinic",
+      "url": "https://www.theclinic.cl/2026/10/22/toda-una-vida-trabajando-para-perder-millones-las-historias-de-dos-jubiladas-que-enfrentan-sin-abogados-a-las-afp-por-las-perdidas-del-fondo-e/",
+      "date": "2026-10-22",
+      "excerpt": "Mientras el Gobierno y el Congreso impulsan acciones frente a las pérdidas de los fondos de pensiones, afiliados que mantienen sus ahorros en el Fondo E recurrieron a la justicia para exigir la restitución del dinero. En conversación con The Clinic, cuestionan el impacto de la caída en sus pensiones y apuntan a la falt"
     },
     {
       "title": "Ante suspensión de clases: ¿qué opciones tienes en el trabajo si no cuentas con quién cuidar a tu hijo?",
@@ -597,7 +597,7 @@
     },
     {
       "title": "Opinión: De No+AFP a… no, más AFP",
-      "source": "roadshow.cl",
+      "source": "https://roadshow.cl/",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYa0hwT3JwUHdZR3BXOV9rYUhNWHQ0Wmc1RFZJNHM4LUcyN0tsNFRwOFZxcmNPQzJGMExKQ0VPNEgyY0pDVlZLWEt2a2MzUmtDbmY5NkZQc3lXbnp0NkdZQUNkZm54ODJWNVdUaDV6aw?oc=5",
       "date": "2026-09-24",
       "excerpt": ""
@@ -750,16 +750,16 @@
       "excerpt": ""
     },
     {
-      "title": "Paro docente y movilización en rechazo de la reforma previsional y la protesta se suma a la de otros gremios",
-      "source": "Análisis Digital",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWGdqLUxrRm1XdnpYbHk2Q0sydGw1RktaZEZPTWdlMXFwS0IxR2FGakN6MUhQZVM3UU9KQ1BDRDBlamhGMWktXzJnZ3dPcTJKMXlhd0w4MVZfdkpOQ2VOQWN4X2owNElsNU4yemsyV2JRc29BdFQxRW5lSi1NczNZeWJMcUVMekNJZFZhWURXcnRtaHlfRWc4dkxNYlQ5WWxMMi1tX2RSWlYxaTlHWGk2LXZVc1FzQ3dKN0NSbHM0eVZmWEZQcFlzV0oxQkNTdTF2b3E2aGVwdWFidGNsTmxrMXVuanN2NTVsYTFvcG90M2xlZFZ0Tnd2UA?oc=5",
+      "title": "Trabajadores de salud mental definieron sumarse a las protestas contra la reforma previsional",
+      "source": "APFDigital",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQblF3ZTdKWWxIWWFuLXhobktDU0V4cTlPR0MxVzN4TGNBdmYyTDlUbkdGNnFlWWwwQ2RLRW1jN2p1UnhSY3c4ZDA2NThKa0RlU0FEWWRsNzNvVmJXNXJ1cHhNbFpJWUhrRDQtckp6OXBLU0pVcDFWZmJORFctSnpuZGtyYkdOM1BsZUxSRGRtT0txZWF4WW9uUFl3M2pVc1lVZnRWZlBRbE9qbXhhV3ZObmI2cXVmVkVLd2lVYzBQeXBDSEJkSDRrV1hfY25JNVRBRGFCSG1qd0U1LXFUVVhlVlM3b3rSAeoBQVVfeXFMTlhJVVkwdFpOWFVRcklROW9lb0RTNzFQMWpLVGI4Vy1qRVNjY2dxQlBTU0pjcDQyMzFTa2NOekVRY2xTOFlha1hiOEpGZC1BSGtUUXdNcEVlQUZCaW1OeUNUX0xTSkVmajU3R0lSZzh4cGpQbDRDRDVDeXV5clBQZzBDUVU2M3h4WXJreDUyMUtiT0dQU1h1QmhiNEw0YkVfek5PODdkMmdnV3VWY0tlRDRyZ00wUXpiQ3BjQ0lzMjZ4SVEzN2ZRajl1TXJHVk1Ua1hJWmxFMTZXSkxGWWszbWstYU1nTlhMbkRR?oc=5",
       "date": "2026-07-27",
       "excerpt": ""
     },
     {
-      "title": "Trabajadores de salud mental definieron sumarse a las protestas contra la reforma previsional",
-      "source": "APFDigital",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQblF3ZTdKWWxIWWFuLXhobktDU0V4cTlPR0MxVzN4TGNBdmYyTDlUbkdGNnFlWWwwQ2RLRW1jN2p1UnhSY3c4ZDA2NThKa0RlU0FEWWRsNzNvVmJXNXJ1cHhNbFpJWUhrRDQtckp6OXBLU0pVcDFWZmJORFctSnpuZGtyYkdOM1BsZUxSRGRtT0txZWF4WW9uUFl3M2pVc1lVZnRWZlBRbE9qbXhhV3ZObmI2cXVmVkVLd2lVYzBQeXBDSEJkSDRrV1hfY25JNVRBRGFCSG1qd0U1LXFUVVhlVlM3b3rSAeoBQVVfeXFMTlhJVVkwdFpOWFVRcklROW9lb0RTNzFQMWpLVGI4Vy1qRVNjY2dxQlBTU0pjcDQyMzFTa2NOekVRY2xTOFlha1hiOEpGZC1BSGtUUXdNcEVlQUZCaW1OeUNUX0xTSkVmajU3R0lSZzh4cGpQbDRDRDVDeXV5clBQZzBDUVU2M3h4WXJreDUyMUtiT0dQU1h1QmhiNEw0YkVfek5PODdkMmdnV3VWY0tlRDRyZ00wUXpiQ3BjQ0lzMjZ4SVEzN2ZRajl1TXJHVk1Ua1hJWmxFMTZXSkxGWWszbWstYU1nTlhMbkRR?oc=5",
+      "title": "Paro docente y movilización en rechazo de la reforma previsional y la protesta se suma a la de otros gremios",
+      "source": "Análisis Digital",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWGdqLUxrRm1XdnpYbHk2Q0sydGw1RktaZEZPTWdlMXFwS0IxR2FGakN6MUhQZVM3UU9KQ1BDRDBlamhGMWktXzJnZ3dPcTJKMXlhd0w4MVZfdkpOQ2VOQWN4X2owNElsNU4yemsyV2JRc29BdFQxRW5lSi1NczNZeWJMcUVMekNJZFZhWURXcnRtaHlfRWc4dkxNYlQ5WWxMMi1tX2RSWlYxaTlHWGk2LXZVc1FzQ3dKN0NSbHM0eVZmWEZQcFlzV0oxQkNTdTF2b3E2aGVwdWFidGNsTmxrMXVuanN2NTVsYTFvcG90M2xlZFZ0Tnd2UA?oc=5",
       "date": "2026-07-27",
       "excerpt": ""
     },
@@ -820,16 +820,16 @@
       "excerpt": ""
     },
     {
-      "title": "Importantes manifestaciones en las rutas contra la reforma previsional de Frigerio y en apoyo a la lucha de Tres Arroyos.",
-      "source": "La Izquierda Diario",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEc3VjRpTnc2TUQ2NE5iWkpONGZmLW9yLVJJRzRlLVo5LXF4cXVkUmZIZGpXVUFmQVJYXy1CWDNpQUw2WWdrc29aaGVSclpsRm8tbjFQa0MxYlNRV0M3V0hRMHdQUTBaY1h2ZHlBRVRQR1R4YXNqTkdTZko0T2FZODE5OFRnQ1hlMmNGdS02ZDJVUUdGaHFHX09fODRWOUxXa3hBWXA5ZWtMeHFIaVAwT181d2lIa055RWxYVld4UVo3QTZIT3pTN0VWcEbSAdQBQVVfeXFMTm5FVGdKR04zeEd1ZklmLU5GdXJzMmVZYnp2blFJOWxVUkdGVFFyTElUZDIzd0RDUnhKb0dqSnN3cXY1M0NTemphVEZjWVZsM3h1RWc4NnpTMmJPajQ4UlE4SlZpX1I5X3ZjOGdzZTg0NWU3aWMzMllRMWwxZ3RhWTRURGdsUUJ4LWc4bTFjRmF6dEp0UlBzVHBRa0JqQ0h4Vmo5SDVmaklybE5EUHR0dVNEekN5SVhaWktpRzJQTGNBSGtTWE1yT1V6bkZUNkQ1Rlp2RDc?oc=5",
+      "title": "La protesta se mudó al peaje: rechazo gremial a la reforma previsional",
+      "source": "Diario Junio",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEtVcUh5YTNaVDFDdkw4RTlfMWdHbGoxMG5SVXJKZTliUDZuVFNBTFNkbW5ERldTQ19mUkVQZG1wYmdHejJwX3JoVGFyZ0FCQWJIRFBuRElUUWV4SW5vVEhkOVdldmhrWk5ETElzWEg5anV1SUNBVHJhTEw0MEpKWUh1LUc3SG1GWTNIVW1VOE5wc0RwdDFrXy14REIwdi0wSFdPd3pSNTI0V05y?oc=5",
       "date": "2026-06-24",
       "excerpt": ""
     },
     {
-      "title": "La protesta se mudó al peaje: rechazo gremial a la reforma previsional",
-      "source": "Diario Junio",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEtVcUh5YTNaVDFDdkw4RTlfMWdHbGoxMG5SVXJKZTliUDZuVFNBTFNkbW5ERldTQ19mUkVQZG1wYmdHejJwX3JoVGFyZ0FCQWJIRFBuRElUUWV4SW5vVEhkOVdldmhrWk5ETElzWEg5anV1SUNBVHJhTEw0MEpKWUh1LUc3SG1GWTNIVW1VOE5wc0RwdDFrXy14REIwdi0wSFdPd3pSNTI0V05y?oc=5",
+      "title": "Importantes manifestaciones en las rutas contra la reforma previsional de Frigerio y en apoyo a la lucha de Tres Arroyos.",
+      "source": "La Izquierda Diario",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEc3VjRpTnc2TUQ2NE5iWkpONGZmLW9yLVJJRzRlLVo5LXF4cXVkUmZIZGpXVUFmQVJYXy1CWDNpQUw2WWdrc29aaGVSclpsRm8tbjFQa0MxYlNRV0M3V0hRMHdQUTBaY1h2ZHlBRVRQR1R4YXNqTkdTZko0T2FZODE5OFRnQ1hlMmNGdS02ZDJVUUdGaHFHX09fODRWOUxXa3hBWXA5ZWtMeHFIaVAwT181d2lIa055RWxYVld4UVo3QTZIT3pTN0VWcEbSAdQBQVVfeXFMTm5FVGdKR04zeEd1ZklmLU5GdXJzMmVZYnp2blFJOWxVUkdGVFFyTElUZDIzd0RDUnhKb0dqSnN3cXY1M0NTemphVEZjWVZsM3h1RWc4NnpTMmJPajQ4UlE4SlZpX1I5X3ZjOGdzZTg0NWU3aWMzMllRMWwxZ3RhWTRURGdsUUJ4LWc4bTFjRmF6dEp0UlBzVHBRa0JqQ0h4Vmo5SDVmaklybE5EUHR0dVNEekN5SVhaWktpRzJQTGNBSGtTWE1yT1V6bkZUNkQ1Rlp2RDc?oc=5",
       "date": "2026-06-24",
       "excerpt": ""
     },
@@ -1688,16 +1688,16 @@
       "excerpt": ""
     },
     {
-      "title": "Vuelven los cacerolazos a Chile por los fondos de pensiones",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUFzNjRJd1c4XzZZUGxOVlBlUG1DTUp5SFpoX1I0TDI5OUF4TVZSYnY3SlBQblZUQjM0dXJZUmF5QUJqdk1tbm5Rd2pCdVFSbkwtZkpCVENLUVlVWnBQbnh2SHI2VFdnVHJyR1h3UEZMMC00akJCLXp6Rm5MUXE0bzBJc3FhQUVENmdBRDd1WGNYa0tybk1R0gGXAUFVX3lxTE1WSGUxbjNhTVJ1N2VjMzRBanJvdGVMc1UwWDY0dGNWMi1HTUFuNkYzeTFMNjc0Yk90R1hWWWY3bjdaT2J5VmZ4OEhDMFhtUnhiQ3k1Zi1jNC1WaGpocFBIa3VXZXZEMDZxcjg0ckZFNTk1aDFXRDBFNHY5ZDdBNXRjTkVEZ18xOGZjRkVaLUhyZEREYlM1Rkk?oc=5",
+      "title": "Dauno Totoro frente el retiro del 10% de las AFP: \"Para que nunca más los empresarios y sus políticos decidan por el pueblo trabajador, hay que terminar con las AFP\"",
+      "source": "laizquierdadiario.cl",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnR4ZWs2OXkybDE2RHI0OUljdnVmMGstZUhfd3FGTHAxRlJSRUU2NnNENmI3aHRIS3VDX2JITGwtaXliaXhQZkJIR1R4VmVfc1Zvcks1aExKcmpFM200UHlXYkJnRE9PVlFveHVmYTdHVUlGdWEtQkU3S2UxLW1xX082NWVtbktvRWtFQzZzWi00c19TSlNQdlcxS29oSVRjRE9nOVBMWXpDVjd6SjZJbFZEUHRHU2VteHRoVmM2d1l4T2I0eFZWcGpFY9IB0wFBVV95cUxNTXRaazdhNk5Qck96djFGd1FMZGJNX1FINFNvTXN6clcxT3Z1TTFoZW9rcXlrRmVMTERtZUtDUlZPN0dfaWRkY0U1a3ZvdUlNT1VtR3c3eG9fMmZBei1Pd0xsZ2lXQkhBM2k5YkNWZWEzTE5jcHQ1R19vNm5kRmw2SUVUWl8xTFFhNTQyenBodWJOXzJRTHBoUTFtMlJyOUVCV2I1eFBoY0lic1Q0YllkVzBUbEpiQ1JCcUlmenROLUFyblprYnF3aWJhN3FVSXV1eDdr?oc=5",
       "date": "2020-07-15",
       "excerpt": ""
     },
     {
-      "title": "Dauno Totoro frente el retiro del 10% de las AFP: \"Para que nunca más los empresarios y sus políticos decidan por el pueblo trabajador, hay que terminar con las AFP\"",
-      "source": "laizquierdadiario.cl",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnR4ZWs2OXkybDE2RHI0OUljdnVmMGstZUhfd3FGTHAxRlJSRUU2NnNENmI3aHRIS3VDX2JITGwtaXliaXhQZkJIR1R4VmVfc1Zvcks1aExKcmpFM200UHlXYkJnRE9PVlFveHVmYTdHVUlGdWEtQkU3S2UxLW1xX082NWVtbktvRWtFQzZzWi00c19TSlNQdlcxS29oSVRjRE9nOVBMWXpDVjd6SjZJbFZEUHRHU2VteHRoVmM2d1l4T2I0eFZWcGpFY9IB0wFBVV95cUxNTXRaazdhNk5Qck96djFGd1FMZGJNX1FINFNvTXN6clcxT3Z1TTFoZW9rcXlrRmVMTERtZUtDUlZPN0dfaWRkY0U1a3ZvdUlNT1VtR3c3eG9fMmZBei1Pd0xsZ2lXQkhBM2k5YkNWZWEzTE5jcHQ1R19vNm5kRmw2SUVUWl8xTFFhNTQyenBodWJOXzJRTHBoUTFtMlJyOUVCV2I1eFBoY0lic1Q0YllkVzBUbEpiQ1JCcUlmenROLUFyblprYnF3aWJhN3FVSXV1eDdr?oc=5",
+      "title": "Vuelven los cacerolazos a Chile por los fondos de pensiones",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUFzNjRJd1c4XzZZUGxOVlBlUG1DTUp5SFpoX1I0TDI5OUF4TVZSYnY3SlBQblZUQjM0dXJZUmF5QUJqdk1tbm5Rd2pCdVFSbkwtZkpCVENLUVlVWnBQbnh2SHI2VFdnVHJyR1h3UEZMMC00akJCLXp6Rm5MUXE0bzBJc3FhQUVENmdBRDd1WGNYa0tybk1R0gGXAUFVX3lxTE1WSGUxbjNhTVJ1N2VjMzRBanJvdGVMc1UwWDY0dGNWMi1HTUFuNkYzeTFMNjc0Yk90R1hWWWY3bjdaT2J5VmZ4OEhDMFhtUnhiQ3k1Zi1jNC1WaGpocFBIa3VXZXZEMDZxcjg0ckZFNTk1aDFXRDBFNHY5ZDdBNXRjTkVEZ18xOGZjRkVaLUhyZEREYlM1Rkk?oc=5",
       "date": "2020-07-15",
       "excerpt": ""
     },

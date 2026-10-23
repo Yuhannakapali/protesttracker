@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T22:58:23.949Z",
+  "lastUpdated": "2026-10-23T03:30:43.173Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -10,23 +10,23 @@
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 3922,
-      "updated": "23h ago",
+      "articleCount": 3924,
+      "updated": "4h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
         {
-          "title": "CJP leaders Saurav Das, Ashutosh Ranka summoned by Delhi Police Crime Branch after release from jail",
-          "source": "The Hindu",
-          "date": "2026-10-22"
+          "title": "Will never support CJP, their agenda different: Annamalai clarifies amid row",
+          "source": "India Today",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "‘There is nothing wrong with regime change in a democracy’: Neha Bora tells Delhi HC, denies role in CJP",
+          "source": "The Times of India",
+          "date": "2026-10-23"
         },
         {
           "title": "Blurring peaceful stir and law-breaking: BJP on Annamalai’s critique of CJP protest crackdown",
           "source": "The Indian Express",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "No role in CJP protest call: Neha Bora to Delhi HC on peace bond after detention",
-          "source": "India Today",
           "date": "2026-10-22"
         }
       ]
@@ -40,14 +40,14 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 954,
-      "updated": "23h ago",
+      "articleCount": 955,
+      "updated": "4h ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
         {
-          "title": "NLC, TUC Threaten Nationwide Strike After Failed Meeting With FG",
-          "source": "Politics Nigeria",
-          "date": "2026-10-22"
+          "title": "NLC Signals Strike As Talks With FG End In Stalemate",
+          "source": "Independent Newspaper Nigeria",
+          "date": "2026-10-23"
         },
         {
           "title": "NEC endorses 90-day plan to ease cost of living for Nigerians, but no specific details yet",
@@ -55,8 +55,8 @@
           "date": "2026-10-22"
         },
         {
-          "title": "Cost Of Living: Ogun Plans Bulk Food Sales, More Buses",
-          "source": "Channels Television",
+          "title": "NLC, TUC Threaten Nationwide Strike After Failed Meeting With FG",
+          "source": "Politics Nigeria",
           "date": "2026-10-22"
         }
       ]
@@ -64,21 +64,16 @@
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 471,
-      "updated": "23h ago",
+      "articleCount": 472,
+      "updated": "1d ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
-        {
-          "title": "“Toda una vida trabajando para perder millones”: Las historias de dos jubiladas que decidieron enfrentar sin abogados a las AFP por las pérdidas del Fondo E",
-          "source": "The Clinic",
-          "date": "2026-10-22"
-        },
         {
           "title": "Las AFP bajo presión: oposición cuestiona nuevos negocios y pide investigar pérdidas de los fondos",
           "source": "Radio Universidad de Chile",
@@ -86,6 +81,11 @@
         },
         {
           "title": "Marco Kremerman y pérdidas de US$7 mil 700 millones de las AFP: “Fueron apuestas, tal como se apuesta a los caballos”",
+          "source": "Radio Universidad de Chile",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Gastón Saavedra (PS) y caída del Fondo E: “Quisiera que el Gobierno defendiera a los chilenos”",
           "source": "Radio Universidad de Chile",
           "date": "2026-10-22"
         }
@@ -100,7 +100,7 @@
       "location": "Kenya · Nairobi",
       "year": 2024,
       "logged": "2024-06-10",
-      "articleCount": 498,
+      "articleCount": 499,
       "updated": "2d ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
