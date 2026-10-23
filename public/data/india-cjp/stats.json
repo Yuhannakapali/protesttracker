@@ -107,7 +107,7 @@
     },
     {
       "start": "2026-08-01",
-      "count": 605
+      "count": 606
     },
     {
       "start": "2026-09-01",
@@ -115,31 +115,31 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2459
+      "count": 2469
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 343,
+      "count": 344,
       "first": "2026-06-06",
       "last": "2026-10-23"
     },
     {
       "name": "The Times of India",
-      "count": 237,
+      "count": 238,
       "first": "2026-06-06",
       "last": "2026-10-23"
     },
     {
       "name": "NDTV",
-      "count": 219,
+      "count": 220,
       "first": "2026-05-12",
       "last": "2026-10-22"
     },
     {
       "name": "Hindustan Times",
-      "count": 181,
+      "count": 182,
       "first": "2026-06-06",
       "last": "2026-10-23"
     },
@@ -157,7 +157,7 @@
     },
     {
       "name": "India Today",
-      "count": 156,
+      "count": 158,
       "first": "2026-07-15",
       "last": "2026-10-23"
     },
@@ -199,7 +199,7 @@
     },
     {
       "name": "News18",
-      "count": 62,
+      "count": 63,
       "first": "2026-07-20",
       "last": "2026-10-23"
     },
@@ -234,27 +234,27 @@
       "last": "2026-10-17"
     },
     {
+      "name": "Deccan Chronicle",
+      "count": 38,
+      "first": "2026-08-16",
+      "last": "2026-10-23"
+    },
+    {
       "name": "Telangana Today",
       "count": 38,
       "first": "2026-07-25",
       "last": "2026-10-22"
     },
     {
-      "name": "Deccan Chronicle",
-      "count": 37,
-      "first": "2026-08-16",
-      "last": "2026-10-19"
+      "name": "The Week",
+      "count": 36,
+      "first": "2026-07-27",
+      "last": "2026-10-23"
     },
     {
       "name": "moneycontrol.com",
       "count": 35,
       "first": "2026-08-18",
-      "last": "2026-10-23"
-    },
-    {
-      "name": "The Week",
-      "count": 35,
-      "first": "2026-07-27",
       "last": "2026-10-23"
     },
     {
@@ -552,6 +552,12 @@
       "last": "2026-10-02"
     },
     {
+      "name": "Urban Acres",
+      "count": 9,
+      "first": "2026-10-01",
+      "last": "2026-10-23"
+    },
+    {
       "name": "Kashmir Observer",
       "count": 8,
       "first": "2026-09-18",
@@ -580,12 +586,6 @@
       "count": 8,
       "first": "2026-09-25",
       "last": "2026-10-17"
-    },
-    {
-      "name": "Urban Acres",
-      "count": 8,
-      "first": "2026-10-01",
-      "last": "2026-10-23"
     },
     {
       "name": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -2146,6 +2146,12 @@
       "count": 1,
       "first": "2026-08-15",
       "last": "2026-08-15"
+    },
+    {
+      "name": "The Legal Affair",
+      "count": 1,
+      "first": "2026-10-22",
+      "last": "2026-10-22"
     },
     {
       "name": "The News Pakistan",
