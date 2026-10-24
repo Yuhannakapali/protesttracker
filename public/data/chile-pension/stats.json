@@ -575,13 +575,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 87
+      "count": 89
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 46,
+      "count": 47,
       "first": "2016-08-10",
       "last": "2026-10-23"
     },
@@ -908,6 +908,12 @@
       "count": 2,
       "first": "2024-02-07",
       "last": "2025-11-29"
+    },
+    {
+      "name": "World Socialist Web Site",
+      "count": 2,
+      "first": "2026-06-11",
+      "last": "2026-10-24"
     },
     {
       "name": "0264Noticias",
@@ -1696,12 +1702,6 @@
       "last": "2018-04-23"
     },
     {
-      "name": "World Socialist Web Site",
-      "count": 1,
-      "first": "2026-06-11",
-      "last": "2026-06-11"
-    },
-    {
       "name": "WSJ",
       "count": 1,
       "first": "2019-10-27",
@@ -1709,5 +1709,5 @@
     }
   ],
   "firstDate": "2014-11-04",
-  "lastDate": "2026-10-23"
+  "lastDate": "2026-10-24"
 }
