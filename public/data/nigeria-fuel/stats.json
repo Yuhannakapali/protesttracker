@@ -715,7 +715,7 @@
     },
     {
       "start": "2024-08-01",
-      "count": 17
+      "count": 18
     },
     {
       "start": "2024-09-01",
@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 187
+      "count": 192
     }
   ],
   "sources": [
@@ -831,15 +831,15 @@
     },
     {
       "name": "Vanguard",
-      "count": 85,
+      "count": 87,
       "first": "2026-09-02",
-      "last": "2026-10-23"
+      "last": "2026-10-24"
     },
     {
       "name": "Channels Television",
-      "count": 67,
+      "count": 70,
       "first": "2012-01-04",
-      "last": "2026-10-23"
+      "last": "2026-10-24"
     },
     {
       "name": "The Guardian Nigeria News",
@@ -932,6 +932,12 @@
       "last": "2024-08-02"
     },
     {
+      "name": "Tribune Online",
+      "count": 14,
+      "first": "2021-12-17",
+      "last": "2026-10-20"
+    },
+    {
       "name": "Independent Newspaper Nigeria",
       "count": 13,
       "first": "2020-09-07",
@@ -942,12 +948,6 @@
       "count": 13,
       "first": "2023-01-26",
       "last": "2026-10-07"
-    },
-    {
-      "name": "Tribune Online",
-      "count": 13,
-      "first": "2021-12-17",
-      "last": "2026-10-20"
     },
     {
       "name": "Legit News",

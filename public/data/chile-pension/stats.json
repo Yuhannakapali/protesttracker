@@ -151,7 +151,7 @@
     },
     {
       "start": "2017-12-01",
-      "count": 22
+      "count": 23
     },
     {
       "start": "2018-01-01",
@@ -658,6 +658,12 @@
       "last": "2025-02-06"
     },
     {
+      "name": "Clarin.com",
+      "count": 5,
+      "first": "2017-12-18",
+      "last": "2019-12-24"
+    },
+    {
       "name": "Diario La Quinta",
       "count": 5,
       "first": "2018-06-01",
@@ -680,12 +686,6 @@
       "count": 4,
       "first": "2014-11-04",
       "last": "2021-11-18"
-    },
-    {
-      "name": "Clarin.com",
-      "count": 4,
-      "first": "2017-12-18",
-      "last": "2019-12-24"
     },
     {
       "name": "Cooperativa",
@@ -1270,12 +1270,6 @@
       "last": "2021-09-02"
     },
     {
-      "name": "https://roadshow.cl/",
-      "count": 1,
-      "first": "2026-09-24",
-      "last": "2026-09-24"
-    },
-    {
       "name": "In These Times",
       "count": 1,
       "first": "2020-02-19",
@@ -1550,6 +1544,12 @@
       "count": 1,
       "first": "2026-10-17",
       "last": "2026-10-17"
+    },
+    {
+      "name": "roadshow.cl",
+      "count": 1,
+      "first": "2026-09-24",
+      "last": "2026-09-24"
     },
     {
       "name": "RosarioPlus",

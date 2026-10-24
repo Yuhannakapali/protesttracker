@@ -115,15 +115,15 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2477
+      "count": 2486
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 345,
+      "count": 347,
       "first": "2026-06-06",
-      "last": "2026-10-23"
+      "last": "2026-10-24"
     },
     {
       "name": "The Times of India",
@@ -133,9 +133,9 @@
     },
     {
       "name": "NDTV",
-      "count": 220,
+      "count": 222,
       "first": "2026-05-12",
-      "last": "2026-10-22"
+      "last": "2026-10-24"
     },
     {
       "name": "Hindustan Times",
@@ -153,7 +153,7 @@
       "name": "The Indian Express",
       "count": 160,
       "first": "2026-07-24",
-      "last": "2026-10-24"
+      "last": "2026-10-23"
     },
     {
       "name": "India Today",
@@ -169,9 +169,9 @@
     },
     {
       "name": "Rediff",
-      "count": 96,
+      "count": 97,
       "first": "2026-06-07",
-      "last": "2026-10-21"
+      "last": "2026-10-24"
     },
     {
       "name": "The Economic Times",
@@ -277,9 +277,15 @@
     },
     {
       "name": "The Business Standard",
-      "count": 29,
+      "count": 30,
       "first": "2026-08-23",
-      "last": "2026-10-21"
+      "last": "2026-10-24"
+    },
+    {
+      "name": "LawBeat",
+      "count": 28,
+      "first": "2026-02-07",
+      "last": "2026-10-24"
     },
     {
       "name": "Live Law",
@@ -292,12 +298,6 @@
       "count": 27,
       "first": "2026-05-20",
       "last": "2026-10-19"
-    },
-    {
-      "name": "LawBeat",
-      "count": 27,
-      "first": "2026-02-07",
-      "last": "2026-10-23"
     },
     {
       "name": "Bhaskar English",
@@ -486,6 +486,12 @@
       "last": "2026-10-23"
     },
     {
+      "name": "Reuters Connect",
+      "count": 11,
+      "first": "2026-08-29",
+      "last": "2026-10-15"
+    },
+    {
       "name": "CNBC TV18",
       "count": 10,
       "first": "2026-07-30",
@@ -510,12 +516,6 @@
       "last": "2026-10-16"
     },
     {
-      "name": "Reuters Connect",
-      "count": 10,
-      "first": "2026-08-29",
-      "last": "2026-10-15"
-    },
-    {
       "name": "The Quint",
       "count": 10,
       "first": "2026-08-18",
@@ -538,6 +538,12 @@
       "count": 9,
       "first": "2026-09-24",
       "last": "2026-10-19"
+    },
+    {
+      "name": "NDTV Profit",
+      "count": 9,
+      "first": "2026-09-25",
+      "last": "2026-10-24"
     },
     {
       "name": "The Hans India",
@@ -568,12 +574,6 @@
       "count": 8,
       "first": "2026-08-20",
       "last": "2026-10-21"
-    },
-    {
-      "name": "NDTV Profit",
-      "count": 8,
-      "first": "2026-09-25",
-      "last": "2026-10-15"
     },
     {
       "name": "News Arena India",
@@ -1502,8 +1502,8 @@
     {
       "name": "Britannica",
       "count": 1,
-      "first": "2026-10-16",
-      "last": "2026-10-16"
+      "first": "2026-10-23",
+      "last": "2026-10-23"
     },
     {
       "name": "Brut. France",
