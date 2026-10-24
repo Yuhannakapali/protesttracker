@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2486
+      "count": 2488
     }
   ],
   "sources": [
@@ -133,7 +133,7 @@
     },
     {
       "name": "NDTV",
-      "count": 222,
+      "count": 223,
       "first": "2026-05-12",
       "last": "2026-10-24"
     },
@@ -630,6 +630,12 @@
       "last": "2026-10-19"
     },
     {
+      "name": "Republic World",
+      "count": 7,
+      "first": "2026-08-21",
+      "last": "2026-10-23"
+    },
+    {
       "name": "The Independent",
       "count": 7,
       "first": "2026-08-14",
@@ -664,12 +670,6 @@
       "count": 6,
       "first": "2026-10-06",
       "last": "2026-10-22"
-    },
-    {
-      "name": "Republic World",
-      "count": 6,
-      "first": "2026-08-21",
-      "last": "2026-10-23"
     },
     {
       "name": "The News Minute",
