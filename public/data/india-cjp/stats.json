@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2495
+      "count": 2499
     }
   ],
   "sources": [
@@ -133,9 +133,9 @@
     },
     {
       "name": "NDTV",
-      "count": 223,
+      "count": 224,
       "first": "2026-05-12",
-      "last": "2026-10-24"
+      "last": "2026-10-25"
     },
     {
       "name": "Hindustan Times",
@@ -153,7 +153,7 @@
       "name": "The Indian Express",
       "count": 160,
       "first": "2026-07-24",
-      "last": "2026-10-24"
+      "last": "2026-10-23"
     },
     {
       "name": "India Today",
@@ -187,9 +187,9 @@
     },
     {
       "name": "Deccan Herald",
-      "count": 86,
+      "count": 87,
       "first": "2026-06-05",
-      "last": "2026-10-23"
+      "last": "2026-10-24"
     },
     {
       "name": "ANI News",
@@ -246,15 +246,15 @@
       "last": "2026-10-22"
     },
     {
+      "name": "moneycontrol.com",
+      "count": 36,
+      "first": "2026-08-18",
+      "last": "2026-10-25"
+    },
+    {
       "name": "The Week",
       "count": 36,
       "first": "2026-07-27",
-      "last": "2026-10-23"
-    },
-    {
-      "name": "moneycontrol.com",
-      "count": 35,
-      "first": "2026-08-18",
       "last": "2026-10-23"
     },
     {
@@ -444,6 +444,12 @@
       "last": "2026-10-16"
     },
     {
+      "name": "Reuters Connect",
+      "count": 12,
+      "first": "2026-08-29",
+      "last": "2026-10-15"
+    },
+    {
       "name": "theweek.in",
       "count": 12,
       "first": "2026-06-06",
@@ -484,12 +490,6 @@
       "count": 11,
       "first": "2026-08-20",
       "last": "2026-10-23"
-    },
-    {
-      "name": "Reuters Connect",
-      "count": 11,
-      "first": "2026-08-29",
-      "last": "2026-10-15"
     },
     {
       "name": "CNBC TV18",

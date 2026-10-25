@@ -139,7 +139,7 @@
     },
     {
       "start": "2017-09-01",
-      "count": 4
+      "count": 5
     },
     {
       "start": "2017-10-01",
@@ -395,7 +395,7 @@
     },
     {
       "start": "2023-01-01",
-      "count": 0
+      "count": 1
     },
     {
       "start": "2023-02-01",
@@ -575,15 +575,15 @@
     },
     {
       "start": "2026-10-01",
-      "count": 90
+      "count": 91
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 47,
+      "count": 48,
       "first": "2016-08-10",
-      "last": "2026-10-23"
+      "last": "2026-10-25"
     },
     {
       "name": "The Clinic",
@@ -658,6 +658,12 @@
       "last": "2025-02-06"
     },
     {
+      "name": "BioBioChile",
+      "count": 5,
+      "first": "2014-11-04",
+      "last": "2023-01-19"
+    },
+    {
       "name": "Clarin.com",
       "count": 5,
       "first": "2017-12-18",
@@ -680,12 +686,6 @@
       "count": 5,
       "first": "2016-08-19",
       "last": "2025-09-23"
-    },
-    {
-      "name": "BioBioChile",
-      "count": 4,
-      "first": "2014-11-04",
-      "last": "2021-11-18"
     },
     {
       "name": "Cooperativa",
@@ -1064,6 +1064,12 @@
       "count": 1,
       "first": "2025-09-29",
       "last": "2025-09-29"
+    },
+    {
+      "name": "CNN en Español",
+      "count": 1,
+      "first": "2017-09-04",
+      "last": "2017-09-04"
     },
     {
       "name": "Congreso",
@@ -1709,5 +1715,5 @@
     }
   ],
   "firstDate": "2014-11-04",
-  "lastDate": "2026-10-24"
+  "lastDate": "2026-10-25"
 }

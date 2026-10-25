@@ -439,7 +439,7 @@
     },
     {
       "start": "2018-11-01",
-      "count": 1
+      "count": 2
     },
     {
       "start": "2018-12-01",
@@ -699,7 +699,7 @@
     },
     {
       "start": "2024-04-01",
-      "count": 0
+      "count": 1
     },
     {
       "start": "2024-05-01",
@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 195
+      "count": 199
     }
   ],
   "sources": [
@@ -831,15 +831,15 @@
     },
     {
       "name": "Vanguard",
-      "count": 89,
+      "count": 90,
       "first": "2026-09-02",
       "last": "2026-10-25"
     },
     {
       "name": "Channels Television",
-      "count": 70,
+      "count": 71,
       "first": "2012-01-04",
-      "last": "2026-10-24"
+      "last": "2026-10-25"
     },
     {
       "name": "The Guardian Nigeria News",
@@ -861,7 +861,7 @@
     },
     {
       "name": "BBC",
-      "count": 36,
+      "count": 37,
       "first": "2018-09-26",
       "last": "2025-12-17"
     },
@@ -885,7 +885,7 @@
     },
     {
       "name": "TheCable",
-      "count": 22,
+      "count": 23,
       "first": "2020-09-05",
       "last": "2026-10-21"
     },
@@ -1088,6 +1088,12 @@
       "last": "2026-10-20"
     },
     {
+      "name": "NigerianEye",
+      "count": 3,
+      "first": "2024-09-04",
+      "last": "2026-10-23"
+    },
+    {
       "name": "VOA Africa",
       "count": 3,
       "first": "2023-08-02",
@@ -1140,12 +1146,6 @@
       "count": 2,
       "first": "2026-09-17",
       "last": "2026-10-07"
-    },
-    {
-      "name": "nigerianeye.com",
-      "count": 2,
-      "first": "2024-09-04",
-      "last": "2026-06-08"
     },
     {
       "name": "Opinion Nigeria",
@@ -1500,6 +1500,12 @@
       "count": 1,
       "first": "2024-03-19",
       "last": "2024-03-19"
+    },
+    {
+      "name": "The Nigerian Post",
+      "count": 1,
+      "first": "2026-10-23",
+      "last": "2026-10-23"
     },
     {
       "name": "The Trumpet Newspaper Nigeria",
