@@ -531,7 +531,7 @@
     },
     {
       "start": "2020-10-01",
-      "count": 2
+      "count": 3
     },
     {
       "start": "2020-11-01",
@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 193
+      "count": 195
     }
   ],
   "sources": [
@@ -831,9 +831,9 @@
     },
     {
       "name": "Vanguard",
-      "count": 88,
+      "count": 89,
       "first": "2026-09-02",
-      "last": "2026-10-24"
+      "last": "2026-10-25"
     },
     {
       "name": "Channels Television",
@@ -914,16 +914,16 @@
       "last": "2026-07-28"
     },
     {
+      "name": "Arise News",
+      "count": 16,
+      "first": "2020-10-04",
+      "last": "2026-06-04"
+    },
+    {
       "name": "The Whistler Newspaper",
       "count": 16,
       "first": "2020-09-04",
       "last": "2026-10-21"
-    },
-    {
-      "name": "Arise News",
-      "count": 15,
-      "first": "2023-06-02",
-      "last": "2026-06-04"
     },
     {
       "name": "Al Jazeera",
@@ -950,6 +950,12 @@
       "last": "2026-10-07"
     },
     {
+      "name": "LEADERSHIP Newspapers",
+      "count": 9,
+      "first": "2024-09-04",
+      "last": "2026-10-23"
+    },
+    {
       "name": "Legit News",
       "count": 9,
       "first": "2022-01-02",
@@ -960,12 +966,6 @@
       "count": 9,
       "first": "2022-01-31",
       "last": "2026-10-09"
-    },
-    {
-      "name": "LEADERSHIP Newspapers",
-      "count": 8,
-      "first": "2024-09-04",
-      "last": "2026-10-20"
     },
     {
       "name": "Nigeria Labour Congress (NLC)",
@@ -1575,5 +1575,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-24"
+  "lastDate": "2026-10-25"
 }
