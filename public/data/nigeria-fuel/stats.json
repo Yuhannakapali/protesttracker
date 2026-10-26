@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 203
+      "count": 206
     }
   ],
   "sources": [
@@ -849,7 +849,7 @@
     },
     {
       "name": "Vanguard News",
-      "count": 48,
+      "count": 49,
       "first": "2012-03-08",
       "last": "2026-10-24"
     },
@@ -1346,6 +1346,12 @@
       "last": "2024-05-11"
     },
     {
+      "name": "Galaxy Television",
+      "count": 1,
+      "first": "2026-10-26",
+      "last": "2026-10-26"
+    },
+    {
       "name": "Gistlover",
       "count": 1,
       "first": "2026-09-17",
@@ -1458,6 +1464,12 @@
       "count": 1,
       "first": "2026-09-15",
       "last": "2026-09-15"
+    },
+    {
+      "name": "Presidency",
+      "count": 1,
+      "first": "2026-10-26",
+      "last": "2026-10-26"
     },
     {
       "name": "Proshare",
@@ -1587,5 +1599,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-25"
+  "lastDate": "2026-10-26"
 }
