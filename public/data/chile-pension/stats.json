@@ -247,7 +247,7 @@
     },
     {
       "start": "2019-12-01",
-      "count": 14
+      "count": 15
     },
     {
       "start": "2020-01-01",
@@ -339,7 +339,7 @@
     },
     {
       "start": "2021-11-01",
-      "count": 1
+      "count": 2
     },
     {
       "start": "2021-12-01",
@@ -640,16 +640,16 @@
       "last": "2026-08-05"
     },
     {
+      "name": "Universidad de Chile",
+      "count": 7,
+      "first": "2017-04-22",
+      "last": "2023-07-16"
+    },
+    {
       "name": "El Mostrador",
       "count": 6,
       "first": "2016-07-24",
       "last": "2024-08-17"
-    },
-    {
-      "name": "Universidad de Chile",
-      "count": 6,
-      "first": "2017-04-22",
-      "last": "2023-07-16"
     },
     {
       "name": "Americas Quarterly",
@@ -722,12 +722,6 @@
       "count": 3,
       "first": "2016-07-26",
       "last": "2019-03-21"
-    },
-    {
-      "name": "Análisis Digital",
-      "count": 3,
-      "first": "2026-05-28",
-      "last": "2026-07-27"
     },
     {
       "name": "Democracy Now!",
@@ -814,6 +808,12 @@
       "last": "2026-07-29"
     },
     {
+      "name": "Análisis Digital",
+      "count": 2,
+      "first": "2026-05-28",
+      "last": "2026-07-27"
+    },
+    {
       "name": "APFDigital",
       "count": 2,
       "first": "2026-03-11",
@@ -836,6 +836,12 @@
       "count": 2,
       "first": "2018-04-19",
       "last": "2019-03-21"
+    },
+    {
+      "name": "El Miércoles Digital",
+      "count": 2,
+      "first": "2026-07-24",
+      "last": "2026-07-30"
     },
     {
       "name": "Flipr.news",
@@ -1136,12 +1142,6 @@
       "count": 1,
       "first": "2025-06-27",
       "last": "2025-06-27"
-    },
-    {
-      "name": "El Miércoles Digital",
-      "count": 1,
-      "first": "2026-07-30",
-      "last": "2026-07-30"
     },
     {
       "name": "El Nacional — La voz de todos",
@@ -1625,6 +1625,12 @@
     },
     {
       "name": "The Nation",
+      "count": 1,
+      "first": "2019-12-10",
+      "last": "2019-12-10"
+    },
+    {
+      "name": "The Soufan Center",
       "count": 1,
       "first": "2019-12-10",
       "last": "2019-12-10"

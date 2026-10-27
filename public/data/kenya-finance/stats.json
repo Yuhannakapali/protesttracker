@@ -35,11 +35,11 @@
     },
     {
       "start": "2024-06-01",
-      "count": 62
+      "count": 66
     },
     {
       "start": "2024-07-01",
-      "count": 41
+      "count": 42
     },
     {
       "start": "2024-08-01",
@@ -87,7 +87,7 @@
     },
     {
       "start": "2025-07-01",
-      "count": 24
+      "count": 25
     },
     {
       "start": "2025-08-01",
@@ -165,7 +165,7 @@
     },
     {
       "name": "BBC",
-      "count": 38,
+      "count": 40,
       "first": "2024-06-18",
       "last": "2026-10-01"
     },
@@ -314,12 +314,6 @@
       "last": "2026-06-23"
     },
     {
-      "name": "theelephant.info",
-      "count": 4,
-      "first": "2024-06-26",
-      "last": "2026-04-24"
-    },
-    {
       "name": "ACLED",
       "count": 3,
       "first": "2024-07-19",
@@ -404,6 +398,12 @@
       "last": "2026-08-01"
     },
     {
+      "name": "theelephant.info",
+      "count": 3,
+      "first": "2024-09-03",
+      "last": "2026-04-24"
+    },
+    {
       "name": "Afrique XXI",
       "count": 2,
       "first": "2025-02-10",
@@ -426,6 +426,18 @@
       "count": 2,
       "first": "2024-06-27",
       "last": "2024-07-01"
+    },
+    {
+      "name": "CNN",
+      "count": 2,
+      "first": "2024-06-26",
+      "last": "2024-06-27"
+    },
+    {
+      "name": "Friedrich Naumann Foundation",
+      "count": 2,
+      "first": "2024-06-21",
+      "last": "2024-06-26"
     },
     {
       "name": "Jurist.org",
@@ -548,10 +560,10 @@
       "last": "2023-10-20"
     },
     {
-      "name": "CNN",
+      "name": "Control Risks",
       "count": 1,
-      "first": "2024-06-27",
-      "last": "2024-06-27"
+      "first": "2025-07-04",
+      "last": "2025-07-04"
     },
     {
       "name": "Cryptopolitan",
@@ -590,12 +602,6 @@
       "last": "2026-06-26"
     },
     {
-      "name": "Friedrich-Naumann-Stiftung für die Freiheit",
-      "count": 1,
-      "first": "2024-06-21",
-      "last": "2024-06-21"
-    },
-    {
       "name": "Geeska",
       "count": 1,
       "first": "2025-11-10",
@@ -630,6 +636,12 @@
       "count": 1,
       "first": "2026-01-19",
       "last": "2026-01-19"
+    },
+    {
+      "name": "International Crisis Group",
+      "count": 1,
+      "first": "2024-07-03",
+      "last": "2024-07-03"
     },
     {
       "name": "International Socialist Alternative",
@@ -768,6 +780,12 @@
       "count": 1,
       "first": "2024-06-27",
       "last": "2024-06-27"
+    },
+    {
+      "name": "The Elephant",
+      "count": 1,
+      "first": "2024-06-26",
+      "last": "2024-06-26"
     },
     {
       "name": "The Independent Uganda",
