@@ -99,11 +99,11 @@
     },
     {
       "start": "2026-06-01",
-      "count": 24
+      "count": 25
     },
     {
       "start": "2026-07-01",
-      "count": 199
+      "count": 200
     },
     {
       "start": "2026-08-01",
@@ -115,13 +115,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2523
+      "count": 2530
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 352,
+      "count": 353,
       "first": "2026-06-06",
       "last": "2026-10-26"
     },
@@ -169,7 +169,7 @@
     },
     {
       "name": "Rediff",
-      "count": 98,
+      "count": 99,
       "first": "2026-06-07",
       "last": "2026-10-24"
     },
@@ -228,16 +228,16 @@
       "last": "2026-10-22"
     },
     {
+      "name": "Deccan Chronicle",
+      "count": 39,
+      "first": "2026-08-16",
+      "last": "2026-10-24"
+    },
+    {
       "name": "Livemint",
       "count": 39,
       "first": "2026-08-16",
       "last": "2026-10-17"
-    },
-    {
-      "name": "Deccan Chronicle",
-      "count": 38,
-      "first": "2026-08-16",
-      "last": "2026-10-23"
     },
     {
       "name": "Telangana Today",
@@ -246,16 +246,16 @@
       "last": "2026-10-22"
     },
     {
+      "name": "moneycontrol.com",
+      "count": 37,
+      "first": "2026-08-18",
+      "last": "2026-10-26"
+    },
+    {
       "name": "The Week",
       "count": 37,
       "first": "2026-07-27",
       "last": "2026-10-26"
-    },
-    {
-      "name": "moneycontrol.com",
-      "count": 36,
-      "first": "2026-08-18",
-      "last": "2026-10-25"
     },
     {
       "name": "Mid-Day",
@@ -277,7 +277,7 @@
     },
     {
       "name": "The Business Standard",
-      "count": 30,
+      "count": 31,
       "first": "2026-08-23",
       "last": "2026-10-24"
     },
@@ -312,6 +312,12 @@
       "last": "2026-10-17"
     },
     {
+      "name": "BBC",
+      "count": 24,
+      "first": "2026-05-21",
+      "last": "2026-10-21"
+    },
+    {
       "name": "The Tribune",
       "count": 24,
       "first": "2026-08-15",
@@ -322,12 +328,6 @@
       "count": 23,
       "first": "2026-09-01",
       "last": "2026-10-22"
-    },
-    {
-      "name": "BBC",
-      "count": 22,
-      "first": "2026-05-21",
-      "last": "2026-10-21"
     },
     {
       "name": "The Federal",
@@ -414,6 +414,12 @@
       "last": "2026-10-20"
     },
     {
+      "name": "OpIndia",
+      "count": 13,
+      "first": "2026-08-17",
+      "last": "2026-10-24"
+    },
+    {
       "name": "Pioneer Daily",
       "count": 13,
       "first": "2026-08-28",
@@ -442,12 +448,6 @@
       "count": 12,
       "first": "2026-07-24",
       "last": "2026-10-22"
-    },
-    {
-      "name": "OpIndia",
-      "count": 12,
-      "first": "2026-08-17",
-      "last": "2026-10-16"
     },
     {
       "name": "theweek.in",
@@ -1122,6 +1122,12 @@
       "last": "2026-08-20"
     },
     {
+      "name": "Careers360",
+      "count": 2,
+      "first": "2026-08-23",
+      "last": "2026-10-26"
+    },
+    {
       "name": "CNBC",
       "count": 2,
       "first": "2026-09-25",
@@ -1516,12 +1522,6 @@
       "count": 1,
       "first": "2026-08-24",
       "last": "2026-08-24"
-    },
-    {
-      "name": "Careers360",
-      "count": 1,
-      "first": "2026-08-23",
-      "last": "2026-08-23"
     },
     {
       "name": "Channel 4",
