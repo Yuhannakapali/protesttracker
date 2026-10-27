@@ -5709,117 +5709,6 @@
         }
       ]
     },
-    "india:attempt-bhardwaj-case": {
-      "id": "india:attempt-bhardwaj-case",
-      "country": "India",
-      "terms": [
-        "attempt",
-        "murder",
-        "case",
-        "bhardwaj",
-        "jantar",
-        "mantar",
-        "row",
-        "swatantra",
-        "sent",
-        "custody",
-        "one",
-        "alleged",
-        "assault",
-        "azad",
-        "counsel",
-        "made",
-        "nishu",
-        "official",
-        "statement",
-        "ljp",
-        "strict",
-        "accused",
-        "bharadwaj",
-        "action",
-        "judicial",
-        "sends",
-        "day",
-        "court",
-        "delhi",
-        "motor",
-        "changes",
-        "vehicle",
-        "district",
-        "lawyers",
-        "rules",
-        "abstain",
-        "amended",
-        "traffic",
-        "challan",
-        "bar",
-        "rule",
-        "announces",
-        "body",
-        "lawyer",
-        "mechanism",
-        "sept",
-        "bail",
-        "grants",
-        "interim",
-        "regular"
-      ],
-      "domains": [
-        "oneindia.com",
-        "aninews.in",
-        "indiagazette.com",
-        "news.webindia123.com",
-        "prokerala.com",
-        "ibcworldnews.com",
-        "hindustantimes.com",
-        "economictimes.indiatimes.com"
-      ],
-      "daysSeen": [
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-07",
-        "2026-09-22",
-        "2026-09-21",
-        "2026-09-20",
-        "2026-10-06"
-      ],
-      "articleCount": 16,
-      "firstSeen": "2026-09-04",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Swatantra Bhardwaj Arrested In Attempt To Murder Case Over Jantar Mantar Assault Row",
-          "url": "https://www.oneindia.com/india/swatantra-bhardwaj-arrested-in-attempt-to-murder-case-over-jantar-mantar-assault-row-8195695.html",
-          "domain": "oneindia.com",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "Swatantra Bhardwaj sent to one - day police custody in alleged assault case",
-          "url": "https://aninews.in/news/national/general-news/swatantra-bhardwaj-sent-to-one-day-police-custody-in-alleged-assault-case20260905150249/",
-          "domain": "aninews.in",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "No official statement made : Counsel for Nishu Azad on one - day custody of Swatantra Bhardwaj",
-          "url": "https://aninews.in/news/national/general-news/no-official-statement-made-counsel-for-nishu-azad-on-one-day-custody-of-swatantra-bhardwaj20260905230737/",
-          "domain": "aninews.in",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "LJP ( R ) demands strict police action against Jantar Mantar assault accused Swatantra Bharadwaj",
-          "url": "https://news.webindia123.com/news/Articles/India/20260905/4494850.html",
-          "domain": "news.webindia123.com",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "Delhi court sends Swatantra Bharadwaj to one - day judicial custody ( Ld )",
-          "url": "https://www.prokerala.com/news/articles/a1809210.html",
-          "domain": "prokerala.com",
-          "date": "2026-09-06"
-        }
-      ]
-    },
     "india:breaking-english-latest": {
       "id": "india:breaking-english-latest",
       "country": "India",
@@ -6001,7 +5890,15 @@
         "polls",
         "jobs",
         "warns",
-        "senator"
+        "senator",
+        "boost",
+        "courts",
+        "dcp",
+        "fault",
+        "lines",
+        "revives",
+        "rivalry",
+        "old"
       ],
       "domains": [
         "the-star.co.ke",
@@ -6018,11 +5915,13 @@
         "2026-09-27",
         "2026-10-17",
         "2026-10-18",
-        "2026-10-19"
+        "2026-10-19",
+        "2026-10-25",
+        "2026-10-23"
       ],
-      "articleCount": 14,
+      "articleCount": 16,
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-25",
       "samples": [
         {
           "title": "Caleb Amisi : Opposition must unite or  be hanged separately",
@@ -6205,7 +6104,7 @@
         "2026-10-16",
         "2026-10-20"
       ],
-      "articleCount": 12,
+      "articleCount": 13,
       "firstSeen": "2026-09-05",
       "lastSeen": "2026-10-20",
       "samples": [
@@ -6911,56 +6810,6 @@
           "url": "https://blueprint.ng/kaduna-kajuru-lg-chair-backs-uba-sani-hails-appointment-of-indigenes/",
           "domain": "blueprint.ng",
           "date": "2026-09-11"
-        }
-      ]
-    },
-    "united-kingdom:chester-district-standard": {
-      "id": "united-kingdom:chester-district-standard",
-      "country": "United Kingdom",
-      "terms": [
-        "chester",
-        "district",
-        "standard",
-        "jailed",
-        "man",
-        "subjecting",
-        "warrington",
-        "attack"
-      ],
-      "domains": [
-        "chesterstandard.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-20",
-        "2026-10-06"
-      ],
-      "articleCount": 4,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Ed Sheeran admits  mistake at first concert since Macklemore tour row | Chester and District Standard",
-          "url": "https://www.chesterstandard.co.uk/news/national/26565310.ed-sheeran-admits-mistakes-first-concert-since-macklemore-tour-row/",
-          "domain": "chesterstandard.co.uk",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Warrington man jailed for subjecting woman to attack | Chester and District Standard",
-          "url": "https://www.chesterstandard.co.uk/news/26607366.man-jailed-subjecting-woman-horrific-violent-attack/",
-          "domain": "chesterstandard.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Warrington man jailed for subjecting woman to attack | Chester and District Standard",
-          "url": "https://www.chesterstandard.co.uk/news/26607366.man-jailed-subjecting-woman-horrific-violent-attack/",
-          "domain": "chesterstandard.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Warrington man jailed for subjecting woman to attack | Chester and District Standard",
-          "url": "https://www.chesterstandard.co.uk/news/26607366.man-jailed-subjecting-woman-horrific-violent-attack/",
-          "domain": "chesterstandard.co.uk",
-          "date": "2026-10-06"
         }
       ]
     },
@@ -8996,573 +8845,6 @@
         }
       ]
     },
-    "united-kingdom:crowds-high-historic": {
-      "id": "united-kingdom:crowds-high-historic",
-      "country": "United Kingdom",
-      "terms": [
-        "crowds",
-        "high",
-        "historic",
-        "mold",
-        "pack",
-        "revival",
-        "street"
-      ],
-      "domains": [
-        "leaderlive.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Crowds pack Mold High Street for historic Rally Revival",
-          "url": "https://www.leaderlive.co.uk/news/26607635.crowds-pack-mold-high-street-historic-rally-revival/",
-          "domain": "leaderlive.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Crowds pack Mold High Street for historic Rally Revival",
-          "url": "https://www.leaderlive.co.uk/news/26607635.crowds-pack-mold-high-street-historic-rally-revival/",
-          "domain": "leaderlive.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Crowds pack Mold High Street for historic Rally Revival",
-          "url": "https://www.leaderlive.co.uk/news/26607635.crowds-pack-mold-high-street-historic-rally-revival/",
-          "domain": "leaderlive.co.uk",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "united-kingdom:cadets-hours-months": {
-      "id": "united-kingdom:cadets-hours-months",
-      "country": "United Kingdom",
-      "terms": [
-        "cadets",
-        "hours",
-        "months",
-        "volunteer",
-        "wiltshire",
-        "seven"
-      ],
-      "domains": [
-        "swindonadvertiser.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Wiltshire police cadets volunteer 670 hours in seven months",
-          "url": "https://www.swindonadvertiser.co.uk/news/26608877.wiltshire-police-cadets-volunteer-670-hours-seven-months/",
-          "domain": "swindonadvertiser.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Wiltshire police cadets volunteer 670 hours in seven months",
-          "url": "https://www.swindonadvertiser.co.uk/news/26608877.wiltshire-police-cadets-volunteer-670-hours-seven-months/",
-          "domain": "swindonadvertiser.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Wiltshire police cadets volunteer 670 hours in seven months",
-          "url": "https://www.swindonadvertiser.co.uk/news/26608877.wiltshire-police-cadets-volunteer-670-hours-seven-months/",
-          "domain": "swindonadvertiser.co.uk",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "united-kingdom:being-bride-cancer": {
-      "id": "united-kingdom:being-bride-cancer",
-      "country": "United Kingdom",
-      "terms": [
-        "being",
-        "bride",
-        "cancer",
-        "didnt",
-        "die",
-        "incurable",
-        "she",
-        "solo",
-        "throws"
-      ],
-      "domains": [
-        "plymouthherald.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Totnes woman with incurable cancer throws solo wedding as she  didnt want to die without being a bride",
-          "url": "https://www.plymouthherald.co.uk/news/health/totnes-woman-incurable-cancer-throws-11185681",
-          "domain": "plymouthherald.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Totnes woman with incurable cancer throws solo wedding as she  didnt want to die without being a bride",
-          "url": "https://www.plymouthherald.co.uk/news/health/totnes-woman-incurable-cancer-throws-11185681",
-          "domain": "plymouthherald.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Totnes woman with incurable cancer throws solo wedding as she  didnt want to die without being a bride",
-          "url": "https://www.plymouthherald.co.uk/news/health/totnes-woman-incurable-cancer-throws-11185681",
-          "domain": "plymouthherald.co.uk",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "united-kingdom:2bn-buy-clarion": {
-      "id": "united-kingdom:2bn-buy-clarion",
-      "country": "United Kingdom",
-      "terms": [
-        "2bn",
-        "buy",
-        "clarion",
-        "events",
-        "firm",
-        "informa",
-        "overhaul",
-        "rival"
-      ],
-      "domains": [
-        "salisburyjournal.co.uk",
-        "kentonline.co.uk",
-        "swindonadvertiser.co.uk",
-        "leaderlive.co.uk",
-        "sthelensstar.co.uk",
-        "southwalesargus.co.uk",
-        "worcesternews.co.uk",
-        "dunmowbroadcast.co.uk",
-        "wiltshiretimes.co.uk",
-        "gazetteherald.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Informa to buy rival events firm Clarion for £2 . 2bn amid strategy overhaul",
-          "url": "https://www.salisburyjournal.co.uk/news/national/26609956.informa-buy-rival-events-firm-clarion-gbp2-2bn-amid-strategy-overhaul/",
-          "domain": "salisburyjournal.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Informa to buy rival events firm Clarion for £2 . 2bn amid strategy overhaul",
-          "url": "https://www.salisburyjournal.co.uk/news/national/26609956.informa-buy-rival-events-firm-clarion-gbp2-2bn-amid-strategy-overhaul/",
-          "domain": "salisburyjournal.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Informa to buy rival events firm Clarion for £2 . 2bn amid strategy overhaul",
-          "url": "https://www.salisburyjournal.co.uk/news/national/26609956.informa-buy-rival-events-firm-clarion-gbp2-2bn-amid-strategy-overhaul/",
-          "domain": "salisburyjournal.co.uk",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "united-kingdom:bills-electricity-get": {
-      "id": "united-kingdom:bills-electricity-get",
-      "country": "United Kingdom",
-      "terms": [
-        "bills",
-        "electricity",
-        "get",
-        "households",
-        "reopens",
-        "scheme",
-        "some"
-      ],
-      "domains": [
-        "derbytelegraph.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Some households could get £150 off electricity bills as scheme reopens",
-          "url": "https://www.derbytelegraph.co.uk/news/uk-world-news/households-could-150-electricity-bills-11185613",
-          "domain": "derbytelegraph.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Some households could get £150 off electricity bills as scheme reopens",
-          "url": "https://www.derbytelegraph.co.uk/news/uk-world-news/households-could-150-electricity-bills-11185613",
-          "domain": "derbytelegraph.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Some households could get £150 off electricity bills as scheme reopens",
-          "url": "https://www.derbytelegraph.co.uk/news/uk-world-news/households-could-150-electricity-bills-11185613",
-          "domain": "derbytelegraph.co.uk",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "united-kingdom:alleged-billion-daily": {
-      "id": "united-kingdom:alleged-billion-daily",
-      "country": "United Kingdom",
-      "terms": [
-        "alleged",
-        "billion",
-        "daily",
-        "google",
-        "join",
-        "mail",
-        "monopoly",
-        "publishers",
-        "seeking",
-        "usa"
-      ],
-      "domains": [
-        "ibtimes.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "USA Today and Daily Mail Join Publishers Seeking $3 . 2 Billion From Google Over Alleged Ad Monopoly",
-          "url": "https://www.ibtimes.co.uk/usa-today-daily-mail-google-ad-tech-claims-trial-1823827",
-          "domain": "ibtimes.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "USA Today and Daily Mail Join Publishers Seeking $3 . 2 Billion From Google Over Alleged Ad Monopoly",
-          "url": "https://www.ibtimes.co.uk/usa-today-daily-mail-google-ad-tech-claims-trial-1823827",
-          "domain": "ibtimes.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "USA Today and Daily Mail Join Publishers Seeking $3 . 2 Billion From Google Over Alleged Ad Monopoly",
-          "url": "https://www.ibtimes.co.uk/usa-today-daily-mail-google-ad-tech-claims-trial-1823827",
-          "domain": "ibtimes.co.uk",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "united-kingdom:anyone-born-cancers": {
-      "id": "united-kingdom:anyone-born-cancers",
-      "country": "United Kingdom",
-      "terms": [
-        "anyone",
-        "born",
-        "cancers",
-        "full",
-        "list",
-        "since",
-        "seven",
-        "warning"
-      ],
-      "domains": [
-        "derbytelegraph.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "New warning to anyone born since 1976 over seven cancers - full list",
-          "url": "https://www.derbytelegraph.co.uk/news/uk-world-news/new-warning-anyone-born-1976-11185583",
-          "domain": "derbytelegraph.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "New warning to anyone born since 1976 over seven cancers - full list",
-          "url": "https://www.derbytelegraph.co.uk/news/uk-world-news/new-warning-anyone-born-1976-11185583",
-          "domain": "derbytelegraph.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "New warning to anyone born since 1976 over seven cancers - full list",
-          "url": "https://www.derbytelegraph.co.uk/news/uk-world-news/new-warning-anyone-born-1976-11185583",
-          "domain": "derbytelegraph.co.uk",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "united-kingdom:before-claimant-death": {
-      "id": "united-kingdom:before-claimant-death",
-      "country": "United Kingdom",
-      "terms": [
-        "before",
-        "claimant",
-        "death",
-        "dwp",
-        "error",
-        "leaves",
-        "mum",
-        "pip",
-        "see",
-        "sick"
-      ],
-      "domains": [
-        "plymouthherald.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "DWP  error  leaves PIP claimant unable to see sick mum before her death",
-          "url": "https://www.plymouthherald.co.uk/news/cost-of-living/dwp-error-leaves-pip-claimant-11185435",
-          "domain": "plymouthherald.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "DWP  error  leaves PIP claimant unable to see sick mum before her death",
-          "url": "https://www.plymouthherald.co.uk/news/cost-of-living/dwp-error-leaves-pip-claimant-11185435",
-          "domain": "plymouthherald.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "DWP  error  leaves PIP claimant unable to see sick mum before her death",
-          "url": "https://www.plymouthherald.co.uk/news/cost-of-living/dwp-error-leaves-pip-claimant-11185435",
-          "domain": "plymouthherald.co.uk",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "united-kingdom:action-balloted-cabin": {
-      "id": "united-kingdom:action-balloted-cabin",
-      "country": "United Kingdom",
-      "terms": [
-        "action",
-        "balloted",
-        "cabin",
-        "crews",
-        "disruption",
-        "fears",
-        "flight",
-        "inverness",
-        "loganair"
-      ],
-      "domains": [
-        "ross-shirejournal.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Inverness flight disruption fears after Loganair cabin crews to be balloted on strike action",
-          "url": "https://www.ross-shirejournal.co.uk/news/inverness-flight-disruption-fears-after-loganair-cabin-crews-446769/",
-          "domain": "ross-shirejournal.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Inverness flight disruption fears after Loganair cabin crews to be balloted on strike action",
-          "url": "https://www.ross-shirejournal.co.uk/news/inverness-flight-disruption-fears-after-loganair-cabin-crews-446769/",
-          "domain": "ross-shirejournal.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Inverness flight disruption fears after Loganair cabin crews to be balloted on strike action",
-          "url": "https://www.ross-shirejournal.co.uk/news/inverness-flight-disruption-fears-after-loganair-cabin-crews-446769/",
-          "domain": "ross-shirejournal.co.uk",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "united-kingdom:available-crisis-fund": {
-      "id": "united-kingdom:available-crisis-fund",
-      "country": "United Kingdom",
-      "terms": [
-        "available",
-        "crisis",
-        "fund",
-        "resilience",
-        "worcestershire"
-      ],
-      "domains": [
-        "malverngazette.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "New Crisis and Resilience Fund available in Worcestershire",
-          "url": "https://www.malverngazette.co.uk/news/26606486.new-crisis-resilience-fund-available-worcestershire/",
-          "domain": "malverngazette.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "New Crisis and Resilience Fund available in Worcestershire",
-          "url": "https://www.malverngazette.co.uk/news/26606486.new-crisis-resilience-fund-available-worcestershire/",
-          "domain": "malverngazette.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "New Crisis and Resilience Fund available in Worcestershire",
-          "url": "https://www.malverngazette.co.uk/news/26606486.new-crisis-resilience-fund-available-worcestershire/",
-          "domain": "malverngazette.co.uk",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "united-kingdom:eurozone-fault-lines": {
-      "id": "united-kingdom:eurozone-fault-lines",
-      "country": "United Kingdom",
-      "terms": [
-        "eurozone",
-        "fault",
-        "lines",
-        "old",
-        "rock",
-        "threatening"
-      ],
-      "domains": [
-        "cityam.com"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Old fault lines are threatening to rock the Eurozone",
-          "url": "https://www.cityam.com/old-fault-lines-are-threatening-to-rock-the-eurozone/",
-          "domain": "cityam.com",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Old fault lines are threatening to rock the Eurozone",
-          "url": "https://www.cityam.com/old-fault-lines-are-threatening-to-rock-the-eurozone/",
-          "domain": "cityam.com",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Old fault lines are threatening to rock the Eurozone",
-          "url": "https://www.cityam.com/old-fault-lines-are-threatening-to-rock-the-eurozone/",
-          "domain": "cityam.com",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "united-kingdom:benefits-big-development": {
-      "id": "united-kingdom:benefits-big-development",
-      "country": "United Kingdom",
-      "terms": [
-        "benefits",
-        "big",
-        "development",
-        "ensure",
-        "help",
-        "highland",
-        "investment",
-        "region",
-        "renewables",
-        "summit",
-        "sustainable"
-      ],
-      "domains": [
-        "ross-shirejournal.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Highland Sustainable Development Summit will help ensure region benefits from renewables and other big investment",
-          "url": "https://www.ross-shirejournal.co.uk/news/highlands-can-benefit-more-from-renewables-and-other-big-inv-446759/",
-          "domain": "ross-shirejournal.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Highland Sustainable Development Summit will help ensure region benefits from renewables and other big investment",
-          "url": "https://www.ross-shirejournal.co.uk/news/highlands-can-benefit-more-from-renewables-and-other-big-inv-446759/",
-          "domain": "ross-shirejournal.co.uk",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Highland Sustainable Development Summit will help ensure region benefits from renewables and other big investment",
-          "url": "https://www.ross-shirejournal.co.uk/news/highlands-can-benefit-more-from-renewables-and-other-big-inv-446759/",
-          "domain": "ross-shirejournal.co.uk",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "united-kingdom:car-donkervoort-dutch": {
-      "id": "united-kingdom:car-donkervoort-dutch",
-      "country": "United Kingdom",
-      "terms": [
-        "car",
-        "donkervoort",
-        "dutch",
-        "inside",
-        "like",
-        "super",
-        "other"
-      ],
-      "domains": [
-        "cityam.com"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Inside the Donkervoort , a Dutch super car like no other",
-          "url": "https://www.cityam.com/inside-the-donkervoort-a-dutch-super-car-like-no-other/",
-          "domain": "cityam.com",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Inside the Donkervoort , a Dutch super car like no other",
-          "url": "https://www.cityam.com/inside-the-donkervoort-a-dutch-super-car-like-no-other/",
-          "domain": "cityam.com",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Inside the Donkervoort , a Dutch super car like no other",
-          "url": "https://www.cityam.com/inside-the-donkervoort-a-dutch-super-car-like-no-other/",
-          "domain": "cityam.com",
-          "date": "2026-10-06"
-        }
-      ]
-    },
     "india:question-restrictions": {
       "id": "india:question-restrictions",
       "country": "India",
@@ -9625,40 +8907,6 @@
           "url": "https://www.oneindia.com/new-delhi/cjp-protest-today-43-000-security-personnel-deployed-in-delhi-drones-used-for-surveillance-8230679.html",
           "domain": "oneindia.com",
           "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:akashvani-bhawan-enter": {
-      "id": "india:akashvani-bhawan-enter",
-      "country": "India",
-      "terms": [
-        "akashvani",
-        "bhawan",
-        "enter",
-        "premises",
-        "priyanka"
-      ],
-      "domains": [
-        "pragativadi.com"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "​Rahul , Priyanka Enter Akashvani Bhawan Premises Amid ECI Protest March",
-          "url": "https://pragativadi.com/rahul-priyanka-enter-akashvani-bhawan-premises-amid-eci-protest-march/",
-          "domain": "pragativadi.com",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "​Rahul , Priyanka Enter Akashvani Bhawan Premises Amid ECI Protest March",
-          "url": "https://pragativadi.com/rahul-priyanka-enter-akashvani-bhawan-premises-amid-eci-protest-march/",
-          "domain": "pragativadi.com",
-          "date": "2026-10-06"
         }
       ]
     },
@@ -10013,117 +9261,6 @@
         }
       ]
     },
-    "india:aviv-continued-flydubai": {
-      "id": "india:aviv-continued-flydubai",
-      "country": "India",
-      "terms": [
-        "aviv",
-        "continued",
-        "flydubai",
-        "israel",
-        "jet",
-        "shoot",
-        "tel",
-        "towards"
-      ],
-      "domains": [
-        "tribuneindia.com"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Israel was ready to shoot down flydubai jet if it continued towards Tel Aviv : Report",
-          "url": "https://www.tribuneindia.com/news/world/israel-was-ready-to-shoot-down-flydubai-jet-if-it-continued-towards-tel-aviv-report/",
-          "domain": "tribuneindia.com",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Israel was ready to shoot down flydubai jet if it continued towards Tel Aviv : Report",
-          "url": "https://www.tribuneindia.com/news/world/israel-was-ready-to-shoot-down-flydubai-jet-if-it-continued-towards-tel-aviv-report/",
-          "domain": "tribuneindia.com",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "india:deliver-failed-infratech": {
-      "id": "india:deliver-failed-infratech",
-      "country": "India",
-      "terms": [
-        "deliver",
-        "failed",
-        "infratech",
-        "jaypee",
-        "nclt",
-        "projects",
-        "promised",
-        "timelines"
-      ],
-      "domains": [
-        "thehindubusinessline.com"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "NCLT panel says Jaypee Infratech failed to deliver projects within the promised timelines",
-          "url": "https://www.thehindubusinessline.com/news/real-estate/nclt-panel-says-jaypee-infratech-failed-to-deliver-on-plan/article71550292.ece",
-          "domain": "thehindubusinessline.com",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "NCLT panel says Jaypee Infratech failed to deliver projects within the promised timelines",
-          "url": "https://www.thehindubusinessline.com/news/real-estate/nclt-panel-says-jaypee-infratech-failed-to-deliver-on-plan/article71550292.ece",
-          "domain": "thehindubusinessline.com",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "india:bid-delete-filings": {
-      "id": "india:bid-delete-filings",
-      "country": "India",
-      "terms": [
-        "delete",
-        "filings",
-        "fraudulent",
-        "goshamahal",
-        "muslim",
-        "owaisi",
-        "telangana",
-        "bid"
-      ],
-      "domains": [
-        "aninews.in"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Telangana : Owaisi alleges bid to delete 122 Muslim voters in Goshamahal ; demands ECI action over fraudulent  Form 7  filings",
-          "url": "https://aninews.in/news/national/politics/telangana-owaisi-alleges-bid-to-delete-122-muslim-voters-in-goshamahal-demands-eci-action-over-fraudulent-form-7-filings20261006130241/",
-          "domain": "aninews.in",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Telangana : Owaisi alleges bid to delete 122 Muslim voters in Goshamahal ; demands ECI action over fraudulent  Form 7  filings",
-          "url": "https://aninews.in/news/national/politics/telangana-owaisi-alleges-bid-to-delete-122-muslim-voters-in-goshamahal-demands-eci-action-over-fraudulent-form-7-filings20261006130241/",
-          "domain": "aninews.in",
-          "date": "2026-10-06"
-        }
-      ]
-    },
     "india:aftershocks-earthquake-ends": {
       "id": "india:aftershocks-earthquake-ends",
       "country": "India",
@@ -10161,76 +9298,6 @@
         }
       ]
     },
-    "india:controversy-form-patra": {
-      "id": "india:controversy-form-patra",
-      "country": "India",
-      "terms": [
-        "controversy",
-        "patra",
-        "sambit",
-        "slams",
-        "form"
-      ],
-      "domains": [
-        "pragativadi.com"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "BJP ​Sambit Patra Slams Rahul Gandhi Over Form 6 Controversy and ECI Protest",
-          "url": "https://pragativadi.com/bjps-sambit-patra-slams-rahul-gandhi-over-form-6-controversy-and-eci-protest/",
-          "domain": "pragativadi.com",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "BJP ​Sambit Patra Slams Rahul Gandhi Over Form 6 Controversy and ECI Protest",
-          "url": "https://pragativadi.com/bjps-sambit-patra-slams-rahul-gandhi-over-form-6-controversy-and-eci-protest/",
-          "domain": "pragativadi.com",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "india:damage-gaza-iraq": {
-      "id": "india:damage-gaza-iraq",
-      "country": "India",
-      "terms": [
-        "gaza",
-        "iraq",
-        "long",
-        "newsletter",
-        "trail",
-        "view",
-        "damage"
-      ],
-      "domains": [
-        "thehindu.com"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "View From India Newsletter From Iraq to Gaza : A Long Trail of Damage",
-          "url": "https://www.thehindu.com/news/international/view-from-india-newsletter-from-iraq-to-gaza-a-long-trail-of-damage/article71547254.ece",
-          "domain": "thehindu.com",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "View From India Newsletter From Iraq to Gaza : A Long Trail of Damage",
-          "url": "https://www.thehindu.com/news/international/view-from-india-newsletter-from-iraq-to-gaza-a-long-trail-of-damage/article71547254.ece",
-          "domain": "thehindu.com",
-          "date": "2026-10-06"
-        }
-      ]
-    },
     "india:can-dangerous-encounter": {
       "id": "india:can-dangerous-encounter",
       "country": "India",
@@ -10265,70 +9332,6 @@
           "url": "https://www.indiatimes.com/trending/firefly-wedding-episode-1-recap-can-satoko-escape-death-after-a-dangerous-encounter-turns-her-life-upside-down/articleshow/134847515.html",
           "domain": "indiatimes.com",
           "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:intensifies-kharkiv-kill": {
-      "id": "india:intensifies-kharkiv-kill",
-      "country": "India",
-      "terms": [
-        "intensifies",
-        "kharkiv",
-        "kill",
-        "russian",
-        "six",
-        "war"
-      ],
-      "domains": [
-        "newstodaynet.com"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Russian strikes kill six in Kharkiv as war intensifies - News Today",
-          "url": "https://newstodaynet.com/2026/10/06/russian-strikes-kill-six-in-kharkiv-as-war-intensifies/",
-          "domain": "newstodaynet.com",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Russian strikes kill six in Kharkiv as war intensifies - News Today",
-          "url": "https://newstodaynet.com/2026/10/06/russian-strikes-kill-six-in-kharkiv-as-war-intensifies/",
-          "domain": "newstodaynet.com",
-          "date": "2026-10-06"
-        }
-      ]
-    },
-    "nigeria:ahead-battle-editors": {
-      "id": "nigeria:ahead-battle-editors",
-      "country": "Nigeria",
-      "terms": [
-        "ahead",
-        "battle",
-        "editors",
-        "inec",
-        "nigeria",
-        "trust"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-10-06"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "samples": [
-        {
-          "title": "Nigeria : INEC , Editors and the Battle for Trust Ahead of 2027",
-          "url": "https://allafrica.com/stories/202610060134.html",
-          "domain": "allafrica.com",
-          "date": "2026-10-06"
         }
       ]
     },
@@ -10461,7 +9464,7 @@
         "2026-10-19",
         "2026-10-20"
       ],
-      "articleCount": 5,
+      "articleCount": 6,
       "firstSeen": "2026-10-10",
       "lastSeen": "2026-10-20",
       "samples": [
@@ -10591,17 +9594,25 @@
         "press",
         "secretary",
         "white",
-        "zacharia"
+        "zacharia",
+        "cease",
+        "fire",
+        "helped",
+        "melania",
+        "oleshky",
+        "secure"
       ],
       "domains": [
-        "the-star.co.ke"
+        "the-star.co.ke",
+        "kenya-today.com"
       ],
       "daysSeen": [
-        "2026-10-10"
+        "2026-10-10",
+        "2026-10-24"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-24",
       "samples": [
         {
           "title": "Commentator Katie Zacharia picked as new White House press secretary",
@@ -10620,6 +9631,12 @@
           "url": "https://www.the-star.co.ke/news/world/2026-10-10-katie-zacharia-picked-as-new-white-house-press-secretary",
           "domain": "the-star.co.ke",
           "date": "2026-10-10"
+        },
+        {
+          "title": "White House says Melania Trump helped secure cease ‑ fire in Ukraine Oleshky",
+          "url": "https://kenya-today.com/report-white-house-says-melania-trump-helped-secure-ceasefire-in-ukraines-oleshky-15930/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-24"
         }
       ]
     },
@@ -12400,7 +11417,8 @@
         "missile",
         "rubio",
         "russian",
-        "system"
+        "system",
+        "attacks"
       ],
       "domains": [
         "kenyastar.com"
@@ -12410,7 +11428,7 @@
         "2026-10-18",
         "2026-10-21"
       ],
-      "articleCount": 5,
+      "articleCount": 6,
       "firstSeen": "2026-10-16",
       "lastSeen": "2026-10-21",
       "samples": [
@@ -27544,10 +26562,16 @@
       "daysSeen": [
         "2026-10-20"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-20",
       "samples": [
+        {
+          "title": "KEG , CJAK condemn arrest of Citizen TV Francis Odee",
+          "url": "https://www.standardmedia.co.ke/crime-and-justice/article/2001560532/keg-cjak-condemn-arrest-of-citizen-tvs-francis-odee",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-20"
+        },
         {
           "title": "KEG , CJAK condemn arrest of Citizen TV Francis Odee",
           "url": "https://www.standardmedia.co.ke/crime-and-justice/article/2001560532/keg-cjak-condemn-arrest-of-citizen-tvs-francis-odee",
@@ -27572,7 +26596,8 @@
         "onyi",
         "pledge",
         "rehabilitation",
-        "set"
+        "set",
+        "actor"
       ],
       "domains": [
         "standardmedia.co.ke",
@@ -27582,7 +26607,7 @@
         "2026-10-20",
         "2026-10-21"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-21",
       "samples": [
@@ -27591,6 +26616,12 @@
           "url": "https://www.standardmedia.co.ke/western/article/2001560486/kakamega-clinical-officers-sign-cba-end-three-month-strike",
           "domain": "standardmedia.co.ke",
           "date": "2026-10-20"
+        },
+        {
+          "title": "Actor Onyi Set for Three - Month Rehabilitation as Family , Jaguar Pledge Support",
+          "url": "https://www.ghafla.co.ke/actor-onyi-set-for-three-month-rehabilitation-as-family-jaguar-pledge-support/",
+          "domain": "ghafla.co.ke",
+          "date": "2026-10-21"
         },
         {
           "title": "Actor Onyi Set for Three - Month Rehabilitation as Family , Jaguar Pledge Support",
@@ -27611,18 +26642,38 @@
         "cities",
         "violence",
         "french",
-        "imposed"
+        "imposed",
+        "face",
+        "groups",
+        "looting",
+        "proposes",
+        "unrecognised",
+        "macron"
       ],
       "domains": [
-        "the-star.co.ke"
+        "the-star.co.ke",
+        "kenya-today.com"
       ],
       "daysSeen": [
-        "2026-10-20"
+        "2026-10-20",
+        "2026-10-23"
       ],
-      "articleCount": 1,
+      "articleCount": 3,
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-20",
+      "lastSeen": "2026-10-23",
       "samples": [
+        {
+          "title": "French cities calm overnight after curfews imposed to quell violence , PM says",
+          "url": "https://www.the-star.co.ke/news/world/2026-10-20-pm-french-cities-calm-overnight-after-curfews-imposed-to-quell-violence",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Macron proposes ban on protests by unrecognised groups as French cities face looting",
+          "url": "https://kenya-today.com/report-macron-proposes-ban-on-protests-by-unrecognised-groups-as-french-cities-face-looting-15939/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-23"
+        },
         {
           "title": "French cities calm overnight after curfews imposed to quell violence , PM says",
           "url": "https://www.the-star.co.ke/news/world/2026-10-20-pm-french-cities-calm-overnight-after-curfews-imposed-to-quell-violence",
@@ -27677,10 +26728,16 @@
       "daysSeen": [
         "2026-10-20"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-20",
       "samples": [
+        {
+          "title": "Nigerian Military Says Seven Air Strikes Kill 103 ISWAP Fighters",
+          "url": "https://kenya-today.com/report-nigerian-military-says-seven-air-strikes-kill-103-iswap-fighters-14070/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-20"
+        },
         {
           "title": "Nigerian Military Says Seven Air Strikes Kill 103 ISWAP Fighters",
           "url": "https://kenya-today.com/report-nigerian-military-says-seven-air-strikes-kill-103-iswap-fighters-14070/",
@@ -27706,10 +26763,16 @@
       "daysSeen": [
         "2026-10-21"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-21",
       "lastSeen": "2026-10-21",
       "samples": [
+        {
+          "title": "Union protests PS Singoei age cap for diplomatic postings",
+          "url": "https://www.the-star.co.ke/news/2026-10-21-union-protests-ps-singoei-age-cap-for-diplomatic-postings",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-21"
+        },
         {
           "title": "Union protests PS Singoei age cap for diplomatic postings",
           "url": "https://www.the-star.co.ke/news/2026-10-21-union-protests-ps-singoei-age-cap-for-diplomatic-postings",
@@ -27769,10 +26832,22 @@
         "2026-10-21",
         "2026-10-20"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-21",
       "samples": [
+        {
+          "title": "UN warns of deadly drone strikes disrupting services across Sudan",
+          "url": "https://kenya-today.com/report-un-warns-of-deadly-drone-strikes-disrupting-services-across-sudan-14122/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "South Sudan accuses neighbor of deadly drone strike",
+          "url": "http://www.kenyastar.com/news/279387989/south-sudan-accuses-neighbor-of-deadly-drone-strike",
+          "domain": "kenyastar.com",
+          "date": "2026-10-20"
+        },
         {
           "title": "UN warns of deadly drone strikes disrupting services across Sudan",
           "url": "https://kenya-today.com/report-un-warns-of-deadly-drone-strikes-disrupting-services-across-sudan-14122/",
@@ -27866,10 +26941,16 @@
       "daysSeen": [
         "2026-10-20"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-20",
       "samples": [
+        {
+          "title": "Georgia Faces New Test As Court Weighs Ban On 5 Opposition Parties",
+          "url": "http://www.kenyastar.com/news/279387690/georgia-faces-new-test-as-court-weighs-ban-on-5-opposition-parties",
+          "domain": "kenyastar.com",
+          "date": "2026-10-20"
+        },
         {
           "title": "Georgia Faces New Test As Court Weighs Ban On 5 Opposition Parties",
           "url": "http://www.kenyastar.com/news/279387690/georgia-faces-new-test-as-court-weighs-ban-on-5-opposition-parties",
@@ -27950,7 +27031,8 @@
         "children",
         "parents",
         "starve",
-        "shakahola"
+        "shakahola",
+        "death"
       ],
       "domains": [
         "standardmedia.co.ke"
@@ -27958,10 +27040,16 @@
       "daysSeen": [
         "2026-10-20"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-20",
       "samples": [
+        {
+          "title": "Shakahola horror : Parents watched children starve to death for  spiritual reward",
+          "url": "https://www.standardmedia.co.ke/crime-and-justice/article/2001560500/shakahola-horror-parents-watched-children-starve-to-death-for-spiritual-reward",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-20"
+        },
         {
           "title": "Shakahola horror : Parents watched children starve to death for  spiritual reward",
           "url": "https://www.standardmedia.co.ke/crime-and-justice/article/2001560500/shakahola-horror-parents-watched-children-starve-to-death-for-spiritual-reward",
@@ -28012,23 +27100,35 @@
         "seven",
         "leads",
         "south",
-        "africa"
+        "africa",
+        "beats",
+        "crowd",
+        "foreigner",
+        "death"
       ],
       "domains": [
-        "kenya-today.com"
+        "kenya-today.com",
+        "the-star.co.ke"
       ],
       "daysSeen": [
-        "2026-10-18"
+        "2026-10-18",
+        "2026-10-22"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-18",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-22",
       "samples": [
         {
           "title": "South Africa Leads Africa with Seven Billionaires as Nigeria Tops Wealth Rankings",
           "url": "https://kenya-today.com/report-south-africa-leads-africa-with-seven-billionaires-as-nigeria-tops-wealth-rankings-13003/",
           "domain": "kenya-today.com",
           "date": "2026-10-18"
+        },
+        {
+          "title": "Crowd of 50 beats foreigner to death in South Africa",
+          "url": "https://www.the-star.co.ke/news/africa/2026-10-22-crowd-of-50-beats-foreigner-to-death-in-south-africa",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-22"
         }
       ]
     },
@@ -28082,10 +27182,16 @@
       "daysSeen": [
         "2026-10-21"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-21",
       "lastSeen": "2026-10-21",
       "samples": [
+        {
+          "title": "Nuclear issue is an excuse : Araghchi says Iranian military readiness deters US aggression",
+          "url": "http://www.kenyastar.com/news/279388545/nuclear-issue-is-an-excuse-araghchi-says-iranian-military-readiness-deters-us-aggression",
+          "domain": "kenyastar.com",
+          "date": "2026-10-21"
+        },
         {
           "title": "Nuclear issue is an excuse : Araghchi says Iranian military readiness deters US aggression",
           "url": "http://www.kenyastar.com/news/279388545/nuclear-issue-is-an-excuse-araghchi-says-iranian-military-readiness-deters-us-aggression",
@@ -28241,10 +27347,22 @@
       "daysSeen": [
         "2026-10-20"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-20",
       "samples": [
+        {
+          "title": "India Women win toss , opt to bat against Zimbabwe in 3rd T20I",
+          "url": "http://www.kenyastar.com/news/279387588/india-women-win-toss-opt-to-bat-against-zimbabwe-in-3rd-t20i",
+          "domain": "kenyastar.com",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "India thrash Zimbabwe by 92 Runs in 3rd women T20I to complete 3 - 0 whitewash",
+          "url": "http://www.kenyastar.com/news/279388091/india-thrash-zimbabwe-by-92-runs-in-3rd-women-t20i-to-complete-3-0-whitewash",
+          "domain": "kenyastar.com",
+          "date": "2026-10-20"
+        },
         {
           "title": "India Women win toss , opt to bat against Zimbabwe in 3rd T20I",
           "url": "http://www.kenyastar.com/news/279387588/india-women-win-toss-opt-to-bat-against-zimbabwe-in-3rd-t20i",
@@ -28301,7 +27419,9 @@
         "sehwag",
         "sultan",
         "suresh",
-        "turns"
+        "turns",
+        "extend",
+        "singh"
       ],
       "domains": [
         "kenyastar.com"
@@ -28309,10 +27429,16 @@
       "daysSeen": [
         "2026-10-20"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-20",
       "samples": [
+        {
+          "title": "Virender Sehwag turns 48 ; Yuvraj Singh , Suresh Raina , Munaf Patel extend wishes to  Multan Ka Sultan",
+          "url": "http://www.kenyastar.com/news/279386874/virender-sehwag-turns-48-yuvraj-singh-suresh-raina-munaf-patel-extend-wishes-to-multan-ka-sultan",
+          "domain": "kenyastar.com",
+          "date": "2026-10-20"
+        },
         {
           "title": "Virender Sehwag turns 48 ; Yuvraj Singh , Suresh Raina , Munaf Patel extend wishes to  Multan Ka Sultan",
           "url": "http://www.kenyastar.com/news/279386874/virender-sehwag-turns-48-yuvraj-singh-suresh-raina-munaf-patel-extend-wishes-to-multan-ka-sultan",
@@ -42661,6 +41787,1604 @@
           "url": "https://www.liputan6.com/global/read/8320827/ribuan-warga-israel-demo-anti-netanyahu-jelang-pemilu",
           "domain": "liputan6.com",
           "date": "2026-10-25"
+        }
+      ]
+    },
+    "kenya:france-lands-macron": {
+      "id": "kenya:france-lands-macron",
+      "country": "Kenya",
+      "terms": [
+        "lands",
+        "riyadh",
+        "solidarity",
+        "surprise",
+        "visit",
+        "france",
+        "macron"
+      ],
+      "domains": [
+        "standardmedia.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "France Macron lands in Riyadh on surprise  solidarity  visit",
+          "url": "https://www.standardmedia.co.ke/world/article/2001560623/france-s-macron-lands-in-riyadh-on-surprise-solidarity-visit",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:block-lecturer-nairobi": {
+      "id": "kenya:block-lecturer-nairobi",
+      "country": "Kenya",
+      "terms": [
+        "block",
+        "lecturer",
+        "students",
+        "university",
+        "waiyaki",
+        "way",
+        "nairobi"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "University of Nairobi students block Waiyaki Way over lecturer strike",
+          "url": "https://kenya-today.com/report-university-of-nairobi-students-block-waiyaki-way-over-lecturers-strike-14432/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:across-almost-another": {
+      "id": "kenya:across-almost-another",
+      "country": "Kenya",
+      "terms": [
+        "almost",
+        "follow",
+        "mass",
+        "across",
+        "another",
+        "france",
+        "day"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Almost 1 , 000 arrested as clashes follow another day of mass protests across France",
+          "url": "https://www.the-star.co.ke/news/world/2026-10-25-almost-1000-arrested-as-clashes-follow-another-day-of-mass-protests-across-france",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "kenya:ahead-backlash-dead": {
+      "id": "kenya:ahead-backlash-dead",
+      "country": "Kenya",
+      "terms": [
+        "backlash",
+        "missing",
+        "recruits",
+        "russia",
+        "ahead",
+        "dead",
+        "faces",
+        "summit"
+      ],
+      "domains": [
+        "standardmedia.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Russia faces backlash over dead , missing recruits ahead of summit",
+          "url": "https://www.standardmedia.co.ke/national/article/2001560827/russia-faces-backlash-over-dead-missing-recruits-ahead-of-summit",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "kenya:democracy-evil-journalism": {
+      "id": "kenya:democracy-evil-journalism",
+      "country": "Kenya",
+      "terms": [
+        "evil",
+        "journalism",
+        "plot",
+        "stop",
+        "democracy"
+      ],
+      "domains": [
+        "standardmedia.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-23"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "samples": [
+        {
+          "title": "Stop evil plot against journalism , democracy",
+          "url": "https://www.standardmedia.co.ke/editorial/article/2001560683/stop-evil-plot-against-journalism-democracy",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "kenya:access-begin-figure": {
+      "id": "kenya:access-begin-figure",
+      "country": "Kenya",
+      "terms": [
+        "access",
+        "begin",
+        "figure",
+        "hunger",
+        "lawyer",
+        "lissu",
+        "tanzanian",
+        "tundu"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Tanzanian Opposition Figure Tundu Lissu to Begin Hunger Strike Over Lawyer Access",
+          "url": "https://kenya-today.com/report-tanzanian-opposition-figure-tundu-lissu-to-begin-hunger-strike-over-lawyer-access-16234/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "kenya:concerns-day-ebola": {
+      "id": "kenya:concerns-day-ebola",
+      "country": "Kenya",
+      "terms": [
+        "concerns",
+        "ebola",
+        "health",
+        "surveillance",
+        "raises",
+        "day"
+      ],
+      "domains": [
+        "standardmedia.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "Public health officers protest as 92 - day strike raises Ebola surveillance concerns",
+          "url": "https://www.standardmedia.co.ke/national/article/2001560599/public-health-officers-protest-as-92-day-strike-raises-ebola-surveillance-concerns",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:congo-drivers-halt": {
+      "id": "kenya:congo-drivers-halt",
+      "country": "Kenya",
+      "terms": [
+        "congo",
+        "drivers",
+        "halt",
+        "killing",
+        "route",
+        "truck",
+        "kenyan"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "Kenyan Truck Drivers Halt Congo Route After Killing of 12 Drivers",
+          "url": "https://kenya-today.com/report-kenyan-truck-drivers-halt-congo-route-after-killing-of-12-drivers-14291/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:cancer-days-defied": {
+      "id": "kenya:cancer-days-defied",
+      "country": "Kenya",
+      "terms": [
+        "cancer",
+        "days",
+        "defied",
+        "diagnosis",
+        "live",
+        "warrior"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-22"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "samples": [
+        {
+          "title": "Cancer warrior who defied a  10 days to live  diagnosis",
+          "url": "https://www.the-star.co.ke/news/big-read/2026-10-22-cancer-warrior-who-defied-a-10-days-to-live-diagnosis",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "kenya:bbc-border-chief": {
+      "id": "kenya:bbc-border-chief",
+      "country": "Kenya",
+      "terms": [
+        "bbc",
+        "chief",
+        "minneapolis",
+        "patrol",
+        "surrender",
+        "tells",
+        "withdrawal",
+        "border"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "Minneapolis withdrawal was  surrender , Trump ex - border patrol chief tells BBC",
+          "url": "https://www.the-star.co.ke/news/world/2026-10-24-minneapolis-withdrawal-was-surrender-trumps-ex-border-patrol-chief-tells-bbc",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "kenya:allegedly-billion-deal": {
+      "id": "kenya:allegedly-billion-deal",
+      "country": "Kenya",
+      "terms": [
+        "allegedly",
+        "billion",
+        "ksh42",
+        "proxies",
+        "reveals",
+        "deal",
+        "kpc",
+        "nyoro",
+        "claims",
+        "investor",
+        "mystery",
+        "renews",
+        "sale",
+        "shares"
+      ],
+      "domains": [
+        "nairobiwire.com",
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-22",
+        "2026-10-21"
+      ],
+      "articleCount": 2,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
+      "samples": [
+        {
+          "title": "Nyoro Reveals How Ruto Allegedly Used Proxies in Ksh42 Billion KPC Deal",
+          "url": "https://nairobiwire.com/2026/10/nyoro-ruto-kpc-shares-private-investor-allegations.html",
+          "domain": "nairobiwire.com",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Nyoro renews claims over KPC shares sale to mystery investor",
+          "url": "https://www.the-star.co.ke/news/2026-10-21-nyoro-renews-claims-over-kpc-shares-sale-to-mystery-investor",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:amboseli-crisis-factory": {
+      "id": "kenya:amboseli-crisis-factory",
+      "country": "Kenya",
+      "terms": [
+        "amboseli",
+        "crisis",
+        "factory",
+        "handover",
+        "lenku",
+        "magadi",
+        "presses"
+      ],
+      "domains": [
+        "standardmedia.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "Lenku presses government over Amboseli handover , Magadi factory crisis",
+          "url": "https://www.standardmedia.co.ke/rift-valley/article/2001560590/lenku-presses-government-over-amboseli-handover-magadi-factory-crisis",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:ahead-attacks-campaigns": {
+      "id": "kenya:ahead-attacks-campaigns",
+      "country": "Kenya",
+      "terms": [
+        "campaigns",
+        "democrats",
+        "obama",
+        "ahead",
+        "attacks",
+        "elections",
+        "midterm",
+        "canada",
+        "influence",
+        "seeking",
+        "accuses"
+      ],
+      "domains": [
+        "the-star.co.ke",
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-10-25",
+        "2026-10-22"
+      ],
+      "articleCount": 2,
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+          "url": "https://www.the-star.co.ke/news/world/2026-10-25-obama-attacks-trump-as-he-campaigns-for-democrats",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "US accuses Canada of seeking to influence 2026 midterm elections",
+          "url": "http://www.kenyastar.com/news/279391495/us-accuses-canada-of-seeking-to-influence-2026-midterm-elections",
+          "domain": "kenyastar.com",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "kenya:push-sifuna-target": {
+      "id": "kenya:push-sifuna-target",
+      "country": "Kenya",
+      "terms": [
+        "push",
+        "target",
+        "western",
+        "sifuna",
+        "votes"
+      ],
+      "domains": [
+        "standardmedia.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "Gachagua , Sifuna target Mt Kenya and Western votes in opposition push",
+          "url": "https://www.standardmedia.co.ke/politics/article/2001560612/gachagua-sifuna-eye-joint-presidential-strategy-against-ruto",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:jinping-long": {
+      "id": "kenya:jinping-long",
+      "country": "Kenya",
+      "terms": [
+        "jinping",
+        "long",
+        "headlines",
+        "xinhua"
+      ],
+      "domains": [
+        "the-star.co.ke",
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-10-24",
+        "2026-10-21"
+      ],
+      "articleCount": 2,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "Xi Jinping new Long March",
+          "url": "https://www.the-star.co.ke/news/world/2026-10-24-xi-jinpings-new-long-march",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Xinhua Headlines : Xi Jinping new Long March",
+          "url": "http://www.kenyastar.com/news/279390040/xinhua-headlines-xi-jinping-new-long-march",
+          "domain": "kenyastar.com",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:another-deal-epic": {
+      "id": "kenya:another-deal-epic",
+      "country": "Kenya",
+      "terms": [
+        "epic",
+        "fury",
+        "may",
+        "potential",
+        "reached",
+        "another",
+        "deal",
+        "iran"
+      ],
+      "domains": [
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-10-23"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "samples": [
+        {
+          "title": "We may do another Epic Fury : Trump warns Iran of potential strike if deal not reached",
+          "url": "http://www.kenyastar.com/news/279395303/we-may-do-another-epic-fury-trump-warns-iran-of-potential-strike-if-deal-not-reached",
+          "domain": "kenyastar.com",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "kenya:houses-lodges-protected": {
+      "id": "kenya:houses-lodges-protected",
+      "country": "Kenya",
+      "terms": [
+        "houses",
+        "lodges",
+        "protected",
+        "status",
+        "upholds",
+        "state"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-23"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "samples": [
+        {
+          "title": "High Court upholds protected status of State Houses , lodges",
+          "url": "https://www.the-star.co.ke/news/2026-10-23-high-court-upholds-protected-status-of-state-houses-lodges",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "kenya:back-bolsonaros-brazil": {
+      "id": "kenya:back-bolsonaros-brazil",
+      "country": "Kenya",
+      "terms": [
+        "back",
+        "bolsonaros",
+        "brazil",
+        "cliffhanger",
+        "lula",
+        "votes"
+      ],
+      "domains": [
+        "standardmedia.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "More Lula , or back to the Bolsonaros ? Brazil votes in cliffhanger",
+          "url": "https://www.standardmedia.co.ke/world/article/2001560821/more-lula-or-back-to-the-bolsonaros-brazil-votes-in-cliffhanger",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "kenya:area-blast-bura": {
+      "id": "kenya:area-blast-bura",
+      "country": "Kenya",
+      "terms": [
+        "area",
+        "blast",
+        "bura",
+        "explosive",
+        "garissa",
+        "kills",
+        "siblings",
+        "tragedy"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Tragedy as explosive blast kills two siblings in Garissa Bura area",
+          "url": "https://www.the-star.co.ke/news/2026-10-25-two-siblings-killed-in-explosive-blast-in-garissa",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "kenya:dcp-envoy-eyes": {
+      "id": "kenya:dcp-envoy-eyes",
+      "country": "Kenya",
+      "terms": [
+        "envoy",
+        "eyes",
+        "governor",
+        "joins",
+        "nyeri",
+        "dcp",
+        "seat"
+      ],
+      "domains": [
+        "nairobiwire.com"
+      ],
+      "daysSeen": [
+        "2026-10-22"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "samples": [
+        {
+          "title": "Kenya India Envoy Joins Gachagua DCP , Eyes Nyeri Governor Seat",
+          "url": "https://nairobiwire.com/2026/10/peter-munyiri-nyeri-governor-dcp-2027.html",
+          "domain": "nairobiwire.com",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "kenya:applicants-costs-rise": {
+      "id": "kenya:applicants-costs-rise",
+      "country": "Kenya",
+      "terms": [
+        "applicants",
+        "costs",
+        "rise",
+        "student",
+        "tightens",
+        "visa",
+        "rules"
+      ],
+      "domains": [
+        "standardmedia.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "UK tightens student visa rules as costs rise for applicants",
+          "url": "https://www.standardmedia.co.ke/national/article/2001560596/uk-tightens-student-visa-rules-as-costs-rise-for-applicants",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:detonates-fails-life": {
+      "id": "kenya:detonates-fails-life",
+      "country": "Kenya",
+      "terms": [
+        "detonates",
+        "fails",
+        "life",
+        "when",
+        "protect",
+        "shakahola",
+        "state"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Shakahola detonates when state fails to protect life",
+          "url": "https://www.the-star.co.ke/news/2026-10-25-shakahola-detonates-when-state-fails-to-protect-life",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "kenya:chairperson-cma-ebs": {
+      "id": "kenya:chairperson-cma-ebs",
+      "country": "Kenya",
+      "terms": [
+        "chairperson",
+        "cma",
+        "ebs",
+        "failed",
+        "faults",
+        "negotiated",
+        "sheikh",
+        "ugas"
+      ],
+      "domains": [
+        "standardmedia.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "CMA chairperson Ugas Sheikh EBS faults negotiated democracy , calls it a failed system",
+          "url": "https://www.standardmedia.co.ke/north-eastern/article/2001560582/cma-chairperson-ugas-sheikh-ebs-faults-negotiated-democracy-calls-it-a-failed-system",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:kingmaker-kingpin-overrated": {
+      "id": "kenya:kingmaker-kingpin-overrated",
+      "country": "Kenya",
+      "terms": [
+        "kingmaker",
+        "kingpin",
+        "overrated"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Is Gachagua overrated as Mt Kenya kingpin and 2027 kingmaker ?",
+          "url": "https://www.the-star.co.ke/news/2026-10-25-is-gachagua-overrated-as-mt-kenya-kingpin",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "kenya:matatu-mover-nicco": {
+      "id": "kenya:matatu-mover-nicco",
+      "country": "Kenya",
+      "terms": [
+        "matatu",
+        "mover",
+        "nicco",
+        "ntsa",
+        "operations",
+        "rejects",
+        "request",
+        "suspend"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "High Court Rejects Nicco Mover Request to Suspend NTSA Ban on Matatu Operations",
+          "url": "https://kenya-today.com/report-high-court-rejects-nicco-movers-request-to-suspend-ntsa-ban-on-matatu-operations-15980/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "kenya:benefits-certificate-fake": {
+      "id": "kenya:benefits-certificate-fake",
+      "country": "Kenya",
+      "terms": [
+        "benefits",
+        "certificate",
+        "fake",
+        "holders",
+        "losing",
+        "pension",
+        "rba",
+        "risk"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-23"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "samples": [
+        {
+          "title": "RBA warns fake certificate holders they risk losing pension benefits",
+          "url": "https://www.the-star.co.ke/business/2026-10-23-rba-warns-fake-certificate-holders-they-risk-losing-pension-benefits",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "kenya:33m-convicted-dubai": {
+      "id": "kenya:33m-convicted-dubai",
+      "country": "Kenya",
+      "terms": [
+        "33m",
+        "convicted",
+        "dubai",
+        "evading",
+        "fraudster",
+        "living",
+        "tax",
+        "justice"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "The convicted £33m tax fraudster evading justice and living it up in Dubai",
+          "url": "https://www.the-star.co.ke/news/world/2026-10-24-the-convicted-ps33m-tax-fraudster-evading-justice-and-living-it-up-in-dubai",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "kenya:assaulted-fuel-journalist": {
+      "id": "kenya:assaulted-fuel-journalist",
+      "country": "Kenya",
+      "terms": [
+        "assaulted",
+        "kanja",
+        "fuel",
+        "journalist",
+        "nairobi",
+        "assault",
+        "concern",
+        "general",
+        "inspector",
+        "citizen",
+        "raises"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-22"
+      ],
+      "articleCount": 2,
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "samples": [
+        {
+          "title": "IG Kanja warns police officers after journalist assaulted during Nairobi fuel protest",
+          "url": "https://kenya-today.com/report-ig-kanja-warns-police-officers-after-journalist-assaulted-during-nairobi-fuel-protest-15325/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Inspector - General raises concern over police assault on Citizen TV journalist during fuel protests",
+          "url": "https://kenya-today.com/report-inspector-general-raises-concern-over-police-assault-on-citizen-tv-journalist-during-fuel-protests-15300/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "kenya:challenge-needs-otieno": {
+      "id": "kenya:challenge-needs-otieno",
+      "country": "Kenya",
+      "terms": [
+        "needs",
+        "otieno",
+        "slogans",
+        "willis",
+        "challenge"
+      ],
+      "domains": [
+        "standardmedia.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "Willis Otieno : Opposition needs more than slogans to challenge Ruto",
+          "url": "https://www.standardmedia.co.ke/politics/article/2001560588/willis-otieno-opposition-needs-more-than-slogans-to-challenge-ruto",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:attack-criticism-drop": {
+      "id": "kenya:attack-criticism-drop",
+      "country": "Kenya",
+      "terms": [
+        "criticism",
+        "drop",
+        "ohio",
+        "republicans",
+        "urges",
+        "vance",
+        "vice",
+        "attack"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-22"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "samples": [
+        {
+          "title": "US Vice ‑ President JD Vance urges Republicans to drop criticism of Ohio attack ad",
+          "url": "https://kenya-today.com/report-us-vicepresident-jd-vance-urges-republicans-to-drop-criticism-of-ohio-attack-ad-14853/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "kenya:body-dig-dna": {
+      "id": "kenya:body-dig-dna",
+      "country": "Kenya",
+      "terms": [
+        "body",
+        "dig",
+        "dna",
+        "fights",
+        "saitoti",
+        "secret",
+        "son",
+        "widow"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-22"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "samples": [
+        {
+          "title": "Saitoti widow fights bid to dig up ex - VP body in secret - son DNA war",
+          "url": "https://www.the-star.co.ke/news/2026-10-22-saitotis-widow-fights-bid-to-dig-up-body-in-secret-son-dna-war",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "kenya:citizens-frontlines-heads": {
+      "id": "kenya:citizens-frontlines-heads",
+      "country": "Kenya",
+      "terms": [
+        "frontlines",
+        "return",
+        "sent",
+        "citizens",
+        "heads",
+        "moscow",
+        "presses",
+        "summit",
+        "conscripts",
+        "stakes",
+        "talks",
+        "president",
+        "kenyan"
+      ],
+      "domains": [
+        "nairobiwire.com",
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-22",
+        "2026-10-21"
+      ],
+      "articleCount": 2,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
+      "samples": [
+        {
+          "title": "Ruto Heads to Moscow for Summit as Kenya Presses Return of Citizens Sent to Ukraine Frontlines",
+          "url": "https://nairobiwire.com/2026/10/ruto-moscow-russia-africa-summit-kenya-ukraine-repatriation.html",
+          "domain": "nairobiwire.com",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "President Ruto heads to Moscow for high ‑ stakes talks on Kenyan conscripts in Ukraine",
+          "url": "https://kenya-today.com/report-president-ruto-heads-to-moscow-for-highstakes-talks-on-kenyan-conscripts-in-ukraine-14690/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:bring-citizens-home": {
+      "id": "kenya:bring-citizens-home",
+      "country": "Kenya",
+      "terms": [
+        "bring",
+        "home",
+        "plans",
+        "prisoners",
+        "citizens",
+        "war"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "How Kenya plans to bring home citizens detained as prisoners of war in Ukraine",
+          "url": "https://www.the-star.co.ke/news/2026-10-25-how-kenya-plans-to-bring-home-citizens-detained-as-pows-in-ukraine",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "kenya:connection-musk-restored": {
+      "id": "kenya:connection-musk-restored",
+      "country": "Kenya",
+      "terms": [
+        "connection",
+        "musk",
+        "restricted",
+        "service",
+        "spacex",
+        "starlink",
+        "restored"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Musk says SpaceX restricted Ukraine Starlink connection as service restored",
+          "url": "https://www.the-star.co.ke/news/world/2026-10-25-musk-says-spacex-restricted-ukraines-starlink-connection-as-service-restored",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "kenya:badly-cosmetic-goes": {
+      "id": "kenya:badly-cosmetic-goes",
+      "country": "Kenya",
+      "terms": [
+        "badly",
+        "cosmetic",
+        "goes",
+        "people",
+        "planned",
+        "surgery",
+        "tighter",
+        "wrong"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "Tighter rules planned to protect people from cosmetic surgery that goes badly wrong",
+          "url": "https://www.the-star.co.ke/news/world/2026-10-21-tighter-rules-planned-to-protect-people-from-cosmetic-surgery-that-goes-badly-wrong",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:debate-kenyan-lead": {
+      "id": "kenya:debate-kenyan-lead",
+      "country": "Kenya",
+      "terms": [
+        "debate",
+        "lead",
+        "must",
+        "objectivity",
+        "youth",
+        "kenyan"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Why Kenyan youth must lead objectivity debate for 2027",
+          "url": "https://www.the-star.co.ke/news/2026-10-25-why-kenyan-youth-must-lead-objectivity-debate-for-2027",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "kenya:crimes-delivering-icc": {
+      "id": "kenya:crimes-delivering-icc",
+      "country": "Kenya",
+      "terms": [
+        "crimes",
+        "delivering",
+        "icc",
+        "world",
+        "worst",
+        "justice"
+      ],
+      "domains": [
+        "standardmedia.co.ke"
+      ],
+      "daysSeen": [
+        "2026-10-22"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "samples": [
+        {
+          "title": "ICC : Delivering justice for the world worst crimes",
+          "url": "https://www.standardmedia.co.ke/world/article/2001560665/icc-delivering-justice-for-the-worlds-worst-crimes",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "kenya:backed-infantino-majority": {
+      "id": "kenya:backed-infantino-majority",
+      "country": "Kenya",
+      "terms": [
+        "backed",
+        "infantino",
+        "majority",
+        "vast",
+        "backing",
+        "enjoys",
+        "enterprise",
+        "fallout",
+        "fifa",
+        "forward"
+      ],
+      "domains": [
+        "the-star.co.ke",
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 2,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "Infantino says he is backed by  vast majority",
+          "url": "https://www.the-star.co.ke/news/world/2026-10-24-infantino-says-he-is-backed-by-vast-majority",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Infantino says he enjoys backing of  vast , vast majority  amid FIFA Forward Enterprise fallout",
+          "url": "https://kenya-today.com/report-infantino-says-he-enjoys-backing-of-vast-vast-majority-amid-fifa-forward-enterprise-fallout-16166/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "kenya:allows-appointments-challenge": {
+      "id": "kenya:allows-appointments-challenge",
+      "country": "Kenya",
+      "terms": [
+        "allows",
+        "appointments",
+        "counsel",
+        "senior",
+        "since",
+        "challenge"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-22"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "samples": [
+        {
+          "title": "High Court Allows Challenge to Senior Counsel Appointments Since 2013",
+          "url": "https://kenya-today.com/report-high-court-allows-challenge-to-senior-counsel-appointments-since-2013-15006/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "kenya:county-drops-extra": {
+      "id": "kenya:county-drops-extra",
+      "country": "Kenya",
+      "terms": [
+        "county",
+        "drops",
+        "extra",
+        "fee",
+        "ksh",
+        "overhaul",
+        "registration",
+        "vetting"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Kenya drops KSh 300 fee and extra border ‑ county vetting in ID registration overhaul",
+          "url": "https://kenya-today.com/report-kenya-drops-ksh-300-fee-and-extra-bordercounty-vetting-in-id-registration-overhaul-16237/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "kenya:alerts-cbk-flour": {
+      "id": "kenya:alerts-cbk-flour",
+      "country": "Kenya",
+      "terms": [
+        "alerts",
+        "cbk",
+        "flour",
+        "hikes",
+        "kenyans",
+        "looming",
+        "milk",
+        "price"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "CBK alerts Kenyans to looming price hikes for milk , flour and sugar",
+          "url": "https://kenya-today.com/report-cbk-alerts-kenyans-to-looming-price-hikes-for-milk-flour-and-sugar-14497/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:2bn-advances-manchester": {
+      "id": "kenya:2bn-advances-manchester",
+      "country": "Kenya",
+      "terms": [
+        "2bn",
+        "advances",
+        "manchester",
+        "near",
+        "stadium",
+        "trafford",
+        "united",
+        "old"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Manchester United advances £2bn 100 , 000 ‑ seat stadium plan near Old Trafford",
+          "url": "https://kenya-today.com/report-manchester-united-advances-2bn-100000seat-stadium-plan-near-old-trafford-16259/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "kenya:alongside-customer-investors": {
+      "id": "kenya:alongside-customer-investors",
+      "country": "Kenya",
+      "terms": [
+        "alongside",
+        "customer",
+        "investors",
+        "metrics",
+        "owned",
+        "pipelines",
+        "revenue",
+        "sme"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "Investors urged to test African SME owned customer pipelines alongside revenue metrics",
+          "url": "https://kenya-today.com/report-investors-urged-to-test-african-smes-owned-customer-pipelines-alongside-revenue-metrics-14419/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:capitalpay-clocks-freight": {
+      "id": "kenya:capitalpay-clocks-freight",
+      "country": "Kenya",
+      "terms": [
+        "clocks",
+        "freight",
+        "kifwa",
+        "million",
+        "capitalpay",
+        "plan",
+        "two"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "CapitalPay and KIFWA : why an $80 million freight plan has two clocks",
+          "url": "https://kenya-today.com/capitalpay-kifwa-80-million-budget-rollout/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:airport-dammam-eight": {
+      "id": "kenya:airport-dammam-eight",
+      "country": "Kenya",
+      "terms": [
+        "airport",
+        "dammam",
+        "eight",
+        "fahd",
+        "injured",
+        "international",
+        "king",
+        "one"
+      ],
+      "domains": [
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-10-22"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "samples": [
+        {
+          "title": "One dead , eight injured in attack on King Fahd International Airport in Saudi Arabia Dammam",
+          "url": "http://www.kenyastar.com/news/279391129/one-dead-eight-injured-in-attack-on-king-fahd-international-airport-in-saudi-arabia-dammam",
+          "domain": "kenyastar.com",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "kenya:ceasefire-claim-pakistan": {
+      "id": "kenya:ceasefire-claim-pakistan",
+      "country": "Kenya",
+      "terms": [
+        "ceasefire",
+        "claim",
+        "pakistan",
+        "put",
+        "reiterates",
+        "tariff",
+        "tariffs",
+        "them"
+      ],
+      "domains": [
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-10-23"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "samples": [
+        {
+          "title": "Told them we will put 250 % tariffs ...: Trump reiterates claim of India - Pakistan ceasefire through tariff threat",
+          "url": "http://www.kenyastar.com/news/279395324/told-them-we-will-put-250-tariffs-trump-reiterates-claim-of-india-pakistan-ceasefire-through-tariff-threat",
+          "domain": "kenyastar.com",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "kenya:iran-israeli-learned": {
+      "id": "kenya:iran-israeli-learned",
+      "country": "Kenya",
+      "terms": [
+        "israeli",
+        "learned",
+        "lesson",
+        "netanyahu",
+        "still",
+        "iran"
+      ],
+      "domains": [
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "Iran still has not learned its lesson : Israeli PM Netanyahu",
+          "url": "http://www.kenyastar.com/news/279390480/iran-still-has-not-learned-its-lesson-israeli-pm-netanyahu",
+          "domain": "kenyastar.com",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:bullish-chips-despite": {
+      "id": "kenya:bullish-chips-despite",
+      "country": "Kenya",
+      "terms": [
+        "bullish",
+        "chips",
+        "despite",
+        "jpmorgan",
+        "korean",
+        "kospi",
+        "nomura",
+        "swings"
+      ],
+      "domains": [
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "Nomura , JPMorgan bullish on Korean chips despite Kospi swings",
+          "url": "http://www.kenyastar.com/news/279390140/nomura-jpmorgan-bullish-on-korean-chips-despite-kospi-swings",
+          "domain": "kenyastar.com",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:agent-cams-capitalpay": {
+      "id": "kenya:agent-cams-capitalpay",
+      "country": "Kenya",
+      "terms": [
+        "agent",
+        "cams",
+        "clearing",
+        "fees",
+        "fits",
+        "tanzania",
+        "where",
+        "capitalpay"
+      ],
+      "domains": [
+        "kenya-today.com"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "Tanzania clearing - agent fees : where CapitalPay T - CAMS fits",
+          "url": "https://kenya-today.com/capitalpay-tanzania-tcams-clearing-agent-fees/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:action-charts-china": {
+      "id": "kenya:action-charts-china",
+      "country": "Kenya",
+      "terms": [
+        "action",
+        "charts",
+        "china",
+        "climate",
+        "green",
+        "makes",
+        "path",
+        "progress"
+      ],
+      "domains": [
+        "kenyastar.com"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "Update : China makes significant progress in climate action , charts green path",
+          "url": "http://www.kenyastar.com/news/279390220/update-china-makes-significant-progress-in-climate-action-charts-green-path",
+          "domain": "kenyastar.com",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "kenya:african-apis-businesses": {
+      "id": "kenya:african-apis-businesses",
+      "country": "Kenya",
+      "terms": [
+        "apis",
+        "businesses",
+        "cassava",
+        "models",
+        "nvidia",
+        "offers",
+        "african"
+      ],
+      "domains": [
+        "techweez.com"
+      ],
+      "daysSeen": [
+        "2026-10-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "samples": [
+        {
+          "title": "Cassava Offers Nvidia AI Models as APIs for African Businesses",
+          "url": "https://techweez.com/2026/10/21/cassava-ai-factory-nvidia/",
+          "domain": "techweez.com",
+          "date": "2026-10-21"
         }
       ]
     }
