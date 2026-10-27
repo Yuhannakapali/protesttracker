@@ -243,7 +243,7 @@
     },
     {
       "start": "2019-11-01",
-      "count": 25
+      "count": 26
     },
     {
       "start": "2019-12-01",
@@ -575,15 +575,15 @@
     },
     {
       "start": "2026-10-01",
-      "count": 97
+      "count": 101
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 50,
+      "count": 54,
       "first": "2016-08-10",
-      "last": "2026-10-26"
+      "last": "2026-10-27"
     },
     {
       "name": "The Clinic",
@@ -610,16 +610,16 @@
       "last": "2025-09-14"
     },
     {
+      "name": "Al Jazeera",
+      "count": 10,
+      "first": "2019-10-26",
+      "last": "2020-07-23"
+    },
+    {
       "name": "BBC",
       "count": 10,
       "first": "2016-08-22",
       "last": "2021-12-20"
-    },
-    {
-      "name": "Al Jazeera",
-      "count": 9,
-      "first": "2019-10-26",
-      "last": "2020-07-23"
     },
     {
       "name": "Infobae",
@@ -724,6 +724,12 @@
       "last": "2019-03-21"
     },
     {
+      "name": "Análisis Digital",
+      "count": 3,
+      "first": "2026-05-28",
+      "last": "2026-07-27"
+    },
+    {
       "name": "Democracy Now!",
       "count": 3,
       "first": "2017-03-27",
@@ -808,12 +814,6 @@
       "last": "2026-07-29"
     },
     {
-      "name": "Análisis Digital",
-      "count": 2,
-      "first": "2026-05-28",
-      "last": "2026-07-27"
-    },
-    {
       "name": "APFDigital",
       "count": 2,
       "first": "2026-03-11",
@@ -836,12 +836,6 @@
       "count": 2,
       "first": "2018-04-19",
       "last": "2019-03-21"
-    },
-    {
-      "name": "El Miércoles Digital",
-      "count": 2,
-      "first": "2026-07-24",
-      "last": "2026-07-30"
     },
     {
       "name": "Flipr.news",
@@ -1142,6 +1136,12 @@
       "count": 1,
       "first": "2025-06-27",
       "last": "2025-06-27"
+    },
+    {
+      "name": "El Miércoles Digital",
+      "count": 1,
+      "first": "2026-07-30",
+      "last": "2026-07-30"
     },
     {
       "name": "El Nacional — La voz de todos",
@@ -1715,5 +1715,5 @@
     }
   ],
   "firstDate": "2014-11-04",
-  "lastDate": "2026-10-26"
+  "lastDate": "2026-10-27"
 }

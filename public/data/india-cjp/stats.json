@@ -115,7 +115,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2518
+      "count": 2520
     }
   ],
   "sources": [
@@ -145,9 +145,9 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 181,
+      "count": 182,
       "first": "2026-07-22",
-      "last": "2026-10-23"
+      "last": "2026-10-27"
     },
     {
       "name": "The Indian Express",
@@ -330,16 +330,16 @@
       "last": "2026-10-21"
     },
     {
+      "name": "The Federal",
+      "count": 22,
+      "first": "2026-07-05",
+      "last": "2026-10-27"
+    },
+    {
       "name": "WION",
       "count": 22,
       "first": "2026-07-23",
       "last": "2026-10-22"
-    },
-    {
-      "name": "The Federal",
-      "count": 21,
-      "first": "2026-07-05",
-      "last": "2026-10-24"
     },
     {
       "name": "Frontline Magazine",
@@ -2335,5 +2335,5 @@
     }
   ],
   "firstDate": "2024-06-18",
-  "lastDate": "2026-10-26"
+  "lastDate": "2026-10-27"
 }
