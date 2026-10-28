@@ -819,13 +819,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 210
+      "count": 215
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 127,
+      "count": 128,
       "first": "2012-01-05",
       "last": "2026-10-27"
     },
@@ -849,7 +849,7 @@
     },
     {
       "name": "Vanguard News",
-      "count": 49,
+      "count": 50,
       "first": "2012-03-08",
       "last": "2026-10-24"
     },
@@ -885,7 +885,7 @@
     },
     {
       "name": "TheCable",
-      "count": 24,
+      "count": 25,
       "first": "2020-09-05",
       "last": "2026-10-22"
     },
@@ -903,7 +903,7 @@
     },
     {
       "name": "The Sun Nigeria",
-      "count": 18,
+      "count": 19,
       "first": "2022-11-30",
       "last": "2026-10-21"
     },
@@ -1106,6 +1106,12 @@
       "last": "2021-03-12"
     },
     {
+      "name": "Blueprint Newspapers",
+      "count": 2,
+      "first": "2026-10-07",
+      "last": "2026-10-21"
+    },
+    {
       "name": "Daily Report Nigeria",
       "count": 2,
       "first": "2026-09-18",
@@ -1242,12 +1248,6 @@
       "count": 1,
       "first": "2024-09-25",
       "last": "2024-09-25"
-    },
-    {
-      "name": "Blueprint Newspapers",
-      "count": 1,
-      "first": "2026-10-21",
-      "last": "2026-10-21"
     },
     {
       "name": "Business Insider Africa",
