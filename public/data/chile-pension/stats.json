@@ -151,7 +151,7 @@
     },
     {
       "start": "2017-12-01",
-      "count": 23
+      "count": 24
     },
     {
       "start": "2018-01-01",
@@ -315,7 +315,7 @@
     },
     {
       "start": "2021-05-01",
-      "count": 5
+      "count": 6
     },
     {
       "start": "2021-06-01",
@@ -575,13 +575,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 109
+      "count": 113
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 57,
+      "count": 60,
       "first": "2016-08-10",
       "last": "2026-10-28"
     },
@@ -599,9 +599,9 @@
     },
     {
       "name": "Radio Universidad de Chile",
-      "count": 33,
+      "count": 34,
       "first": "2026-09-16",
-      "last": "2026-10-27"
+      "last": "2026-10-28"
     },
     {
       "name": "DW.com",
@@ -868,6 +868,12 @@
       "last": "2023-03-21"
     },
     {
+      "name": "La Gaceta",
+      "count": 2,
+      "first": "2017-12-17",
+      "last": "2017-12-18"
+    },
+    {
       "name": "lared.cl",
       "count": 2,
       "first": "2016-07-26",
@@ -1082,6 +1088,12 @@
       "count": 1,
       "first": "2021-03-23",
       "last": "2021-03-23"
+    },
+    {
+      "name": "Diario AS",
+      "count": 1,
+      "first": "2021-05-28",
+      "last": "2021-05-28"
     },
     {
       "name": "Diario Democracia",
@@ -1328,12 +1340,6 @@
       "count": 1,
       "first": "2025-09-22",
       "last": "2025-09-22"
-    },
-    {
-      "name": "La Gaceta",
-      "count": 1,
-      "first": "2017-12-18",
-      "last": "2017-12-18"
     },
     {
       "name": "La Izquierda Diario Chile",
