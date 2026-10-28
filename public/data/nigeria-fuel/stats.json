@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 215
+      "count": 218
     }
   ],
   "sources": [
@@ -867,9 +867,9 @@
     },
     {
       "name": "Punch Newspapers",
-      "count": 32,
+      "count": 33,
       "first": "2020-09-04",
-      "last": "2026-10-19"
+      "last": "2026-10-20"
     },
     {
       "name": "Ripples Nigeria",
@@ -879,9 +879,9 @@
     },
     {
       "name": "Premium Times",
-      "count": 25,
+      "count": 26,
       "first": "2020-09-04",
-      "last": "2026-10-25"
+      "last": "2026-10-28"
     },
     {
       "name": "TheCable",
@@ -1406,6 +1406,12 @@
       "last": "2024-08-21"
     },
     {
+      "name": "Labour insists",
+      "count": 1,
+      "first": "2026-10-28",
+      "last": "2026-10-28"
+    },
+    {
       "name": "MarketForces Africa",
       "count": 1,
       "first": "2024-11-05",
@@ -1599,5 +1605,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-27"
+  "lastDate": "2026-10-28"
 }

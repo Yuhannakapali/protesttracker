@@ -87,7 +87,7 @@
     },
     {
       "start": "2016-08-01",
-      "count": 19
+      "count": 20
     },
     {
       "start": "2016-09-01",
@@ -471,7 +471,7 @@
     },
     {
       "start": "2024-08-01",
-      "count": 3
+      "count": 4
     },
     {
       "start": "2024-09-01",
@@ -535,7 +535,7 @@
     },
     {
       "start": "2025-12-01",
-      "count": 2
+      "count": 3
     },
     {
       "start": "2026-01-01",
@@ -575,13 +575,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 107
+      "count": 109
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 56,
+      "count": 57,
       "first": "2016-08-10",
       "last": "2026-10-28"
     },
@@ -712,6 +712,12 @@
       "last": "2026-08-06"
     },
     {
+      "name": "Perfil",
+      "count": 4,
+      "first": "2019-11-23",
+      "last": "2026-10-15"
+    },
+    {
       "name": "VOA - Voice of America English News",
       "count": 4,
       "first": "2017-04-13",
@@ -742,16 +748,16 @@
       "last": "2017-12-18"
     },
     {
-      "name": "Perfil",
-      "count": 3,
-      "first": "2019-11-23",
-      "last": "2024-09-04"
-    },
-    {
       "name": "Remezcla",
       "count": 3,
       "first": "2019-10-23",
       "last": "2020-10-16"
+    },
+    {
+      "name": "Resumen.cl",
+      "count": 3,
+      "first": "2024-08-06",
+      "last": "2026-10-16"
     },
     {
       "name": "Reuters",
@@ -892,6 +898,12 @@
       "last": "2020-03-11"
     },
     {
+      "name": "Página|12",
+      "count": 2,
+      "first": "2023-03-28",
+      "last": "2025-12-04"
+    },
+    {
       "name": "Pressenza - International Press Agency",
       "count": 2,
       "first": "2015-12-12",
@@ -902,12 +914,6 @@
       "count": 2,
       "first": "2016-07-25",
       "last": "2016-08-19"
-    },
-    {
-      "name": "Resumen.cl",
-      "count": 2,
-      "first": "2024-08-06",
-      "last": "2025-03-20"
     },
     {
       "name": "The Nation Newspaper",
@@ -1462,12 +1468,6 @@
       "last": "2019-04-02"
     },
     {
-      "name": "Página|12",
-      "count": 1,
-      "first": "2023-03-28",
-      "last": "2023-03-28"
-    },
-    {
       "name": "PBS",
       "count": 1,
       "first": "2019-10-20",
@@ -1724,6 +1724,12 @@
       "count": 1,
       "first": "2019-10-27",
       "last": "2019-10-27"
+    },
+    {
+      "name": "Xinhua Español",
+      "count": 1,
+      "first": "2016-08-22",
+      "last": "2016-08-22"
     }
   ],
   "firstDate": "2014-11-04",
