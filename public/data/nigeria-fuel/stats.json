@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 218
+      "count": 219
     }
   ],
   "sources": [
@@ -837,9 +837,9 @@
     },
     {
       "name": "Channels Television",
-      "count": 71,
+      "count": 72,
       "first": "2012-01-04",
-      "last": "2026-10-25"
+      "last": "2026-10-28"
     },
     {
       "name": "The Guardian Nigeria News",
@@ -950,16 +950,16 @@
       "last": "2026-10-07"
     },
     {
+      "name": "Legit News",
+      "count": 10,
+      "first": "2022-01-02",
+      "last": "2025-09-16"
+    },
+    {
       "name": "LEADERSHIP Newspapers",
       "count": 9,
       "first": "2024-09-04",
       "last": "2026-10-24"
-    },
-    {
-      "name": "Legit News",
-      "count": 9,
-      "first": "2022-01-02",
-      "last": "2025-09-16"
     },
     {
       "name": "TVC News",
@@ -1010,12 +1010,6 @@
       "last": "2026-10-05"
     },
     {
-      "name": "Legit.ng",
-      "count": 6,
-      "first": "2024-08-11",
-      "last": "2024-09-15"
-    },
-    {
       "name": "Reuters",
       "count": 6,
       "first": "2012-01-09",
@@ -1026,6 +1020,12 @@
       "count": 5,
       "first": "2012-01-03",
       "last": "2024-06-03"
+    },
+    {
+      "name": "Legit.ng",
+      "count": 5,
+      "first": "2024-08-11",
+      "last": "2024-09-15"
     },
     {
       "name": "vanguardngr.com",
