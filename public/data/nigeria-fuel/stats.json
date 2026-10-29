@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 222
+      "count": 225
     }
   ],
   "sources": [
@@ -831,9 +831,9 @@
     },
     {
       "name": "Vanguard",
-      "count": 91,
+      "count": 93,
       "first": "2026-09-02",
-      "last": "2026-10-27"
+      "last": "2026-10-29"
     },
     {
       "name": "Channels Television",
@@ -867,7 +867,7 @@
     },
     {
       "name": "Punch Newspapers",
-      "count": 34,
+      "count": 35,
       "first": "2020-09-04",
       "last": "2026-10-20"
     },
@@ -1611,5 +1611,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-28"
+  "lastDate": "2026-10-29"
 }
