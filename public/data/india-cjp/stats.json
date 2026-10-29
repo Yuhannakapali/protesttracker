@@ -2,6 +2,70 @@
   "granularity": "month",
   "buckets": [
     {
+      "start": "2023-02-01",
+      "count": 1
+    },
+    {
+      "start": "2023-03-01",
+      "count": 0
+    },
+    {
+      "start": "2023-04-01",
+      "count": 0
+    },
+    {
+      "start": "2023-05-01",
+      "count": 0
+    },
+    {
+      "start": "2023-06-01",
+      "count": 0
+    },
+    {
+      "start": "2023-07-01",
+      "count": 0
+    },
+    {
+      "start": "2023-08-01",
+      "count": 0
+    },
+    {
+      "start": "2023-09-01",
+      "count": 0
+    },
+    {
+      "start": "2023-10-01",
+      "count": 0
+    },
+    {
+      "start": "2023-11-01",
+      "count": 0
+    },
+    {
+      "start": "2023-12-01",
+      "count": 0
+    },
+    {
+      "start": "2024-01-01",
+      "count": 0
+    },
+    {
+      "start": "2024-02-01",
+      "count": 0
+    },
+    {
+      "start": "2024-03-01",
+      "count": 0
+    },
+    {
+      "start": "2024-04-01",
+      "count": 0
+    },
+    {
+      "start": "2024-05-01",
+      "count": 0
+    },
+    {
       "start": "2024-06-01",
       "count": 1
     },
@@ -115,19 +179,19 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2581
+      "count": 2598
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 356,
+      "count": 357,
       "first": "2026-06-06",
-      "last": "2026-10-28"
+      "last": "2026-10-29"
     },
     {
       "name": "The Times of India",
-      "count": 244,
+      "count": 245,
       "first": "2026-06-06",
       "last": "2026-10-28"
     },
@@ -163,9 +227,9 @@
     },
     {
       "name": "Telegraph India",
-      "count": 124,
+      "count": 125,
       "first": "2026-07-21",
-      "last": "2026-10-26"
+      "last": "2026-10-28"
     },
     {
       "name": "Rediff",
@@ -175,9 +239,9 @@
     },
     {
       "name": "The Economic Times",
-      "count": 94,
+      "count": 95,
       "first": "2026-06-06",
-      "last": "2026-10-21"
+      "last": "2026-10-28"
     },
     {
       "name": "ThePrint",
@@ -187,15 +251,15 @@
     },
     {
       "name": "Deccan Herald",
-      "count": 87,
+      "count": 88,
       "first": "2026-06-05",
-      "last": "2026-10-24"
+      "last": "2026-10-28"
     },
     {
       "name": "ANI News",
-      "count": 85,
+      "count": 86,
       "first": "2026-07-22",
-      "last": "2026-10-23"
+      "last": "2026-10-28"
     },
     {
       "name": "News18",
@@ -228,16 +292,16 @@
       "last": "2026-10-28"
     },
     {
+      "name": "Deccan Chronicle",
+      "count": 40,
+      "first": "2026-08-16",
+      "last": "2026-10-28"
+    },
+    {
       "name": "moneycontrol.com",
       "count": 40,
       "first": "2026-08-18",
       "last": "2026-10-28"
-    },
-    {
-      "name": "Deccan Chronicle",
-      "count": 39,
-      "first": "2026-08-16",
-      "last": "2026-10-24"
     },
     {
       "name": "Livemint",
@@ -247,13 +311,13 @@
     },
     {
       "name": "Telangana Today",
-      "count": 38,
+      "count": 39,
       "first": "2026-07-25",
-      "last": "2026-10-22"
+      "last": "2026-10-28"
     },
     {
       "name": "The Week",
-      "count": 38,
+      "count": 39,
       "first": "2026-07-27",
       "last": "2026-10-28"
     },
@@ -570,6 +634,12 @@
       "last": "2026-10-02"
     },
     {
+      "name": "ABP Live English",
+      "count": 8,
+      "first": "2026-07-19",
+      "last": "2026-10-22"
+    },
+    {
       "name": "Kashmir Observer",
       "count": 8,
       "first": "2026-09-18",
@@ -582,6 +652,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "OrissaPOST",
+      "count": 8,
+      "first": "2026-08-16",
+      "last": "2026-10-24"
+    },
+    {
       "name": "South China Morning Post",
       "count": 8,
       "first": "2026-09-25",
@@ -592,12 +668,6 @@
       "count": 7,
       "first": "2026-10-02",
       "last": "2026-10-17"
-    },
-    {
-      "name": "ABP Live English",
-      "count": 7,
-      "first": "2026-07-19",
-      "last": "2026-09-01"
     },
     {
       "name": "Clarion India",
@@ -616,12 +686,6 @@
       "count": 7,
       "first": "2026-08-22",
       "last": "2026-10-21"
-    },
-    {
-      "name": "OrissaPOST",
-      "count": 7,
-      "first": "2026-08-16",
-      "last": "2026-10-24"
     },
     {
       "name": "PTC News",
@@ -690,6 +754,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "AP7AM",
+      "count": 5,
+      "first": "2026-10-03",
+      "last": "2026-10-28"
+    },
+    {
       "name": "Daily Sabah",
       "count": 5,
       "first": "2026-09-25",
@@ -744,6 +814,12 @@
       "last": "2026-10-15"
     },
     {
+      "name": "The Siasat Daily",
+      "count": 5,
+      "first": "2026-09-04",
+      "last": "2026-10-24"
+    },
+    {
       "name": "thepamphlet.in",
       "count": 5,
       "first": "2026-08-21",
@@ -754,12 +830,6 @@
       "count": 4,
       "first": "2026-05-21",
       "last": "2026-07-22"
-    },
-    {
-      "name": "AP7AM",
-      "count": 4,
-      "first": "2026-10-03",
-      "last": "2026-10-11"
     },
     {
       "name": "Babushahi.com",
@@ -886,12 +956,6 @@
       "count": 4,
       "first": "2026-07-29",
       "last": "2026-10-11"
-    },
-    {
-      "name": "The Siasat Daily",
-      "count": 4,
-      "first": "2026-09-04",
-      "last": "2026-10-22"
     },
     {
       "name": "The Straits Times",
@@ -1100,7 +1164,7 @@
     {
       "name": "Arab News",
       "count": 2,
-      "first": "2026-10-10",
+      "first": "2026-10-09",
       "last": "2026-10-11"
     },
     {
@@ -1542,6 +1606,12 @@
       "last": "2026-10-16"
     },
     {
+      "name": "Citizens for Justice and Peace | CJP",
+      "count": 1,
+      "first": "2023-02-06",
+      "last": "2023-02-06"
+    },
+    {
       "name": "civicus lens",
       "count": 1,
       "first": "2026-08-04",
@@ -1794,6 +1864,12 @@
       "last": "2026-10-23"
     },
     {
+      "name": "INDToday",
+      "count": 1,
+      "first": "2026-10-29",
+      "last": "2026-10-29"
+    },
+    {
       "name": "International Service for Human Rights",
       "count": 1,
       "first": "2026-08-14",
@@ -1890,6 +1966,12 @@
       "last": "2026-10-16"
     },
     {
+      "name": "Lokmat Times",
+      "count": 1,
+      "first": "2026-10-17",
+      "last": "2026-10-17"
+    },
+    {
       "name": "Lokmat.com",
       "count": 1,
       "first": "2026-07-22",
@@ -1924,6 +2006,12 @@
       "count": 1,
       "first": "2026-10-12",
       "last": "2026-10-12"
+    },
+    {
+      "name": "Mega Media News",
+      "count": 1,
+      "first": "2026-10-23",
+      "last": "2026-10-23"
     },
     {
       "name": "Modern Ghana",
@@ -2154,6 +2242,12 @@
       "last": "2026-10-22"
     },
     {
+      "name": "The Logical Indian",
+      "count": 1,
+      "first": "2026-10-22",
+      "last": "2026-10-22"
+    },
+    {
       "name": "The News Pakistan",
       "count": 1,
       "first": "2026-10-16",
@@ -2340,6 +2434,6 @@
       "last": "2026-08-18"
     }
   ],
-  "firstDate": "2024-06-18",
-  "lastDate": "2026-10-28"
+  "firstDate": "2023-02-06",
+  "lastDate": "2026-10-29"
 }
