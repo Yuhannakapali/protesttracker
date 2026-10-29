@@ -179,33 +179,33 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2611
+      "count": 2617
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 359,
+      "count": 360,
       "first": "2026-06-06",
       "last": "2026-10-29"
     },
     {
       "name": "The Times of India",
-      "count": 245,
+      "count": 246,
       "first": "2026-06-06",
-      "last": "2026-10-28"
+      "last": "2026-10-29"
     },
     {
       "name": "NDTV",
       "count": 228,
       "first": "2026-05-12",
-      "last": "2026-10-28"
+      "last": "2026-10-29"
     },
     {
       "name": "Hindustan Times",
-      "count": 187,
+      "count": 188,
       "first": "2026-06-06",
-      "last": "2026-10-28"
+      "last": "2026-10-29"
     },
     {
       "name": "The New Indian Express",
@@ -233,7 +233,7 @@
     },
     {
       "name": "Rediff",
-      "count": 102,
+      "count": 103,
       "first": "2026-06-07",
       "last": "2026-10-29"
     },
@@ -376,16 +376,16 @@
       "last": "2026-10-17"
     },
     {
+      "name": "The Tribune",
+      "count": 26,
+      "first": "2026-08-15",
+      "last": "2026-10-28"
+    },
+    {
       "name": "BBC",
       "count": 25,
       "first": "2026-05-21",
       "last": "2026-10-21"
-    },
-    {
-      "name": "The Tribune",
-      "count": 25,
-      "first": "2026-08-15",
-      "last": "2026-10-28"
     },
     {
       "name": "The South First",
@@ -442,6 +442,12 @@
       "last": "2026-10-22"
     },
     {
+      "name": "Inshorts",
+      "count": 16,
+      "first": "2026-08-16",
+      "last": "2026-10-29"
+    },
+    {
       "name": "Maktoob",
       "count": 16,
       "first": "2026-08-12",
@@ -451,12 +457,6 @@
       "name": "Pragativadi",
       "count": 16,
       "first": "2026-09-15",
-      "last": "2026-10-28"
-    },
-    {
-      "name": "Inshorts",
-      "count": 15,
-      "first": "2026-08-16",
       "last": "2026-10-28"
     },
     {
@@ -616,6 +616,12 @@
       "last": "2026-10-19"
     },
     {
+      "name": "MorungExpress",
+      "count": 9,
+      "first": "2026-08-20",
+      "last": "2026-10-28"
+    },
+    {
       "name": "News Arena India",
       "count": 9,
       "first": "2026-08-12",
@@ -644,12 +650,6 @@
       "count": 8,
       "first": "2026-09-18",
       "last": "2026-10-23"
-    },
-    {
-      "name": "MorungExpress",
-      "count": 8,
-      "first": "2026-08-20",
-      "last": "2026-10-21"
     },
     {
       "name": "OrissaPOST",
@@ -754,12 +754,6 @@
       "last": "2026-10-21"
     },
     {
-      "name": "AP7AM",
-      "count": 5,
-      "first": "2026-10-03",
-      "last": "2026-10-28"
-    },
-    {
       "name": "Daily Sabah",
       "count": 5,
       "first": "2026-09-25",
@@ -836,6 +830,12 @@
       "count": 4,
       "first": "2026-05-21",
       "last": "2026-07-22"
+    },
+    {
+      "name": "AP7AM",
+      "count": 4,
+      "first": "2026-10-03",
+      "last": "2026-10-11"
     },
     {
       "name": "Babushahi.com",
