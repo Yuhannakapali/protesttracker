@@ -147,7 +147,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 12
+      "count": 14
     }
   ],
   "sources": [
@@ -476,6 +476,12 @@
       "last": "2026-06-25"
     },
     {
+      "name": "Tuko News",
+      "count": 2,
+      "first": "2026-10-20",
+      "last": "2026-10-29"
+    },
+    {
       "name": "ABC News - Breaking News, Latest News and Videos",
       "count": 1,
       "first": "2024-06-20",
@@ -582,6 +588,12 @@
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
+    },
+    {
+      "name": "DAILY POST",
+      "count": 1,
+      "first": "2026-10-29",
+      "last": "2026-10-29"
     },
     {
       "name": "EWN",
@@ -824,12 +836,6 @@
       "last": "2025-09-26"
     },
     {
-      "name": "Tuko News",
-      "count": 1,
-      "first": "2026-10-20",
-      "last": "2026-10-20"
-    },
-    {
       "name": "tuko.co.ke",
       "count": 1,
       "first": "2026-08-27",
@@ -879,5 +885,5 @@
     }
   ],
   "firstDate": "2023-10-20",
-  "lastDate": "2026-10-21"
+  "lastDate": "2026-10-29"
 }

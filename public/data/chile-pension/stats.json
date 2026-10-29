@@ -239,7 +239,7 @@
     },
     {
       "start": "2019-10-01",
-      "count": 36
+      "count": 37
     },
     {
       "start": "2019-11-01",
@@ -563,7 +563,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 12
+      "count": 13
     },
     {
       "start": "2026-08-01",
@@ -575,7 +575,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 114
+      "count": 115
     }
   ],
   "sources": [
@@ -599,9 +599,9 @@
     },
     {
       "name": "Radio Universidad de Chile",
-      "count": 34,
+      "count": 35,
       "first": "2026-09-16",
-      "last": "2026-10-28"
+      "last": "2026-10-29"
     },
     {
       "name": "DW.com",
@@ -628,16 +628,16 @@
       "last": "2025-12-04"
     },
     {
+      "name": "Colegio de Profesores",
+      "count": 8,
+      "first": "2017-09-26",
+      "last": "2026-08-05"
+    },
+    {
       "name": "SoyChile.cl",
       "count": 8,
       "first": "2016-08-05",
       "last": "2019-03-31"
-    },
-    {
-      "name": "Colegio de Profesores",
-      "count": 7,
-      "first": "2017-09-26",
-      "last": "2026-08-05"
     },
     {
       "name": "Universidad de Chile",
@@ -724,6 +724,12 @@
       "last": "2022-03-12"
     },
     {
+      "name": "World Socialist Web Site",
+      "count": 4,
+      "first": "2026-06-11",
+      "last": "2026-10-24"
+    },
+    {
       "name": "- CIPER Chile",
       "count": 3,
       "first": "2016-07-26",
@@ -806,12 +812,6 @@
       "count": 3,
       "first": "2017-12-18",
       "last": "2025-12-04"
-    },
-    {
-      "name": "World Socialist Web Site",
-      "count": 3,
-      "first": "2026-06-11",
-      "last": "2026-10-24"
     },
     {
       "name": "Análisis Digital",
@@ -1739,5 +1739,5 @@
     }
   ],
   "firstDate": "2014-11-04",
-  "lastDate": "2026-10-28"
+  "lastDate": "2026-10-29"
 }
