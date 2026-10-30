@@ -179,15 +179,15 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2620
+      "count": 2632
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 360,
+      "count": 362,
       "first": "2026-06-06",
-      "last": "2026-10-29"
+      "last": "2026-10-30"
     },
     {
       "name": "The Times of India",
@@ -203,19 +203,19 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 188,
+      "count": 189,
       "first": "2026-06-06",
-      "last": "2026-10-29"
+      "last": "2026-10-30"
     },
     {
       "name": "The New Indian Express",
-      "count": 186,
+      "count": 187,
       "first": "2026-07-22",
-      "last": "2026-10-29"
+      "last": "2026-10-30"
     },
     {
       "name": "The Indian Express",
-      "count": 163,
+      "count": 164,
       "first": "2026-07-24",
       "last": "2026-10-30"
     },
@@ -227,7 +227,7 @@
     },
     {
       "name": "Telegraph India",
-      "count": 125,
+      "count": 126,
       "first": "2026-07-21",
       "last": "2026-10-28"
     },
@@ -251,9 +251,9 @@
     },
     {
       "name": "Deccan Herald",
-      "count": 88,
+      "count": 89,
       "first": "2026-06-05",
-      "last": "2026-10-28"
+      "last": "2026-10-30"
     },
     {
       "name": "ANI News",
@@ -364,6 +364,12 @@
       "last": "2026-10-19"
     },
     {
+      "name": "The Tribune",
+      "count": 27,
+      "first": "2026-08-15",
+      "last": "2026-10-30"
+    },
+    {
       "name": "Bhaskar English",
       "count": 26,
       "first": "2026-07-19",
@@ -374,12 +380,6 @@
       "count": 26,
       "first": "2024-06-18",
       "last": "2026-10-17"
-    },
-    {
-      "name": "The Tribune",
-      "count": 26,
-      "first": "2026-08-15",
-      "last": "2026-10-28"
     },
     {
       "name": "BBC",
@@ -395,9 +395,9 @@
     },
     {
       "name": "The Federal",
-      "count": 22,
+      "count": 23,
       "first": "2026-07-05",
-      "last": "2026-10-27"
+      "last": "2026-10-30"
     },
     {
       "name": "WION",
@@ -425,9 +425,9 @@
     },
     {
       "name": "Scroll.in",
-      "count": 18,
+      "count": 19,
       "first": "2026-07-26",
-      "last": "2026-10-20"
+      "last": "2026-10-30"
     },
     {
       "name": "The Guardian",
@@ -688,6 +688,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "Organiser",
+      "count": 7,
+      "first": "2026-08-13",
+      "last": "2026-10-30"
+    },
+    {
       "name": "PTC News",
       "count": 7,
       "first": "2026-07-24",
@@ -704,6 +710,12 @@
       "count": 7,
       "first": "2026-08-14",
       "last": "2026-10-22"
+    },
+    {
+      "name": "The News Minute",
+      "count": 7,
+      "first": "2026-08-22",
+      "last": "2026-10-30"
     },
     {
       "name": "Asianet Newsable",
@@ -734,18 +746,6 @@
       "count": 6,
       "first": "2026-07-24",
       "last": "2026-10-11"
-    },
-    {
-      "name": "Organiser",
-      "count": 6,
-      "first": "2026-08-13",
-      "last": "2026-10-23"
-    },
-    {
-      "name": "The News Minute",
-      "count": 6,
-      "first": "2026-08-22",
-      "last": "2026-10-22"
     },
     {
       "name": "Times Now",

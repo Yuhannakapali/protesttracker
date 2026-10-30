@@ -3,7 +3,7 @@
   "buckets": [
     {
       "start": "2014-11-01",
-      "count": 1
+      "count": 2
     },
     {
       "start": "2014-12-01",
@@ -628,16 +628,16 @@
       "last": "2025-12-04"
     },
     {
+      "name": "SoyChile.cl",
+      "count": 9,
+      "first": "2014-11-04",
+      "last": "2019-03-31"
+    },
+    {
       "name": "Colegio de Profesores",
       "count": 8,
       "first": "2017-09-26",
       "last": "2026-08-05"
-    },
-    {
-      "name": "SoyChile.cl",
-      "count": 8,
-      "first": "2016-08-05",
-      "last": "2019-03-31"
     },
     {
       "name": "Universidad de Chile",
