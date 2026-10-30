@@ -647,7 +647,7 @@
     },
     {
       "start": "2023-03-01",
-      "count": 3
+      "count": 4
     },
     {
       "start": "2023-04-01",
@@ -667,7 +667,7 @@
     },
     {
       "start": "2023-08-01",
-      "count": 25
+      "count": 26
     },
     {
       "start": "2023-09-01",
@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 231
+      "count": 232
     }
   ],
   "sources": [
@@ -837,9 +837,9 @@
     },
     {
       "name": "Channels Television",
-      "count": 73,
+      "count": 74,
       "first": "2012-01-04",
-      "last": "2026-10-29"
+      "last": "2026-10-30"
     },
     {
       "name": "The Guardian Nigeria News",
@@ -867,7 +867,7 @@
     },
     {
       "name": "Punch Newspapers",
-      "count": 35,
+      "count": 36,
       "first": "2020-09-04",
       "last": "2026-10-20"
     },
@@ -962,6 +962,12 @@
       "last": "2026-10-24"
     },
     {
+      "name": "Nigeria Labour Congress (NLC)",
+      "count": 9,
+      "first": "2020-09-22",
+      "last": "2026-06-03"
+    },
+    {
       "name": "The Nation Newspaper",
       "count": 9,
       "first": "2022-01-10",
@@ -972,12 +978,6 @@
       "count": 9,
       "first": "2022-01-31",
       "last": "2026-10-09"
-    },
-    {
-      "name": "Nigeria Labour Congress (NLC)",
-      "count": 8,
-      "first": "2020-09-22",
-      "last": "2026-06-03"
     },
     {
       "name": "Peoples Gazette Nigeria",

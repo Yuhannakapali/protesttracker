@@ -167,7 +167,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 200
+      "count": 201
     },
     {
       "start": "2026-08-01",
@@ -179,13 +179,13 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2632
+      "count": 2638
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 362,
+      "count": 363,
       "first": "2026-06-06",
       "last": "2026-10-30"
     },
@@ -197,7 +197,7 @@
     },
     {
       "name": "NDTV",
-      "count": 229,
+      "count": 231,
       "first": "2026-05-12",
       "last": "2026-10-30"
     },
@@ -239,7 +239,7 @@
     },
     {
       "name": "The Economic Times",
-      "count": 95,
+      "count": 96,
       "first": "2026-06-06",
       "last": "2026-10-28"
     },
@@ -337,7 +337,7 @@
       "name": "DW.com",
       "count": 32,
       "first": "2026-07-21",
-      "last": "2026-10-29"
+      "last": "2026-10-30"
     },
     {
       "name": "The Business Standard",
@@ -532,6 +532,12 @@
       "last": "2026-10-23"
     },
     {
+      "name": "The Quint",
+      "count": 12,
+      "first": "2026-08-18",
+      "last": "2026-10-26"
+    },
+    {
       "name": "theweek.in",
       "count": 12,
       "first": "2026-06-06",
@@ -554,12 +560,6 @@
       "count": 11,
       "first": "2026-08-24",
       "last": "2026-10-21"
-    },
-    {
-      "name": "The Quint",
-      "count": 11,
-      "first": "2026-08-18",
-      "last": "2026-10-26"
     },
     {
       "name": "Udayavani",
@@ -892,6 +892,12 @@
       "last": "2026-10-02"
     },
     {
+      "name": "LatestLY",
+      "count": 4,
+      "first": "2026-07-20",
+      "last": "2026-10-21"
+    },
+    {
       "name": "Le Monde.fr",
       "count": 4,
       "first": "2026-09-28",
@@ -1058,12 +1064,6 @@
       "count": 3,
       "first": "2026-08-24",
       "last": "2026-10-17"
-    },
-    {
-      "name": "LatestLY",
-      "count": 3,
-      "first": "2026-07-20",
-      "last": "2026-10-21"
     },
     {
       "name": "LawStreet Journal",
@@ -1922,6 +1922,12 @@
       "count": 1,
       "first": "2026-08-25",
       "last": "2026-08-25"
+    },
+    {
+      "name": "Kashmir News Service",
+      "count": 1,
+      "first": "2026-07-16",
+      "last": "2026-07-16"
     },
     {
       "name": "kmsnews.org",
