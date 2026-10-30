@@ -179,7 +179,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2617
+      "count": 2620
     }
   ],
   "sources": [
@@ -197,9 +197,9 @@
     },
     {
       "name": "NDTV",
-      "count": 228,
+      "count": 229,
       "first": "2026-05-12",
-      "last": "2026-10-29"
+      "last": "2026-10-30"
     },
     {
       "name": "Hindustan Times",
@@ -215,9 +215,9 @@
     },
     {
       "name": "The Indian Express",
-      "count": 162,
+      "count": 163,
       "first": "2026-07-24",
-      "last": "2026-10-27"
+      "last": "2026-10-30"
     },
     {
       "name": "India Today",
@@ -245,7 +245,7 @@
     },
     {
       "name": "ThePrint",
-      "count": 92,
+      "count": 93,
       "first": "2026-06-19",
       "last": "2026-10-28"
     },
@@ -2441,5 +2441,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-10-29"
+  "lastDate": "2026-10-30"
 }

@@ -807,7 +807,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 8
+      "count": 7
     },
     {
       "start": "2026-08-01",
@@ -819,7 +819,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 229
+      "count": 231
     }
   ],
   "sources": [
@@ -831,9 +831,9 @@
     },
     {
       "name": "Vanguard",
-      "count": 93,
+      "count": 94,
       "first": "2026-09-02",
-      "last": "2026-10-29"
+      "last": "2026-10-30"
     },
     {
       "name": "Channels Television",
@@ -962,6 +962,12 @@
       "last": "2026-10-24"
     },
     {
+      "name": "The Nation Newspaper",
+      "count": 9,
+      "first": "2022-01-10",
+      "last": "2026-10-12"
+    },
+    {
       "name": "TVC News",
       "count": 9,
       "first": "2022-01-31",
@@ -972,12 +978,6 @@
       "count": 8,
       "first": "2020-09-22",
       "last": "2026-06-03"
-    },
-    {
-      "name": "The Nation Newspaper",
-      "count": 8,
-      "first": "2022-01-10",
-      "last": "2026-10-12"
     },
     {
       "name": "Peoples Gazette Nigeria",
@@ -1046,12 +1046,6 @@
       "last": "2026-10-20"
     },
     {
-      "name": "Head Topics",
-      "count": 4,
-      "first": "2026-07-10",
-      "last": "2026-10-12"
-    },
-    {
       "name": "News Agency of Nigeria",
       "count": 4,
       "first": "2026-10-08",
@@ -1080,6 +1074,12 @@
       "count": 4,
       "first": "2026-10-07",
       "last": "2026-10-21"
+    },
+    {
+      "name": "Head Topics",
+      "count": 3,
+      "first": "2026-08-28",
+      "last": "2026-10-12"
     },
     {
       "name": "Nigerian Bulletin",
@@ -1611,5 +1611,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-29"
+  "lastDate": "2026-10-30"
 }
