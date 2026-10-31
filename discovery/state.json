@@ -6661,7 +6661,29 @@
         "chloe",
         "scotland",
         "wind",
-        "faces"
+        "faces",
+        "cut",
+        "issues",
+        "list",
+        "areas",
+        "barbecue",
+        "each",
+        "horror",
+        "moment",
+        "nightclub",
+        "other",
+        "deportation",
+        "enter",
+        "grandfather",
+        "romanian",
+        "trying",
+        "order",
+        "eight",
+        "hcrg",
+        "patients",
+        "responds",
+        "waits",
+        "care"
       ],
       "domains": [
         "bournemouthecho.co.uk",
@@ -6804,7 +6826,9 @@
         "cambridge-news.co.uk",
         "wrp.org.uk",
         "britainnews.net",
-        "heraldscotland.com"
+        "heraldscotland.com",
+        "mirror.co.uk",
+        "dailystar.co.uk"
       ],
       "daysSeen": [
         "2026-09-05",
@@ -6830,7 +6854,7 @@
         "2026-10-25",
         "2026-10-23"
       ],
-      "articleCount": 91,
+      "articleCount": 103,
       "firstSeen": "2026-09-05",
       "lastSeen": "2026-10-25",
       "samples": [
@@ -9149,242 +9173,6 @@
         }
       ]
     },
-    "india:question-restrictions": {
-      "id": "india:question-restrictions",
-      "country": "India",
-      "terms": [
-        "question",
-        "restrictions"
-      ],
-      "domains": [
-        "oneindia.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "CJP Protest : Abhijeet Dipke , Ashutosh Ranka and Saurav Das Question Delhi Police Restrictions At Jantar Mantar",
-          "url": "https://www.oneindia.com/india/cjp-protest-abhijeet-dipke-ashutosh-ranka-and-saurav-das-question-delhi-police-restrictions-at-jan-8230707.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "CJP Protest : Abhijeet Dipke , Ashutosh Ranka and Saurav Das Question Delhi Police Restrictions At Jantar Mantar",
-          "url": "https://www.oneindia.com/india/cjp-protest-abhijeet-dipke-ashutosh-ranka-and-saurav-das-question-delhi-police-restrictions-at-jan-8230707.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:deployed-drones-personnel": {
-      "id": "india:deployed-drones-personnel",
-      "country": "India",
-      "terms": [
-        "surveillance",
-        "deployed",
-        "drones",
-        "personnel",
-        "security"
-      ],
-      "domains": [
-        "oneindia.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "CJP Protest Today : 43 , 000 Security Personnel Deployed In Delhi , Drones Used For Surveillance",
-          "url": "https://www.oneindia.com/new-delhi/cjp-protest-today-43-000-security-personnel-deployed-in-delhi-drones-used-for-surveillance-8230679.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "CJP Protest Today : 43 , 000 Security Personnel Deployed In Delhi , Drones Used For Surveillance",
-          "url": "https://www.oneindia.com/new-delhi/cjp-protest-today-43-000-security-personnel-deployed-in-delhi-drones-used-for-surveillance-8230679.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:akhilesh-curb-everywhere": {
-      "id": "india:akhilesh-curb-everywhere",
-      "country": "India",
-      "terms": [
-        "akhilesh",
-        "curb",
-        "everywhere",
-        "spring",
-        "yadav"
-      ],
-      "domains": [
-        "oneindia.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "Jantar Mantar will spring everywhere : Akhilesh Yadav on Delhi Police CJP Protest Curb",
-          "url": "https://www.oneindia.com/india/jantar-mantar-will-spring-everywhere-akhilesh-yadav-on-delhi-polices-cjp-protest-curb-8230731.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "Jantar Mantar will spring everywhere : Akhilesh Yadav on Delhi Police CJP Protest Curb",
-          "url": "https://www.oneindia.com/india/jantar-mantar-will-spring-everywhere-akhilesh-yadav-on-delhi-polices-cjp-protest-curb-8230731.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:dhruv-gurugram-hours": {
-      "id": "india:dhruv-gurugram-hours",
-      "country": "India",
-      "terms": [
-        "gurugram",
-        "hours",
-        "youtuber",
-        "dhruv",
-        "rathee",
-        "residence"
-      ],
-      "domains": [
-        "oneindia.com",
-        "rediff.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 4,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "YouTuber Dhruv Rathee Detained In Gurugram Hours Before Delhi Jantar Mantar Protest : Why ?",
-          "url": "https://www.oneindia.com/new-delhi/youtuber-dhruv-rathee-detained-in-gurugram-hours-before-delhi-s-jantar-mantar-protest-why-8230701.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "YouTuber Dhruv Rathee detained from Gurugram residence",
-          "url": "https://www.rediff.com/news/report/youtuber-dhruv-rathee-detained-from-gurugram-residence/20261010.htm",
-          "domain": "rediff.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "YouTuber Dhruv Rathee Detained In Gurugram Hours Before Delhi Jantar Mantar Protest : Why ?",
-          "url": "https://www.oneindia.com/new-delhi/youtuber-dhruv-rathee-detained-in-gurugram-hours-before-delhi-s-jantar-mantar-protest-why-8230701.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "YouTuber Dhruv Rathee detained from Gurugram residence",
-          "url": "https://www.rediff.com/news/report/youtuber-dhruv-rathee-detained-from-gurugram-residence/20261010.htm",
-          "domain": "rediff.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:arrest-ready": {
-      "id": "india:arrest-ready",
-      "country": "India",
-      "terms": [
-        "arrest",
-        "ready"
-      ],
-      "domains": [
-        "oneindia.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "CJP Protest : Abhijeet Dipke Says He Is Ready for Arrest",
-          "url": "https://www.oneindia.com/india/cjp-protest-abhijeet-dipke-says-he-is-ready-for-arrest-8230719.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "CJP Protest : Abhijeet Dipke Says He Is Ready for Arrest",
-          "url": "https://www.oneindia.com/india/cjp-protest-abhijeet-dipke-says-he-is-ready-for-arrest-8230719.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:accepted-defeat-founder": {
-      "id": "india:accepted-defeat-founder",
-      "country": "India",
-      "terms": [
-        "accepted",
-        "defeat",
-        "heads",
-        "founder",
-        "modi"
-      ],
-      "domains": [
-        "oneindia.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "CJP Founder Abhijeet Dipke Heads To Delhi , Says PM Modi Has  Accepted Defeat  Ahead Of Jantar Mantar Protest",
-          "url": "https://www.oneindia.com/india/cjp-founder-abhijeet-dipke-heads-to-delhi-says-pm-modi-has-accepted-defeat-ahead-of-jantar-mantar-8230691.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "CJP Founder Abhijeet Dipke Heads To Delhi , Says PM Modi Has  Accepted Defeat  Ahead Of Jantar Mantar Protest",
-          "url": "https://www.oneindia.com/india/cjp-founder-abhijeet-dipke-heads-to-delhi-says-pm-modi-has-accepted-defeat-ahead-of-jantar-mantar-8230691.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:landing": {
-      "id": "india:landing",
-      "country": "India",
-      "terms": [
-        "landing"
-      ],
-      "domains": [
-        "rediff.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "Abhijeet Dipke , Saurav Das , Ranka detained after landing in Delhi",
-          "url": "https://www.rediff.com/news/report/cockroach-janta-party-leaders-detained-by-delhi-police-over-voter-list-manipulation-protest/20261010.htm",
-          "domain": "rediff.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
     "india:captain-debuts-fly91": {
       "id": "india:captain-debuts-fly91",
       "country": "India",
@@ -9431,312 +9219,6 @@
           "url": "https://www.freepressjournal.in/india/fpj-quick-take-at-5-pm-siddhivinayak-temple-gets-nod-to-buy-adjoining-properties-cjp-holds-lehra-do-tiranga-protest-your-daily-evening-guide-to-news-headlines-16-october-2026",
           "domain": "freepressjournal.in",
           "date": "2026-10-16"
-        }
-      ]
-    },
-    "india:hindubusinessline-revolution-yellow": {
-      "id": "india:hindubusinessline-revolution-yellow",
-      "country": "India",
-      "terms": [
-        "revolution",
-        "yellow",
-        "hindubusinessline"
-      ],
-      "domains": [
-        "thehindubusinessline.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "From  no  to the Yellow Revolution - The HinduBusinessLine",
-          "url": "https://www.thehindubusinessline.com/economy/agri-business/from-no-to-the-yellow-revolution/article71565487.ece",
-          "domain": "thehindubusinessline.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "From  no  to the Yellow Revolution - The HinduBusinessLine",
-          "url": "https://www.thehindubusinessline.com/economy/agri-business/from-no-to-the-yellow-revolution/article71565487.ece",
-          "domain": "thehindubusinessline.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:fortress-turned": {
-      "id": "india:fortress-turned",
-      "country": "India",
-      "terms": [
-        "fortress",
-        "turned"
-      ],
-      "domains": [
-        "rediff.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "Jantar Mantar turned into a fortress for CJP protest",
-          "url": "https://www.rediff.com/news/report/jantar-mantar-turned-into-a-fortress-for-cjp-protest/20261010.htm",
-          "domain": "rediff.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "Jantar Mantar turned into a fortress for CJP protest",
-          "url": "https://www.rediff.com/news/report/jantar-mantar-turned-into-a-fortress-for-cjp-protest/20261010.htm",
-          "domain": "rediff.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:founder-hindubusinessline": {
-      "id": "india:founder-hindubusinessline",
-      "country": "India",
-      "terms": [
-        "founder",
-        "hindubusinessline"
-      ],
-      "domains": [
-        "thehindubusinessline.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "CJP founder Abhijeet Dipke detained by Delhi Police - The HinduBusinessLine",
-          "url": "https://www.thehindubusinessline.com/news/cjp-founder-abhijeet-dipke-detained-by-delhi-police/article71567173.ece",
-          "domain": "thehindubusinessline.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "CJP founder Abhijeet Dipke detained by Delhi Police - The HinduBusinessLine",
-          "url": "https://www.thehindubusinessline.com/news/cjp-founder-abhijeet-dipke-detained-by-delhi-police/article71567173.ece",
-          "domain": "thehindubusinessline.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:bid-friendly-gas": {
-      "id": "india:bid-friendly-gas",
-      "country": "India",
-      "terms": [
-        "friendly",
-        "gas",
-        "meg",
-        "oneill",
-        "plans",
-        "policy",
-        "bid",
-        "investment"
-      ],
-      "domains": [
-        "economictimes.indiatimes.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "BP Plans Bid Under Investment - friendly India Oil & Gas Policy : Meg ONeill",
-          "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/10/satet-front/bp-plans-bid-under-investment-friendly-india-oil-gas-policy/articleshow/134842812.cms",
-          "domain": "economictimes.indiatimes.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "BP Plans Bid Under Investment - friendly India Oil & Gas Policy : Meg ONeill",
-          "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/10/satet-front/bp-plans-bid-under-investment-friendly-india-oil-gas-policy/articleshow/134842812.cms",
-          "domain": "economictimes.indiatimes.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:aftershocks-earthquake-ends": {
-      "id": "india:aftershocks-earthquake-ends",
-      "country": "India",
-      "terms": [
-        "aftershocks",
-        "earthquake",
-        "ends",
-        "magnitude",
-        "panama",
-        "residents",
-        "threat",
-        "tsunami"
-      ],
-      "domains": [
-        "oneindia.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "7 . 6 - Magnitude Earthquake Hits Panama , Tsunami Threat Ends , Residents Report Damage And Aftershocks",
-          "url": "https://www.oneindia.com/international/7-6-magnitude-earthquake-hits-panama-tsunami-threat-ends-residents-report-damage-and-aftershocks-8230657.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "7 . 6 - Magnitude Earthquake Hits Panama , Tsunami Threat Ends , Residents Report Damage And Aftershocks",
-          "url": "https://www.oneindia.com/international/7-6-magnitude-earthquake-hits-panama-tsunami-threat-ends-residents-report-damage-and-aftershocks-8230657.html",
-          "domain": "oneindia.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:can-dangerous-encounter": {
-      "id": "india:can-dangerous-encounter",
-      "country": "India",
-      "terms": [
-        "can",
-        "dangerous",
-        "encounter",
-        "episode",
-        "escape",
-        "firefly",
-        "life",
-        "recap"
-      ],
-      "domains": [
-        "indiatimes.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "Firefly Wedding episode 1 recap : Can Satoko escape death after a dangerous encounter turns her life upside down ?",
-          "url": "https://www.indiatimes.com/trending/firefly-wedding-episode-1-recap-can-satoko-escape-death-after-a-dangerous-encounter-turns-her-life-upside-down/articleshow/134847515.html",
-          "domain": "indiatimes.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "Firefly Wedding episode 1 recap : Can Satoko escape death after a dangerous encounter turns her life upside down ?",
-          "url": "https://www.indiatimes.com/trending/firefly-wedding-episode-1-recap-can-satoko-escape-death-after-a-dangerous-encounter-turns-her-life-upside-down/articleshow/134847515.html",
-          "domain": "indiatimes.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "south-africa:action-cannery-closes": {
-      "id": "south-africa:action-cannery-closes",
-      "country": "South Africa",
-      "terms": [
-        "action",
-        "cannery",
-        "closes",
-        "cosatu",
-        "dire",
-        "fruit",
-        "premier",
-        "warns"
-      ],
-      "domains": [
-        "timeslive.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "Cosatu warns Premier of dire action if fruit cannery closes",
-          "url": "https://www.timeslive.co.za/news/business/2026-10-10-cosatu-warns-premier-of-dire-action-if-fruit-cannery-closes/",
-          "domain": "timeslive.co.za",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "Cosatu warns Premier of dire action if fruit cannery closes",
-          "url": "https://www.timeslive.co.za/news/business/2026-10-10-cosatu-warns-premier-of-dire-action-if-fruit-cannery-closes/",
-          "domain": "timeslive.co.za",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "Cosatu warns Premier of dire action if fruit cannery closes",
-          "url": "https://www.timeslive.co.za/news/business/2026-10-10-cosatu-warns-premier-of-dire-action-if-fruit-cannery-closes/",
-          "domain": "timeslive.co.za",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "philippines:buzz-grows-midterms": {
-      "id": "philippines:buzz-grows-midterms",
-      "country": "Philippines",
-      "terms": [
-        "buzz",
-        "grows",
-        "midterms",
-        "sting",
-        "vance"
-      ],
-      "domains": [
-        "philstar.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "Vance 2028 buzz grows , but US midterms could sting",
-          "url": "https://www.philstar.com/world/2026/10/10/2562260/vance-2028-buzz-grows-us-midterms-could-sting",
-          "domain": "philstar.com",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "Vance 2028 buzz grows , but US midterms could sting",
-          "url": "https://www.philstar.com/world/2026/10/10/2562260/vance-2028-buzz-grows-us-midterms-could-sting",
-          "domain": "philstar.com",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "india:landing-2": {
-      "id": "india:landing-2",
-      "country": "India",
-      "terms": [
-        "landing"
-      ],
-      "domains": [
-        "rediff.com"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "Abhijeet Dipke , Saurav Das , Ranka detained after landing in Delhi",
-          "url": "https://www.rediff.com/news/report/cockroach-janta-party-leaders-detained-by-delhi-police-over-voter-list-manipulation-protest/20261010.htm",
-          "domain": "rediff.com",
-          "date": "2026-10-10"
         }
       ]
     },
@@ -9801,89 +9283,6 @@
           "url": "https://kenya-today.com/report-opposition-leaders-honour-fallen-protesters-on-mashujaa-day-call-for-justice-13878/",
           "domain": "kenya-today.com",
           "date": "2026-10-20"
-        }
-      ]
-    },
-    "kenya:face-interns-jobs": {
-      "id": "kenya:face-interns-jobs",
-      "country": "Kenya",
-      "terms": [
-        "face",
-        "interns",
-        "jobs",
-        "jss",
-        "standoff",
-        "uncertainty"
-      ],
-      "domains": [
-        "the-star.co.ke"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "JSS jobs standoff : 24 , 000 interns face uncertainty",
-          "url": "https://www.the-star.co.ke/news/2026-10-10-jss-jobs-standoff-24000-interns-face-uncertainty",
-          "domain": "the-star.co.ke",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "JSS jobs standoff : 24 , 000 interns face uncertainty",
-          "url": "https://www.the-star.co.ke/news/2026-10-10-jss-jobs-standoff-24000-interns-face-uncertainty",
-          "domain": "the-star.co.ke",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "JSS jobs standoff : 24 , 000 interns face uncertainty",
-          "url": "https://www.the-star.co.ke/news/2026-10-10-jss-jobs-standoff-24000-interns-face-uncertainty",
-          "domain": "the-star.co.ke",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    "kenya:billionaires-billions-broke": {
-      "id": "kenya:billionaires-billions-broke",
-      "country": "Kenya",
-      "terms": [
-        "billionaires",
-        "billions",
-        "broke",
-        "counties",
-        "irony",
-        "owed",
-        "poor"
-      ],
-      "domains": [
-        "the-star.co.ke"
-      ],
-      "daysSeen": [
-        "2026-10-10"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-10",
-      "samples": [
-        {
-          "title": "Poor billionaires : The irony of  broke  counties owed billions",
-          "url": "https://www.the-star.co.ke/news/2026-10-10-poor-billionaires-the-irony-of-broke-counties-owed-billions",
-          "domain": "the-star.co.ke",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "Poor billionaires : The irony of  broke  counties owed billions",
-          "url": "https://www.the-star.co.ke/news/2026-10-10-poor-billionaires-the-irony-of-broke-counties-owed-billions",
-          "domain": "the-star.co.ke",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "Poor billionaires : The irony of  broke  counties owed billions",
-          "url": "https://www.the-star.co.ke/news/2026-10-10-poor-billionaires-the-irony-of-broke-counties-owed-billions",
-          "domain": "the-star.co.ke",
-          "date": "2026-10-10"
         }
       ]
     },
@@ -19529,7 +18928,7 @@
         "2026-10-16",
         "2026-10-26"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-16",
       "lastSeen": "2026-10-26",
       "samples": [
@@ -19538,6 +18937,12 @@
           "url": "https://www.heraldscotland.com/news/26641862.scottish-government-urged-intervene-dundee-job-cuts/",
           "domain": "heraldscotland.com",
           "date": "2026-10-16"
+        },
+        {
+          "title": "UCU branches plan coordinated fightback to  apocalyptic  job cuts",
+          "url": "https://www.timeshighereducation.com/news/ucu-branches-plan-coordinated-fightback-apocalyptic-job-cuts",
+          "domain": "timeshighereducation.com",
+          "date": "2026-10-26"
         },
         {
           "title": "UCU branches plan coordinated fightback to  apocalyptic  job cuts",
@@ -44408,7 +43813,8 @@
         "iran",
         "marco",
         "rubio",
-        "cuba"
+        "cuba",
+        "country"
       ],
       "domains": [
         "lbc.co.uk"
@@ -44416,10 +43822,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "Marco Rubio calls on Cuba to  work with CIA  as Trump warns hell  deal with  country after Iran",
+          "url": "https://www.lbc.co.uk/article/trump-cuba-marco-rubio-cia-5HjdkPC_2/",
+          "domain": "lbc.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "Marco Rubio calls on Cuba to  work with CIA  as Trump warns hell  deal with  country after Iran",
           "url": "https://www.lbc.co.uk/article/trump-cuba-marco-rubio-cia-5HjdkPC_2/",
@@ -44511,10 +43923,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "France mobilises thousands of police at protests over living costs",
+          "url": "https://www.edp24.co.uk/news/national/26666764.france-mobilises-thousands-police-protests-living-costs/",
+          "domain": "edp24.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "France mobilises thousands of police at protests over living costs",
           "url": "https://www.edp24.co.uk/news/national/26666764.france-mobilises-thousands-police-protests-living-costs/",
@@ -44543,10 +43961,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "Protesters clash with police in Paris as demonstrations turn hostile across France",
+          "url": "https://www.independent.co.uk/news/world/europe/paris-france-protests-riots-trade-unions-b3072794.html",
+          "domain": "independent.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "Protesters clash with police in Paris as demonstrations turn hostile across France",
           "url": "https://www.independent.co.uk/news/world/europe/paris-france-protests-riots-trade-unions-b3072794.html",
@@ -44581,10 +44005,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "Almost 1 , 000 arrested in French protests as tear gas and water cannons used to deter crowds - but minister insists outcome was  positive",
+          "url": "https://www.lbc.co.uk/article/police-1000-arrests-france-paris-protests-5HjdkPG_2/",
+          "domain": "lbc.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "Almost 1 , 000 arrested in French protests as tear gas and water cannons used to deter crowds - but minister insists outcome was  positive",
           "url": "https://www.lbc.co.uk/article/police-1000-arrests-france-paris-protests-5HjdkPG_2/",
@@ -44689,7 +44119,7 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 4,
+      "articleCount": 6,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
@@ -44716,6 +44146,12 @@
           "url": "https://www.express.co.uk/news/world/2260002/paris-riots-live-protest-france",
           "domain": "express.co.uk",
           "date": "2026-10-24"
+        },
+        {
+          "title": "France riots LIVE : Protests in Paris today as demonstrations held across country | World | News",
+          "url": "https://www.express.co.uk/news/world/2260002/france-riots-live-protest-paris",
+          "domain": "express.co.uk",
+          "date": "2026-10-24"
         }
       ]
     },
@@ -44730,7 +44166,13 @@
         "european",
         "cities",
         "thousands",
-        "europe"
+        "europe",
+        "clas",
+        "connect",
+        "major",
+        "train",
+        "travel",
+        "business"
       ],
       "domains": [
         "edp24.co.uk",
@@ -44762,12 +44204,13 @@
         "bicesteradvertiser.net",
         "wandsworthguardian.co.uk",
         "peeblesshirenews.com",
-        "bracknellnews.co.uk"
+        "bracknellnews.co.uk",
+        "express.co.uk"
       ],
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 4,
+      "articleCount": 7,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
@@ -44793,6 +44236,12 @@
           "title": "Soldiers sent to Milan as thousands of protesters march across European cities",
           "url": "https://www.lancashiretelegraph.co.uk/news/national/26667118.soldiers-sent-milan-thousands-protesters-march-across-european-cities/",
           "domain": "lancashiretelegraph.co.uk",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Hundreds of soldiers sent to Milan as protesters march across Europe",
+          "url": "https://www.edp24.co.uk/news/national/26667118.hundreds-soldiers-sent-milan-protesters-march-across-europe/",
+          "domain": "edp24.co.uk",
           "date": "2026-10-24"
         }
       ]
@@ -44875,7 +44324,11 @@
         "day",
         "another",
         "follow",
-        "almost"
+        "almost",
+        "displaces",
+        "hebron",
+        "army",
+        "israeli"
       ],
       "domains": [
         "wrp.org.uk",
@@ -44886,7 +44339,7 @@
         "2026-10-23",
         "2026-10-24"
       ],
-      "articleCount": 6,
+      "articleCount": 10,
       "firstSeen": "2026-10-23",
       "lastSeen": "2026-10-26",
       "samples": [
@@ -45068,10 +44521,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Iranians fear possible return to all - out war as US and Israeli elections loom",
+          "url": "https://www.herefordtimes.com/news/national/26668344.iranians-fear-possible-return-all-out-war-us-israeli-elections-loom/",
+          "domain": "herefordtimes.com",
+          "date": "2026-10-25"
+        },
         {
           "title": "Iranians fear possible return to all - out war as US and Israeli elections loom",
           "url": "https://www.herefordtimes.com/news/national/26668344.iranians-fear-possible-return-all-out-war-us-israeli-elections-loom/",
@@ -45102,7 +44561,13 @@
         "dup",
         "officer",
         "principle",
-        "quitting"
+        "quitting",
+        "party",
+        "denies",
+        "drumcree",
+        "hardliners",
+        "satisfying",
+        "simply"
       ],
       "domains": [
         "belfastlive.co.uk",
@@ -45111,13 +44576,16 @@
         "salisburyjournal.co.uk",
         "lancashiretelegraph.co.uk",
         "herefordtimes.com",
-        "ipswichstar.co.uk"
+        "ipswichstar.co.uk",
+        "oxfordmail.co.uk",
+        "dorsetecho.co.uk",
+        "bbc.co.uk"
       ],
       "daysSeen": [
         "2026-10-25",
         "2026-10-24"
       ],
-      "articleCount": 3,
+      "articleCount": 6,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-25",
       "samples": [
@@ -45126,6 +44594,18 @@
           "url": "https://www.belfastlive.co.uk/news/northern-ireland/mp-carla-lockhart-tells-crowd-34813972",
           "domain": "belfastlive.co.uk",
           "date": "2026-10-25"
+        },
+        {
+          "title": "MP Carla Lockhart tells crowd at Portadown rally Michelle ONeill  must go",
+          "url": "https://www.belfastlive.co.uk/news/northern-ireland/mp-carla-lockhart-tells-crowd-34813972",
+          "domain": "belfastlive.co.uk",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "It about principle  – Carla Lockhart defends quitting as DUP party officer",
+          "url": "https://www.edp24.co.uk/news/national/26667091.its-principle---carla-lockhart-defends-quitting-dup-party-officer/",
+          "domain": "edp24.co.uk",
+          "date": "2026-10-24"
         },
         {
           "title": "MP Carla Lockhart tells crowd at Portadown rally Michelle ONeill  must go",
@@ -45199,10 +44679,16 @@
         "2026-10-24",
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "Thousands attend support parade for Portadown Orange Order",
+          "url": "https://www.royston-crow.co.uk/news/national/26667709.thousands-attend-support-parade-portadown-orange-order/",
+          "domain": "royston-crow.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "Thousands attend support parade for Portadown Orange Order",
           "url": "https://www.royston-crow.co.uk/news/national/26667709.thousands-attend-support-parade-portadown-orange-order/",
@@ -45799,7 +45285,7 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
@@ -45807,6 +45293,12 @@
           "title": "Police deploy in big numbers and museums shut as France braces for more protests",
           "url": "https://www.herefordtimes.com/news/national/26666764.police-deploy-big-numbers-museums-shut-france-braces-protests/",
           "domain": "herefordtimes.com",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Police deploy in big numbers and museums shut as France braces for more protests",
+          "url": "https://www.falmouthpacket.co.uk/news/national/26666764.police-deploy-big-numbers-museums-shut-france-braces-protests/",
+          "domain": "falmouthpacket.co.uk",
           "date": "2026-10-24"
         }
       ]
@@ -45822,7 +45314,8 @@
         "putin",
         "take",
         "topple",
-        "polls"
+        "polls",
+        "serbia"
       ],
       "domains": [
         "aol.co.uk",
@@ -45831,10 +45324,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Serbia student protests could take power and topple Putin  main ally  in Europe as election polls open",
+          "url": "https://www.aol.co.uk/articles/serbia-student-protests-could-power-095931000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-25"
+        },
         {
           "title": "Serbia student protests could take power and topple Putin  main ally  in Europe as election polls open",
           "url": "https://www.aol.co.uk/articles/serbia-student-protests-could-power-095931000.html",
@@ -45887,10 +45386,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "France braced for weekend of riots with 70 , 000 cops deployed across the nation",
+          "url": "https://www.mirror.co.uk/news/world-news/paris-riots-france-violence-police-37806037",
+          "domain": "mirror.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "France braced for weekend of riots with 70 , 000 cops deployed across the nation",
           "url": "https://www.mirror.co.uk/news/world-news/paris-riots-france-violence-police-37806037",
@@ -45918,10 +45423,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "Donald Trump Yells  Where the Hell Is That Doctor ? While Fox News Viewers Raise Health Concerns",
+          "url": "https://www.ibtimes.co.uk/trump-calls-doctor-after-arithmetic-test-iowa-rally-1827547",
+          "domain": "ibtimes.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "Donald Trump Yells  Where the Hell Is That Doctor ? While Fox News Viewers Raise Health Concerns",
           "url": "https://www.ibtimes.co.uk/trump-calls-doctor-after-arithmetic-test-iowa-rally-1827547",
@@ -45947,10 +45458,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Lorry crashes into railway bridge on A36 at Wilton",
+          "url": "https://www.salisburyjournal.co.uk/news/26667773.lorry-crashes-railway-bridge-a36-wilton/",
+          "domain": "salisburyjournal.co.uk",
+          "date": "2026-10-25"
+        },
         {
           "title": "Lorry crashes into railway bridge on A36 at Wilton",
           "url": "https://www.salisburyjournal.co.uk/news/26667773.lorry-crashes-railway-bridge-a36-wilton/",
@@ -45977,10 +45494,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "Trump Accuses Democrats of Paying Protesters $250 as Woman Is Removed Minutes Into Michigan Rally",
+          "url": "https://www.ibtimes.co.uk/trump-claims-protesters-paid-250-no-evidence-1827703",
+          "domain": "ibtimes.co.uk",
+          "date": "2026-10-26"
+        },
         {
           "title": "Trump Accuses Democrats of Paying Protesters $250 as Woman Is Removed Minutes Into Michigan Rally",
           "url": "https://www.ibtimes.co.uk/trump-claims-protesters-paid-250-no-evidence-1827703",
@@ -46000,7 +45523,8 @@
         "greenland",
         "history",
         "real",
-        "deal"
+        "deal",
+        "greatest"
       ],
       "domains": [
         "ibtimes.co.uk"
@@ -46008,10 +45532,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "Trump Calls Greenland  The Greatest Real Estate Deal in History  After Claiming Denmark  Gave  It to the US",
+          "url": "https://www.ibtimes.co.uk/trump-greenland-defence-deal-sovereignty-1827756",
+          "domain": "ibtimes.co.uk",
+          "date": "2026-10-26"
+        },
         {
           "title": "Trump Calls Greenland  The Greatest Real Estate Deal in History  After Claiming Denmark  Gave  It to the US",
           "url": "https://www.ibtimes.co.uk/trump-greenland-defence-deal-sovereignty-1827756",
@@ -46031,7 +45561,8 @@
         "golf",
         "gravesend",
         "indoor",
-        "lab"
+        "lab",
+        "opens"
       ],
       "domains": [
         "kentonline.co.uk"
@@ -46039,10 +45570,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "Gravesend dad opens Strike Lab indoor golf simulator at Crossways Business Park in Dartford",
+          "url": "https://www.kentonline.co.uk/dartford/news/it-could-be-as-popular-as-padel-dad-of-four-opens-indoor-346540/",
+          "domain": "kentonline.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "Gravesend dad opens Strike Lab indoor golf simulator at Crossways Business Park in Dartford",
           "url": "https://www.kentonline.co.uk/dartford/news/it-could-be-as-popular-as-padel-dad-of-four-opens-indoor-346540/",
@@ -46070,10 +45607,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "I Just Dont Listen Very Well : Influencer Hugh Lovett Banned by Two Airlines After Inflating Life Jacket for Prank",
+          "url": "https://www.ibtimes.co.uk/hugh-lovett-banned-jetstar-qantas-life-jacket-stunt-1827769",
+          "domain": "ibtimes.co.uk",
+          "date": "2026-10-26"
+        },
         {
           "title": "I Just Dont Listen Very Well : Influencer Hugh Lovett Banned by Two Airlines After Inflating Life Jacket for Prank",
           "url": "https://www.ibtimes.co.uk/hugh-lovett-banned-jetstar-qantas-life-jacket-stunt-1827769",
@@ -46093,7 +45636,8 @@
         "pub",
         "shots",
         "suspect",
-        "wake"
+        "wake",
+        "war"
       ],
       "domains": [
         "dailyrecord.co.uk"
@@ -46101,10 +45645,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "Gunman blasts shots at Edinburgh pub during wake for gang war suspect",
+          "url": "https://www.dailyrecord.co.uk/news/scottish-news/gunman-blasted-shots-edinburgh-pub-37806574",
+          "domain": "dailyrecord.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "Gunman blasts shots at Edinburgh pub during wake for gang war suspect",
           "url": "https://www.dailyrecord.co.uk/news/scottish-news/gunman-blasted-shots-edinburgh-pub-37806574",
@@ -46126,15 +45676,23 @@
         "venezuela"
       ],
       "domains": [
-        "herefordtimes.com"
+        "herefordtimes.com",
+        "dorsetecho.co.uk",
+        "yourlocalguardian.co.uk"
       ],
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Venezuela opposition leader Machado returns after months in exile",
+          "url": "https://www.herefordtimes.com/news/national/26668498.venezuelas-opposition-leader-machado-returns-months-exile/",
+          "domain": "herefordtimes.com",
+          "date": "2026-10-25"
+        },
         {
           "title": "Venezuela opposition leader Machado returns after months in exile",
           "url": "https://www.herefordtimes.com/news/national/26668498.venezuelas-opposition-leader-machado-returns-months-exile/",
@@ -46162,10 +45720,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "Donald Trump  fantasises about making adult film with good looking male soldiers",
+          "url": "https://www.dailystar.co.uk/news/latest-news/donald-trump-fantasises-making-adult-37807054",
+          "domain": "dailystar.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "Donald Trump  fantasises about making adult film with good looking male soldiers",
           "url": "https://www.dailystar.co.uk/news/latest-news/donald-trump-fantasises-making-adult-37807054",
@@ -46193,10 +45757,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "Donald Trump Emerges With New Bruise on Temple as He Faces Fresh Health Scrutiny From Critics",
+          "url": "https://www.ibtimes.co.uk/trump-reported-temple-bruise-white-house-health-response-1827572",
+          "domain": "ibtimes.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "Donald Trump Emerges With New Bruise on Temple as He Faces Fresh Health Scrutiny From Critics",
           "url": "https://www.ibtimes.co.uk/trump-reported-temple-bruise-white-house-health-response-1827572",
@@ -46255,10 +45825,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
+          "url": "https://www.thetelegraphandargus.co.uk/news/national/26668635.lula-declared-winner-brazils-election-bolsonaro-rejects-results/",
+          "domain": "thetelegraphandargus.co.uk",
+          "date": "2026-10-26"
+        },
         {
           "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
           "url": "https://www.thetelegraphandargus.co.uk/news/national/26668635.lula-declared-winner-brazils-election-bolsonaro-rejects-results/",
@@ -46286,10 +45862,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "U18s match report : Liverpool beaten in league clash at Manchester United",
+          "url": "https://www.liverpoolfc.com/news/u18s-match-report-liverpool-manchester-united-academy",
+          "domain": "liverpoolfc.com",
+          "date": "2026-10-24"
+        },
         {
           "title": "U18s match report : Liverpool beaten in league clash at Manchester United",
           "url": "https://www.liverpoolfc.com/news/u18s-match-report-liverpool-manchester-united-academy",
@@ -46376,10 +45958,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "More Machine Than Man : Donald Trump Faces Wild  Exoskeleton  Rumours Following Recent Florida Rally",
+          "url": "https://www.ibtimes.co.uk/more-machine-man-donald-trump-faces-wild-exoskeleton-rumours-following-recent-florida-rally-1827577",
+          "domain": "ibtimes.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "More Machine Than Man : Donald Trump Faces Wild  Exoskeleton  Rumours Following Recent Florida Rally",
           "url": "https://www.ibtimes.co.uk/more-machine-man-donald-trump-faces-wild-exoskeleton-rumours-following-recent-florida-rally-1827577",
@@ -46407,10 +45995,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "Iran brutally mocks Trump as performer dresses as President in mock prison cell",
+          "url": "https://www.express.co.uk/news/world/2260003/iran-brutally-mocks-trump-performer",
+          "domain": "express.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "Iran brutally mocks Trump as performer dresses as President in mock prison cell",
           "url": "https://www.express.co.uk/news/world/2260003/iran-brutally-mocks-trump-performer",
@@ -46437,10 +46031,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "BBC slammed as programme showed  pro - Palestine  bias",
+          "url": "https://www.express.co.uk/news/uk/2260050/bbc-programme-pro-palestine-bias",
+          "domain": "express.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "BBC slammed as programme showed  pro - Palestine  bias",
           "url": "https://www.express.co.uk/news/uk/2260050/bbc-programme-pro-palestine-bias",
@@ -46460,7 +46060,8 @@
         "nasa",
         "seconds",
         "shuttle",
-        "space"
+        "space",
+        "chilling"
       ],
       "domains": [
         "express.co.uk"
@@ -46468,10 +46069,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "Seconds after the Columbia space shuttle disaster NASA carried out chilling act",
+          "url": "https://www.express.co.uk/news/us/2260004/seconds-after-columbia-space-shuttle-disaster-nasa-carried-out-chilling-act",
+          "domain": "express.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "Seconds after the Columbia space shuttle disaster NASA carried out chilling act",
           "url": "https://www.express.co.uk/news/us/2260004/seconds-after-columbia-space-shuttle-disaster-nasa-carried-out-chilling-act",
@@ -46499,10 +46106,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Norfolk among lowest areas for smoking - related house fires",
+          "url": "https://www.edp24.co.uk/news/26656984.norfolk-among-lowest-areas-smoking-related-house-fires/",
+          "domain": "edp24.co.uk",
+          "date": "2026-10-25"
+        },
         {
           "title": "Norfolk among lowest areas for smoking - related house fires",
           "url": "https://www.edp24.co.uk/news/26656984.norfolk-among-lowest-areas-smoking-related-house-fires/",
@@ -46522,7 +46135,8 @@
         "met",
         "role",
         "servant",
-        "insists"
+        "insists",
+        "five"
       ],
       "domains": [
         "standard.co.uk"
@@ -46530,10 +46144,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "London civil servant with five jobs insists he  met the demands of role",
+          "url": "https://www.standard.co.uk/news/crime/london-civil-servant-fraud-home-office-defra-kashim-chowdhury-b1302211.html",
+          "domain": "standard.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "London civil servant with five jobs insists he  met the demands of role",
           "url": "https://www.standard.co.uk/news/crime/london-civil-servant-fraud-home-office-defra-kashim-chowdhury-b1302211.html",
@@ -46589,10 +46209,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "American Nostradamu warns humanity doomed by 2028 as Trump tipped to trigger WW3",
+          "url": "https://www.dailystar.co.uk/news/latest-news/american-nostradamus-warns-humanity-doomed-37807594",
+          "domain": "dailystar.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "American Nostradamu warns humanity doomed by 2028 as Trump tipped to trigger WW3",
           "url": "https://www.dailystar.co.uk/news/latest-news/american-nostradamus-warns-humanity-doomed-37807594",
@@ -46648,10 +46274,16 @@
       "daysSeen": [
         "2026-10-27"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27",
       "samples": [
+        {
+          "title": "Meghan to co - host Junior MasterChef Australia",
+          "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
+          "domain": "bbc.co.uk",
+          "date": "2026-10-27"
+        },
         {
           "title": "Meghan to co - host Junior MasterChef Australia",
           "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
@@ -46679,10 +46311,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "People are only just realising what AM and PM stand for and feel  really silly",
+          "url": "https://www.dailystar.co.uk/news/uk-news/people-feel-stupid-after-realising-37799632",
+          "domain": "dailystar.co.uk",
+          "date": "2026-10-25"
+        },
         {
           "title": "People are only just realising what AM and PM stand for and feel  really silly",
           "url": "https://www.dailystar.co.uk/news/uk-news/people-feel-stupid-after-realising-37799632",
@@ -46702,7 +46340,8 @@
         "rewarded",
         "robert",
         "campaign",
-        "cancer"
+        "cancer",
+        "our"
       ],
       "domains": [
         "express.co.uk"
@@ -46710,10 +46349,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "Our hero Robert is rewarded for his brilliant Cancer Care campaign to | united kingdom | News",
+          "url": "https://www.express.co.uk/news/uk/2259201/our-hero-robert-rewarded-campaign-cancer",
+          "domain": "express.co.uk",
+          "date": "2026-10-24"
+        },
         {
           "title": "Our hero Robert is rewarded for his brilliant Cancer Care campaign to | united kingdom | News",
           "url": "https://www.express.co.uk/news/uk/2259201/our-hero-robert-rewarded-campaign-cancer",
@@ -46741,10 +46386,16 @@
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
+        {
+          "title": "Evil man who abused vulnerable girl in Coventry vapes as he is jailed",
+          "url": "https://www.coventrytelegraph.net/news/coventry-news/evil-man-who-abused-vulnerable-34811592",
+          "domain": "coventrytelegraph.net",
+          "date": "2026-10-24"
+        },
         {
           "title": "Evil man who abused vulnerable girl in Coventry vapes as he is jailed",
           "url": "https://www.coventrytelegraph.net/news/coventry-news/evil-man-who-abused-vulnerable-34811592",
@@ -46801,10 +46452,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Inside Whitmore Hall owned by 35 generations of the same family for 940 years",
+          "url": "https://www.stokesentinel.co.uk/news/stoke-on-trent-news/inside-whitmore-hall-owned-35-10992367",
+          "domain": "stokesentinel.co.uk",
+          "date": "2026-10-25"
+        },
         {
           "title": "Inside Whitmore Hall owned by 35 generations of the same family for 940 years",
           "url": "https://www.stokesentinel.co.uk/news/stoke-on-trent-news/inside-whitmore-hall-owned-35-10992367",
@@ -46860,16 +46517,19 @@
         "comes",
         "end",
         "summer",
-        "time"
+        "time",
+        "should",
+        "still"
       ],
       "domains": [
         "metro.co.uk",
-        "manchestereveningnews.co.uk"
+        "manchestereveningnews.co.uk",
+        "liverpoolecho.co.uk"
       ],
       "daysSeen": [
         "2026-10-24"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-24",
       "samples": [
@@ -46883,6 +46543,18 @@
           "title": "What time clocks change and go back tonight as British Summer Time comes to an end",
           "url": "https://www.manchestereveningnews.co.uk/news/uk-news/what-time-clocks-change-go-34808677",
           "domain": "manchestereveningnews.co.uk",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "What time clocks change and go back tonight as British Summer Time comes to an end",
+          "url": "https://www.manchestereveningnews.co.uk/news/uk-news/what-time-clocks-change-go-34808677",
+          "domain": "manchestereveningnews.co.uk",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Why do the clocks change in the united kingdom and should we still do it ?",
+          "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/clocks-change-uk-should-still-34794550",
+          "domain": "liverpoolecho.co.uk",
           "date": "2026-10-24"
         }
       ]
@@ -46898,7 +46570,8 @@
         "straker",
         "thing",
         "thomas",
-        "york"
+        "york",
+        "million"
       ],
       "domains": [
         "gq-magazine.co.uk"
@@ -46906,10 +46579,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Thomas Straker on his $5 million new restaurant and the most expensive thing he eaten in New York",
+          "url": "https://www.gq-magazine.co.uk/article/thomas-straker-interview-profit-losses-october-2026",
+          "domain": "gq-magazine.co.uk",
+          "date": "2026-10-25"
+        },
         {
           "title": "Thomas Straker on his $5 million new restaurant and the most expensive thing he eaten in New York",
           "url": "https://www.gq-magazine.co.uk/article/thomas-straker-interview-profit-losses-october-2026",
@@ -46932,20 +46611,28 @@
         "day"
       ],
       "domains": [
-        "manchestereveningnews.co.uk"
+        "manchestereveningnews.co.uk",
+        "derbytelegraph.co.uk"
       ],
       "daysSeen": [
-        "2026-10-24"
+        "2026-10-24",
+        "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "samples": [
         {
           "title": "Christmas Day and Boxing Day 2027 dates confirmed as bank holidays moved",
           "url": "https://www.manchestereveningnews.co.uk/news/uk-news/christmas-day-boxing-day-2027-34809422",
           "domain": "manchestereveningnews.co.uk",
           "date": "2026-10-24"
+        },
+        {
+          "title": "Christmas Day and Boxing Day 2027 bank holidays confirmed as dates moved",
+          "url": "https://www.derbytelegraph.co.uk/news/uk-world-news/christmas-day-boxing-day-2027-11213329",
+          "domain": "derbytelegraph.co.uk",
+          "date": "2026-10-25"
         }
       ]
     },
@@ -46977,6 +46664,895 @@
           "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
           "domain": "theguardian.com",
           "date": "2026-10-24"
+        }
+      ]
+    },
+    "united-kingdom:appearance-inspired-kate": {
+      "id": "united-kingdom:appearance-inspired-kate",
+      "country": "United Kingdom",
+      "terms": [
+        "appearance",
+        "inspired",
+        "kate",
+        "middleton",
+        "striking",
+        "suit",
+        "tindall",
+        "zara"
+      ],
+      "domains": [
+        "hellomagazine.com"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "Zara Tindall makes striking appearance in Kate Middleton - inspired power suit",
+          "url": "https://www.hellomagazine.com/royalty/931076/zara-tindall-striking-appearance-kate-middleton/",
+          "domain": "hellomagazine.com",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "united-kingdom:become-cocaine-conquered": {
+      "id": "united-kingdom:become-cocaine-conquered",
+      "country": "United Kingdom",
+      "terms": [
+        "become",
+        "cocaine",
+        "conquered",
+        "drug",
+        "everyday",
+        "festivals",
+        "habit",
+        "pubs"
+      ],
+      "domains": [
+        "theguardian.com"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "How cocaine conquered the united kingdom : in pubs , festivals and workplaces the drug has become an everyday habit",
+          "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/25/how-cocaine-conquered-the-uk-inside-britains-pubs-festivals-and-workplaces-the-drug-has-become-an-everyday-habit",
+          "domain": "theguardian.com",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:andy-burnham-enforceable": {
+      "id": "united-kingdom:andy-burnham-enforceable",
+      "country": "United Kingdom",
+      "terms": [
+        "enforceable",
+        "legally",
+        "make",
+        "petrol",
+        "stations",
+        "andy",
+        "burnham",
+        "told",
+        "driveways",
+        "england",
+        "force",
+        "now",
+        "change"
+      ],
+      "domains": [
+        "birminghammail.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-26",
+        "2026-10-25"
+      ],
+      "articleCount": 2,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "samples": [
+        {
+          "title": "Andy Burnham told to make  legally enforceable  change to petrol stations",
+          "url": "https://www.birminghammail.co.uk/news/midlands-news/andy-burnham-told-make-legally-34816116",
+          "domain": "birminghammail.co.uk",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Andy Burnham 2p change for driveways in England now in force",
+          "url": "https://www.birminghammail.co.uk/news/midlands-news/andy-burnham-2p-change-driveways-34790031",
+          "domain": "birminghammail.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:connection-limits-network": {
+      "id": "united-kingdom:connection-limits-network",
+      "country": "United Kingdom",
+      "terms": [
+        "limits",
+        "network",
+        "connection",
+        "now",
+        "stable",
+        "starlink",
+        "ukraine",
+        "military",
+        "restrictions",
+        "satellite",
+        "recent",
+        "behind",
+        "restriction",
+        "speed",
+        "musk",
+        "restored",
+        "service",
+        "speaks"
+      ],
+      "domains": [
+        "bbc.co.uk",
+        "theguardian.com",
+        "oxfordmail.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 4,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "Ukraine says Starlink connection  now stable  after network limits",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go",
+          "domain": "bbc.co.uk",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Ukraine military says Starlink satellite connection stable after recent restrictions | Ukraine",
+          "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+          "domain": "theguardian.com",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Musk says he was behind Starlink speed restriction as Ukraine service restored",
+          "url": "https://www.oxfordmail.co.uk/news/national/26667668.musk-says-behind-starlink-speed-restriction-ukraine-service-restored/",
+          "domain": "oxfordmail.co.uk",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Musk speaks out on Starlink after service in Ukraine restored",
+          "url": "https://www.oxfordmail.co.uk/news/national/26667668.musk-speaks-starlink-service-ukraine-restored/",
+          "domain": "oxfordmail.co.uk",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "united-kingdom:academy-launches-programme": {
+      "id": "united-kingdom:academy-launches-programme",
+      "country": "United Kingdom",
+      "terms": [
+        "academy",
+        "launches",
+        "turnberry",
+        "winter",
+        "programme"
+      ],
+      "domains": [
+        "dailyrecord.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Trump Turnberry launches Winter Academy programme",
+          "url": "https://www.dailyrecord.co.uk/ayrshire/trump-turnberry-launches-winter-academy-37798292",
+          "domain": "dailyrecord.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:admission-caicedo-defeat": {
+      "id": "united-kingdom:admission-caicedo-defeat",
+      "country": "United Kingdom",
+      "terms": [
+        "admission",
+        "caicedo",
+        "defeat",
+        "everyone",
+        "honest",
+        "knows",
+        "moises",
+        "makes"
+      ],
+      "domains": [
+        "aol.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Moises Caicedo makes honest Chelsea admission after Tottenham defeat -  Everyone knows",
+          "url": "https://www.aol.co.uk/articles/moises-caicedo-makes-honest-chelsea-103309000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:had-images-indecent": {
+      "id": "united-kingdom:had-images-indecent",
+      "country": "United Kingdom",
+      "terms": [
+        "had",
+        "images",
+        "indecent",
+        "offender",
+        "photo",
+        "secret",
+        "sex",
+        "vault"
+      ],
+      "domains": [
+        "hulldailymail.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Sex offender had  secret photo vault  of indecent images of children",
+          "url": "https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/sex-offender-secret-photo-vault-11211961",
+          "domain": "hulldailymail.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:announced-dates-return": {
+      "id": "united-kingdom:announced-dates-return",
+      "country": "United Kingdom",
+      "terms": [
+        "announced",
+        "row",
+        "steam",
+        "stoke",
+        "dates",
+        "return"
+      ],
+      "domains": [
+        "heraldseries.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "Stoke Row Steam Rally 2027 return dates announced",
+          "url": "https://www.heraldseries.co.uk/news/26658571.stoke-row-steam-rally-2027-return-dates-announced/",
+          "domain": "heraldseries.co.uk",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "united-kingdom:long-reopens-road": {
+      "id": "united-kingdom:long-reopens-road",
+      "country": "United Kingdom",
+      "terms": [
+        "long",
+        "reopens",
+        "road",
+        "roadworks",
+        "wymondham",
+        "station"
+      ],
+      "domains": [
+        "edp24.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "Station Road in Wymondham reopens after long roadworks",
+          "url": "https://www.edp24.co.uk/news/26664165.station-road-wymondham-reopens-long-roadworks/",
+          "domain": "edp24.co.uk",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "united-kingdom:disaster-head-loses": {
+      "id": "united-kingdom:disaster-head-loses",
+      "country": "United Kingdom",
+      "terms": [
+        "head",
+        "loses",
+        "palmer",
+        "suffers",
+        "ultimate",
+        "disaster",
+        "player",
+        "ratings",
+        "duo",
+        "inspire",
+        "magic",
+        "mathys",
+        "tel",
+        "unlikely"
+      ],
+      "domains": [
+        "aol.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 2,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "Chelsea player ratings vs Tottenham : 4 / 10 suffers ultimate disaster and Palmer loses head",
+          "url": "https://www.aol.co.uk/articles/chelsea-player-ratings-vs-tottenham-182400000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Tottenham player ratings vs Chelsea : Mathys Tel magic and unlikely duo inspire wild win",
+          "url": "https://www.aol.co.uk/articles/tottenham-player-ratings-vs-chelsea-181400000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "united-kingdom:act-brighton-craig": {
+      "id": "united-kingdom:act-brighton-craig",
+      "country": "United Kingdom",
+      "terms": [
+        "craig",
+        "horwood",
+        "joins",
+        "revel",
+        "sister",
+        "tour",
+        "act",
+        "brighton"
+      ],
+      "domains": [
+        "theargus.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-26"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "samples": [
+        {
+          "title": "Craig Revel Horwood joins Sister Act tour in Brighton",
+          "url": "https://www.theargus.co.uk/news/26659397.craig-revel-horwood-joins-sister-act-tour-brighton/",
+          "domain": "theargus.co.uk",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "united-kingdom:advanced-intelligence-leaked": {
+      "id": "united-kingdom:advanced-intelligence-leaked",
+      "country": "United Kingdom",
+      "terms": [
+        "advanced",
+        "intelligence",
+        "leaked",
+        "memo",
+        "officials",
+        "plotting",
+        "reportedly",
+        "reveals"
+      ],
+      "domains": [
+        "ibtimes.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "Leaked Intelligence Memo Reportedly Reveals Iran Is in  Advanced Stage of Plotting Against US Officials",
+          "url": "https://www.ibtimes.co.uk/leaked-intelligence-memo-reportedly-reveals-iran-advanced-stages-plotting-against-us-officials-1827597",
+          "domain": "ibtimes.co.uk",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "united-kingdom:age-aged-anyone": {
+      "id": "united-kingdom:age-aged-anyone",
+      "country": "United Kingdom",
+      "terms": [
+        "age",
+        "aged",
+        "anyone",
+        "finance",
+        "issued",
+        "pension",
+        "personal",
+        "state"
+      ],
+      "domains": [
+        "express.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "State pension age warning issued to anyone aged 55 and under | Personal Finance | Finance",
+          "url": "https://www.express.co.uk/finance/personalfinance/2260001/state-pension-age-warning-issued",
+          "domain": "express.co.uk",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "united-kingdom:ban-children-give": {
+      "id": "united-kingdom:ban-children-give",
+      "country": "United Kingdom",
+      "terms": [
+        "ban",
+        "give",
+        "laureates",
+        "rooney",
+        "royalties",
+        "sales",
+        "sally",
+        "children"
+      ],
+      "domains": [
+        "theguardian.com",
+        "aol.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 2,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Two children laureates to give Sally Rooney royalties after ban on united kingdom sales | Sally Rooney",
+          "url": "https://www.theguardian.com/books/2026/oct/25/ireland-wales-children-laureates-chris-haughton-nicola-davies-sally-rooney-royalties-ban-on-uk-sales",
+          "domain": "theguardian.com",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Two children laureates to give Sally Rooney royalties after ban on united kingdom sales",
+          "url": "https://www.aol.co.uk/articles/two-children-laureates-sally-rooney-120002000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:army-away-fury": {
+      "id": "united-kingdom:army-away-fury",
+      "country": "United Kingdom",
+      "terms": [
+        "away",
+        "fury",
+        "poppy",
+        "turned",
+        "veteran",
+        "wearing",
+        "wetherspoon",
+        "army"
+      ],
+      "domains": [
+        "aol.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-26"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "samples": [
+        {
+          "title": "Fury as Army veteran turned away from Wetherspoon pub for  wearing a poppy",
+          "url": "https://www.aol.co.uk/articles/fury-army-veteran-turned-away-063000000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "united-kingdom:ax9-max-mini": {
+      "id": "united-kingdom:ax9-max-mini",
+      "country": "United Kingdom",
+      "terms": [
+        "ax9",
+        "max",
+        "mini",
+        "review",
+        "vzmore"
+      ],
+      "domains": [
+        "techradar.com"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "VZMORE AX9 Max AI mini PC review",
+          "url": "https://www.techradar.com/pro/vzmore-ax9-max-ai-mini-pc-review",
+          "domain": "techradar.com",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "united-kingdom:bin-birmingham-blamed": {
+      "id": "united-kingdom:bin-birmingham-blamed",
+      "country": "United Kingdom",
+      "terms": [
+        "bin",
+        "birmingham",
+        "blamed",
+        "found",
+        "infestations",
+        "mice",
+        "three",
+        "within"
+      ],
+      "domains": [
+        "birminghammail.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Bin strike blamed as two mice infestations found within three months at Birmingham restaurant",
+          "url": "https://www.birminghammail.co.uk/news/midlands-news/two-mice-infestations-found-within-34806348",
+          "domain": "birminghammail.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:chief-claire-derby": {
+      "id": "united-kingdom:chief-claire-derby",
+      "country": "United Kingdom",
+      "terms": [
+        "chief",
+        "claire",
+        "expansion",
+        "happen",
+        "important",
+        "think",
+        "west",
+        "derby"
+      ],
+      "domains": [
+        "liverpoolecho.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "We think this will never happen to u Claire House chief on why West Derby expansion is so important",
+          "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/we-think-never-happen-us-34809894",
+          "domain": "liverpoolecho.co.uk",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "united-kingdom:back-cannabis-court": {
+      "id": "united-kingdom:back-cannabis-court",
+      "country": "United Kingdom",
+      "terms": [
+        "cannabis",
+        "court",
+        "nine",
+        "norwich",
+        "person",
+        "production",
+        "trial",
+        "back"
+      ],
+      "domains": [
+        "edp24.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "Nine person Norwich cannabis production trial back in court",
+          "url": "https://www.edp24.co.uk/news/26647357.nine-person-norwich-cannabis-production-trial-back-court/",
+          "domain": "edp24.co.uk",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "united-kingdom:flats-former-plans": {
+      "id": "united-kingdom:flats-former-plans",
+      "country": "United Kingdom",
+      "terms": [
+        "flats",
+        "former",
+        "plans",
+        "smethwick",
+        "submitted",
+        "station",
+        "turn"
+      ],
+      "domains": [
+        "birminghammail.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Plans submitted to turn former Smethwick police station into flats",
+          "url": "https://www.birminghammail.co.uk/black-country/plans-submitted-turn-former-smethwick-34807664",
+          "domain": "birminghammail.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:arms-bid-brighton": {
+      "id": "united-kingdom:arms-bid-brighton",
+      "country": "United Kingdom",
+      "terms": [
+        "arms",
+        "bid",
+        "can",
+        "community",
+        "groups",
+        "montreal",
+        "brighton",
+        "pub"
+      ],
+      "domains": [
+        "theargus.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-26"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "samples": [
+        {
+          "title": "Community groups can bid for Montreal Arms pub in Brighton",
+          "url": "https://www.theargus.co.uk/news/26668051.community-groups-can-bid-montreal-arms-pub-brighton/",
+          "domain": "theargus.co.uk",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "united-kingdom:agreement-cellphone-fbi": {
+      "id": "united-kingdom:agreement-cellphone-fbi",
+      "country": "United Kingdom",
+      "terms": [
+        "agreement",
+        "cellphone",
+        "fbi",
+        "heir",
+        "lawyer",
+        "seized",
+        "treaty",
+        "violation"
+      ],
+      "domains": [
+        "theguardian.com"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "US seized American heir cellphone in violation of treaty agreement , lawyer says | FBI",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox",
+          "domain": "theguardian.com",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:furiou-labour-money": {
+      "id": "united-kingdom:furiou-labour-money",
+      "country": "United Kingdom",
+      "terms": [
+        "furiou",
+        "labour",
+        "money",
+        "outrage",
+        "politics",
+        "sparks",
+        "taxpayers",
+        "waste"
+      ],
+      "domains": [
+        "express.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "Labour  waste of money  sparks outrage as  taxpayers will be furiou | Politics | News",
+          "url": "https://www.express.co.uk/news/politics/2260042/taxpayers-will-be-furious",
+          "domain": "express.co.uk",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "united-kingdom:arsenal-contentious-derby": {
+      "id": "united-kingdom:arsenal-contentious-derby",
+      "country": "United Kingdom",
+      "terms": [
+        "arsenal",
+        "contentious",
+        "finally",
+        "slump",
+        "wsl",
+        "derby",
+        "end",
+        "win"
+      ],
+      "domains": [
+        "aol.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "samples": [
+        {
+          "title": "Arsenal finally end WSL slump with contentious derby win at Tottenham",
+          "url": "https://www.aol.co.uk/articles/arsenal-finally-end-wsl-slump-140907000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    "united-kingdom:abuser-father-grandchildren": {
+      "id": "united-kingdom:abuser-father-grandchildren",
+      "country": "United Kingdom",
+      "terms": [
+        "abuser",
+        "father",
+        "grandchildren",
+        "know",
+        "see",
+        "youll",
+        "youre",
+        "meghan"
+      ],
+      "domains": [
+        "echo-news.co.uk",
+        "salisburyjournal.co.uk",
+        "lancashiretelegraph.co.uk",
+        "eadt.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Meghan  told father I know youre an abuser , youll never see the grandchildren",
+          "url": "https://www.echo-news.co.uk/news/national/26667877.meghan-told-father-know-abuser-never-see-grandchildren/",
+          "domain": "echo-news.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:avoids-car-drunk": {
+      "id": "united-kingdom:avoids-car-drunk",
+      "country": "United Kingdom",
+      "terms": [
+        "avoids",
+        "car",
+        "drunk",
+        "smashing",
+        "windscreen",
+        "prison",
+        "man"
+      ],
+      "domains": [
+        "thenorthernecho.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-26"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "samples": [
+        {
+          "title": "Drunk man avoids prison after smashing car windscreen",
+          "url": "https://www.thenorthernecho.co.uk/news/26661827.drunk-man-avoids-prison-smashing-car-windscreen/",
+          "domain": "thenorthernecho.co.uk",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "united-kingdom:aircraft-alien-bombshell": {
+      "id": "united-kingdom:aircraft-alien-bombshell",
+      "country": "United Kingdom",
+      "terms": [
+        "aircraft",
+        "alien",
+        "bombshell",
+        "corpses",
+        "egg",
+        "files",
+        "pentagon",
+        "releases"
+      ],
+      "domains": [
+        "aol.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Pentagon releases bombshell new UFO files - alien corpses and egg shaped aircraft",
+          "url": "https://www.aol.co.uk/articles/pentagon-releases-bombshell-ufo-files-120800000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-25"
         }
       ]
     }
