@@ -179,7 +179,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2639
+      "count": 2646
     }
   ],
   "sources": [
@@ -203,9 +203,9 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 189,
+      "count": 191,
       "first": "2026-06-06",
-      "last": "2026-10-30"
+      "last": "2026-10-31"
     },
     {
       "name": "The New Indian Express",
@@ -215,9 +215,9 @@
     },
     {
       "name": "The Indian Express",
-      "count": 164,
+      "count": 165,
       "first": "2026-07-24",
-      "last": "2026-10-30"
+      "last": "2026-10-31"
     },
     {
       "name": "India Today",
@@ -239,7 +239,7 @@
     },
     {
       "name": "The Economic Times",
-      "count": 96,
+      "count": 97,
       "first": "2026-06-06",
       "last": "2026-10-28"
     },
@@ -247,7 +247,7 @@
       "name": "ThePrint",
       "count": 93,
       "first": "2026-06-19",
-      "last": "2026-10-28"
+      "last": "2026-10-30"
     },
     {
       "name": "Deccan Herald",
@@ -263,9 +263,9 @@
     },
     {
       "name": "News18",
-      "count": 67,
+      "count": 69,
       "first": "2026-07-20",
-      "last": "2026-10-28"
+      "last": "2026-10-31"
     },
     {
       "name": "The News Mill",
@@ -337,7 +337,7 @@
       "name": "DW.com",
       "count": 32,
       "first": "2026-07-21",
-      "last": "2026-10-29"
+      "last": "2026-10-30"
     },
     {
       "name": "The Business Standard",
@@ -2080,6 +2080,12 @@
       "last": "2026-10-09"
     },
     {
+      "name": "Northeast Today",
+      "count": 1,
+      "first": "2026-10-30",
+      "last": "2026-10-30"
+    },
+    {
       "name": "Oherald",
       "count": 1,
       "first": "2026-10-20",
@@ -2447,5 +2453,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-10-30"
+  "lastDate": "2026-10-31"
 }
