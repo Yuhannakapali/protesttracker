@@ -179,7 +179,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2646
+      "count": 2661
     }
   ],
   "sources": [
@@ -191,9 +191,9 @@
     },
     {
       "name": "The Times of India",
-      "count": 246,
+      "count": 248,
       "first": "2026-06-06",
-      "last": "2026-10-29"
+      "last": "2026-10-31"
     },
     {
       "name": "NDTV",
@@ -227,21 +227,21 @@
     },
     {
       "name": "Telegraph India",
-      "count": 126,
+      "count": 127,
       "first": "2026-07-21",
-      "last": "2026-10-28"
+      "last": "2026-10-31"
     },
     {
       "name": "Rediff",
       "count": 103,
       "first": "2026-06-07",
-      "last": "2026-10-29"
+      "last": "2026-10-31"
     },
     {
       "name": "The Economic Times",
-      "count": 97,
+      "count": 98,
       "first": "2026-06-06",
-      "last": "2026-10-28"
+      "last": "2026-10-31"
     },
     {
       "name": "ThePrint",
@@ -263,15 +263,15 @@
     },
     {
       "name": "News18",
-      "count": 69,
+      "count": 70,
       "first": "2026-07-20",
       "last": "2026-10-31"
     },
     {
       "name": "The News Mill",
-      "count": 59,
+      "count": 60,
       "first": "2026-08-12",
-      "last": "2026-10-28"
+      "last": "2026-10-31"
     },
     {
       "name": "ETV Bharat",
@@ -281,27 +281,27 @@
     },
     {
       "name": "Outlook India",
-      "count": 47,
+      "count": 48,
       "first": "2026-08-17",
-      "last": "2026-10-29"
+      "last": "2026-10-31"
     },
     {
       "name": "The Statesman",
-      "count": 44,
+      "count": 45,
       "first": "2026-08-18",
-      "last": "2026-10-28"
+      "last": "2026-10-31"
     },
     {
       "name": "Deccan Chronicle",
-      "count": 41,
+      "count": 42,
       "first": "2026-08-16",
-      "last": "2026-10-29"
+      "last": "2026-10-31"
     },
     {
       "name": "moneycontrol.com",
-      "count": 40,
+      "count": 41,
       "first": "2026-08-18",
-      "last": "2026-10-28"
+      "last": "2026-10-31"
     },
     {
       "name": "Livemint",
@@ -329,15 +329,15 @@
     },
     {
       "name": "TheWire.in",
-      "count": 34,
+      "count": 35,
       "first": "2026-07-11",
-      "last": "2026-10-28"
+      "last": "2026-10-29"
     },
     {
       "name": "DW.com",
       "count": 32,
       "first": "2026-07-21",
-      "last": "2026-10-30"
+      "last": "2026-10-29"
     },
     {
       "name": "The Business Standard",
@@ -372,7 +372,7 @@
     {
       "name": "Bhaskar English",
       "count": 26,
-      "first": "2026-07-19",
+      "first": "2026-07-22",
       "last": "2026-10-20"
     },
     {
@@ -413,9 +413,9 @@
     },
     {
       "name": "Mathrubhumi English",
-      "count": 19,
+      "count": 20,
       "first": "2026-08-17",
-      "last": "2026-10-21"
+      "last": "2026-10-31"
     },
     {
       "name": "Reuters",
@@ -436,6 +436,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "Pragativadi",
+      "count": 17,
+      "first": "2026-09-15",
+      "last": "2026-10-31"
+    },
+    {
       "name": "DT Next",
       "count": 16,
       "first": "2026-08-21",
@@ -451,12 +457,6 @@
       "name": "Maktoob",
       "count": 16,
       "first": "2026-08-12",
-      "last": "2026-10-28"
-    },
-    {
-      "name": "Pragativadi",
-      "count": 16,
-      "first": "2026-09-15",
       "last": "2026-10-28"
     },
     {
@@ -1042,6 +1042,12 @@
       "last": "2026-10-08"
     },
     {
+      "name": "IBTimes India",
+      "count": 3,
+      "first": "2026-08-30",
+      "last": "2026-10-31"
+    },
+    {
       "name": "India Legal",
       "count": 3,
       "first": "2026-10-03",
@@ -1276,12 +1282,6 @@
       "last": "2026-10-14"
     },
     {
-      "name": "IBTimes India",
-      "count": 2,
-      "first": "2026-08-30",
-      "last": "2026-10-22"
-    },
-    {
       "name": "Indiablooms",
       "count": 2,
       "first": "2026-07-30",
@@ -1442,6 +1442,12 @@
       "count": 2,
       "first": "2026-10-16",
       "last": "2026-10-17"
+    },
+    {
+      "name": "The Observer Post",
+      "count": 2,
+      "first": "2026-10-13",
+      "last": "2026-10-31"
     },
     {
       "name": "The Sunday Guardian",
@@ -2276,12 +2282,6 @@
       "count": 1,
       "first": "2026-10-26",
       "last": "2026-10-26"
-    },
-    {
-      "name": "The Observer Post",
-      "count": 1,
-      "first": "2026-10-13",
-      "last": "2026-10-13"
     },
     {
       "name": "The Probe",
