@@ -820,6 +820,10 @@
     {
       "start": "2026-10-01",
       "count": 236
+    },
+    {
+      "start": "2026-11-01",
+      "count": 1
     }
   ],
   "sources": [
@@ -831,9 +835,9 @@
     },
     {
       "name": "Vanguard",
-      "count": 94,
+      "count": 95,
       "first": "2026-09-02",
-      "last": "2026-10-30"
+      "last": "2026-11-01"
     },
     {
       "name": "Channels Television",
@@ -1605,5 +1609,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-10-31"
+  "lastDate": "2026-11-01"
 }

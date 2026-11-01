@@ -179,7 +179,11 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2668
+      "count": 2670
+    },
+    {
+      "start": "2026-11-01",
+      "count": 11
     }
   ],
   "sources": [
@@ -197,9 +201,9 @@
     },
     {
       "name": "NDTV",
-      "count": 231,
+      "count": 232,
       "first": "2026-05-12",
-      "last": "2026-10-31"
+      "last": "2026-11-01"
     },
     {
       "name": "Hindustan Times",
@@ -223,13 +227,13 @@
       "name": "India Today",
       "count": 162,
       "first": "2026-07-15",
-      "last": "2026-10-31"
+      "last": "2026-11-01"
     },
     {
       "name": "Telegraph India",
-      "count": 127,
+      "count": 128,
       "first": "2026-07-21",
-      "last": "2026-10-31"
+      "last": "2026-11-01"
     },
     {
       "name": "Rediff",
@@ -245,9 +249,9 @@
     },
     {
       "name": "ThePrint",
-      "count": 93,
+      "count": 94,
       "first": "2026-06-19",
-      "last": "2026-10-30"
+      "last": "2026-10-31"
     },
     {
       "name": "Deccan Herald",
@@ -274,22 +278,22 @@
       "last": "2026-10-31"
     },
     {
+      "name": "Outlook India",
+      "count": 49,
+      "first": "2026-08-17",
+      "last": "2026-11-01"
+    },
+    {
       "name": "ETV Bharat",
       "count": 48,
       "first": "2026-08-06",
       "last": "2026-10-25"
     },
     {
-      "name": "Outlook India",
-      "count": 48,
-      "first": "2026-08-17",
-      "last": "2026-10-31"
-    },
-    {
       "name": "The Statesman",
-      "count": 45,
+      "count": 46,
       "first": "2026-08-18",
-      "last": "2026-10-31"
+      "last": "2026-11-01"
     },
     {
       "name": "Deccan Chronicle",
@@ -299,8 +303,14 @@
     },
     {
       "name": "moneycontrol.com",
-      "count": 41,
+      "count": 42,
       "first": "2026-08-18",
+      "last": "2026-11-01"
+    },
+    {
+      "name": "Telangana Today",
+      "count": 40,
+      "first": "2026-07-25",
       "last": "2026-10-31"
     },
     {
@@ -308,12 +318,6 @@
       "count": 39,
       "first": "2026-08-16",
       "last": "2026-10-17"
-    },
-    {
-      "name": "Telangana Today",
-      "count": 39,
-      "first": "2026-07-25",
-      "last": "2026-10-28"
     },
     {
       "name": "The Week",
@@ -365,9 +369,9 @@
     },
     {
       "name": "The Tribune",
-      "count": 27,
+      "count": 28,
       "first": "2026-08-15",
-      "last": "2026-10-30"
+      "last": "2026-11-01"
     },
     {
       "name": "Bhaskar English",
@@ -466,6 +470,12 @@
       "last": "2026-10-28"
     },
     {
+      "name": "Daily Pioneer",
+      "count": 14,
+      "first": "2026-08-17",
+      "last": "2026-11-01"
+    },
+    {
       "name": "MillenniumPost",
       "count": 14,
       "first": "2026-09-28",
@@ -474,12 +484,6 @@
     {
       "name": "OpIndia",
       "count": 14,
-      "first": "2026-08-17",
-      "last": "2026-10-28"
-    },
-    {
-      "name": "Daily Pioneer",
-      "count": 13,
       "first": "2026-08-17",
       "last": "2026-10-28"
     },
@@ -598,6 +602,12 @@
       "last": "2026-10-28"
     },
     {
+      "name": "News Arena India",
+      "count": 10,
+      "first": "2026-08-12",
+      "last": "2026-11-01"
+    },
+    {
       "name": "Urban Acres",
       "count": 10,
       "first": "2026-10-01",
@@ -619,12 +629,6 @@
       "name": "MorungExpress",
       "count": 9,
       "first": "2026-08-20",
-      "last": "2026-10-28"
-    },
-    {
-      "name": "News Arena India",
-      "count": 9,
-      "first": "2026-08-12",
       "last": "2026-10-28"
     },
     {
@@ -748,6 +752,12 @@
       "last": "2026-10-11"
     },
     {
+      "name": "Open Magazine",
+      "count": 6,
+      "first": "2026-10-08",
+      "last": "2026-11-01"
+    },
+    {
       "name": "Times Now",
       "count": 6,
       "first": "2026-08-27",
@@ -782,12 +792,6 @@
       "count": 5,
       "first": "2026-08-04",
       "last": "2026-10-11"
-    },
-    {
-      "name": "Open Magazine",
-      "count": 5,
-      "first": "2026-10-08",
-      "last": "2026-10-24"
     },
     {
       "name": "Organiser Weekly",
@@ -1176,7 +1180,7 @@
     {
       "name": "Arab News",
       "count": 2,
-      "first": "2026-10-09",
+      "first": "2026-10-10",
       "last": "2026-10-11"
     },
     {
@@ -1364,6 +1368,12 @@
       "count": 2,
       "first": "2026-08-17",
       "last": "2026-08-24"
+    },
+    {
+      "name": "Oherald",
+      "count": 2,
+      "first": "2026-10-20",
+      "last": "2026-11-01"
     },
     {
       "name": "Oneindia",
@@ -2092,12 +2102,6 @@
       "last": "2026-10-30"
     },
     {
-      "name": "Oherald",
-      "count": 1,
-      "first": "2026-10-20",
-      "last": "2026-10-20"
-    },
-    {
       "name": "PBS",
       "count": 1,
       "first": "2026-10-11",
@@ -2186,6 +2190,12 @@
       "count": 1,
       "first": "2026-08-29",
       "last": "2026-08-29"
+    },
+    {
+      "name": "The Cliff News",
+      "count": 1,
+      "first": "2026-10-21",
+      "last": "2026-10-21"
     },
     {
       "name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
@@ -2453,5 +2463,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-10-31"
+  "lastDate": "2026-11-01"
 }
