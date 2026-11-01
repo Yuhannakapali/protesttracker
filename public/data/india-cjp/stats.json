@@ -159,7 +159,7 @@
     },
     {
       "start": "2026-05-01",
-      "count": 9
+      "count": 10
     },
     {
       "start": "2026-06-01",
@@ -167,7 +167,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 201
+      "count": 203
     },
     {
       "start": "2026-08-01",
@@ -179,11 +179,11 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2670
+      "count": 2672
     },
     {
       "start": "2026-11-01",
-      "count": 11
+      "count": 17
     }
   ],
   "sources": [
@@ -195,9 +195,9 @@
     },
     {
       "name": "The Times of India",
-      "count": 250,
+      "count": 251,
       "first": "2026-06-06",
-      "last": "2026-10-31"
+      "last": "2026-11-01"
     },
     {
       "name": "NDTV",
@@ -237,9 +237,9 @@
     },
     {
       "name": "Rediff",
-      "count": 104,
+      "count": 105,
       "first": "2026-06-07",
-      "last": "2026-10-31"
+      "last": "2026-11-01"
     },
     {
       "name": "The Economic Times",
@@ -267,7 +267,7 @@
     },
     {
       "name": "News18",
-      "count": 70,
+      "count": 71,
       "first": "2026-07-20",
       "last": "2026-10-31"
     },
@@ -476,6 +476,12 @@
       "last": "2026-11-01"
     },
     {
+      "name": "DNA India",
+      "count": 14,
+      "first": "2026-07-24",
+      "last": "2026-11-01"
+    },
+    {
       "name": "MillenniumPost",
       "count": 14,
       "first": "2026-09-28",
@@ -516,12 +522,6 @@
       "count": 12,
       "first": "2026-06-02",
       "last": "2026-10-13"
-    },
-    {
-      "name": "DNA India",
-      "count": 12,
-      "first": "2026-07-24",
-      "last": "2026-10-22"
     },
     {
       "name": "LawChakra",
@@ -650,6 +650,12 @@
       "last": "2026-10-22"
     },
     {
+      "name": "Clarion India",
+      "count": 8,
+      "first": "2026-08-21",
+      "last": "2026-11-01"
+    },
+    {
       "name": "Kashmir Observer",
       "count": 8,
       "first": "2026-09-18",
@@ -678,12 +684,6 @@
       "count": 7,
       "first": "2026-08-16",
       "last": "2026-10-22"
-    },
-    {
-      "name": "Clarion India",
-      "count": 7,
-      "first": "2026-08-21",
-      "last": "2026-10-15"
     },
     {
       "name": "France 24",
@@ -764,6 +764,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "AP News",
+      "count": 5,
+      "first": "2026-05-21",
+      "last": "2026-07-25"
+    },
+    {
       "name": "Daily Sabah",
       "count": 5,
       "first": "2026-09-25",
@@ -828,12 +834,6 @@
       "count": 5,
       "first": "2026-08-21",
       "last": "2026-09-25"
-    },
-    {
-      "name": "AP News",
-      "count": 4,
-      "first": "2026-05-21",
-      "last": "2026-07-22"
     },
     {
       "name": "AP7AM",
@@ -906,6 +906,12 @@
       "count": 4,
       "first": "2026-09-28",
       "last": "2026-10-17"
+    },
+    {
+      "name": "Madhyamam",
+      "count": 4,
+      "first": "2026-07-24",
+      "last": "2026-11-01"
     },
     {
       "name": "Mangalore Today",
@@ -1010,6 +1016,12 @@
       "last": "2026-10-17"
     },
     {
+      "name": "CNN",
+      "count": 3,
+      "first": "2026-05-22",
+      "last": "2026-10-16"
+    },
+    {
       "name": "Connected to India",
       "count": 3,
       "first": "2026-10-02",
@@ -1098,6 +1110,12 @@
       "count": 3,
       "first": "2026-09-18",
       "last": "2026-10-03"
+    },
+    {
+      "name": "NPR",
+      "count": 3,
+      "first": "2026-07-20",
+      "last": "2026-07-25"
     },
     {
       "name": "Prothom Alo English",
@@ -1220,12 +1238,6 @@
       "last": "2026-10-13"
     },
     {
-      "name": "CNN",
-      "count": 2,
-      "first": "2026-10-09",
-      "last": "2026-10-16"
-    },
-    {
       "name": "Countercurrents",
       "count": 2,
       "first": "2026-07-17",
@@ -1310,12 +1322,6 @@
       "last": "2026-10-16"
     },
     {
-      "name": "Madhyamam",
-      "count": 2,
-      "first": "2026-07-24",
-      "last": "2026-07-27"
-    },
-    {
       "name": "mezha.net",
       "count": 2,
       "first": "2026-10-10",
@@ -1356,12 +1362,6 @@
       "count": 2,
       "first": "2026-09-27",
       "last": "2026-10-02"
-    },
-    {
-      "name": "NPR",
-      "count": 2,
-      "first": "2026-07-21",
-      "last": "2026-07-25"
     },
     {
       "name": "OdishaBytes",
