@@ -6056,7 +6056,7 @@
         "2026-10-25",
         "2026-10-23"
       ],
-      "articleCount": 16,
+      "articleCount": 17,
       "firstSeen": "2026-09-06",
       "lastSeen": "2026-10-25",
       "samples": [
@@ -6683,7 +6683,47 @@
         "patients",
         "responds",
         "waits",
-        "care"
+        "care",
+        "france",
+        "cafe",
+        "changing",
+        "lives",
+        "owner",
+        "praised",
+        "european",
+        "nothing",
+        "table",
+        "talks",
+        "union",
+        "brits",
+        "energy",
+        "saving",
+        "millions",
+        "missing",
+        "death",
+        "delivering",
+        "hospital",
+        "like",
+        "phone",
+        "sentence",
+        "carter",
+        "due",
+        "nathan",
+        "postpones",
+        "tour",
+        "debated",
+        "age",
+        "pension",
+        "petition",
+        "state",
+        "under",
+        "debate",
+        "count",
+        "extension",
+        "last",
+        "minute",
+        "polling",
+        "resumes"
       ],
       "domains": [
         "bournemouthecho.co.uk",
@@ -6828,7 +6868,15 @@
         "britainnews.net",
         "heraldscotland.com",
         "mirror.co.uk",
-        "dailystar.co.uk"
+        "dailystar.co.uk",
+        "hexham-courant.co.uk",
+        "stourbridgenews.co.uk",
+        "leaderlive.co.uk",
+        "eastlothiancourier.com",
+        "walesonline.co.uk",
+        "belfastlive.co.uk",
+        "wharfedaleobserver.co.uk",
+        "whtimes.co.uk"
       ],
       "daysSeen": [
         "2026-09-05",
@@ -6852,11 +6900,12 @@
         "2026-10-24",
         "2026-10-22",
         "2026-10-25",
-        "2026-10-23"
+        "2026-10-23",
+        "2026-10-26"
       ],
-      "articleCount": 103,
+      "articleCount": 116,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-10-25",
+      "lastSeen": "2026-10-26",
       "samples": [
         {
           "title": "Black - clad masked  stop the boat protesters block roads in Dover",
@@ -7793,7 +7842,8 @@
         "backs",
         "there",
         "income",
-        "they"
+        "they",
+        "hope"
       ],
       "domains": [
         "timeslive.co.za",
@@ -7808,7 +7858,7 @@
         "2026-10-24",
         "2026-10-25"
       ],
-      "articleCount": 16,
+      "articleCount": 17,
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-10-25",
       "samples": [
@@ -8521,7 +8571,7 @@
         "2026-10-24",
         "2026-10-26"
       ],
-      "articleCount": 144,
+      "articleCount": 145,
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-26",
       "samples": [
@@ -8605,7 +8655,7 @@
         "2026-10-19",
         "2026-10-25"
       ],
-      "articleCount": 14,
+      "articleCount": 15,
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-25",
       "samples": [
@@ -8731,7 +8781,7 @@
         "2026-10-22",
         "2026-10-27"
       ],
-      "articleCount": 11,
+      "articleCount": 12,
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-10-27",
       "samples": [
@@ -18928,7 +18978,7 @@
         "2026-10-16",
         "2026-10-26"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-16",
       "lastSeen": "2026-10-26",
       "samples": [
@@ -18937,6 +18987,12 @@
           "url": "https://www.heraldscotland.com/news/26641862.scottish-government-urged-intervene-dundee-job-cuts/",
           "domain": "heraldscotland.com",
           "date": "2026-10-16"
+        },
+        {
+          "title": "UCU branches plan coordinated fightback to  apocalyptic  job cuts",
+          "url": "https://www.timeshighereducation.com/news/ucu-branches-plan-coordinated-fightback-apocalyptic-job-cuts",
+          "domain": "timeshighereducation.com",
+          "date": "2026-10-26"
         },
         {
           "title": "UCU branches plan coordinated fightback to  apocalyptic  job cuts",
@@ -19285,23 +19341,48 @@
         "fuel",
         "ties",
         "tour",
-        "strategic"
+        "strategic",
+        "apology",
+        "caribbean",
+        "grow",
+        "slavery",
+        "king"
       ],
       "domains": [
-        "aol.co.uk"
+        "aol.co.uk",
+        "keighleynews.co.uk",
+        "halsteadgazette.co.uk",
+        "malverngazette.co.uk",
+        "greenocktelegraph.co.uk",
+        "northsomersettimes.co.uk",
+        "eastlondonadvertiser.co.uk",
+        "richmondandtwickenhamtimes.co.uk",
+        "northwichguardian.co.uk",
+        "newsshopper.co.uk",
+        "gazette-news.co.uk",
+        "hillingdontimes.co.uk",
+        "wimbledonguardian.co.uk",
+        "dunfermlinepress.com"
       ],
       "daysSeen": [
-        "2026-10-18"
+        "2026-10-18",
+        "2026-10-27"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-18",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-27",
       "samples": [
         {
           "title": "Macron begins Gulf tour focused on fuel supplies and strategic ties",
           "url": "https://www.aol.co.uk/articles/macron-begins-gulf-tour-focused-200446000.html",
           "domain": "aol.co.uk",
           "date": "2026-10-18"
+        },
+        {
+          "title": "King begins tour of Caribbean as calls grow for slavery apology",
+          "url": "https://www.keighleynews.co.uk/news/national/26672176.king-begins-tour-caribbean-calls-grow-slavery-apology/",
+          "domain": "keighleynews.co.uk",
+          "date": "2026-10-27"
         }
       ]
     },
@@ -19810,7 +19891,7 @@
         "2026-10-19",
         "2026-10-26"
       ],
-      "articleCount": 8,
+      "articleCount": 9,
       "firstSeen": "2026-10-19",
       "lastSeen": "2026-10-26",
       "samples": [
@@ -40593,10 +40674,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Sudanese women emerge as frontline responders amid war",
+          "url": "https://www.channelafrica.co.za/channelafrica/news/sudanese-women-emerge-as-frontline-responders-amid-war/",
+          "domain": "channelafrica.co.za",
+          "date": "2026-10-25"
+        },
         {
           "title": "Sudanese women emerge as frontline responders amid war",
           "url": "https://www.channelafrica.co.za/channelafrica/news/sudanese-women-emerge-as-frontline-responders-amid-war/",
@@ -40656,7 +40743,8 @@
         "reveals",
         "tshwane",
         "claims",
-        "report"
+        "report",
+        "crisis"
       ],
       "domains": [
         "citizen.co.za"
@@ -40664,10 +40752,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "Damning  report reveals Tshwane mayor knew about water crisis , claims DA Brink",
+          "url": "https://www.citizen.co.za/news/report-tshwane-mayor-moya-water-crisis/",
+          "domain": "citizen.co.za",
+          "date": "2026-10-26"
+        },
         {
           "title": "Damning  report reveals Tshwane mayor knew about water crisis , claims DA Brink",
           "url": "https://www.citizen.co.za/news/report-tshwane-mayor-moya-water-crisis/",
@@ -40700,10 +40794,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Gayton Mckenzie gift of the gab is both his blessing and his curse",
+          "url": "https://www.dailymaverick.co.za/article/2026-10-25-gayton-mckenzies-gift-of-the-gab-is-both-his-blessing-and-his-curse/",
+          "domain": "dailymaverick.co.za",
+          "date": "2026-10-25"
+        },
         {
           "title": "Gayton Mckenzie gift of the gab is both his blessing and his curse",
           "url": "https://www.dailymaverick.co.za/article/2026-10-25-gayton-mckenzies-gift-of-the-gab-is-both-his-blessing-and-his-curse/",
@@ -41053,10 +41153,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "SOWETAN | Mass killings cannot be our new normal",
+          "url": "https://www.sowetan.co.za/opinion/2026-10-26-sowetan-mass-killings-cannot-be-our-new-normal/",
+          "domain": "sowetan.co.za",
+          "date": "2026-10-26"
+        },
         {
           "title": "SOWETAN | Mass killings cannot be our new normal",
           "url": "https://www.sowetan.co.za/opinion/2026-10-26-sowetan-mass-killings-cannot-be-our-new-normal/",
@@ -41127,10 +41233,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Shithouse countries : Trump targets Senator Ossoff over Haiti bill , cites immigration from Libya , Yemen , Somalia",
+          "url": "http://www.africaleader.com/news/279397386/shithouse-countries-trump-targets-senator-ossoff-over-haiti-bill-cites-immigration-from-libya-yemen-somalia",
+          "domain": "africaleader.com",
+          "date": "2026-10-25"
+        },
         {
           "title": "Shithouse countries : Trump targets Senator Ossoff over Haiti bill , cites immigration from Libya , Yemen , Somalia",
           "url": "http://www.africaleader.com/news/279397386/shithouse-countries-trump-targets-senator-ossoff-over-haiti-bill-cites-immigration-from-libya-yemen-somalia",
@@ -41794,10 +41906,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "SC Highlights Law Gap as Woman Jailed for Abusing Nephew",
+          "url": "https://www.sunstar.com.ph/cebu/sc-upholds-aunts-conviction-sees-gap-in-rape-law-for-male-victims",
+          "domain": "sunstar.com.ph",
+          "date": "2026-10-25"
+        },
         {
           "title": "SC Highlights Law Gap as Woman Jailed for Abusing Nephew",
           "url": "https://www.sunstar.com.ph/cebu/sc-upholds-aunts-conviction-sees-gap-in-rape-law-for-male-victims",
@@ -41830,10 +41948,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Disenchanted Netanyahu supporters are prize of Israel election campaign",
+          "url": "https://bworldonline.com/world/2026/10/25/789013/disenchanted-netanyahu-supporters-are-prize-of-israel-election-campaign/",
+          "domain": "bworldonline.com",
+          "date": "2026-10-25"
+        },
         {
           "title": "Disenchanted Netanyahu supporters are prize of Israel election campaign",
           "url": "https://bworldonline.com/world/2026/10/25/789013/disenchanted-netanyahu-supporters-are-prize-of-israel-election-campaign/",
@@ -41898,7 +42022,8 @@
         "sensei",
         "sona",
         "debuts",
-        "powered"
+        "powered",
+        "financial"
       ],
       "domains": [
         "manilatimes.net"
@@ -41906,10 +42031,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "AEON Bank Debuts  Financial Purr - Sona , A New AI - Powered Interactive Feature of Neko Sensei",
+          "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/media-outreach-newswire/aeon-bank-debuts-financial-purr-sona-a-new-ai-powered-interactive-feature-of-neko-sensei/2453630",
+          "domain": "manilatimes.net",
+          "date": "2026-10-26"
+        },
         {
           "title": "AEON Bank Debuts  Financial Purr - Sona , A New AI - Powered Interactive Feature of Neko Sensei",
           "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/media-outreach-newswire/aeon-bank-debuts-financial-purr-sona-a-new-ai-powered-interactive-feature-of-neko-sensei/2453630",
@@ -42312,10 +42443,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Russia faces backlash over dead , missing recruits ahead of summit",
+          "url": "https://www.standardmedia.co.ke/national/article/2001560827/russia-faces-backlash-over-dead-missing-recruits-ahead-of-summit",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-10-25"
+        },
         {
           "title": "Russia faces backlash over dead , missing recruits ahead of summit",
           "url": "https://www.standardmedia.co.ke/national/article/2001560827/russia-faces-backlash-over-dead-missing-recruits-ahead-of-summit",
@@ -42371,10 +42508,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Tanzanian Opposition Figure Tundu Lissu to Begin Hunger Strike Over Lawyer Access",
+          "url": "https://kenya-today.com/report-tanzanian-opposition-figure-tundu-lissu-to-begin-hunger-strike-over-lawyer-access-16234/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-25"
+        },
         {
           "title": "Tanzanian Opposition Figure Tundu Lissu to Begin Hunger Strike Over Lawyer Access",
           "url": "https://kenya-today.com/report-tanzanian-opposition-figure-tundu-lissu-to-begin-hunger-strike-over-lawyer-access-16234/",
@@ -42601,7 +42744,7 @@
         "2026-10-25",
         "2026-10-22"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-22",
       "lastSeen": "2026-10-25",
       "samples": [
@@ -42616,6 +42759,12 @@
           "url": "http://www.kenyastar.com/news/279391495/us-accuses-canada-of-seeking-to-influence-2026-midterm-elections",
           "domain": "kenyastar.com",
           "date": "2026-10-22"
+        },
+        {
+          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+          "url": "https://www.the-star.co.ke/news/world/2026-10-25-obama-attacks-trump-as-he-campaigns-for-democrats",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-25"
         }
       ]
     },
@@ -42929,7 +43078,9 @@
       "terms": [
         "kingmaker",
         "kingpin",
-        "overrated"
+        "overrated",
+        "gachagua",
+        "kenya"
       ],
       "domains": [
         "the-star.co.ke"
@@ -42937,13 +43088,19 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
         {
           "title": "Is Gachagua overrated as Mt Kenya kingpin and 2027 kingmaker ?",
           "url": "https://www.the-star.co.ke/news/2026-10-25-is-gachagua-overrated-as-mt-kenya-kingpin",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Is Gachagua overrated as Mt Kenya kingpin and 2027 kingmaker ?",
+          "url": "https://www.the-star.co.ke/siasa/2026-10-25-is-gachagua-overrated-as-mt-kenya-kingpin",
           "domain": "the-star.co.ke",
           "date": "2026-10-25"
         }
@@ -43225,7 +43382,9 @@
         "plans",
         "prisoners",
         "citizens",
-        "war"
+        "war",
+        "ukraine",
+        "kenya"
       ],
       "domains": [
         "the-star.co.ke"
@@ -43233,10 +43392,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "How Kenya plans to bring home citizens detained as prisoners of war in Ukraine",
+          "url": "https://www.the-star.co.ke/news/2026-10-25-how-kenya-plans-to-bring-home-citizens-detained-as-pows-in-ukraine",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-25"
+        },
         {
           "title": "How Kenya plans to bring home citizens detained as prisoners of war in Ukraine",
           "url": "https://www.the-star.co.ke/news/2026-10-25-how-kenya-plans-to-bring-home-citizens-detained-as-pows-in-ukraine",
@@ -43255,7 +43420,8 @@
         "service",
         "spacex",
         "starlink",
-        "restored"
+        "restored",
+        "ukraine"
       ],
       "domains": [
         "the-star.co.ke"
@@ -43263,10 +43429,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Musk says SpaceX restricted Ukraine Starlink connection as service restored",
+          "url": "https://www.the-star.co.ke/news/world/2026-10-25-musk-says-spacex-restricted-ukraines-starlink-connection-as-service-restored",
+          "domain": "the-star.co.ke",
+          "date": "2026-10-25"
+        },
         {
           "title": "Musk says SpaceX restricted Ukraine Starlink connection as service restored",
           "url": "https://www.the-star.co.ke/news/world/2026-10-25-musk-says-spacex-restricted-ukraines-starlink-connection-as-service-restored",
@@ -43444,7 +43616,8 @@
         "ksh",
         "overhaul",
         "registration",
-        "vetting"
+        "vetting",
+        "border"
       ],
       "domains": [
         "kenya-today.com"
@@ -43452,10 +43625,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Kenya drops KSh 300 fee and extra border ‑ county vetting in ID registration overhaul",
+          "url": "https://kenya-today.com/report-kenya-drops-ksh-300-fee-and-extra-bordercounty-vetting-in-id-registration-overhaul-16237/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-25"
+        },
         {
           "title": "Kenya drops KSh 300 fee and extra border ‑ county vetting in ID registration overhaul",
           "url": "https://kenya-today.com/report-kenya-drops-ksh-300-fee-and-extra-bordercounty-vetting-in-id-registration-overhaul-16237/",
@@ -43506,7 +43685,8 @@
         "stadium",
         "trafford",
         "united",
-        "old"
+        "old",
+        "seat"
       ],
       "domains": [
         "kenya-today.com"
@@ -43514,10 +43694,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Manchester United advances £2bn 100 , 000 ‑ seat stadium plan near Old Trafford",
+          "url": "https://kenya-today.com/report-manchester-united-advances-2bn-100000seat-stadium-plan-near-old-trafford-16259/",
+          "domain": "kenya-today.com",
+          "date": "2026-10-25"
+        },
         {
           "title": "Manchester United advances £2bn 100 , 000 ‑ seat stadium plan near Old Trafford",
           "url": "https://kenya-today.com/report-manchester-united-advances-2bn-100000seat-stadium-plan-near-old-trafford-16259/",
@@ -44328,7 +44514,8 @@
         "displaces",
         "hebron",
         "army",
-        "israeli"
+        "israeli",
+        "france"
       ],
       "domains": [
         "wrp.org.uk",
@@ -44339,7 +44526,7 @@
         "2026-10-23",
         "2026-10-24"
       ],
-      "articleCount": 10,
+      "articleCount": 13,
       "firstSeen": "2026-10-23",
       "lastSeen": "2026-10-26",
       "samples": [
@@ -44521,10 +44708,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Iranians fear possible return to all - out war as US and Israeli elections loom",
+          "url": "https://www.herefordtimes.com/news/national/26668344.iranians-fear-possible-return-all-out-war-us-israeli-elections-loom/",
+          "domain": "herefordtimes.com",
+          "date": "2026-10-25"
+        },
         {
           "title": "Iranians fear possible return to all - out war as US and Israeli elections loom",
           "url": "https://www.herefordtimes.com/news/national/26668344.iranians-fear-possible-return-all-out-war-us-israeli-elections-loom/",
@@ -44585,7 +44778,7 @@
         "2026-10-25",
         "2026-10-24"
       ],
-      "articleCount": 6,
+      "articleCount": 7,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-25",
       "samples": [
@@ -45164,7 +45357,8 @@
         "kawasaki",
         "kind",
         "looks",
-        "ride"
+        "ride",
+        "same"
       ],
       "domains": [
         "philstar.com"
@@ -45172,10 +45366,16 @@
       "daysSeen": [
         "2026-10-27"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27",
       "samples": [
+        {
+          "title": "Not every adventure looks the same : Which Kawasaki adventure bike fits your kind of ride ?",
+          "url": "https://www.philstar.com/business/motoring/2026/10/27/2560010/not-every-adventure-looks-same-which-kawasaki-adventure-bike-fits-your-kind-ride",
+          "domain": "philstar.com",
+          "date": "2026-10-27"
+        },
         {
           "title": "Not every adventure looks the same : Which Kawasaki adventure bike fits your kind of ride ?",
           "url": "https://www.philstar.com/business/motoring/2026/10/27/2560010/not-every-adventure-looks-same-which-kawasaki-adventure-bike-fits-your-kind-ride",
@@ -45195,7 +45395,10 @@
         "foul",
         "lula",
         "millions",
-        "mobilized"
+        "mobilized",
+        "loss",
+        "while",
+        "win"
       ],
       "domains": [
         "manilatimes.net"
@@ -45203,10 +45406,16 @@
       "daysSeen": [
         "2026-10-27"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27",
       "samples": [
+        {
+          "title": "Lula mobilized millions to win Brazil election , while Bolsonaro contests loss and Trump cries foul",
+          "url": "https://www.manilatimes.net/2026/10/27/world/americas-emea/lula-mobilized-millions-to-win-brazils-election-while-bolsonaro-contests-loss-and-trump-cries-foul/2454610",
+          "domain": "manilatimes.net",
+          "date": "2026-10-27"
+        },
         {
           "title": "Lula mobilized millions to win Brazil election , while Bolsonaro contests loss and Trump cries foul",
           "url": "https://www.manilatimes.net/2026/10/27/world/americas-emea/lula-mobilized-millions-to-win-brazils-election-while-bolsonaro-contests-loss-and-trump-cries-foul/2454610",
@@ -45226,7 +45435,8 @@
         "launches",
         "reliable",
         "seawater",
-        "system"
+        "system",
+        "sea"
       ],
       "domains": [
         "manilatimes.net"
@@ -45234,10 +45444,16 @@
       "daysSeen": [
         "2026-10-27"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27",
       "samples": [
+        {
+          "title": "iSpring Launches the BRO900 Seawater Desalination System to Deliver Reliable Fresh water at Sea",
+          "url": "https://www.manilatimes.net/2026/10/27/tmt-newswire/plentisoft/ispring-launches-the-bro900-seawater-desalination-system-to-deliver-reliable-fresh-water-at-sea/2454607",
+          "domain": "manilatimes.net",
+          "date": "2026-10-27"
+        },
         {
           "title": "iSpring Launches the BRO900 Seawater Desalination System to Deliver Reliable Fresh water at Sea",
           "url": "https://www.manilatimes.net/2026/10/27/tmt-newswire/plentisoft/ispring-launches-the-bro900-seawater-desalination-system-to-deliver-reliable-fresh-water-at-sea/2454607",
@@ -45315,7 +45531,8 @@
         "take",
         "topple",
         "polls",
-        "serbia"
+        "serbia",
+        "europe"
       ],
       "domains": [
         "aol.co.uk",
@@ -45324,10 +45541,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Serbia student protests could take power and topple Putin  main ally  in Europe as election polls open",
+          "url": "https://www.aol.co.uk/articles/serbia-student-protests-could-power-095931000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-25"
+        },
         {
           "title": "Serbia student protests could take power and topple Putin  main ally  in Europe as election polls open",
           "url": "https://www.aol.co.uk/articles/serbia-student-protests-could-power-095931000.html",
@@ -45458,10 +45681,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Lorry crashes into railway bridge on A36 at Wilton",
+          "url": "https://www.salisburyjournal.co.uk/news/26667773.lorry-crashes-railway-bridge-a36-wilton/",
+          "domain": "salisburyjournal.co.uk",
+          "date": "2026-10-25"
+        },
         {
           "title": "Lorry crashes into railway bridge on A36 at Wilton",
           "url": "https://www.salisburyjournal.co.uk/news/26667773.lorry-crashes-railway-bridge-a36-wilton/",
@@ -45494,10 +45723,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "Trump Accuses Democrats of Paying Protesters $250 as Woman Is Removed Minutes Into Michigan Rally",
+          "url": "https://www.ibtimes.co.uk/trump-claims-protesters-paid-250-no-evidence-1827703",
+          "domain": "ibtimes.co.uk",
+          "date": "2026-10-26"
+        },
         {
           "title": "Trump Accuses Democrats of Paying Protesters $250 as Woman Is Removed Minutes Into Michigan Rally",
           "url": "https://www.ibtimes.co.uk/trump-claims-protesters-paid-250-no-evidence-1827703",
@@ -45532,10 +45767,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "Trump Calls Greenland  The Greatest Real Estate Deal in History  After Claiming Denmark  Gave  It to the US",
+          "url": "https://www.ibtimes.co.uk/trump-greenland-defence-deal-sovereignty-1827756",
+          "domain": "ibtimes.co.uk",
+          "date": "2026-10-26"
+        },
         {
           "title": "Trump Calls Greenland  The Greatest Real Estate Deal in History  After Claiming Denmark  Gave  It to the US",
           "url": "https://www.ibtimes.co.uk/trump-greenland-defence-deal-sovereignty-1827756",
@@ -45599,7 +45840,9 @@
         "inflating",
         "influencer",
         "jacket",
-        "life"
+        "life",
+        "listen",
+        "lovett"
       ],
       "domains": [
         "ibtimes.co.uk"
@@ -45607,10 +45850,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "I Just Dont Listen Very Well : Influencer Hugh Lovett Banned by Two Airlines After Inflating Life Jacket for Prank",
+          "url": "https://www.ibtimes.co.uk/hugh-lovett-banned-jetstar-qantas-life-jacket-stunt-1827769",
+          "domain": "ibtimes.co.uk",
+          "date": "2026-10-26"
+        },
         {
           "title": "I Just Dont Listen Very Well : Influencer Hugh Lovett Banned by Two Airlines After Inflating Life Jacket for Prank",
           "url": "https://www.ibtimes.co.uk/hugh-lovett-banned-jetstar-qantas-life-jacket-stunt-1827769",
@@ -45678,15 +45927,34 @@
       "domains": [
         "herefordtimes.com",
         "dorsetecho.co.uk",
-        "yourlocalguardian.co.uk"
+        "yourlocalguardian.co.uk",
+        "dudleynews.co.uk",
+        "clactonandfrintongazette.co.uk",
+        "hertsad.co.uk",
+        "cravenherald.co.uk",
+        "gazetteseries.co.uk",
+        "witneygazette.co.uk",
+        "somersetcountygazette.co.uk",
+        "royston-crow.co.uk",
+        "surreycomet.co.uk",
+        "worcesternews.co.uk",
+        "impartialreporter.com",
+        "malverngazette.co.uk",
+        "whtimes.co.uk"
       ],
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Venezuela opposition leader Machado returns after months in exile",
+          "url": "https://www.herefordtimes.com/news/national/26668498.venezuelas-opposition-leader-machado-returns-months-exile/",
+          "domain": "herefordtimes.com",
+          "date": "2026-10-25"
+        },
         {
           "title": "Venezuela opposition leader Machado returns after months in exile",
           "url": "https://www.herefordtimes.com/news/national/26668498.venezuelas-opposition-leader-machado-returns-months-exile/",
@@ -45815,17 +46083,33 @@
         "rejects",
         "results",
         "winner",
-        "election"
+        "election",
+        "highbridge",
+        "news",
+        "weekly"
       ],
       "domains": [
         "thetelegraphandargus.co.uk",
         "theargus.co.uk",
-        "salisburyjournal.co.uk"
+        "salisburyjournal.co.uk",
+        "chesterstandard.co.uk",
+        "northwaleschronicle.co.uk",
+        "thecomet.net",
+        "southwalesguardian.co.uk",
+        "hamhigh.co.uk",
+        "penarthtimes.co.uk",
+        "denbighshirefreepress.co.uk",
+        "barryanddistrictnews.co.uk",
+        "thewestonmercury.co.uk",
+        "milfordmercury.co.uk",
+        "harrowtimes.co.uk",
+        "enfieldindependent.co.uk",
+        "burnhamandhighbridgeweeklynews.co.uk"
       ],
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
@@ -45839,6 +46123,18 @@
           "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
           "url": "https://www.thetelegraphandargus.co.uk/news/national/26668635.lula-declared-winner-brazils-election-bolsonaro-rejects-results/",
           "domain": "thetelegraphandargus.co.uk",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
+          "url": "https://www.thetelegraphandargus.co.uk/news/national/26668635.lula-declared-winner-brazils-election-bolsonaro-rejects-results/",
+          "domain": "thetelegraphandargus.co.uk",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results | Burnham and Highbridge Weekly News",
+          "url": "https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/26668635.lula-declared-winner-brazils-election-bolsonaro-rejects-results/",
+          "domain": "burnhamandhighbridgeweeklynews.co.uk",
           "date": "2026-10-26"
         }
       ]
@@ -46274,10 +46570,16 @@
       "daysSeen": [
         "2026-10-27"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27",
       "samples": [
+        {
+          "title": "Meghan to co - host Junior MasterChef Australia",
+          "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
+          "domain": "bbc.co.uk",
+          "date": "2026-10-27"
+        },
         {
           "title": "Meghan to co - host Junior MasterChef Australia",
           "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
@@ -46311,10 +46613,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "People are only just realising what AM and PM stand for and feel  really silly",
+          "url": "https://www.dailystar.co.uk/news/uk-news/people-feel-stupid-after-realising-37799632",
+          "domain": "dailystar.co.uk",
+          "date": "2026-10-25"
+        },
         {
           "title": "People are only just realising what AM and PM stand for and feel  really silly",
           "url": "https://www.dailystar.co.uk/news/uk-news/people-feel-stupid-after-realising-37799632",
@@ -46579,10 +46887,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Thomas Straker on his $5 million new restaurant and the most expensive thing he eaten in New York",
+          "url": "https://www.gq-magazine.co.uk/article/thomas-straker-interview-profit-losses-october-2026",
+          "domain": "gq-magazine.co.uk",
+          "date": "2026-10-25"
+        },
         {
           "title": "Thomas Straker on his $5 million new restaurant and the most expensive thing he eaten in New York",
           "url": "https://www.gq-magazine.co.uk/article/thomas-straker-interview-profit-losses-october-2026",
@@ -46618,7 +46932,7 @@
         "2026-10-24",
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-25",
       "samples": [
@@ -46627,6 +46941,12 @@
           "url": "https://www.manchestereveningnews.co.uk/news/uk-news/christmas-day-boxing-day-2027-34809422",
           "domain": "manchestereveningnews.co.uk",
           "date": "2026-10-24"
+        },
+        {
+          "title": "Christmas Day and Boxing Day 2027 bank holidays confirmed as dates moved",
+          "url": "https://www.derbytelegraph.co.uk/news/uk-world-news/christmas-day-boxing-day-2027-11213329",
+          "domain": "derbytelegraph.co.uk",
+          "date": "2026-10-25"
         },
         {
           "title": "Christmas Day and Boxing Day 2027 bank holidays confirmed as dates moved",
@@ -46754,7 +47074,7 @@
         "2026-10-26",
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-26",
       "samples": [
@@ -46769,6 +47089,12 @@
           "url": "https://www.birminghammail.co.uk/news/midlands-news/andy-burnham-2p-change-driveways-34790031",
           "domain": "birminghammail.co.uk",
           "date": "2026-10-25"
+        },
+        {
+          "title": "Andy Burnham told to make  legally enforceable  change to petrol stations",
+          "url": "https://www.birminghammail.co.uk/news/midlands-news/andy-burnham-told-make-legally-34816116",
+          "domain": "birminghammail.co.uk",
+          "date": "2026-10-26"
         }
       ]
     },
@@ -46849,10 +47175,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Trump Turnberry launches Winter Academy programme",
+          "url": "https://www.dailyrecord.co.uk/ayrshire/trump-turnberry-launches-winter-academy-37798292",
+          "domain": "dailyrecord.co.uk",
+          "date": "2026-10-25"
+        },
         {
           "title": "Trump Turnberry launches Winter Academy programme",
           "url": "https://www.dailyrecord.co.uk/ayrshire/trump-turnberry-launches-winter-academy-37798292",
@@ -46872,7 +47204,8 @@
         "honest",
         "knows",
         "moises",
-        "makes"
+        "makes",
+        "chelsea"
       ],
       "domains": [
         "aol.co.uk"
@@ -46880,10 +47213,16 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Moises Caicedo makes honest Chelsea admission after Tottenham defeat -  Everyone knows",
+          "url": "https://www.aol.co.uk/articles/moises-caicedo-makes-honest-chelsea-103309000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-25"
+        },
         {
           "title": "Moises Caicedo makes honest Chelsea admission after Tottenham defeat -  Everyone knows",
           "url": "https://www.aol.co.uk/articles/moises-caicedo-makes-honest-chelsea-103309000.html",
@@ -46903,23 +47242,44 @@
         "photo",
         "secret",
         "sex",
-        "vault"
+        "vault",
+        "grossest",
+        "official",
+        "philippine",
+        "kind",
+        "may",
+        "father"
       ],
       "domains": [
-        "hulldailymail.co.uk"
+        "hulldailymail.co.uk",
+        "thewestonmercury.co.uk",
+        "hamhigh.co.uk"
       ],
       "daysSeen": [
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ],
-      "articleCount": 1,
+      "articleCount": 3,
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25",
+      "lastSeen": "2026-10-26",
       "samples": [
         {
           "title": "Sex offender had  secret photo vault  of indecent images of children",
           "url": "https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/sex-offender-secret-photo-vault-11211961",
           "domain": "hulldailymail.co.uk",
           "date": "2026-10-25"
+        },
+        {
+          "title": "Sex offender had  secret photo vault  of indecent images of children",
+          "url": "https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/sex-offender-secret-photo-vault-11211961",
+          "domain": "hulldailymail.co.uk",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Meghan father may be  sex offender of grossest kind , Philippine official says",
+          "url": "https://www.thewestonmercury.co.uk/news/national/26668618.meghans-father-may-sex-offender-grossest-kind-philippine-official-says/",
+          "domain": "thewestonmercury.co.uk",
+          "date": "2026-10-26"
         }
       ]
     },
@@ -47043,10 +47403,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "Craig Revel Horwood joins Sister Act tour in Brighton",
+          "url": "https://www.theargus.co.uk/news/26659397.craig-revel-horwood-joins-sister-act-tour-brighton/",
+          "domain": "theargus.co.uk",
+          "date": "2026-10-26"
+        },
         {
           "title": "Craig Revel Horwood joins Sister Act tour in Brighton",
           "url": "https://www.theargus.co.uk/news/26659397.craig-revel-horwood-joins-sister-act-tour-brighton/",
@@ -47128,7 +47494,8 @@
         "royalties",
         "sales",
         "sally",
-        "children"
+        "children",
+        "kingdom"
       ],
       "domains": [
         "theguardian.com",
@@ -47137,10 +47504,22 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 2,
+      "articleCount": 4,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
+        {
+          "title": "Two children laureates to give Sally Rooney royalties after ban on united kingdom sales | Sally Rooney",
+          "url": "https://www.theguardian.com/books/2026/oct/25/ireland-wales-children-laureates-chris-haughton-nicola-davies-sally-rooney-royalties-ban-on-uk-sales",
+          "domain": "theguardian.com",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Two children laureates to give Sally Rooney royalties after ban on united kingdom sales",
+          "url": "https://www.aol.co.uk/articles/two-children-laureates-sally-rooney-120002000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-25"
+        },
         {
           "title": "Two children laureates to give Sally Rooney royalties after ban on united kingdom sales | Sally Rooney",
           "url": "https://www.theguardian.com/books/2026/oct/25/ireland-wales-children-laureates-chris-haughton-nicola-davies-sally-rooney-royalties-ban-on-uk-sales",
@@ -47174,10 +47553,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "Fury as Army veteran turned away from Wetherspoon pub for  wearing a poppy",
+          "url": "https://www.aol.co.uk/articles/fury-army-veteran-turned-away-063000000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-26"
+        },
         {
           "title": "Fury as Army veteran turned away from Wetherspoon pub for  wearing a poppy",
           "url": "https://www.aol.co.uk/articles/fury-army-veteran-turned-away-063000000.html",
@@ -47356,10 +47741,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "Community groups can bid for Montreal Arms pub in Brighton",
+          "url": "https://www.theargus.co.uk/news/26668051.community-groups-can-bid-montreal-arms-pub-brighton/",
+          "domain": "theargus.co.uk",
+          "date": "2026-10-26"
+        },
         {
           "title": "Community groups can bid for Montreal Arms pub in Brighton",
           "url": "https://www.theargus.co.uk/news/26668051.community-groups-can-bid-montreal-arms-pub-brighton/",
@@ -47472,18 +47863,75 @@
         "see",
         "youll",
         "youre",
-        "meghan"
+        "meghan",
+        "never",
+        "east",
+        "essex",
+        "guardian",
+        "london",
+        "series",
+        "west",
+        "dumbarton",
+        "leven",
+        "reporter",
+        "vale",
+        "european",
+        "nothing",
+        "rayner"
       ],
       "domains": [
         "echo-news.co.uk",
         "salisburyjournal.co.uk",
         "lancashiretelegraph.co.uk",
-        "eadt.co.uk"
+        "eadt.co.uk",
+        "theboltonnews.co.uk",
+        "thenorthernecho.co.uk",
+        "wiltshiretimes.co.uk",
+        "stourbridgenews.co.uk",
+        "cambstimes.co.uk",
+        "northwaleschronicle.co.uk",
+        "hexham-courant.co.uk",
+        "thisiswiltshire.co.uk",
+        "harrowtimes.co.uk",
+        "redditchadvertiser.co.uk",
+        "ludlowadvertiser.co.uk",
+        "thetottenhamindependent.co.uk",
+        "elystandard.co.uk",
+        "countytimes.co.uk",
+        "dudleynews.co.uk",
+        "kilburntimes.co.uk",
+        "clydebankpost.co.uk",
+        "brentwoodlive.co.uk",
+        "leaderlive.co.uk",
+        "richmondandtwickenhamtimes.co.uk",
+        "freepressseries.co.uk",
+        "halsteadgazette.co.uk",
+        "hampshirechronicle.co.uk",
+        "times-series.co.uk",
+        "dunmowbroadcast.co.uk",
+        "thewestonmercury.co.uk",
+        "irvinetimes.com",
+        "warringtonguardian.co.uk",
+        "thewestmorlandgazette.co.uk",
+        "bordertelegraph.com",
+        "runcornandwidnesworld.co.uk",
+        "harwichandmanningtreestandard.co.uk",
+        "eppingforestguardian.co.uk",
+        "northsomersettimes.co.uk",
+        "surreycomet.co.uk",
+        "southwalesguardian.co.uk",
+        "tivysideadvertiser.co.uk",
+        "thecomet.net",
+        "hillingdontimes.co.uk",
+        "midweekherald.co.uk",
+        "penarthtimes.co.uk",
+        "guardian-series.co.uk",
+        "dumbartonreporter.co.uk"
       ],
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 5,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
@@ -47491,6 +47939,30 @@
           "title": "Meghan  told father I know youre an abuser , youll never see the grandchildren",
           "url": "https://www.echo-news.co.uk/news/national/26667877.meghan-told-father-know-abuser-never-see-grandchildren/",
           "domain": "echo-news.co.uk",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Meghan  told father I know youre an abuser , youll never see the grandchildren",
+          "url": "https://www.echo-news.co.uk/news/national/26667877.meghan-told-father-know-abuser-never-see-grandchildren/",
+          "domain": "echo-news.co.uk",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Meghan  told father I know youre an abuser , youll never see the grandchildren  | East London and West Essex Guardian Series",
+          "url": "https://www.guardian-series.co.uk/news/national/26667877.meghan-told-father-know-abuser-never-see-grandchildren/",
+          "domain": "guardian-series.co.uk",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Meghan  told father I know youre an abuser , youll never see the grandchildren  | Dumbarton and Vale of Leven Reporter",
+          "url": "https://www.dumbartonreporter.co.uk/news/national/26667877.meghan-told-father-know-abuser-never-see-grandchildren/",
+          "domain": "dumbartonreporter.co.uk",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Rayner : Nothing off table in Burnham talks with European Union | East London and West Essex Guardian Series",
+          "url": "https://www.guardian-series.co.uk/news/national/26667927.rayner-nothing-off-table-burnhams-talks-european-union/",
+          "domain": "guardian-series.co.uk",
           "date": "2026-10-25"
         }
       ]
@@ -47513,10 +47985,16 @@
       "daysSeen": [
         "2026-10-26"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
       "samples": [
+        {
+          "title": "Drunk man avoids prison after smashing car windscreen",
+          "url": "https://www.thenorthernecho.co.uk/news/26661827.drunk-man-avoids-prison-smashing-car-windscreen/",
+          "domain": "thenorthernecho.co.uk",
+          "date": "2026-10-26"
+        },
         {
           "title": "Drunk man avoids prison after smashing car windscreen",
           "url": "https://www.thenorthernecho.co.uk/news/26661827.drunk-man-avoids-prison-smashing-car-windscreen/",
@@ -47544,7 +48022,7 @@
       "daysSeen": [
         "2026-10-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "samples": [
@@ -47553,6 +48031,552 @@
           "url": "https://www.aol.co.uk/articles/pentagon-releases-bombshell-ufo-files-120800000.html",
           "domain": "aol.co.uk",
           "date": "2026-10-25"
+        },
+        {
+          "title": "Pentagon releases bombshell new UFO files - alien corpses and egg shaped aircraft",
+          "url": "https://www.aol.co.uk/articles/pentagon-releases-bombshell-ufo-files-120800000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:added-breakthrough-cancer": {
+      "id": "united-kingdom:added-breakthrough-cancer",
+      "country": "United Kingdom",
+      "terms": [
+        "added",
+        "breakthrough",
+        "cancer",
+        "controls",
+        "disease",
+        "longer",
+        "treatment"
+      ],
+      "domains": [
+        "walesonline.co.uk",
+        "cambridge-news.co.uk",
+        "belfastlive.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Cancer breakthrough as  added treatment  controls disease for longer",
+          "url": "https://www.walesonline.co.uk/news/health/cancer-breakthrough-added-treatment-controls-34814135",
+          "domain": "walesonline.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:caleb-emmerdale-frames": {
+      "id": "united-kingdom:caleb-emmerdale-frames",
+      "country": "United Kingdom",
+      "terms": [
+        "caleb",
+        "emmerdale",
+        "frames",
+        "miligan",
+        "next",
+        "ruby",
+        "sadie",
+        "seduces"
+      ],
+      "domains": [
+        "radiotimes.com"
+      ],
+      "daysSeen": [
+        "2026-10-27"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "samples": [
+        {
+          "title": "4 Emmerdale spoilers next week : Sadie King seduces Caleb Miligan as she frames Ruby",
+          "url": "https://www.radiotimes.com/tv/soaps/emmerdale/emmerdale-spoilers-next-week-sadie-king-seduces-caleb-miligan-frames-ruby-robert-sugden/",
+          "domain": "radiotimes.com",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "united-kingdom:city-gallagher-george": {
+      "id": "united-kingdom:city-gallagher-george",
+      "country": "United Kingdom",
+      "terms": [
+        "city",
+        "gallagher",
+        "george",
+        "liverpool",
+        "ours",
+        "singer",
+        "returns"
+      ],
+      "domains": [
+        "tvguide.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Liverpool singer George Gallagher returns to This City is Ours S2",
+          "url": "https://www.tvguide.co.uk/articles/this-city-is-ours-singer-george-gallagher-bbc-one-singing-competition-crooner/",
+          "domain": "tvguide.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:charity-climbing-community": {
+      "id": "united-kingdom:charity-climbing-community",
+      "country": "United Kingdom",
+      "terms": [
+        "charity",
+        "climbing",
+        "dad",
+        "hull",
+        "raises",
+        "thousands",
+        "community"
+      ],
+      "domains": [
+        "hulldailymail.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-26"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "samples": [
+        {
+          "title": "Hull dad climbing community raises thousands for charity",
+          "url": "https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/hull-dads-climbing-community-raises-11212166",
+          "domain": "hulldailymail.co.uk",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "united-kingdom:ball-difficult-jingle": {
+      "id": "united-kingdom:ball-difficult-jingle",
+      "country": "United Kingdom",
+      "terms": [
+        "ball",
+        "difficult",
+        "jingle",
+        "lawsuit",
+        "lawyers",
+        "minaj",
+        "nicki",
+        "quit"
+      ],
+      "domains": [
+        "ibtimes.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Nicki Minaj Lawyers Reportedly Want To Quit Rapper  Unreasonably Difficult  Jingle Ball Lawsuit",
+          "url": "https://www.ibtimes.co.uk/nicki-minajs-lawyers-reportedly-want-quit-rappers-unreasonably-difficult-jingle-ball-lawsuit-1827642",
+          "domain": "ibtimes.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:claimants-dwp-needs": {
+      "id": "united-kingdom:claimants-dwp-needs",
+      "country": "United Kingdom",
+      "terms": [
+        "claimants",
+        "dwp",
+        "needs",
+        "particular",
+        "payment",
+        "pip",
+        "proposed",
+        "update"
+      ],
+      "domains": [
+        "mirror.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "PIP update over proposed DWP  one - off payment for claimants for particular needs",
+          "url": "https://www.mirror.co.uk/money/pip-update-over-proposed-dwp-37795234",
+          "domain": "mirror.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:budget-expected-rise": {
+      "id": "united-kingdom:budget-expected-rise",
+      "country": "United Kingdom",
+      "terms": [
+        "budget",
+        "expected",
+        "rise",
+        "ruled",
+        "wednesday",
+        "what"
+      ],
+      "domains": [
+        "hulldailymail.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-26"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "samples": [
+        {
+          "title": "What is expected in Wednesday Budget as  rise ruled out",
+          "url": "https://www.hulldailymail.co.uk/news/cost-of-living/what-expected-wednesdays-budget-rise-11213794",
+          "domain": "hulldailymail.co.uk",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "united-kingdom:arroyo-martina-obituary": {
+      "id": "united-kingdom:arroyo-martina-obituary",
+      "country": "United Kingdom",
+      "terms": [
+        "arroyo",
+        "martina",
+        "obituary"
+      ],
+      "domains": [
+        "theguardian.com"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Martina Arroyo obituary",
+          "url": "https://www.theguardian.com/music/2026/oct/25/martina-arroyo-obituary",
+          "domain": "theguardian.com",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:beyond-country-keeps": {
+      "id": "united-kingdom:beyond-country-keeps",
+      "country": "United Kingdom",
+      "terms": [
+        "beyond",
+        "keeps",
+        "left",
+        "means",
+        "victory",
+        "country",
+        "what",
+        "lula"
+      ],
+      "domains": [
+        "aol.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-26"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "samples": [
+        {
+          "title": "Brazil keeps left : what Lula victory means for his country and beyond",
+          "url": "https://www.aol.co.uk/articles/brazil-keeps-left-lula-victory-064433000.html",
+          "domain": "aol.co.uk",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "united-kingdom:administration-brilliant-conquer": {
+      "id": "united-kingdom:administration-brilliant-conquer",
+      "country": "United Kingdom",
+      "terms": [
+        "administration",
+        "brilliant",
+        "conquer",
+        "helped",
+        "house",
+        "jame",
+        "midterms",
+        "white"
+      ],
+      "domains": [
+        "theguardian.com"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Brilliant Jame helped return Trump to the White House . Can he conquer the midterms ? | Trump administration",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/james-blair-trump-strategist-midterms-republicans",
+          "domain": "theguardian.com",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:confessions-film-israeli": {
+      "id": "united-kingdom:confessions-film-israeli",
+      "country": "United Kingdom",
+      "terms": [
+        "confessions",
+        "film",
+        "military",
+        "murder",
+        "naza",
+        "review",
+        "systems",
+        "israeli"
+      ],
+      "domains": [
+        "brixtonbuzz.com"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Film Review : NAZA – Israeli military confessions to systems of mass murder",
+          "url": "https://www.brixtonbuzz.com/2026/10/film-review-naza-israeli-military-confessions-to-systems-of-mass-murder/",
+          "domain": "brixtonbuzz.com",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:country-details-devil": {
+      "id": "united-kingdom:country-details-devil",
+      "country": "United Kingdom",
+      "terms": [
+        "details",
+        "devil",
+        "mi5",
+        "once",
+        "recruited",
+        "writer",
+        "country",
+        "life"
+      ],
+      "domains": [
+        "countrylife.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "The devil of MI5 is in the details , says the Country Life writer they once recruited",
+          "url": "https://www.countrylife.co.uk/culture/the-devil-of-mi5-is-in-the-details-says-the-writer-they-once-recruited",
+          "domain": "countrylife.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:banned-dangerous-derbyshire": {
+      "id": "united-kingdom:banned-dangerous-derbyshire",
+      "country": "United Kingdom",
+      "terms": [
+        "dangerous",
+        "derbyshire",
+        "drivers",
+        "incidents",
+        "roads",
+        "seven",
+        "shocking",
+        "banned"
+      ],
+      "domains": [
+        "derbytelegraph.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Seven dangerous Derbyshire drivers banned from the roads after shocking incidents",
+          "url": "https://www.derbytelegraph.co.uk/news/derby-news/seven-dangerous-derbyshire-drivers-banned-11211406",
+          "domain": "derbytelegraph.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:china-headlines-later": {
+      "id": "united-kingdom:china-headlines-later",
+      "country": "United Kingdom",
+      "terms": [
+        "china",
+        "headlines",
+        "later",
+        "long",
+        "odyssey",
+        "retracing",
+        "walk",
+        "xinhua"
+      ],
+      "domains": [
+        "theuknews.com"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "Xinhua Headlines : Retracing an odyssey : Why people walk China Long March 90 years later",
+          "url": "http://www.theuknews.com/news/279397382/xinhua-headlines-retracing-an-odyssey-why-people-walk-china-long-march-90-years-later",
+          "domain": "theuknews.com",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:allotment-celebrates-dementia": {
+      "id": "united-kingdom:allotment-celebrates-dementia",
+      "country": "United Kingdom",
+      "terms": [
+        "allotment",
+        "celebrates",
+        "dementia",
+        "milton",
+        "summer",
+        "support"
+      ],
+      "domains": [
+        "dailyecho.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-27"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "samples": [
+        {
+          "title": "New Milton dementia allotment celebrates summer support",
+          "url": "https://www.dailyecho.co.uk/news/26669010.new-milton-dementia-allotment-celebrates-summer-support/",
+          "domain": "dailyecho.co.uk",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "united-kingdom:ballot-bid-businesses": {
+      "id": "united-kingdom:ballot-bid-businesses",
+      "country": "United Kingdom",
+      "terms": [
+        "ballot",
+        "businesses",
+        "opens",
+        "southampton",
+        "term",
+        "third",
+        "bid"
+      ],
+      "domains": [
+        "dailyecho.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-27"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "samples": [
+        {
+          "title": "Southampton BID third - term ballot opens for businesses",
+          "url": "https://www.dailyecho.co.uk/news/26669696.southampton-bid-third-term-ballot-opens-businesses/",
+          "domain": "dailyecho.co.uk",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "united-kingdom:cambridgeshire-cinemas-lost": {
+      "id": "united-kingdom:cambridgeshire-cinemas-lost",
+      "country": "United Kingdom",
+      "terms": [
+        "cambridgeshire",
+        "cinemas",
+        "lost",
+        "loved"
+      ],
+      "domains": [
+        "cambstimes.co.uk",
+        "elystandard.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "samples": [
+        {
+          "title": "The 5 cinemas in Cambridgeshire we have loved and lost",
+          "url": "https://www.cambstimes.co.uk/news/26667316.5-cinemas-cambridgeshire-loved-lost/",
+          "domain": "cambstimes.co.uk",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "united-kingdom:british-buying-listers": {
+      "id": "united-kingdom:british-buying-listers",
+      "country": "United Kingdom",
+      "terms": [
+        "british",
+        "buying",
+        "listers",
+        "pubs"
+      ],
+      "domains": [
+        "morningadvertiser.co.uk"
+      ],
+      "daysSeen": [
+        "2026-10-27"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "samples": [
+        {
+          "title": "Why are A - listers buying British pubs ?",
+          "url": "https://www.morningadvertiser.co.uk/Article/2026/10/22/why-are-a-listers-buying-british-pubs/",
+          "domain": "morningadvertiser.co.uk",
+          "date": "2026-10-27"
         }
       ]
     }
