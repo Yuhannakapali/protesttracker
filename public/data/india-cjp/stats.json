@@ -167,7 +167,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 203
+      "count": 204
     },
     {
       "start": "2026-08-01",
@@ -179,7 +179,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2673
+      "count": 2676
     },
     {
       "start": "2026-11-01",
@@ -464,6 +464,12 @@
       "last": "2026-10-28"
     },
     {
+      "name": "DNA India",
+      "count": 15,
+      "first": "2026-07-24",
+      "last": "2026-11-01"
+    },
+    {
       "name": "Bar and Bench",
       "count": 14,
       "first": "2026-08-07",
@@ -473,12 +479,6 @@
       "name": "Daily Pioneer",
       "count": 14,
       "first": "2026-08-17",
-      "last": "2026-11-01"
-    },
-    {
-      "name": "DNA India",
-      "count": 14,
-      "first": "2026-07-24",
       "last": "2026-11-01"
     },
     {
@@ -1322,6 +1322,12 @@
       "last": "2026-10-16"
     },
     {
+      "name": "Lokmat Times",
+      "count": 2,
+      "first": "2026-10-17",
+      "last": "2026-10-22"
+    },
+    {
       "name": "mezha.net",
       "count": 2,
       "first": "2026-10-10",
@@ -1772,6 +1778,12 @@
       "last": "2026-10-23"
     },
     {
+      "name": "Free Press Journal",
+      "count": 1,
+      "first": "2026-07-21",
+      "last": "2026-07-21"
+    },
+    {
       "name": "Global Issues.Org",
       "count": 1,
       "first": "2026-08-21",
@@ -1830,6 +1842,12 @@
       "count": 1,
       "first": "2026-10-16",
       "last": "2026-10-16"
+    },
+    {
+      "name": "hungamaexpress.com",
+      "count": 1,
+      "first": "2026-10-31",
+      "last": "2026-10-31"
     },
     {
       "name": "Hürriyet Daily News",
@@ -1986,12 +2004,6 @@
       "count": 1,
       "first": "2026-10-16",
       "last": "2026-10-16"
-    },
-    {
-      "name": "Lokmat Times",
-      "count": 1,
-      "first": "2026-10-17",
-      "last": "2026-10-17"
     },
     {
       "name": "Lokmat.com",
