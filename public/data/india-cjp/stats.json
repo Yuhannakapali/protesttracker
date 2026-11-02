@@ -179,11 +179,11 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2677
+      "count": 2679
     },
     {
       "start": "2026-11-01",
-      "count": 20
+      "count": 24
     }
   ],
   "sources": [
@@ -213,9 +213,9 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 187,
+      "count": 188,
       "first": "2026-07-22",
-      "last": "2026-10-30"
+      "last": "2026-10-31"
     },
     {
       "name": "The Indian Express",
@@ -335,7 +335,7 @@
       "name": "TheWire.in",
       "count": 35,
       "first": "2026-07-11",
-      "last": "2026-10-29"
+      "last": "2026-10-31"
     },
     {
       "name": "DW.com",
@@ -614,6 +614,12 @@
       "last": "2026-10-28"
     },
     {
+      "name": "ABP Live English",
+      "count": 9,
+      "first": "2026-07-19",
+      "last": "2026-11-02"
+    },
+    {
       "name": "Business Today",
       "count": 9,
       "first": "2026-09-04",
@@ -644,12 +650,6 @@
       "last": "2026-10-02"
     },
     {
-      "name": "ABP Live English",
-      "count": 8,
-      "first": "2026-07-19",
-      "last": "2026-10-22"
-    },
-    {
       "name": "Clarion India",
       "count": 8,
       "first": "2026-08-21",
@@ -659,7 +659,7 @@
       "name": "Kashmir Observer",
       "count": 8,
       "first": "2026-09-18",
-      "last": "2026-10-23"
+      "last": "2026-10-22"
     },
     {
       "name": "OrissaPOST",
@@ -890,6 +890,12 @@
       "last": "2026-10-11"
     },
     {
+      "name": "IBTimes India",
+      "count": 4,
+      "first": "2026-08-30",
+      "last": "2026-11-02"
+    },
+    {
       "name": "Kerala Kaumudi",
       "count": 4,
       "first": "2026-09-01",
@@ -1056,12 +1062,6 @@
       "count": 3,
       "first": "2026-08-18",
       "last": "2026-10-08"
-    },
-    {
-      "name": "IBTimes India",
-      "count": 3,
-      "first": "2026-08-30",
-      "last": "2026-10-31"
     },
     {
       "name": "India Legal",
@@ -2294,6 +2294,12 @@
       "last": "2026-10-22"
     },
     {
+      "name": "The New Yorker",
+      "count": 1,
+      "first": "2026-10-31",
+      "last": "2026-10-31"
+    },
+    {
       "name": "The News Pakistan",
       "count": 1,
       "first": "2026-10-16",
@@ -2304,6 +2310,12 @@
       "count": 1,
       "first": "2026-10-26",
       "last": "2026-10-26"
+    },
+    {
+      "name": "The Pamphlet",
+      "count": 1,
+      "first": "2026-11-02",
+      "last": "2026-11-02"
     },
     {
       "name": "The Probe",
@@ -2328,6 +2340,12 @@
       "count": 1,
       "first": "2026-10-17",
       "last": "2026-10-17"
+    },
+    {
+      "name": "The Ticker",
+      "count": 1,
+      "first": "2026-11-02",
+      "last": "2026-11-02"
     },
     {
       "name": "The Wire India",

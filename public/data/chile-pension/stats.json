@@ -2,6 +2,10 @@
   "granularity": "month",
   "buckets": [
     {
+      "start": "2014-10-01",
+      "count": 1
+    },
+    {
       "start": "2014-11-01",
       "count": 2
     },
@@ -251,7 +255,7 @@
     },
     {
       "start": "2020-01-01",
-      "count": 4
+      "count": 5
     },
     {
       "start": "2020-02-01",
@@ -575,7 +579,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 118
+      "count": 117
     }
   ],
   "sources": [
@@ -646,6 +650,12 @@
       "last": "2023-07-16"
     },
     {
+      "name": "BioBioChile",
+      "count": 6,
+      "first": "2014-10-10",
+      "last": "2023-01-19"
+    },
+    {
       "name": "El Mostrador",
       "count": 6,
       "first": "2016-07-24",
@@ -662,12 +672,6 @@
       "count": 5,
       "first": "2017-07-25",
       "last": "2025-02-06"
-    },
-    {
-      "name": "BioBioChile",
-      "count": 5,
-      "first": "2014-11-04",
-      "last": "2023-01-19"
     },
     {
       "name": "Clarin.com",
@@ -1738,6 +1742,6 @@
       "last": "2016-08-22"
     }
   ],
-  "firstDate": "2014-11-04",
+  "firstDate": "2014-10-10",
   "lastDate": "2026-10-30"
 }

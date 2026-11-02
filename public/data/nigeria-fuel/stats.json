@@ -823,7 +823,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 2
+      "count": 3
     }
   ],
   "sources": [
@@ -841,9 +841,9 @@
     },
     {
       "name": "Channels Television",
-      "count": 75,
+      "count": 76,
       "first": "2012-01-04",
-      "last": "2026-10-31"
+      "last": "2026-11-02"
     },
     {
       "name": "The Guardian Nigeria News",
@@ -1609,5 +1609,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-11-01"
+  "lastDate": "2026-11-02"
 }
