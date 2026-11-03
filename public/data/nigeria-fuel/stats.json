@@ -823,7 +823,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 3
+      "count": 4
     }
   ],
   "sources": [
@@ -1188,6 +1188,12 @@
       "last": "2026-02-03"
     },
     {
+      "name": "The Trumpet Newspaper Nigeria",
+      "count": 2,
+      "first": "2026-10-18",
+      "last": "2026-11-03"
+    },
+    {
       "name": "TheNiche",
       "count": 2,
       "first": "2020-09-11",
@@ -1542,12 +1548,6 @@
       "last": "2026-10-23"
     },
     {
-      "name": "The Trumpet Newspaper Nigeria",
-      "count": 1,
-      "first": "2026-10-18",
-      "last": "2026-10-18"
-    },
-    {
       "name": "theeagleonline.com.ng",
       "count": 1,
       "first": "2026-06-08",
@@ -1609,5 +1609,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-11-02"
+  "lastDate": "2026-11-03"
 }

@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 24
+      "count": 31
     }
   ],
   "sources": [
@@ -201,9 +201,9 @@
     },
     {
       "name": "NDTV",
-      "count": 232,
+      "count": 234,
       "first": "2026-05-12",
-      "last": "2026-11-01"
+      "last": "2026-11-03"
     },
     {
       "name": "Hindustan Times",
@@ -296,16 +296,16 @@
       "last": "2026-11-01"
     },
     {
+      "name": "moneycontrol.com",
+      "count": 43,
+      "first": "2026-08-18",
+      "last": "2026-11-03"
+    },
+    {
       "name": "Deccan Chronicle",
       "count": 42,
       "first": "2026-08-16",
       "last": "2026-10-31"
-    },
-    {
-      "name": "moneycontrol.com",
-      "count": 42,
-      "first": "2026-08-18",
-      "last": "2026-11-01"
     },
     {
       "name": "Livemint",
@@ -399,9 +399,9 @@
     },
     {
       "name": "The Federal",
-      "count": 23,
+      "count": 24,
       "first": "2026-07-05",
-      "last": "2026-10-30"
+      "last": "2026-11-03"
     },
     {
       "name": "WION",
@@ -572,6 +572,12 @@
       "last": "2026-10-28"
     },
     {
+      "name": "ABP Live English",
+      "count": 10,
+      "first": "2026-07-19",
+      "last": "2026-11-03"
+    },
+    {
       "name": "CNBC TV18",
       "count": 10,
       "first": "2026-07-30",
@@ -612,12 +618,6 @@
       "count": 10,
       "first": "2026-10-01",
       "last": "2026-10-28"
-    },
-    {
-      "name": "ABP Live English",
-      "count": 9,
-      "first": "2026-07-19",
-      "last": "2026-11-02"
     },
     {
       "name": "Business Today",
@@ -1796,6 +1796,12 @@
       "last": "2026-10-12"
     },
     {
+      "name": "GreatAndhra",
+      "count": 1,
+      "first": "2026-11-03",
+      "last": "2026-11-03"
+    },
+    {
       "name": "Greater Kashmir",
       "count": 1,
       "first": "2026-10-21",
@@ -2384,6 +2390,12 @@
       "last": "2026-09-24"
     },
     {
+      "name": "theopenpress.in",
+      "count": 1,
+      "first": "2026-11-03",
+      "last": "2026-11-03"
+    },
+    {
       "name": "thepublicworld.com",
       "count": 1,
       "first": "2026-08-23",
@@ -2493,5 +2505,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-02"
+  "lastDate": "2026-11-03"
 }
