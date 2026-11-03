@@ -583,21 +583,21 @@
     },
     {
       "start": "2026-11-01",
-      "count": 1
+      "count": 6
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 61,
+      "count": 65,
       "first": "2016-08-10",
-      "last": "2026-11-02"
+      "last": "2026-11-03"
     },
     {
       "name": "The Clinic",
-      "count": 49,
+      "count": 50,
       "first": "2016-07-25",
-      "last": "2026-10-30"
+      "last": "2026-11-03"
     },
     {
       "name": "La Izquierda Diario",
@@ -1747,5 +1747,5 @@
     }
   ],
   "firstDate": "2014-10-10",
-  "lastDate": "2026-11-02"
+  "lastDate": "2026-11-03"
 }

@@ -183,15 +183,15 @@
     },
     {
       "start": "2026-11-01",
-      "count": 31
+      "count": 44
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 364,
+      "count": 365,
       "first": "2026-06-06",
-      "last": "2026-10-30"
+      "last": "2026-11-03"
     },
     {
       "name": "The Times of India",
@@ -219,15 +219,15 @@
     },
     {
       "name": "The Indian Express",
-      "count": 165,
+      "count": 166,
       "first": "2026-07-24",
-      "last": "2026-10-31"
+      "last": "2026-11-03"
     },
     {
       "name": "India Today",
-      "count": 162,
+      "count": 164,
       "first": "2026-07-15",
-      "last": "2026-10-31"
+      "last": "2026-11-03"
     },
     {
       "name": "Telegraph India",
@@ -267,9 +267,9 @@
     },
     {
       "name": "News18",
-      "count": 71,
+      "count": 72,
       "first": "2026-07-20",
-      "last": "2026-10-31"
+      "last": "2026-11-03"
     },
     {
       "name": "The News Mill",
@@ -278,16 +278,16 @@
       "last": "2026-10-31"
     },
     {
+      "name": "ETV Bharat",
+      "count": 49,
+      "first": "2026-08-06",
+      "last": "2026-11-03"
+    },
+    {
       "name": "Outlook India",
       "count": 49,
       "first": "2026-08-17",
       "last": "2026-11-01"
-    },
-    {
-      "name": "ETV Bharat",
-      "count": 48,
-      "first": "2026-08-06",
-      "last": "2026-10-25"
     },
     {
       "name": "The Statesman",
@@ -297,7 +297,7 @@
     },
     {
       "name": "moneycontrol.com",
-      "count": 43,
+      "count": 44,
       "first": "2026-08-18",
       "last": "2026-11-03"
     },
@@ -350,22 +350,22 @@
       "last": "2026-10-24"
     },
     {
+      "name": "LawBeat",
+      "count": 30,
+      "first": "2026-02-07",
+      "last": "2026-11-03"
+    },
+    {
+      "name": "Live Law",
+      "count": 30,
+      "first": "2026-07-24",
+      "last": "2026-11-03"
+    },
+    {
       "name": "Al Jazeera",
       "count": 29,
       "first": "2026-05-20",
       "last": "2026-10-21"
-    },
-    {
-      "name": "LawBeat",
-      "count": 29,
-      "first": "2026-02-07",
-      "last": "2026-10-24"
-    },
-    {
-      "name": "Live Law",
-      "count": 29,
-      "first": "2026-07-24",
-      "last": "2026-10-28"
     },
     {
       "name": "The Tribune",
@@ -422,16 +422,16 @@
       "last": "2026-10-31"
     },
     {
+      "name": "Scroll.in",
+      "count": 20,
+      "first": "2026-07-26",
+      "last": "2026-11-03"
+    },
+    {
       "name": "Reuters",
       "count": 19,
       "first": "2026-07-25",
       "last": "2026-10-21"
-    },
-    {
-      "name": "Scroll.in",
-      "count": 19,
-      "first": "2026-07-26",
-      "last": "2026-10-30"
     },
     {
       "name": "The Guardian",
@@ -464,16 +464,16 @@
       "last": "2026-10-28"
     },
     {
+      "name": "Bar and Bench",
+      "count": 15,
+      "first": "2026-08-07",
+      "last": "2026-11-03"
+    },
+    {
       "name": "DNA India",
       "count": 15,
       "first": "2026-07-24",
       "last": "2026-11-01"
-    },
-    {
-      "name": "Bar and Bench",
-      "count": 14,
-      "first": "2026-08-07",
-      "last": "2026-10-28"
     },
     {
       "name": "Daily Pioneer",
@@ -500,6 +500,12 @@
       "last": "2026-09-27"
     },
     {
+      "name": "LawChakra",
+      "count": 13,
+      "first": "2026-09-10",
+      "last": "2026-11-03"
+    },
+    {
       "name": "Pioneer Daily",
       "count": 13,
       "first": "2026-08-28",
@@ -522,12 +528,6 @@
       "count": 12,
       "first": "2026-06-02",
       "last": "2026-10-13"
-    },
-    {
-      "name": "LawChakra",
-      "count": 12,
-      "first": "2026-09-10",
-      "last": "2026-10-28"
     },
     {
       "name": "NewsBytes",
@@ -662,6 +662,12 @@
       "last": "2026-10-22"
     },
     {
+      "name": "Organiser",
+      "count": 8,
+      "first": "2026-08-13",
+      "last": "2026-11-03"
+    },
+    {
       "name": "OrissaPOST",
       "count": 8,
       "first": "2026-08-16",
@@ -696,12 +702,6 @@
       "count": 7,
       "first": "2026-08-22",
       "last": "2026-10-21"
-    },
-    {
-      "name": "Organiser",
-      "count": 7,
-      "first": "2026-08-13",
-      "last": "2026-10-30"
     },
     {
       "name": "PTC News",
