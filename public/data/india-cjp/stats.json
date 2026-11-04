@@ -167,7 +167,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 204
+      "count": 205
     },
     {
       "start": "2026-08-01",
@@ -179,11 +179,11 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2679
+      "count": 2682
     },
     {
       "start": "2026-11-01",
-      "count": 44
+      "count": 46
     }
   ],
   "sources": [
@@ -326,16 +326,16 @@
       "last": "2026-10-28"
     },
     {
+      "name": "TheWire.in",
+      "count": 36,
+      "first": "2026-07-11",
+      "last": "2026-11-02"
+    },
+    {
       "name": "Mid-Day",
       "count": 35,
       "first": "2026-08-23",
       "last": "2026-10-28"
-    },
-    {
-      "name": "TheWire.in",
-      "count": 35,
-      "first": "2026-07-11",
-      "last": "2026-10-31"
     },
     {
       "name": "DW.com",
@@ -572,6 +572,12 @@
       "last": "2026-10-28"
     },
     {
+      "name": "Urban Acres",
+      "count": 11,
+      "first": "2026-10-01",
+      "last": "2026-11-03"
+    },
+    {
       "name": "ABP Live English",
       "count": 10,
       "first": "2026-07-19",
@@ -612,12 +618,6 @@
       "count": 10,
       "first": "2026-08-12",
       "last": "2026-11-01"
-    },
-    {
-      "name": "Urban Acres",
-      "count": 10,
-      "first": "2026-10-01",
-      "last": "2026-10-28"
     },
     {
       "name": "Business Today",
@@ -1118,6 +1118,12 @@
       "last": "2026-07-25"
     },
     {
+      "name": "Oneindia",
+      "count": 3,
+      "first": "2026-08-30",
+      "last": "2026-10-22"
+    },
+    {
       "name": "Prothom Alo English",
       "count": 3,
       "first": "2026-10-09",
@@ -1274,6 +1280,12 @@
       "last": "2026-10-20"
     },
     {
+      "name": "Free Press Journal",
+      "count": 2,
+      "first": "2026-07-21",
+      "last": "2026-10-22"
+    },
+    {
       "name": "Genocide Watch",
       "count": 2,
       "first": "2026-06-30",
@@ -1380,12 +1392,6 @@
       "count": 2,
       "first": "2026-10-20",
       "last": "2026-11-01"
-    },
-    {
-      "name": "Oneindia",
-      "count": 2,
-      "first": "2026-08-30",
-      "last": "2026-10-21"
     },
     {
       "name": "Pratidin Time",
@@ -1536,6 +1542,12 @@
       "count": 1,
       "first": "2026-10-17",
       "last": "2026-10-17"
+    },
+    {
+      "name": "aamaadmiparty.org",
+      "count": 1,
+      "first": "2026-07-28",
+      "last": "2026-07-28"
     },
     {
       "name": "ACLED",
@@ -1776,12 +1788,6 @@
       "count": 1,
       "first": "2026-10-23",
       "last": "2026-10-23"
-    },
-    {
-      "name": "Free Press Journal",
-      "count": 1,
-      "first": "2026-07-21",
-      "last": "2026-07-21"
     },
     {
       "name": "Global Issues.Org",
@@ -2064,6 +2070,12 @@
       "count": 1,
       "first": "2026-08-20",
       "last": "2026-08-20"
+    },
+    {
+      "name": "Munsif News 24x7",
+      "count": 1,
+      "first": "2026-11-03",
+      "last": "2026-11-03"
     },
     {
       "name": "myRepublica",

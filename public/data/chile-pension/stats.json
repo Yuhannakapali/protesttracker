@@ -583,27 +583,27 @@
     },
     {
       "start": "2026-11-01",
-      "count": 6
+      "count": 10
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 65,
+      "count": 66,
       "first": "2016-08-10",
       "last": "2026-11-03"
     },
     {
       "name": "The Clinic",
-      "count": 50,
+      "count": 52,
       "first": "2016-07-25",
       "last": "2026-11-03"
     },
     {
       "name": "La Izquierda Diario",
-      "count": 38,
+      "count": 39,
       "first": "2015-04-23",
-      "last": "2026-06-24"
+      "last": "2026-11-02"
     },
     {
       "name": "Radio Universidad de Chile",
@@ -735,7 +735,7 @@
       "name": "World Socialist Web Site",
       "count": 4,
       "first": "2026-06-11",
-      "last": "2026-10-24"
+      "last": "2026-10-23"
     },
     {
       "name": "- CIPER Chile",
@@ -976,6 +976,12 @@
       "count": 1,
       "first": "2020-01-22",
       "last": "2020-01-22"
+    },
+    {
+      "name": "América TeVé",
+      "count": 1,
+      "first": "2025-03-30",
+      "last": "2025-03-30"
     },
     {
       "name": "AP News",
@@ -1306,12 +1312,6 @@
       "count": 1,
       "first": "2020-02-19",
       "last": "2020-02-19"
-    },
-    {
-      "name": "Independent en Español",
-      "count": 1,
-      "first": "2025-03-30",
-      "last": "2025-03-30"
     },
     {
       "name": "Infinita",
