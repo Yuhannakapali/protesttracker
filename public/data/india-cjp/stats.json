@@ -183,15 +183,15 @@
     },
     {
       "start": "2026-11-01",
-      "count": 64
+      "count": 68
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 366,
+      "count": 367,
       "first": "2026-06-06",
-      "last": "2026-11-03"
+      "last": "2026-11-04"
     },
     {
       "name": "The Times of India",
@@ -335,7 +335,7 @@
       "name": "TheWire.in",
       "count": 36,
       "first": "2026-07-11",
-      "last": "2026-11-02"
+      "last": "2026-11-03"
     },
     {
       "name": "DW.com",
@@ -482,6 +482,12 @@
       "last": "2026-11-01"
     },
     {
+      "name": "LawChakra",
+      "count": 14,
+      "first": "2026-09-10",
+      "last": "2026-11-04"
+    },
+    {
       "name": "MillenniumPost",
       "count": 14,
       "first": "2026-09-28",
@@ -504,12 +510,6 @@
       "count": 13,
       "first": "2026-08-18",
       "last": "2026-09-27"
-    },
-    {
-      "name": "LawChakra",
-      "count": 13,
-      "first": "2026-09-10",
-      "last": "2026-11-03"
     },
     {
       "name": "Pioneer Daily",
@@ -1364,6 +1364,12 @@
       "last": "2026-10-15"
     },
     {
+      "name": "NewsDrum",
+      "count": 2,
+      "first": "2026-10-21",
+      "last": "2026-11-04"
+    },
+    {
       "name": "NewsGram",
       "count": 2,
       "first": "2026-08-31",
@@ -2102,12 +2108,6 @@
       "last": "2026-09-30"
     },
     {
-      "name": "NewsDrum",
-      "count": 1,
-      "first": "2026-10-21",
-      "last": "2026-10-21"
-    },
-    {
       "name": "NewsX",
       "count": 1,
       "first": "2026-07-23",
@@ -2220,6 +2220,12 @@
       "count": 1,
       "first": "2026-08-29",
       "last": "2026-08-29"
+    },
+    {
+      "name": "The Chenab Times",
+      "count": 1,
+      "first": "2026-11-04",
+      "last": "2026-11-04"
     },
     {
       "name": "The Cliff News",

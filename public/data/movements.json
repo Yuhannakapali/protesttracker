@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T17:52:49.441Z",
+  "lastUpdated": "2026-11-04T23:15:09.742Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -10,8 +10,8 @@
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 4255,
-      "updated": "18h ago",
+      "articleCount": 4259,
+      "updated": "23h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
         {
@@ -40,10 +40,15 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 1035,
-      "updated": "18h ago",
+      "articleCount": 1036,
+      "updated": "23h ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
+        {
+          "title": "Iran reacts to US election outcome after Democrats’ blue tsunami",
+          "source": "Daily Post Nigeria",
+          "date": "2026-11-04"
+        },
         {
           "title": "₦70,000 Transport Allowance: Labour veterans wade into crisis between NLC, TUC",
           "source": "Vanguard",
@@ -53,41 +58,36 @@
           "title": "Atiku vows to restore fuel subsidy, reopen borders, reduce pilgrimage costs",
           "source": "Vanguard",
           "date": "2026-11-04"
-        },
-        {
-          "title": "Oil Prices Drop After Trump’s Election Rout",
-          "source": "Channels Television",
-          "date": "2026-11-04"
         }
       ]
     },
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Active",
+      "status": "Escalating",
       "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 542,
-      "updated": "18h ago",
+      "articleCount": 544,
+      "updated": "23h ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
+        {
+          "title": "El arma definitiva del desierto: Jeep Wrangler Scrambler SRT Concept",
+          "source": "The Clinic",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "¿Por qué el Banco Central de Paraguay intervino el Ueno bank?",
+          "source": "Radio Universidad de Chile",
+          "date": "2026-11-04"
+        },
         {
           "title": "Workers Bear the Burden of AFP Losses: Nearly 360,000 Affected Upon Retirement with Another 86,000 Facing Reduced Pensions",
           "source": "El Ciudadano",
           "date": "2026-11-04"
-        },
-        {
-          "title": "Die Wette der AFPs: Fast 360.000 Beschäftigte betroffen bei der Pensionierung und 86.000 Renten gesenkt",
-          "source": "El Ciudadano",
-          "date": "2026-11-04"
-        },
-        {
-          "title": "Polémica por pensiones: Fondo Autónomo contempla aporte fiscal para 2027 aunque Hacienda no lo incluyó en el Presupuesto",
-          "source": "The Clinic",
-          "date": "2026-11-03"
         }
       ]
     },
@@ -100,10 +100,15 @@
       "location": "Kenya · Nairobi",
       "year": 2024,
       "logged": "2024-06-10",
-      "articleCount": 522,
-      "updated": "2d ago",
+      "articleCount": 524,
+      "updated": "23h ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
+        {
+          "title": "In Trump's shoes: How cost of living fuels fury among relentless voters",
+          "source": "The Standard",
+          "date": "2026-11-04"
+        },
         {
           "title": "Cost of living that could prove costly for Ruto",
           "source": "The Standard",
@@ -112,11 +117,6 @@
         {
           "title": "President RUTO issues personal apology to REX MASAI’s family over fatal police shooting during 2024 Gen Z protests",
           "source": "DAILY POST",
-          "date": "2026-10-29"
-        },
-        {
-          "title": "Ruto Sends Personal Apology to Rex Masai’s Family 2 Years After Fatal Shooting During Gen Z Protests",
-          "source": "Tuko News",
           "date": "2026-10-29"
         }
       ]
