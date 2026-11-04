@@ -179,11 +179,11 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2682
+      "count": 2683
     },
     {
       "start": "2026-11-01",
-      "count": 52
+      "count": 64
     }
   ],
   "sources": [
@@ -195,45 +195,45 @@
     },
     {
       "name": "The Times of India",
-      "count": 252,
+      "count": 253,
       "first": "2026-06-06",
-      "last": "2026-11-01"
+      "last": "2026-11-04"
     },
     {
       "name": "NDTV",
-      "count": 235,
+      "count": 236,
       "first": "2026-05-12",
       "last": "2026-11-04"
     },
     {
       "name": "Hindustan Times",
-      "count": 192,
+      "count": 193,
       "first": "2026-06-06",
-      "last": "2026-11-01"
+      "last": "2026-11-03"
     },
     {
       "name": "The New Indian Express",
-      "count": 188,
+      "count": 189,
       "first": "2026-07-22",
-      "last": "2026-10-31"
+      "last": "2026-11-04"
     },
     {
       "name": "The Indian Express",
-      "count": 166,
+      "count": 167,
       "first": "2026-07-24",
-      "last": "2026-11-03"
+      "last": "2026-11-04"
     },
     {
       "name": "India Today",
-      "count": 164,
+      "count": 165,
       "first": "2026-07-15",
-      "last": "2026-11-03"
+      "last": "2026-11-04"
     },
     {
       "name": "Telegraph India",
-      "count": 128,
+      "count": 129,
       "first": "2026-07-21",
-      "last": "2026-11-01"
+      "last": "2026-11-04"
     },
     {
       "name": "Rediff",
@@ -243,9 +243,9 @@
     },
     {
       "name": "The Economic Times",
-      "count": 98,
+      "count": 99,
       "first": "2026-06-06",
-      "last": "2026-10-31"
+      "last": "2026-11-04"
     },
     {
       "name": "ThePrint",
@@ -303,9 +303,15 @@
     },
     {
       "name": "Deccan Chronicle",
-      "count": 42,
+      "count": 43,
       "first": "2026-08-16",
-      "last": "2026-10-31"
+      "last": "2026-11-04"
+    },
+    {
+      "name": "Telangana Today",
+      "count": 41,
+      "first": "2026-07-25",
+      "last": "2026-11-04"
     },
     {
       "name": "Livemint",
@@ -314,28 +320,22 @@
       "last": "2026-11-02"
     },
     {
-      "name": "Telangana Today",
-      "count": 40,
-      "first": "2026-07-25",
-      "last": "2026-10-31"
-    },
-    {
       "name": "The Week",
       "count": 39,
       "first": "2026-07-27",
       "last": "2026-10-28"
     },
     {
+      "name": "Mid-Day",
+      "count": 36,
+      "first": "2026-08-23",
+      "last": "2026-11-04"
+    },
+    {
       "name": "TheWire.in",
       "count": 36,
       "first": "2026-07-11",
       "last": "2026-11-02"
-    },
-    {
-      "name": "Mid-Day",
-      "count": 35,
-      "first": "2026-08-23",
-      "last": "2026-10-28"
     },
     {
       "name": "DW.com",
@@ -362,16 +362,16 @@
       "last": "2026-11-03"
     },
     {
+      "name": "The Tribune",
+      "count": 30,
+      "first": "2026-08-15",
+      "last": "2026-11-04"
+    },
+    {
       "name": "Al Jazeera",
       "count": 29,
       "first": "2026-05-20",
       "last": "2026-10-21"
-    },
-    {
-      "name": "The Tribune",
-      "count": 29,
-      "first": "2026-08-15",
-      "last": "2026-11-01"
     },
     {
       "name": "Bhaskar English",
@@ -782,6 +782,12 @@
       "last": "2026-10-11"
     },
     {
+      "name": "LatestLY",
+      "count": 5,
+      "first": "2026-07-20",
+      "last": "2026-10-21"
+    },
+    {
       "name": "Millat Times",
       "count": 5,
       "first": "2026-08-21",
@@ -906,12 +912,6 @@
       "count": 4,
       "first": "2026-09-01",
       "last": "2026-10-02"
-    },
-    {
-      "name": "LatestLY",
-      "count": 4,
-      "first": "2026-07-20",
-      "last": "2026-10-21"
     },
     {
       "name": "Le Monde.fr",

@@ -823,7 +823,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 10
+      "count": 13
     }
   ],
   "sources": [
@@ -835,15 +835,15 @@
     },
     {
       "name": "Vanguard",
-      "count": 96,
+      "count": 98,
       "first": "2026-09-02",
-      "last": "2026-11-03"
+      "last": "2026-11-04"
     },
     {
       "name": "Channels Television",
-      "count": 76,
+      "count": 77,
       "first": "2012-01-04",
-      "last": "2026-11-02"
+      "last": "2026-11-04"
     },
     {
       "name": "The Guardian Nigeria News",
@@ -895,9 +895,9 @@
     },
     {
       "name": "Businessday NG",
-      "count": 24,
+      "count": 23,
       "first": "2020-10-02",
-      "last": "2026-11-03"
+      "last": "2026-10-27"
     },
     {
       "name": "The Sun Nigeria",
@@ -910,6 +910,12 @@
       "count": 20,
       "first": "2012-01-03",
       "last": "2026-10-09"
+    },
+    {
+      "name": "Business News Nigeria",
+      "count": 17,
+      "first": "2022-01-21",
+      "last": "2026-11-03"
     },
     {
       "name": "The Whistler Newspaper",
@@ -928,12 +934,6 @@
       "count": 16,
       "first": "2020-10-04",
       "last": "2026-06-04"
-    },
-    {
-      "name": "Business News Nigeria",
-      "count": 16,
-      "first": "2022-01-21",
-      "last": "2026-07-28"
     },
     {
       "name": "Al Jazeera",
@@ -1615,5 +1615,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-11-03"
+  "lastDate": "2026-11-04"
 }
