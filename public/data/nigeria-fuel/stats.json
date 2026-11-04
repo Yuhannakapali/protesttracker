@@ -111,7 +111,7 @@
     },
     {
       "start": "2012-01-01",
-      "count": 38
+      "count": 39
     },
     {
       "start": "2012-02-01",
@@ -719,7 +719,7 @@
     },
     {
       "start": "2024-09-01",
-      "count": 47
+      "count": 48
     },
     {
       "start": "2024-10-01",
@@ -918,6 +918,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "Tribune Online",
+      "count": 17,
+      "first": "2021-12-17",
+      "last": "2026-11-03"
+    },
+    {
       "name": "Arise News",
       "count": 16,
       "first": "2020-10-04",
@@ -928,12 +934,6 @@
       "count": 16,
       "first": "2022-01-21",
       "last": "2026-07-28"
-    },
-    {
-      "name": "Tribune Online",
-      "count": 16,
-      "first": "2021-12-17",
-      "last": "2026-11-03"
     },
     {
       "name": "Al Jazeera",
@@ -1126,6 +1126,12 @@
       "count": 2,
       "first": "2024-09-04",
       "last": "2024-09-05"
+    },
+    {
+      "name": "France 24",
+      "count": 2,
+      "first": "2012-01-10",
+      "last": "2012-01-16"
     },
     {
       "name": "Galaxy Television",
@@ -1348,12 +1354,6 @@
       "count": 1,
       "first": "2024-02-15",
       "last": "2024-02-15"
-    },
-    {
-      "name": "France 24",
-      "count": 1,
-      "first": "2012-01-16",
-      "last": "2012-01-16"
     },
     {
       "name": "Fresh Angle",
