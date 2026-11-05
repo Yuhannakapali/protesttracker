@@ -151,7 +151,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 2
+      "count": 3
     }
   ],
   "sources": [
@@ -246,6 +246,12 @@
       "last": "2026-06-23"
     },
     {
+      "name": "The Standard",
+      "count": 7,
+      "first": "2026-06-24",
+      "last": "2026-11-05"
+    },
+    {
       "name": "the-star.co.ke",
       "count": 7,
       "first": "2024-12-31",
@@ -280,12 +286,6 @@
       "count": 6,
       "first": "2026-04-03",
       "last": "2026-09-14"
-    },
-    {
-      "name": "The Standard",
-      "count": 6,
-      "first": "2026-06-24",
-      "last": "2026-11-04"
     },
     {
       "name": "Context News",
@@ -895,5 +895,5 @@
     }
   ],
   "firstDate": "2023-10-20",
-  "lastDate": "2026-11-04"
+  "lastDate": "2026-11-05"
 }

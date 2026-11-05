@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T23:15:09.742Z",
+  "lastUpdated": "2026-11-05T05:17:27.942Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -10,24 +10,24 @@
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 4259,
-      "updated": "23h ago",
+      "articleCount": 4264,
+      "updated": "5h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
         {
-          "title": "‘India next’: Congress, Cockroach Janta Party see message in US midterms verdict",
-          "source": "Telegraph India",
-          "date": "2026-11-04"
+          "title": "Contempt case against CJP's legal head over social media posts on Delhi judge",
+          "source": "Moneycontrol.com",
+          "date": "2026-11-05"
         },
         {
-          "title": "‘Lowered authority of court’: Government nod for criminal contempt case against CJP’s Ratna Singh",
-          "source": "The Indian Express",
-          "date": "2026-11-04"
+          "title": "Jitendra Singh alleges CJP activists got funds from Pakistan, US donors",
+          "source": "The News Mill",
+          "date": "2026-11-05"
         },
         {
-          "title": "Consent Granted to Initiate Contempt Proceedings Against CJP Leader",
-          "source": "Deccan Chronicle",
-          "date": "2026-11-04"
+          "title": "US donors, Pakistani politicians funding anti-SIR campaign in India: Jitendra Singh names CJP activists",
+          "source": "NewsDrum",
+          "date": "2026-11-05"
         }
       ]
     },
@@ -40,10 +40,15 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 1036,
-      "updated": "23h ago",
+      "articleCount": 1038,
+      "updated": "5h ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
+        {
+          "title": "Weak labour movement ‘ll hurt all, not just workers – NLC",
+          "source": "Vanguard",
+          "date": "2026-11-05"
+        },
         {
           "title": "Iran reacts to US election outcome after Democrats’ blue tsunami",
           "source": "Daily Post Nigeria",
@@ -53,25 +58,20 @@
           "title": "₦70,000 Transport Allowance: Labour veterans wade into crisis between NLC, TUC",
           "source": "Vanguard",
           "date": "2026-11-04"
-        },
-        {
-          "title": "Atiku vows to restore fuel subsidy, reopen borders, reduce pilgrimage costs",
-          "source": "Vanguard",
-          "date": "2026-11-04"
         }
       ]
     },
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 544,
-      "updated": "23h ago",
+      "articleCount": 545,
+      "updated": "1d ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
         {
@@ -100,10 +100,15 @@
       "location": "Kenya · Nairobi",
       "year": 2024,
       "logged": "2024-06-10",
-      "articleCount": 524,
-      "updated": "23h ago",
+      "articleCount": 525,
+      "updated": "5h ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
+        {
+          "title": "In Trump's shoes: How US midterm elections offer stark warning for Ruto",
+          "source": "The Standard",
+          "date": "2026-11-05"
+        },
         {
           "title": "In Trump's shoes: How cost of living fuels fury among relentless voters",
           "source": "The Standard",
@@ -113,11 +118,6 @@
           "title": "Cost of living that could prove costly for Ruto",
           "source": "The Standard",
           "date": "2026-11-03"
-        },
-        {
-          "title": "President RUTO issues personal apology to REX MASAI’s family over fatal police shooting during 2024 Gen Z protests",
-          "source": "DAILY POST",
-          "date": "2026-10-29"
         }
       ]
     }

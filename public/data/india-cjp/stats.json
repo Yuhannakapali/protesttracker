@@ -179,11 +179,11 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2683
+      "count": 2684
     },
     {
       "start": "2026-11-01",
-      "count": 68
+      "count": 72
     }
   ],
   "sources": [
@@ -231,9 +231,9 @@
     },
     {
       "name": "Telegraph India",
-      "count": 129,
+      "count": 130,
       "first": "2026-07-21",
-      "last": "2026-11-04"
+      "last": "2026-11-05"
     },
     {
       "name": "Rediff",
@@ -273,9 +273,9 @@
     },
     {
       "name": "The News Mill",
-      "count": 61,
+      "count": 62,
       "first": "2026-08-12",
-      "last": "2026-10-31"
+      "last": "2026-11-05"
     },
     {
       "name": "ETV Bharat",
@@ -297,9 +297,9 @@
     },
     {
       "name": "moneycontrol.com",
-      "count": 44,
+      "count": 45,
       "first": "2026-08-18",
-      "last": "2026-11-03"
+      "last": "2026-11-05"
     },
     {
       "name": "Deccan Chronicle",
@@ -674,6 +674,12 @@
       "last": "2026-10-24"
     },
     {
+      "name": "PTC News",
+      "count": 8,
+      "first": "2026-07-24",
+      "last": "2026-10-22"
+    },
+    {
       "name": "South China Morning Post",
       "count": 8,
       "first": "2026-09-25",
@@ -702,12 +708,6 @@
       "count": 7,
       "first": "2026-08-22",
       "last": "2026-10-21"
-    },
-    {
-      "name": "PTC News",
-      "count": 7,
-      "first": "2026-07-24",
-      "last": "2026-10-19"
     },
     {
       "name": "Republic World",
@@ -1112,6 +1112,12 @@
       "last": "2026-10-03"
     },
     {
+      "name": "NewsDrum",
+      "count": 3,
+      "first": "2026-10-21",
+      "last": "2026-11-05"
+    },
+    {
       "name": "NPR",
       "count": 3,
       "first": "2026-07-20",
@@ -1362,12 +1368,6 @@
       "count": 2,
       "first": "2026-09-28",
       "last": "2026-10-15"
-    },
-    {
-      "name": "NewsDrum",
-      "count": 2,
-      "first": "2026-10-21",
-      "last": "2026-11-04"
     },
     {
       "name": "NewsGram",
@@ -2523,5 +2523,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-04"
+  "lastDate": "2026-11-05"
 }
