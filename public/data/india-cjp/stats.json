@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 146
+      "count": 149
     }
   ],
   "sources": [
@@ -207,13 +207,13 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 197,
+      "count": 196,
       "first": "2026-06-06",
       "last": "2026-11-05"
     },
     {
       "name": "The New Indian Express",
-      "count": 192,
+      "count": 193,
       "first": "2026-07-22",
       "last": "2026-11-05"
     },
@@ -231,19 +231,19 @@
     },
     {
       "name": "Telegraph India",
-      "count": 133,
+      "count": 134,
       "first": "2026-07-21",
-      "last": "2026-11-05"
+      "last": "2026-11-06"
     },
     {
       "name": "Rediff",
-      "count": 109,
+      "count": 108,
       "first": "2026-06-07",
       "last": "2026-11-05"
     },
     {
       "name": "The Economic Times",
-      "count": 101,
+      "count": 102,
       "first": "2026-06-06",
       "last": "2026-11-05"
     },
@@ -291,9 +291,9 @@
     },
     {
       "name": "moneycontrol.com",
-      "count": 47,
+      "count": 48,
       "first": "2026-08-18",
-      "last": "2026-11-05"
+      "last": "2026-11-06"
     },
     {
       "name": "The Statesman",
@@ -1394,6 +1394,12 @@
       "last": "2026-09-25"
     },
     {
+      "name": "Nikkei Asia",
+      "count": 2,
+      "first": "2026-10-10",
+      "last": "2026-11-05"
+    },
+    {
       "name": "NorthEast India24",
       "count": 2,
       "first": "2026-09-27",
@@ -2114,12 +2120,6 @@
       "last": "2026-07-23"
     },
     {
-      "name": "Nikkei Asia",
-      "count": 1,
-      "first": "2026-10-10",
-      "last": "2026-10-10"
-    },
-    {
       "name": "NorthEast Now",
       "count": 1,
       "first": "2026-10-09",
@@ -2535,5 +2535,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-05"
+  "lastDate": "2026-11-06"
 }
