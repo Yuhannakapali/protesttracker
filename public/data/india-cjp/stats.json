@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 164
+      "count": 169
     }
   ],
   "sources": [
@@ -195,7 +195,7 @@
     },
     {
       "name": "The Times of India",
-      "count": 257,
+      "count": 258,
       "first": "2026-06-06",
       "last": "2026-11-06"
     },
@@ -207,15 +207,15 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 198,
+      "count": 199,
       "first": "2026-06-06",
-      "last": "2026-11-05"
+      "last": "2026-11-07"
     },
     {
       "name": "The New Indian Express",
-      "count": 193,
+      "count": 194,
       "first": "2026-07-22",
-      "last": "2026-11-05"
+      "last": "2026-11-07"
     },
     {
       "name": "The Indian Express",
@@ -249,7 +249,7 @@
     },
     {
       "name": "ThePrint",
-      "count": 99,
+      "count": 100,
       "first": "2026-06-19",
       "last": "2026-11-06"
     },
@@ -261,7 +261,7 @@
     },
     {
       "name": "Deccan Herald",
-      "count": 91,
+      "count": 90,
       "first": "2026-06-05",
       "last": "2026-11-05"
     },
@@ -291,9 +291,9 @@
     },
     {
       "name": "moneycontrol.com",
-      "count": 48,
+      "count": 49,
       "first": "2026-08-18",
-      "last": "2026-11-06"
+      "last": "2026-11-07"
     },
     {
       "name": "The Statesman",
@@ -386,16 +386,16 @@
       "last": "2026-10-17"
     },
     {
+      "name": "The Federal",
+      "count": 26,
+      "first": "2026-07-05",
+      "last": "2026-11-07"
+    },
+    {
       "name": "BBC",
       "count": 25,
       "first": "2026-05-21",
       "last": "2026-10-21"
-    },
-    {
-      "name": "The Federal",
-      "count": 25,
-      "first": "2026-07-05",
-      "last": "2026-11-05"
     },
     {
       "name": "The South First",
@@ -2535,5 +2535,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-06"
+  "lastDate": "2026-11-07"
 }
