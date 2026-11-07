@@ -167,7 +167,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 206
+      "count": 207
     },
     {
       "start": "2026-08-01",
@@ -183,13 +183,13 @@
     },
     {
       "start": "2026-11-01",
-      "count": 186
+      "count": 190
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 370,
+      "count": 371,
       "first": "2026-06-06",
       "last": "2026-11-07"
     },
@@ -219,9 +219,9 @@
     },
     {
       "name": "The Indian Express",
-      "count": 168,
+      "count": 169,
       "first": "2026-07-24",
-      "last": "2026-11-05"
+      "last": "2026-11-07"
     },
     {
       "name": "India Today",
@@ -231,9 +231,9 @@
     },
     {
       "name": "Telegraph India",
-      "count": 134,
+      "count": 135,
       "first": "2026-07-21",
-      "last": "2026-11-06"
+      "last": "2026-11-07"
     },
     {
       "name": "Rediff",
@@ -315,7 +315,7 @@
     },
     {
       "name": "The Week",
-      "count": 41,
+      "count": 42,
       "first": "2026-07-27",
       "last": "2026-11-07"
     },
@@ -351,9 +351,9 @@
     },
     {
       "name": "The Business Standard",
-      "count": 32,
+      "count": 31,
       "first": "2026-08-23",
-      "last": "2026-11-05"
+      "last": "2026-10-24"
     },
     {
       "name": "LawBeat",
@@ -530,6 +530,12 @@
       "last": "2026-10-15"
     },
     {
+      "name": "Udayavani",
+      "count": 13,
+      "first": "2026-07-18",
+      "last": "2026-11-05"
+    },
+    {
       "name": "NewsBytes",
       "count": 12,
       "first": "2026-08-20",
@@ -546,12 +552,6 @@
       "count": 12,
       "first": "2026-06-06",
       "last": "2026-10-02"
-    },
-    {
-      "name": "Udayavani",
-      "count": 12,
-      "first": "2026-07-18",
-      "last": "2026-11-05"
     },
     {
       "name": "Urban Acres",
@@ -1424,6 +1424,12 @@
       "last": "2026-08-24"
     },
     {
+      "name": "Onmanorama",
+      "count": 2,
+      "first": "2026-11-07",
+      "last": "2026-11-07"
+    },
+    {
       "name": "Pratidin Time",
       "count": 2,
       "first": "2026-07-30",
@@ -2136,12 +2142,6 @@
       "count": 1,
       "first": "2026-10-30",
       "last": "2026-10-30"
-    },
-    {
-      "name": "Onmanorama",
-      "count": 1,
-      "first": "2026-11-07",
-      "last": "2026-11-07"
     },
     {
       "name": "PBS",
