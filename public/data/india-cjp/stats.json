@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 169
+      "count": 175
     }
   ],
   "sources": [
@@ -207,13 +207,13 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 199,
+      "count": 200,
       "first": "2026-06-06",
       "last": "2026-11-07"
     },
     {
       "name": "The New Indian Express",
-      "count": 194,
+      "count": 196,
       "first": "2026-07-22",
       "last": "2026-11-07"
     },
@@ -309,21 +309,21 @@
     },
     {
       "name": "Telangana Today",
-      "count": 43,
+      "count": 44,
       "first": "2026-07-25",
-      "last": "2026-11-05"
+      "last": "2026-11-07"
+    },
+    {
+      "name": "The Week",
+      "count": 41,
+      "first": "2026-07-27",
+      "last": "2026-11-07"
     },
     {
       "name": "Livemint",
       "count": 40,
       "first": "2026-08-16",
       "last": "2026-11-02"
-    },
-    {
-      "name": "The Week",
-      "count": 40,
-      "first": "2026-07-27",
-      "last": "2026-11-05"
     },
     {
       "name": "Mid-Day",
@@ -2130,6 +2130,12 @@
       "count": 1,
       "first": "2026-10-30",
       "last": "2026-10-30"
+    },
+    {
+      "name": "Onmanorama",
+      "count": 1,
+      "first": "2026-11-07",
+      "last": "2026-11-07"
     },
     {
       "name": "PBS",
