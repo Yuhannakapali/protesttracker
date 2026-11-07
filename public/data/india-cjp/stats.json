@@ -183,21 +183,21 @@
     },
     {
       "start": "2026-11-01",
-      "count": 175
+      "count": 186
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 368,
+      "count": 370,
       "first": "2026-06-06",
-      "last": "2026-11-05"
+      "last": "2026-11-07"
     },
     {
       "name": "The Times of India",
-      "count": 258,
+      "count": 259,
       "first": "2026-06-06",
-      "last": "2026-11-06"
+      "last": "2026-11-07"
     },
     {
       "name": "NDTV",
@@ -207,7 +207,7 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 200,
+      "count": 201,
       "first": "2026-06-06",
       "last": "2026-11-07"
     },
@@ -243,13 +243,13 @@
     },
     {
       "name": "The Economic Times",
-      "count": 101,
+      "count": 103,
       "first": "2026-06-06",
-      "last": "2026-11-05"
+      "last": "2026-11-07"
     },
     {
       "name": "ThePrint",
-      "count": 100,
+      "count": 99,
       "first": "2026-06-19",
       "last": "2026-11-06"
     },
@@ -279,9 +279,9 @@
     },
     {
       "name": "Outlook India",
-      "count": 51,
+      "count": 52,
       "first": "2026-08-17",
-      "last": "2026-11-05"
+      "last": "2026-11-07"
     },
     {
       "name": "ETV Bharat",
@@ -291,7 +291,7 @@
     },
     {
       "name": "moneycontrol.com",
-      "count": 49,
+      "count": 50,
       "first": "2026-08-18",
       "last": "2026-11-07"
     },
@@ -351,9 +351,9 @@
     },
     {
       "name": "The Business Standard",
-      "count": 31,
+      "count": 32,
       "first": "2026-08-23",
-      "last": "2026-10-24"
+      "last": "2026-11-05"
     },
     {
       "name": "LawBeat",
@@ -374,16 +374,16 @@
       "last": "2026-10-21"
     },
     {
+      "name": "EdexLive",
+      "count": 27,
+      "first": "2024-06-18",
+      "last": "2026-11-07"
+    },
+    {
       "name": "Bhaskar English",
       "count": 26,
       "first": "2026-07-22",
       "last": "2026-10-20"
-    },
-    {
-      "name": "EdexLive",
-      "count": 26,
-      "first": "2024-06-18",
-      "last": "2026-10-17"
     },
     {
       "name": "The Federal",
@@ -692,6 +692,12 @@
       "last": "2026-10-17"
     },
     {
+      "name": "Times Now",
+      "count": 8,
+      "first": "2026-08-27",
+      "last": "2026-11-07"
+    },
+    {
       "name": "ABC News & Headlines – Australian Broadcasting Corporation",
       "count": 7,
       "first": "2026-10-02",
@@ -732,12 +738,6 @@
       "count": 7,
       "first": "2026-08-22",
       "last": "2026-10-30"
-    },
-    {
-      "name": "Times Now",
-      "count": 7,
-      "first": "2026-08-27",
-      "last": "2026-11-04"
     },
     {
       "name": "CNA",
@@ -1788,6 +1788,12 @@
       "count": 1,
       "first": "2026-07-10",
       "last": "2026-07-10"
+    },
+    {
+      "name": "Fair Observer",
+      "count": 1,
+      "first": "2026-11-07",
+      "last": "2026-11-07"
     },
     {
       "name": "First India",
