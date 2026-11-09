@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 195
+      "count": 196
     }
   ],
   "sources": [
@@ -1850,6 +1850,12 @@
       "last": "2026-09-27"
     },
     {
+      "name": "HinduPost",
+      "count": 1,
+      "first": "2026-11-09",
+      "last": "2026-11-09"
+    },
+    {
       "name": "Hindus for Human Rights",
       "count": 1,
       "first": "2026-07-07",
@@ -2547,5 +2553,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-08"
+  "lastDate": "2026-11-09"
 }

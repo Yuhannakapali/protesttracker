@@ -823,7 +823,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 31
+      "count": 32
     }
   ],
   "sources": [
@@ -966,16 +966,16 @@
       "last": "2025-09-16"
     },
     {
+      "name": "The Nation Newspaper",
+      "count": 10,
+      "first": "2022-01-10",
+      "last": "2026-11-09"
+    },
+    {
       "name": "Nigeria Labour Congress (NLC)",
       "count": 9,
       "first": "2020-09-22",
       "last": "2026-06-03"
-    },
-    {
-      "name": "The Nation Newspaper",
-      "count": 9,
-      "first": "2022-01-10",
-      "last": "2026-10-12"
     },
     {
       "name": "TVC News",
@@ -1633,5 +1633,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-11-08"
+  "lastDate": "2026-11-09"
 }
