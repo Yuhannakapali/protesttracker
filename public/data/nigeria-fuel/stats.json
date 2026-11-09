@@ -823,7 +823,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 32
+      "count": 41
     }
   ],
   "sources": [
@@ -835,9 +835,9 @@
     },
     {
       "name": "Vanguard",
-      "count": 102,
+      "count": 103,
       "first": "2026-09-02",
-      "last": "2026-11-08"
+      "last": "2026-11-09"
     },
     {
       "name": "Channels Television",
@@ -853,9 +853,9 @@
     },
     {
       "name": "Vanguard News",
-      "count": 52,
+      "count": 53,
       "first": "2012-03-08",
-      "last": "2026-10-24"
+      "last": "2026-11-09"
     },
     {
       "name": "Premium Times Nigeria",
@@ -876,16 +876,16 @@
       "last": "2026-10-20"
     },
     {
+      "name": "Premium Times",
+      "count": 28,
+      "first": "2026-09-11",
+      "last": "2026-11-09"
+    },
+    {
       "name": "Ripples Nigeria",
       "count": 28,
       "first": "2023-06-01",
       "last": "2026-10-29"
-    },
-    {
-      "name": "Premium Times",
-      "count": 27,
-      "first": "2026-09-11",
-      "last": "2026-11-07"
     },
     {
       "name": "TheCable",
@@ -901,9 +901,9 @@
     },
     {
       "name": "The Sun Nigeria",
-      "count": 22,
+      "count": 23,
       "first": "2022-11-30",
-      "last": "2026-11-01"
+      "last": "2026-11-09"
     },
     {
       "name": "PM News Nigeria",
@@ -912,16 +912,16 @@
       "last": "2026-10-09"
     },
     {
+      "name": "Business News Nigeria",
+      "count": 18,
+      "first": "2022-01-21",
+      "last": "2026-11-09"
+    },
+    {
       "name": "Tribune Online",
       "count": 18,
       "first": "2021-12-17",
       "last": "2026-11-08"
-    },
-    {
-      "name": "Business News Nigeria",
-      "count": 17,
-      "first": "2022-01-21",
-      "last": "2026-11-03"
     },
     {
       "name": "The Whistler Newspaper",
@@ -1050,6 +1050,12 @@
       "last": "2026-10-20"
     },
     {
+      "name": "Head Topics",
+      "count": 4,
+      "first": "2026-08-28",
+      "last": "2026-11-09"
+    },
+    {
       "name": "News Agency of Nigeria",
       "count": 4,
       "first": "2026-10-08",
@@ -1080,12 +1086,6 @@
       "last": "2026-10-21"
     },
     {
-      "name": "Head Topics",
-      "count": 3,
-      "first": "2026-08-28",
-      "last": "2026-10-12"
-    },
-    {
       "name": "Nigerian Bulletin",
       "count": 3,
       "first": "2024-09-02",
@@ -1096,6 +1096,12 @@
       "count": 3,
       "first": "2024-09-04",
       "last": "2026-10-23"
+    },
+    {
+      "name": "Opinion Nigeria",
+      "count": 3,
+      "first": "2026-03-24",
+      "last": "2026-11-09"
     },
     {
       "name": "VOA Africa",
@@ -1170,12 +1176,6 @@
       "last": "2026-10-07"
     },
     {
-      "name": "Opinion Nigeria",
-      "count": 2,
-      "first": "2026-03-24",
-      "last": "2026-06-08"
-    },
-    {
       "name": "premiumtimesng.com",
       "count": 2,
       "first": "2024-06-03",
@@ -1224,6 +1224,12 @@
       "last": "2026-09-26"
     },
     {
+      "name": "Western Post",
+      "count": 2,
+      "first": "2026-11-03",
+      "last": "2026-11-09"
+    },
+    {
       "name": "YNaija",
       "count": 2,
       "first": "2025-07-24",
@@ -1234,6 +1240,12 @@
       "count": 1,
       "first": "2012-01-17",
       "last": "2012-01-17"
+    },
+    {
+      "name": "ABN TV",
+      "count": 1,
+      "first": "2026-11-09",
+      "last": "2026-11-09"
     },
     {
       "name": "Africanews",
@@ -1618,12 +1630,6 @@
       "count": 1,
       "first": "2012-04-15",
       "last": "2012-04-15"
-    },
-    {
-      "name": "Western Post",
-      "count": 1,
-      "first": "2026-11-03",
-      "last": "2026-11-03"
     },
     {
       "name": "شبكة تواصل الإخبارية",
