@@ -151,7 +151,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 3
+      "count": 5
     }
   ],
   "sources": [
@@ -240,16 +240,16 @@
       "last": "2026-07-28"
     },
     {
+      "name": "The Standard",
+      "count": 8,
+      "first": "2026-06-24",
+      "last": "2026-11-09"
+    },
+    {
       "name": "The Conversation",
       "count": 7,
       "first": "2024-06-22",
       "last": "2026-06-23"
-    },
-    {
-      "name": "The Standard",
-      "count": 7,
-      "first": "2026-06-24",
-      "last": "2026-11-05"
     },
     {
       "name": "the-star.co.ke",
@@ -288,6 +288,12 @@
       "last": "2026-09-14"
     },
     {
+      "name": "Capital FM",
+      "count": 5,
+      "first": "2026-04-21",
+      "last": "2026-11-09"
+    },
+    {
       "name": "Context News",
       "count": 5,
       "first": "2024-06-26",
@@ -304,12 +310,6 @@
       "count": 4,
       "first": "2024-08-13",
       "last": "2026-06-25"
-    },
-    {
-      "name": "Capital FM",
-      "count": 4,
-      "first": "2026-04-21",
-      "last": "2026-10-21"
     },
     {
       "name": "Dawan Africa",
@@ -895,5 +895,5 @@
     }
   ],
   "firstDate": "2023-10-20",
-  "lastDate": "2026-11-05"
+  "lastDate": "2026-11-09"
 }

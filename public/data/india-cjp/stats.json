@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 196
+      "count": 198
     }
   ],
   "sources": [
@@ -327,9 +327,9 @@
     },
     {
       "name": "Mid-Day",
-      "count": 38,
+      "count": 39,
       "first": "2026-08-23",
-      "last": "2026-11-05"
+      "last": "2026-11-09"
     },
     {
       "name": "TheWire.in",
@@ -782,6 +782,12 @@
       "last": "2026-07-25"
     },
     {
+      "name": "Cityairnews",
+      "count": 5,
+      "first": "2026-09-17",
+      "last": "2026-11-06"
+    },
+    {
       "name": "Daily Sabah",
       "count": 5,
       "first": "2026-09-25",
@@ -882,12 +888,6 @@
       "count": 4,
       "first": "2026-08-07",
       "last": "2026-10-14"
-    },
-    {
-      "name": "Cityairnews",
-      "count": 4,
-      "first": "2026-09-17",
-      "last": "2026-10-21"
     },
     {
       "name": "Eastern Mirror",
