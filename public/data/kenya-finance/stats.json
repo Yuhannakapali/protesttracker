@@ -35,7 +35,7 @@
     },
     {
       "start": "2024-06-01",
-      "count": 69
+      "count": 70
     },
     {
       "start": "2024-07-01",
@@ -151,7 +151,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 5
+      "count": 6
     }
   ],
   "sources": [
@@ -234,16 +234,16 @@
       "last": "2026-08-27"
     },
     {
+      "name": "The Standard",
+      "count": 9,
+      "first": "2026-06-24",
+      "last": "2026-11-10"
+    },
+    {
       "name": "Kenyans.co.ke",
       "count": 8,
       "first": "2026-05-02",
       "last": "2026-07-28"
-    },
-    {
-      "name": "The Standard",
-      "count": 8,
-      "first": "2026-06-24",
-      "last": "2026-11-09"
     },
     {
       "name": "The Conversation",
@@ -334,6 +334,12 @@
       "count": 3,
       "first": "2024-06-18",
       "last": "2026-05-24"
+    },
+    {
+      "name": "CNN",
+      "count": 3,
+      "first": "2024-06-20",
+      "last": "2024-06-27"
     },
     {
       "name": "Democracy in Africa",
@@ -442,12 +448,6 @@
       "count": 2,
       "first": "2024-06-27",
       "last": "2024-07-01"
-    },
-    {
-      "name": "CNN",
-      "count": 2,
-      "first": "2024-06-26",
-      "last": "2024-06-27"
     },
     {
       "name": "Friedrich Naumann Foundation",
@@ -895,5 +895,5 @@
     }
   ],
   "firstDate": "2023-10-20",
-  "lastDate": "2026-11-09"
+  "lastDate": "2026-11-10"
 }

@@ -823,7 +823,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 45
+      "count": 46
     }
   ],
   "sources": [
@@ -1086,6 +1086,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "Blueprint Newspapers",
+      "count": 3,
+      "first": "2026-10-07",
+      "last": "2026-11-10"
+    },
+    {
       "name": "New Telegraph",
       "count": 3,
       "first": "2024-09-05",
@@ -1120,12 +1126,6 @@
       "count": 2,
       "first": "2016-05-18",
       "last": "2021-03-12"
-    },
-    {
-      "name": "Blueprint Newspapers",
-      "count": 2,
-      "first": "2026-10-07",
-      "last": "2026-10-21"
     },
     {
       "name": "Daily Report Nigeria",
@@ -1645,5 +1645,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-11-09"
+  "lastDate": "2026-11-10"
 }

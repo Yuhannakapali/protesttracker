@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 198
+      "count": 200
     }
   ],
   "sources": [
@@ -219,9 +219,9 @@
     },
     {
       "name": "The Indian Express",
-      "count": 169,
+      "count": 170,
       "first": "2026-07-24",
-      "last": "2026-11-07"
+      "last": "2026-11-09"
     },
     {
       "name": "India Today",
@@ -656,6 +656,12 @@
       "last": "2026-10-28"
     },
     {
+      "name": "OrissaPOST",
+      "count": 9,
+      "first": "2026-08-16",
+      "last": "2026-11-05"
+    },
+    {
       "name": "timesofindia.indiatimes.com",
       "count": 9,
       "first": "2026-07-26",
@@ -672,12 +678,6 @@
       "count": 8,
       "first": "2026-09-18",
       "last": "2026-10-22"
-    },
-    {
-      "name": "OrissaPOST",
-      "count": 8,
-      "first": "2026-08-16",
-      "last": "2026-10-24"
     },
     {
       "name": "PTC News",
