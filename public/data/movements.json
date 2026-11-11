@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T22:53:03.656Z",
+  "lastUpdated": "2026-11-11T04:50:58.856Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -10,18 +10,18 @@
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 4399,
-      "updated": "23h ago",
+      "articleCount": 4400,
+      "updated": "5h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
         {
-          "title": "CJP leader Abhijeet Dipke cites festival engagements as he skips police summons, seeks fresh date",
-          "source": "Telegraph India",
-          "date": "2026-11-10"
+          "title": "Bihar Board Opens Registration For Free JEE, NEET Coaching 2027; Apply By November 19",
+          "source": "NDTV",
+          "date": "2026-11-11"
         },
         {
-          "title": "CJP Founder Abhijeet Dipke Gets One-Day Court Exemption on Medical Grounds, Next Hearing on Dec 2",
-          "source": "Republic World",
+          "title": "CJP leader Abhijeet Dipke cites festival engagements as he skips police summons, seeks fresh date",
+          "source": "Telegraph India",
           "date": "2026-11-10"
         },
         {
@@ -34,24 +34,24 @@
     {
       "id": "nigeria-fuel",
       "name": "Fuel Subsidy Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Africa",
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 1077,
-      "updated": "23h ago",
+      "articleCount": 1078,
+      "updated": "5h ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
         {
-          "title": "Civil Society Decries Osun NLC Strike",
-          "source": "THISDAYLIVE",
-          "date": "2026-11-10"
+          "title": "NLC Backs Osun Workers’ Strike, Demands Release Of Withheld LG Funds",
+          "source": "Head Topics",
+          "date": "2026-11-11"
         },
         {
-          "title": "Osun CSO berates NLC over sympathy strike",
-          "source": "Vanguard News",
+          "title": "Civil Society Decries Osun NLC Strike",
+          "source": "THISDAYLIVE",
           "date": "2026-11-10"
         },
         {
@@ -100,24 +100,24 @@
       "location": "Kenya · Nairobi",
       "year": 2024,
       "logged": "2024-06-10",
-      "articleCount": 530,
-      "updated": "23h ago",
+      "articleCount": 532,
+      "updated": "1d ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
+        {
+          "title": "Gachagua fires back at Ruto over remarks on young people taking up leadership",
+          "source": "People Daily",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "Ruto and Gachagua trade blows as Kenya’s 2027 election battle turns brutal",
+          "source": "The Mt Kenya Times",
+          "date": "2026-11-10"
+        },
         {
           "title": "Gen Z graves turned into bureaucratic punchline as officials demand Sh150,000 in bribes from grieving parents",
           "source": "The Standard",
           "date": "2026-11-10"
-        },
-        {
-          "title": "Muturi questions compensation of protest victims after task force report of one fatality",
-          "source": "Capital FM",
-          "date": "2026-11-09"
-        },
-        {
-          "title": "Mocking the dead: Outrage as Mutua panel verifies one Gen Z death, faces kickback claims",
-          "source": "The Standard",
-          "date": "2026-11-09"
         }
       ]
     }

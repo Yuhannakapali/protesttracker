@@ -823,7 +823,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 52
+      "count": 53
     }
   ],
   "sources": [
@@ -1026,6 +1026,12 @@
       "last": "2024-06-03"
     },
     {
+      "name": "Head Topics",
+      "count": 5,
+      "first": "2026-08-28",
+      "last": "2026-11-11"
+    },
+    {
       "name": "Legit.ng",
       "count": 5,
       "first": "2024-08-11",
@@ -1048,12 +1054,6 @@
       "count": 4,
       "first": "2026-02-03",
       "last": "2026-10-20"
-    },
-    {
-      "name": "Head Topics",
-      "count": 4,
-      "first": "2026-08-28",
-      "last": "2026-11-09"
     },
     {
       "name": "News Agency of Nigeria",
@@ -1651,5 +1651,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-11-10"
+  "lastDate": "2026-11-11"
 }

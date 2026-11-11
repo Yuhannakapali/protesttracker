@@ -151,7 +151,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 6
+      "count": 8
     }
   ],
   "sources": [
@@ -163,9 +163,9 @@
     },
     {
       "name": "People Daily",
-      "count": 49,
+      "count": 50,
       "first": "2025-11-02",
-      "last": "2026-10-29"
+      "last": "2026-11-10"
     },
     {
       "name": "BBC",
@@ -820,6 +820,12 @@
       "count": 1,
       "first": "2024-07-17",
       "last": "2024-07-17"
+    },
+    {
+      "name": "The Mt Kenya Times",
+      "count": 1,
+      "first": "2026-11-10",
+      "last": "2026-11-10"
     },
     {
       "name": "The Washington Post",
