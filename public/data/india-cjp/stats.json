@@ -163,7 +163,7 @@
     },
     {
       "start": "2026-06-01",
-      "count": 29
+      "count": 30
     },
     {
       "start": "2026-07-01",
@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 209
+      "count": 210
     }
   ],
   "sources": [
@@ -213,9 +213,9 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 196,
+      "count": 197,
       "first": "2026-07-22",
-      "last": "2026-11-07"
+      "last": "2026-11-12"
     },
     {
       "name": "The Indian Express",
@@ -422,16 +422,16 @@
       "last": "2026-10-26"
     },
     {
+      "name": "Reuters",
+      "count": 20,
+      "first": "2026-06-01",
+      "last": "2026-10-21"
+    },
+    {
       "name": "Scroll.in",
       "count": 20,
       "first": "2026-07-26",
       "last": "2026-11-03"
-    },
-    {
-      "name": "Reuters",
-      "count": 19,
-      "first": "2026-07-25",
-      "last": "2026-10-21"
     },
     {
       "name": "Pragativadi",
@@ -2559,5 +2559,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-11"
+  "lastDate": "2026-11-12"
 }
