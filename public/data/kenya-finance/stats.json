@@ -151,7 +151,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 8
+      "count": 9
     }
   ],
   "sources": [
@@ -186,16 +186,16 @@
       "last": "2026-06-27"
     },
     {
+      "name": "The Africa Report",
+      "count": 20,
+      "first": "2024-06-25",
+      "last": "2026-11-12"
+    },
+    {
       "name": "The Eastleigh Voice",
       "count": 20,
       "first": "2024-07-03",
       "last": "2026-08-27"
-    },
-    {
-      "name": "The Africa Report",
-      "count": 19,
-      "first": "2024-06-25",
-      "last": "2026-06-25"
     },
     {
       "name": "The Star, Kenya",
@@ -901,5 +901,5 @@
     }
   ],
   "firstDate": "2023-10-20",
-  "lastDate": "2026-11-10"
+  "lastDate": "2026-11-12"
 }

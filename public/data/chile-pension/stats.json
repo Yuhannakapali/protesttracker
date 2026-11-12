@@ -583,7 +583,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 20
+      "count": 24
     }
   ],
   "sources": [
@@ -595,21 +595,21 @@
     },
     {
       "name": "The Clinic",
-      "count": 55,
+      "count": 57,
       "first": "2016-07-25",
-      "last": "2026-11-06"
-    },
-    {
-      "name": "La Izquierda Diario",
-      "count": 39,
-      "first": "2015-04-23",
-      "last": "2026-11-02"
+      "last": "2026-11-12"
     },
     {
       "name": "Radio Universidad de Chile",
-      "count": 37,
+      "count": 39,
       "first": "2026-09-16",
-      "last": "2026-11-09"
+      "last": "2026-11-12"
+    },
+    {
+      "name": "La Izquierda Diario",
+      "count": 38,
+      "first": "2015-04-23",
+      "last": "2026-11-02"
     },
     {
       "name": "DW.com",
@@ -880,6 +880,12 @@
       "count": 2,
       "first": "2017-12-17",
       "last": "2017-12-18"
+    },
+    {
+      "name": "La Izquierda Diario Chile",
+      "count": 2,
+      "first": "2020-07-20",
+      "last": "2021-05-24"
     },
     {
       "name": "lared.cl",
@@ -1350,12 +1356,6 @@
       "last": "2025-09-22"
     },
     {
-      "name": "La Izquierda Diario Chile",
-      "count": 1,
-      "first": "2020-07-20",
-      "last": "2020-07-20"
-    },
-    {
       "name": "La Izquierda Diario Uruguay",
       "count": 1,
       "first": "2016-10-25",
@@ -1747,5 +1747,5 @@
     }
   ],
   "firstDate": "2014-10-10",
-  "lastDate": "2026-11-09"
+  "lastDate": "2026-11-12"
 }

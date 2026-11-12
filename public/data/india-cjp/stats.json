@@ -175,7 +175,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 656
+      "count": 657
     },
     {
       "start": "2026-10-01",
@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 216
+      "count": 217
     }
   ],
   "sources": [
@@ -446,22 +446,28 @@
       "last": "2026-10-21"
     },
     {
+      "name": "Daily Pioneer",
+      "count": 17,
+      "first": "2026-08-17",
+      "last": "2026-11-06"
+    },
+    {
       "name": "Inshorts",
       "count": 17,
       "first": "2026-08-16",
       "last": "2026-11-05"
     },
     {
+      "name": "OpIndia",
+      "count": 17,
+      "first": "2026-08-17",
+      "last": "2026-11-11"
+    },
+    {
       "name": "Bar and Bench",
       "count": 16,
       "first": "2026-08-07",
       "last": "2026-11-05"
-    },
-    {
-      "name": "Daily Pioneer",
-      "count": 16,
-      "first": "2026-08-17",
-      "last": "2026-11-06"
     },
     {
       "name": "DNA India",
@@ -480,12 +486,6 @@
       "count": 16,
       "first": "2026-08-12",
       "last": "2026-10-28"
-    },
-    {
-      "name": "OpIndia",
-      "count": 16,
-      "first": "2026-08-17",
-      "last": "2026-11-11"
     },
     {
       "name": "LawChakra",
