@@ -7174,7 +7174,8 @@
         "advocate",
         "ahmedsadak",
         "lawyers",
-        "release"
+        "release",
+        "take"
       ],
       "domains": [
         "the-star.co.ke",
@@ -7193,7 +7194,7 @@
         "2026-10-19",
         "2026-11-06"
       ],
-      "articleCount": 15,
+      "articleCount": 16,
       "firstSeen": "2026-09-10",
       "lastSeen": "2026-11-06",
       "samples": [
@@ -8527,186 +8528,6 @@
         }
       ]
     },
-    "united-kingdom:full-knows-nato": {
-      "id": "united-kingdom:full-knows-nato",
-      "country": "United Kingdom",
-      "terms": [
-        "full",
-        "knows",
-        "nuclear",
-        "risking",
-        "weighing",
-        "nato",
-        "putin",
-        "war",
-        "bizarre",
-        "show",
-        "wargame",
-        "response",
-        "sky",
-        "issues",
-        "possible",
-        "referencing",
-        "warns",
-        "russia",
-        "hypothetical",
-        "nuke",
-        "warning",
-        "arctic",
-        "strength",
-        "britain",
-        "sail",
-        "warship",
-        "biggest",
-        "atlantic",
-        "hms",
-        "wales",
-        "prince",
-        "brits",
-        "travelling",
-        "italy"
-      ],
-      "domains": [
-        "aol.co.uk",
-        "dailyrecord.co.uk",
-        "nottinghampost.com",
-        "metro.co.uk",
-        "independent.co.uk",
-        "echo-news.co.uk",
-        "lancashiretelegraph.co.uk"
-      ],
-      "daysSeen": [
-        "2026-09-25",
-        "2026-09-29",
-        "2026-10-19",
-        "2026-10-18",
-        "2026-10-22"
-      ],
-      "articleCount": 8,
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Putin  knows he risking nuclear war with NATO but is weighing up full strike against united kingdom",
-          "url": "https://www.aol.co.uk/articles/putin-knows-hes-risking-nuclear-060000000.html",
-          "domain": "aol.co.uk",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "Putin issues nuclear strike warning in bizarre response to Sky TV  wargame  show",
-          "url": "https://www.dailyrecord.co.uk/news/uk-world-news/putin-issues-nuclear-strike-warning-37713689",
-          "domain": "dailyrecord.co.uk",
-          "date": "2026-09-29"
-        },
-        {
-          "title": "Russia warns united kingdom of possible nuclear response referencing Sky TV The Wargame",
-          "url": "https://www.nottinghampost.com/news/uk-world-news/russia-warns-uk-possible-nuclear-11176721",
-          "domain": "nottinghampost.com",
-          "date": "2026-09-29"
-        },
-        {
-          "title": "Russia issues nuke warning to united kingdom in bizarre response to hypothetical Sky TV show",
-          "url": "https://metro.co.uk/2026/09/29/russia-issues-nuke-warning-uk-bizarre-response-hypothetical-sky-tv-show-29662513/",
-          "domain": "metro.co.uk",
-          "date": "2026-09-29"
-        },
-        {
-          "title": "Britain biggest warship sets sail for the Arctic in latest NATO show of strength",
-          "url": "https://www.independent.co.uk/news/uk/home-news/hms-prince-wales-portsmouth-arctic-deployment-b3068854.html",
-          "domain": "independent.co.uk",
-          "date": "2026-10-19"
-        }
-      ]
-    },
-    "south-africa:crisis-guardian-mail": {
-      "id": "south-africa:crisis-guardian-mail",
-      "country": "South Africa",
-      "terms": [
-        "peacekeeping",
-        "guardian",
-        "mail",
-        "crisis",
-        "berlinda",
-        "elspeth",
-        "khwinana",
-        "nomahlubi",
-        "nhlamulo",
-        "tlakula",
-        "escape",
-        "mabe",
-        "route",
-        "dead",
-        "end",
-        "hits",
-        "lose",
-        "plot",
-        "wars",
-        "zoning",
-        "when",
-        "rules",
-        "chery",
-        "leap",
-        "smear",
-        "stop",
-        "campaign",
-        "hypocrisy",
-        "tehran",
-        "arms",
-        "france",
-        "jackpot",
-        "real",
-        "vote",
-        "your",
-        "short",
-        "oil",
-        "global"
-      ],
-      "domains": [
-        "mg.co.za"
-      ],
-      "daysSeen": [
-        "2026-09-28",
-        "2026-10-02",
-        "2026-10-01",
-        "2026-10-16",
-        "2026-10-22"
-      ],
-      "articleCount": 29,
-      "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "UN Peacekeeping in Crisis | Mail & Guardian",
-          "url": "https://mg.co.za/thought-leader/2026-09-28-un-peacekeeping-in-crisis/",
-          "domain": "mg.co.za",
-          "date": "2026-09-28"
-        },
-        {
-          "title": "Elspeth Nomahlubi Berlinda Khwinana | Mail & Guardian",
-          "url": "https://mg.co.za/2026-10-02-elspeth-nomahlubi-berlinda-khwinana/",
-          "domain": "mg.co.za",
-          "date": "2026-10-02"
-        },
-        {
-          "title": "Nhlamulo Tlakula | Mail & Guardian",
-          "url": "https://mg.co.za/2026-10-01-nhlamulo-tlakula/",
-          "domain": "mg.co.za",
-          "date": "2026-10-02"
-        },
-        {
-          "title": "Mabe escape route hits a dead end | Mail & Guardian",
-          "url": "https://mg.co.za/news/south-africa/2026-10-01-mabe-s-escape-route-hits-a-dead-end/",
-          "domain": "mg.co.za",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "UN Peacekeeping in Crisis | Mail & Guardian",
-          "url": "https://mg.co.za/thought-leader/2026-09-28-un-peacekeeping-in-crisis/",
-          "domain": "mg.co.za",
-          "date": "2026-09-28"
-        }
-      ]
-    },
     "south-africa:cape-conflict-galloway": {
       "id": "south-africa:cape-conflict-galloway",
       "country": "South Africa",
@@ -8871,143 +8692,6 @@
           "url": "https://www.timeslive.co.za/news/south-africa/2026-09-30-local-elections-force-sassa-to-review-november-grant-payments/",
           "domain": "timeslive.co.za",
           "date": "2026-09-30"
-        }
-      ]
-    },
-    "south-africa:bill-diesel-eskom": {
-      "id": "south-africa:bill-diesel-eskom",
-      "country": "South Africa",
-      "terms": [
-        "slashes",
-        "spikes",
-        "diesel",
-        "while",
-        "eskom",
-        "price",
-        "fuel",
-        "bill",
-        "economist",
-        "further",
-        "job",
-        "strain",
-        "hikes",
-        "market",
-        "spending",
-        "steep",
-        "nearly",
-        "cuts",
-        "warns",
-        "budget",
-        "costs",
-        "nigeria",
-        "subsidy",
-        "imf",
-        "risks",
-        "angola",
-        "projected",
-        "subsidies",
-        "billion",
-        "hit",
-        "austerity",
-        "cosatu",
-        "parliament",
-        "leads",
-        "clears",
-        "petroleum",
-        "reading",
-        "disputed",
-        "namibia",
-        "second",
-        "shutdown",
-        "speech",
-        "total",
-        "next",
-        "again",
-        "godongwana",
-        "provides",
-        "mtbps",
-        "cost",
-        "relief",
-        "gnu",
-        "levy",
-        "muted",
-        "slams",
-        "opposition",
-        "offers",
-        "exposes",
-        "freedom",
-        "gap",
-        "economic",
-        "political",
-        "gone",
-        "capital",
-        "petrol",
-        "private",
-        "drive",
-        "phase",
-        "growth",
-        "enoch",
-        "medium",
-        "statement",
-        "policy",
-        "term",
-        "minister"
-      ],
-      "domains": [
-        "timeslive.co.za",
-        "bizcommunity.com",
-        "businessday.co.za",
-        "zalebs.com",
-        "africaleader.com",
-        "ewn.co.za",
-        "channelafrica.co.za",
-        "cnbcafrica.com",
-        "enca.com",
-        "dailymaverick.co.za",
-        "sundayworld.co.za",
-        "gov.za"
-      ],
-      "daysSeen": [
-        "2026-09-29",
-        "2026-10-01",
-        "2026-10-15",
-        "2026-10-18",
-        "2026-10-21",
-        "2026-10-22"
-      ],
-      "articleCount": 29,
-      "firstSeen": "2026-09-29",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Eskom slashes its diesel bill 81 % while fuel price spikes",
-          "url": "https://www.timeslive.co.za/news/south-africa/2026-09-29-eskom-slashes-its-diesel-bill-81-while-fuel-price-spikes/",
-          "domain": "timeslive.co.za",
-          "date": "2026-09-29"
-        },
-        {
-          "title": "Further fuel price hikes could strain SA job market , warns economist",
-          "url": "https://www.bizcommunity.com/article/further-fuel-price-hikes-could-strain-sas-job-market-warns-economist-747762a",
-          "domain": "bizcommunity.com",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "Eskom cuts diesel spending by nearly 81 % amid steep fuel price hikes",
-          "url": "https://www.businessday.co.za/economy/2026-09-29-eskom-slashes-diesel-spending-81-as-iran-war-drives-up-prices/",
-          "domain": "businessday.co.za",
-          "date": "2026-09-29"
-        },
-        {
-          "title": "Eskom slashes its diesel bill 81 % while fuel price spikes",
-          "url": "https://www.timeslive.co.za/news/south-africa/2026-09-29-eskom-slashes-its-diesel-bill-81-while-fuel-price-spikes/",
-          "domain": "timeslive.co.za",
-          "date": "2026-09-29"
-        },
-        {
-          "title": "Further fuel price hikes could strain SA job market , warns economist",
-          "url": "https://www.bizcommunity.com/article/further-fuel-price-hikes-could-strain-sas-job-market-warns-economist-747762a",
-          "domain": "bizcommunity.com",
-          "date": "2026-10-01"
         }
       ]
     },
@@ -9281,13 +8965,54 @@
         "lawyers",
         "hawaiian",
         "communications",
-        "rogers"
+        "rogers",
+        "extend",
+        "helps",
+        "p62",
+        "rebounds",
+        "before",
+        "judge",
+        "orders",
+        "pena",
+        "paraguay",
+        "collapse",
+        "resigns",
+        "triggers",
+        "crisis",
+        "claims",
+        "evidence",
+        "fabricated",
+        "fact",
+        "falsely",
+        "junked",
+        "copper",
+        "pecoy",
+        "strategic",
+        "trigger",
+        "ueno",
+        "did",
+        "what",
+        "adjusted",
+        "ebitda",
+        "equivalent",
+        "gold",
+        "mineros",
+        "nine",
+        "entree",
+        "resources",
+        "canada",
+        "embassy",
+        "ottawa",
+        "rizal",
+        "statue"
       ],
       "domains": [
         "manilatimes.net",
         "philippinetimes.com",
         "bworldonline.com",
-        "verafiles.org"
+        "verafiles.org",
+        "rappler.com",
+        "asianjournal.com"
       ],
       "daysSeen": [
         "2026-09-30",
@@ -9304,11 +9029,16 @@
         "2026-10-22",
         "2026-10-20",
         "2026-10-24",
-        "2026-10-26"
+        "2026-10-26",
+        "2026-11-05",
+        "2026-11-08",
+        "2026-11-06",
+        "2026-11-10",
+        "2026-11-12"
       ],
-      "articleCount": 145,
+      "articleCount": 154,
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-11-12",
       "samples": [
         {
           "title": "Ittikar Is Live and Open to New Members | The Manila Times",
@@ -9378,7 +9108,16 @@
         "rates",
         "recover",
         "may",
-        "peso"
+        "peso",
+        "kuwait",
+        "ofws",
+        "saudi",
+        "back",
+        "act",
+        "development",
+        "education",
+        "proposed",
+        "universal"
       ],
       "domains": [
         "bworldonline.com"
@@ -9388,11 +9127,12 @@
         "2026-10-15",
         "2026-10-21",
         "2026-10-19",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-11-08"
       ],
-      "articleCount": 15,
+      "articleCount": 17,
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-25",
+      "lastSeen": "2026-11-08",
       "samples": [
         {
           "title": "FEU completes P156 - M investment in Bataan school - BusinessWorld Online",
@@ -9439,7 +9179,10 @@
         "rogue",
         "dugong",
         "dar",
-        "mastercard"
+        "mastercard",
+        "den",
+        "drug",
+        "phinma"
       ],
       "domains": [
         "tribune.net.ph"
@@ -9450,11 +9193,12 @@
         "2026-10-21",
         "2026-10-19",
         "2026-10-22",
-        "2026-10-27"
+        "2026-10-27",
+        "2026-11-09"
       ],
-      "articleCount": 12,
+      "articleCount": 14,
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-27",
+      "lastSeen": "2026-11-09",
       "samples": [
         {
           "title": "McDonalds | Daily Tribune",
@@ -10536,63 +10280,6 @@
         }
       ]
     },
-    "south-africa:allocations-anc-court": {
-      "id": "south-africa:allocations-anc-court",
-      "country": "South Africa",
-      "terms": [
-        "allocations",
-        "creditor",
-        "dragged",
-        "r40m",
-        "demands",
-        "iec",
-        "court",
-        "anc",
-        "drawn",
-        "mashatile",
-        "r36",
-        "battle",
-        "debt",
-        "election"
-      ],
-      "domains": [
-        "sundayworld.co.za",
-        "timeslive.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-18",
-        "2026-10-22"
-      ],
-      "articleCount": 4,
-      "firstSeen": "2026-10-18",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "ANC dragged to court as creditor demands R40m from IEC allocations",
-          "url": "https://sundayworld.co.za/news/anc-dragged-to-court-as-creditor-demands-r40m-from-iec-allocations/",
-          "domain": "sundayworld.co.za",
-          "date": "2026-10-18"
-        },
-        {
-          "title": "Mashatile drawn into court battle over ANC R36 . 4m election debt",
-          "url": "https://www.timeslive.co.za/politics/2026-10-22-mashatile-drawn-into-court-battle-over-ancs-r364m-election-debt/",
-          "domain": "timeslive.co.za",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "ANC dragged to court as creditor demands R40m from IEC allocations",
-          "url": "https://sundayworld.co.za/news/anc-dragged-to-court-as-creditor-demands-r40m-from-iec-allocations/",
-          "domain": "sundayworld.co.za",
-          "date": "2026-10-18"
-        },
-        {
-          "title": "Mashatile drawn into court battle over ANC R36 . 4m election debt",
-          "url": "https://www.timeslive.co.za/politics/2026-10-22-mashatile-drawn-into-court-battle-over-ancs-r364m-election-debt/",
-          "domain": "timeslive.co.za",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "kenya:calm-cities-curfews": {
       "id": "kenya:calm-cities-curfews",
       "country": "Kenya",
@@ -10641,49 +10328,6 @@
           "url": "https://www.the-star.co.ke/news/world/2026-10-20-pm-french-cities-calm-overnight-after-curfews-imposed-to-quell-violence",
           "domain": "the-star.co.ke",
           "date": "2026-10-20"
-        }
-      ]
-    },
-    "kenya:africa-billionaires-leads": {
-      "id": "kenya:africa-billionaires-leads",
-      "country": "Kenya",
-      "terms": [
-        "billionaires",
-        "rankings",
-        "tops",
-        "wealth",
-        "seven",
-        "leads",
-        "south",
-        "africa",
-        "beats",
-        "crowd",
-        "foreigner",
-        "death"
-      ],
-      "domains": [
-        "kenya-today.com",
-        "the-star.co.ke"
-      ],
-      "daysSeen": [
-        "2026-10-18",
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-18",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "South Africa Leads Africa with Seven Billionaires as Nigeria Tops Wealth Rankings",
-          "url": "https://kenya-today.com/report-south-africa-leads-africa-with-seven-billionaires-as-nigeria-tops-wealth-rankings-13003/",
-          "domain": "kenya-today.com",
-          "date": "2026-10-18"
-        },
-        {
-          "title": "Crowd of 50 beats foreigner to death in South Africa",
-          "url": "https://www.the-star.co.ke/news/africa/2026-10-22-crowd-of-50-beats-foreigner-to-death-in-south-africa",
-          "domain": "the-star.co.ke",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -11052,295 +10696,6 @@
         }
       ]
     },
-    "indonesia:bandung-bentrok-massa": {
-      "id": "indonesia:bandung-bentrok-massa",
-      "country": "Indonesia",
-      "terms": [
-        "bentrok",
-        "bandung",
-        "massa",
-        "memanas",
-        "polisi",
-        "lima",
-        "semalam",
-        "simpang",
-        "truk",
-        "vandalisme",
-        "dibakar",
-        "kantor",
-        "melakukan",
-        "gedung",
-        "pariwisata",
-        "penjarahan",
-        "okezone",
-        "bersihkan",
-        "pascademo",
-        "pemkot",
-        "ruas",
-        "sejumlah",
-        "kota",
-        "ricuh"
-      ],
-      "domains": [
-        "merdeka.com",
-        "jawapos.com",
-        "news.okezone.com",
-        "koran-jakarta.com"
-      ],
-      "daysSeen": [
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-18",
-        "2026-10-22"
-      ],
-      "articleCount": 18,
-      "firstSeen": "2026-10-18",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Demo di Bandung Memanas , Massa Bentrok dengan Polisi",
-          "url": "https://www.merdeka.com/peristiwa/read/8317673/demo-di-bandung-memanas-massa-bentrok-dengan-polisi",
-          "domain": "merdeka.com",
-          "date": "2026-10-20"
-        },
-        {
-          "title": "Demo di Bandung Ricuh Semalam , Truk Polisi Dibakar , Vandalisme di Simpang Lima",
-          "url": "https://www.jawapos.com/berita-daerah/2610210164/demo-di-bandung-ricuh-semalam-truk-polisi-dibakar-vandalisme-di-simpang-lima",
-          "domain": "jawapos.com",
-          "date": "2026-10-21"
-        },
-        {
-          "title": "Demo Ricuh Prancis , Massa Melakukan Penjarahan hingga Gedung Kantor Pariwisata Dibakar : Okezone News",
-          "url": "https://news.okezone.com/read/2026/10/18/18/3248592/demo-ricuh-prancis-nbsp-massa-melakukan-penjarahan-hingga-gedung-kantor-pariwisata-dibakar",
-          "domain": "news.okezone.com",
-          "date": "2026-10-18"
-        },
-        {
-          "title": "Demo di Bandung Memanas , Massa Bentrok dengan Polisi",
-          "url": "https://www.merdeka.com/peristiwa/read/8317673/demo-di-bandung-memanas-massa-bentrok-dengan-polisi",
-          "domain": "merdeka.com",
-          "date": "2026-10-20"
-        },
-        {
-          "title": "Demo di Bandung Ricuh Semalam , Truk Polisi Dibakar , Vandalisme di Simpang Lima",
-          "url": "https://www.jawapos.com/berita-daerah/2610210164/demo-di-bandung-ricuh-semalam-truk-polisi-dibakar-vandalisme-di-simpang-lima",
-          "domain": "jawapos.com",
-          "date": "2026-10-21"
-        }
-      ]
-    },
-    "indonesia:berjaga-gelar-gibran": {
-      "id": "indonesia:berjaga-gelar-gibran",
-      "country": "Indonesia",
-      "terms": [
-        "berjaga",
-        "gelar",
-        "gibran",
-        "prabowo",
-        "tahun",
-        "personel",
-        "mahasiswa",
-        "bogor",
-        "jelang",
-        "penyekatan",
-        "polres",
-        "depok",
-        "jakarta",
-        "bawa",
-        "dua",
-        "utama",
-        "tuntutan",
-        "sipil",
-        "grahadi",
-        "masyarakat",
-        "surabaya"
-      ],
-      "domains": [
-        "jawapos.com",
-        "merdeka.com",
-        "koran-jakarta.com",
-        "beritajatim.com"
-      ],
-      "daysSeen": [
-        "2026-10-20",
-        "2026-10-22"
-      ],
-      "articleCount": 19,
-      "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "500 Mahasiswa Gelar Demo 2 Tahun Prabowo - Gibran , 7 . 017 Personel Berjaga",
-          "url": "https://www.jawapos.com/jabodetabek/2610200169/500-mahasiswa-gelar-demo-2-tahun-prabowo-gibran-7017-personel-berjaga",
-          "domain": "jawapos.com",
-          "date": "2026-10-20"
-        },
-        {
-          "title": "Jelang Demo Mahasiswa di Jakarta , Polres Bogor – Depok Gelar Penyekatan",
-          "url": "https://www.merdeka.com/peristiwa/read/8316983/jelang-demo-mahasiswa-di-jakarta-polres-bogor-depok-gelar-penyekatan",
-          "domain": "merdeka.com",
-          "date": "2026-10-20"
-        },
-        {
-          "title": "Demo Dua Tahun Prabowo - Gibran , Mahasiswa Bawa 5 Tuntutan Utama",
-          "url": "https://koran-jakarta.com/2026-10-20/demo-dua-tahun-prabowo-gibran-mahasiswa-bawa-5-tuntutan-utama",
-          "domain": "koran-jakarta.com",
-          "date": "2026-10-20"
-        },
-        {
-          "title": "500 Mahasiswa Gelar Demo 2 Tahun Prabowo - Gibran , 7 . 017 Personel Berjaga",
-          "url": "https://www.jawapos.com/jabodetabek/2610200169/500-mahasiswa-gelar-demo-2-tahun-prabowo-gibran-7017-personel-berjaga",
-          "domain": "jawapos.com",
-          "date": "2026-10-20"
-        },
-        {
-          "title": "Jelang Demo Mahasiswa di Jakarta , Polres Bogor – Depok Gelar Penyekatan",
-          "url": "https://www.merdeka.com/peristiwa/read/8316983/jelang-demo-mahasiswa-di-jakarta-polres-bogor-depok-gelar-penyekatan",
-          "domain": "merdeka.com",
-          "date": "2026-10-20"
-        }
-      ]
-    },
-    "indonesia:dprd-gedung-jabar": {
-      "id": "indonesia:dprd-gedung-jabar",
-      "country": "Indonesia",
-      "terms": [
-        "jabatan",
-        "sidqon",
-        "gedung",
-        "jabar",
-        "siap",
-        "turun",
-        "dprd",
-        "oktober",
-        "aspirasi",
-        "garansi",
-        "pusat",
-        "sampai",
-        "pemerintah",
-        "anggota",
-        "dewan",
-        "diy",
-        "respons",
-        "ricuh",
-        "mahasiswa",
-        "diamankan",
-        "dipulangkan",
-        "saat",
-        "massa"
-      ],
-      "domains": [
-        "jpnn.com",
-        "jabar.jpnn.com",
-        "jogjapolitan.harianjogja.com",
-        "rejogja.republika.co.id"
-      ],
-      "daysSeen": [
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22"
-      ],
-      "articleCount": 19,
-      "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Demo 20 Oktober di Gedung DPRD Jabar : Sidqon Siap Turun dari Jabatan",
-          "url": "https://www.jpnn.com/news/demo-20-oktober-di-gedung-dprd-jabar-sidqon-siap-turun-dari-jabatan",
-          "domain": "jpnn.com",
-          "date": "2026-10-20"
-        },
-        {
-          "title": "Anggota DPRD Jabar Garansi Aspirasi Mahasiswa Sampai ke Pemerintah Pusat",
-          "url": "https://jabar.jpnn.com/politik/33897/anggota-dprd-jabar-garansi-aspirasi-mahasiswa-sampai-ke-pemerintah-pusat",
-          "domain": "jabar.jpnn.com",
-          "date": "2026-10-20"
-        },
-        {
-          "title": "Demo Mahasiswa di DPRD DIY Ricuh , Ini Respons Anggota Dewan",
-          "url": "https://jogjapolitan.harianjogja.com/r-1275807/demo-mahasiswa-di-dprd-diy-ricuh-ini-respons-anggota-dewan",
-          "domain": "jogjapolitan.harianjogja.com",
-          "date": "2026-10-21"
-        },
-        {
-          "title": "Demo 20 Oktober di Gedung DPRD Jabar : Sidqon Siap Turun dari Jabatan",
-          "url": "https://www.jpnn.com/news/demo-20-oktober-di-gedung-dprd-jabar-sidqon-siap-turun-dari-jabatan",
-          "domain": "jpnn.com",
-          "date": "2026-10-20"
-        },
-        {
-          "title": "Anggota DPRD Jabar Garansi Aspirasi Mahasiswa Sampai ke Pemerintah Pusat",
-          "url": "https://jabar.jpnn.com/politik/33897/anggota-dprd-jabar-garansi-aspirasi-mahasiswa-sampai-ke-pemerintah-pusat",
-          "domain": "jabar.jpnn.com",
-          "date": "2026-10-20"
-        }
-      ]
-    },
-    "indonesia:adhiswara-dennis-ikut": {
-      "id": "indonesia:adhiswara-dennis-ikut",
-      "country": "Indonesia",
-      "terms": [
-        "adhiswara",
-        "dennis",
-        "karhutla",
-        "medsos",
-        "soal",
-        "vokal",
-        "ikut",
-        "siap",
-        "tani",
-        "anggaran",
-        "mbg",
-        "solo",
-        "uns",
-        "kritik",
-        "pemerintah",
-        "hingga"
-      ],
-      "domains": [
-        "berita.liputan6.com",
-        "jogja.viva.co.id"
-      ],
-      "daysSeen": [
-        "2026-10-21",
-        "2026-10-22"
-      ],
-      "articleCount": 9,
-      "firstSeen": "2026-10-21",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Dennis Adhiswara Ikut Demo di Tugu Tani , Siap Vokal soal Karhutla di Medsos",
-          "url": "https://berita.liputan6.com/peristiwa/read/8317772/dennis-adhiswara-ikut-demo-di-tugu-tani-siap-vokal-soal-karhutla-di-medsos",
-          "domain": "berita.liputan6.com",
-          "date": "2026-10-21"
-        },
-        {
-          "title": "Dennis Adhiswara Ikut Demo di Tugu Tani , Siap Vokal soal Karhutla di Medsos",
-          "url": "https://berita.liputan6.com/peristiwa/read/8317772/dennis-adhiswara-ikut-demo-di-tugu-tani-siap-vokal-soal-karhutla-di-medsos",
-          "domain": "berita.liputan6.com",
-          "date": "2026-10-21"
-        },
-        {
-          "title": "Dennis Adhiswara Ikut Demo di Tugu Tani , Siap Vokal soal Karhutla di Medsos",
-          "url": "https://berita.liputan6.com/peristiwa/read/8317772/dennis-adhiswara-ikut-demo-di-tugu-tani-siap-vokal-soal-karhutla-di-medsos",
-          "domain": "berita.liputan6.com",
-          "date": "2026-10-21"
-        },
-        {
-          "title": "Mahasiswa UNS Demo di Solo , Kritik Pemerintah soal Karhutla , MBG hingga Anggaran",
-          "url": "https://jogja.viva.co.id/solo-raya/12385-mahasiswa-uns-demo-di-solo-kritik-pemerintah-soal-karhutla-mbg-hingga-anggaran",
-          "domain": "jogja.viva.co.id",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Dennis Adhiswara Ikut Demo di Tugu Tani , Siap Vokal soal Karhutla di Medsos",
-          "url": "https://berita.liputan6.com/peristiwa/read/8317772/dennis-adhiswara-ikut-demo-di-tugu-tani-siap-vokal-soal-karhutla-di-medsos",
-          "domain": "berita.liputan6.com",
-          "date": "2026-10-21"
-        }
-      ]
-    },
     "indonesia:aparat-artinya-ibarat": {
       "id": "indonesia:aparat-artinya-ibarat",
       "country": "Indonesia",
@@ -11467,209 +10822,6 @@
         }
       ]
     },
-    "indonesia:bandara-daftarnya-deretan": {
-      "id": "indonesia:bandara-daftarnya-deretan",
-      "country": "Indonesia",
-      "terms": [
-        "daftarnya",
-        "hoaks",
-        "seputar",
-        "simak",
-        "soetta",
-        "deretan",
-        "bandara"
-      ],
-      "domains": [
-        "liputan6.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 5,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Deretan Hoaks Seputar Bandara Soetta , Simak Daftarnya",
-          "url": "https://www.liputan6.com/cek-fakta/read/8318130/deretan-hoaks-seputar-bandara-soetta-simak-daftarnya",
-          "domain": "liputan6.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Deretan Hoaks Seputar Bandara Soetta , Simak Daftarnya",
-          "url": "https://www.liputan6.com/cek-fakta/read/8318130/deretan-hoaks-seputar-bandara-soetta-simak-daftarnya",
-          "domain": "liputan6.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Deretan Hoaks Seputar Bandara Soetta , Simak Daftarnya",
-          "url": "https://www.liputan6.com/cek-fakta/read/8318130/deretan-hoaks-seputar-bandara-soetta-simak-daftarnya",
-          "domain": "liputan6.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Deretan Hoaks Seputar Bandara Soetta , Simak Daftarnya",
-          "url": "https://www.liputan6.com/cek-fakta/read/8318130/deretan-hoaks-seputar-bandara-soetta-simak-daftarnya",
-          "domain": "liputan6.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Deretan Hoaks Seputar Bandara Soetta , Simak Daftarnya",
-          "url": "https://www.liputan6.com/cek-fakta/read/8318130/deretan-hoaks-seputar-bandara-soetta-simak-daftarnya",
-          "domain": "liputan6.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "indonesia:mengamankan-semarang-siaga": {
-      "id": "indonesia:mengamankan-semarang-siaga",
-      "country": "Indonesia",
-      "terms": [
-        "mengamankan",
-        "semarang",
-        "siaga"
-      ],
-      "domains": [
-        "jateng.jpnn.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "2 . 866 Polisi Siaga Mengamankan Demo 2 Tahun Prabowo - Gibran di Semarang",
-          "url": "https://jateng.jpnn.com/jateng-terkini/21496/2866-polisi-siaga-mengamankan-demo-2-tahun-prabowo-gibran-di-semarang",
-          "domain": "jateng.jpnn.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "2 . 866 Polisi Siaga Mengamankan Demo 2 Tahun Prabowo - Gibran di Semarang",
-          "url": "https://jateng.jpnn.com/jateng-terkini/21496/2866-polisi-siaga-mengamankan-demo-2-tahun-prabowo-gibran-di-semarang",
-          "domain": "jateng.jpnn.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "2 . 866 Polisi Siaga Mengamankan Demo 2 Tahun Prabowo - Gibran di Semarang",
-          "url": "https://jateng.jpnn.com/jateng-terkini/21496/2866-polisi-siaga-mengamankan-demo-2-tahun-prabowo-gibran-di-semarang",
-          "domain": "jateng.jpnn.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "indonesia:advokasi-dugaan-kasus": {
-      "id": "indonesia:advokasi-dugaan-kasus",
-      "country": "Indonesia",
-      "terms": [
-        "advokasi",
-        "dugaan",
-        "kasus",
-        "kejelasan",
-        "kekerasan",
-        "penanganan",
-        "september",
-        "ugm",
-        "forum",
-        "tuntut"
-      ],
-      "domains": [
-        "rejogja.republika.co.id"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 5,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Forum Advokasi Mahasiswa UGM Tuntut Kejelasan Penanganan Kasus Dugaan Kekerasan Demo 1 September",
-          "url": "https://rejogja.republika.co.id/berita/tnajzz291/forum-advokasi-mahasiswa-ugm-tuntut-kejelasan-penanganan-kasus-dugaan-kekerasan-demo-1-september",
-          "domain": "rejogja.republika.co.id",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Forum Advokasi Mahasiswa UGM Tuntut Kejelasan Penanganan Kasus Dugaan Kekerasan Demo 1 September",
-          "url": "https://rejogja.republika.co.id/berita/tnajzz291/forum-advokasi-mahasiswa-ugm-tuntut-kejelasan-penanganan-kasus-dugaan-kekerasan-demo-1-september",
-          "domain": "rejogja.republika.co.id",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Forum Advokasi Mahasiswa UGM Tuntut Kejelasan Penanganan Kasus Dugaan Kekerasan Demo 1 September",
-          "url": "https://rejogja.republika.co.id/berita/tnajzz291/forum-advokasi-mahasiswa-ugm-tuntut-kejelasan-penanganan-kasus-dugaan-kekerasan-demo-1-september",
-          "domain": "rejogja.republika.co.id",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Forum Advokasi Mahasiswa UGM Tuntut Kejelasan Penanganan Kasus Dugaan Kekerasan Demo 1 September",
-          "url": "https://rejogja.republika.co.id/berita/tnajzz291/forum-advokasi-mahasiswa-ugm-tuntut-kejelasan-penanganan-kasus-dugaan-kekerasan-demo-1-september",
-          "domain": "rejogja.republika.co.id",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Forum Advokasi Mahasiswa UGM Tuntut Kejelasan Penanganan Kasus Dugaan Kekerasan Demo 1 September",
-          "url": "https://rejogja.republika.co.id/berita/tnajzz291/forum-advokasi-mahasiswa-ugm-tuntut-kejelasan-penanganan-kasus-dugaan-kekerasan-demo-1-september",
-          "domain": "rejogja.republika.co.id",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "indonesia:berburu-cerita-cikini": {
-      "id": "indonesia:berburu-cerita-cikini",
-      "country": "Indonesia",
-      "terms": [
-        "cerita",
-        "cikini",
-        "cuan",
-        "emas",
-        "kilau",
-        "pemikat",
-        "berburu"
-      ],
-      "domains": [
-        "liputan6.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 5,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Cerita dari Cikini : Berburu Kilau Emas Pemikat Cuan",
-          "url": "https://www.liputan6.com/bisnis/read/8318447/cerita-dari-cikini-berburu-kilau-emas-pemikat-cuan",
-          "domain": "liputan6.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Cerita dari Cikini : Berburu Kilau Emas Pemikat Cuan",
-          "url": "https://www.liputan6.com/bisnis/read/8318447/cerita-dari-cikini-berburu-kilau-emas-pemikat-cuan",
-          "domain": "liputan6.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Cerita dari Cikini : Berburu Kilau Emas Pemikat Cuan",
-          "url": "https://www.liputan6.com/bisnis/read/8318447/cerita-dari-cikini-berburu-kilau-emas-pemikat-cuan",
-          "domain": "liputan6.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Cerita dari Cikini : Berburu Kilau Emas Pemikat Cuan",
-          "url": "https://www.liputan6.com/bisnis/read/8318447/cerita-dari-cikini-berburu-kilau-emas-pemikat-cuan",
-          "domain": "liputan6.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Cerita dari Cikini : Berburu Kilau Emas Pemikat Cuan",
-          "url": "https://www.liputan6.com/bisnis/read/8318447/cerita-dari-cikini-berburu-kilau-emas-pemikat-cuan",
-          "domain": "liputan6.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "nigeria:accuses-anthem-disrespecting": {
       "id": "nigeria:accuses-anthem-disrespecting",
       "country": "Nigeria",
@@ -11708,170 +10860,6 @@
           "url": "https://punchng.com/trump-accuses-lebron-james-of-disrespecting-us-anthem/",
           "domain": "punchng.com",
           "date": "2026-10-23"
-        }
-      ]
-    },
-    "nigeria:angola-law-vandalism": {
-      "id": "nigeria:angola-law-vandalism",
-      "country": "Nigeria",
-      "terms": [
-        "vandalism",
-        "angola",
-        "law"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Angola  Vandalism Law",
-          "url": "https://allafrica.com/stories/202610220099.html",
-          "domain": "allafrica.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Angola  Vandalism Law",
-          "url": "https://allafrica.com/stories/202610220099.html",
-          "domain": "allafrica.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "nigeria:abating-amhara-conflicts": {
-      "id": "nigeria:abating-amhara-conflicts",
-      "country": "Nigeria",
-      "terms": [
-        "abating",
-        "amhara",
-        "conflicts",
-        "schoolchildren",
-        "tigray",
-        "ethiopia",
-        "regions",
-        "show",
-        "sign",
-        "civilians",
-        "drone"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Ethiopia : Drone Strikes Kill Schoolchildren in Amhara , Civilians in Tigray Regions As Conflicts Show No Sign of Abating",
-          "url": "https://allafrica.com/stories/202610220473.html",
-          "domain": "allafrica.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Ethiopia : Drone Strikes Kill Schoolchildren in Amhara , Civilians in Tigray Regions As Conflicts Show No Sign of Abating",
-          "url": "https://allafrica.com/stories/202610220473.html",
-          "domain": "allafrica.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Ethiopia : Drone Strikes Kill Schoolchildren in Amhara , Civilians in Tigray Regions As Conflicts Show No Sign of Abating",
-          "url": "https://allafrica.com/stories/202610220473.html",
-          "domain": "allafrica.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "nigeria:congresswoman-fbi-ilhan": {
-      "id": "nigeria:congresswoman-fbi-ilhan",
-      "country": "Nigeria",
-      "terms": [
-        "congresswoman",
-        "fbi",
-        "ilhan",
-        "live",
-        "longer",
-        "omar",
-        "raid",
-        "safely",
-        "can",
-        "home"
-      ],
-      "domains": [
-        "saharareporters.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "US Congresswoman Ilhan Omar Says She Can No Longer Live Safely At Home After FBI Raid",
-          "url": "https://saharareporters.com/2026/10/22/us-congresswoman-ilhan-omar-says-she-can-no-longer-live-safely-home-after-fbi-raid",
-          "domain": "saharareporters.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "US Congresswoman Ilhan Omar Says She Can No Longer Live Safely At Home After FBI Raid",
-          "url": "https://saharareporters.com/2026/10/22/us-congresswoman-ilhan-omar-says-she-can-no-longer-live-safely-home-after-fbi-raid",
-          "domain": "saharareporters.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "US Congresswoman Ilhan Omar Says She Can No Longer Live Safely At Home After FBI Raid",
-          "url": "https://saharareporters.com/2026/10/22/us-congresswoman-ilhan-omar-says-she-can-no-longer-live-safely-home-after-fbi-raid",
-          "domain": "saharareporters.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "nigeria:akindele-dont-funke": {
-      "id": "nigeria:akindele-dont-funke",
-      "country": "Nigeria",
-      "terms": [
-        "akindele",
-        "dont",
-        "funke",
-        "lose",
-        "yourself",
-        "love"
-      ],
-      "domains": [
-        "punchng.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Dont lose yourself in love , says Funke Akindele",
-          "url": "https://punchng.com/dont-lose-yourself-in-love-says-funke-akindele/",
-          "domain": "punchng.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Dont lose yourself in love , says Funke Akindele",
-          "url": "https://punchng.com/dont-lose-yourself-in-love-says-funke-akindele/",
-          "domain": "punchng.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Dont lose yourself in love , says Funke Akindele",
-          "url": "https://punchng.com/dont-lose-yourself-in-love-says-funke-akindele/",
-          "domain": "punchng.com",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -11916,162 +10904,6 @@
         }
       ]
     },
-    "nigeria:credit-debt-falls": {
-      "id": "nigeria:credit-debt-falls",
-      "country": "Nigeria",
-      "terms": [
-        "moody",
-        "rating",
-        "reserves",
-        "upgrades",
-        "credit",
-        "falls",
-        "rise",
-        "debt",
-        "egypt"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Egypt : Moody Upgrades Egypt Credit Rating As Debt Falls , Reserves Rise",
-          "url": "https://allafrica.com/stories/202610220016.html",
-          "domain": "allafrica.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Egypt : Moody Upgrades Egypt Credit Rating As Debt Falls , Reserves Rise",
-          "url": "https://allafrica.com/stories/202610220016.html",
-          "domain": "allafrica.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "nigeria:dispute-lawyer-money": {
-      "id": "nigeria:dispute-lawyer-money",
-      "country": "Nigeria",
-      "terms": [
-        "lawyer",
-        "money",
-        "questions",
-        "taxpayer",
-        "thursday",
-        "use",
-        "warrant",
-        "dispute"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Malawi : Lawyer Questions State Use of Taxpayer Money in Warrant Dispute - Court to Rule On Thursday",
-          "url": "https://allafrica.com/stories/202610220072.html",
-          "domain": "allafrica.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Malawi : Lawyer Questions State Use of Taxpayer Money in Warrant Dispute - Court to Rule On Thursday",
-          "url": "https://allafrica.com/stories/202610220072.html",
-          "domain": "allafrica.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "nigeria:cult-grandmother-grandson": {
-      "id": "nigeria:cult-grandmother-grandson",
-      "country": "Nigeria",
-      "terms": [
-        "grandmother",
-        "grandson",
-        "reported",
-        "sib",
-        "cult",
-        "leader",
-        "starving"
-      ],
-      "domains": [
-        "punchng.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Cult leader grandson reported grandmother for starving sib",
-          "url": "https://punchng.com/how-kenyan-cult-leaders-grandson-reported-grandmother-for-starving-siblings/",
-          "domain": "punchng.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Cult leader grandson reported grandmother for starving sib",
-          "url": "https://punchng.com/how-kenyan-cult-leaders-grandson-reported-grandmother-for-starving-siblings/",
-          "domain": "punchng.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Cult leader grandson reported grandmother for starving sib",
-          "url": "https://punchng.com/how-kenyan-cult-leaders-grandson-reported-grandmother-for-starving-siblings/",
-          "domain": "punchng.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "south-africa:action-foreign-immigrant": {
-      "id": "south-africa:action-foreign-immigrant",
-      "country": "South Africa",
-      "terms": [
-        "immigrant",
-        "intimidation",
-        "traders",
-        "legal",
-        "town",
-        "foreign",
-        "seek",
-        "action",
-        "cape"
-      ],
-      "domains": [
-        "timeslive.co.za",
-        "businessday.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Foreign traders in Cape Town seek legal action over alleged anti - immigrant intimidation",
-          "url": "https://www.timeslive.co.za/news/south-africa/2026-10-22-foreign-traders-in-cape-town-seek-legal-action-over-alleged-anti-immigrant-intimidation/",
-          "domain": "timeslive.co.za",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Foreign traders in Cape Town seek legal action over alleged anti - immigrant intimidation",
-          "url": "https://www.timeslive.co.za/news/south-africa/2026-10-22-foreign-traders-in-cape-town-seek-legal-action-over-alleged-anti-immigrant-intimidation/",
-          "domain": "timeslive.co.za",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "south-africa:capital-day-heightened": {
       "id": "south-africa:capital-day-heightened",
       "country": "South Africa",
@@ -12103,76 +10935,6 @@
           "url": "https://www.dailymaverick.co.za/article/2026-10-23-tunisian-police-clash-with-protesters-in-capital-on-day-of-heightened-tensions/",
           "domain": "dailymaverick.co.za",
           "date": "2026-10-23"
-        }
-      ]
-    },
-    "south-africa:americana-coming-end": {
-      "id": "south-africa:americana-coming-end",
-      "country": "South Africa",
-      "terms": [
-        "americana",
-        "coming",
-        "politics",
-        "slice",
-        "end",
-        "trump"
-      ],
-      "domains": [
-        "ewn.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "The Trump rally : a slice of  Americana  politics , coming to an end",
-          "url": "https://www.ewn.co.za/2026/10/22/the-trump-rally-a-slice-of-americana-politics-coming-to-an-end",
-          "domain": "ewn.co.za",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "The Trump rally : a slice of  Americana  politics , coming to an end",
-          "url": "https://www.ewn.co.za/2026/10/22/the-trump-rally-a-slice-of-americana-politics-coming-to-an-end",
-          "domain": "ewn.co.za",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "south-africa:beatings-campaign-cyberattacks": {
-      "id": "south-africa:beatings-campaign-cyberattacks",
-      "country": "South Africa",
-      "terms": [
-        "beatings",
-        "cyberattacks",
-        "serbia",
-        "shadow",
-        "election",
-        "campaign"
-      ],
-      "domains": [
-        "timeslive.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Beatings and cyberattacks shadow Serbia election campaign",
-          "url": "https://www.timeslive.co.za/news/world/2026-10-22-beatings-and-cyberattacks-shadow-serbias-election-campaign/",
-          "domain": "timeslive.co.za",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Beatings and cyberattacks shadow Serbia election campaign",
-          "url": "https://www.timeslive.co.za/news/world/2026-10-22-beatings-and-cyberattacks-shadow-serbias-election-campaign/",
-          "domain": "timeslive.co.za",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -12227,171 +10989,6 @@
           "url": "https://www.dailymaverick.co.za/article/2026-11-08-trump-says-he-is-highly-unlikely-to-order-iran-strikes-if-talks-progress/",
           "domain": "dailymaverick.co.za",
           "date": "2026-11-08"
-        }
-      ]
-    },
-    "south-africa:culture-solutions-stunts": {
-      "id": "south-africa:culture-solutions-stunts",
-      "country": "South Africa",
-      "terms": [
-        "stunts",
-        "symbols",
-        "township",
-        "culture",
-        "solutions",
-        "voters",
-        "want"
-      ],
-      "domains": [
-        "citizen.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Voters want solutions , not stunts and township culture symbols",
-          "url": "https://www.citizen.co.za/news/opinion/voters-want-solutions-not-stunts-and-township-culture-symbols/",
-          "domain": "citizen.co.za",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Voters want solutions , not stunts and township culture symbols",
-          "url": "https://www.citizen.co.za/news/opinion/voters-want-solutions-not-stunts-and-township-culture-symbols/",
-          "domain": "citizen.co.za",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "south-africa:25bn-analytica-cambridge": {
-      "id": "south-africa:25bn-analytica-cambridge",
-      "country": "South Africa",
-      "terms": [
-        "25bn",
-        "analytica",
-        "cambridge",
-        "meta",
-        "mexico",
-        "judge",
-        "pay",
-        "orders"
-      ],
-      "domains": [
-        "enca.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Judge orders Meta to pay $25bn to New Mexico in Cambridge Analytica case",
-          "url": "https://www.enca.com/business/judge-orders-meta-pay-25bn-new-mexico-cambridge-analytica-case",
-          "domain": "enca.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Judge orders Meta to pay $25bn to New Mexico in Cambridge Analytica case",
-          "url": "https://www.enca.com/business/judge-orders-meta-pay-25bn-new-mexico-cambridge-analytica-case",
-          "domain": "enca.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "south-africa:baby-convicted-eldorado": {
-      "id": "south-africa:baby-convicted-eldorado",
-      "country": "South Africa",
-      "terms": [
-        "convicted",
-        "eldorado",
-        "father",
-        "murdering",
-        "nikita",
-        "baby",
-        "raping",
-        "park"
-      ],
-      "domains": [
-        "timeslive.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Eldorado Park father convicted of murdering and raping  Baby Nikita",
-          "url": "https://www.timeslive.co.za/news/south-africa/2026-10-22-eldorado-park-father-convicted-of-murdering-and-raping-baby-nikita/",
-          "domain": "timeslive.co.za",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Eldorado Park father convicted of murdering and raping  Baby Nikita",
-          "url": "https://www.timeslive.co.za/news/south-africa/2026-10-22-eldorado-park-father-convicted-of-murdering-and-raping-baby-nikita/",
-          "domain": "timeslive.co.za",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "south-africa:alliance-ban-condemns": {
-      "id": "south-africa:alliance-ban-condemns",
-      "country": "South Africa",
-      "terms": [
-        "patriotic",
-        "sanef",
-        "uncalled",
-        "alliance",
-        "media",
-        "ban",
-        "condemns",
-        "serious",
-        "sowetan",
-        "concerns",
-        "mckenzie",
-        "raises"
-      ],
-      "domains": [
-        "ewn.co.za",
-        "sowetan.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-21",
-        "2026-10-22"
-      ],
-      "articleCount": 4,
-      "firstSeen": "2026-10-21",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "It uncalled for : SANEF condemns Patriotic Alliance media ban",
-          "url": "https://www.ewn.co.za/2026/10/21/its-uncalled-for-sanef-condemns-patriotic-alliance-media-ban",
-          "domain": "ewn.co.za",
-          "date": "2026-10-21"
-        },
-        {
-          "title": "SOWETAN | McKenzie media ban raises serious concerns",
-          "url": "https://www.sowetan.co.za/opinion/2026-10-22-sowetan-mckenzies-media-ban-raises-serious-concerns/",
-          "domain": "sowetan.co.za",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "It uncalled for : SANEF condemns Patriotic Alliance media ban",
-          "url": "https://www.ewn.co.za/2026/10/21/its-uncalled-for-sanef-condemns-patriotic-alliance-media-ban",
-          "domain": "ewn.co.za",
-          "date": "2026-10-21"
-        },
-        {
-          "title": "SOWETAN | McKenzie media ban raises serious concerns",
-          "url": "https://www.sowetan.co.za/opinion/2026-10-22-sowetan-mckenzies-media-ban-raises-serious-concerns/",
-          "domain": "sowetan.co.za",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -12488,76 +11085,6 @@
         }
       ]
     },
-    "south-africa:accountability-malawi-obscures": {
-      "id": "south-africa:accountability-malawi-obscures",
-      "country": "South Africa",
-      "terms": [
-        "obscures",
-        "presidential",
-        "privacy",
-        "malawi",
-        "accountability"
-      ],
-      "domains": [
-        "mg.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Presidential privacy obscures Malawi public accountability",
-          "url": "https://mg.co.za/thought-leader/2026-10-22-presidential-privacy-obscures-malawi-s-public-accountability/",
-          "domain": "mg.co.za",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Presidential privacy obscures Malawi public accountability",
-          "url": "https://mg.co.za/thought-leader/2026-10-22-presidential-privacy-obscures-malawi-s-public-accountability/",
-          "domain": "mg.co.za",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "south-africa:battle-bonus-court": {
-      "id": "south-africa:battle-bonus-court",
-      "country": "South Africa",
-      "terms": [
-        "dismissal",
-        "numsa",
-        "xmas",
-        "bonus",
-        "wins",
-        "battle",
-        "court"
-      ],
-      "domains": [
-        "sundayworld.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "NUMSA wins court battle over Xmas bonus strike dismissal",
-          "url": "https://sundayworld.co.za/news/numsa-wins-court-battle-over-xmas-bonus-strike-dismissal/",
-          "domain": "sundayworld.co.za",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "NUMSA wins court battle over Xmas bonus strike dismissal",
-          "url": "https://sundayworld.co.za/news/numsa-wins-court-battle-over-xmas-bonus-strike-dismissal/",
-          "domain": "sundayworld.co.za",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "south-africa:deadly-expose-failures": {
       "id": "south-africa:deadly-expose-failures",
       "country": "South Africa",
@@ -12625,81 +11152,6 @@
         }
       ]
     },
-    "south-africa:brook-chris-double": {
-      "id": "south-africa:brook-chris-double",
-      "country": "South Africa",
-      "terms": [
-        "brook",
-        "chris",
-        "double",
-        "elite",
-        "gayle",
-        "harry",
-        "maiden",
-        "odi",
-        "list"
-      ],
-      "domains": [
-        "africaleader.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Harry Brook joins Chris Gayle in elite list after maiden ODI double ton against SL",
-          "url": "http://www.africaleader.com/news/279392768/harry-brook-joins-chris-gayle-in-elite-list-after-maiden-odi-double-ton-against-sl",
-          "domain": "africaleader.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Harry Brook joins Chris Gayle in elite list after maiden ODI double ton against SL",
-          "url": "http://www.africaleader.com/news/279392768/harry-brook-joins-chris-gayle-in-elite-list-after-maiden-odi-double-ton-against-sl",
-          "domain": "africaleader.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "south-africa:governor-ohio-race": {
-      "id": "south-africa:governor-ohio-race",
-      "country": "South Africa",
-      "terms": [
-        "governor",
-        "ohio",
-        "ramaswamy",
-        "republicans",
-        "vance",
-        "whining",
-        "race",
-        "stop"
-      ],
-      "domains": [
-        "businessday.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Vance tells Republicans to  stop whining  after Ramaswamy attack ad in Ohio governor race",
-          "url": "https://www.businessday.co.za/world/2026-10-22-vance-tells-republicans-to-stop-whining-after-ramaswamy-attack-ad-in-ohio-governors-race/",
-          "domain": "businessday.co.za",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Vance tells Republicans to  stop whining  after Ramaswamy attack ad in Ohio governor race",
-          "url": "https://www.businessday.co.za/world/2026-10-22-vance-tells-republicans-to-stop-whining-after-ramaswamy-attack-ad-in-ohio-governors-race/",
-          "domain": "businessday.co.za",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "south-africa:antarctic-area-emerging": {
       "id": "south-africa:antarctic-area-emerging",
       "country": "South Africa",
@@ -12734,43 +11186,6 @@
           "url": "https://www.dailymaverick.co.za/article/2026-10-23-chinas-antarctic-marine-protected-area-has-a-soviet-name-with-more-russian-fingerprints-emerging/",
           "domain": "dailymaverick.co.za",
           "date": "2026-10-23"
-        }
-      ]
-    },
-    "south-africa:medicines-prep-researchers": {
-      "id": "south-africa:medicines-prep-researchers",
-      "country": "South Africa",
-      "terms": [
-        "medicines",
-        "prep",
-        "researchers",
-        "secures",
-        "tool",
-        "trials",
-        "unique",
-        "vaccines"
-      ],
-      "domains": [
-        "iafrica.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "South African AI platform Secures Global Recognition For Unique Tool That Helps Researchers Prep Clinical Trials For Medicines & Vaccines , Faster",
-          "url": "https://iafrica.com/south-african-ai-platform-secures-global-recognition-for-unique-tool-that-helps-researchers-prep-clinical-trials-for-medicines-vaccines-faster/",
-          "domain": "iafrica.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "South African AI platform Secures Global Recognition For Unique Tool That Helps Researchers Prep Clinical Trials For Medicines & Vaccines , Faster",
-          "url": "https://iafrica.com/south-african-ai-platform-secures-global-recognition-for-unique-tool-that-helps-researchers-prep-clinical-trials-for-medicines-vaccines-faster/",
-          "domain": "iafrica.com",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -12826,30 +11241,6 @@
           "url": "https://www.ecr.co.za/news/news/struggling-newcastle-businesses-on-water-crisis/",
           "domain": "ecr.co.za",
           "date": "2026-10-23"
-        }
-      ]
-    },
-    "south-africa:virus": {
-      "id": "south-africa:virus",
-      "country": "South Africa",
-      "terms": [
-        "virus"
-      ],
-      "domains": [
-        "6000.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "virus",
-          "url": "https://6000.co.za/tag/virus/",
-          "domain": "6000.co.za",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -12923,43 +11314,6 @@
         }
       ]
     },
-    "south-africa:children-delayed-ecd": {
-      "id": "south-africa:children-delayed-ecd",
-      "country": "South Africa",
-      "terms": [
-        "delayed",
-        "ecd",
-        "failing",
-        "hungry",
-        "funds",
-        "tenders",
-        "unspent",
-        "children"
-      ],
-      "domains": [
-        "theherald.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Unspent Funds and Delayed Tenders : How South Africa Is Failing Hungry ECD Children",
-          "url": "https://theherald.co.za/opinion/columnists/2026-10-22-millions-returned-to-treasury-while-young-children-go-hungry/",
-          "domain": "theherald.co.za",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Unspent Funds and Delayed Tenders : How South Africa Is Failing Hungry ECD Children",
-          "url": "https://theherald.co.za/opinion/columnists/2026-10-22-millions-returned-to-treasury-while-young-children-go-hungry/",
-          "domain": "theherald.co.za",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "south-africa:coming-expensive-fast": {
       "id": "south-africa:coming-expensive-fast",
       "country": "South Africa",
@@ -12994,121 +11348,6 @@
           "url": "https://www.businessday.co.za/opinion/2026-10-23-toby-shapshak-meta-fined-25bn-for-cambridge-analytica-privacy-scandal/",
           "domain": "businessday.co.za",
           "date": "2026-10-23"
-        }
-      ]
-    },
-    "south-africa:bigger-cataract-connected": {
-      "id": "south-africa:bigger-cataract-connected",
-      "country": "South Africa",
-      "terms": [
-        "cataract",
-        "connected",
-        "door",
-        "leone",
-        "sierra",
-        "bigger",
-        "faster",
-        "marks",
-        "outreach",
-        "point"
-      ],
-      "domains": [
-        "africa-newsroom.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "APO Group - Africa Newsroom / Press release | Year Two Marks a Turning Point in Sierra Leone Cataract Outreach , and Opens the Door to a Bigger , Faster , More Connected Year Three",
-          "url": "https://www.africa-newsroom.com/press/year-two-marks-a-turning-point-in-sierra-leones-cataract-outreach-and-opens-the-door-to-a-bigger-faster-more-connected-year-three",
-          "domain": "africa-newsroom.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "APO Group - Africa Newsroom / Press release | Year Two Marks a Turning Point in Sierra Leone Cataract Outreach , and Opens the Door to a Bigger , Faster , More Connected Year Three",
-          "url": "https://www.africa-newsroom.com/press/year-two-marks-a-turning-point-in-sierra-leones-cataract-outreach-and-opens-the-door-to-a-bigger-faster-more-connected-year-three",
-          "domain": "africa-newsroom.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:arabia-embassy-families": {
-      "id": "philippines:arabia-embassy-families",
-      "country": "Philippines",
-      "terms": [
-        "washington",
-        "embassy",
-        "leave",
-        "staff",
-        "orders",
-        "families",
-        "arabia",
-        "saudi",
-        "condition",
-        "critical",
-        "hurt",
-        "filipinos",
-        "attacks",
-        "childhood",
-        "executed",
-        "offenses",
-        "man",
-        "acts",
-        "bangladeshis",
-        "executes",
-        "indecent",
-        "depart",
-        "diplomats",
-        "houthi"
-      ],
-      "domains": [
-        "manilatimes.net",
-        "philstar.com",
-        "philippinetimes.com",
-        "bworldonline.com"
-      ],
-      "daysSeen": [
-        "2026-10-22",
-        "2026-10-20",
-        "2026-10-19"
-      ],
-      "articleCount": 10,
-      "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Washington orders US embassy staff , families to leave Saudi Arabia",
-          "url": "https://www.manilatimes.net/2026/10/22/world/americas-emea/washington-orders-us-embassy-staff-families-to-leave-saudi-arabia/2451347",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "7 Filipinos hurt in attacks on Saudi Arabia ; 3 in critical condition",
-          "url": "https://www.philstar.com/headlines/2026/10/20/2564322/7-filipinos-hurt-attacks-saudi-arabia-3-critical-condition",
-          "domain": "philstar.com",
-          "date": "2026-10-20"
-        },
-        {
-          "title": "Saudi Arabia : Man Executed for Childhood Offenses",
-          "url": "http://www.philippinetimes.com/news/279385713/saudi-arabia-man-executed-for-childhood-offenses",
-          "domain": "philippinetimes.com",
-          "date": "2026-10-19"
-        },
-        {
-          "title": "Saudi Arabia executes 2 Bangladeshis over  indecent acts",
-          "url": "https://www.manilatimes.net/2026/10/20/world/americas-emea/saudi-arabia-executes-2-bangladeshis-over-indecent-acts/2449229",
-          "domain": "manilatimes.net",
-          "date": "2026-10-19"
-        },
-        {
-          "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
-          "url": "https://bworldonline.com/world/2026/10/22/788601/us-orders-diplomats-to-depart-saudi-arabia-amid-houthi-strikes/",
-          "domain": "bworldonline.com",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -13242,18 +11481,25 @@
         "part",
         "2nd",
         "justice",
-        "candidates"
+        "candidates",
+        "rear",
+        "understand",
+        "view",
+        "you",
+        "dont",
+        "what"
       ],
       "domains": [
         "rappler.com"
       ],
       "daysSeen": [
         "2026-10-23",
-        "2026-10-22"
+        "2026-10-22",
+        "2026-11-10"
       ],
-      "articleCount": 5,
+      "articleCount": 6,
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-11-10",
       "samples": [
         {
           "title": "Part 2 : Old - timer bets in the running to be Marco 2nd SC justice",
@@ -13284,100 +11530,6 @@
           "url": "https://www.rappler.com/philippines/supreme-court-associate-justice-candidates-marcos-pick-2026-part-2/",
           "domain": "rappler.com",
           "date": "2026-10-23"
-        }
-      ]
-    },
-    "philippines:africa-billion-cairo": {
-      "id": "philippines:africa-billion-cairo",
-      "country": "Philippines",
-      "terms": [
-        "cairo",
-        "hotel101",
-        "enters",
-        "project",
-        "billion",
-        "africa",
-        "entering",
-        "hotel",
-        "egypt"
-      ],
-      "domains": [
-        "bworldonline.com",
-        "philstar.com"
-      ],
-      "daysSeen": [
-        "2026-10-21",
-        "2026-10-22"
-      ],
-      "articleCount": 4,
-      "firstSeen": "2026-10-21",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Hotel101 enters Africa with P6 . 44 - billion project in Cairo",
-          "url": "https://bworldonline.com/corporate/2026/10/21/788498/hotel101-enters-africa-with-p6-44-billion-project-in-cairo/",
-          "domain": "bworldonline.com",
-          "date": "2026-10-21"
-        },
-        {
-          "title": "Hotel101 entering Africa with new Egypt hotel",
-          "url": "https://www.philstar.com/business/2026/10/22/2564833/hotel101-entering-africa-new-egypt-hotel",
-          "domain": "philstar.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Hotel101 enters Africa with P6 . 44 - billion project in Cairo",
-          "url": "https://bworldonline.com/corporate/2026/10/21/788498/hotel101-enters-africa-with-p6-44-billion-project-in-cairo/",
-          "domain": "bworldonline.com",
-          "date": "2026-10-21"
-        },
-        {
-          "title": "Hotel101 entering Africa with new Egypt hotel",
-          "url": "https://www.philstar.com/business/2026/10/22/2564833/hotel101-entering-africa-new-egypt-hotel",
-          "domain": "philstar.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:agri-hits-island": {
-      "id": "philippines:agri-hits-island",
-      "country": "Philippines",
-      "terms": [
-        "agri",
-        "island",
-        "p40m",
-        "negros",
-        "hits",
-        "loss",
-        "nino"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Negros Island agri loss from El Niño hits P40M",
-          "url": "https://www.manilatimes.net/2026/10/23/regions/negros-island-agri-loss-from-el-nio-hits-p40m/2452216",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Negros Island agri loss from El Niño hits P40M",
-          "url": "https://www.manilatimes.net/2026/10/23/regions/negros-island-agri-loss-from-el-nio-hits-p40m/2452216",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Negros Island agri loss from El Niño hits P40M",
-          "url": "https://www.manilatimes.net/2026/10/23/regions/negros-island-agri-loss-from-el-nio-hits-p40m/2452216",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -13420,87 +11572,6 @@
           "url": "https://www.bulatlat.com/2026/10/23/mindanao-beverage-firm-workers-denounce-unequal-treatment/",
           "domain": "bulatlat.com",
           "date": "2026-10-23"
-        }
-      ]
-    },
-    "philippines:announces-etps-harmonization": {
-      "id": "philippines:announces-etps-harmonization",
-      "country": "Philippines",
-      "terms": [
-        "etps",
-        "harmonization",
-        "index",
-        "rebalancing",
-        "schedules",
-        "selected",
-        "virtune",
-        "announces"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Virtune announces harmonization of rebalancing schedules for selected index ETPs",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/virtune-announces-harmonization-of-rebalancing-schedules-for-selected-index-etps/2451520",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Virtune announces harmonization of rebalancing schedules for selected index ETPs",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/virtune-announces-harmonization-of-rebalancing-schedules-for-selected-index-etps/2451520",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:adjusting-bir-companies": {
-      "id": "philippines:adjusting-bir-companies",
-      "country": "Philippines",
-      "terms": [
-        "adjusting",
-        "bir",
-        "comply",
-        "cwt",
-        "invoice",
-        "companies",
-        "provides",
-        "relief",
-        "rules"
-      ],
-      "domains": [
-        "bworldonline.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "BIR provides relief to companies adjusting invoice systems to comply with CWT rules",
-          "url": "https://bworldonline.com/economy/2026/10/22/788754/bir-provides-relief-to-companies-adjusting-invoice-systems-to-comply-with-cwt-rules/",
-          "domain": "bworldonline.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "BIR provides relief to companies adjusting invoice systems to comply with CWT rules",
-          "url": "https://bworldonline.com/economy/2026/10/22/788754/bir-provides-relief-to-companies-adjusting-invoice-systems-to-comply-with-cwt-rules/",
-          "domain": "bworldonline.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "BIR provides relief to companies adjusting invoice systems to comply with CWT rules",
-          "url": "https://bworldonline.com/economy/2026/10/22/788754/bir-provides-relief-to-companies-adjusting-invoice-systems-to-comply-with-cwt-rules/",
-          "domain": "bworldonline.com",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -13591,283 +11662,6 @@
         }
       ]
     },
-    "philippines:bearings-implementation-miba": {
-      "id": "philippines:bearings-implementation-miba",
-      "country": "Philippines",
-      "terms": [
-        "bearings",
-        "miba",
-        "realignment",
-        "renk",
-        "sale",
-        "slide",
-        "implementation",
-        "resolute"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Resolute implementation of RENK Group strategic realignment with sale of slide bearings business to Miba AG",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/resolute-implementation-of-renk-group-strategic-realignment-with-sale-of-slide-bearings-business-to-miba-ag/2451339",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Resolute implementation of RENK Group strategic realignment with sale of slide bearings business to Miba AG",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/resolute-implementation-of-renk-group-strategic-realignment-with-sale-of-slide-bearings-business-to-miba-ag/2451339",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:cool-deal-ready": {
-      "id": "philippines:cool-deal-ready",
-      "country": "Philippines",
-      "terms": [
-        "cool",
-        "trilateral",
-        "resume",
-        "russia",
-        "ready",
-        "talks",
-        "ukraine",
-        "deal"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Russia  ready  to resume trilateral talks but cool on Ukraine deal",
-          "url": "https://www.manilatimes.net/2026/10/22/world/americas-emea/russia-ready-to-resume-trilateral-talks-but-cool-on-ukraine-deal/2451350",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Russia  ready  to resume trilateral talks but cool on Ukraine deal",
-          "url": "https://www.manilatimes.net/2026/10/22/world/americas-emea/russia-ready-to-resume-trilateral-talks-but-cool-on-ukraine-deal/2451350",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:album-mercury-prize": {
-      "id": "philippines:album-mercury-prize",
-      "country": "Philippines",
-      "terms": [
-        "mercury",
-        "prize",
-        "raye",
-        "singer",
-        "songwriter",
-        "album",
-        "wins",
-        "second"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "UK singer - songwriter Raye wins Mercury Prize for second album",
-          "url": "https://www.manilatimes.net/2026/10/23/entertainment-lifestyle/uk-singer-songwriter-raye-wins-mercury-prize-for-second-album/2452394",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "UK singer - songwriter Raye wins Mercury Prize for second album",
-          "url": "https://www.manilatimes.net/2026/10/23/entertainment-lifestyle/uk-singer-songwriter-raye-wins-mercury-prize-for-second-album/2452394",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "UK singer - songwriter Raye wins Mercury Prize for second album",
-          "url": "https://www.manilatimes.net/2026/10/23/entertainment-lifestyle/uk-singer-songwriter-raye-wins-mercury-prize-for-second-album/2452394",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:alcatel-backed-cable": {
-      "id": "philippines:alcatel-backed-cable",
-      "country": "Philippines",
-      "terms": [
-        "alcatel",
-        "developer",
-        "nec",
-        "pick",
-        "sea",
-        "supplier",
-        "backed",
-        "cable",
-        "data"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "US - backed SEA data cable to pick NEC or Alcatel as supplier – developer",
-          "url": "https://www.manilatimes.net/2026/10/22/business/foreign-business/us-backed-sea-data-cable-to-pick-nec-or-alcatel-as-supplier-developer/2451625",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "US - backed SEA data cable to pick NEC or Alcatel as supplier – developer",
-          "url": "https://www.manilatimes.net/2026/10/22/business/foreign-business/us-backed-sea-data-cable-to-pick-nec-or-alcatel-as-supplier-developer/2451625",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "US - backed SEA data cable to pick NEC or Alcatel as supplier – developer",
-          "url": "https://www.manilatimes.net/2026/10/22/business/foreign-business/us-backed-sea-data-cable-to-pick-nec-or-alcatel-as-supplier-developer/2451625",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:alleged-chr-farmers": {
-      "id": "philippines:alleged-chr-farmers",
-      "country": "Philippines",
-      "terms": [
-        "chr",
-        "journalist",
-        "farmers",
-        "probes",
-        "violence",
-        "alleged"
-      ],
-      "domains": [
-        "tribune.net.ph"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "CHR probes alleged police violence against journalist during farmers",
-          "url": "https://tribune.net.ph/2026/10/22/chr-probes-alleged-police-violence-against-journalist-during-farmers-protest",
-          "domain": "tribune.net.ph",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "CHR probes alleged police violence against journalist during farmers",
-          "url": "https://tribune.net.ph/2026/10/22/chr-probes-alleged-police-violence-against-journalist-during-farmers-protest",
-          "domain": "tribune.net.ph",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:adults-asian-encountered": {
-      "id": "philippines:adults-asian-encountered",
-      "country": "Philippines",
-      "terms": [
-        "asian",
-        "encountered",
-        "estimated",
-        "gasa",
-        "losses",
-        "scams",
-        "surveyed",
-        "adults"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "New GASA Research : 71 % of Adults Surveyed Across 13 Asian Markets Encountered Scams , with Estimated Losses of US$136 . 5 Billion",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/pr-newswire/new-gasa-research-71-of-adults-surveyed-across-13-asian-markets-encountered-scams-with-estimated-losses-of-us1365-billion/2451398",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "New GASA Research : 71 % of Adults Surveyed Across 13 Asian Markets Encountered Scams , with Estimated Losses of US$136 . 5 Billion",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/pr-newswire/new-gasa-research-71-of-adults-surveyed-across-13-asian-markets-encountered-scams-with-estimated-losses-of-us1365-billion/2451398",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:acquisition-announce-approvals": {
-      "id": "philippines:acquisition-announce-approvals",
-      "country": "Philippines",
-      "terms": [
-        "approvals",
-        "northrim",
-        "pbco",
-        "acquisition",
-        "shareholder",
-        "announce",
-        "bancorp",
-        "corporation",
-        "proposed"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Northrim BanCorp , Inc . and PBCO Financial Corporation Announce Shareholder Approvals for Proposed Acquisition",
-          "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/northrim-bancorp-inc-and-pbco-financial-corporation-announce-shareholder-approvals-for-proposed-acquisition/2452244",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Northrim BanCorp , Inc . and PBCO Financial Corporation Announce Shareholder Approvals for Proposed Acquisition",
-          "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/northrim-bancorp-inc-and-pbco-financial-corporation-announce-shareholder-approvals-for-proposed-acquisition/2452244",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Northrim BanCorp , Inc . and PBCO Financial Corporation Announce Shareholder Approvals for Proposed Acquisition",
-          "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/northrim-bancorp-inc-and-pbco-financial-corporation-announce-shareholder-approvals-for-proposed-acquisition/2452244",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "philippines:appeal-board-destination": {
       "id": "philippines:appeal-board-destination",
       "country": "Philippines",
@@ -13908,247 +11702,6 @@
           "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/pr-newswire/visa-partners-singapore-tourism-board-to-strengthen-singapores-global-destination-appeal/2452440",
           "domain": "manilatimes.net",
           "date": "2026-10-23"
-        }
-      ]
-    },
-    "philippines:awards-broker-brokers": {
-      "id": "philippines:awards-broker-brokers",
-      "country": "Philippines",
-      "terms": [
-        "awards",
-        "broker",
-        "brokers",
-        "choice",
-        "clinches",
-        "retail",
-        "sias",
-        "tiger"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Tiger Brokers Clinches Best Retail Broker in Singapore at SIAS Investor Choice Awards 2026",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/pr-newswire/tiger-brokers-clinches-best-retail-broker-in-singapore-at-sias-investors-choice-awards-2026/2451408",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Tiger Brokers Clinches Best Retail Broker in Singapore at SIAS Investor Choice Awards 2026",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/pr-newswire/tiger-brokers-clinches-best-retail-broker-in-singapore-at-sias-investors-choice-awards-2026/2451408",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:acuity-biomarker-further": {
-      "id": "philippines:acuity-biomarker-further",
-      "country": "Philippines",
-      "terms": [
-        "acuity",
-        "biomarker",
-        "neuritis",
-        "neuroprotective",
-        "oculis",
-        "optic",
-        "privosegtor",
-        "further"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Oculis Reports New Phase 2 ACUITY Biomarker Data Further Supporting Privosegtor Neuroprotective Potential in Optic Neuritis",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/oculis-reports-new-phase-2-acuity-biomarker-data-further-supporting-privosegtors-neuroprotective-potential-in-optic-neuritis/2451449",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Oculis Reports New Phase 2 ACUITY Biomarker Data Further Supporting Privosegtor Neuroprotective Potential in Optic Neuritis",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/oculis-reports-new-phase-2-acuity-biomarker-data-further-supporting-privosegtors-neuroprotective-potential-in-optic-neuritis/2451449",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:corporation-interim-nokia": {
-      "id": "philippines:corporation-interim-nokia",
-      "country": "Philippines",
-      "terms": [
-        "interim",
-        "nokia",
-        "corporation",
-        "report",
-        "consolidated",
-        "grupp",
-        "tallink",
-        "unaudited"
-      ],
-      "domains": [
-        "manilatimes.net"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 4,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Nokia Corporation Interim Report for Q3 2026",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/nokia-corporation-interim-report-for-q3-2026/2451427",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "AS Tallink Grupp Unaudited Consolidated Interim Report for the Q3 2026",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/as-tallink-grupp-unaudited-consolidated-interim-report-for-the-q3-2026/2451451",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Nokia Corporation Interim Report for Q3 2026",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/nokia-corporation-interim-report-for-q3-2026/2451427",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "AS Tallink Grupp Unaudited Consolidated Interim Report for the Q3 2026",
-          "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/as-tallink-grupp-unaudited-consolidated-interim-report-for-the-q3-2026/2451451",
-          "domain": "manilatimes.net",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:actions-anthem-criticizes": {
-      "id": "philippines:actions-anthem-criticizes",
-      "country": "Philippines",
-      "terms": [
-        "actions",
-        "criticizes",
-        "viral",
-        "anthem",
-        "james",
-        "lebron",
-        "video",
-        "national"
-      ],
-      "domains": [
-        "tribune.net.ph"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Trump Criticizes LeBron James Over National Anthem Actions in Viral Video",
-          "url": "https://tribune.net.ph/2026/10/22/trump-slams-nbas-lebron-james-for-national-anthem-actions",
-          "domain": "tribune.net.ph",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Trump Criticizes LeBron James Over National Anthem Actions in Viral Video",
-          "url": "https://tribune.net.ph/2026/10/22/trump-slams-nbas-lebron-james-for-national-anthem-actions",
-          "domain": "tribune.net.ph",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Trump Criticizes LeBron James Over National Anthem Actions in Viral Video",
-          "url": "https://tribune.net.ph/2026/10/22/trump-slams-nbas-lebron-james-for-national-anthem-actions",
-          "domain": "tribune.net.ph",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:like-neighbor": {
-      "id": "philippines:like-neighbor",
-      "country": "Philippines",
-      "terms": [
-        "neighbor",
-        "like"
-      ],
-      "domains": [
-        "tribune.net.ph"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "With a neighbor like this …",
-          "url": "https://tribune.net.ph/2026/10/22/with-a-neighbor-like-this",
-          "domain": "tribune.net.ph",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "With a neighbor like this …",
-          "url": "https://tribune.net.ph/2026/10/22/with-a-neighbor-like-this",
-          "domain": "tribune.net.ph",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "With a neighbor like this …",
-          "url": "https://tribune.net.ph/2026/10/22/with-a-neighbor-like-this",
-          "domain": "tribune.net.ph",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "philippines:affordability-billion-bond": {
-      "id": "philippines:affordability-billion-bond",
-      "country": "Philippines",
-      "terms": [
-        "affordability",
-        "california",
-        "housing",
-        "weigh",
-        "bond",
-        "voters",
-        "billion",
-        "crisis",
-        "state"
-      ],
-      "domains": [
-        "asianjournal.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "California voters weigh $11 . 25 billion housing bond amid affordability crisis California State",
-          "url": "https://asianjournal.com/usa/california/california-voters-weigh-11-25-billion-housing-bond-amid-affordability-crisis/",
-          "domain": "asianjournal.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "California voters weigh $11 . 25 billion housing bond amid affordability crisis California State",
-          "url": "https://asianjournal.com/usa/california/california-voters-weigh-11-25-billion-housing-bond-amid-affordability-crisis/",
-          "domain": "asianjournal.com",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -14449,56 +12002,6 @@
         }
       ]
     },
-    "indonesia:bodoh-ikut-komentari": {
-      "id": "indonesia:bodoh-ikut-komentari",
-      "country": "Indonesia",
-      "terms": [
-        "bodoh",
-        "komentari",
-        "lain",
-        "pemimpin",
-        "trump",
-        "ikut",
-        "sebut",
-        "macron",
-        "prancis"
-      ],
-      "domains": [
-        "cnnindonesia.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 4,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Macron Sebut Trump & Pemimpin Lain  Bodoh  Ikut Komentari Demo Prancis",
-          "url": "https://www.cnnindonesia.com/internasional/20261022133847-134-1418394/macron-sebut-trump-pemimpin-lain-bodoh-ikut-komentari-demo-prancis",
-          "domain": "cnnindonesia.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Macron Sebut Trump & Pemimpin Lain  Bodoh  Ikut Komentari Demo Prancis",
-          "url": "https://www.cnnindonesia.com/internasional/20261022133847-134-1418394/macron-sebut-trump-pemimpin-lain-bodoh-ikut-komentari-demo-prancis",
-          "domain": "cnnindonesia.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Macron Sebut Trump & Pemimpin Lain  Bodoh  Ikut Komentari Demo Prancis",
-          "url": "https://www.cnnindonesia.com/internasional/20261022133847-134-1418394/macron-sebut-trump-pemimpin-lain-bodoh-ikut-komentari-demo-prancis",
-          "domain": "cnnindonesia.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Macron Sebut Trump & Pemimpin Lain  Bodoh  Ikut Komentari Demo Prancis",
-          "url": "https://www.cnnindonesia.com/internasional/20261022133847-134-1418394/macron-sebut-trump-pemimpin-lain-bodoh-ikut-komentari-demo-prancis",
-          "domain": "cnnindonesia.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "indonesia:atas-bertanggung-dihapus": {
       "id": "indonesia:atas-bertanggung-dihapus",
       "country": "Indonesia",
@@ -14692,56 +12195,6 @@
           "url": "https://international.sindonews.com/read/1763769/41/imbas-kerusuhan-macron-larang-demo-yang-dinilai-tidak-sah-di-prancis-1792721402",
           "domain": "international.sindonews.com",
           "date": "2026-10-23"
-        }
-      ]
-    },
-    "indonesia:beban-beratnya-berunjuk": {
-      "id": "indonesia:beban-beratnya-berunjuk",
-      "country": "Indonesia",
-      "terms": [
-        "beban",
-        "beratnya",
-        "berunjuk",
-        "juga",
-        "ketinggalan",
-        "mau",
-        "yunani",
-        "warga",
-        "hidup"
-      ],
-      "domains": [
-        "koran-jakarta.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 4,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Tak Mau Ketinggalan , Warga Yunani Juga Berunjuk Rasa Beratnya Beban Hidup",
-          "url": "https://koran-jakarta.com/2026-10-22/tak-mau-ketinggalan-warga-yunani-juga-berunjuk-rasa-beratnya-beban-hidup",
-          "domain": "koran-jakarta.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Tak Mau Ketinggalan , Warga Yunani Juga Berunjuk Rasa Beratnya Beban Hidup",
-          "url": "https://koran-jakarta.com/2026-10-22/tak-mau-ketinggalan-warga-yunani-juga-berunjuk-rasa-beratnya-beban-hidup",
-          "domain": "koran-jakarta.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Tak Mau Ketinggalan , Warga Yunani Juga Berunjuk Rasa Beratnya Beban Hidup",
-          "url": "https://koran-jakarta.com/2026-10-22/tak-mau-ketinggalan-warga-yunani-juga-berunjuk-rasa-beratnya-beban-hidup",
-          "domain": "koran-jakarta.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Tak Mau Ketinggalan , Warga Yunani Juga Berunjuk Rasa Beratnya Beban Hidup",
-          "url": "https://koran-jakarta.com/2026-10-22/tak-mau-ketinggalan-warga-yunani-juga-berunjuk-rasa-beratnya-beban-hidup",
-          "domain": "koran-jakarta.com",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -15262,37 +12715,6 @@
           "url": "https://www.premiumtimesng.com/business/business-news/919846-unilever-nigeria-posts-20-jump-in-nine-month-profit-raises-interim-dividend-fourfold.html",
           "domain": "premiumtimesng.com",
           "date": "2026-10-24"
-        }
-      ]
-    },
-    "nigeria:black-fast-keep": {
-      "id": "nigeria:black-fast-keep",
-      "country": "Nigeria",
-      "terms": [
-        "black",
-        "regulators",
-        "sellers",
-        "weight",
-        "fast",
-        "keep",
-        "loss",
-        "moving"
-      ],
-      "domains": [
-        "allafrica.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "South Africa : Black Market Weight - Loss Drug Sellers Are Moving Fast . South Africa Regulators Are Struggling To Keep Up",
-          "url": "https://allafrica.com/stories/202610220121.html",
-          "domain": "allafrica.com",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -16143,30 +13565,6 @@
           "url": "https://www.sanews.gov.za/world/bafana-scores-impressive-win-against-spain",
           "domain": "sanews.gov.za",
           "date": "2026-10-25"
-        }
-      ]
-    },
-    "south-africa:virus-2": {
-      "id": "south-africa:virus-2",
-      "country": "South Africa",
-      "terms": [
-        "virus"
-      ],
-      "domains": [
-        "6000.co.za"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "virus",
-          "url": "https://6000.co.za/tag/virus/",
-          "domain": "6000.co.za",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -17180,7 +14578,7 @@
         "2026-10-25",
         "2026-11-08"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-11-08",
       "samples": [
@@ -17195,6 +14593,12 @@
           "url": "https://www.standardmedia.co.ke/national/article/2001560827/russia-faces-backlash-over-dead-missing-recruits-ahead-of-summit",
           "domain": "standardmedia.co.ke",
           "date": "2026-10-25"
+        },
+        {
+          "title": "Europe faces growing backlash against data centers amid resource concerns",
+          "url": "http://www.kenyastar.com/news/279420625/europe-faces-growing-backlash-against-data-centers-amid-resource-concerns",
+          "domain": "kenyastar.com",
+          "date": "2026-11-08"
         },
         {
           "title": "Europe faces growing backlash against data centers amid resource concerns",
@@ -17269,35 +14673,6 @@
         }
       ]
     },
-    "kenya:cancer-days-defied": {
-      "id": "kenya:cancer-days-defied",
-      "country": "Kenya",
-      "terms": [
-        "cancer",
-        "days",
-        "defied",
-        "diagnosis",
-        "live",
-        "warrior"
-      ],
-      "domains": [
-        "the-star.co.ke"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Cancer warrior who defied a  10 days to live  diagnosis",
-          "url": "https://www.the-star.co.ke/news/big-read/2026-10-22-cancer-warrior-who-defied-a-10-days-to-live-diagnosis",
-          "domain": "the-star.co.ke",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "kenya:bbc-border-chief": {
       "id": "kenya:bbc-border-chief",
       "country": "Kenya",
@@ -17326,51 +14701,6 @@
           "url": "https://www.the-star.co.ke/news/world/2026-10-24-minneapolis-withdrawal-was-surrender-trumps-ex-border-patrol-chief-tells-bbc",
           "domain": "the-star.co.ke",
           "date": "2026-10-24"
-        }
-      ]
-    },
-    "kenya:allegedly-billion-deal": {
-      "id": "kenya:allegedly-billion-deal",
-      "country": "Kenya",
-      "terms": [
-        "allegedly",
-        "billion",
-        "ksh42",
-        "proxies",
-        "reveals",
-        "deal",
-        "kpc",
-        "nyoro",
-        "claims",
-        "investor",
-        "mystery",
-        "renews",
-        "sale",
-        "shares"
-      ],
-      "domains": [
-        "nairobiwire.com",
-        "the-star.co.ke"
-      ],
-      "daysSeen": [
-        "2026-10-22",
-        "2026-10-21"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-21",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Nyoro Reveals How Ruto Allegedly Used Proxies in Ksh42 Billion KPC Deal",
-          "url": "https://nairobiwire.com/2026/10/nyoro-ruto-kpc-shares-private-investor-allegations.html",
-          "domain": "nairobiwire.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Nyoro renews claims over KPC shares sale to mystery investor",
-          "url": "https://www.the-star.co.ke/news/2026-10-21-nyoro-renews-claims-over-kpc-shares-sale-to-mystery-investor",
-          "domain": "the-star.co.ke",
-          "date": "2026-10-21"
         }
       ]
     },
@@ -17577,36 +14907,6 @@
         }
       ]
     },
-    "kenya:dcp-envoy-eyes": {
-      "id": "kenya:dcp-envoy-eyes",
-      "country": "Kenya",
-      "terms": [
-        "envoy",
-        "eyes",
-        "governor",
-        "joins",
-        "nyeri",
-        "dcp",
-        "seat"
-      ],
-      "domains": [
-        "nairobiwire.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Kenya India Envoy Joins Gachagua DCP , Eyes Nyeri Governor Seat",
-          "url": "https://nairobiwire.com/2026/10/peter-munyiri-nyeri-governor-dcp-2027.html",
-          "domain": "nairobiwire.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "kenya:detonates-fails-life": {
       "id": "kenya:detonates-fails-life",
       "country": "Kenya",
@@ -17764,152 +15064,6 @@
         }
       ]
     },
-    "kenya:assaulted-fuel-journalist": {
-      "id": "kenya:assaulted-fuel-journalist",
-      "country": "Kenya",
-      "terms": [
-        "assaulted",
-        "kanja",
-        "fuel",
-        "journalist",
-        "nairobi",
-        "assault",
-        "concern",
-        "general",
-        "inspector",
-        "citizen",
-        "raises"
-      ],
-      "domains": [
-        "kenya-today.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "IG Kanja warns police officers after journalist assaulted during Nairobi fuel protest",
-          "url": "https://kenya-today.com/report-ig-kanja-warns-police-officers-after-journalist-assaulted-during-nairobi-fuel-protest-15325/",
-          "domain": "kenya-today.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Inspector - General raises concern over police assault on Citizen TV journalist during fuel protests",
-          "url": "https://kenya-today.com/report-inspector-general-raises-concern-over-police-assault-on-citizen-tv-journalist-during-fuel-protests-15300/",
-          "domain": "kenya-today.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "kenya:attack-criticism-drop": {
-      "id": "kenya:attack-criticism-drop",
-      "country": "Kenya",
-      "terms": [
-        "criticism",
-        "drop",
-        "ohio",
-        "republicans",
-        "urges",
-        "vance",
-        "vice",
-        "attack"
-      ],
-      "domains": [
-        "kenya-today.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "US Vice ‑ President JD Vance urges Republicans to drop criticism of Ohio attack ad",
-          "url": "https://kenya-today.com/report-us-vicepresident-jd-vance-urges-republicans-to-drop-criticism-of-ohio-attack-ad-14853/",
-          "domain": "kenya-today.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "kenya:body-dig-dna": {
-      "id": "kenya:body-dig-dna",
-      "country": "Kenya",
-      "terms": [
-        "body",
-        "dig",
-        "dna",
-        "fights",
-        "saitoti",
-        "secret",
-        "son",
-        "widow"
-      ],
-      "domains": [
-        "the-star.co.ke"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Saitoti widow fights bid to dig up ex - VP body in secret - son DNA war",
-          "url": "https://www.the-star.co.ke/news/2026-10-22-saitotis-widow-fights-bid-to-dig-up-body-in-secret-son-dna-war",
-          "domain": "the-star.co.ke",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "kenya:citizens-frontlines-heads": {
-      "id": "kenya:citizens-frontlines-heads",
-      "country": "Kenya",
-      "terms": [
-        "frontlines",
-        "return",
-        "sent",
-        "citizens",
-        "heads",
-        "moscow",
-        "presses",
-        "summit",
-        "conscripts",
-        "stakes",
-        "talks",
-        "president",
-        "kenyan"
-      ],
-      "domains": [
-        "nairobiwire.com",
-        "kenya-today.com"
-      ],
-      "daysSeen": [
-        "2026-10-22",
-        "2026-10-21"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-10-21",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Ruto Heads to Moscow for Summit as Kenya Presses Return of Citizens Sent to Ukraine Frontlines",
-          "url": "https://nairobiwire.com/2026/10/ruto-moscow-russia-africa-summit-kenya-ukraine-repatriation.html",
-          "domain": "nairobiwire.com",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "President Ruto heads to Moscow for high ‑ stakes talks on Kenyan conscripts in Ukraine",
-          "url": "https://kenya-today.com/report-president-ruto-heads-to-moscow-for-highstakes-talks-on-kenyan-conscripts-in-ukraine-14690/",
-          "domain": "kenya-today.com",
-          "date": "2026-10-21"
-        }
-      ]
-    },
     "kenya:bring-citizens-home": {
       "id": "kenya:bring-citizens-home",
       "country": "Kenya",
@@ -18013,35 +15167,6 @@
         }
       ]
     },
-    "kenya:crimes-delivering-icc": {
-      "id": "kenya:crimes-delivering-icc",
-      "country": "Kenya",
-      "terms": [
-        "crimes",
-        "delivering",
-        "icc",
-        "world",
-        "worst",
-        "justice"
-      ],
-      "domains": [
-        "standardmedia.co.ke"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "ICC : Delivering justice for the world worst crimes",
-          "url": "https://www.standardmedia.co.ke/world/article/2001560665/icc-delivering-justice-for-the-worlds-worst-crimes",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "kenya:backed-infantino-majority": {
       "id": "kenya:backed-infantino-majority",
       "country": "Kenya",
@@ -18071,7 +15196,7 @@
         "2026-10-24",
         "2026-11-10"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-11-10",
       "samples": [
@@ -18092,35 +15217,12 @@
           "url": "https://kenya-today.com/report-wenger-mulls-fifa-challenge-as-infantino-faces-growing-scrutiny-24980/",
           "domain": "kenya-today.com",
           "date": "2026-11-10"
-        }
-      ]
-    },
-    "kenya:allows-appointments-challenge": {
-      "id": "kenya:allows-appointments-challenge",
-      "country": "Kenya",
-      "terms": [
-        "allows",
-        "appointments",
-        "counsel",
-        "senior",
-        "since",
-        "challenge"
-      ],
-      "domains": [
-        "kenya-today.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
+        },
         {
-          "title": "High Court Allows Challenge to Senior Counsel Appointments Since 2013",
-          "url": "https://kenya-today.com/report-high-court-allows-challenge-to-senior-counsel-appointments-since-2013-15006/",
+          "title": "Wenger Mulls FIFA Challenge as Infantino Faces Growing Scrutiny",
+          "url": "https://kenya-today.com/report-wenger-mulls-fifa-challenge-as-infantino-faces-growing-scrutiny-24980/",
           "domain": "kenya-today.com",
-          "date": "2026-10-22"
+          "date": "2026-11-10"
         }
       ]
     },
@@ -18197,37 +15299,6 @@
           "url": "https://kenya-today.com/report-manchester-united-advances-2bn-100000seat-stadium-plan-near-old-trafford-16259/",
           "domain": "kenya-today.com",
           "date": "2026-10-25"
-        }
-      ]
-    },
-    "kenya:airport-dammam-eight": {
-      "id": "kenya:airport-dammam-eight",
-      "country": "Kenya",
-      "terms": [
-        "airport",
-        "dammam",
-        "eight",
-        "fahd",
-        "injured",
-        "international",
-        "king",
-        "one"
-      ],
-      "domains": [
-        "kenyastar.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "One dead , eight injured in attack on King Fahd International Airport in Saudi Arabia Dammam",
-          "url": "http://www.kenyastar.com/news/279391129/one-dead-eight-injured-in-attack-on-king-fahd-international-airport-in-saudi-arabia-dammam",
-          "domain": "kenyastar.com",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -18780,37 +15851,6 @@
         }
       ]
     },
-    "united-kingdom:attack-battle-burned": {
-      "id": "united-kingdom:attack-battle-burned",
-      "country": "United Kingdom",
-      "terms": [
-        "attack",
-        "battle",
-        "burned",
-        "citizenship",
-        "koran",
-        "loses",
-        "man",
-        "politician"
-      ],
-      "domains": [
-        "aol.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "UK man loses citizenship battle after threatening to attack politician who burned Koran",
-          "url": "https://www.aol.co.uk/articles/uk-man-loses-citizenship-battle-183100000.html",
-          "domain": "aol.co.uk",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "united-kingdom:all-elections-fear": {
       "id": "united-kingdom:all-elections-fear",
       "country": "United Kingdom",
@@ -18995,37 +16035,6 @@
         }
       ]
     },
-    "united-kingdom:alberto-alemanno-coordinated": {
-      "id": "united-kingdom:alberto-alemanno-coordinated",
-      "country": "United Kingdom",
-      "terms": [
-        "alberto",
-        "alemanno",
-        "coordinated",
-        "enemies",
-        "exactly",
-        "paint",
-        "picture",
-        "uprising"
-      ],
-      "domains": [
-        "theguardian.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "A violent and coordinated youth uprising ? That exactly the picture Europe enemies want to paint | Alberto Alemanno",
-          "url": "https://www.theguardian.com/commentisfree/2026/oct/22/europe-youth-uprising-enemies-protesters",
-          "domain": "theguardian.com",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "united-kingdom:gendarmes-mobilises-saturday": {
       "id": "united-kingdom:gendarmes-mobilises-saturday",
       "country": "United Kingdom",
@@ -19097,67 +16106,6 @@
         }
       ]
     },
-    "united-kingdom:demanding-downing-end": {
-      "id": "united-kingdom:demanding-downing-end",
-      "country": "United Kingdom",
-      "terms": [
-        "demanding",
-        "downing",
-        "end",
-        "pay",
-        "poverty",
-        "strikers",
-        "thoma"
-      ],
-      "domains": [
-        "wrp.org.uk"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "St Thoma strikers march on Downing St demanding an end to poverty pay !",
-          "url": "https://wrp.org.uk/news/st-thomas-strikers-march-on-downing-st-demanding-an-end-to-poverty-pay/",
-          "domain": "wrp.org.uk",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    "united-kingdom:cest-locals-londoners": {
-      "id": "united-kingdom:cest-locals-londoners",
-      "country": "United Kingdom",
-      "terms": [
-        "locals",
-        "londoners",
-        "opinion",
-        "shrug",
-        "torn",
-        "vie",
-        "what",
-        "cest"
-      ],
-      "domains": [
-        "aol.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "OPINION - Cest la vie , shrug locals … but what about the Londoners living in riot - torn Paris ?",
-          "url": "https://www.aol.co.uk/articles/opinion-c-est-la-vie-145341000.html",
-          "domain": "aol.co.uk",
-          "date": "2026-10-22"
-        }
-      ]
-    },
     "nigeria:apprehensive-being-keyamo": {
       "id": "nigeria:apprehensive-being-keyamo",
       "country": "Nigeria",
@@ -19218,36 +16166,6 @@
           "url": "https://leadership.ng/alleged-certificate-forgery-unn-nysc-disown-nnajis-certificates-witness/",
           "domain": "leadership.ng",
           "date": "2026-10-27"
-        }
-      ]
-    },
-    "nigeria:account-binarium-charts": {
-      "id": "nigeria:account-binarium-charts",
-      "country": "Nigeria",
-      "terms": [
-        "account",
-        "binarium",
-        "explained",
-        "signals",
-        "tools",
-        "trading",
-        "charts"
-      ],
-      "domains": [
-        "vanguardngr.com"
-      ],
-      "daysSeen": [
-        "2026-10-22"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-22",
-      "samples": [
-        {
-          "title": "Binarium Trading Tools Explained : Demo Account , Charts , and Signals",
-          "url": "https://www.vanguardngr.com/2026/10/beyond-price-predictions-exploring-binariums-trading-tools-and-features/",
-          "domain": "vanguardngr.com",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -23778,10 +20696,16 @@
       "daysSeen": [
         "2026-11-05"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-05",
       "samples": [
+        {
+          "title": "State approves Sh96 . 95 M compensation for 157 protest victims",
+          "url": "https://www.standardmedia.co.ke/national/article/2001561663/state-approves-sh9695-m-compensation-for-157-protest-victims",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-11-05"
+        },
         {
           "title": "State approves Sh96 . 95 M compensation for 157 protest victims",
           "url": "https://www.standardmedia.co.ke/national/article/2001561663/state-approves-sh9695-m-compensation-for-157-protest-victims",
@@ -23823,10 +20747,16 @@
       "daysSeen": [
         "2026-11-06"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-06",
       "samples": [
+        {
+          "title": "Trump defends Hegseth amid impeachment threat , says US military operations in Iran , Venezuela successful",
+          "url": "http://www.kenyastar.com/news/279415124/trump-defends-hegseth-amid-impeachment-threat-says-us-military-operations-in-iran-venezuela-successful",
+          "domain": "kenyastar.com",
+          "date": "2026-11-06"
+        },
         {
           "title": "Trump defends Hegseth amid impeachment threat , says US military operations in Iran , Venezuela successful",
           "url": "http://www.kenyastar.com/news/279415124/trump-defends-hegseth-amid-impeachment-threat-says-us-military-operations-in-iran-venezuela-successful",
@@ -23865,10 +20795,16 @@
       "daysSeen": [
         "2026-11-06"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-06",
       "samples": [
+        {
+          "title": "AI investment fears wipe out $2 . 5 trillion from US markets",
+          "url": "http://www.kenyastar.com/news/279415406/ai-investment-fears-wipe-out-25-trillion-from-us-markets",
+          "domain": "kenyastar.com",
+          "date": "2026-11-06"
+        },
         {
           "title": "AI investment fears wipe out $2 . 5 trillion from US markets",
           "url": "http://www.kenyastar.com/news/279415406/ai-investment-fears-wipe-out-25-trillion-from-us-markets",
@@ -23909,10 +20845,16 @@
       "daysSeen": [
         "2026-11-06"
       ],
-      "articleCount": 3,
+      "articleCount": 4,
       "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-06",
       "samples": [
+        {
+          "title": "Nifty , Sensex open flat amid bloodbath in global markets",
+          "url": "http://www.kenyastar.com/news/279415428/nifty-sensex-open-flat-amid-bloodbath-in-global-markets",
+          "domain": "kenyastar.com",
+          "date": "2026-11-06"
+        },
         {
           "title": "Nifty , Sensex open flat amid bloodbath in global markets",
           "url": "http://www.kenyastar.com/news/279415428/nifty-sensex-open-flat-amid-bloodbath-in-global-markets",
@@ -24266,10 +21208,16 @@
       "daysSeen": [
         "2026-11-07"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-11-07",
       "lastSeen": "2026-11-07",
       "samples": [
+        {
+          "title": "Africa hopes Trump will be put in check after the midterm polls",
+          "url": "https://www.standardmedia.co.ke/kamotho-waiganjo/article/2001561735/africa-hopes-trump-will-be-put-in-check-after-the-midterm-polls",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-11-07"
+        },
         {
           "title": "Africa hopes Trump will be put in check after the midterm polls",
           "url": "https://www.standardmedia.co.ke/kamotho-waiganjo/article/2001561735/africa-hopes-trump-will-be-put-in-check-after-the-midterm-polls",
@@ -24304,10 +21252,16 @@
       "daysSeen": [
         "2026-11-07"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-11-07",
       "lastSeen": "2026-11-07",
       "samples": [
+        {
+          "title": "Activists breach Microsoft data ‑ centre construction site in Amsterdam amid Europe ‑ wide protests",
+          "url": "https://kenya-today.com/report-activists-breach-microsoft-datacentre-construction-site-in-amsterdam-amid-europewide-protests-23255/",
+          "domain": "kenya-today.com",
+          "date": "2026-11-07"
+        },
         {
           "title": "Activists breach Microsoft data ‑ centre construction site in Amsterdam amid Europe ‑ wide protests",
           "url": "https://kenya-today.com/report-activists-breach-microsoft-datacentre-construction-site-in-amsterdam-amid-europewide-protests-23255/",
@@ -24341,10 +21295,16 @@
       "daysSeen": [
         "2026-11-07"
       ],
-      "articleCount": 2,
+      "articleCount": 3,
       "firstSeen": "2026-11-07",
       "lastSeen": "2026-11-07",
       "samples": [
+        {
+          "title": "Iran distributes iodine tablets amid fears of possible US strikes on nuclear sites : Report",
+          "url": "http://www.kenyastar.com/news/279416823/iran-distributes-iodine-tablets-amid-fears-of-possible-us-strikes-on-nuclear-sites-report",
+          "domain": "kenyastar.com",
+          "date": "2026-11-07"
+        },
         {
           "title": "Iran distributes iodine tablets amid fears of possible US strikes on nuclear sites : Report",
           "url": "http://www.kenyastar.com/news/279416823/iran-distributes-iodine-tablets-amid-fears-of-possible-us-strikes-on-nuclear-sites-report",
@@ -30606,10 +27566,16 @@
       "daysSeen": [
         "2026-11-08"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-08",
       "lastSeen": "2026-11-08",
       "samples": [
+        {
+          "title": "Explosions Reported In Southern Iran",
+          "url": "http://www.kenyastar.com/news/279419559/explosions-reported-in-southern-iran",
+          "domain": "kenyastar.com",
+          "date": "2026-11-08"
+        },
         {
           "title": "Explosions Reported In Southern Iran",
           "url": "http://www.kenyastar.com/news/279419559/explosions-reported-in-southern-iran",
@@ -30629,7 +27595,9 @@
         "mosoriot",
         "retake",
         "rock",
-        "sh7k"
+        "sh7k",
+        "college",
+        "fury"
       ],
       "domains": [
         "the-star.co.ke"
@@ -30637,10 +27605,16 @@
       "daysSeen": [
         "2026-11-07"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-07",
       "lastSeen": "2026-11-07",
       "samples": [
+        {
+          "title": "Teargas , fury rock Mosoriot college as students protest mass exam failure , Sh7K retake fees",
+          "url": "https://www.the-star.co.ke/news/2026-11-07-teargas-fury-rock-mosoriot-ttc-over-mass-exam-failure",
+          "domain": "the-star.co.ke",
+          "date": "2026-11-07"
+        },
         {
           "title": "Teargas , fury rock Mosoriot college as students protest mass exam failure , Sh7K retake fees",
           "url": "https://www.the-star.co.ke/news/2026-11-07-teargas-fury-rock-mosoriot-ttc-over-mass-exam-failure",
@@ -30668,10 +27642,16 @@
       "daysSeen": [
         "2026-11-10"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "samples": [
+        {
+          "title": "U . S . NRC Grants Construction Permit for Dow 320 MW Advanced Nuclear Project in Texas",
+          "url": "https://kenya-today.com/report-us-nrc-grants-construction-permit-for-dows-320-mw-advanced-nuclear-project-in-texas-24918/",
+          "domain": "kenya-today.com",
+          "date": "2026-11-10"
+        },
         {
           "title": "U . S . NRC Grants Construction Permit for Dow 320 MW Advanced Nuclear Project in Texas",
           "url": "https://kenya-today.com/report-us-nrc-grants-construction-permit-for-dows-320-mw-advanced-nuclear-project-in-texas-24918/",
@@ -30699,10 +27679,16 @@
       "daysSeen": [
         "2026-11-10"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "samples": [
+        {
+          "title": "Sakaja exit fractures UDA in Nairobi as internal wrangles begin",
+          "url": "https://www.standardmedia.co.ke/politics/article/2001562002/sakajas-exit-fractures-uda-in-nairobi-as-internal-wrangles-begin",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-11-10"
+        },
         {
           "title": "Sakaja exit fractures UDA in Nairobi as internal wrangles begin",
           "url": "https://www.standardmedia.co.ke/politics/article/2001562002/sakajas-exit-fractures-uda-in-nairobi-as-internal-wrangles-begin",
@@ -30728,10 +27714,16 @@
       "daysSeen": [
         "2026-11-08"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-08",
       "lastSeen": "2026-11-08",
       "samples": [
+        {
+          "title": "IRGC Says 2 Oil Tankers On Fire After Hitting Mines",
+          "url": "http://www.kenyastar.com/news/279420331/irgc-says-2-oil-tankers-on-fire-after-hitting-mines",
+          "domain": "kenyastar.com",
+          "date": "2026-11-08"
+        },
         {
           "title": "IRGC Says 2 Oil Tankers On Fire After Hitting Mines",
           "url": "http://www.kenyastar.com/news/279420331/irgc-says-2-oil-tankers-on-fire-after-hitting-mines",
@@ -30751,7 +27743,9 @@
         "grieving",
         "mocking",
         "parents",
-        "punchline"
+        "punchline",
+        "dead",
+        "officials"
       ],
       "domains": [
         "standardmedia.co.ke"
@@ -30759,10 +27753,16 @@
       "daysSeen": [
         "2026-11-10"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "samples": [
+        {
+          "title": "Mocking the dead : Gen Z graves turned into bureaucratic punchline as officials demand Sh150 , 000 in bribes from grieving parents",
+          "url": "https://www.standardmedia.co.ke/national/article/2001561908/gen-z-graves-turned-into-bureaucratic-punchline-as-officials-demand-sh150000-in-bribes-from-grieving-parents",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-11-10"
+        },
         {
           "title": "Mocking the dead : Gen Z graves turned into bureaucratic punchline as officials demand Sh150 , 000 in bribes from grieving parents",
           "url": "https://www.standardmedia.co.ke/national/article/2001561908/gen-z-graves-turned-into-bureaucratic-punchline-as-officials-demand-sh150000-in-bribes-from-grieving-parents",
@@ -30782,7 +27782,8 @@
         "historic",
         "cup",
         "fifa",
-        "world"
+        "world",
+        "nigeria"
       ],
       "domains": [
         "kenya-today.com"
@@ -30790,10 +27791,16 @@
       "daysSeen": [
         "2026-11-08"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-08",
       "lastSeen": "2026-11-08",
       "samples": [
+        {
+          "title": "Nigeria clinches historic FIFA U ‑ 17 Women World Cup title in Morocco",
+          "url": "https://kenya-today.com/report-nigeria-clinches-historic-fifa-u17-womens-world-cup-title-in-morocco-23699/",
+          "domain": "kenya-today.com",
+          "date": "2026-11-08"
+        },
         {
           "title": "Nigeria clinches historic FIFA U ‑ 17 Women World Cup title in Morocco",
           "url": "https://kenya-today.com/report-nigeria-clinches-historic-fifa-u17-womens-world-cup-title-in-morocco-23699/",
@@ -30820,10 +27827,16 @@
       "daysSeen": [
         "2026-11-08"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-08",
       "lastSeen": "2026-11-08",
       "samples": [
+        {
+          "title": "Eisenkot given tough task of forming Israeli government over Netanyahu",
+          "url": "https://www.standardmedia.co.ke/world/article/2001561840/eisenkot-given-tough-task-of-forming-israeli-government-over-netanyahu",
+          "domain": "standardmedia.co.ke",
+          "date": "2026-11-08"
+        },
         {
           "title": "Eisenkot given tough task of forming Israeli government over Netanyahu",
           "url": "https://www.standardmedia.co.ke/world/article/2001561840/eisenkot-given-tough-task-of-forming-israeli-government-over-netanyahu",
@@ -30851,10 +27864,16 @@
       "daysSeen": [
         "2026-11-10"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "samples": [
+        {
+          "title": "Over 3 million Kenyans face acute food insecurity , report shows",
+          "url": "https://www.the-star.co.ke/news/2026-11-10-report-over-3m-kenyans-face-acute-food-insecurity",
+          "domain": "the-star.co.ke",
+          "date": "2026-11-10"
+        },
         {
           "title": "Over 3 million Kenyans face acute food insecurity , report shows",
           "url": "https://www.the-star.co.ke/news/2026-11-10-report-over-3m-kenyans-face-acute-food-insecurity",
@@ -30882,10 +27901,16 @@
       "daysSeen": [
         "2026-11-08"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-08",
       "lastSeen": "2026-11-08",
       "samples": [
+        {
+          "title": "Tilak Varma turns 24 : Records held by India ever - clutch , chase - acing T20I superstar",
+          "url": "http://www.kenyastar.com/news/279420506/tilak-varma-turns-24-records-held-by-india-ever-clutch-chase-acing-t20i-superstar",
+          "domain": "kenyastar.com",
+          "date": "2026-11-08"
+        },
         {
           "title": "Tilak Varma turns 24 : Records held by India ever - clutch , chase - acing T20I superstar",
           "url": "http://www.kenyastar.com/news/279420506/tilak-varma-turns-24-records-held-by-india-ever-clutch-chase-acing-t20i-superstar",
@@ -30909,10 +27934,16 @@
       "daysSeen": [
         "2026-11-10"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "samples": [
+        {
+          "title": "NHC has delivered more than 50 , 000 homes , targets 110 , 000",
+          "url": "https://www.the-star.co.ke/news/ground-check/2026-11-10-nhc-delivers-over-50000-homes-targets-110000-in-2027",
+          "domain": "the-star.co.ke",
+          "date": "2026-11-10"
+        },
         {
           "title": "NHC has delivered more than 50 , 000 homes , targets 110 , 000",
           "url": "https://www.the-star.co.ke/news/ground-check/2026-11-10-nhc-delivers-over-50000-homes-targets-110000-in-2027",
@@ -30938,10 +27969,16 @@
       "daysSeen": [
         "2026-11-11"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "samples": [
+        {
+          "title": "Parliament Calls for Greater Kenyan Participation in JKIA Modernisation",
+          "url": "https://kenya-today.com/report-parliament-calls-for-greater-kenyan-participation-in-jkia-modernisation-25185/",
+          "domain": "kenya-today.com",
+          "date": "2026-11-11"
+        },
         {
           "title": "Parliament Calls for Greater Kenyan Participation in JKIA Modernisation",
           "url": "https://kenya-today.com/report-parliament-calls-for-greater-kenyan-participation-in-jkia-modernisation-25185/",
@@ -30967,10 +28004,16 @@
       "daysSeen": [
         "2026-11-09"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-09",
       "lastSeen": "2026-11-09",
       "samples": [
+        {
+          "title": "Why Kenya must move from fraud recovery to prevention",
+          "url": "https://www.the-star.co.ke/news/2026-11-08-why-kenya-must-move-from-fraud-recovery-to-prevention",
+          "domain": "the-star.co.ke",
+          "date": "2026-11-09"
+        },
         {
           "title": "Why Kenya must move from fraud recovery to prevention",
           "url": "https://www.the-star.co.ke/news/2026-11-08-why-kenya-must-move-from-fraud-recovery-to-prevention",
@@ -30998,10 +28041,16 @@
       "daysSeen": [
         "2026-11-08"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-08",
       "lastSeen": "2026-11-08",
       "samples": [
+        {
+          "title": "Mombasa Lands CECM probes seven ‑ year delay in resettling Buxton families",
+          "url": "https://kenya-today.com/report-mombasa-lands-cecm-probes-sevenyear-delay-in-resettling-buxton-families-23728/",
+          "domain": "kenya-today.com",
+          "date": "2026-11-08"
+        },
         {
           "title": "Mombasa Lands CECM probes seven ‑ year delay in resettling Buxton families",
           "url": "https://kenya-today.com/report-mombasa-lands-cecm-probes-sevenyear-delay-in-resettling-buxton-families-23728/",
@@ -31027,10 +28076,16 @@
       "daysSeen": [
         "2026-11-10"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "samples": [
+        {
+          "title": "Dont want to go to hell : Trump believes he will go to heaven after his death",
+          "url": "http://www.kenyastar.com/news/279423044/dont-want-to-go-to-hell-trump-believes-he-will-go-to-heaven-after-his-death",
+          "domain": "kenyastar.com",
+          "date": "2026-11-10"
+        },
         {
           "title": "Dont want to go to hell : Trump believes he will go to heaven after his death",
           "url": "http://www.kenyastar.com/news/279423044/dont-want-to-go-to-hell-trump-believes-he-will-go-to-heaven-after-his-death",
@@ -31050,7 +28105,8 @@
         "gurwinder",
         "punjab",
         "singh",
-        "wanted"
+        "wanted",
+        "ethiopia"
       ],
       "domains": [
         "kenyastar.com"
@@ -31058,10 +28114,16 @@
       "daysSeen": [
         "2026-11-08"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-08",
       "lastSeen": "2026-11-08",
       "samples": [
+        {
+          "title": "Punjab Police deport wanted gangster Gurwinder Singh alias Afridi from Ethiopia",
+          "url": "http://www.kenyastar.com/news/279420516/punjab-police-deport-wanted-gangster-gurwinder-singh-alias-afridi-from-ethiopia",
+          "domain": "kenyastar.com",
+          "date": "2026-11-08"
+        },
         {
           "title": "Punjab Police deport wanted gangster Gurwinder Singh alias Afridi from Ethiopia",
           "url": "http://www.kenyastar.com/news/279420516/punjab-police-deport-wanted-gangster-gurwinder-singh-alias-afridi-from-ethiopia",
@@ -31089,10 +28151,16 @@
       "daysSeen": [
         "2026-11-08"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-08",
       "lastSeen": "2026-11-08",
       "samples": [
+        {
+          "title": "Pakistan heavy - handed approach fuels unrest in PoJK as Rawalakot faces bloodshed fears",
+          "url": "http://www.kenyastar.com/news/279420495/pakistan-heavy-handed-approach-fuels-unrest-in-pojk-as-rawalakot-faces-bloodshed-fears",
+          "domain": "kenyastar.com",
+          "date": "2026-11-08"
+        },
         {
           "title": "Pakistan heavy - handed approach fuels unrest in PoJK as Rawalakot faces bloodshed fears",
           "url": "http://www.kenyastar.com/news/279420495/pakistan-heavy-handed-approach-fuels-unrest-in-pojk-as-rawalakot-faces-bloodshed-fears",
@@ -31608,6 +28676,1058 @@
           "url": "https://www.bournemouthecho.co.uk/news/26704240.inside-venue-nightclub-tower-park-1990s/",
           "domain": "bournemouthecho.co.uk",
           "date": "2026-11-11"
+        }
+      ]
+    },
+    "kenya:ahead-continue-december": {
+      "id": "kenya:ahead-continue-december",
+      "country": "Kenya",
+      "terms": [
+        "ahead",
+        "december",
+        "predicts",
+        "rains",
+        "weatherman",
+        "weekend",
+        "wet",
+        "continue"
+      ],
+      "domains": [
+        "the-star.co.ke"
+      ],
+      "daysSeen": [
+        "2026-11-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "samples": [
+        {
+          "title": "Wet weekend ahead as weatherman predicts rains will continue into December",
+          "url": "https://www.the-star.co.ke/news/2026-11-12-wet-weekend-ahead-as-weatherman-predicts-rains-will-continue-into-dec",
+          "domain": "the-star.co.ke",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "philippines:democratic-fuel-midterms": {
+      "id": "philippines:democratic-fuel-midterms",
+      "country": "Philippines",
+      "terms": [
+        "democratic",
+        "fuel",
+        "price",
+        "rollbacks",
+        "seen",
+        "sweep",
+        "midterms"
+      ],
+      "domains": [
+        "philstar.com"
+      ],
+      "daysSeen": [
+        "2026-11-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "samples": [
+        {
+          "title": "Fuel price rollbacks seen after Democratic sweep of US midterms",
+          "url": "https://www.philstar.com/business/2026/11/06/2568283/fuel-price-rollbacks-seen-after-democratic-sweep-us-midterms",
+          "domain": "philstar.com",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "philippines:communist-detains-leader": {
+      "id": "philippines:communist-detains-leader",
+      "country": "Philippines",
+      "terms": [
+        "communist",
+        "detains",
+        "leader",
+        "local",
+        "party",
+        "taiwan"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-08"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "samples": [
+        {
+          "title": "Taiwan detains local Communist Party leader",
+          "url": "https://www.manilatimes.net/2026/11/09/world/taiwan-detains-local-communist-party-leader/2464732",
+          "domain": "manilatimes.net",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    "philippines:demonstrating-favorable-inflarx": {
+      "id": "philippines:demonstrating-favorable-inflarx",
+      "country": "Philippines",
+      "terms": [
+        "demonstrating",
+        "favorable",
+        "inflarx",
+        "izicopan",
+        "pharmacodynamic",
+        "pharmacokinetic",
+        "phase",
+        "profile"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "samples": [
+        {
+          "title": "InflaRx Announces Publication of Phase 1 Data Demonstrating Favorable Safety and Pharmacokinetic / Pharmacodynamic Profile of Izicopan",
+          "url": "https://www.manilatimes.net/2026/11/06/tmt-newswire/globenewswire/inflarx-announces-publication-of-phase-1-data-demonstrating-favorable-safety-and-pharmacokineticpharmacodynamic-profile-of-izicopan/2464035",
+          "domain": "manilatimes.net",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "philippines:opinion": {
+      "id": "philippines:opinion",
+      "country": "Philippines",
+      "terms": [
+        "opinion"
+      ],
+      "domains": [
+        "rappler.com"
+      ],
+      "daysSeen": [
+        "2026-11-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "samples": [
+        {
+          "title": "[ OPINION ] Why  Trump Out ?",
+          "url": "https://www.rappler.com/voices/thought-leaders/opinion-why-protest-against-trump-visit-asean-summit-2026/",
+          "domain": "rappler.com",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "philippines:bid-denies-house": {
+      "id": "philippines:bid-denies-house",
+      "country": "Philippines",
+      "terms": [
+        "bid",
+        "denies",
+        "house",
+        "leave",
+        "plans",
+        "rubio",
+        "white",
+        "post"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "samples": [
+        {
+          "title": "Rubio denies plans to leave post for White House bid",
+          "url": "https://www.manilatimes.net/2026/11/06/world/americas-emea/rubio-denies-plans-to-leave-post-for-white-house-bid/2463716",
+          "domain": "manilatimes.net",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "philippines:burn-continue-despite": {
+      "id": "philippines:burn-continue-despite",
+      "country": "Philippines",
+      "terms": [
+        "burn",
+        "despite",
+        "escalation",
+        "continue",
+        "east",
+        "hopes",
+        "middle",
+        "tankers"
+      ],
+      "domains": [
+        "bworldonline.com"
+      ],
+      "daysSeen": [
+        "2026-11-11"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "samples": [
+        {
+          "title": "Tankers continue to burn in the Middle East despite hopes for de - escalation",
+          "url": "https://bworldonline.com/world/2026/11/11/792981/tankers-continue-to-burn-in-the-middle-east-despite-hopes-for-de-escalation/",
+          "domain": "bworldonline.com",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "philippines:back-bpi-can": {
+      "id": "philippines:back-bpi-can",
+      "country": "Philippines",
+      "terms": [
+        "bpi",
+        "earn",
+        "point",
+        "premium",
+        "vantage",
+        "can",
+        "back"
+      ],
+      "domains": [
+        "rappler.com"
+      ],
+      "daysSeen": [
+        "2026-11-10"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "samples": [
+        {
+          "title": "[ Vantage Point ] Can BPI earn back its premium ?",
+          "url": "https://www.rappler.com/voices/newsletters/vantage-point-bpi-bank-earn-back-premium/",
+          "domain": "rappler.com",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "philippines:asean-complete-now": {
+      "id": "philippines:asean-complete-now",
+      "country": "Philippines",
+      "terms": [
+        "complete",
+        "now",
+        "preparations",
+        "asean"
+      ],
+      "domains": [
+        "philstar.com"
+      ],
+      "daysSeen": [
+        "2026-11-07"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "samples": [
+        {
+          "title": "ASEAN preparations now 90 - 95 % complete",
+          "url": "https://www.philstar.com/headlines/2026/11/08/2568690/asean-preparations-now-90-95-complete",
+          "domain": "philstar.com",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "philippines:complaint-cyber-doj": {
+      "id": "philippines:complaint-cyber-doj",
+      "country": "Philippines",
+      "terms": [
+        "complaint",
+        "cyber",
+        "doj",
+        "filing",
+        "hontiveros",
+        "libel",
+        "others",
+        "topacio"
+      ],
+      "domains": [
+        "rappler.com"
+      ],
+      "daysSeen": [
+        "2026-11-10"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "samples": [
+        {
+          "title": "DOJ orders filing of cyber libel case vs Topacio , 5 others over Hontiveros complaint",
+          "url": "https://www.rappler.com/philippines/cyber-libel-case-ferdinand-topacio-pro-duterte-personalities-risa-hontiveros/",
+          "domain": "rappler.com",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "philippines:business-costs-govt": {
+      "id": "philippines:business-costs-govt",
+      "country": "Philippines",
+      "terms": [
+        "business",
+        "govt",
+        "margins",
+        "rising",
+        "seeks",
+        "squeeze",
+        "support",
+        "costs"
+      ],
+      "domains": [
+        "bworldonline.com"
+      ],
+      "daysSeen": [
+        "2026-11-08"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "samples": [
+        {
+          "title": "Business group seeks govt support as rising costs squeeze margins",
+          "url": "https://bworldonline.com/corporate/2026/11/08/792187/business-group-seeks-govt-support-as-rising-costs-squeeze-margins/",
+          "domain": "bworldonline.com",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    "philippines:aviation-chengdu-competitiveness": {
+      "id": "philippines:aviation-chengdu-competitiveness",
+      "country": "Philippines",
+      "terms": [
+        "aviation",
+        "chengdu",
+        "competitiveness",
+        "comprehensive",
+        "shuangliu",
+        "strengths",
+        "urban",
+        "forging"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "samples": [
+        {
+          "title": "Chengdu Shuangliu : Forging Urban Comprehensive Competitiveness from Its Aviation Strengths",
+          "url": "https://www.manilatimes.net/2026/11/12/tmt-newswire/globenewswire/chengdu-shuangliu-forging-urban-comprehensive-competitiveness-from-its-aviation-strengths/2468083",
+          "domain": "manilatimes.net",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "philippines:fleet-huey-paf": {
+      "id": "philippines:fleet-huey-paf",
+      "country": "Philippines",
+      "terms": [
+        "fleet",
+        "huey",
+        "paf",
+        "retires",
+        "times"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "samples": [
+        {
+          "title": "PAF retires Huey fleet | The Manila Times",
+          "url": "https://www.manilatimes.net/2026/11/06/news/paf-retires-huey-fleet/2463926",
+          "domain": "manilatimes.net",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "philippines:chief-defeat-hardliner": {
+      "id": "philippines:chief-defeat-hardliner",
+      "country": "Philippines",
+      "terms": [
+        "chief",
+        "defeat",
+        "hardliner",
+        "makes",
+        "miller",
+        "staff",
+        "stephen",
+        "midterm"
+      ],
+      "domains": [
+        "rappler.com"
+      ],
+      "daysSeen": [
+        "2026-11-08"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "samples": [
+        {
+          "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
+          "url": "https://www.rappler.com/world/us-canada/donald-trump-stephen-miller-chief-staff/",
+          "domain": "rappler.com",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    "philippines:ratings-same-sara": {
+      "id": "philippines:ratings-same-sara",
+      "country": "Philippines",
+      "terms": [
+        "ratings",
+        "same",
+        "sara",
+        "satisfaction",
+        "survey",
+        "trust"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-11"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "samples": [
+        {
+          "title": "VP Sara trust , satisfaction ratings the same survey",
+          "url": "https://www.manilatimes.net/2026/11/11/news/vp-saras-trust-satisfaction-ratings-the-same-survey/2467181",
+          "domain": "manilatimes.net",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "philippines:commands-congress-foreign": {
+      "id": "philippines:commands-congress-foreign",
+      "country": "Philippines",
+      "terms": [
+        "commands",
+        "congress",
+        "foreign",
+        "policy",
+        "still",
+        "upended",
+        "midterms"
+      ],
+      "domains": [
+        "bworldonline.com"
+      ],
+      "daysSeen": [
+        "2026-11-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "samples": [
+        {
+          "title": "Midterms upended Congress but Trump still commands foreign policy",
+          "url": "https://bworldonline.com/world/2026/11/06/791973/midterms-upended-congress-but-trump-still-commands-foreign-policy/",
+          "domain": "bworldonline.com",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "philippines:airport-businessworld-dot": {
+      "id": "philippines:airport-businessworld-dot",
+      "country": "Philippines",
+      "terms": [
+        "airport",
+        "dot",
+        "lower",
+        "talks",
+        "user",
+        "waive",
+        "fees",
+        "businessworld"
+      ],
+      "domains": [
+        "bworldonline.com"
+      ],
+      "daysSeen": [
+        "2026-11-08"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "samples": [
+        {
+          "title": "DoT in talks to waive or lower airport user fees - BusinessWorld Online",
+          "url": "https://bworldonline.com/economy/2026/11/08/792190/dot-in-talks-to-waive-or-lower-airport-user-fees/",
+          "domain": "bworldonline.com",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    "philippines:controversy-gala-galliano": {
+      "id": "philippines:controversy-gala-galliano",
+      "country": "Philippines",
+      "terms": [
+        "controversy",
+        "gala",
+        "galliano",
+        "met",
+        "theme",
+        "unveils"
+      ],
+      "domains": [
+        "philstar.com"
+      ],
+      "daysSeen": [
+        "2026-11-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "samples": [
+        {
+          "title": "Met Gala unveils new theme after Galliano controversy",
+          "url": "https://www.philstar.com/lifestyle/fashion-and-beauty/2026/11/06/2568282/met-gala-unveils-new-theme-after-galliano-controversy",
+          "domain": "philstar.com",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "philippines:cultivation-forward-future": {
+      "id": "philippines:cultivation-forward-future",
+      "country": "Philippines",
+      "terms": [
+        "cultivation",
+        "forward",
+        "future",
+        "hangzhou",
+        "path",
+        "sci",
+        "steadfast",
+        "tech"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "samples": [
+        {
+          "title": "Hangzhou Future Sci - Tech City : 15 Years of Steadfast Cultivation , Forging a New Path Forward",
+          "url": "https://www.manilatimes.net/2026/11/06/tmt-newswire/globenewswire/hangzhou-future-sci-tech-city-15-years-of-steadfast-cultivation-forging-a-new-path-forward/2463922",
+          "domain": "manilatimes.net",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "philippines:adb-approves-conflict": {
+      "id": "philippines:adb-approves-conflict",
+      "country": "Philippines",
+      "terms": [
+        "adb",
+        "conflict",
+        "islands",
+        "marshall",
+        "raises",
+        "approves",
+        "costs",
+        "east"
+      ],
+      "domains": [
+        "adb.org"
+      ],
+      "daysSeen": [
+        "2026-11-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "samples": [
+        {
+          "title": "ADB Approves $11 . 7 Million for Marshall Islands as Middle East Conflict Raises Costs",
+          "url": "https://www.adb.org/news/adb-approves-11-7-million-marshall-islands-middle-east-conflict-raises-costs",
+          "domain": "adb.org",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "philippines:anticipated-brings-draw": {
+      "id": "philippines:anticipated-brings-draw",
+      "country": "Philippines",
+      "terms": [
+        "anticipated",
+        "brings",
+        "draw",
+        "highly",
+        "japan",
+        "lucky",
+        "panasonic",
+        "singapore"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-11"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "samples": [
+        {
+          "title": "Panasonic Singapore Brings Back Highly Anticipated Japan Tour Lucky Draw",
+          "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/media-outreach-newswire/panasonic-singapore-brings-back-highly-anticipated-japan-tour-lucky-draw/2467177",
+          "domain": "manilatimes.net",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "philippines:service-times": {
+      "id": "philippines:service-times",
+      "country": "Philippines",
+      "terms": [
+        "service",
+        "times"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-07"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "samples": [
+        {
+          "title": "Public service | The Manila Times",
+          "url": "https://www.manilatimes.net/2026/11/08/opinion/columns/public-service/2464558",
+          "domain": "manilatimes.net",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "philippines:cv5-enhanced-feasibility": {
+      "id": "philippines:cv5-enhanced-feasibility",
+      "country": "Philippines",
+      "terms": [
+        "cv5",
+        "enhanced",
+        "feasibility",
+        "lithium",
+        "pmet",
+        "study",
+        "tantalum",
+        "resources"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-11"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "samples": [
+        {
+          "title": "PMET Resources Delivers Enhanced CV5 Lithium - Tantalum Feasibility Study",
+          "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/pmet-resources-delivers-enhanced-cv5-lithium-tantalum-feasibility-study/2467147",
+          "domain": "manilatimes.net",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "philippines:postwar-presses-security": {
+      "id": "philippines:postwar-presses-security",
+      "country": "Philippines",
+      "terms": [
+        "postwar",
+        "presses",
+        "security",
+        "zelenskyy",
+        "times"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-07"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "samples": [
+        {
+          "title": "Zelenskyy presses postwar security   | The Manila Times",
+          "url": "https://www.manilatimes.net/2026/11/08/world/americas-emea/zelenskyy-presses-postwar-security/2464511",
+          "domain": "manilatimes.net",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "philippines:fair-furniture-industry": {
+      "id": "philippines:fair-furniture-industry",
+      "country": "Philippines",
+      "terms": [
+        "fair",
+        "furniture",
+        "industry",
+        "malaysia",
+        "matrade",
+        "mfa",
+        "mfc",
+        "miff"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-11"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "samples": [
+        {
+          "title": "One Industry , One Fair : MIFF 2027 Unites Malaysia Furniture Industry With MATRADE , MFA , AND MFC",
+          "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/media-outreach-newswire/one-industry-one-fair-miff-2027-unites-malaysias-furniture-industry-with-matrade-mfa-and-mfc/2467157",
+          "domain": "manilatimes.net",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "philippines:accelerated-disease-korea": {
+      "id": "philippines:accelerated-disease-korea",
+      "country": "Philippines",
+      "terms": [
+        "accelerated",
+        "disease",
+        "korea",
+        "nxera",
+        "pharma",
+        "pilot",
+        "program",
+        "rare"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "samples": [
+        {
+          "title": "Nxera Pharma Announces Vamorolone Selected for South Korea Accelerated Reimbursement Pilot Program for Rare Disease Treatments",
+          "url": "https://www.manilatimes.net/2026/11/06/tmt-newswire/globenewswire/nxera-pharma-announces-vamorolone-selected-for-south-koreas-accelerated-reimbursement-pilot-program-for-rare-disease-treatments/2463865",
+          "domain": "manilatimes.net",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "philippines:flights-gets-nonstop": {
+      "id": "philippines:flights-gets-nonstop",
+      "country": "Philippines",
+      "terms": [
+        "flights",
+        "gets",
+        "nonstop"
+      ],
+      "domains": [
+        "tribune.net.ph"
+      ],
+      "daysSeen": [
+        "2026-11-10"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "samples": [
+        {
+          "title": "Manila gets new nonstop US flights in March",
+          "url": "https://tribune.net.ph/2026/11/10/manila-gets-new-nonstop-us-flights-in-march",
+          "domain": "tribune.net.ph",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "philippines:3q26-digit-digital": {
+      "id": "philippines:3q26-digit-digital",
+      "country": "Philippines",
+      "terms": [
+        "3q26",
+        "digit",
+        "digital",
+        "double",
+        "growth",
+        "reach",
+        "services",
+        "veon"
+      ],
+      "domains": [
+        "manilatimes.net"
+      ],
+      "daysSeen": [
+        "2026-11-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "samples": [
+        {
+          "title": "3Q26 : VEON Delivers Double - Digit Growth as Digital Services Reach 27 . 2 % of Revenue",
+          "url": "https://www.manilatimes.net/2026/11/06/tmt-newswire/globenewswire/3q26-veon-delivers-double-digit-growth-as-digital-services-reach-272-of-revenue/2463920",
+          "domain": "manilatimes.net",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "philippines:caprice-cayetano": {
+      "id": "philippines:caprice-cayetano",
+      "country": "Philippines",
+      "terms": [
+        "caprice",
+        "cayetano"
+      ],
+      "domains": [
+        "tribune.net.ph"
+      ],
+      "daysSeen": [
+        "2026-11-09"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "samples": [
+        {
+          "title": "Caprice CAyetano",
+          "url": "https://tribune.net.ph/topic/caprice-cayetano",
+          "domain": "tribune.net.ph",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "philippines:evangelista-heart": {
+      "id": "philippines:evangelista-heart",
+      "country": "Philippines",
+      "terms": [
+        "evangelista",
+        "heart"
+      ],
+      "domains": [
+        "tribune.net.ph"
+      ],
+      "daysSeen": [
+        "2026-11-09"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "samples": [
+        {
+          "title": "Heart Evangelista",
+          "url": "https://tribune.net.ph/topic/heart-evangelista",
+          "domain": "tribune.net.ph",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "philippines:days-groups-launch": {
+      "id": "philippines:days-groups-launch",
+      "country": "Philippines",
+      "terms": [
+        "days",
+        "groups",
+        "launch",
+        "progressive"
+      ],
+      "domains": [
+        "bulatlat.com"
+      ],
+      "daysSeen": [
+        "2026-11-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "samples": [
+        {
+          "title": "Trump out ! | Progressive groups launch 12 days of protest",
+          "url": "https://www.bulatlat.com/2026/11/06/trump-out-progressive-groups-launch-12-days-of-protest/",
+          "domain": "bulatlat.com",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "philippines:big-brother-celebrity": {
+      "id": "philippines:big-brother-celebrity",
+      "country": "Philippines",
+      "terms": [
+        "big",
+        "brother",
+        "celebrity",
+        "collab",
+        "edition",
+        "pinoy"
+      ],
+      "domains": [
+        "tribune.net.ph"
+      ],
+      "daysSeen": [
+        "2026-11-09"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "samples": [
+        {
+          "title": "Pinoy Big Brother : Celebrity Collab Edition 2 . 0",
+          "url": "https://tribune.net.ph/topic/pinoy-big-brother-celebrity-collab-edition-20",
+          "domain": "tribune.net.ph",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "philippines:asean-chairing-group": {
+      "id": "philippines:asean-chairing-group",
+      "country": "Philippines",
+      "terms": [
+        "chairing",
+        "leadership",
+        "lessons",
+        "working",
+        "asean",
+        "group"
+      ],
+      "domains": [
+        "tribune.net.ph"
+      ],
+      "daysSeen": [
+        "2026-11-10"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "samples": [
+        {
+          "title": "Leadership lessons from chairing an ASEAN working group",
+          "url": "https://tribune.net.ph/2026/11/09/asean-working-group-on-intellectual-property-cooperation",
+          "domain": "tribune.net.ph",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "philippines:build-can-forum": {
+      "id": "philippines:build-can-forum",
+      "country": "Philippines",
+      "terms": [
+        "build",
+        "forum",
+        "scale",
+        "smaller",
+        "teams",
+        "vision",
+        "can",
+        "shows"
+      ],
+      "domains": [
+        "gadgetsmagazine.com.ph"
+      ],
+      "daysSeen": [
+        "2026-11-06"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "samples": [
+        {
+          "title": "AI VISION FORUM MANILA 2026 SHOWS HOW SMALLER TEAMS CAN BUILD AND SCALE WITH AI",
+          "url": "https://gadgetsmagazine.com.ph/technology/enterprise/ai-vision-forum-manila-2026",
+          "domain": "gadgetsmagazine.com.ph",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "philippines:albay-city-legazpi": {
+      "id": "philippines:albay-city-legazpi",
+      "country": "Philippines",
+      "terms": [
+        "albay",
+        "legazpi",
+        "city"
+      ],
+      "domains": [
+        "tribune.net.ph"
+      ],
+      "daysSeen": [
+        "2026-11-09"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "samples": [
+        {
+          "title": "Legazpi City , Albay",
+          "url": "https://tribune.net.ph/topic/legazpi-city-albay",
+          "domain": "tribune.net.ph",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "philippines:ask-did-leukemia": {
+      "id": "philippines:ask-did-leukemia",
+      "country": "Philippines",
+      "terms": [
+        "ask",
+        "leukemia",
+        "ombudsman",
+        "prayers",
+        "remulla",
+        "did"
+      ],
+      "domains": [
+        "verafiles.org"
+      ],
+      "daysSeen": [
+        "2026-11-12"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "samples": [
+        {
+          "title": "Ombudsman Remulla did NOT ask for prayers vs leukemia",
+          "url": "https://verafiles.org/articles/fact-check-cancer-free-since-2023-remulla-did-not-ask-for-prayers-vs-leukemia",
+          "domain": "verafiles.org",
+          "date": "2026-11-12"
         }
       ]
     }
