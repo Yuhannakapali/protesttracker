@@ -823,7 +823,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 55
+      "count": 56
     }
   ],
   "sources": [
@@ -1014,6 +1014,12 @@
       "last": "2026-10-05"
     },
     {
+      "name": "Head Topics",
+      "count": 6,
+      "first": "2026-08-28",
+      "last": "2026-11-13"
+    },
+    {
       "name": "Reuters",
       "count": 6,
       "first": "2012-01-09",
@@ -1024,12 +1030,6 @@
       "count": 5,
       "first": "2012-01-03",
       "last": "2024-06-03"
-    },
-    {
-      "name": "Head Topics",
-      "count": 5,
-      "first": "2026-08-28",
-      "last": "2026-11-11"
     },
     {
       "name": "Legit.ng",

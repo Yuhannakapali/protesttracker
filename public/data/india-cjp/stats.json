@@ -167,7 +167,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 207
+      "count": 208
     },
     {
       "start": "2026-08-01",
@@ -183,13 +183,13 @@
     },
     {
       "start": "2026-11-01",
-      "count": 219
+      "count": 220
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 372,
+      "count": 373,
       "first": "2026-06-06",
       "last": "2026-11-12"
     },
@@ -914,6 +914,12 @@
       "last": "2026-10-12"
     },
     {
+      "name": "Free Press Journal",
+      "count": 4,
+      "first": "2026-07-21",
+      "last": "2026-11-13"
+    },
+    {
       "name": "Gulf News",
       "count": 4,
       "first": "2026-08-18",
@@ -1056,12 +1062,6 @@
       "count": 3,
       "first": "2026-08-21",
       "last": "2026-11-05"
-    },
-    {
-      "name": "Free Press Journal",
-      "count": 3,
-      "first": "2026-07-21",
-      "last": "2026-11-08"
     },
     {
       "name": "Gujarat Samachar",

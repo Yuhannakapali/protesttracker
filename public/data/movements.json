@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T11:53:09.022Z",
+  "lastUpdated": "2026-11-13T19:15:40.821Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -10,10 +10,15 @@
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 4416,
-      "updated": "12h ago",
+      "articleCount": 4418,
+      "updated": "19h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
+        {
+          "title": "Former BJP Spokesperson Shehzad Poonawalla Slams Rahul Gandhi; Takes Dig At Cockroach Janta Party Over",
+          "source": "Free Press Journal",
+          "date": "2026-11-13"
+        },
         {
           "title": "Jantar Mantar @ Kochi: When Protest Becomes a Defence of Democracy",
           "source": "Countercurrents",
@@ -23,11 +28,6 @@
           "title": "UP Gave A Chance To BJP, Opposition, Needs New Option: Chandrashekhar Azad",
           "source": "NDTV",
           "date": "2026-11-13"
-        },
-        {
-          "title": "BJP plans two-day huddle to evolve narrative to counter CJP, Congress",
-          "source": "The New Indian Express",
-          "date": "2026-11-12"
         }
       ]
     },
@@ -40,10 +40,15 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 1080,
-      "updated": "12h ago",
+      "articleCount": 1081,
+      "updated": "19h ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
+        {
+          "title": "Fuel price hikes spark protests in Central African Republic",
+          "source": "Head Topics",
+          "date": "2026-11-13"
+        },
         {
           "title": "Fuel price: Nigerians should pay far less for petrol – Makinde questions pricing template",
           "source": "Daily Post Nigeria",
@@ -53,41 +58,36 @@
           "title": "Dangote: MRS, Nigerian depot owners reduce fuel price",
           "source": "Daily Post Nigeria",
           "date": "2026-11-12"
-        },
-        {
-          "title": "NLC Backs Osun Workers’ Strike, Demands Release Of Withheld LG Funds",
-          "source": "Head Topics",
-          "date": "2026-11-11"
         }
       ]
     },
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Active",
+      "status": "Escalating",
       "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 556,
-      "updated": "2d ago",
+      "articleCount": 560,
+      "updated": "19h ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
         {
-          "title": "Suspensión de Pascua Lama 2.0: comunidades diaguitas celebran fallo y advierten que “la lucha continúa”",
-          "source": "Radio Universidad de Chile",
-          "date": "2026-11-12"
+          "title": "国家允许养老基金参与风险投资 造成超100亿美元损失",
+          "source": "El Ciudadano",
+          "date": "2026-11-13"
         },
         {
-          "title": "Pérdidas en los fondos de pensiones: ANEF pide a la Superintendencia pronunciarse por posibles conflictos de interés",
-          "source": "Radio Universidad de Chile",
-          "date": "2026-11-12"
+          "title": "State-sanctioned AFP Bets Result in $10 Billion Losses: A Legal Gamble with Workers’ Savings",
+          "source": "El Ciudadano",
+          "date": "2026-11-13"
         },
         {
-          "title": "Cobraba pensiones de pacientes y los depositaba en su cuenta: Condenan a extesorera del Hospital de Antofagasta por millonaria malversación",
-          "source": "The Clinic",
-          "date": "2026-11-12"
+          "title": "Staat Erlaubt riskante Wetten der Rentenfonds mit Verlusten von über 10 Milliarden US-Dollar",
+          "source": "El Ciudadano",
+          "date": "2026-11-13"
         }
       ]
     },
@@ -101,7 +101,7 @@
       "year": 2024,
       "logged": "2024-06-10",
       "articleCount": 534,
-      "updated": "12h ago",
+      "updated": "19h ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
         {
