@@ -163,7 +163,7 @@
     },
     {
       "start": "2026-06-01",
-      "count": 31
+      "count": 32
     },
     {
       "start": "2026-07-01",
@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 218
+      "count": 219
     }
   ],
   "sources": [
@@ -332,16 +332,16 @@
       "last": "2026-11-09"
     },
     {
+      "name": "TheWire.in",
+      "count": 36,
+      "first": "2026-06-30",
+      "last": "2026-11-03"
+    },
+    {
       "name": "The Tribune",
       "count": 35,
       "first": "2026-08-15",
       "last": "2026-11-06"
-    },
-    {
-      "name": "TheWire.in",
-      "count": 35,
-      "first": "2026-07-11",
-      "last": "2026-11-03"
     },
     {
       "name": "DW.com",
@@ -1034,6 +1034,12 @@
       "last": "2026-10-14"
     },
     {
+      "name": "Countercurrents",
+      "count": 3,
+      "first": "2026-07-17",
+      "last": "2026-11-13"
+    },
+    {
       "name": "Court Book",
       "count": 3,
       "first": "2026-08-18",
@@ -1290,12 +1296,6 @@
       "count": 2,
       "first": "2026-09-25",
       "last": "2026-10-13"
-    },
-    {
-      "name": "Countercurrents",
-      "count": 2,
-      "first": "2026-07-17",
-      "last": "2026-09-16"
     },
     {
       "name": "Daily Excelsior",
