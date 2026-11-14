@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 222
+      "count": 225
     }
   ],
   "sources": [
@@ -207,9 +207,9 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 202,
+      "count": 204,
       "first": "2026-06-06",
-      "last": "2026-11-08"
+      "last": "2026-11-14"
     },
     {
       "name": "The New Indian Express",
@@ -249,7 +249,7 @@
     },
     {
       "name": "ThePrint",
-      "count": 100,
+      "count": 99,
       "first": "2026-06-19",
       "last": "2026-11-06"
     },
@@ -452,6 +452,12 @@
       "last": "2026-11-06"
     },
     {
+      "name": "DT Next",
+      "count": 17,
+      "first": "2026-08-21",
+      "last": "2026-10-22"
+    },
+    {
       "name": "Inshorts",
       "count": 17,
       "first": "2026-08-16",
@@ -474,12 +480,6 @@
       "count": 16,
       "first": "2026-07-24",
       "last": "2026-11-05"
-    },
-    {
-      "name": "DT Next",
-      "count": 16,
-      "first": "2026-08-21",
-      "last": "2026-10-22"
     },
     {
       "name": "Maktoob",
@@ -2234,6 +2234,12 @@
       "last": "2026-10-10"
     },
     {
+      "name": "Social News XYZ",
+      "count": 1,
+      "first": "2026-11-14",
+      "last": "2026-11-14"
+    },
+    {
       "name": "The Avenue Mail",
       "count": 1,
       "first": "2026-11-05",
@@ -2559,5 +2565,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-13"
+  "lastDate": "2026-11-14"
 }

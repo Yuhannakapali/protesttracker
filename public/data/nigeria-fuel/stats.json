@@ -823,7 +823,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 58
+      "count": 59
     }
   ],
   "sources": [
@@ -835,9 +835,9 @@
     },
     {
       "name": "Vanguard",
-      "count": 104,
+      "count": 105,
       "first": "2026-09-02",
-      "last": "2026-11-10"
+      "last": "2026-11-14"
     },
     {
       "name": "Channels Television",
@@ -954,16 +954,16 @@
       "last": "2026-11-10"
     },
     {
+      "name": "Legit News",
+      "count": 11,
+      "first": "2022-01-02",
+      "last": "2025-09-16"
+    },
+    {
       "name": "LEADERSHIP Newspapers",
       "count": 10,
       "first": "2024-09-04",
       "last": "2026-10-31"
-    },
-    {
-      "name": "Legit News",
-      "count": 10,
-      "first": "2022-01-02",
-      "last": "2025-09-16"
     },
     {
       "name": "The Nation Newspaper",
@@ -1032,12 +1032,6 @@
       "last": "2024-06-03"
     },
     {
-      "name": "Legit.ng",
-      "count": 5,
-      "first": "2024-08-11",
-      "last": "2024-09-15"
-    },
-    {
       "name": "vanguardngr.com",
       "count": 5,
       "first": "2020-07-16",
@@ -1054,6 +1048,12 @@
       "count": 4,
       "first": "2026-02-03",
       "last": "2026-10-20"
+    },
+    {
+      "name": "Legit.ng",
+      "count": 4,
+      "first": "2024-08-11",
+      "last": "2024-09-15"
     },
     {
       "name": "News Agency of Nigeria",
