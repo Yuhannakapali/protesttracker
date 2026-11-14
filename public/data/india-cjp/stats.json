@@ -167,7 +167,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 208
+      "count": 209
     },
     {
       "start": "2026-08-01",
@@ -179,11 +179,11 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2682
+      "count": 2683
     },
     {
       "start": "2026-11-01",
-      "count": 220
+      "count": 221
     }
   ],
   "sources": [
@@ -380,6 +380,12 @@
       "last": "2026-11-07"
     },
     {
+      "name": "BBC",
+      "count": 26,
+      "first": "2026-05-21",
+      "last": "2026-11-13"
+    },
+    {
       "name": "Bhaskar English",
       "count": 26,
       "first": "2026-07-22",
@@ -390,12 +396,6 @@
       "count": 26,
       "first": "2026-07-05",
       "last": "2026-11-07"
-    },
-    {
-      "name": "BBC",
-      "count": 25,
-      "first": "2026-05-21",
-      "last": "2026-10-21"
     },
     {
       "name": "The South First",
@@ -872,6 +872,12 @@
       "last": "2026-09-25"
     },
     {
+      "name": "Alt News",
+      "count": 4,
+      "first": "2026-07-19",
+      "last": "2026-09-11"
+    },
+    {
       "name": "AP7AM",
       "count": 4,
       "first": "2026-10-03",
@@ -936,6 +942,12 @@
       "count": 4,
       "first": "2026-07-24",
       "last": "2026-11-01"
+    },
+    {
+      "name": "Malay Mail",
+      "count": 4,
+      "first": "2026-10-10",
+      "last": "2026-10-14"
     },
     {
       "name": "Mangalore Today",
@@ -1008,12 +1020,6 @@
       "count": 3,
       "first": "2026-10-10",
       "last": "2026-10-16"
-    },
-    {
-      "name": "Alt News",
-      "count": 3,
-      "first": "2026-08-01",
-      "last": "2026-09-11"
     },
     {
       "name": "Asia News Network",
@@ -1122,12 +1128,6 @@
       "count": 3,
       "first": "2026-10-17",
       "last": "2026-11-10"
-    },
-    {
-      "name": "Malay Mail",
-      "count": 3,
-      "first": "2026-10-10",
-      "last": "2026-10-14"
     },
     {
       "name": "MediaNama",
