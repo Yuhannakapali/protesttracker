@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T11:02:10.746Z",
+  "generated": "2026-11-14T10:19:57.732Z",
   "candidates": [
     {
       "key": "wd-Q134695948",
@@ -40,42 +40,6 @@
         "_source": {
           "wikidata": "Q134695948",
           "wikipedia": "https://en.wikipedia.org/wiki/2025_Paris_Saint-Germain_celebration_riots"
-        }
-      }
-    },
-    {
-      "key": "wd-Q134698175",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Mongolia",
-      "countries": [
-        "Mongolia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Mongolian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "mongolia-mongolian-protests",
-        "name": "2025 Mongolian protests",
-        "region": "Asia",
-        "location": "Mongolia",
-        "year": 2025,
-        "description": "2025 anti-government protests in Mongolia",
-        "keywords": [
-          "mongolian",
-          "mongolia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "mongolian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Mongolian%20protests&hl=en-MN&gl=MN&ceid=MN%3Aen",
-          "https://news.google.com/rss/search?q=Mongolia%20protest&hl=en-MN&gl=MN&ceid=MN%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q134698175",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Mongolian_protests"
         }
       }
     },
@@ -975,38 +939,38 @@
       "key": "wd-Q137366682",
       "source": "wikidata",
       "confidence": "high",
-      "country": "Bulgaria",
+      "country": "Czech Republic",
       "countries": [
-        "Bulgaria",
         "Czech Republic",
+        "Bulgaria",
         "Germany",
         "United Kingdom",
-        "Netherlands",
-        "Austria",
-        "Belgium",
         "Spain",
-        "United States"
+        "Austria",
+        "Netherlands",
+        "United States",
+        "Belgium"
       ],
       "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Bulgarian_protests",
       "needsName": false,
       "suggested": {
-        "id": "bulgaria-bulgarian-protests",
+        "id": "czech-republic-bulgarian-protests",
         "name": "2025 Bulgarian protests",
-        "region": "Europe",
-        "location": "Bulgaria",
+        "region": "",
+        "location": "Czech Republic",
         "year": 2025,
         "description": "Gen Z protests over increasing taxes",
         "keywords": [
           "bulgarian",
-          "bulgaria",
+          "czech republic",
           "protest"
         ],
         "strictKeywords": [
           "bulgarian"
         ],
         "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en-BG&gl=BG&ceid=BG%3Aen",
-          "https://news.google.com/rss/search?q=Bulgaria%20protest&hl=en-BG&gl=BG&ceid=BG%3Aen"
+          "https://news.google.com/rss/search?q=2025%20Bulgarian%20protests&hl=en&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=Czech%20Republic%20protest&hl=en&gl=US&ceid=US%3Aen"
         ],
         "manualStatus": null,
         "_source": {
@@ -1313,277 +1277,6 @@
         "_source": {
           "wikidata": "Q142084937",
           "wikipedia": "https://en.wikipedia.org/wiki/2026_Bangladesh_garment_workers_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140164273",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United Kingdom",
-      "countries": [
-        "United Kingdom"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots",
-      "needsName": false,
-      "suggested": {
-        "id": "united-kingdom-northern-ireland-riots",
-        "name": "2026 Northern Ireland riots",
-        "region": "Europe",
-        "location": "United Kingdom",
-        "year": 2026,
-        "description": "series of riots in Northern Ireland",
-        "keywords": [
-          "northern",
-          "ireland",
-          "united kingdom",
-          "protest"
-        ],
-        "strictKeywords": [
-          "northern",
-          "ireland"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Northern%20Ireland%20riots&hl=en-GB&gl=GB&ceid=GB%3Aen",
-          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140164273",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140196966",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Indonesia",
-      "countries": [
-        "Indonesia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "indonesia-june-indonesian-protests",
-        "name": "June 2026 Indonesian protests",
-        "region": "Asia",
-        "location": "Indonesia",
-        "year": 2026,
-        "description": "a series of ongoing student-led demonstrations against government regulations  in Indonesia",
-        "keywords": [
-          "indonesian",
-          "indonesia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "indonesian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=June%202026%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
-          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140196966",
-          "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140263260",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "France",
-      "countries": [
-        "France"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots",
-      "needsName": false,
-      "suggested": {
-        "id": "france-paris-saint-germain-celebration-riots-2",
-        "name": "2026 Paris Saint-Germain celebration riots",
-        "region": "Europe",
-        "location": "France",
-        "year": 2026,
-        "description": "football riots in Paris, France",
-        "keywords": [
-          "paris",
-          "saint",
-          "germain",
-          "celebration",
-          "france",
-          "protest"
-        ],
-        "strictKeywords": [
-          "paris",
-          "saint",
-          "germain",
-          "celebration"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Paris%20Saint-Germain%20celebration%20riots&hl=en-FR&gl=FR&ceid=FR%3Aen",
-          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140263260",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140286022",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Russia",
-      "countries": [
-        "Russia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia",
-      "needsName": false,
-      "suggested": {
-        "id": "russia-roblox-ban-protests-in-russia",
-        "name": "Roblox ban protests in Russia",
-        "region": "Europe",
-        "location": "Russia",
-        "year": 2026,
-        "description": "protest caused by Russia's 2025 ban of Roblox",
-        "keywords": [
-          "roblox",
-          "ban",
-          "russia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "roblox",
-          "ban",
-          "russia"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Roblox%20ban%20protests%20in%20Russia&hl=en-RU&gl=RU&ceid=RU%3Aen",
-          "https://news.google.com/rss/search?q=Russia%20protest&hl=en-RU&gl=RU&ceid=RU%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140286022",
-          "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140379081",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Pakistan",
-      "countries": [
-        "Pakistan"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "pakistan-azad-kashmir-protests",
-        "name": "2026 Azad Kashmir protests",
-        "region": "Asia",
-        "location": "Pakistan",
-        "year": 2026,
-        "description": "ongoing protests in Pakistan-administered Kashmir",
-        "keywords": [
-          "azad",
-          "kashmir",
-          "pakistan",
-          "protest"
-        ],
-        "strictKeywords": [
-          "azad",
-          "kashmir"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Azad%20Kashmir%20protests&hl=en-PK&gl=PK&ceid=PK%3Aen",
-          "https://news.google.com/rss/search?q=Pakistan%20protest&hl=en-PK&gl=PK&ceid=PK%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140379081",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q140773593",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Italy",
-      "countries": [
-        "Italy"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
-      "needsName": false,
-      "suggested": {
-        "id": "italy-susa-valley-conflict",
-        "name": "2026 Susa Valley conflict",
-        "region": "Europe",
-        "location": "Italy",
-        "year": 2026,
-        "description": "civil unrest in Italy",
-        "keywords": [
-          "susa",
-          "valley",
-          "conflict",
-          "italy",
-          "protest"
-        ],
-        "strictKeywords": [
-          "susa",
-          "valley",
-          "conflict"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
-          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q140773593",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
-        }
-      }
-    },
-    {
-      "key": "wd-Q141592947",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Spain",
-      "countries": [
-        "Spain"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Spanish_housing_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "spain-spanish-housing-protests",
-        "name": "2026 Spanish housing protests",
-        "region": "Europe",
-        "location": "Spain",
-        "year": 2026,
-        "description": "social movement for housing rights",
-        "keywords": [
-          "spanish",
-          "housing",
-          "spain",
-          "protest"
-        ],
-        "strictKeywords": [
-          "spanish",
-          "housing"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Spanish%20housing%20protests&hl=en-ES&gl=ES&ceid=ES%3Aen",
-          "https://news.google.com/rss/search?q=Spain%20protest&hl=en-ES&gl=ES&ceid=ES%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q141592947",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Spanish_housing_protests"
         }
       }
     },
@@ -2398,173 +2091,273 @@
       }
     },
     {
-      "key": "gd-nigeria:apology-assault-doctors",
-      "source": "gdelt",
-      "confidence": "low",
-      "country": "Nigeria",
+      "key": "wd-Q140164273",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United Kingdom",
       "countries": [
-        "Nigeria"
+        "United Kingdom"
       ],
-      "domains": [
-        "premiumtimesng.com",
-        "blueprint.ng",
-        "tribuneonlineng.com",
-        "saharareporters.com",
-        "punchng.com",
-        "leadership.ng"
-      ],
-      "daysSeen": 12,
-      "articleCount": 27,
-      "firstSeen": "2026-09-03",
-      "lastSeen": "2026-10-24",
-      "samples": [
-        {
-          "title": "Assault : Doctors call off strike at teaching hospital after apology , management intervention",
-          "url": "https://www.premiumtimesng.com/news/top-news/907550-assault-doctors-call-off-strike-at-teaching-hospital-after-apology-management-intervention.html",
-          "domain": "premiumtimesng.com",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "Assault on doctor triggers fresh strike at teaching hospital , months after EFCC controversy",
-          "url": "https://www.premiumtimesng.com/news/top-news/907192-assault-on-doctor-triggers-fresh-strike-at-teaching-hospital-months-after-efcc-controversy.html",
-          "domain": "premiumtimesng.com",
-          "date": "2026-09-03"
-        },
-        {
-          "title": "NARD demands prosecution over alleged assault of doctor at Abuja hospital",
-          "url": "https://www.premiumtimesng.com/news/top-news/907508-nard-demands-prosecution-over-alleged-assault-of-doctor-at-abuja-hospital.html",
-          "domain": "premiumtimesng.com",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "EFCC , FBI probe alleged diversion of funds for US - backed health programmes",
-          "url": "https://www.premiumtimesng.com/news/top-news/908828-efcc-fbi-probe-alleged-diversion-of-funds-for-us-backed-health-programmes.html",
-          "domain": "premiumtimesng.com",
-          "date": "2026-09-11"
-        },
-        {
-          "title": "Offa poly academic crisis : NANS demands FG intervention - Blueprint Newspapers Limited",
-          "url": "https://blueprint.ng/offa-poly-academic-crisis-nans-demands-fgs-intervention/",
-          "domain": "blueprint.ng",
-          "date": "2026-09-12"
-        }
-      ],
-      "needsName": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots",
+      "needsName": false,
       "suggested": {
-        "id": "nigeria-assault-doctors-call-off-strike-at",
-        "name": "Assault Doctors call off strike at",
-        "region": "Africa",
-        "location": "Nigeria",
+        "id": "united-kingdom-northern-ireland-riots",
+        "name": "2026 Northern Ireland riots",
+        "region": "Europe",
+        "location": "United Kingdom",
         "year": 2026,
-        "description": "",
+        "description": "series of riots in Northern Ireland",
         "keywords": [
-          "assault",
-          "doctors",
-          "call",
-          "off",
-          "nigeria",
+          "northern",
+          "ireland",
+          "united kingdom",
           "protest"
         ],
         "strictKeywords": [
-          "assault",
-          "doctors",
-          "call",
-          "off"
+          "northern",
+          "ireland"
         ],
         "feeds": [
-          "https://news.google.com/rss/search?q=Assault%20Doctors%20call%20off%20strike%20at&hl=en-NG&gl=NG&ceid=NG%3Aen",
-          "https://news.google.com/rss/search?q=Nigeria%20protest&hl=en-NG&gl=NG&ceid=NG%3Aen"
+          "https://news.google.com/rss/search?q=2026%20Northern%20Ireland%20riots&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
         ],
         "manualStatus": null,
         "_source": {
-          "wikidata": "nigeria:apology-assault-doctors",
-          "wikipedia": ""
+          "wikidata": "Q140164273",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots"
         }
       }
     },
     {
-      "key": "gd-nigeria:aiyedatiwa-apc-declares",
-      "source": "gdelt",
-      "confidence": "low",
-      "country": "Nigeria",
+      "key": "wd-Q140196966",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Indonesia",
       "countries": [
-        "Nigeria"
+        "Indonesia"
       ],
-      "domains": [
-        "thenationonlineng.net",
-        "punchng.com",
-        "vanguardngr.com",
-        "nigerianobservernews.com",
-        "theeagleonline.com.ng",
-        "africanews.com",
-        "silverbirdtv.com"
-      ],
-      "daysSeen": 14,
-      "articleCount": 31,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-24",
-      "samples": [
-        {
-          "title": "APC is one in Ondo  Aiyedatiwa declares , rallies support for Tinubu re - election",
-          "url": "https://thenationonlineng.net/apc-is-one-in-ondo-aiyedatiwa-declares-rallies-support-for-tinubus-re-election/",
-          "domain": "thenationonlineng.net",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Ashley Igbara concludes two million March in support of Tinubu",
-          "url": "https://thenationonlineng.net/ashley-igbara-concludes-two-million-march-in-support-of-tinubu/",
-          "domain": "thenationonlineng.net",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "Tinubu re - election : Abiodun pledges two million votes in 202",
-          "url": "https://punchng.com/2027-abiodun-pledges-two-million-votes-for-tinubus-re-election/",
-          "domain": "punchng.com",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "Ogun APC ready for 2027 , Abiodun pledges votes for Tinubu",
-          "url": "https://punchng.com/ogun-apc-ready-abiodun-pledges-two-million-votes/",
-          "domain": "punchng.com",
-          "date": "2026-09-11"
-        },
-        {
-          "title": "Gianni Infantino loses French support for FIFA election",
-          "url": "https://punchng.com/france-will-not-support-infantino-in-fifa-election-federation-chief/",
-          "domain": "punchng.com",
-          "date": "2026-09-10"
-        }
-      ],
-      "needsName": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests",
+      "needsName": false,
       "suggested": {
-        "id": "nigeria-apc-is-one-in-ondo-aiyedatiwa",
-        "name": "APC is one in Ondo Aiyedatiwa",
-        "region": "Africa",
-        "location": "Nigeria",
+        "id": "indonesia-june-indonesian-protests",
+        "name": "June 2026 Indonesian protests",
+        "region": "Asia",
+        "location": "Indonesia",
         "year": 2026,
-        "description": "",
+        "description": "a series of ongoing student-led demonstrations against government regulations  in Indonesia",
         "keywords": [
-          "apc",
-          "one",
-          "ondo",
-          "aiyedatiwa",
-          "nigeria",
+          "indonesian",
+          "indonesia",
           "protest"
         ],
         "strictKeywords": [
-          "apc",
-          "one",
-          "ondo",
-          "aiyedatiwa"
+          "indonesian"
         ],
         "feeds": [
-          "https://news.google.com/rss/search?q=APC%20is%20one%20in%20Ondo%20Aiyedatiwa&hl=en-NG&gl=NG&ceid=NG%3Aen",
-          "https://news.google.com/rss/search?q=Nigeria%20protest&hl=en-NG&gl=NG&ceid=NG%3Aen"
+          "https://news.google.com/rss/search?q=June%202026%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
+          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
         ],
         "manualStatus": null,
         "_source": {
-          "wikidata": "nigeria:aiyedatiwa-apc-declares",
-          "wikipedia": ""
+          "wikidata": "Q140196966",
+          "wikipedia": "https://en.wikipedia.org/wiki/June_2026_Indonesian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140263260",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "France",
+      "countries": [
+        "France"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots",
+      "needsName": false,
+      "suggested": {
+        "id": "france-paris-saint-germain-celebration-riots-2",
+        "name": "2026 Paris Saint-Germain celebration riots",
+        "region": "Europe",
+        "location": "France",
+        "year": 2026,
+        "description": "football riots in Paris, France",
+        "keywords": [
+          "paris",
+          "saint",
+          "germain",
+          "celebration",
+          "france",
+          "protest"
+        ],
+        "strictKeywords": [
+          "paris",
+          "saint",
+          "germain",
+          "celebration"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Paris%20Saint-Germain%20celebration%20riots&hl=en-FR&gl=FR&ceid=FR%3Aen",
+          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140263260",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Paris_Saint-Germain_celebration_riots"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140286022",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Russia",
+      "countries": [
+        "Russia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia",
+      "needsName": false,
+      "suggested": {
+        "id": "russia-roblox-ban-protests-in-russia",
+        "name": "Roblox ban protests in Russia",
+        "region": "Europe",
+        "location": "Russia",
+        "year": 2026,
+        "description": "protest caused by Russia's 2025 ban of Roblox",
+        "keywords": [
+          "roblox",
+          "ban",
+          "russia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "roblox",
+          "ban",
+          "russia"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Roblox%20ban%20protests%20in%20Russia&hl=en-RU&gl=RU&ceid=RU%3Aen",
+          "https://news.google.com/rss/search?q=Russia%20protest&hl=en-RU&gl=RU&ceid=RU%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140286022",
+          "wikipedia": "https://en.wikipedia.org/wiki/Roblox_ban_protests_in_Russia"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140379081",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Pakistan",
+      "countries": [
+        "Pakistan"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "pakistan-azad-kashmir-protests",
+        "name": "2026 Azad Kashmir protests",
+        "region": "Asia",
+        "location": "Pakistan",
+        "year": 2026,
+        "description": "ongoing protests in Pakistan-administered Kashmir",
+        "keywords": [
+          "azad",
+          "kashmir",
+          "pakistan",
+          "protest"
+        ],
+        "strictKeywords": [
+          "azad",
+          "kashmir"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Azad%20Kashmir%20protests&hl=en-PK&gl=PK&ceid=PK%3Aen",
+          "https://news.google.com/rss/search?q=Pakistan%20protest&hl=en-PK&gl=PK&ceid=PK%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140379081",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Azad_Kashmir_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q140773593",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Italy",
+      "countries": [
+        "Italy"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict",
+      "needsName": false,
+      "suggested": {
+        "id": "italy-susa-valley-conflict",
+        "name": "2026 Susa Valley conflict",
+        "region": "Europe",
+        "location": "Italy",
+        "year": 2026,
+        "description": "civil unrest in Italy",
+        "keywords": [
+          "susa",
+          "valley",
+          "conflict",
+          "italy",
+          "protest"
+        ],
+        "strictKeywords": [
+          "susa",
+          "valley",
+          "conflict"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Susa%20Valley%20conflict&hl=en-IT&gl=IT&ceid=IT%3Aen",
+          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q140773593",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Susa_Valley_conflict"
+        }
+      }
+    },
+    {
+      "key": "wd-Q141592947",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Spain",
+      "countries": [
+        "Spain"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Spanish_housing_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "spain-spanish-housing-protests",
+        "name": "2026 Spanish housing protests",
+        "region": "Europe",
+        "location": "Spain",
+        "year": 2026,
+        "description": "social movement for housing rights",
+        "keywords": [
+          "spanish",
+          "housing",
+          "spain",
+          "protest"
+        ],
+        "strictKeywords": [
+          "spanish",
+          "housing"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Spanish%20housing%20protests&hl=en-ES&gl=ES&ceid=ES%3Aen",
+          "https://news.google.com/rss/search?q=Spain%20protest&hl=en-ES&gl=ES&ceid=ES%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q141592947",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Spanish_housing_protests"
         }
       }
     },
@@ -2662,91 +2455,6 @@
         "manualStatus": null,
         "_source": {
           "wikidata": "south-africa:africa-holiday-next",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
-      "key": "gd-south-africa:back-conflict-hits",
-      "source": "gdelt",
-      "confidence": "low",
-      "country": "South Africa",
-      "countries": [
-        "South Africa"
-      ],
-      "domains": [
-        "dailymaverick.co.za",
-        "businessday.co.za",
-        "news24.com",
-        "timeslive.co.za",
-        "africaleader.com",
-        "okayafrica.com",
-        "citizen.co.za",
-        "sowetan.co.za"
-      ],
-      "daysSeen": 9,
-      "articleCount": 26,
-      "firstSeen": "2026-09-02",
-      "lastSeen": "2026-10-24",
-      "samples": [
-        {
-          "title": "US launches new strikes on Iran and Tehran hits back in widening conflict",
-          "url": "https://www.dailymaverick.co.za/article/2026-09-02-us-launches-new-strikes-on-iran-and-tehran-hits-back-in-widening-conflict/",
-          "domain": "dailymaverick.co.za",
-          "date": "2026-09-02"
-        },
-        {
-          "title": "Tehran strikes back at US bases in biggest exchange since July",
-          "url": "https://www.businessday.co.za/world/2026-09-02-tehran-strikes-back-at-us-bases-in-biggest-exchange-since-july/",
-          "domain": "businessday.co.za",
-          "date": "2026-09-02"
-        },
-        {
-          "title": "Oil price close to $110 after steepest weekly increase since July",
-          "url": "https://www.news24.com/business/climate-future/energy/oil-price-close-to-110-after-steepest-weekly-increase-since-july-20260911-0407",
-          "domain": "news24.com",
-          "date": "2026-09-11"
-        },
-        {
-          "title": "Ukraine launches biggest Moscow drone attack as Russia votes",
-          "url": "https://www.timeslive.co.za/news/world/2026-09-20-ukraine-launches-biggest-moscow-drone-attack-as-russia-votes/",
-          "domain": "timeslive.co.za",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Russia hits Ukraine energy grid in heavy winter attack",
-          "url": "https://www.businessday.co.za/world/2026-09-30-russia-hits-ukraines-energy-grid-in-heavy-winter-attack/",
-          "domain": "businessday.co.za",
-          "date": "2026-09-30"
-        }
-      ],
-      "needsName": true,
-      "suggested": {
-        "id": "south-africa-us-launches-new-strikes-on-iran",
-        "name": "US launches new strikes on Iran",
-        "region": "Africa",
-        "location": "South Africa",
-        "year": 2026,
-        "description": "",
-        "keywords": [
-          "launches",
-          "new",
-          "iran",
-          "south africa",
-          "protest"
-        ],
-        "strictKeywords": [
-          "launches",
-          "new",
-          "iran"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=US%20launches%20new%20strikes%20on%20Iran&hl=en-ZA&gl=ZA&ceid=ZA%3Aen",
-          "https://news.google.com/rss/search?q=South%20Africa%20protest&hl=en-ZA&gl=ZA&ceid=ZA%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "south-africa:back-conflict-hits",
           "wikipedia": ""
         }
       }
@@ -3105,10 +2813,14 @@
         "westerntelegraph.co.uk",
         "wiltsglosstandard.co.uk",
         "stokesentinel.co.uk",
-        "thetab.com"
+        "thetab.com",
+        "hertsad.co.uk",
+        "cityam.com",
+        "nottinghampost.com",
+        "financial-news.co.uk"
       ],
       "daysSeen": 32,
-      "articleCount": 334,
+      "articleCount": 405,
       "firstSeen": "2026-09-05",
       "lastSeen": "2026-11-12",
       "samples": [
@@ -3289,7 +3001,7 @@
         "theguardian.com"
       ],
       "daysSeen": 7,
-      "articleCount": 18,
+      "articleCount": 21,
       "firstSeen": "2026-09-23",
       "lastSeen": "2026-11-10",
       "samples": [
@@ -3970,92 +3682,6 @@
       }
     },
     {
-      "key": "gd-south-africa:deadly-expose-failures",
-      "source": "gdelt",
-      "confidence": "low",
-      "country": "South Africa",
-      "countries": [
-        "South Africa"
-      ],
-      "domains": [
-        "mg.co.za",
-        "citizen.co.za",
-        "groundup.org.za"
-      ],
-      "daysSeen": 3,
-      "articleCount": 6,
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-24",
-      "samples": [
-        {
-          "title": "Toxic taps expose Tshwane deadly water failures",
-          "url": "https://mg.co.za/the-green-guardian/2026-10-22-toxic-taps-expose-tshwane-s-deadly-water-failures/",
-          "domain": "mg.co.za",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Toxic taps expose Tshwane deadly water failures",
-          "url": "https://mg.co.za/the-green-guardian/2026-10-22-toxic-taps-expose-tshwane-s-deadly-water-failures/",
-          "domain": "mg.co.za",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Tshwane mayor says Bronkhorstspruit water crisis is  indefensible",
-          "url": "https://www.citizen.co.za/news/tshwane-mayor-says-bronkhorstspruit-water-crisis-is-indefensible/",
-          "domain": "citizen.co.za",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "Tshwane water is  unsafe for human consumption , Parliament hears",
-          "url": "https://groundup.org.za/article/tshwane-water-is-unsafe-for-human-consumption-parliament-hears/",
-          "domain": "groundup.org.za",
-          "date": "2026-10-24"
-        },
-        {
-          "title": "Tshwane mayor says Bronkhorstspruit water crisis is  indefensible",
-          "url": "https://www.citizen.co.za/news/tshwane-mayor-says-bronkhorstspruit-water-crisis-is-indefensible/",
-          "domain": "citizen.co.za",
-          "date": "2026-10-23"
-        }
-      ],
-      "needsName": true,
-      "suggested": {
-        "id": "south-africa-toxic-taps-expose-tshwane-deadly-water",
-        "name": "Toxic taps expose Tshwane deadly water",
-        "region": "Africa",
-        "location": "South Africa",
-        "year": 2026,
-        "description": "",
-        "keywords": [
-          "toxic",
-          "taps",
-          "expose",
-          "tshwane",
-          "deadly",
-          "water",
-          "south africa",
-          "protest"
-        ],
-        "strictKeywords": [
-          "toxic",
-          "taps",
-          "expose",
-          "tshwane",
-          "deadly",
-          "water"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Toxic%20taps%20expose%20Tshwane%20deadly%20water&hl=en-ZA&gl=ZA&ceid=ZA%3Aen",
-          "https://news.google.com/rss/search?q=South%20Africa%20protest&hl=en-ZA&gl=ZA&ceid=ZA%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "south-africa:deadly-expose-failures",
-          "wikipedia": ""
-        }
-      }
-    },
-    {
       "key": "gd-united-kingdom:daily-horoscope-predictions",
       "source": "gdelt",
       "confidence": "low",
@@ -4070,7 +3696,7 @@
         "femalefirst.co.uk"
       ],
       "daysSeen": 5,
-      "articleCount": 16,
+      "articleCount": 21,
       "firstSeen": "2026-11-03",
       "lastSeen": "2026-11-12",
       "samples": [
