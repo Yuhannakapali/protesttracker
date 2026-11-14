@@ -171,7 +171,7 @@
     },
     {
       "start": "2026-08-01",
-      "count": 606
+      "count": 605
     },
     {
       "start": "2026-09-01",
@@ -179,11 +179,11 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2683
+      "count": 2684
     },
     {
       "start": "2026-11-01",
-      "count": 221
+      "count": 222
     }
   ],
   "sources": [
@@ -488,6 +488,12 @@
       "last": "2026-10-28"
     },
     {
+      "name": "Brut",
+      "count": 14,
+      "first": "2026-06-02",
+      "last": "2026-10-26"
+    },
+    {
       "name": "LawChakra",
       "count": 14,
       "first": "2026-09-10",
@@ -498,12 +504,6 @@
       "count": 14,
       "first": "2026-09-28",
       "last": "2026-10-28"
-    },
-    {
-      "name": "Brut",
-      "count": 13,
-      "first": "2026-06-02",
-      "last": "2026-10-13"
     },
     {
       "name": "India.com",
@@ -851,7 +851,7 @@
       "name": "Supreme Court Observer",
       "count": 5,
       "first": "2026-08-18",
-      "last": "2026-11-01"
+      "last": "2026-11-06"
     },
     {
       "name": "The Assam Tribune",
@@ -1292,6 +1292,12 @@
       "last": "2026-10-26"
     },
     {
+      "name": "Channel 4",
+      "count": 2,
+      "first": "2026-07-22",
+      "last": "2026-10-08"
+    },
+    {
       "name": "CNBC",
       "count": 2,
       "first": "2026-09-25",
@@ -1640,22 +1646,10 @@
       "last": "2026-07-28"
     },
     {
-      "name": "brut.media",
-      "count": 1,
-      "first": "2026-07-20",
-      "last": "2026-07-20"
-    },
-    {
       "name": "BW Businessworld",
       "count": 1,
       "first": "2026-08-24",
       "last": "2026-08-24"
-    },
-    {
-      "name": "Channel 4",
-      "count": 1,
-      "first": "2026-10-08",
-      "last": "2026-10-08"
     },
     {
       "name": "China Daily Global Edition",

@@ -439,7 +439,7 @@
     },
     {
       "start": "2018-11-01",
-      "count": 2
+      "count": 3
     },
     {
       "start": "2018-12-01",
@@ -823,15 +823,15 @@
     },
     {
       "start": "2026-11-01",
-      "count": 57
+      "count": 58
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 139,
+      "count": 140,
       "first": "2012-01-05",
-      "last": "2026-11-13"
+      "last": "2026-11-14"
     },
     {
       "name": "Vanguard",
@@ -859,7 +859,7 @@
     },
     {
       "name": "Premium Times Nigeria",
-      "count": 47,
+      "count": 48,
       "first": "2013-04-18",
       "last": "2026-10-20"
     },
@@ -1651,5 +1651,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-11-13"
+  "lastDate": "2026-11-14"
 }
