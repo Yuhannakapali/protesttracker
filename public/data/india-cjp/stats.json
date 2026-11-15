@@ -167,7 +167,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 209
+      "count": 210
     },
     {
       "start": "2026-08-01",
@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 230
+      "count": 232
     }
   ],
   "sources": [
@@ -219,9 +219,9 @@
     },
     {
       "name": "The Indian Express",
-      "count": 170,
+      "count": 172,
       "first": "2026-07-24",
-      "last": "2026-11-09"
+      "last": "2026-11-15"
     },
     {
       "name": "India Today",
@@ -231,8 +231,8 @@
     },
     {
       "name": "Telegraph India",
-      "count": 137,
-      "first": "2026-07-21",
+      "count": 138,
+      "first": "2026-07-18",
       "last": "2026-11-14"
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "name": "ThePrint",
-      "count": 99,
+      "count": 100,
       "first": "2026-06-19",
       "last": "2026-11-06"
     },
@@ -452,12 +452,6 @@
       "last": "2026-11-06"
     },
     {
-      "name": "DT Next",
-      "count": 17,
-      "first": "2026-08-21",
-      "last": "2026-10-22"
-    },
-    {
       "name": "Inshorts",
       "count": 17,
       "first": "2026-08-16",
@@ -480,6 +474,12 @@
       "count": 16,
       "first": "2026-07-24",
       "last": "2026-11-05"
+    },
+    {
+      "name": "DT Next",
+      "count": 16,
+      "first": "2026-08-21",
+      "last": "2026-10-22"
     },
     {
       "name": "Maktoob",

@@ -527,7 +527,7 @@
     },
     {
       "start": "2025-09-01",
-      "count": 8
+      "count": 9
     },
     {
       "start": "2025-10-01",
@@ -583,7 +583,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 31
+      "count": 32
     }
   ],
   "sources": [
@@ -595,9 +595,9 @@
     },
     {
       "name": "The Clinic",
-      "count": 58,
+      "count": 59,
       "first": "2016-07-25",
-      "last": "2026-11-14"
+      "last": "2026-11-15"
     },
     {
       "name": "Radio Universidad de Chile",
@@ -1614,6 +1614,12 @@
       "last": "2019-03-31"
     },
     {
+      "name": "teleSUR",
+      "count": 1,
+      "first": "2025-09-13",
+      "last": "2025-09-13"
+    },
+    {
       "name": "The Bogotá Post",
       "count": 1,
       "first": "2020-02-21",
@@ -1753,5 +1759,5 @@
     }
   ],
   "firstDate": "2014-10-10",
-  "lastDate": "2026-11-14"
+  "lastDate": "2026-11-15"
 }
