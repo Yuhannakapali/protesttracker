@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 227
+      "count": 230
     }
   ],
   "sources": [
@@ -207,15 +207,15 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 204,
+      "count": 205,
       "first": "2026-06-06",
       "last": "2026-11-14"
     },
     {
       "name": "The New Indian Express",
-      "count": 197,
+      "count": 198,
       "first": "2026-07-22",
-      "last": "2026-11-12"
+      "last": "2026-11-15"
     },
     {
       "name": "The Indian Express",
@@ -249,7 +249,7 @@
     },
     {
       "name": "ThePrint",
-      "count": 100,
+      "count": 99,
       "first": "2026-06-19",
       "last": "2026-11-06"
     },
@@ -350,16 +350,16 @@
       "last": "2026-10-29"
     },
     {
+      "name": "The Business Standard",
+      "count": 32,
+      "first": "2026-08-23",
+      "last": "2026-11-15"
+    },
+    {
       "name": "LawBeat",
       "count": 31,
       "first": "2026-02-07",
       "last": "2026-11-03"
-    },
-    {
-      "name": "The Business Standard",
-      "count": 31,
-      "first": "2026-08-23",
-      "last": "2026-10-24"
     },
     {
       "name": "Live Law",
@@ -452,6 +452,12 @@
       "last": "2026-11-06"
     },
     {
+      "name": "DT Next",
+      "count": 17,
+      "first": "2026-08-21",
+      "last": "2026-10-22"
+    },
+    {
       "name": "Inshorts",
       "count": 17,
       "first": "2026-08-16",
@@ -474,12 +480,6 @@
       "count": 16,
       "first": "2026-07-24",
       "last": "2026-11-05"
-    },
-    {
-      "name": "DT Next",
-      "count": 16,
-      "first": "2026-08-21",
-      "last": "2026-10-22"
     },
     {
       "name": "Maktoob",
@@ -2559,5 +2559,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-14"
+  "lastDate": "2026-11-15"
 }
