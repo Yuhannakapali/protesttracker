@@ -151,7 +151,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 10
+      "count": 11
     }
   ],
   "sources": [
@@ -175,9 +175,9 @@
     },
     {
       "name": "Citizen Digital",
-      "count": 39,
+      "count": 40,
       "first": "2024-06-22",
-      "last": "2026-10-08"
+      "last": "2026-11-11"
     },
     {
       "name": "Al Jazeera",
@@ -300,12 +300,6 @@
       "last": "2026-06-25"
     },
     {
-      "name": "VOA - Voice of America English News",
-      "count": 5,
-      "first": "2024-06-18",
-      "last": "2024-09-27"
-    },
-    {
       "name": "Africanews",
       "count": 4,
       "first": "2024-08-13",
@@ -316,6 +310,12 @@
       "count": 4,
       "first": "2026-05-11",
       "last": "2026-06-23"
+    },
+    {
+      "name": "VOA - Voice of America English News",
+      "count": 4,
+      "first": "2024-06-18",
+      "last": "2024-09-27"
     },
     {
       "name": "ACLED",
@@ -420,6 +420,12 @@
       "last": "2026-04-24"
     },
     {
+      "name": "Voice of America English News",
+      "count": 3,
+      "first": "2024-06-23",
+      "last": "2024-07-25"
+    },
+    {
       "name": "Afrique XXI",
       "count": 2,
       "first": "2025-02-10",
@@ -496,12 +502,6 @@
       "count": 2,
       "first": "2026-10-20",
       "last": "2026-10-29"
-    },
-    {
-      "name": "Voice of America English News",
-      "count": 2,
-      "first": "2024-06-23",
-      "last": "2024-07-16"
     },
     {
       "name": "YouTube",

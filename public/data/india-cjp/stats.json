@@ -183,15 +183,15 @@
     },
     {
       "start": "2026-11-01",
-      "count": 232
+      "count": 235
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 373,
+      "count": 374,
       "first": "2026-06-06",
-      "last": "2026-11-12"
+      "last": "2026-11-16"
     },
     {
       "name": "The Times of India",
@@ -201,9 +201,9 @@
     },
     {
       "name": "NDTV",
-      "count": 242,
+      "count": 243,
       "first": "2026-05-12",
-      "last": "2026-11-13"
+      "last": "2026-11-16"
     },
     {
       "name": "Hindustan Times",
@@ -2294,6 +2294,12 @@
       "last": "2026-10-16"
     },
     {
+      "name": "The Financial Express",
+      "count": 1,
+      "first": "2026-11-15",
+      "last": "2026-11-15"
+    },
+    {
       "name": "The Financial World",
       "count": 1,
       "first": "2026-10-02",
@@ -2559,5 +2565,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-15"
+  "lastDate": "2026-11-16"
 }

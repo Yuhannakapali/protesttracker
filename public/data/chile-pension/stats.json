@@ -583,15 +583,15 @@
     },
     {
       "start": "2026-11-01",
-      "count": 32
+      "count": 36
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 76,
+      "count": 77,
       "first": "2016-08-10",
-      "last": "2026-11-14"
+      "last": "2026-11-16"
     },
     {
       "name": "The Clinic",
@@ -966,6 +966,12 @@
       "last": "2020-05-27"
     },
     {
+      "name": "ADN Radio",
+      "count": 1,
+      "first": "2026-11-16",
+      "last": "2026-11-16"
+    },
+    {
       "name": "African American Intellectual History Society",
       "count": 1,
       "first": "2016-09-24",
@@ -1108,6 +1114,12 @@
       "count": 1,
       "first": "2019-11-01",
       "last": "2019-11-01"
+    },
+    {
+      "name": "Crónica Digital",
+      "count": 1,
+      "first": "2026-11-15",
+      "last": "2026-11-15"
     },
     {
       "name": "Diario AS",
@@ -1530,6 +1542,12 @@
       "last": "2025-03-30"
     },
     {
+      "name": "Puranoticia.cl",
+      "count": 1,
+      "first": "2026-11-16",
+      "last": "2026-11-16"
+    },
+    {
       "name": "qz.com",
       "count": 1,
       "first": "2020-07-16",
@@ -1759,5 +1777,5 @@
     }
   ],
   "firstDate": "2014-10-10",
-  "lastDate": "2026-11-15"
+  "lastDate": "2026-11-16"
 }
