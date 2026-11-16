@@ -171,7 +171,7 @@
     },
     {
       "start": "2026-08-01",
-      "count": 605
+      "count": 606
     },
     {
       "start": "2026-09-01",
@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 235
+      "count": 236
     }
   ],
   "sources": [
@@ -207,9 +207,9 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 205,
+      "count": 206,
       "first": "2026-06-06",
-      "last": "2026-11-14"
+      "last": "2026-11-15"
     },
     {
       "name": "The New Indian Express",
@@ -974,6 +974,12 @@
       "last": "2026-08-24"
     },
     {
+      "name": "Oneindia",
+      "count": 4,
+      "first": "2026-08-22",
+      "last": "2026-10-22"
+    },
+    {
       "name": "prameyanews.com",
       "count": 4,
       "first": "2026-08-16",
@@ -1164,12 +1170,6 @@
       "count": 3,
       "first": "2026-10-20",
       "last": "2026-11-06"
-    },
-    {
-      "name": "Oneindia",
-      "count": 3,
-      "first": "2026-08-30",
-      "last": "2026-10-22"
     },
     {
       "name": "Prothom Alo English",
@@ -1476,12 +1476,6 @@
       "count": 2,
       "first": "2026-09-24",
       "last": "2026-10-02"
-    },
-    {
-      "name": "The Hawk",
-      "count": 2,
-      "first": "2026-10-22",
-      "last": "2026-11-14"
     },
     {
       "name": "The Hitavada",
@@ -2246,6 +2240,12 @@
       "last": "2026-10-10"
     },
     {
+      "name": "Social News XYZ",
+      "count": 1,
+      "first": "2026-11-14",
+      "last": "2026-11-14"
+    },
+    {
       "name": "The Avenue Mail",
       "count": 1,
       "first": "2026-11-05",
@@ -2310,6 +2310,12 @@
       "count": 1,
       "first": "2026-10-21",
       "last": "2026-10-21"
+    },
+    {
+      "name": "The Hawk",
+      "count": 1,
+      "first": "2026-10-22",
+      "last": "2026-10-22"
     },
     {
       "name": "The Indian Awaaz",

@@ -583,13 +583,13 @@
     },
     {
       "start": "2026-11-01",
-      "count": 36
+      "count": 38
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 77,
+      "count": 78,
       "first": "2016-08-10",
       "last": "2026-11-16"
     },
@@ -850,6 +850,12 @@
       "count": 2,
       "first": "2019-11-23",
       "last": "2020-02-24"
+    },
+    {
+      "name": "Diario Talca",
+      "count": 2,
+      "first": "2025-03-31",
+      "last": "2026-11-16"
     },
     {
       "name": "diarioeldia.cl",
@@ -1168,12 +1174,6 @@
       "count": 1,
       "first": "2026-07-27",
       "last": "2026-07-27"
-    },
-    {
-      "name": "Diario Talca",
-      "count": 1,
-      "first": "2025-03-31",
-      "last": "2025-03-31"
     },
     {
       "name": "El Destape",
