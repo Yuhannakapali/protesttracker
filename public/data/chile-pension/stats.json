@@ -583,7 +583,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 38
+      "count": 40
     }
   ],
   "sources": [
@@ -601,9 +601,9 @@
     },
     {
       "name": "Radio Universidad de Chile",
-      "count": 40,
+      "count": 41,
       "first": "2026-09-16",
-      "last": "2026-11-14"
+      "last": "2026-11-17"
     },
     {
       "name": "La Izquierda Diario",
@@ -762,6 +762,12 @@
       "last": "2026-07-29"
     },
     {
+      "name": "Bloomberg.com",
+      "count": 3,
+      "first": "2019-10-26",
+      "last": "2026-11-12"
+    },
+    {
       "name": "Democracy Now!",
       "count": 3,
       "first": "2017-03-27",
@@ -838,12 +844,6 @@
       "count": 2,
       "first": "2026-03-11",
       "last": "2026-07-27"
-    },
-    {
-      "name": "Bloomberg.com",
-      "count": 2,
-      "first": "2019-10-26",
-      "last": "2022-07-28"
     },
     {
       "name": "Daily Mail",
@@ -1124,8 +1124,8 @@
     {
       "name": "Crónica Digital",
       "count": 1,
-      "first": "2026-11-15",
-      "last": "2026-11-15"
+      "first": "2026-11-16",
+      "last": "2026-11-16"
     },
     {
       "name": "Diario AS",
@@ -1777,5 +1777,5 @@
     }
   ],
   "firstDate": "2014-10-10",
-  "lastDate": "2026-11-16"
+  "lastDate": "2026-11-17"
 }

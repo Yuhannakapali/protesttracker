@@ -183,45 +183,45 @@
     },
     {
       "start": "2026-11-01",
-      "count": 239
+      "count": 262
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 375,
+      "count": 378,
       "first": "2026-06-06",
       "last": "2026-11-17"
     },
     {
       "name": "The Times of India",
-      "count": 259,
+      "count": 261,
       "first": "2026-06-06",
-      "last": "2026-11-07"
+      "last": "2026-11-17"
     },
     {
       "name": "NDTV",
-      "count": 244,
+      "count": 245,
       "first": "2026-05-12",
       "last": "2026-11-17"
     },
     {
       "name": "Hindustan Times",
-      "count": 206,
+      "count": 209,
       "first": "2026-06-06",
-      "last": "2026-11-15"
+      "last": "2026-11-17"
     },
     {
       "name": "The New Indian Express",
-      "count": 198,
+      "count": 199,
       "first": "2026-07-22",
-      "last": "2026-11-15"
+      "last": "2026-11-17"
     },
     {
       "name": "The Indian Express",
-      "count": 172,
+      "count": 173,
       "first": "2026-07-24",
-      "last": "2026-11-15"
+      "last": "2026-11-17"
     },
     {
       "name": "India Today",
@@ -243,15 +243,15 @@
     },
     {
       "name": "The Economic Times",
-      "count": 102,
+      "count": 104,
       "first": "2026-06-06",
-      "last": "2026-11-08"
+      "last": "2026-11-17"
     },
     {
       "name": "ThePrint",
-      "count": 100,
+      "count": 102,
       "first": "2026-06-19",
-      "last": "2026-11-06"
+      "last": "2026-11-17"
     },
     {
       "name": "ANI News",
@@ -303,9 +303,9 @@
     },
     {
       "name": "Deccan Chronicle",
-      "count": 44,
+      "count": 46,
       "first": "2026-08-16",
-      "last": "2026-11-05"
+      "last": "2026-11-17"
     },
     {
       "name": "Telangana Today",
@@ -530,6 +530,12 @@
       "last": "2026-10-15"
     },
     {
+      "name": "Udayavani",
+      "count": 13,
+      "first": "2026-07-18",
+      "last": "2026-11-17"
+    },
+    {
       "name": "NewsBytes",
       "count": 12,
       "first": "2026-08-20",
@@ -546,12 +552,6 @@
       "count": 12,
       "first": "2026-06-06",
       "last": "2026-10-02"
-    },
-    {
-      "name": "Udayavani",
-      "count": 12,
-      "first": "2026-07-18",
-      "last": "2026-11-05"
     },
     {
       "name": "Urban Acres",
@@ -578,6 +578,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "India Today NE",
+      "count": 11,
+      "first": "2026-09-27",
+      "last": "2026-11-17"
+    },
+    {
       "name": "News Arena India",
       "count": 11,
       "first": "2026-08-12",
@@ -600,12 +606,6 @@
       "count": 10,
       "first": "2026-08-24",
       "last": "2026-10-19"
-    },
-    {
-      "name": "India Today NE",
-      "count": 10,
-      "first": "2026-09-27",
-      "last": "2026-10-15"
     },
     {
       "name": "National Herald",
@@ -1346,6 +1346,12 @@
       "last": "2026-10-14"
     },
     {
+      "name": "Hub News",
+      "count": 2,
+      "first": "2026-09-26",
+      "last": "2026-11-17"
+    },
+    {
       "name": "Indiablooms",
       "count": 2,
       "first": "2026-07-30",
@@ -1424,6 +1430,12 @@
       "last": "2026-10-02"
     },
     {
+      "name": "Northeast Today",
+      "count": 2,
+      "first": "2026-10-30",
+      "last": "2026-11-17"
+    },
+    {
       "name": "Onmanorama",
       "count": 2,
       "first": "2026-11-07",
@@ -1476,12 +1488,6 @@
       "count": 2,
       "first": "2026-09-24",
       "last": "2026-10-02"
-    },
-    {
-      "name": "The Hawk",
-      "count": 2,
-      "first": "2026-10-22",
-      "last": "2026-11-14"
     },
     {
       "name": "The Hitavada",
@@ -1718,6 +1724,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "Dailyhunt",
+      "count": 1,
+      "first": "2026-11-17",
+      "last": "2026-11-17"
+    },
+    {
       "name": "dailyrecordnews.com",
       "count": 1,
       "first": "2026-10-02",
@@ -1890,12 +1902,6 @@
       "count": 1,
       "first": "2026-10-13",
       "last": "2026-10-13"
-    },
-    {
-      "name": "Hub News",
-      "count": 1,
-      "first": "2026-09-26",
-      "last": "2026-09-26"
     },
     {
       "name": "Human Rights Research Center | HRRC",
@@ -2162,12 +2168,6 @@
       "last": "2026-10-09"
     },
     {
-      "name": "Northeast Today",
-      "count": 1,
-      "first": "2026-10-30",
-      "last": "2026-10-30"
-    },
-    {
       "name": "PBS",
       "count": 1,
       "first": "2026-10-11",
@@ -2240,6 +2240,12 @@
       "last": "2026-10-10"
     },
     {
+      "name": "Social News XYZ",
+      "count": 1,
+      "first": "2026-11-14",
+      "last": "2026-11-14"
+    },
+    {
       "name": "The Avenue Mail",
       "count": 1,
       "first": "2026-11-05",
@@ -2304,6 +2310,12 @@
       "count": 1,
       "first": "2026-10-21",
       "last": "2026-10-21"
+    },
+    {
+      "name": "The Hawk",
+      "count": 1,
+      "first": "2026-10-22",
+      "last": "2026-10-22"
     },
     {
       "name": "The Indian Awaaz",
@@ -2496,6 +2508,12 @@
       "count": 1,
       "first": "2026-10-08",
       "last": "2026-10-08"
+    },
+    {
+      "name": "Waging Nonviolence",
+      "count": 1,
+      "first": "2026-11-16",
+      "last": "2026-11-16"
     },
     {
       "name": "Whalesbook",
