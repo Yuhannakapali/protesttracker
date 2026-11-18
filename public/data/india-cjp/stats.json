@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 262
+      "count": 268
     }
   ],
   "sources": [
@@ -237,9 +237,9 @@
     },
     {
       "name": "Rediff",
-      "count": 110,
+      "count": 111,
       "first": "2026-06-07",
-      "last": "2026-11-11"
+      "last": "2026-11-17"
     },
     {
       "name": "The Economic Times",
@@ -333,9 +333,9 @@
     },
     {
       "name": "The Tribune",
-      "count": 36,
+      "count": 38,
       "first": "2026-08-15",
-      "last": "2026-11-16"
+      "last": "2026-11-18"
     },
     {
       "name": "TheWire.in",
@@ -350,16 +350,16 @@
       "last": "2026-10-29"
     },
     {
+      "name": "LawBeat",
+      "count": 32,
+      "first": "2026-02-07",
+      "last": "2026-11-17"
+    },
+    {
       "name": "The Business Standard",
       "count": 32,
       "first": "2026-08-23",
       "last": "2026-11-15"
-    },
-    {
-      "name": "LawBeat",
-      "count": 31,
-      "first": "2026-02-07",
-      "last": "2026-11-03"
     },
     {
       "name": "Live Law",
@@ -434,6 +434,12 @@
       "last": "2026-11-03"
     },
     {
+      "name": "OpIndia",
+      "count": 18,
+      "first": "2026-08-17",
+      "last": "2026-11-17"
+    },
+    {
       "name": "Pragativadi",
       "count": 18,
       "first": "2026-09-15",
@@ -456,12 +462,6 @@
       "count": 17,
       "first": "2026-08-16",
       "last": "2026-11-05"
-    },
-    {
-      "name": "OpIndia",
-      "count": 17,
-      "first": "2026-08-17",
-      "last": "2026-11-11"
     },
     {
       "name": "Bar and Bench",
@@ -2084,6 +2084,12 @@
       "last": "2026-10-14"
     },
     {
+      "name": "Lowy Institute",
+      "count": 1,
+      "first": "2026-11-17",
+      "last": "2026-11-17"
+    },
+    {
       "name": "M9.news",
       "count": 1,
       "first": "2026-11-11",
@@ -2577,5 +2583,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-17"
+  "lastDate": "2026-11-18"
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T17:24:37.769Z",
+  "lastUpdated": "2026-11-18T00:35:36.836Z",
   "movements": [
     {
       "id": "india-cjp",
@@ -10,10 +10,15 @@
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 4464,
-      "updated": "17h ago",
+      "articleCount": 4470,
+      "updated": "35m ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
+        {
+          "title": "CJP leaders complete surety verification amid tight security",
+          "source": "The Tribune",
+          "date": "2026-11-18"
+        },
         {
           "title": "Former Congress ally Gogoi tells Rahul Gandhi his parallel protests have weakened independent CJP mass movement",
           "source": "The Hindu",
@@ -22,11 +27,6 @@
         {
           "title": "Cockroach Janta Party to take ‘School Theek Karo’ campaign to every Haryana district and village",
           "source": "The New Indian Express",
-          "date": "2026-11-17"
-        },
-        {
-          "title": "CJP's Saurav Das submits address proof to SEM court: 'Condition is Delhi Police won't leak it' | India News",
-          "source": "Hindustan Times",
           "date": "2026-11-17"
         }
       ]
@@ -40,54 +40,54 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 1090,
-      "updated": "3d ago",
+      "articleCount": 1092,
+      "updated": "1d ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
+        {
+          "title": "Atiku’s fuel subsidy reversal plan not realistic — Fashola",
+          "source": "Vanguard",
+          "date": "2026-11-17"
+        },
+        {
+          "title": "‘The Proposal Is Not Realistic,’ Fashola Faults Atiku’s Fuel Subsidy Reversal Plan",
+          "source": "Channels Television",
+          "date": "2026-11-17"
+        },
         {
           "title": "How Tinubu’s reforms averted Nigeria’s economic collapse – Gov Mbah",
           "source": "Premium Times",
           "date": "2026-11-15"
-        },
-        {
-          "title": "2027: I’ll restore fuel subsidy, tackle insecurity if elected — Atiku vows",
-          "source": "Vanguard",
-          "date": "2026-11-14"
-        },
-        {
-          "title": "Otti, Ajaero, others pay tributes to late NLC scribe, Ugboaja",
-          "source": "Vanguard",
-          "date": "2026-11-14"
         }
       ]
     },
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 573,
-      "updated": "17h ago",
+      "articleCount": 578,
+      "updated": "1d ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
+        {
+          "title": "Recursos de la reforma de pensiones tensiona debate presupuestario en el Senado: oposición acusa incumplimiento",
+          "source": "Radio Universidad de Chile",
+          "date": "2026-11-17"
+        },
         {
           "title": "Senador Núñez (PC): “Estoy convencido de que hay una campaña destinada a desprestigiar a Codelco”",
           "source": "Radio Universidad de Chile",
           "date": "2026-11-17"
         },
         {
-          "title": "Colegio de Profesores se suma a marcha contra el sistema de AFP en Chile",
-          "source": "Crónica Digital",
-          "date": "2026-11-16"
-        },
-        {
-          "title": "Colegio de Profesores confirma participación en nueva marcha nacional contra las AFP",
-          "source": "ADN Radio",
-          "date": "2026-11-16"
+          "title": "预算争议：政府被指欲削弱养老金改革的社会保障实施",
+          "source": "El Ciudadano",
+          "date": "2026-11-17"
         }
       ]
     },
