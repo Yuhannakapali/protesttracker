@@ -583,15 +583,15 @@
     },
     {
       "start": "2026-11-01",
-      "count": 45
+      "count": 47
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 82,
+      "count": 83,
       "first": "2016-08-10",
-      "last": "2026-11-17"
+      "last": "2026-11-18"
     },
     {
       "name": "The Clinic",
@@ -910,6 +910,12 @@
       "count": 2,
       "first": "2019-10-22",
       "last": "2020-07-24"
+    },
+    {
+      "name": "Meganoticias",
+      "count": 2,
+      "first": "2023-07-23",
+      "last": "2026-11-15"
     },
     {
       "name": "Mexico Solidarity Media",
@@ -1410,12 +1416,6 @@
       "last": "2017-03-24"
     },
     {
-      "name": "Meganoticias",
-      "count": 1,
-      "first": "2023-07-23",
-      "last": "2023-07-23"
-    },
-    {
       "name": "MercoPress",
       "count": 1,
       "first": "2017-03-27",
@@ -1542,7 +1542,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Puranoticia.cl",
+      "name": "Puranoticia",
       "count": 1,
       "first": "2026-11-16",
       "last": "2026-11-16"
@@ -1777,5 +1777,5 @@
     }
   ],
   "firstDate": "2014-10-10",
-  "lastDate": "2026-11-17"
+  "lastDate": "2026-11-18"
 }

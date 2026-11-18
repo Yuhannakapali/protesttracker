@@ -183,21 +183,21 @@
     },
     {
       "start": "2026-11-01",
-      "count": 268
+      "count": 276
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 378,
+      "count": 379,
       "first": "2026-06-06",
-      "last": "2026-11-17"
+      "last": "2026-11-18"
     },
     {
       "name": "The Times of India",
-      "count": 261,
+      "count": 262,
       "first": "2026-06-06",
-      "last": "2026-11-17"
+      "last": "2026-11-18"
     },
     {
       "name": "NDTV",
@@ -213,9 +213,9 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 199,
+      "count": 200,
       "first": "2026-07-22",
-      "last": "2026-11-17"
+      "last": "2026-11-18"
     },
     {
       "name": "The Indian Express",
@@ -278,16 +278,16 @@
       "last": "2026-11-05"
     },
     {
+      "name": "moneycontrol.com",
+      "count": 52,
+      "first": "2026-08-18",
+      "last": "2026-11-18"
+    },
+    {
       "name": "Outlook India",
       "count": 52,
       "first": "2026-08-17",
       "last": "2026-11-07"
-    },
-    {
-      "name": "moneycontrol.com",
-      "count": 51,
-      "first": "2026-08-18",
-      "last": "2026-11-10"
     },
     {
       "name": "ETV Bharat",
@@ -506,22 +506,28 @@
       "last": "2026-10-28"
     },
     {
+      "name": "Prabhat Khabar",
+      "count": 14,
+      "first": "2026-08-30",
+      "last": "2026-11-18"
+    },
+    {
       "name": "India.com",
       "count": 13,
       "first": "2026-08-18",
       "last": "2026-09-27"
     },
     {
+      "name": "NewsBytes",
+      "count": 13,
+      "first": "2026-08-20",
+      "last": "2026-11-18"
+    },
+    {
       "name": "Pioneer Daily",
       "count": 13,
       "first": "2026-08-28",
       "last": "2026-10-09"
-    },
-    {
-      "name": "Prabhat Khabar",
-      "count": 13,
-      "first": "2026-08-30",
-      "last": "2026-10-05"
     },
     {
       "name": "Reuters Connect",
@@ -536,10 +542,10 @@
       "last": "2026-11-17"
     },
     {
-      "name": "NewsBytes",
-      "count": 12,
-      "first": "2026-08-20",
-      "last": "2026-10-23"
+      "name": "Urban Acres",
+      "count": 13,
+      "first": "2026-10-01",
+      "last": "2026-11-18"
     },
     {
       "name": "The Quint",
@@ -554,10 +560,10 @@
       "last": "2026-10-02"
     },
     {
-      "name": "Urban Acres",
-      "count": 12,
-      "first": "2026-10-01",
-      "last": "2026-11-05"
+      "name": "ABP Live English",
+      "count": 11,
+      "first": "2026-07-19",
+      "last": "2026-11-18"
     },
     {
       "name": "Bloomberg.com",
@@ -588,12 +594,6 @@
       "count": 11,
       "first": "2026-08-12",
       "last": "2026-11-05"
-    },
-    {
-      "name": "ABP Live English",
-      "count": 10,
-      "first": "2026-07-19",
-      "last": "2026-11-03"
     },
     {
       "name": "CNBC TV18",
