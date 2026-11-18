@@ -39,7 +39,7 @@
     },
     {
       "start": "2024-07-01",
-      "count": 43
+      "count": 44
     },
     {
       "start": "2024-08-01",
@@ -151,15 +151,15 @@
     },
     {
       "start": "2026-11-01",
-      "count": 11
+      "count": 13
     }
   ],
   "sources": [
     {
       "name": "Daily Nation",
-      "count": 50,
+      "count": 51,
       "first": "2024-06-19",
-      "last": "2026-10-15"
+      "last": "2026-11-18"
     },
     {
       "name": "People Daily",
@@ -216,6 +216,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "The Standard",
+      "count": 10,
+      "first": "2026-06-24",
+      "last": "2026-11-18"
+    },
+    {
       "name": "World Socialist Web Site",
       "count": 10,
       "first": "2025-06-25",
@@ -232,12 +238,6 @@
       "count": 9,
       "first": "2024-06-24",
       "last": "2026-08-27"
-    },
-    {
-      "name": "The Standard",
-      "count": 9,
-      "first": "2026-06-24",
-      "last": "2026-11-10"
     },
     {
       "name": "Kenyans.co.ke",
@@ -582,6 +582,12 @@
       "last": "2024-08-01"
     },
     {
+      "name": "civicus lens",
+      "count": 1,
+      "first": "2024-07-18",
+      "last": "2024-07-18"
+    },
+    {
       "name": "Civicus Monitor",
       "count": 1,
       "first": "2023-10-20",
@@ -913,5 +919,5 @@
     }
   ],
   "firstDate": "2023-10-20",
-  "lastDate": "2026-11-13"
+  "lastDate": "2026-11-18"
 }

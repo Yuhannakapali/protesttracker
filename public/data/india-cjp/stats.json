@@ -167,7 +167,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 210
+      "count": 211
     },
     {
       "start": "2026-08-01",
@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 276
+      "count": 285
     }
   ],
   "sources": [
@@ -207,13 +207,13 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 209,
+      "count": 210,
       "first": "2026-06-06",
-      "last": "2026-11-17"
+      "last": "2026-11-18"
     },
     {
       "name": "The New Indian Express",
-      "count": 200,
+      "count": 201,
       "first": "2026-07-22",
       "last": "2026-11-18"
     },
@@ -255,9 +255,9 @@
     },
     {
       "name": "ANI News",
-      "count": 93,
+      "count": 94,
       "first": "2026-07-22",
-      "last": "2026-11-10"
+      "last": "2026-11-18"
     },
     {
       "name": "Deccan Herald",
@@ -273,9 +273,9 @@
     },
     {
       "name": "The News Mill",
-      "count": 64,
+      "count": 65,
       "first": "2026-08-12",
-      "last": "2026-11-05"
+      "last": "2026-11-18"
     },
     {
       "name": "moneycontrol.com",
@@ -333,7 +333,7 @@
     },
     {
       "name": "The Tribune",
-      "count": 38,
+      "count": 39,
       "first": "2026-08-15",
       "last": "2026-11-18"
     },
@@ -416,6 +416,12 @@
       "last": "2026-11-05"
     },
     {
+      "name": "Scroll.in",
+      "count": 21,
+      "first": "2026-07-26",
+      "last": "2026-11-18"
+    },
+    {
       "name": "Frontline Magazine",
       "count": 20,
       "first": "2026-07-08",
@@ -428,22 +434,16 @@
       "last": "2026-10-21"
     },
     {
-      "name": "Scroll.in",
-      "count": 20,
-      "first": "2026-07-26",
-      "last": "2026-11-03"
+      "name": "Pragativadi",
+      "count": 19,
+      "first": "2026-09-15",
+      "last": "2026-11-18"
     },
     {
       "name": "OpIndia",
       "count": 18,
       "first": "2026-08-17",
       "last": "2026-11-17"
-    },
-    {
-      "name": "Pragativadi",
-      "count": 18,
-      "first": "2026-09-15",
-      "last": "2026-11-06"
     },
     {
       "name": "The Guardian",
@@ -464,6 +464,12 @@
       "last": "2026-11-05"
     },
     {
+      "name": "Maktoob",
+      "count": 17,
+      "first": "2026-07-31",
+      "last": "2026-10-28"
+    },
+    {
       "name": "Bar and Bench",
       "count": 16,
       "first": "2026-08-07",
@@ -482,22 +488,16 @@
       "last": "2026-10-22"
     },
     {
-      "name": "Maktoob",
-      "count": 16,
-      "first": "2026-08-12",
-      "last": "2026-10-28"
+      "name": "LawChakra",
+      "count": 15,
+      "first": "2026-09-10",
+      "last": "2026-11-18"
     },
     {
       "name": "Brut",
       "count": 14,
       "first": "2026-06-02",
       "last": "2026-10-26"
-    },
-    {
-      "name": "LawChakra",
-      "count": 14,
-      "first": "2026-09-10",
-      "last": "2026-11-04"
     },
     {
       "name": "MillenniumPost",
@@ -539,7 +539,7 @@
       "name": "Udayavani",
       "count": 13,
       "first": "2026-07-18",
-      "last": "2026-11-17"
+      "last": "2026-11-18"
     },
     {
       "name": "Urban Acres",
@@ -842,6 +842,12 @@
       "last": "2026-10-11"
     },
     {
+      "name": "Oneindia",
+      "count": 5,
+      "first": "2026-08-22",
+      "last": "2026-11-18"
+    },
+    {
       "name": "Organiser Weekly",
       "count": 5,
       "first": "2026-10-06",
@@ -972,12 +978,6 @@
       "count": 4,
       "first": "2026-08-17",
       "last": "2026-08-24"
-    },
-    {
-      "name": "Oneindia",
-      "count": 4,
-      "first": "2026-08-22",
-      "last": "2026-10-22"
     },
     {
       "name": "prameyanews.com",
@@ -2234,6 +2234,12 @@
       "last": "2026-10-14"
     },
     {
+      "name": "ScheerPost",
+      "count": 1,
+      "first": "2026-11-18",
+      "last": "2026-11-18"
+    },
+    {
       "name": "shattered.io",
       "count": 1,
       "first": "2026-10-22",
@@ -2514,12 +2520,6 @@
       "count": 1,
       "first": "2026-10-08",
       "last": "2026-10-08"
-    },
-    {
-      "name": "Waging Nonviolence",
-      "count": 1,
-      "first": "2026-11-16",
-      "last": "2026-11-16"
     },
     {
       "name": "Whalesbook",

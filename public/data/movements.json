@@ -1,24 +1,19 @@
 {
-  "lastUpdated": "2026-11-18T09:46:31.223Z",
+  "lastUpdated": "2026-11-18T18:40:42.403Z",
   "movements": [
     {
       "id": "india-cjp",
       "name": "Cockroach Janta Party / NEET Protests",
-      "status": "Active",
+      "status": "Escalating",
       "active": true,
       "region": "Asia",
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 4478,
-      "updated": "10h ago",
+      "articleCount": 4488,
+      "updated": "19h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
-        {
-          "title": "CJP’s Das, Ranka appear before special magistrate",
-          "source": "The New Indian Express",
-          "date": "2026-11-18"
-        },
         {
           "title": "Jantar Mantar protest nod denied due to CJP past conduct: Cops in SC",
           "source": "The Times of India",
@@ -27,6 +22,11 @@
         {
           "title": "Cockroach Janta Party: Saurav Das के घर का Verification पूरा, दस्तावेज लीक न करने की शर्त",
           "source": "Prabhat Khabar",
+          "date": "2026-11-18"
+        },
+        {
+          "title": "CJP’s Das, Ranka appear before special magistrate",
+          "source": "The New Indian Express",
           "date": "2026-11-18"
         }
       ]
@@ -40,10 +40,15 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 1092,
-      "updated": "1d ago",
+      "articleCount": 1094,
+      "updated": "19h ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
+        {
+          "title": "Fashola says Atiku’s proposal for return to fuel subsidy is ‘abracadabra’",
+          "source": "Ripples Nigeria",
+          "date": "2026-11-18"
+        },
         {
           "title": "Atiku’s fuel subsidy reversal plan not realistic — Fashola",
           "source": "Vanguard",
@@ -53,27 +58,27 @@
           "title": "‘The Proposal Is Not Realistic,’ Fashola Faults Atiku’s Fuel Subsidy Reversal Plan",
           "source": "Channels Television",
           "date": "2026-11-17"
-        },
-        {
-          "title": "How Tinubu’s reforms averted Nigeria’s economic collapse – Gov Mbah",
-          "source": "Premium Times",
-          "date": "2026-11-15"
         }
       ]
     },
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Active",
+      "status": "Escalating",
       "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 580,
-      "updated": "10h ago",
+      "articleCount": 582,
+      "updated": "19h ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
+        {
+          "title": "Tras críticas y amenaza de acusación constitucional: Quiroz anuncia indicación para fondo de pensiones en el Presupuesto 2027",
+          "source": "Radio Universidad de Chile",
+          "date": "2026-11-18"
+        },
         {
           "title": "(VIDEO) Senadora cuestiona al ministro Quiroz por omisión de fondos en el Presupuesto 2027",
           "source": "El Ciudadano",
@@ -81,11 +86,6 @@
         },
         {
           "title": "Recursos de la reforma de pensiones tensiona debate presupuestario en el Senado: oposición acusa incumplimiento",
-          "source": "Radio Universidad de Chile",
-          "date": "2026-11-17"
-        },
-        {
-          "title": "Senador Núñez (PC): “Estoy convencido de que hay una campaña destinada a desprestigiar a Codelco”",
           "source": "Radio Universidad de Chile",
           "date": "2026-11-17"
         }
@@ -100,24 +100,24 @@
       "location": "Kenya · Nairobi",
       "year": 2024,
       "logged": "2024-06-10",
-      "articleCount": 536,
-      "updated": "5d ago",
+      "articleCount": 539,
+      "updated": "19h ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
+        {
+          "title": "Ruto acknowledges State wrongdoing during protests, says Sh1.2bn paid to victims",
+          "source": "Daily Nation",
+          "date": "2026-11-18"
+        },
+        {
+          "title": "Ruto lists measures to lower cost of living, put more money in Kenyans' pockets",
+          "source": "The Standard",
+          "date": "2026-11-18"
+        },
         {
           "title": "I don’t regret supporting Ruto during Gen Z protests: KRG says after Jaymo Ule Msee’s apology",
           "source": "K24 Digital",
           "date": "2026-11-13"
-        },
-        {
-          "title": "Kenya 2027: Can Ruto’s sporting charm offensive win back disillusioned Gen Z voters?",
-          "source": "The Africa Report",
-          "date": "2026-11-12"
-        },
-        {
-          "title": "Gachagua tears into Ruto over youth leadership remarks, lists victims of protest killings",
-          "source": "Citizen Digital",
-          "date": "2026-11-11"
         }
       ]
     }
