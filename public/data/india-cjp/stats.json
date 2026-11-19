@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 289
+      "count": 294
     }
   ],
   "sources": [
@@ -434,16 +434,16 @@
       "last": "2026-10-21"
     },
     {
+      "name": "OpIndia",
+      "count": 19,
+      "first": "2026-08-17",
+      "last": "2026-11-19"
+    },
+    {
       "name": "Pragativadi",
       "count": 19,
       "first": "2026-09-15",
       "last": "2026-11-18"
-    },
-    {
-      "name": "OpIndia",
-      "count": 18,
-      "first": "2026-08-17",
-      "last": "2026-11-17"
     },
     {
       "name": "The Guardian",
@@ -539,13 +539,19 @@
       "name": "Udayavani",
       "count": 13,
       "first": "2026-07-18",
-      "last": "2026-11-18"
+      "last": "2026-11-17"
     },
     {
       "name": "Urban Acres",
       "count": 13,
       "first": "2026-10-01",
       "last": "2026-11-18"
+    },
+    {
+      "name": "ABP Live English",
+      "count": 12,
+      "first": "2026-07-19",
+      "last": "2026-11-19"
     },
     {
       "name": "The Quint",
@@ -558,12 +564,6 @@
       "count": 12,
       "first": "2026-06-06",
       "last": "2026-10-02"
-    },
-    {
-      "name": "ABP Live English",
-      "count": 11,
-      "first": "2026-07-19",
-      "last": "2026-11-18"
     },
     {
       "name": "Bloomberg.com",
@@ -680,6 +680,12 @@
       "last": "2026-10-22"
     },
     {
+      "name": "News Mobile",
+      "count": 8,
+      "first": "2026-10-03",
+      "last": "2026-11-18"
+    },
+    {
       "name": "PTC News",
       "count": 8,
       "first": "2026-07-24",
@@ -720,12 +726,6 @@
       "count": 7,
       "first": "2026-08-22",
       "last": "2026-10-21"
-    },
-    {
-      "name": "News Mobile",
-      "count": 7,
-      "first": "2026-10-03",
-      "last": "2026-11-05"
     },
     {
       "name": "The Independent",
@@ -938,6 +938,12 @@
       "last": "2026-10-11"
     },
     {
+      "name": "Gulte",
+      "count": 4,
+      "first": "2026-08-21",
+      "last": "2026-11-19"
+    },
+    {
       "name": "Le Monde.fr",
       "count": 4,
       "first": "2026-09-28",
@@ -978,6 +984,12 @@
       "count": 4,
       "first": "2026-08-17",
       "last": "2026-08-24"
+    },
+    {
+      "name": "Oherald",
+      "count": 4,
+      "first": "2026-10-20",
+      "last": "2026-11-19"
     },
     {
       "name": "prameyanews.com",
@@ -1088,12 +1100,6 @@
       "last": "2026-10-14"
     },
     {
-      "name": "Gulte",
-      "count": 3,
-      "first": "2026-08-21",
-      "last": "2026-10-01"
-    },
-    {
       "name": "Hindusthan Samachar English",
       "count": 3,
       "first": "2026-08-18",
@@ -1164,12 +1170,6 @@
       "count": 3,
       "first": "2026-08-17",
       "last": "2026-11-12"
-    },
-    {
-      "name": "Oherald",
-      "count": 3,
-      "first": "2026-10-20",
-      "last": "2026-11-06"
     },
     {
       "name": "Prothom Alo English",
@@ -2583,5 +2583,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-18"
+  "lastDate": "2026-11-19"
 }
