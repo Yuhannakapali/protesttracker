@@ -247,7 +247,7 @@
     },
     {
       "start": "2019-11-01",
-      "count": 26
+      "count": 25
     },
     {
       "start": "2019-12-01",
@@ -583,7 +583,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 53
+      "count": 54
     }
   ],
   "sources": [
@@ -601,9 +601,9 @@
     },
     {
       "name": "Radio Universidad de Chile",
-      "count": 43,
+      "count": 44,
       "first": "2026-09-16",
-      "last": "2026-11-18"
+      "last": "2026-11-19"
     },
     {
       "name": "La Izquierda Diario",
@@ -744,12 +744,6 @@
       "last": "2026-10-15"
     },
     {
-      "name": "VOA - Voice of America English News",
-      "count": 4,
-      "first": "2017-04-13",
-      "last": "2022-03-12"
-    },
-    {
       "name": "- CIPER Chile",
       "count": 3,
       "first": "2016-07-26",
@@ -838,6 +832,12 @@
       "count": 3,
       "first": "2017-12-18",
       "last": "2025-12-04"
+    },
+    {
+      "name": "VOA - Voice of America English News",
+      "count": 3,
+      "first": "2017-04-13",
+      "last": "2022-03-12"
     },
     {
       "name": "APFDigital",
@@ -1446,12 +1446,6 @@
       "last": "2019-10-25"
     },
     {
-      "name": "News4JAX",
-      "count": 1,
-      "first": "2019-11-04",
-      "last": "2019-11-04"
-    },
-    {
       "name": "NewsClick",
       "count": 1,
       "first": "2019-09-07",
@@ -1542,7 +1536,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Puranoticia",
+      "name": "Puranoticia.cl",
       "count": 1,
       "first": "2026-11-16",
       "last": "2026-11-16"
@@ -1762,6 +1756,12 @@
       "count": 1,
       "first": "2018-04-23",
       "last": "2018-04-23"
+    },
+    {
+      "name": "Voice of America English News",
+      "count": 1,
+      "first": "2019-11-04",
+      "last": "2019-11-04"
     },
     {
       "name": "WSJ",
