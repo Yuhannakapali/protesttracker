@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-11-18T18:40:42.403Z",
+  "lastUpdated": "2026-11-19T01:44:45.801Z",
   "movements": [
     {
       "id": "india-cjp",
       "name": "Cockroach Janta Party / NEET Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Asia",
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 4488,
-      "updated": "19h ago",
+      "articleCount": 4492,
+      "updated": "1d ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
         {
@@ -20,13 +20,13 @@
           "date": "2026-11-18"
         },
         {
-          "title": "Cockroach Janta Party: Saurav Das के घर का Verification पूरा, दस्तावेज लीक न करने की शर्त",
-          "source": "Prabhat Khabar",
+          "title": "CJP’s Das, Ranka appear before special magistrate",
+          "source": "The New Indian Express",
           "date": "2026-11-18"
         },
         {
-          "title": "CJP’s Das, Ranka appear before special magistrate",
-          "source": "The New Indian Express",
+          "title": "SC seeks response from CJP, INC, AAP, AISA on traders associations’ plea to stop protests in Delhi",
+          "source": "ANI News",
           "date": "2026-11-18"
         }
       ]
@@ -41,9 +41,14 @@
       "year": 2026,
       "logged": "2026-07-15",
       "articleCount": 1094,
-      "updated": "19h ago",
+      "updated": "1d ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
+        {
+          "title": "NLC Backs Osun Workers’ Strike, Demands Release Of Withheld LG Funds",
+          "source": "LEADERSHIP Newspapers",
+          "date": "2026-11-18"
+        },
         {
           "title": "Fashola says Atiku’s proposal for return to fuel subsidy is ‘abracadabra’",
           "source": "Ripples Nigeria",
@@ -53,25 +58,20 @@
           "title": "Atiku’s fuel subsidy reversal plan not realistic — Fashola",
           "source": "Vanguard",
           "date": "2026-11-17"
-        },
-        {
-          "title": "‘The Proposal Is Not Realistic,’ Fashola Faults Atiku’s Fuel Subsidy Reversal Plan",
-          "source": "Channels Television",
-          "date": "2026-11-17"
         }
       ]
     },
     {
       "id": "chile-pension",
       "name": "Pension Reform Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Americas",
       "location": "Chile · Santiago",
       "year": 2025,
       "logged": "2025-09-15",
-      "articleCount": 582,
-      "updated": "19h ago",
+      "articleCount": 586,
+      "updated": "1d ago",
       "description": "A campaign calling for changes to the country's privately managed pension system.",
       "latestHeadlines": [
         {
@@ -80,14 +80,14 @@
           "date": "2026-11-18"
         },
         {
-          "title": "(VIDEO) Senadora cuestiona al ministro Quiroz por omisión de fondos en el Presupuesto 2027",
+          "title": "Die ausstehende Aufgabe: NEIN zu AFP",
           "source": "El Ciudadano",
           "date": "2026-11-18"
         },
         {
-          "title": "Recursos de la reforma de pensiones tensiona debate presupuestario en el Senado: oposición acusa incumplimiento",
-          "source": "Radio Universidad de Chile",
-          "date": "2026-11-17"
+          "title": "The Ongoing Challenge: End the AFP System in Chile",
+          "source": "El Ciudadano",
+          "date": "2026-11-18"
         }
       ]
     },
@@ -100,8 +100,8 @@
       "location": "Kenya · Nairobi",
       "year": 2024,
       "logged": "2024-06-10",
-      "articleCount": 539,
-      "updated": "19h ago",
+      "articleCount": 540,
+      "updated": "1d ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
         {
@@ -110,14 +110,14 @@
           "date": "2026-11-18"
         },
         {
-          "title": "Ruto lists measures to lower cost of living, put more money in Kenyans' pockets",
+          "title": "Ruto struggles to address the pain of the cost of living, defends record",
           "source": "The Standard",
           "date": "2026-11-18"
         },
         {
-          "title": "I don’t regret supporting Ruto during Gen Z protests: KRG says after Jaymo Ule Msee’s apology",
-          "source": "K24 Digital",
-          "date": "2026-11-13"
+          "title": "Ruto lists measures to lower cost of living, put more money in Kenyans' pockets",
+          "source": "The Standard",
+          "date": "2026-11-18"
         }
       ]
     }

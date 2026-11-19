@@ -151,7 +151,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 13
+      "count": 14
     }
   ],
   "sources": [
@@ -204,6 +204,12 @@
       "last": "2026-08-27"
     },
     {
+      "name": "The Standard",
+      "count": 11,
+      "first": "2026-06-24",
+      "last": "2026-11-18"
+    },
+    {
       "name": "DW.com",
       "count": 10,
       "first": "2024-06-21",
@@ -214,12 +220,6 @@
       "count": 10,
       "first": "2026-04-04",
       "last": "2026-10-21"
-    },
-    {
-      "name": "The Standard",
-      "count": 10,
-      "first": "2026-06-24",
-      "last": "2026-11-18"
     },
     {
       "name": "World Socialist Web Site",
@@ -678,12 +678,6 @@
       "last": "2026-01-19"
     },
     {
-      "name": "International Crisis Group",
-      "count": 1,
-      "first": "2024-07-03",
-      "last": "2024-07-03"
-    },
-    {
       "name": "International Socialist Alternative",
       "count": 1,
       "first": "2025-07-23",
@@ -790,6 +784,12 @@
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
+    },
+    {
+      "name": "ReliefWeb",
+      "count": 1,
+      "first": "2024-07-03",
+      "last": "2024-07-03"
     },
     {
       "name": "reutersconnect.com",

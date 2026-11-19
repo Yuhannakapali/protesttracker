@@ -167,7 +167,7 @@
     },
     {
       "start": "2018-03-01",
-      "count": 1
+      "count": 0
     },
     {
       "start": "2018-04-01",
@@ -263,7 +263,7 @@
     },
     {
       "start": "2020-03-01",
-      "count": 3
+      "count": 4
     },
     {
       "start": "2020-04-01",
@@ -583,13 +583,13 @@
     },
     {
       "start": "2026-11-01",
-      "count": 48
+      "count": 52
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 83,
+      "count": 87,
       "first": "2016-08-10",
       "last": "2026-11-18"
     },
@@ -1002,12 +1002,6 @@
       "last": "2020-01-22"
     },
     {
-      "name": "América TeVé",
-      "count": 1,
-      "first": "2025-03-30",
-      "last": "2025-03-30"
-    },
-    {
       "name": "AP News",
       "count": 1,
       "first": "2019-11-15",
@@ -1090,6 +1084,12 @@
       "count": 1,
       "first": "2017-12-19",
       "last": "2017-12-19"
+    },
+    {
+      "name": "Chicago Tribune",
+      "count": 1,
+      "first": "2025-03-30",
+      "last": "2025-03-30"
     },
     {
       "name": "Chief Investment Officer",
@@ -1364,8 +1364,8 @@
     {
       "name": "iProfesional",
       "count": 1,
-      "first": "2018-03-06",
-      "last": "2018-03-06"
+      "first": "2020-03-22",
+      "last": "2020-03-22"
     },
     {
       "name": "la diaria",
@@ -1542,7 +1542,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Puranoticia.cl",
+      "name": "Puranoticia",
       "count": 1,
       "first": "2026-11-16",
       "last": "2026-11-16"
