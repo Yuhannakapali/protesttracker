@@ -179,11 +179,11 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2685
+      "count": 2687
     },
     {
       "start": "2026-11-01",
-      "count": 301
+      "count": 305
     }
   ],
   "sources": [
@@ -207,9 +207,9 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 211,
+      "count": 212,
       "first": "2026-06-06",
-      "last": "2026-11-18"
+      "last": "2026-11-20"
     },
     {
       "name": "The New Indian Express",
@@ -249,7 +249,7 @@
     },
     {
       "name": "ThePrint",
-      "count": 103,
+      "count": 104,
       "first": "2026-06-19",
       "last": "2026-11-19"
     },
@@ -344,16 +344,16 @@
       "last": "2026-11-03"
     },
     {
+      "name": "LawBeat",
+      "count": 33,
+      "first": "2026-02-07",
+      "last": "2026-11-20"
+    },
+    {
       "name": "DW.com",
       "count": 32,
       "first": "2026-07-21",
       "last": "2026-10-29"
-    },
-    {
-      "name": "LawBeat",
-      "count": 32,
-      "first": "2026-02-07",
-      "last": "2026-11-17"
     },
     {
       "name": "The Business Standard",
@@ -374,16 +374,16 @@
       "last": "2026-11-03"
     },
     {
+      "name": "BBC",
+      "count": 27,
+      "first": "2026-05-21",
+      "last": "2026-11-13"
+    },
+    {
       "name": "EdexLive",
       "count": 27,
       "first": "2024-06-18",
       "last": "2026-11-07"
-    },
-    {
-      "name": "BBC",
-      "count": 26,
-      "first": "2026-05-21",
-      "last": "2026-11-13"
     },
     {
       "name": "Bhaskar English",
@@ -746,6 +746,12 @@
       "last": "2026-10-30"
     },
     {
+      "name": "The Shillong Times",
+      "count": 7,
+      "first": "2026-08-11",
+      "last": "2026-11-20"
+    },
+    {
       "name": "CNA",
       "count": 6,
       "first": "2026-10-10",
@@ -774,12 +780,6 @@
       "count": 6,
       "first": "2026-08-18",
       "last": "2026-11-06"
-    },
-    {
-      "name": "The Shillong Times",
-      "count": 6,
-      "first": "2026-08-11",
-      "last": "2026-11-05"
     },
     {
       "name": "AP News",
@@ -1028,6 +1028,12 @@
       "last": "2026-10-22"
     },
     {
+      "name": "theopenpress.in",
+      "count": 4,
+      "first": "2026-11-03",
+      "last": "2026-11-20"
+    },
+    {
       "name": "www.thehawk.in",
       "count": 4,
       "first": "2026-07-22",
@@ -1194,12 +1200,6 @@
       "count": 3,
       "first": "2026-10-21",
       "last": "2026-11-05"
-    },
-    {
-      "name": "theopenpress.in",
-      "count": 3,
-      "first": "2026-11-03",
-      "last": "2026-11-20"
     },
     {
       "name": "Türkiye Today",
