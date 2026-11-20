@@ -527,7 +527,7 @@
     },
     {
       "start": "2020-09-01",
-      "count": 31
+      "count": 35
     },
     {
       "start": "2020-10-01",
@@ -711,7 +711,7 @@
     },
     {
       "start": "2024-07-01",
-      "count": 7
+      "count": 8
     },
     {
       "start": "2024-08-01",
@@ -795,7 +795,7 @@
     },
     {
       "start": "2026-04-01",
-      "count": 8
+      "count": 9
     },
     {
       "start": "2026-05-01",
@@ -815,7 +815,7 @@
     },
     {
       "start": "2026-09-01",
-      "count": 163
+      "count": 164
     },
     {
       "start": "2026-10-01",
@@ -841,25 +841,25 @@
     },
     {
       "name": "Channels Television",
-      "count": 80,
+      "count": 81,
       "first": "2012-01-04",
       "last": "2026-11-17"
     },
     {
       "name": "The Guardian Nigeria News",
-      "count": 60,
+      "count": 61,
       "first": "2015-10-02",
       "last": "2026-10-23"
     },
     {
       "name": "Vanguard News",
-      "count": 56,
+      "count": 55,
       "first": "2012-03-08",
       "last": "2026-11-10"
     },
     {
       "name": "Premium Times Nigeria",
-      "count": 49,
+      "count": 50,
       "first": "2013-04-18",
       "last": "2026-10-20"
     },
@@ -871,7 +871,7 @@
     },
     {
       "name": "Punch Newspapers",
-      "count": 36,
+      "count": 37,
       "first": "2020-09-04",
       "last": "2026-10-20"
     },
@@ -894,16 +894,16 @@
       "last": "2026-10-22"
     },
     {
-      "name": "Businessday NG",
-      "count": 23,
-      "first": "2020-10-02",
-      "last": "2026-10-27"
-    },
-    {
       "name": "The Sun Nigeria",
       "count": 23,
       "first": "2022-11-30",
       "last": "2026-11-09"
+    },
+    {
+      "name": "Businessday NG",
+      "count": 22,
+      "first": "2020-10-02",
+      "last": "2026-10-27"
     },
     {
       "name": "PM News Nigeria",
@@ -913,7 +913,7 @@
     },
     {
       "name": "Business News Nigeria",
-      "count": 18,
+      "count": 19,
       "first": "2022-01-21",
       "last": "2026-11-09"
     },
@@ -936,6 +936,12 @@
       "last": "2026-06-04"
     },
     {
+      "name": "THISDAYLIVE",
+      "count": 15,
+      "first": "2023-01-26",
+      "last": "2026-11-10"
+    },
+    {
       "name": "Al Jazeera",
       "count": 14,
       "first": "2012-01-04",
@@ -946,12 +952,6 @@
       "count": 14,
       "first": "2020-09-07",
       "last": "2026-10-27"
-    },
-    {
-      "name": "THISDAYLIVE",
-      "count": 14,
-      "first": "2023-01-26",
-      "last": "2026-11-10"
     },
     {
       "name": "LEADERSHIP Newspapers",
@@ -1014,12 +1014,6 @@
       "last": "2026-05-19"
     },
     {
-      "name": "VOA - Voice of America English News",
-      "count": 6,
-      "first": "2009-10-30",
-      "last": "2024-08-08"
-    },
-    {
       "name": "CNN",
       "count": 5,
       "first": "2012-01-03",
@@ -1036,6 +1030,12 @@
       "count": 5,
       "first": "2020-07-16",
       "last": "2025-10-22"
+    },
+    {
+      "name": "VOA - Voice of America English News",
+      "count": 5,
+      "first": "2009-10-30",
+      "last": "2024-08-08"
     },
     {
       "name": "allAfrica.com",
@@ -1060,6 +1060,12 @@
       "count": 4,
       "first": "2025-12-17",
       "last": "2026-01-26"
+    },
+    {
+      "name": "Nigerian Eye",
+      "count": 4,
+      "first": "2024-09-04",
+      "last": "2026-10-23"
     },
     {
       "name": "Nigerian Voice",
@@ -1102,12 +1108,6 @@
       "count": 3,
       "first": "2024-09-02",
       "last": "2026-10-20"
-    },
-    {
-      "name": "NigerianEye",
-      "count": 3,
-      "first": "2024-09-04",
-      "last": "2026-10-23"
     },
     {
       "name": "Opinion Nigeria",
@@ -1176,6 +1176,12 @@
       "last": "2024-09-06"
     },
     {
+      "name": "Nairametrics",
+      "count": 2,
+      "first": "2025-10-16",
+      "last": "2026-04-13"
+    },
+    {
       "name": "Nigerian Democratic Report",
       "count": 2,
       "first": "2026-09-17",
@@ -1222,6 +1228,12 @@
       "count": 2,
       "first": "2025-09-17",
       "last": "2026-04-12"
+    },
+    {
+      "name": "Voice of America English News",
+      "count": 2,
+      "first": "2012-01-15",
+      "last": "2023-09-26"
     },
     {
       "name": "Wansom AI",
@@ -1294,6 +1306,12 @@
       "count": 1,
       "first": "2024-09-25",
       "last": "2024-09-25"
+    },
+    {
+      "name": "Bloomberg.com",
+      "count": 1,
+      "first": "2024-07-29",
+      "last": "2024-07-29"
     },
     {
       "name": "Business Insider Africa",
@@ -1462,12 +1480,6 @@
       "count": 1,
       "first": "2025-07-27",
       "last": "2025-07-27"
-    },
-    {
-      "name": "Nairametrics",
-      "count": 1,
-      "first": "2025-10-16",
-      "last": "2025-10-16"
     },
     {
       "name": "National Accord Newspaper",
@@ -1642,12 +1654,6 @@
       "count": 1,
       "first": "2012-04-15",
       "last": "2012-04-15"
-    },
-    {
-      "name": "Voice of America English News",
-      "count": 1,
-      "first": "2012-01-15",
-      "last": "2012-01-15"
     },
     {
       "name": "شبكة تواصل الإخبارية",
