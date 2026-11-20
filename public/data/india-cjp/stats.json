@@ -171,7 +171,7 @@
     },
     {
       "start": "2026-08-01",
-      "count": 606
+      "count": 607
     },
     {
       "start": "2026-09-01",
@@ -179,11 +179,11 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2687
+      "count": 2690
     },
     {
       "start": "2026-11-01",
-      "count": 305
+      "count": 313
     }
   ],
   "sources": [
@@ -213,9 +213,9 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 201,
+      "count": 202,
       "first": "2026-07-22",
-      "last": "2026-11-18"
+      "last": "2026-11-20"
     },
     {
       "name": "The Indian Express",
@@ -231,9 +231,9 @@
     },
     {
       "name": "Telegraph India",
-      "count": 139,
+      "count": 140,
       "first": "2026-07-18",
-      "last": "2026-11-18"
+      "last": "2026-11-20"
     },
     {
       "name": "Rediff",
@@ -242,16 +242,16 @@
       "last": "2026-11-17"
     },
     {
+      "name": "ThePrint",
+      "count": 106,
+      "first": "2026-06-19",
+      "last": "2026-11-20"
+    },
+    {
       "name": "The Economic Times",
       "count": 104,
       "first": "2026-06-06",
       "last": "2026-11-17"
-    },
-    {
-      "name": "ThePrint",
-      "count": 104,
-      "first": "2026-06-19",
-      "last": "2026-11-19"
     },
     {
       "name": "ANI News",
@@ -296,16 +296,16 @@
       "last": "2026-11-05"
     },
     {
+      "name": "Deccan Chronicle",
+      "count": 48,
+      "first": "2026-08-16",
+      "last": "2026-11-20"
+    },
+    {
       "name": "The Statesman",
       "count": 47,
       "first": "2026-08-18",
       "last": "2026-11-05"
-    },
-    {
-      "name": "Deccan Chronicle",
-      "count": 46,
-      "first": "2026-08-16",
-      "last": "2026-11-17"
     },
     {
       "name": "Telangana Today",
@@ -452,6 +452,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "Bar and Bench",
+      "count": 17,
+      "first": "2026-08-07",
+      "last": "2026-11-05"
+    },
+    {
       "name": "Daily Pioneer",
       "count": 17,
       "first": "2026-08-17",
@@ -476,12 +482,6 @@
       "last": "2026-10-28"
     },
     {
-      "name": "Bar and Bench",
-      "count": 16,
-      "first": "2026-08-07",
-      "last": "2026-11-05"
-    },
-    {
       "name": "DT Next",
       "count": 16,
       "first": "2026-08-21",
@@ -492,6 +492,12 @@
       "count": 15,
       "first": "2026-09-10",
       "last": "2026-11-18"
+    },
+    {
+      "name": "Reuters Connect",
+      "count": 15,
+      "first": "2026-08-29",
+      "last": "2026-11-11"
     },
     {
       "name": "Brut",
@@ -530,12 +536,6 @@
       "last": "2026-10-09"
     },
     {
-      "name": "Reuters Connect",
-      "count": 13,
-      "first": "2026-08-29",
-      "last": "2026-10-15"
-    },
-    {
       "name": "Udayavani",
       "count": 13,
       "first": "2026-07-18",
@@ -554,6 +554,12 @@
       "last": "2026-11-19"
     },
     {
+      "name": "Facebook",
+      "count": 12,
+      "first": "2026-07-21",
+      "last": "2026-10-15"
+    },
+    {
       "name": "The Quint",
       "count": 12,
       "first": "2026-08-18",
@@ -570,12 +576,6 @@
       "count": 11,
       "first": "2026-08-10",
       "last": "2026-10-22"
-    },
-    {
-      "name": "Facebook",
-      "count": 11,
-      "first": "2026-07-21",
-      "last": "2026-10-15"
     },
     {
       "name": "Firstpost",
@@ -1136,6 +1136,12 @@
       "last": "2026-10-17"
     },
     {
+      "name": "Law Trend",
+      "count": 3,
+      "first": "2026-09-10",
+      "last": "2026-11-20"
+    },
+    {
       "name": "LawStreet Journal",
       "count": 3,
       "first": "2026-10-09",
@@ -1337,7 +1343,7 @@
       "name": "Genocide Watch",
       "count": 2,
       "first": "2026-06-30",
-      "last": "2026-10-16"
+      "last": "2026-10-15"
     },
     {
       "name": "guwahati Plus News",
@@ -1380,12 +1386,6 @@
       "count": 2,
       "first": "2026-10-14",
       "last": "2026-10-16"
-    },
-    {
-      "name": "Law Trend",
-      "count": 2,
-      "first": "2026-09-10",
-      "last": "2026-11-05"
     },
     {
       "name": "mezha.net",
@@ -1706,7 +1706,7 @@
       "last": "2026-10-22"
     },
     {
-      "name": "Council on Foreign Relations (CFR)",
+      "name": "Council on Foreign Relations",
       "count": 1,
       "first": "2026-07-31",
       "last": "2026-07-31"
@@ -1872,6 +1872,12 @@
       "count": 1,
       "first": "2026-09-27",
       "last": "2026-09-27"
+    },
+    {
+      "name": "Himal Southasian",
+      "count": 1,
+      "first": "2026-08-25",
+      "last": "2026-08-25"
     },
     {
       "name": "HinduPost",
@@ -2392,8 +2398,8 @@
     {
       "name": "The Observer",
       "count": 1,
-      "first": "2026-10-26",
-      "last": "2026-10-26"
+      "first": "2026-10-25",
+      "last": "2026-10-25"
     },
     {
       "name": "The Pamphlet",
@@ -2422,8 +2428,8 @@
     {
       "name": "The Sun Malaysia",
       "count": 1,
-      "first": "2026-10-17",
-      "last": "2026-10-17"
+      "first": "2026-11-07",
+      "last": "2026-11-07"
     },
     {
       "name": "The Ticker",
