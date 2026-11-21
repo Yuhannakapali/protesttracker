@@ -183,19 +183,19 @@
     },
     {
       "start": "2026-11-01",
-      "count": 320
+      "count": 329
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 381,
+      "count": 384,
       "first": "2026-06-06",
       "last": "2026-11-21"
     },
     {
       "name": "The Times of India",
-      "count": 264,
+      "count": 265,
       "first": "2026-06-06",
       "last": "2026-11-20"
     },
@@ -207,9 +207,9 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 213,
+      "count": 214,
       "first": "2026-06-06",
-      "last": "2026-11-20"
+      "last": "2026-11-21"
     },
     {
       "name": "The New Indian Express",
@@ -428,6 +428,12 @@
       "last": "2026-10-26"
     },
     {
+      "name": "Pragativadi",
+      "count": 20,
+      "first": "2026-09-15",
+      "last": "2026-11-21"
+    },
+    {
       "name": "Reuters",
       "count": 20,
       "first": "2026-06-01",
@@ -437,12 +443,6 @@
       "name": "OpIndia",
       "count": 19,
       "first": "2026-08-17",
-      "last": "2026-11-19"
-    },
-    {
-      "name": "Pragativadi",
-      "count": 19,
-      "first": "2026-09-15",
       "last": "2026-11-19"
     },
     {
@@ -518,6 +518,12 @@
       "last": "2026-11-18"
     },
     {
+      "name": "Udayavani",
+      "count": 14,
+      "first": "2026-07-18",
+      "last": "2026-11-20"
+    },
+    {
       "name": "India.com",
       "count": 13,
       "first": "2026-08-18",
@@ -534,12 +540,6 @@
       "count": 13,
       "first": "2026-08-28",
       "last": "2026-10-09"
-    },
-    {
-      "name": "Udayavani",
-      "count": 13,
-      "first": "2026-07-18",
-      "last": "2026-11-17"
     },
     {
       "name": "Urban Acres",
@@ -800,6 +800,12 @@
       "last": "2026-10-17"
     },
     {
+      "name": "Free Press Journal",
+      "count": 5,
+      "first": "2026-07-21",
+      "last": "2026-11-21"
+    },
+    {
       "name": "IBTimes India",
       "count": 5,
       "first": "2026-08-30",
@@ -930,12 +936,6 @@
       "count": 4,
       "first": "2026-10-10",
       "last": "2026-10-12"
-    },
-    {
-      "name": "Free Press Journal",
-      "count": 4,
-      "first": "2026-07-21",
-      "last": "2026-11-13"
     },
     {
       "name": "Gulf News",
@@ -2160,6 +2160,12 @@
       "count": 1,
       "first": "2026-10-13",
       "last": "2026-10-13"
+    },
+    {
+      "name": "News9live",
+      "count": 1,
+      "first": "2026-11-21",
+      "last": "2026-11-21"
     },
     {
       "name": "newsable.asianetnews.com",
