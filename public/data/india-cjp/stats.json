@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 329
+      "count": 331
     }
   ],
   "sources": [
@@ -207,7 +207,7 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 214,
+      "count": 215,
       "first": "2026-06-06",
       "last": "2026-11-21"
     },
@@ -590,6 +590,12 @@
       "last": "2026-11-17"
     },
     {
+      "name": "NDTV Profit",
+      "count": 11,
+      "first": "2026-09-25",
+      "last": "2026-11-21"
+    },
+    {
       "name": "News Arena India",
       "count": 11,
       "first": "2026-08-12",
@@ -612,12 +618,6 @@
       "count": 10,
       "first": "2026-08-19",
       "last": "2026-10-16"
-    },
-    {
-      "name": "NDTV Profit",
-      "count": 10,
-      "first": "2026-09-25",
-      "last": "2026-10-28"
     },
     {
       "name": "Organiser",

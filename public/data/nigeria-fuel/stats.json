@@ -819,17 +819,17 @@
     },
     {
       "start": "2026-10-01",
-      "count": 237
+      "count": 239
     },
     {
       "start": "2026-11-01",
-      "count": 70
+      "count": 73
     }
   ],
   "sources": [
     {
       "name": "Daily Post Nigeria",
-      "count": 141,
+      "count": 142,
       "first": "2012-01-05",
       "last": "2026-11-21"
     },
@@ -847,13 +847,13 @@
     },
     {
       "name": "The Guardian Nigeria News",
-      "count": 61,
+      "count": 62,
       "first": "2015-10-02",
-      "last": "2026-10-23"
+      "last": "2026-11-09"
     },
     {
       "name": "Vanguard News",
-      "count": 56,
+      "count": 53,
       "first": "2012-03-08",
       "last": "2026-11-21"
     },
@@ -888,22 +888,22 @@
       "last": "2026-11-18"
     },
     {
+      "name": "The Sun Nigeria",
+      "count": 25,
+      "first": "2022-11-30",
+      "last": "2026-11-09"
+    },
+    {
       "name": "TheCable",
       "count": 25,
       "first": "2020-09-05",
       "last": "2026-10-22"
     },
     {
-      "name": "The Sun Nigeria",
-      "count": 23,
-      "first": "2022-11-30",
-      "last": "2026-11-09"
-    },
-    {
-      "name": "Businessday NG",
+      "name": "Business News Nigeria",
       "count": 22,
-      "first": "2020-10-02",
-      "last": "2026-10-27"
+      "first": "2022-01-21",
+      "last": "2026-11-09"
     },
     {
       "name": "PM News Nigeria",
@@ -912,10 +912,10 @@
       "last": "2026-10-09"
     },
     {
-      "name": "Business News Nigeria",
+      "name": "Businessday NG",
       "count": 19,
-      "first": "2022-01-21",
-      "last": "2026-11-09"
+      "first": "2020-10-02",
+      "last": "2026-05-13"
     },
     {
       "name": "Tribune Online",
@@ -987,7 +987,7 @@
       "name": "Peoples Gazette Nigeria",
       "count": 8,
       "first": "2024-10-09",
-      "last": "2026-11-09"
+      "last": "2026-11-10"
     },
     {
       "name": "Sahara Reporters",
@@ -1044,12 +1044,6 @@
       "last": "2026-10-20"
     },
     {
-      "name": "News Agency of Nigeria",
-      "count": 4,
-      "first": "2026-10-08",
-      "last": "2026-10-13"
-    },
-    {
       "name": "Nigeria Info FM",
       "count": 4,
       "first": "2025-12-17",
@@ -1092,6 +1086,12 @@
       "last": "2026-11-10"
     },
     {
+      "name": "Galaxy Television",
+      "count": 3,
+      "first": "2026-10-09",
+      "last": "2026-10-26"
+    },
+    {
       "name": "Legit.ng",
       "count": 3,
       "first": "2024-08-11",
@@ -1102,6 +1102,12 @@
       "count": 3,
       "first": "2024-09-05",
       "last": "2026-11-09"
+    },
+    {
+      "name": "News Agency of Nigeria",
+      "count": 3,
+      "first": "2026-10-08",
+      "last": "2026-10-09"
     },
     {
       "name": "Nigerian Bulletin",
@@ -1152,12 +1158,6 @@
       "last": "2012-01-16"
     },
     {
-      "name": "Galaxy Television",
-      "count": 2,
-      "first": "2026-10-09",
-      "last": "2026-10-26"
-    },
-    {
       "name": "Instagram",
       "count": 2,
       "first": "2026-01-30",
@@ -1192,6 +1192,12 @@
       "count": 2,
       "first": "2026-09-17",
       "last": "2026-10-07"
+    },
+    {
+      "name": "Nigerian NewsDirect",
+      "count": 2,
+      "first": "2026-09-23",
+      "last": "2026-10-15"
     },
     {
       "name": "premiumtimesng.com",
@@ -1252,6 +1258,12 @@
       "count": 2,
       "first": "2025-07-24",
       "last": "2026-03-14"
+    },
+    {
+      "name": "- OGUN STATE TELEVISION",
+      "count": 1,
+      "first": "2026-06-08",
+      "last": "2026-06-08"
     },
     {
       "name": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1354,6 +1366,12 @@
       "count": 1,
       "first": "2026-08-19",
       "last": "2026-08-19"
+    },
+    {
+      "name": "Crime Fighters",
+      "count": 1,
+      "first": "2026-10-09",
+      "last": "2026-10-09"
     },
     {
       "name": "Daily Champion Newspaper",
@@ -1506,12 +1524,6 @@
       "last": "2026-10-21"
     },
     {
-      "name": "Nigerian NewsDirect",
-      "count": 1,
-      "first": "2026-09-23",
-      "last": "2026-09-23"
-    },
-    {
       "name": "OsunDefender",
       "count": 1,
       "first": "2026-11-08",
@@ -1600,6 +1612,12 @@
       "count": 1,
       "first": "2026-10-15",
       "last": "2026-10-15"
+    },
+    {
+      "name": "The Nigerian Observer",
+      "count": 1,
+      "first": "2026-10-14",
+      "last": "2026-10-14"
     },
     {
       "name": "The Nigerian Post",
