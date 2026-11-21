@@ -183,15 +183,15 @@
     },
     {
       "start": "2026-11-01",
-      "count": 313
+      "count": 317
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 379,
+      "count": 380,
       "first": "2026-06-06",
-      "last": "2026-11-18"
+      "last": "2026-11-20"
     },
     {
       "name": "The Times of India",
@@ -207,7 +207,7 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 212,
+      "count": 213,
       "first": "2026-06-06",
       "last": "2026-11-20"
     },
@@ -326,16 +326,16 @@
       "last": "2026-11-02"
     },
     {
+      "name": "The Tribune",
+      "count": 40,
+      "first": "2026-08-15",
+      "last": "2026-11-21"
+    },
+    {
       "name": "Mid-Day",
       "count": 39,
       "first": "2026-08-23",
       "last": "2026-11-09"
-    },
-    {
-      "name": "The Tribune",
-      "count": 39,
-      "first": "2026-08-15",
-      "last": "2026-11-18"
     },
     {
       "name": "TheWire.in",
@@ -1172,6 +1172,12 @@
       "last": "2026-11-05"
     },
     {
+      "name": "NewsGram",
+      "count": 3,
+      "first": "2026-08-31",
+      "last": "2026-11-20"
+    },
+    {
       "name": "NPR",
       "count": 3,
       "first": "2026-07-20",
@@ -1410,12 +1416,6 @@
       "count": 2,
       "first": "2026-09-28",
       "last": "2026-10-15"
-    },
-    {
-      "name": "NewsGram",
-      "count": 2,
-      "first": "2026-08-31",
-      "last": "2026-09-03"
     },
     {
       "name": "newstodaynet.com",
@@ -2589,5 +2589,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-20"
+  "lastDate": "2026-11-21"
 }
