@@ -247,7 +247,7 @@
     },
     {
       "start": "2019-11-01",
-      "count": 25
+      "count": 26
     },
     {
       "start": "2019-12-01",
@@ -607,7 +607,7 @@
     },
     {
       "name": "La Izquierda Diario",
-      "count": 38,
+      "count": 39,
       "first": "2015-04-23",
       "last": "2026-11-02"
     },
@@ -768,12 +768,6 @@
       "last": "2022-11-06"
     },
     {
-      "name": "La Izquierda Diario Chile",
-      "count": 3,
-      "first": "2018-04-17",
-      "last": "2024-12-22"
-    },
-    {
       "name": "MDZ Online",
       "count": 3,
       "first": "2017-12-14",
@@ -892,6 +886,12 @@
       "count": 2,
       "first": "2017-12-17",
       "last": "2017-12-18"
+    },
+    {
+      "name": "La Izquierda Diario Chile",
+      "count": 2,
+      "first": "2020-07-20",
+      "last": "2024-12-22"
     },
     {
       "name": "lared.cl",
@@ -1398,6 +1398,12 @@
       "last": "2019-11-28"
     },
     {
+      "name": "lavozdepucon",
+      "count": 1,
+      "first": "2019-11-18",
+      "last": "2019-11-18"
+    },
+    {
       "name": "Lefteast",
       "count": 1,
       "first": "2019-01-24",
@@ -1542,7 +1548,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Puranoticia.cl",
+      "name": "Puranoticia",
       "count": 1,
       "first": "2026-11-16",
       "last": "2026-11-16"

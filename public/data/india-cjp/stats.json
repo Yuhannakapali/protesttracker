@@ -167,7 +167,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 211
+      "count": 212
     },
     {
       "start": "2026-08-01",
@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 331
+      "count": 332
     }
   ],
   "sources": [
@@ -278,16 +278,16 @@
       "last": "2026-11-18"
     },
     {
+      "name": "Outlook India",
+      "count": 53,
+      "first": "2026-08-17",
+      "last": "2026-11-22"
+    },
+    {
       "name": "moneycontrol.com",
       "count": 52,
       "first": "2026-08-18",
       "last": "2026-11-18"
-    },
-    {
-      "name": "Outlook India",
-      "count": 52,
-      "first": "2026-08-17",
-      "last": "2026-11-07"
     },
     {
       "name": "ETV Bharat",
@@ -1748,6 +1748,12 @@
       "last": "2026-10-14"
     },
     {
+      "name": "Deshabhimani",
+      "count": 1,
+      "first": "2026-07-22",
+      "last": "2026-07-22"
+    },
+    {
       "name": "Devdiscourse",
       "count": 1,
       "first": "2026-10-21",
@@ -2252,12 +2258,6 @@
       "last": "2026-10-14"
     },
     {
-      "name": "ScheerPost",
-      "count": 1,
-      "first": "2026-11-18",
-      "last": "2026-11-18"
-    },
-    {
       "name": "shattered.io",
       "count": 1,
       "first": "2026-10-22",
@@ -2540,6 +2540,12 @@
       "last": "2026-11-19"
     },
     {
+      "name": "Waging Nonviolence",
+      "count": 1,
+      "first": "2026-11-16",
+      "last": "2026-11-16"
+    },
+    {
       "name": "Whalesbook",
       "count": 1,
       "first": "2026-09-01",
@@ -2601,5 +2607,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-21"
+  "lastDate": "2026-11-22"
 }
