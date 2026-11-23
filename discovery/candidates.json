@@ -1,347 +1,6 @@
 {
-  "generated": "2026-11-22T11:10:03.420Z",
+  "generated": "2026-11-23T12:23:53.522Z",
   "candidates": [
-    {
-      "key": "wd-Q134695948",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "France",
-      "countries": [
-        "France"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Paris_Saint-Germain_celebration_riots",
-      "needsName": false,
-      "suggested": {
-        "id": "france-paris-saint-germain-celebration-riots",
-        "name": "2025 Paris Saint-Germain celebration riots",
-        "region": "Europe",
-        "location": "France",
-        "year": 2025,
-        "description": "riots in Paris, France",
-        "keywords": [
-          "paris",
-          "saint",
-          "germain",
-          "celebration",
-          "france",
-          "protest"
-        ],
-        "strictKeywords": [
-          "paris",
-          "saint",
-          "germain",
-          "celebration"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Paris%20Saint-Germain%20celebration%20riots&hl=en-FR&gl=FR&ceid=FR%3Aen",
-          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q134695948",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Paris_Saint-Germain_celebration_riots"
-        }
-      }
-    },
-    {
-      "key": "wd-Q134734343",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United States",
-      "countries": [
-        "United States"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deportation",
-      "needsName": false,
-      "suggested": {
-        "id": "united-states-june-los-angeles-protests",
-        "name": "June 2025 Los Angeles protests",
-        "region": "Americas",
-        "location": "United States",
-        "year": 2025,
-        "description": "series of protests in the United States against immigration raids",
-        "keywords": [
-          "los",
-          "angeles",
-          "united states",
-          "protest"
-        ],
-        "strictKeywords": [
-          "los",
-          "angeles"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=June%202025%20Los%20Angeles%20protests&hl=en-US&gl=US&ceid=US%3Aen",
-          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q134734343",
-          "wikipedia": "https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deportation"
-        }
-      }
-    },
-    {
-      "key": "wd-Q134880654",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Northern Ireland",
-      "countries": [
-        "Northern Ireland"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Northern_Ireland_riots",
-      "needsName": false,
-      "suggested": {
-        "id": "northern-ireland-northern-ireland-riots",
-        "name": "2025 Northern Ireland riots",
-        "region": "Europe",
-        "location": "Northern Ireland",
-        "year": 2025,
-        "description": "riots beginning on 9 June 2025 in Northern Ireland",
-        "keywords": [
-          "northern",
-          "ireland",
-          "northern ireland",
-          "protest"
-        ],
-        "strictKeywords": [
-          "northern",
-          "ireland"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Northern%20Ireland%20riots&hl=en-GB&gl=GB&ceid=GB%3Aen",
-          "https://news.google.com/rss/search?q=Northern%20Ireland%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q134880654",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Northern_Ireland_riots"
-        }
-      }
-    },
-    {
-      "key": "wd-Q135264147",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United States",
-      "countries": [
-        "United States"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_District_Council_33_strike",
-      "needsName": false,
-      "suggested": {
-        "id": "united-states-district-council-33-strike",
-        "name": "2025 District Council 33 strike",
-        "region": "Americas",
-        "location": "United States",
-        "year": 2025,
-        "description": "2025 union action by municipal workers in Philadelphia",
-        "keywords": [
-          "district",
-          "council",
-          "united states",
-          "protest"
-        ],
-        "strictKeywords": [
-          "district",
-          "council"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20District%20Council%2033%20strike&hl=en-US&gl=US&ceid=US%3Aen",
-          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q135264147",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_District_Council_33_strike"
-        }
-      }
-    },
-    {
-      "key": "wd-Q135314745",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Spain",
-      "countries": [
-        "Spain"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Torre-Pacheco_unrest",
-      "needsName": false,
-      "suggested": {
-        "id": "spain-torre-pacheco-unrest",
-        "name": "Torre-Pacheco unrest",
-        "region": "Europe",
-        "location": "Spain",
-        "year": 2026,
-        "description": "2025 ethnic riots in Torre-Pacheco, Spain",
-        "keywords": [
-          "torre",
-          "pacheco",
-          "spain",
-          "protest"
-        ],
-        "strictKeywords": [
-          "torre",
-          "pacheco"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Torre-Pacheco%20unrest&hl=en-ES&gl=ES&ceid=ES%3Aen",
-          "https://news.google.com/rss/search?q=Spain%20protest&hl=en-ES&gl=ES&ceid=ES%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q135314745",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Torre-Pacheco_unrest"
-        }
-      }
-    },
-    {
-      "key": "wd-Q135441954",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Ukraine",
-      "countries": [
-        "Ukraine"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_anti-corruption_protests_in_Ukraine",
-      "needsName": false,
-      "suggested": {
-        "id": "ukraine-ukrainian-protests",
-        "name": "2025 Ukrainian protests",
-        "region": "Europe",
-        "location": "Ukraine",
-        "year": 2025,
-        "description": "Protests against legislation limiting anti-corruption agencies",
-        "keywords": [
-          "ukrainian",
-          "ukraine",
-          "protest"
-        ],
-        "strictKeywords": [
-          "ukrainian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Ukrainian%20protests&hl=en-UA&gl=UA&ceid=UA%3Aen",
-          "https://news.google.com/rss/search?q=Ukraine%20protest&hl=en-UA&gl=UA&ceid=UA%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q135441954",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_anti-corruption_protests_in_Ukraine"
-        }
-      }
-    },
-    {
-      "key": "wd-Q135741899",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Mexico",
-      "countries": [
-        "Mexico"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_gentrification_in_Mexico_City",
-      "needsName": false,
-      "suggested": {
-        "id": "mexico-protests-against-gentrification-in-mexico-city",
-        "name": "Protests against gentrification in Mexico City",
-        "region": "Americas",
-        "location": "Mexico",
-        "year": 2026,
-        "description": "2025 protests in Mexico",
-        "keywords": [
-          "gentrification",
-          "mexico",
-          "city",
-          "protest"
-        ],
-        "strictKeywords": [
-          "gentrification",
-          "mexico",
-          "city"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=Protests%20against%20gentrification%20in%20Mexico%20City&hl=en-MX&gl=MX&ceid=MX%3Aen",
-          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q135741899",
-          "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_gentrification_in_Mexico_City"
-        }
-      }
-    },
-    {
-      "key": "wd-Q135775281",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Indonesia",
-      "countries": [
-        "Indonesia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2025_Pati_demonstrations",
-      "needsName": false,
-      "suggested": {
-        "id": "indonesia-pati-demonstrations",
-        "name": "2025 Pati demonstrations",
-        "region": "Asia",
-        "location": "Indonesia",
-        "year": 2025,
-        "description": "protest on government of Pati's policy on August 2025",
-        "keywords": [
-          "pati",
-          "indonesia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "pati"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2025%20Pati%20demonstrations&hl=en-ID&gl=ID&ceid=ID%3Aen",
-          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q135775281",
-          "wikipedia": "https://en.wikipedia.org/wiki/2025_Pati_demonstrations"
-        }
-      }
-    },
-    {
-      "key": "wd-Q135989908",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Indonesia",
-      "countries": [
-        "Indonesia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/August_2025_Indonesian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "indonesia-august-september-indonesian-protests",
-        "name": "August–September 2025 Indonesian protests",
-        "region": "Asia",
-        "location": "Indonesia",
-        "year": 2025,
-        "description": "protests in Indonesia since August 2025",
-        "keywords": [
-          "indonesian",
-          "indonesia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "indonesian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=August%E2%80%93September%202025%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
-          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q135989908",
-          "wikipedia": "https://en.wikipedia.org/wiki/August_2025_Indonesian_protests"
-        }
-      }
-    },
     {
       "key": "wd-Q136399532",
       "source": "wikidata",
@@ -746,6 +405,347 @@
         "_source": {
           "wikidata": "Q137612545",
           "wikipedia": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q134695948",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "France",
+      "countries": [
+        "France"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Paris_Saint-Germain_celebration_riots",
+      "needsName": false,
+      "suggested": {
+        "id": "france-paris-saint-germain-celebration-riots",
+        "name": "2025 Paris Saint-Germain celebration riots",
+        "region": "Europe",
+        "location": "France",
+        "year": 2025,
+        "description": "riots in Paris, France",
+        "keywords": [
+          "paris",
+          "saint",
+          "germain",
+          "celebration",
+          "france",
+          "protest"
+        ],
+        "strictKeywords": [
+          "paris",
+          "saint",
+          "germain",
+          "celebration"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Paris%20Saint-Germain%20celebration%20riots&hl=en-FR&gl=FR&ceid=FR%3Aen",
+          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q134695948",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Paris_Saint-Germain_celebration_riots"
+        }
+      }
+    },
+    {
+      "key": "wd-Q134734343",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United States",
+      "countries": [
+        "United States"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deportation",
+      "needsName": false,
+      "suggested": {
+        "id": "united-states-june-los-angeles-protests",
+        "name": "June 2025 Los Angeles protests",
+        "region": "Americas",
+        "location": "United States",
+        "year": 2025,
+        "description": "series of protests in the United States against immigration raids",
+        "keywords": [
+          "los",
+          "angeles",
+          "united states",
+          "protest"
+        ],
+        "strictKeywords": [
+          "los",
+          "angeles"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=June%202025%20Los%20Angeles%20protests&hl=en-US&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q134734343",
+          "wikipedia": "https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deportation"
+        }
+      }
+    },
+    {
+      "key": "wd-Q134880654",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Northern Ireland",
+      "countries": [
+        "Northern Ireland"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Northern_Ireland_riots",
+      "needsName": false,
+      "suggested": {
+        "id": "northern-ireland-northern-ireland-riots",
+        "name": "2025 Northern Ireland riots",
+        "region": "Europe",
+        "location": "Northern Ireland",
+        "year": 2025,
+        "description": "riots beginning on 9 June 2025 in Northern Ireland",
+        "keywords": [
+          "northern",
+          "ireland",
+          "northern ireland",
+          "protest"
+        ],
+        "strictKeywords": [
+          "northern",
+          "ireland"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Northern%20Ireland%20riots&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=Northern%20Ireland%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q134880654",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Northern_Ireland_riots"
+        }
+      }
+    },
+    {
+      "key": "wd-Q135264147",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United States",
+      "countries": [
+        "United States"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_District_Council_33_strike",
+      "needsName": false,
+      "suggested": {
+        "id": "united-states-district-council-33-strike",
+        "name": "2025 District Council 33 strike",
+        "region": "Americas",
+        "location": "United States",
+        "year": 2025,
+        "description": "2025 union action by municipal workers in Philadelphia",
+        "keywords": [
+          "district",
+          "council",
+          "united states",
+          "protest"
+        ],
+        "strictKeywords": [
+          "district",
+          "council"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20District%20Council%2033%20strike&hl=en-US&gl=US&ceid=US%3Aen",
+          "https://news.google.com/rss/search?q=United%20States%20protest&hl=en-US&gl=US&ceid=US%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q135264147",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_District_Council_33_strike"
+        }
+      }
+    },
+    {
+      "key": "wd-Q135314745",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Spain",
+      "countries": [
+        "Spain"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Torre-Pacheco_unrest",
+      "needsName": false,
+      "suggested": {
+        "id": "spain-torre-pacheco-unrest",
+        "name": "Torre-Pacheco unrest",
+        "region": "Europe",
+        "location": "Spain",
+        "year": 2026,
+        "description": "2025 ethnic riots in Torre-Pacheco, Spain",
+        "keywords": [
+          "torre",
+          "pacheco",
+          "spain",
+          "protest"
+        ],
+        "strictKeywords": [
+          "torre",
+          "pacheco"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Torre-Pacheco%20unrest&hl=en-ES&gl=ES&ceid=ES%3Aen",
+          "https://news.google.com/rss/search?q=Spain%20protest&hl=en-ES&gl=ES&ceid=ES%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q135314745",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Torre-Pacheco_unrest"
+        }
+      }
+    },
+    {
+      "key": "wd-Q135441954",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Ukraine",
+      "countries": [
+        "Ukraine"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_anti-corruption_protests_in_Ukraine",
+      "needsName": false,
+      "suggested": {
+        "id": "ukraine-ukrainian-protests",
+        "name": "2025 Ukrainian protests",
+        "region": "Europe",
+        "location": "Ukraine",
+        "year": 2025,
+        "description": "Protests against legislation limiting anti-corruption agencies",
+        "keywords": [
+          "ukrainian",
+          "ukraine",
+          "protest"
+        ],
+        "strictKeywords": [
+          "ukrainian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Ukrainian%20protests&hl=en-UA&gl=UA&ceid=UA%3Aen",
+          "https://news.google.com/rss/search?q=Ukraine%20protest&hl=en-UA&gl=UA&ceid=UA%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q135441954",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_anti-corruption_protests_in_Ukraine"
+        }
+      }
+    },
+    {
+      "key": "wd-Q135741899",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Mexico",
+      "countries": [
+        "Mexico"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_gentrification_in_Mexico_City",
+      "needsName": false,
+      "suggested": {
+        "id": "mexico-protests-against-gentrification-in-mexico-city",
+        "name": "Protests against gentrification in Mexico City",
+        "region": "Americas",
+        "location": "Mexico",
+        "year": 2026,
+        "description": "2025 protests in Mexico",
+        "keywords": [
+          "gentrification",
+          "mexico",
+          "city",
+          "protest"
+        ],
+        "strictKeywords": [
+          "gentrification",
+          "mexico",
+          "city"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=Protests%20against%20gentrification%20in%20Mexico%20City&hl=en-MX&gl=MX&ceid=MX%3Aen",
+          "https://news.google.com/rss/search?q=Mexico%20protest&hl=en-MX&gl=MX&ceid=MX%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q135741899",
+          "wikipedia": "https://en.wikipedia.org/wiki/Protests_against_gentrification_in_Mexico_City"
+        }
+      }
+    },
+    {
+      "key": "wd-Q135775281",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Indonesia",
+      "countries": [
+        "Indonesia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2025_Pati_demonstrations",
+      "needsName": false,
+      "suggested": {
+        "id": "indonesia-pati-demonstrations",
+        "name": "2025 Pati demonstrations",
+        "region": "Asia",
+        "location": "Indonesia",
+        "year": 2025,
+        "description": "protest on government of Pati's policy on August 2025",
+        "keywords": [
+          "pati",
+          "indonesia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "pati"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2025%20Pati%20demonstrations&hl=en-ID&gl=ID&ceid=ID%3Aen",
+          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q135775281",
+          "wikipedia": "https://en.wikipedia.org/wiki/2025_Pati_demonstrations"
+        }
+      }
+    },
+    {
+      "key": "wd-Q135989908",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Indonesia",
+      "countries": [
+        "Indonesia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/August_2025_Indonesian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "indonesia-august-september-indonesian-protests",
+        "name": "August–September 2025 Indonesian protests",
+        "region": "Asia",
+        "location": "Indonesia",
+        "year": 2025,
+        "description": "protests in Indonesia since August 2025",
+        "keywords": [
+          "indonesian",
+          "indonesia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "indonesian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=August%E2%80%93September%202025%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
+          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q135989908",
+          "wikipedia": "https://en.wikipedia.org/wiki/August_2025_Indonesian_protests"
         }
       }
     },
@@ -1443,271 +1443,6 @@
       }
     },
     {
-      "key": "wd-Q141615137",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "France",
-      "countries": [
-        "France"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_French_civil_unrest",
-      "needsName": false,
-      "suggested": {
-        "id": "france-french-civil-unrest",
-        "name": "2026 French civil unrest",
-        "region": "Europe",
-        "location": "France",
-        "year": 2026,
-        "description": "student riots in France",
-        "keywords": [
-          "french",
-          "civil",
-          "france",
-          "protest"
-        ],
-        "strictKeywords": [
-          "french",
-          "civil"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20French%20civil%20unrest&hl=en-FR&gl=FR&ceid=FR%3Aen",
-          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q141615137",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_French_civil_unrest"
-        }
-      }
-    },
-    {
-      "key": "wd-Q141702779",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "United Kingdom",
-      "countries": [
-        "United Kingdom"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Victoria_and_Albert_Museum_strikes",
-      "needsName": false,
-      "suggested": {
-        "id": "united-kingdom-victoria-and-albert-museum-strikes",
-        "name": "2026 Victoria and Albert Museum strikes",
-        "region": "Europe",
-        "location": "United Kingdom",
-        "year": 2026,
-        "description": "strike of museum workers at the Victoria and Albert Museum, London",
-        "keywords": [
-          "victoria",
-          "albert",
-          "museum",
-          "united kingdom",
-          "protest"
-        ],
-        "strictKeywords": [
-          "victoria",
-          "albert",
-          "museum"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Victoria%20and%20Albert%20Museum%20strikes&hl=en-GB&gl=GB&ceid=GB%3Aen",
-          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q141702779",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Victoria_and_Albert_Museum_strikes"
-        }
-      }
-    },
-    {
-      "key": "wd-Q141717158",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "India",
-      "countries": [
-        "India"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_anti-CEC_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "india-anti-cec-protests",
-        "name": "2026 anti-CEC protests",
-        "region": "Asia",
-        "location": "India",
-        "year": 2026,
-        "description": "protests against Gyanesh Kumar, the Chief Election Commissioner of India",
-        "keywords": [
-          "anti",
-          "cec",
-          "india",
-          "protest"
-        ],
-        "strictKeywords": [
-          "anti",
-          "cec"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20anti-CEC%20protests&hl=en-IN&gl=IN&ceid=IN%3Aen",
-          "https://news.google.com/rss/search?q=India%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q141717158",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_anti-CEC_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q141773911",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Albania",
-      "countries": [
-        "Albania"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Albanian_student_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "albania-albanian-student-protests",
-        "name": "2026 Albanian student protests",
-        "region": "Europe",
-        "location": "Albania",
-        "year": 2026,
-        "description": "2026 period of civil unrest in Albania",
-        "keywords": [
-          "albanian",
-          "student",
-          "albania",
-          "protest"
-        ],
-        "strictKeywords": [
-          "albanian",
-          "student"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Albanian%20student%20protests&hl=en-AL&gl=AL&ceid=AL%3Aen",
-          "https://news.google.com/rss/search?q=Albania%20protest&hl=en-AL&gl=AL&ceid=AL%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q141773911",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Albanian_student_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q141776873",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Italy",
-      "countries": [
-        "Italy"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Italian_unrest",
-      "needsName": false,
-      "suggested": {
-        "id": "italy-italian-unrest",
-        "name": "2026 Italian unrest",
-        "region": "Europe",
-        "location": "Italy",
-        "year": 2026,
-        "description": "civil unrest in Italy",
-        "keywords": [
-          "italian",
-          "italy",
-          "protest"
-        ],
-        "strictKeywords": [
-          "italian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Italian%20unrest&hl=en-IT&gl=IT&ceid=IT%3Aen",
-          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q141776873",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Italian_unrest"
-        }
-      }
-    },
-    {
-      "key": "wd-Q141902100",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Indonesia",
-      "countries": [
-        "Indonesia"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/October_2026_Indonesian_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "indonesia-october-indonesian-protests",
-        "name": "October 2026 Indonesian protests",
-        "region": "Asia",
-        "location": "Indonesia",
-        "year": 2026,
-        "description": "series of protests in October 2026 in Indonesia",
-        "keywords": [
-          "indonesian",
-          "indonesia",
-          "protest"
-        ],
-        "strictKeywords": [
-          "indonesian"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=October%202026%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
-          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q141902100",
-          "wikipedia": "https://en.wikipedia.org/wiki/October_2026_Indonesian_protests"
-        }
-      }
-    },
-    {
-      "key": "wd-Q142084937",
-      "source": "wikidata",
-      "confidence": "high",
-      "country": "Bangladesh",
-      "countries": [
-        "Bangladesh"
-      ],
-      "wikipedia": "https://en.wikipedia.org/wiki/2026_Bangladesh_garment_workers_protests",
-      "needsName": false,
-      "suggested": {
-        "id": "bangladesh-bangladesh-garment-workers-protests",
-        "name": "2026 Bangladesh garment workers protests",
-        "region": "Asia",
-        "location": "Bangladesh",
-        "year": 2026,
-        "description": "Ongoing labour protests in Bangladesh over garment sector minimum wages",
-        "keywords": [
-          "bangladesh",
-          "garment",
-          "workers",
-          "protest"
-        ],
-        "strictKeywords": [
-          "bangladesh",
-          "garment",
-          "workers"
-        ],
-        "feeds": [
-          "https://news.google.com/rss/search?q=2026%20Bangladesh%20garment%20workers%20protests&hl=en-BD&gl=BD&ceid=BD%3Aen",
-          "https://news.google.com/rss/search?q=Bangladesh%20protest&hl=en-BD&gl=BD&ceid=BD%3Aen"
-        ],
-        "manualStatus": null,
-        "_source": {
-          "wikidata": "Q142084937",
-          "wikipedia": "https://en.wikipedia.org/wiki/2026_Bangladesh_garment_workers_protests"
-        }
-      }
-    },
-    {
       "key": "wd-Q140164273",
       "source": "wikidata",
       "confidence": "high",
@@ -1975,6 +1710,271 @@
         "_source": {
           "wikidata": "Q141592947",
           "wikipedia": "https://en.wikipedia.org/wiki/2026_Spanish_housing_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q141615137",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "France",
+      "countries": [
+        "France"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_French_civil_unrest",
+      "needsName": false,
+      "suggested": {
+        "id": "france-french-civil-unrest",
+        "name": "2026 French civil unrest",
+        "region": "Europe",
+        "location": "France",
+        "year": 2026,
+        "description": "student riots in France",
+        "keywords": [
+          "french",
+          "civil",
+          "france",
+          "protest"
+        ],
+        "strictKeywords": [
+          "french",
+          "civil"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20French%20civil%20unrest&hl=en-FR&gl=FR&ceid=FR%3Aen",
+          "https://news.google.com/rss/search?q=France%20protest&hl=en-FR&gl=FR&ceid=FR%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q141615137",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_French_civil_unrest"
+        }
+      }
+    },
+    {
+      "key": "wd-Q141702779",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "United Kingdom",
+      "countries": [
+        "United Kingdom"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Victoria_and_Albert_Museum_strikes",
+      "needsName": false,
+      "suggested": {
+        "id": "united-kingdom-victoria-and-albert-museum-strikes",
+        "name": "2026 Victoria and Albert Museum strikes",
+        "region": "Europe",
+        "location": "United Kingdom",
+        "year": 2026,
+        "description": "strike of museum workers at the Victoria and Albert Museum, London",
+        "keywords": [
+          "victoria",
+          "albert",
+          "museum",
+          "united kingdom",
+          "protest"
+        ],
+        "strictKeywords": [
+          "victoria",
+          "albert",
+          "museum"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Victoria%20and%20Albert%20Museum%20strikes&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "https://news.google.com/rss/search?q=United%20Kingdom%20protest&hl=en-GB&gl=GB&ceid=GB%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q141702779",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Victoria_and_Albert_Museum_strikes"
+        }
+      }
+    },
+    {
+      "key": "wd-Q141717158",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "India",
+      "countries": [
+        "India"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_anti-CEC_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "india-anti-cec-protests",
+        "name": "2026 anti-CEC protests",
+        "region": "Asia",
+        "location": "India",
+        "year": 2026,
+        "description": "protests against Gyanesh Kumar, the Chief Election Commissioner of India",
+        "keywords": [
+          "anti",
+          "cec",
+          "india",
+          "protest"
+        ],
+        "strictKeywords": [
+          "anti",
+          "cec"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20anti-CEC%20protests&hl=en-IN&gl=IN&ceid=IN%3Aen",
+          "https://news.google.com/rss/search?q=India%20protest&hl=en-IN&gl=IN&ceid=IN%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q141717158",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_anti-CEC_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q141773911",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Albania",
+      "countries": [
+        "Albania"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Albanian_student_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "albania-albanian-student-protests",
+        "name": "2026 Albanian student protests",
+        "region": "Europe",
+        "location": "Albania",
+        "year": 2026,
+        "description": "2026 period of civil unrest in Albania",
+        "keywords": [
+          "albanian",
+          "student",
+          "albania",
+          "protest"
+        ],
+        "strictKeywords": [
+          "albanian",
+          "student"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Albanian%20student%20protests&hl=en-AL&gl=AL&ceid=AL%3Aen",
+          "https://news.google.com/rss/search?q=Albania%20protest&hl=en-AL&gl=AL&ceid=AL%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q141773911",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Albanian_student_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q141776873",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Italy",
+      "countries": [
+        "Italy"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Italian_unrest",
+      "needsName": false,
+      "suggested": {
+        "id": "italy-italian-unrest",
+        "name": "2026 Italian unrest",
+        "region": "Europe",
+        "location": "Italy",
+        "year": 2026,
+        "description": "civil unrest in Italy",
+        "keywords": [
+          "italian",
+          "italy",
+          "protest"
+        ],
+        "strictKeywords": [
+          "italian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Italian%20unrest&hl=en-IT&gl=IT&ceid=IT%3Aen",
+          "https://news.google.com/rss/search?q=Italy%20protest&hl=en-IT&gl=IT&ceid=IT%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q141776873",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Italian_unrest"
+        }
+      }
+    },
+    {
+      "key": "wd-Q141902100",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Indonesia",
+      "countries": [
+        "Indonesia"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/October_2026_Indonesian_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "indonesia-october-indonesian-protests",
+        "name": "October 2026 Indonesian protests",
+        "region": "Asia",
+        "location": "Indonesia",
+        "year": 2026,
+        "description": "series of protests in October 2026 in Indonesia",
+        "keywords": [
+          "indonesian",
+          "indonesia",
+          "protest"
+        ],
+        "strictKeywords": [
+          "indonesian"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=October%202026%20Indonesian%20protests&hl=en-ID&gl=ID&ceid=ID%3Aen",
+          "https://news.google.com/rss/search?q=Indonesia%20protest&hl=en-ID&gl=ID&ceid=ID%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q141902100",
+          "wikipedia": "https://en.wikipedia.org/wiki/October_2026_Indonesian_protests"
+        }
+      }
+    },
+    {
+      "key": "wd-Q142084937",
+      "source": "wikidata",
+      "confidence": "high",
+      "country": "Bangladesh",
+      "countries": [
+        "Bangladesh"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/2026_Bangladesh_garment_workers_protests",
+      "needsName": false,
+      "suggested": {
+        "id": "bangladesh-bangladesh-garment-workers-protests",
+        "name": "2026 Bangladesh garment workers protests",
+        "region": "Asia",
+        "location": "Bangladesh",
+        "year": 2026,
+        "description": "Ongoing labour protests in Bangladesh over garment sector minimum wages",
+        "keywords": [
+          "bangladesh",
+          "garment",
+          "workers",
+          "protest"
+        ],
+        "strictKeywords": [
+          "bangladesh",
+          "garment",
+          "workers"
+        ],
+        "feeds": [
+          "https://news.google.com/rss/search?q=2026%20Bangladesh%20garment%20workers%20protests&hl=en-BD&gl=BD&ceid=BD%3Aen",
+          "https://news.google.com/rss/search?q=Bangladesh%20protest&hl=en-BD&gl=BD&ceid=BD%3Aen"
+        ],
+        "manualStatus": null,
+        "_source": {
+          "wikidata": "Q142084937",
+          "wikipedia": "https://en.wikipedia.org/wiki/2026_Bangladesh_garment_workers_protests"
         }
       }
     },
