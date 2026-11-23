@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 360
+      "count": 374
     }
   ],
   "sources": [
@@ -195,9 +195,9 @@
     },
     {
       "name": "The Times of India",
-      "count": 265,
+      "count": 266,
       "first": "2026-06-06",
-      "last": "2026-11-20"
+      "last": "2026-11-23"
     },
     {
       "name": "NDTV",
@@ -207,21 +207,21 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 217,
+      "count": 218,
       "first": "2026-06-06",
-      "last": "2026-11-22"
+      "last": "2026-11-23"
     },
     {
       "name": "The New Indian Express",
-      "count": 203,
+      "count": 205,
       "first": "2026-07-22",
-      "last": "2026-11-20"
+      "last": "2026-11-23"
     },
     {
       "name": "The Indian Express",
-      "count": 174,
+      "count": 176,
       "first": "2026-07-24",
-      "last": "2026-11-22"
+      "last": "2026-11-23"
     },
     {
       "name": "India Today",
@@ -242,16 +242,16 @@
       "last": "2026-11-22"
     },
     {
+      "name": "The Economic Times",
+      "count": 106,
+      "first": "2026-06-06",
+      "last": "2026-11-23"
+    },
+    {
       "name": "ThePrint",
       "count": 106,
       "first": "2026-06-19",
       "last": "2026-11-20"
-    },
-    {
-      "name": "The Economic Times",
-      "count": 104,
-      "first": "2026-06-06",
-      "last": "2026-11-17"
     },
     {
       "name": "ANI News",
@@ -261,9 +261,9 @@
     },
     {
       "name": "Deccan Herald",
-      "count": 92,
+      "count": 93,
       "first": "2026-06-05",
-      "last": "2026-11-10"
+      "last": "2026-11-22"
     },
     {
       "name": "News18",
@@ -323,7 +323,7 @@
       "name": "The Tribune",
       "count": 41,
       "first": "2026-08-15",
-      "last": "2026-11-21"
+      "last": "2026-11-22"
     },
     {
       "name": "Livemint",
@@ -758,6 +758,12 @@
       "last": "2026-10-16"
     },
     {
+      "name": "IBTimes India",
+      "count": 6,
+      "first": "2026-08-30",
+      "last": "2026-11-23"
+    },
+    {
       "name": "Kanak News Odisha",
       "count": 6,
       "first": "2026-10-02",
@@ -804,12 +810,6 @@
       "count": 5,
       "first": "2026-07-21",
       "last": "2026-11-21"
-    },
-    {
-      "name": "IBTimes India",
-      "count": 5,
-      "first": "2026-08-30",
-      "last": "2026-11-05"
     },
     {
       "name": "India TV News",
@@ -1328,6 +1328,12 @@
       "last": "2026-10-13"
     },
     {
+      "name": "Daijiworld",
+      "count": 2,
+      "first": "2026-10-21",
+      "last": "2026-11-23"
+    },
+    {
       "name": "Daily Excelsior",
       "count": 2,
       "first": "2026-08-24",
@@ -1538,6 +1544,12 @@
       "last": "2026-10-31"
     },
     {
+      "name": "The Pamphlet",
+      "count": 2,
+      "first": "2026-11-02",
+      "last": "2026-11-23"
+    },
+    {
       "name": "The Sunday Guardian",
       "count": 2,
       "first": "2026-09-24",
@@ -1728,12 +1740,6 @@
       "count": 1,
       "first": "2026-10-03",
       "last": "2026-10-03"
-    },
-    {
-      "name": "Daijiworld",
-      "count": 1,
-      "first": "2026-10-21",
-      "last": "2026-10-21"
     },
     {
       "name": "dailyrecordnews.com",
@@ -2450,10 +2456,10 @@
       "last": "2026-10-25"
     },
     {
-      "name": "The Pamphlet",
+      "name": "The Pioneer",
       "count": 1,
-      "first": "2026-11-02",
-      "last": "2026-11-02"
+      "first": "2026-11-23",
+      "last": "2026-11-23"
     },
     {
       "name": "The Probe",
@@ -2484,6 +2490,12 @@
       "count": 1,
       "first": "2026-11-02",
       "last": "2026-11-02"
+    },
+    {
+      "name": "The United Indian",
+      "count": 1,
+      "first": "2026-11-23",
+      "last": "2026-11-23"
     },
     {
       "name": "The Wire India",
@@ -2643,5 +2655,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-22"
+  "lastDate": "2026-11-23"
 }
