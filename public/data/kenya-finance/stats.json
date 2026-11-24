@@ -83,11 +83,11 @@
     },
     {
       "start": "2025-06-01",
-      "count": 27
+      "count": 26
     },
     {
       "start": "2025-07-01",
-      "count": 26
+      "count": 27
     },
     {
       "start": "2025-08-01",
@@ -139,7 +139,7 @@
     },
     {
       "start": "2026-08-01",
-      "count": 22
+      "count": 23
     },
     {
       "start": "2026-09-01",
@@ -147,11 +147,11 @@
     },
     {
       "start": "2026-10-01",
-      "count": 15
+      "count": 16
     },
     {
       "start": "2026-11-01",
-      "count": 18
+      "count": 21
     }
   ],
   "sources": [
@@ -198,6 +198,12 @@
       "last": "2026-08-27"
     },
     {
+      "name": "The Star, Kenya",
+      "count": 12,
+      "first": "2026-05-25",
+      "last": "2026-11-23"
+    },
+    {
       "name": "Facebook",
       "count": 11,
       "first": "2026-04-04",
@@ -208,12 +214,6 @@
       "count": 11,
       "first": "2026-06-24",
       "last": "2026-11-18"
-    },
-    {
-      "name": "The Star, Kenya",
-      "count": 11,
-      "first": "2026-05-25",
-      "last": "2026-08-27"
     },
     {
       "name": "DW.com",
@@ -288,12 +288,6 @@
       "last": "2026-11-09"
     },
     {
-      "name": "Context News",
-      "count": 5,
-      "first": "2024-06-26",
-      "last": "2025-07-03"
-    },
-    {
       "name": "France 24",
       "count": 5,
       "first": "2024-06-26",
@@ -318,10 +312,22 @@
       "last": "2024-06-27"
     },
     {
+      "name": "Context News",
+      "count": 4,
+      "first": "2024-06-26",
+      "last": "2025-06-25"
+    },
+    {
       "name": "Dawan Africa",
       "count": 4,
       "first": "2026-05-11",
       "last": "2026-06-23"
+    },
+    {
+      "name": "Kenya Human Rights Commission (KHRC)",
+      "count": 4,
+      "first": "2024-06-24",
+      "last": "2026-01-05"
     },
     {
       "name": "Nairobi Leo",
@@ -354,6 +360,12 @@
       "last": "2026-05-24"
     },
     {
+      "name": "CNBC Africa",
+      "count": 3,
+      "first": "2024-06-27",
+      "last": "2025-07-04"
+    },
+    {
       "name": "Democracy in Africa",
       "count": 3,
       "first": "2024-07-03",
@@ -378,16 +390,16 @@
       "last": "2026-10-19"
     },
     {
-      "name": "Kenya Human Rights Commission (KHRC)",
-      "count": 3,
-      "first": "2024-06-24",
-      "last": "2026-01-05"
-    },
-    {
       "name": "Kenya News Agency",
       "count": 3,
       "first": "2026-04-24",
       "last": "2026-06-25"
+    },
+    {
+      "name": "Livenow Africa",
+      "count": 3,
+      "first": "2026-08-03",
+      "last": "2026-10-01"
     },
     {
       "name": "MalindiKenya.net",
@@ -450,12 +462,6 @@
       "last": "2026-06-27"
     },
     {
-      "name": "CNBC Africa",
-      "count": 2,
-      "first": "2024-06-27",
-      "last": "2024-07-01"
-    },
-    {
       "name": "Friedrich Naumann Foundation",
       "count": 2,
       "first": "2024-06-21",
@@ -514,6 +520,12 @@
       "count": 2,
       "first": "2026-06-15",
       "last": "2026-09-12"
+    },
+    {
+      "name": "5050 Markets",
+      "count": 1,
+      "first": "2026-11-24",
+      "last": "2026-11-24"
     },
     {
       "name": "ABC News - Breaking News, Latest News and Videos",
@@ -630,6 +642,12 @@
       "last": "2026-10-29"
     },
     {
+      "name": "eNCA",
+      "count": 1,
+      "first": "2026-06-26",
+      "last": "2026-06-26"
+    },
+    {
       "name": "EWN",
       "count": 1,
       "first": "2026-06-24",
@@ -640,12 +658,6 @@
       "count": 1,
       "first": "2024-06-27",
       "last": "2024-06-27"
-    },
-    {
-      "name": "Free Malaysia Today",
-      "count": 1,
-      "first": "2026-06-26",
-      "last": "2026-06-26"
     },
     {
       "name": "Geeska",
@@ -726,12 +738,6 @@
       "last": "2026-08-28"
     },
     {
-      "name": "khrc.or.ke",
-      "count": 1,
-      "first": "2025-09-20",
-      "last": "2025-09-20"
-    },
-    {
       "name": "Kroc Institute for International Peace Studies",
       "count": 1,
       "first": "2024-08-12",
@@ -742,12 +748,6 @@
       "count": 1,
       "first": "2026-06-24",
       "last": "2026-06-24"
-    },
-    {
-      "name": "Livenow Africa",
-      "count": 1,
-      "first": "2026-08-27",
-      "last": "2026-08-27"
     },
     {
       "name": "LSE Blogs",
@@ -826,6 +826,12 @@
       "count": 1,
       "first": "2026-07-26",
       "last": "2026-07-26"
+    },
+    {
+      "name": "Sifa FM Kenya",
+      "count": 1,
+      "first": "2026-11-11",
+      "last": "2026-11-11"
     },
     {
       "name": "Signs Tv",

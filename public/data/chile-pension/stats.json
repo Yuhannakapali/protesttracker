@@ -263,7 +263,7 @@
     },
     {
       "start": "2019-11-01",
-      "count": 26
+      "count": 28
     },
     {
       "start": "2019-12-01",
@@ -599,15 +599,15 @@
     },
     {
       "start": "2026-11-01",
-      "count": 54
+      "count": 57
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 87,
+      "count": 90,
       "first": "2016-08-10",
-      "last": "2026-11-18"
+      "last": "2026-11-24"
     },
     {
       "name": "The Clinic",
@@ -623,7 +623,7 @@
     },
     {
       "name": "La Izquierda Diario",
-      "count": 39,
+      "count": 40,
       "first": "2015-04-23",
       "last": "2026-11-02"
     },
@@ -904,12 +904,6 @@
       "last": "2017-12-18"
     },
     {
-      "name": "La Izquierda Diario Chile",
-      "count": 2,
-      "first": "2020-07-20",
-      "last": "2024-12-22"
-    },
-    {
       "name": "lared.cl",
       "count": 2,
       "first": "2016-07-26",
@@ -964,10 +958,22 @@
       "last": "2016-08-19"
     },
     {
+      "name": "The Independent",
+      "count": 2,
+      "first": "2019-11-21",
+      "last": "2019-11-30"
+    },
+    {
       "name": "The Nation Newspaper",
       "count": 2,
       "first": "2024-02-07",
       "last": "2025-11-29"
+    },
+    {
+      "name": "WSJ",
+      "count": 2,
+      "first": "2019-10-27",
+      "last": "2019-11-24"
     },
     {
       "name": "0264Noticias",
@@ -1390,6 +1396,12 @@
       "last": "2025-09-22"
     },
     {
+      "name": "La Izquierda Diario Chile",
+      "count": 1,
+      "first": "2020-07-20",
+      "last": "2020-07-20"
+    },
+    {
       "name": "La Izquierda Diario Uruguay",
       "count": 1,
       "first": "2016-10-25",
@@ -1566,8 +1578,8 @@
     {
       "name": "Puranoticia.cl",
       "count": 1,
-      "first": "2026-11-16",
-      "last": "2026-11-16"
+      "first": "2026-11-15",
+      "last": "2026-11-15"
     },
     {
       "name": "qz.com",
@@ -1690,12 +1702,6 @@
       "last": "2019-11-11"
     },
     {
-      "name": "The Independent",
-      "count": 1,
-      "first": "2019-11-30",
-      "last": "2019-11-30"
-    },
-    {
       "name": "The Militant",
       "count": 1,
       "first": "2019-12-09",
@@ -1798,12 +1804,6 @@
       "last": "2019-11-04"
     },
     {
-      "name": "WSJ",
-      "count": 1,
-      "first": "2019-10-27",
-      "last": "2019-10-27"
-    },
-    {
       "name": "Xinhua Español",
       "count": 1,
       "first": "2016-08-22",
@@ -1811,5 +1811,5 @@
     }
   ],
   "firstDate": "2014-06-30",
-  "lastDate": "2026-11-19"
+  "lastDate": "2026-11-24"
 }

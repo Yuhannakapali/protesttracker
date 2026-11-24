@@ -183,15 +183,15 @@
     },
     {
       "start": "2026-11-01",
-      "count": 386
+      "count": 411
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 388,
+      "count": 390,
       "first": "2026-06-06",
-      "last": "2026-11-23"
+      "last": "2026-11-24"
     },
     {
       "name": "The Times of India",
@@ -201,7 +201,7 @@
     },
     {
       "name": "NDTV",
-      "count": 247,
+      "count": 250,
       "first": "2026-05-12",
       "last": "2026-11-24"
     },
@@ -213,15 +213,15 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 206,
+      "count": 207,
       "first": "2026-07-22",
       "last": "2026-11-24"
     },
     {
       "name": "The Indian Express",
-      "count": 178,
+      "count": 179,
       "first": "2026-07-24",
-      "last": "2026-11-23"
+      "last": "2026-11-24"
     },
     {
       "name": "India Today",
@@ -231,9 +231,9 @@
     },
     {
       "name": "Telegraph India",
-      "count": 141,
+      "count": 143,
       "first": "2026-07-18",
-      "last": "2026-11-22"
+      "last": "2026-11-24"
     },
     {
       "name": "Rediff",
@@ -242,22 +242,22 @@
       "last": "2026-11-23"
     },
     {
-      "name": "The Economic Times",
-      "count": 106,
-      "first": "2026-06-06",
-      "last": "2026-11-23"
+      "name": "ThePrint",
+      "count": 109,
+      "first": "2026-06-19",
+      "last": "2026-11-24"
     },
     {
-      "name": "ThePrint",
-      "count": 106,
-      "first": "2026-06-19",
-      "last": "2026-11-20"
+      "name": "The Economic Times",
+      "count": 107,
+      "first": "2026-06-06",
+      "last": "2026-11-24"
     },
     {
       "name": "ANI News",
-      "count": 97,
+      "count": 98,
       "first": "2026-07-22",
-      "last": "2026-11-23"
+      "last": "2026-11-24"
     },
     {
       "name": "Deccan Herald",
@@ -278,16 +278,16 @@
       "last": "2026-11-22"
     },
     {
+      "name": "moneycontrol.com",
+      "count": 53,
+      "first": "2026-08-18",
+      "last": "2026-11-24"
+    },
+    {
       "name": "Outlook India",
       "count": 53,
       "first": "2026-08-17",
       "last": "2026-11-22"
-    },
-    {
-      "name": "moneycontrol.com",
-      "count": 52,
-      "first": "2026-08-18",
-      "last": "2026-11-18"
     },
     {
       "name": "ETV Bharat",
@@ -309,15 +309,15 @@
     },
     {
       "name": "Telangana Today",
-      "count": 44,
+      "count": 45,
       "first": "2026-07-25",
-      "last": "2026-11-07"
+      "last": "2026-11-24"
     },
     {
       "name": "The Week",
-      "count": 43,
+      "count": 44,
       "first": "2026-07-27",
-      "last": "2026-11-08"
+      "last": "2026-11-24"
     },
     {
       "name": "The Tribune",
@@ -339,7 +339,7 @@
     },
     {
       "name": "TheWire.in",
-      "count": 38,
+      "count": 39,
       "first": "2026-06-30",
       "last": "2026-11-23"
     },
@@ -350,16 +350,16 @@
       "last": "2026-11-20"
     },
     {
+      "name": "The Business Standard",
+      "count": 33,
+      "first": "2026-08-23",
+      "last": "2026-11-24"
+    },
+    {
       "name": "DW.com",
       "count": 32,
       "first": "2026-07-21",
       "last": "2026-10-29"
-    },
-    {
-      "name": "The Business Standard",
-      "count": 32,
-      "first": "2026-08-23",
-      "last": "2026-11-15"
     },
     {
       "name": "Al Jazeera",
@@ -375,9 +375,9 @@
     },
     {
       "name": "BBC",
-      "count": 27,
+      "count": 28,
       "first": "2026-05-21",
-      "last": "2026-11-13"
+      "last": "2026-11-24"
     },
     {
       "name": "EdexLive",
@@ -410,12 +410,6 @@
       "last": "2026-11-20"
     },
     {
-      "name": "Scroll.in",
-      "count": 22,
-      "first": "2026-07-26",
-      "last": "2026-11-24"
-    },
-    {
       "name": "WION",
       "count": 22,
       "first": "2026-07-23",
@@ -426,6 +420,12 @@
       "count": 21,
       "first": "2026-09-15",
       "last": "2026-11-22"
+    },
+    {
+      "name": "Scroll.in",
+      "count": 21,
+      "first": "2026-07-26",
+      "last": "2026-11-18"
     },
     {
       "name": "Frontline Magazine",
@@ -447,9 +447,9 @@
     },
     {
       "name": "The Guardian",
-      "count": 18,
+      "count": 19,
       "first": "2026-05-21",
-      "last": "2026-10-21"
+      "last": "2026-11-24"
     },
     {
       "name": "Bar and Bench",
@@ -716,6 +716,12 @@
       "last": "2026-10-17"
     },
     {
+      "name": "The Independent",
+      "count": 8,
+      "first": "2026-08-14",
+      "last": "2026-11-24"
+    },
+    {
       "name": "ABC News & Headlines – Australian Broadcasting Corporation",
       "count": 7,
       "first": "2026-10-02",
@@ -732,12 +738,6 @@
       "count": 7,
       "first": "2026-08-22",
       "last": "2026-10-21"
-    },
-    {
-      "name": "The Independent",
-      "count": 7,
-      "first": "2026-08-14",
-      "last": "2026-10-22"
     },
     {
       "name": "The News Minute",
@@ -1250,6 +1250,12 @@
       "last": "2026-10-04"
     },
     {
+      "name": "Yahoo",
+      "count": 3,
+      "first": "2026-10-02",
+      "last": "2026-11-24"
+    },
+    {
       "name": "Zee News",
       "count": 3,
       "first": "2026-07-30",
@@ -1550,6 +1556,12 @@
       "last": "2026-11-23"
     },
     {
+      "name": "The Pioneer",
+      "count": 2,
+      "first": "2026-11-23",
+      "last": "2026-11-24"
+    },
+    {
       "name": "The Sunday Guardian",
       "count": 2,
       "first": "2026-09-24",
@@ -1602,12 +1614,6 @@
       "count": 2,
       "first": "2026-10-15",
       "last": "2026-10-17"
-    },
-    {
-      "name": "Yahoo",
-      "count": 2,
-      "first": "2026-10-02",
-      "last": "2026-10-14"
     },
     {
       "name": "Yeni Şafak English",
@@ -1892,6 +1898,12 @@
       "last": "2026-10-21"
     },
     {
+      "name": "Haberler.com",
+      "count": 1,
+      "first": "2026-11-24",
+      "last": "2026-11-24"
+    },
+    {
       "name": "heraldgoa.in",
       "count": 1,
       "first": "2026-09-27",
@@ -1974,6 +1986,12 @@
       "count": 1,
       "first": "2026-10-17",
       "last": "2026-10-17"
+    },
+    {
+      "name": "India News Network",
+      "count": 1,
+      "first": "2026-11-24",
+      "last": "2026-11-24"
     },
     {
       "name": "India Weekly",
@@ -2454,12 +2472,6 @@
       "count": 1,
       "first": "2026-10-25",
       "last": "2026-10-25"
-    },
-    {
-      "name": "The Pioneer",
-      "count": 1,
-      "first": "2026-11-23",
-      "last": "2026-11-23"
     },
     {
       "name": "The Probe",
