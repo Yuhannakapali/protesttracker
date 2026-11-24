@@ -35,7 +35,7 @@
     },
     {
       "start": "2024-06-01",
-      "count": 71
+      "count": 72
     },
     {
       "start": "2024-07-01",
@@ -59,7 +59,7 @@
     },
     {
       "start": "2024-12-01",
-      "count": 5
+      "count": 6
     },
     {
       "start": "2025-01-01",
@@ -119,11 +119,11 @@
     },
     {
       "start": "2026-03-01",
-      "count": 8
+      "count": 9
     },
     {
       "start": "2026-04-01",
-      "count": 23
+      "count": 25
     },
     {
       "start": "2026-05-01",
@@ -151,7 +151,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 16
+      "count": 18
     }
   ],
   "sources": [
@@ -198,10 +198,10 @@
       "last": "2026-08-27"
     },
     {
-      "name": "The Star, Kenya",
-      "count": 12,
-      "first": "2026-05-25",
-      "last": "2026-08-27"
+      "name": "Facebook",
+      "count": 11,
+      "first": "2026-04-04",
+      "last": "2026-10-21"
     },
     {
       "name": "The Standard",
@@ -210,16 +210,16 @@
       "last": "2026-11-18"
     },
     {
+      "name": "The Star, Kenya",
+      "count": 11,
+      "first": "2026-05-25",
+      "last": "2026-08-27"
+    },
+    {
       "name": "DW.com",
       "count": 10,
       "first": "2024-06-21",
       "last": "2026-06-25"
-    },
-    {
-      "name": "Facebook",
-      "count": 10,
-      "first": "2026-04-04",
-      "last": "2026-10-21"
     },
     {
       "name": "World Socialist Web Site",
@@ -246,15 +246,15 @@
       "last": "2026-07-28"
     },
     {
-      "name": "The Conversation",
-      "count": 7,
-      "first": "2024-06-22",
+      "name": "the-star.co.ke",
+      "count": 8,
+      "first": "2024-12-31",
       "last": "2026-06-23"
     },
     {
-      "name": "the-star.co.ke",
+      "name": "The Conversation",
       "count": 7,
-      "first": "2024-12-31",
+      "first": "2024-06-22",
       "last": "2026-06-23"
     },
     {
@@ -300,6 +300,12 @@
       "last": "2026-06-25"
     },
     {
+      "name": "VOA - Voice of America English News",
+      "count": 5,
+      "first": "2024-06-18",
+      "last": "2024-12-30"
+    },
+    {
       "name": "Africanews",
       "count": 4,
       "first": "2024-08-13",
@@ -324,10 +330,10 @@
       "last": "2026-11-23"
     },
     {
-      "name": "VOA - Voice of America English News",
+      "name": "The Kenyan Wallstreet",
       "count": 4,
-      "first": "2024-06-18",
-      "last": "2024-09-27"
+      "first": "2024-06-24",
+      "last": "2026-08-01"
     },
     {
       "name": "ACLED",
@@ -408,12 +414,6 @@
       "last": "2026-10-15"
     },
     {
-      "name": "The Kenyan Wallstreet",
-      "count": 3,
-      "first": "2024-06-24",
-      "last": "2026-08-01"
-    },
-    {
       "name": "theelephant.info",
       "count": 3,
       "first": "2024-09-03",
@@ -490,6 +490,12 @@
       "count": 2,
       "first": "2024-07-01",
       "last": "2025-07-09"
+    },
+    {
+      "name": "The Mt Kenya Times",
+      "count": 2,
+      "first": "2026-11-10",
+      "last": "2026-11-23"
     },
     {
       "name": "The New York Times",
@@ -792,6 +798,12 @@
       "last": "2026-04-28"
     },
     {
+      "name": "Pulse Kenya",
+      "count": 1,
+      "first": "2026-11-24",
+      "last": "2026-11-24"
+    },
+    {
       "name": "Radiokaya",
       "count": 1,
       "first": "2026-06-25",
@@ -802,6 +814,12 @@
       "count": 1,
       "first": "2026-06-25",
       "last": "2026-06-25"
+    },
+    {
+      "name": "rpublc.com",
+      "count": 1,
+      "first": "2026-03-19",
+      "last": "2026-03-19"
     },
     {
       "name": "Sahara Reporters",
@@ -838,12 +856,6 @@
       "count": 1,
       "first": "2024-07-17",
       "last": "2024-07-17"
-    },
-    {
-      "name": "The Mt Kenya Times",
-      "count": 1,
-      "first": "2026-11-10",
-      "last": "2026-11-10"
     },
     {
       "name": "The Washington Post",
@@ -900,6 +912,12 @@
       "last": "2026-08-28"
     },
     {
+      "name": "World Politics Review",
+      "count": 1,
+      "first": "2026-04-28",
+      "last": "2026-04-28"
+    },
+    {
       "name": "www.accord.org.za",
       "count": 1,
       "first": "2024-08-29",
@@ -919,5 +937,5 @@
     }
   ],
   "firstDate": "2023-10-20",
-  "lastDate": "2026-11-23"
+  "lastDate": "2026-11-24"
 }

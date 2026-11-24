@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-11-23T14:03:04.917Z",
+  "lastUpdated": "2026-11-24T02:45:49.914Z",
   "movements": [
     {
       "id": "india-cjp",
       "name": "Cockroach Janta Party / NEET Protests",
-      "status": "Escalating",
+      "status": "Active",
       "active": true,
       "region": "Asia",
       "location": "India · Delhi & NCR",
       "year": 2026,
       "logged": "2026-05-20",
-      "articleCount": 4588,
-      "updated": "14h ago",
+      "articleCount": 4602,
+      "updated": "3h ago",
       "description": "A youth-led movement over exam scandals and graduate unemployment, centred on Delhi.",
       "latestHeadlines": [
         {
-          "title": "CJP's Abhijeet Dipke accuses Goa administration of tribal land grab",
+          "title": "CJP’s Saurav Das alleges he was stopped at Delhi airport from travelling to UK",
+          "source": "Scroll.in",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "CJP's Saurav Das Alleges He Was Stopped From Flying To UK At Delhi Airport",
+          "source": "NDTV",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "'Coward government': CJP’s Saurav Das claims he was stopped at Delhi airport from travelling to UK",
           "source": "The New Indian Express",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "'Without Nehru, we wouldn't have internet': CJP founder Abhijeet Dipke's remark sparks online debate",
-          "source": "IBTimes India",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "Cockroach Janata Party plans ‘Cockroach Club’ across India: ‘A space that gives young people a voice’",
-          "source": "The Indian Express",
-          "date": "2026-11-23"
+          "date": "2026-11-24"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "location": "Nigeria · Lagos & Abuja",
       "year": 2026,
       "logged": "2026-07-15",
-      "articleCount": 1118,
+      "articleCount": 1121,
       "updated": "2d ago",
       "description": "Demonstrations over rising fuel prices and the cost of living following changes to fuel subsidies.",
       "latestHeadlines": [
@@ -100,10 +100,15 @@
       "location": "Kenya · Nairobi",
       "year": 2024,
       "logged": "2024-06-10",
-      "articleCount": 543,
-      "updated": "14h ago",
+      "articleCount": 550,
+      "updated": "3h ago",
       "description": "A youth-led movement against proposed tax measures that ended when the government withdrew the bill.",
       "latestHeadlines": [
+        {
+          "title": "Ruto Boasts 2024 Finance Bill Passed Without Harm, Blames Opposition for Manipulating Gen Z",
+          "source": "Pulse Kenya",
+          "date": "2026-11-24"
+        },
         {
           "title": "Ruto sends fresh message to Gen Z over 2024 Finance Bill protests",
           "source": "People Daily",
@@ -113,11 +118,6 @@
           "title": "Ruto Cautions Kenyan Youth as He Revisits June 2024 Protests",
           "source": "Nairobi Leo",
           "date": "2026-11-23"
-        },
-        {
-          "title": "Ruto acknowledges State wrongdoing during protests, says Sh1.2bn paid to victims",
-          "source": "Daily Nation",
-          "date": "2026-11-18"
         }
       ]
     }
