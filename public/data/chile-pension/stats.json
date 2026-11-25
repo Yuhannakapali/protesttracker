@@ -103,7 +103,7 @@
     },
     {
       "start": "2016-07-01",
-      "count": 10
+      "count": 11
     },
     {
       "start": "2016-08-01",
@@ -611,8 +611,8 @@
     },
     {
       "name": "The Clinic",
-      "count": 59,
-      "first": "2016-07-25",
+      "count": 60,
+      "first": "2016-07-23",
       "last": "2026-11-15"
     },
     {
@@ -623,9 +623,9 @@
     },
     {
       "name": "La Izquierda Diario",
-      "count": 40,
+      "count": 39,
       "first": "2015-04-23",
-      "last": "2026-11-02"
+      "last": "2026-06-24"
     },
     {
       "name": "DW.com",
@@ -904,6 +904,12 @@
       "last": "2017-12-18"
     },
     {
+      "name": "La Izquierda Diario Chile",
+      "count": 2,
+      "first": "2020-07-20",
+      "last": "2026-11-02"
+    },
+    {
       "name": "lared.cl",
       "count": 2,
       "first": "2016-07-26",
@@ -1152,8 +1158,8 @@
     {
       "name": "Crónica Digital",
       "count": 1,
-      "first": "2026-11-16",
-      "last": "2026-11-16"
+      "first": "2026-11-15",
+      "last": "2026-11-15"
     },
     {
       "name": "Diario AS",
@@ -1396,12 +1402,6 @@
       "last": "2025-09-22"
     },
     {
-      "name": "La Izquierda Diario Chile",
-      "count": 1,
-      "first": "2020-07-20",
-      "last": "2020-07-20"
-    },
-    {
       "name": "La Izquierda Diario Uruguay",
       "count": 1,
       "first": "2016-10-25",
@@ -1576,7 +1576,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Puranoticia.cl",
+      "name": "Puranoticia",
       "count": 1,
       "first": "2026-11-15",
       "last": "2026-11-15"
