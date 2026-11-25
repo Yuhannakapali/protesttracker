@@ -10312,7 +10312,8 @@
         "layani",
         "mrt",
         "penumpang",
-        "juta"
+        "juta",
+        "buruh"
       ],
       "domains": [
         "liputan6.com",
@@ -10329,7 +10330,8 @@
         "jabar.jpnn.com",
         "rejabar.republika.co.id",
         "economy.okezone.com",
-        "antaranews.com"
+        "antaranews.com",
+        "beritasatu.com"
       ],
       "daysSeen": [
         "2026-10-20",
@@ -10340,11 +10342,12 @@
         "2026-11-07",
         "2026-11-11",
         "2026-11-12",
-        "2026-11-20"
+        "2026-11-20",
+        "2026-11-25"
       ],
-      "articleCount": 99,
+      "articleCount": 102,
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-25",
       "samples": [
         {
           "title": "Berita Lokasi Demo Jakarta Hari Ini - Kabar Terbaru Terkini",
@@ -11983,118 +11986,6 @@
           "url": "https://metro.co.uk/2026/11/06/daily-horoscope-november-6-2026-predictions-star-sign-29764898/",
           "domain": "metro.co.uk",
           "date": "2026-11-06"
-        }
-      ]
-    },
-    "united-kingdom:crisis-deepens-disney": {
-      "id": "united-kingdom:crisis-deepens-disney",
-      "country": "United Kingdom",
-      "terms": [
-        "crisis",
-        "deepens",
-        "disney",
-        "hollywood",
-        "lay",
-        "set",
-        "several",
-        "staffers",
-        "thousand"
-      ],
-      "domains": [
-        "c21media.net"
-      ],
-      "daysSeen": [
-        "2026-11-04"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
-      "samples": [
-        {
-          "title": "Disney set to fire several thousand staffers as Hollywood lay - off crisis deepens | News",
-          "url": "https://www.c21media.net/news/disney-set-to-fire-several-thousand-staffers-as-hollywood-lay-off-crisis-deepens/",
-          "domain": "c21media.net",
-          "date": "2026-11-04"
-        },
-        {
-          "title": "Disney set to fire several thousand staffers as Hollywood lay - off crisis deepens | News",
-          "url": "https://www.c21media.net/news/disney-set-to-fire-several-thousand-staffers-as-hollywood-lay-off-crisis-deepens/",
-          "domain": "c21media.net",
-          "date": "2026-11-04"
-        },
-        {
-          "title": "Disney set to fire several thousand staffers as Hollywood lay - off crisis deepens | News",
-          "url": "https://www.c21media.net/news/disney-set-to-fire-several-thousand-staffers-as-hollywood-lay-off-crisis-deepens/",
-          "domain": "c21media.net",
-          "date": "2026-11-04"
-        }
-      ]
-    },
-    "united-kingdom:battle-between-daughter": {
-      "id": "united-kingdom:battle-between-daughter",
-      "country": "United Kingdom",
-      "terms": [
-        "battle",
-        "between",
-        "daughter",
-        "estate",
-        "executors",
-        "feud",
-        "jackson",
-        "michael",
-        "timeline",
-        "paris"
-      ],
-      "domains": [
-        "aol.co.uk"
-      ],
-      "daysSeen": [
-        "2026-11-04"
-      ],
-      "articleCount": 2,
-      "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
-      "samples": [
-        {
-          "title": "Michael Jackson estate battle : A timeline of the feud between star daughter Paris and executors",
-          "url": "https://www.aol.co.uk/articles/michael-jackson-estate-battle-timeline-003633000.html",
-          "domain": "aol.co.uk",
-          "date": "2026-11-04"
-        },
-        {
-          "title": "Michael Jackson estate battle : A timeline of the feud between star daughter Paris and executors",
-          "url": "https://www.aol.co.uk/articles/michael-jackson-estate-battle-timeline-003633000.html",
-          "domain": "aol.co.uk",
-          "date": "2026-11-04"
-        }
-      ]
-    },
-    "united-kingdom:bird-confirmed-dairy": {
-      "id": "united-kingdom:bird-confirmed-dairy",
-      "country": "United Kingdom",
-      "terms": [
-        "bird",
-        "confirmed",
-        "dairy",
-        "flu",
-        "herd",
-        "indiana"
-      ],
-      "domains": [
-        "thecattlesite.com"
-      ],
-      "daysSeen": [
-        "2026-11-04"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
-      "samples": [
-        {
-          "title": "Bird flu confirmed in Indiana dairy herd for the first time",
-          "url": "https://www.thecattlesite.com/news/bird-flu-confirmed-in-indiana-dairy-herd-for-the-first-time",
-          "domain": "thecattlesite.com",
-          "date": "2026-11-04"
         }
       ]
     },
@@ -26813,6 +26704,321 @@
           "url": "https://www.varsity.co.uk/news/32427",
           "domain": "varsity.co.uk",
           "date": "2026-11-20"
+        }
+      ]
+    },
+    "indonesia:jalannya-lokasi-ruas": {
+      "id": "indonesia:jalannya-lokasi-ruas",
+      "country": "Indonesia",
+      "terms": [
+        "jalannya",
+        "lokasi",
+        "ruas"
+      ],
+      "domains": [
+        "beritasatu.com"
+      ],
+      "daysSeen": [
+        "2026-11-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "samples": [
+        {
+          "title": "2 Titik Lokasi Demo Mahasiswa di Jakarta 25 November dan Ruas Jalannya",
+          "url": "https://www.beritasatu.com/nasional/3043656/2-titik-lokasi-demo-mahasiswa-di-jakarta-25-november-dan-ruas-jalannya",
+          "domain": "beritasatu.com",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    "indonesia:berapa-jadwalnya-jam": {
+      "id": "indonesia:berapa-jadwalnya-jam",
+      "country": "Indonesia",
+      "terms": [
+        "berapa",
+        "jadwalnya",
+        "jam",
+        "simak"
+      ],
+      "domains": [
+        "beritasatu.com"
+      ],
+      "daysSeen": [
+        "2026-11-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "samples": [
+        {
+          "title": "Jam Berapa Demo Mahasiswa di Istana Negara Hari Ini ? Simak Jadwalnya",
+          "url": "https://www.beritasatu.com/nasional/3043675/jam-berapa-demo-mahasiswa-di-istana-negara-hari-ini-simak-jadwalnya",
+          "domain": "beritasatu.com",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    "indonesia:bakal-diwarnai-geruduk": {
+      "id": "indonesia:bakal-diwarnai-geruduk",
+      "country": "Indonesia",
+      "terms": [
+        "bakal",
+        "diwarnai",
+        "geruduk",
+        "kemendikdasmen",
+        "nasional"
+      ],
+      "domains": [
+        "viva.co.id"
+      ],
+      "daysSeen": [
+        "2026-11-25"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "samples": [
+        {
+          "title": "Hari Guru Nasional Bakal Diwarnai Demo , Mahasiswa Geruduk Istana dan Kemendikdasmen",
+          "url": "https://www.viva.co.id/berita/metro/1946196-hari-guru-nasional-bakal-diwarnai-demo-mahasiswa-geruduk-istana-dan-kemendikdasmen",
+          "domain": "viva.co.id",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    "indonesia:dkk-dugaan-kasus": {
+      "id": "indonesia:dkk-dugaan-kasus",
+      "country": "Indonesia",
+      "terms": [
+        "dkk",
+        "dugaan",
+        "kasus",
+        "listyo",
+        "makar",
+        "sigit"
+      ],
+      "domains": [
+        "viva.co.id"
+      ],
+      "daysSeen": [
+        "2026-11-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "samples": [
+        {
+          "title": "Kasus Dugaan Makar Listyo Sigit dkk",
+          "url": "https://www.viva.co.id/topik/29-kasus-dugaan-makar-listyo-sigit-dkk",
+          "domain": "viva.co.id",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    "indonesia:pada": {
+      "id": "indonesia:pada",
+      "country": "Indonesia",
+      "terms": [
+        "pada"
+      ],
+      "domains": [
+        "beritasatu.com"
+      ],
+      "daysSeen": [
+        "2026-11-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "samples": [
+        {
+          "title": "3 Titik Demo Mahasiswa di Jakarta pada Hari Guru 25 November",
+          "url": "https://www.beritasatu.com/dki-jakarta/3043587/3-titik-demo-mahasiswa-di-jakarta-pada-hari-guru-25-november",
+          "domain": "beritasatu.com",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    "indonesia:april-band-cek": {
+      "id": "indonesia:april-band-cek",
+      "country": "Indonesia",
+      "terms": [
+        "april",
+        "band",
+        "cek",
+        "harga",
+        "jadwal",
+        "konser",
+        "pembelian",
+        "tiketnya"
+      ],
+      "domains": [
+        "ameera.republika.co.id"
+      ],
+      "daysSeen": [
+        "2026-11-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "samples": [
+        {
+          "title": "Band TOTO Konser di Jakarta April 2027 , Cek Harga dan Jadwal Pembelian Tiketnya",
+          "url": "https://ameera.republika.co.id/berita/tozr1v425/band-toto-konser-di-jakarta-april-2027-cek-harga-dan-jadwal-pembelian-tiketnya",
+          "domain": "ameera.republika.co.id",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    "indonesia:dhuafa-dompet-gaza": {
+      "id": "indonesia:dhuafa-dompet-gaza",
+      "country": "Indonesia",
+      "terms": [
+        "dhuafa",
+        "dompet",
+        "gaza",
+        "kemanusiaan",
+        "kisah",
+        "menembus",
+        "pejuang"
+      ],
+      "domains": [
+        "news.republika.co.id"
+      ],
+      "daysSeen": [
+        "2026-11-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "samples": [
+        {
+          "title": "Kisah Pejuang Kemanusiaan Dompet Dhuafa Menembus Gaza",
+          "url": "https://news.republika.co.id/berita/toukwe328/kisah-pejuang-kemanusiaan-dompet-dhuafa-menembus-gaza",
+          "domain": "news.republika.co.id",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    "indonesia:dekatkan-kaltim-masyarakat": {
+      "id": "indonesia:dekatkan-kaltim-masyarakat",
+      "country": "Indonesia",
+      "terms": [
+        "dekatkan",
+        "kaltim",
+        "masyarakat",
+        "peternakan",
+        "sektor"
+      ],
+      "domains": [
+        "koran-jakarta.com"
+      ],
+      "daysSeen": [
+        "2026-11-23"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "samples": [
+        {
+          "title": "Kaltim Dekatkan Sektor Peternakan ke Masyarakat",
+          "url": "https://koran-jakarta.com/2026-11-24/kaltim-dekatkan-sektor-peternakan-ke-masyarakat",
+          "domain": "koran-jakarta.com",
+          "date": "2026-11-23"
+        }
+      ]
+    },
+    "indonesia:dituntaskan-jlnt-mangkrak": {
+      "id": "indonesia:dituntaskan-jlnt-mangkrak",
+      "country": "Indonesia",
+      "terms": [
+        "dituntaskan",
+        "jlnt",
+        "mangkrak",
+        "menunggu",
+        "pluit",
+        "sepuluh",
+        "tahun"
+      ],
+      "domains": [
+        "news.republika.co.id"
+      ],
+      "daysSeen": [
+        "2026-11-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "samples": [
+        {
+          "title": "Sepuluh Tahun Mangkrak , JLNT Pluit Menunggu untuk Dituntaskan",
+          "url": "https://news.republika.co.id/berita/tozuv3487/sepuluh-tahun-mangkrak-jlnt-pluit-menunggu-untuk-dituntaskan",
+          "domain": "news.republika.co.id",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    "indonesia:arah-bahas-industri": {
+      "id": "indonesia:arah-bahas-industri",
+      "country": "Indonesia",
+      "terms": [
+        "arah",
+        "bahas",
+        "industri",
+        "inovasi",
+        "inside",
+        "lewat",
+        "market",
+        "menuju"
+      ],
+      "domains": [
+        "koran-jakarta.com"
+      ],
+      "daysSeen": [
+        "2026-11-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "samples": [
+        {
+          "title": "Valbury Tutup Roadshow 2026 lewat  INSIDE THE MARKET , Bahas Arah Industri dan Inovasi Trading Menuju 2027 .",
+          "url": "https://koran-jakarta.com/2026-11-24/valbury-tutup-roadshow-2026-lewat-inside-the-market-bahas-arah-industri-dan-inovasi-trading-menuju-2027",
+          "domain": "koran-jakarta.com",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    "indonesia:antrean-berulang-ketapang": {
+      "id": "indonesia:antrean-berulang-ketapang",
+      "country": "Indonesia",
+      "terms": [
+        "antrean",
+        "berulang",
+        "ketapang",
+        "mengapa",
+        "pelabuhan",
+        "sejak",
+        "september",
+        "terus"
+      ],
+      "domains": [
+        "merdeka.com"
+      ],
+      "daysSeen": [
+        "2026-11-21"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "samples": [
+        {
+          "title": "Mengapa Antrean Pelabuhan Ketapang Terus Berulang Sejak September ?",
+          "url": "https://www.merdeka.com/uang/read/8339582/mengapa-antrean-pelabuhan-ketapang-terus-berulang-sejak-september",
+          "domain": "merdeka.com",
+          "date": "2026-11-21"
         }
       ]
     }
