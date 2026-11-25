@@ -2,6 +2,58 @@
   "granularity": "month",
   "buckets": [
     {
+      "start": "2013-05-01",
+      "count": 1
+    },
+    {
+      "start": "2013-06-01",
+      "count": 0
+    },
+    {
+      "start": "2013-07-01",
+      "count": 0
+    },
+    {
+      "start": "2013-08-01",
+      "count": 0
+    },
+    {
+      "start": "2013-09-01",
+      "count": 0
+    },
+    {
+      "start": "2013-10-01",
+      "count": 0
+    },
+    {
+      "start": "2013-11-01",
+      "count": 0
+    },
+    {
+      "start": "2013-12-01",
+      "count": 0
+    },
+    {
+      "start": "2014-01-01",
+      "count": 0
+    },
+    {
+      "start": "2014-02-01",
+      "count": 0
+    },
+    {
+      "start": "2014-03-01",
+      "count": 0
+    },
+    {
+      "start": "2014-04-01",
+      "count": 0
+    },
+    {
+      "start": "2014-05-01",
+      "count": 0
+    },
+    {
       "start": "2014-06-01",
       "count": 1
     },
@@ -107,7 +159,7 @@
     },
     {
       "start": "2016-08-01",
-      "count": 20
+      "count": 21
     },
     {
       "start": "2016-09-01",
@@ -583,7 +635,7 @@
     },
     {
       "start": "2026-07-01",
-      "count": 13
+      "count": 14
     },
     {
       "start": "2026-08-01",
@@ -623,7 +675,7 @@
     },
     {
       "name": "La Izquierda Diario",
-      "count": 39,
+      "count": 38,
       "first": "2015-04-23",
       "last": "2026-06-24"
     },
@@ -784,6 +836,12 @@
       "last": "2022-11-06"
     },
     {
+      "name": "La Izquierda Diario Chile",
+      "count": 3,
+      "first": "2020-07-08",
+      "last": "2026-11-02"
+    },
+    {
       "name": "MDZ Online",
       "count": 3,
       "first": "2017-12-14",
@@ -844,6 +902,12 @@
       "last": "2022-03-12"
     },
     {
+      "name": "WSJ",
+      "count": 3,
+      "first": "2016-08-21",
+      "last": "2019-11-24"
+    },
+    {
       "name": "Análisis Digital",
       "count": 2,
       "first": "2026-05-28",
@@ -902,12 +966,6 @@
       "count": 2,
       "first": "2017-12-17",
       "last": "2017-12-18"
-    },
-    {
-      "name": "La Izquierda Diario Chile",
-      "count": 2,
-      "first": "2020-07-20",
-      "last": "2026-11-02"
     },
     {
       "name": "lared.cl",
@@ -976,12 +1034,6 @@
       "last": "2025-11-29"
     },
     {
-      "name": "WSJ",
-      "count": 2,
-      "first": "2019-10-27",
-      "last": "2019-11-24"
-    },
-    {
       "name": "0264Noticias",
       "count": 1,
       "first": "2023-05-01",
@@ -1008,8 +1060,8 @@
     {
       "name": "ADN Radio",
       "count": 1,
-      "first": "2026-11-16",
-      "last": "2026-11-16"
+      "first": "2026-11-15",
+      "last": "2026-11-15"
     },
     {
       "name": "African American Intellectual History Society",
@@ -1136,6 +1188,12 @@
       "count": 1,
       "first": "2025-09-29",
       "last": "2025-09-29"
+    },
+    {
+      "name": "CNN Chile",
+      "count": 1,
+      "first": "2013-05-01",
+      "last": "2013-05-01"
     },
     {
       "name": "CNN en Español",
@@ -1268,12 +1326,6 @@
       "count": 1,
       "first": "2026-05-22",
       "last": "2026-05-22"
-    },
-    {
-      "name": "eljaya.com",
-      "count": 1,
-      "first": "2022-10-21",
-      "last": "2022-10-21"
     },
     {
       "name": "eltrecetv",
@@ -1462,6 +1514,12 @@
       "last": "2017-03-27"
     },
     {
+      "name": "Mercurio Noticias",
+      "count": 1,
+      "first": "2026-07-14",
+      "last": "2026-07-14"
+    },
+    {
       "name": "Mises Institute",
       "count": 1,
       "first": "2019-12-10",
@@ -1534,6 +1592,12 @@
       "last": "2019-10-20"
     },
     {
+      "name": "Periódico EL JAYA",
+      "count": 1,
+      "first": "2022-10-21",
+      "last": "2022-10-21"
+    },
+    {
       "name": "piensaChile",
       "count": 1,
       "first": "2017-03-22",
@@ -1576,7 +1640,7 @@
       "last": "2025-03-30"
     },
     {
-      "name": "Puranoticia",
+      "name": "Puranoticia.cl",
       "count": 1,
       "first": "2026-11-15",
       "last": "2026-11-15"
@@ -1810,6 +1874,6 @@
       "last": "2016-08-22"
     }
   ],
-  "firstDate": "2014-06-30",
+  "firstDate": "2013-05-01",
   "lastDate": "2026-11-24"
 }

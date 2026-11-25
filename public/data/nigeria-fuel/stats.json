@@ -823,7 +823,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 78
+      "count": 79
     }
   ],
   "sources": [
@@ -841,9 +841,9 @@
     },
     {
       "name": "Channels Television",
-      "count": 82,
+      "count": 83,
       "first": "2012-01-04",
-      "last": "2026-11-22"
+      "last": "2026-11-25"
     },
     {
       "name": "The Guardian Nigeria News",
@@ -852,16 +852,16 @@
       "last": "2026-11-09"
     },
     {
-      "name": "Vanguard News",
-      "count": 53,
-      "first": "2012-03-08",
-      "last": "2026-11-21"
-    },
-    {
       "name": "Premium Times Nigeria",
-      "count": 51,
+      "count": 52,
       "first": "2013-04-18",
       "last": "2026-10-20"
+    },
+    {
+      "name": "Vanguard News",
+      "count": 52,
+      "first": "2012-03-08",
+      "last": "2026-11-21"
     },
     {
       "name": "BBC",
@@ -1044,6 +1044,12 @@
       "last": "2026-10-20"
     },
     {
+      "name": "News Agency of Nigeria",
+      "count": 4,
+      "first": "2026-10-08",
+      "last": "2026-10-13"
+    },
+    {
       "name": "Nigeria Info FM",
       "count": 4,
       "first": "2025-12-17",
@@ -1102,12 +1108,6 @@
       "count": 3,
       "first": "2024-09-05",
       "last": "2026-11-09"
-    },
-    {
-      "name": "News Agency of Nigeria",
-      "count": 3,
-      "first": "2026-10-08",
-      "last": "2026-10-09"
     },
     {
       "name": "Nigerian Bulletin",
@@ -1626,12 +1626,6 @@
       "last": "2026-10-15"
     },
     {
-      "name": "The Nigerian Observer",
-      "count": 1,
-      "first": "2026-10-14",
-      "last": "2026-10-14"
-    },
-    {
       "name": "The Nigerian Post",
       "count": 1,
       "first": "2026-10-23",
@@ -1711,5 +1705,5 @@
     }
   ],
   "firstDate": "2009-10-30",
-  "lastDate": "2026-11-24"
+  "lastDate": "2026-11-25"
 }
