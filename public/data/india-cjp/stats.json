@@ -171,7 +171,7 @@
     },
     {
       "start": "2026-08-01",
-      "count": 608
+      "count": 609
     },
     {
       "start": "2026-09-01",
@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 451
+      "count": 459
     }
   ],
   "sources": [
@@ -191,7 +191,7 @@
       "name": "The Hindu",
       "count": 396,
       "first": "2026-06-06",
-      "last": "2026-11-25"
+      "last": "2026-11-26"
     },
     {
       "name": "The Times of India",
@@ -207,21 +207,21 @@
     },
     {
       "name": "Hindustan Times",
-      "count": 218,
+      "count": 219,
       "first": "2026-06-06",
-      "last": "2026-11-23"
+      "last": "2026-11-26"
     },
     {
       "name": "The New Indian Express",
-      "count": 210,
+      "count": 211,
       "first": "2026-07-22",
       "last": "2026-11-25"
     },
     {
       "name": "The Indian Express",
-      "count": 180,
+      "count": 181,
       "first": "2026-07-24",
-      "last": "2026-11-25"
+      "last": "2026-11-26"
     },
     {
       "name": "India Today",
@@ -231,15 +231,15 @@
     },
     {
       "name": "Telegraph India",
-      "count": 143,
+      "count": 144,
       "first": "2026-07-18",
-      "last": "2026-11-24"
+      "last": "2026-11-25"
     },
     {
       "name": "Rediff",
-      "count": 113,
+      "count": 114,
       "first": "2026-06-07",
-      "last": "2026-11-23"
+      "last": "2026-11-25"
     },
     {
       "name": "ThePrint",
@@ -267,7 +267,7 @@
     },
     {
       "name": "News18",
-      "count": 77,
+      "count": 78,
       "first": "2026-07-20",
       "last": "2026-11-06"
     },
@@ -279,9 +279,9 @@
     },
     {
       "name": "moneycontrol.com",
-      "count": 54,
+      "count": 55,
       "first": "2026-08-18",
-      "last": "2026-11-25"
+      "last": "2026-11-26"
     },
     {
       "name": "Outlook India",
@@ -308,16 +308,16 @@
       "last": "2026-11-22"
     },
     {
-      "name": "The Week",
-      "count": 46,
-      "first": "2026-07-27",
-      "last": "2026-11-25"
-    },
-    {
       "name": "Telangana Today",
       "count": 45,
       "first": "2026-07-25",
       "last": "2026-11-24"
+    },
+    {
+      "name": "The Week",
+      "count": 45,
+      "first": "2026-07-27",
+      "last": "2026-11-25"
     },
     {
       "name": "The Tribune",
@@ -518,6 +518,12 @@
       "last": "2026-11-18"
     },
     {
+      "name": "Udayavani",
+      "count": 14,
+      "first": "2026-07-18",
+      "last": "2026-11-20"
+    },
+    {
       "name": "India.com",
       "count": 13,
       "first": "2026-08-18",
@@ -534,12 +540,6 @@
       "count": 13,
       "first": "2026-08-28",
       "last": "2026-10-09"
-    },
-    {
-      "name": "Udayavani",
-      "count": 13,
-      "first": "2026-07-18",
-      "last": "2026-11-17"
     },
     {
       "name": "Urban Acres",
@@ -578,6 +578,12 @@
       "last": "2026-10-22"
     },
     {
+      "name": "CNBC TV18",
+      "count": 11,
+      "first": "2026-07-30",
+      "last": "2026-11-25"
+    },
+    {
       "name": "Firstpost",
       "count": 11,
       "first": "2026-08-24",
@@ -612,12 +618,6 @@
       "count": 10,
       "first": "2026-09-04",
       "last": "2026-11-22"
-    },
-    {
-      "name": "CNBC TV18",
-      "count": 10,
-      "first": "2026-07-30",
-      "last": "2026-10-11"
     },
     {
       "name": "GujaratSamachar English",
@@ -770,6 +770,12 @@
       "last": "2026-11-23"
     },
     {
+      "name": "India TV News",
+      "count": 6,
+      "first": "2026-08-20",
+      "last": "2026-11-26"
+    },
+    {
       "name": "Kanak News Odisha",
       "count": 6,
       "first": "2026-10-02",
@@ -816,12 +822,6 @@
       "count": 5,
       "first": "2026-07-21",
       "last": "2026-11-21"
-    },
-    {
-      "name": "India TV News",
-      "count": 5,
-      "first": "2026-08-20",
-      "last": "2026-10-11"
     },
     {
       "name": "Kerala Kaumudi",
@@ -2679,5 +2679,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-25"
+  "lastDate": "2026-11-26"
 }

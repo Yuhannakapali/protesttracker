@@ -147,7 +147,7 @@
     },
     {
       "start": "2026-10-01",
-      "count": 16
+      "count": 17
     },
     {
       "start": "2026-11-01",
@@ -187,7 +187,7 @@
     },
     {
       "name": "The Africa Report",
-      "count": 20,
+      "count": 21,
       "first": "2024-06-25",
       "last": "2026-11-12"
     },
@@ -196,12 +196,6 @@
       "count": 20,
       "first": "2024-07-03",
       "last": "2026-08-27"
-    },
-    {
-      "name": "The Star, Kenya",
-      "count": 12,
-      "first": "2026-05-25",
-      "last": "2026-11-23"
     },
     {
       "name": "Facebook",
@@ -214,6 +208,12 @@
       "count": 11,
       "first": "2026-06-24",
       "last": "2026-11-18"
+    },
+    {
+      "name": "The Star, Kenya",
+      "count": 11,
+      "first": "2026-05-25",
+      "last": "2026-11-23"
     },
     {
       "name": "DW.com",
@@ -240,16 +240,16 @@
       "last": "2026-08-27"
     },
     {
+      "name": "the-star.co.ke",
+      "count": 9,
+      "first": "2024-12-31",
+      "last": "2026-08-25"
+    },
+    {
       "name": "Kenyans.co.ke",
       "count": 8,
       "first": "2026-05-02",
       "last": "2026-07-28"
-    },
-    {
-      "name": "the-star.co.ke",
-      "count": 8,
-      "first": "2024-12-31",
-      "last": "2026-06-23"
     },
     {
       "name": "The Conversation",
@@ -330,6 +330,12 @@
       "last": "2026-01-05"
     },
     {
+      "name": "Modern Ghana",
+      "count": 4,
+      "first": "2025-11-20",
+      "last": "2026-06-25"
+    },
+    {
       "name": "Nairobi Leo",
       "count": 4,
       "first": "2026-06-23",
@@ -406,12 +412,6 @@
       "count": 3,
       "first": "2024-07-22",
       "last": "2026-06-20"
-    },
-    {
-      "name": "Modern Ghana",
-      "count": 3,
-      "first": "2025-11-20",
-      "last": "2026-06-25"
     },
     {
       "name": "Reuters",
@@ -576,6 +576,12 @@
       "last": "2026-05-05"
     },
     {
+      "name": "Britannica",
+      "count": 1,
+      "first": "2026-10-23",
+      "last": "2026-10-23"
+    },
+    {
       "name": "Brookings",
       "count": 1,
       "first": "2026-04-07",
@@ -646,12 +652,6 @@
       "count": 1,
       "first": "2026-06-26",
       "last": "2026-06-26"
-    },
-    {
-      "name": "EWN",
-      "count": 1,
-      "first": "2026-06-24",
-      "last": "2026-06-24"
     },
     {
       "name": "Forbes Africa",
@@ -874,12 +874,6 @@
       "count": 1,
       "first": "2025-09-01",
       "last": "2025-09-01"
-    },
-    {
-      "name": "theafricareport.com",
-      "count": 1,
-      "first": "2025-07-10",
-      "last": "2025-07-10"
     },
     {
       "name": "TheCable",
