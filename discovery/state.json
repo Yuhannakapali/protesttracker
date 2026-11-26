@@ -10313,7 +10313,12 @@
         "mrt",
         "penumpang",
         "juta",
-        "buruh"
+        "buruh",
+        "pendidik",
+        "peringati",
+        "ratusan",
+        "tenaga",
+        "tuntut"
       ],
       "domains": [
         "liputan6.com",
@@ -10331,7 +10336,8 @@
         "rejabar.republika.co.id",
         "economy.okezone.com",
         "antaranews.com",
-        "beritasatu.com"
+        "beritasatu.com",
+        "rejogja.republika.co.id"
       ],
       "daysSeen": [
         "2026-10-20",
@@ -10343,11 +10349,12 @@
         "2026-11-11",
         "2026-11-12",
         "2026-11-20",
-        "2026-11-25"
+        "2026-11-25",
+        "2026-11-26"
       ],
-      "articleCount": 102,
+      "articleCount": 106,
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "samples": [
         {
           "title": "Berita Lokasi Demo Jakarta Hari Ini - Kabar Terbaru Terkini",
@@ -11085,68 +11092,6 @@
         }
       ]
     },
-    "united-kingdom:claiming-deal-denmark": {
-      "id": "united-kingdom:claiming-deal-denmark",
-      "country": "United Kingdom",
-      "terms": [
-        "claiming",
-        "denmark",
-        "estate",
-        "gave",
-        "greenland",
-        "history",
-        "real",
-        "deal",
-        "greatest",
-        "award",
-        "vagrant",
-        "win",
-        "say"
-      ],
-      "domains": [
-        "ibtimes.co.uk",
-        "theskinny.co.uk"
-      ],
-      "daysSeen": [
-        "2026-10-26",
-        "2026-11-05"
-      ],
-      "articleCount": 5,
-      "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
-      "samples": [
-        {
-          "title": "Trump Calls Greenland  The Greatest Real Estate Deal in History  After Claiming Denmark  Gave  It to the US",
-          "url": "https://www.ibtimes.co.uk/trump-greenland-defence-deal-sovereignty-1827756",
-          "domain": "ibtimes.co.uk",
-          "date": "2026-10-26"
-        },
-        {
-          "title": "Trump Calls Greenland  The Greatest Real Estate Deal in History  After Claiming Denmark  Gave  It to the US",
-          "url": "https://www.ibtimes.co.uk/trump-greenland-defence-deal-sovereignty-1827756",
-          "domain": "ibtimes.co.uk",
-          "date": "2026-10-26"
-        },
-        {
-          "title": "Trump Calls Greenland  The Greatest Real Estate Deal in History  After Claiming Denmark  Gave  It to the US",
-          "url": "https://www.ibtimes.co.uk/trump-greenland-defence-deal-sovereignty-1827756",
-          "domain": "ibtimes.co.uk",
-          "date": "2026-10-26"
-        },
-        {
-          "title": "Vagrant Real Estate win the 2026 SAY Award",
-          "url": "https://www.theskinny.co.uk/music/news/vagrant-real-estate-win-the-2026-say-award",
-          "domain": "theskinny.co.uk",
-          "date": "2026-11-05"
-        },
-        {
-          "title": "Vagrant Real Estate win the 2026 SAY Award",
-          "url": "https://www.theskinny.co.uk/music/news/vagrant-real-estate-win-the-2026-say-award",
-          "domain": "theskinny.co.uk",
-          "date": "2026-11-05"
-        }
-      ]
-    },
     "united-kingdom:beaten-league-liverpool": {
       "id": "united-kingdom:beaten-league-liverpool",
       "country": "United Kingdom",
@@ -11879,37 +11824,6 @@
         }
       ]
     },
-    "india:champions-keeps-league": {
-      "id": "india:champions-keeps-league",
-      "country": "India",
-      "terms": [
-        "champions",
-        "keeps",
-        "league",
-        "madrid",
-        "real",
-        "stoppage",
-        "thunderbolt",
-        "unbeaten"
-      ],
-      "domains": [
-        "ianslive.in"
-      ],
-      "daysSeen": [
-        "2026-11-05"
-      ],
-      "articleCount": 1,
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
-      "samples": [
-        {
-          "title": "Valverde stoppage - time thunderbolt keeps Real Madrid unbeaten in Champions League",
-          "url": "https://ianslive.in/valverdes-stoppage-time-thunderbolt-keeps-real-madrid-unbeaten-in-champions-league--20261105100429",
-          "domain": "ianslive.in",
-          "date": "2026-11-05"
-        }
-      ]
-    },
     "united-kingdom:daily-horoscope-predictions": {
       "id": "united-kingdom:daily-horoscope-predictions",
       "country": "United Kingdom",
@@ -11986,52 +11900,6 @@
           "url": "https://metro.co.uk/2026/11/06/daily-horoscope-november-6-2026-predictions-star-sign-29764898/",
           "domain": "metro.co.uk",
           "date": "2026-11-06"
-        }
-      ]
-    },
-    "kenya:approves-compensation-sh96": {
-      "id": "kenya:approves-compensation-sh96",
-      "country": "Kenya",
-      "terms": [
-        "approves",
-        "compensation",
-        "sh96",
-        "state",
-        "victims"
-      ],
-      "domains": [
-        "standardmedia.co.ke"
-      ],
-      "daysSeen": [
-        "2026-11-05"
-      ],
-      "articleCount": 4,
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
-      "samples": [
-        {
-          "title": "State approves Sh96 . 95 M compensation for 157 protest victims",
-          "url": "https://www.standardmedia.co.ke/national/article/2001561663/state-approves-sh9695-m-compensation-for-157-protest-victims",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-11-05"
-        },
-        {
-          "title": "State approves Sh96 . 95 M compensation for 157 protest victims",
-          "url": "https://www.standardmedia.co.ke/national/article/2001561663/state-approves-sh9695-m-compensation-for-157-protest-victims",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-11-05"
-        },
-        {
-          "title": "State approves Sh96 . 95 M compensation for 157 protest victims",
-          "url": "https://www.standardmedia.co.ke/national/article/2001561663/state-approves-sh9695-m-compensation-for-157-protest-victims",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-11-05"
-        },
-        {
-          "title": "State approves Sh96 . 95 M compensation for 157 protest victims",
-          "url": "https://www.standardmedia.co.ke/national/article/2001561663/state-approves-sh9695-m-compensation-for-157-protest-victims",
-          "domain": "standardmedia.co.ke",
-          "date": "2026-11-05"
         }
       ]
     },
@@ -13386,47 +13254,6 @@
         }
       ]
     },
-    "south-africa:enduring-freedom-lesson": {
-      "id": "south-africa:enduring-freedom-lesson",
-      "country": "South Africa",
-      "terms": [
-        "enduring",
-        "freedom",
-        "lesson",
-        "nations",
-        "one",
-        "two"
-      ],
-      "domains": [
-        "mg.co.za"
-      ],
-      "daysSeen": [
-        "2026-11-05"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
-      "samples": [
-        {
-          "title": "Two nations , one enduring lesson in freedom",
-          "url": "https://mg.co.za/thought-leader/2026-11-05-two-nations-one-enduring-lesson-in-freedom/",
-          "domain": "mg.co.za",
-          "date": "2026-11-05"
-        },
-        {
-          "title": "Two nations , one enduring lesson in freedom",
-          "url": "https://mg.co.za/thought-leader/2026-11-05-two-nations-one-enduring-lesson-in-freedom/",
-          "domain": "mg.co.za",
-          "date": "2026-11-05"
-        },
-        {
-          "title": "Two nations , one enduring lesson in freedom",
-          "url": "https://mg.co.za/thought-leader/2026-11-05-two-nations-one-enduring-lesson-in-freedom/",
-          "domain": "mg.co.za",
-          "date": "2026-11-05"
-        }
-      ]
-    },
     "south-africa:city-first-lawmaker": {
       "id": "south-africa:city-first-lawmaker",
       "country": "South Africa",
@@ -13637,48 +13464,6 @@
           "url": "https://www.timeslive.co.za/politics/2026-11-05-live-updates-upbeat-hill-lewis-says-da-open-to-talk-but-residents-come-first/",
           "domain": "timeslive.co.za",
           "date": "2026-11-06"
-        }
-      ]
-    },
-    "south-africa:anc-blames-calamity": {
-      "id": "south-africa:anc-blames-calamity",
-      "country": "South Africa",
-      "terms": [
-        "anc",
-        "calamity",
-        "internal",
-        "lge",
-        "mokonyane",
-        "processes",
-        "blames"
-      ],
-      "domains": [
-        "sundayworld.co.za"
-      ],
-      "daysSeen": [
-        "2026-11-05"
-      ],
-      "articleCount": 3,
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
-      "samples": [
-        {
-          "title": "Mokonyane blames ANC internal processes for LGE calamity",
-          "url": "https://sundayworld.co.za/politics/elections-2026-mokonyane-blames-anc-internal-processes-for-lge-calamity/",
-          "domain": "sundayworld.co.za",
-          "date": "2026-11-05"
-        },
-        {
-          "title": "Mokonyane blames ANC internal processes for LGE calamity",
-          "url": "https://sundayworld.co.za/politics/elections-2026-mokonyane-blames-anc-internal-processes-for-lge-calamity/",
-          "domain": "sundayworld.co.za",
-          "date": "2026-11-05"
-        },
-        {
-          "title": "Mokonyane blames ANC internal processes for LGE calamity",
-          "url": "https://sundayworld.co.za/politics/elections-2026-mokonyane-blames-anc-internal-processes-for-lge-calamity/",
-          "domain": "sundayworld.co.za",
-          "date": "2026-11-05"
         }
       ]
     },
@@ -26721,10 +26506,16 @@
       "daysSeen": [
         "2026-11-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-25",
       "lastSeen": "2026-11-25",
       "samples": [
+        {
+          "title": "2 Titik Lokasi Demo Mahasiswa di Jakarta 25 November dan Ruas Jalannya",
+          "url": "https://www.beritasatu.com/nasional/3043656/2-titik-lokasi-demo-mahasiswa-di-jakarta-25-november-dan-ruas-jalannya",
+          "domain": "beritasatu.com",
+          "date": "2026-11-25"
+        },
         {
           "title": "2 Titik Lokasi Demo Mahasiswa di Jakarta 25 November dan Ruas Jalannya",
           "url": "https://www.beritasatu.com/nasional/3043656/2-titik-lokasi-demo-mahasiswa-di-jakarta-25-november-dan-ruas-jalannya",
@@ -26748,10 +26539,16 @@
       "daysSeen": [
         "2026-11-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-25",
       "lastSeen": "2026-11-25",
       "samples": [
+        {
+          "title": "Jam Berapa Demo Mahasiswa di Istana Negara Hari Ini ? Simak Jadwalnya",
+          "url": "https://www.beritasatu.com/nasional/3043675/jam-berapa-demo-mahasiswa-di-istana-negara-hari-ini-simak-jadwalnya",
+          "domain": "beritasatu.com",
+          "date": "2026-11-25"
+        },
         {
           "title": "Jam Berapa Demo Mahasiswa di Istana Negara Hari Ini ? Simak Jadwalnya",
           "url": "https://www.beritasatu.com/nasional/3043675/jam-berapa-demo-mahasiswa-di-istana-negara-hari-ini-simak-jadwalnya",
@@ -26776,10 +26573,16 @@
       "daysSeen": [
         "2026-11-25"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-25",
       "lastSeen": "2026-11-25",
       "samples": [
+        {
+          "title": "Hari Guru Nasional Bakal Diwarnai Demo , Mahasiswa Geruduk Istana dan Kemendikdasmen",
+          "url": "https://www.viva.co.id/berita/metro/1946196-hari-guru-nasional-bakal-diwarnai-demo-mahasiswa-geruduk-istana-dan-kemendikdasmen",
+          "domain": "viva.co.id",
+          "date": "2026-11-25"
+        },
         {
           "title": "Hari Guru Nasional Bakal Diwarnai Demo , Mahasiswa Geruduk Istana dan Kemendikdasmen",
           "url": "https://www.viva.co.id/berita/metro/1946196-hari-guru-nasional-bakal-diwarnai-demo-mahasiswa-geruduk-istana-dan-kemendikdasmen",
@@ -26805,10 +26608,16 @@
       "daysSeen": [
         "2026-11-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-24",
       "lastSeen": "2026-11-24",
       "samples": [
+        {
+          "title": "Kasus Dugaan Makar Listyo Sigit dkk",
+          "url": "https://www.viva.co.id/topik/29-kasus-dugaan-makar-listyo-sigit-dkk",
+          "domain": "viva.co.id",
+          "date": "2026-11-24"
+        },
         {
           "title": "Kasus Dugaan Makar Listyo Sigit dkk",
           "url": "https://www.viva.co.id/topik/29-kasus-dugaan-makar-listyo-sigit-dkk",
@@ -26860,10 +26669,16 @@
       "daysSeen": [
         "2026-11-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-24",
       "lastSeen": "2026-11-24",
       "samples": [
+        {
+          "title": "Band TOTO Konser di Jakarta April 2027 , Cek Harga dan Jadwal Pembelian Tiketnya",
+          "url": "https://ameera.republika.co.id/berita/tozr1v425/band-toto-konser-di-jakarta-april-2027-cek-harga-dan-jadwal-pembelian-tiketnya",
+          "domain": "ameera.republika.co.id",
+          "date": "2026-11-24"
+        },
         {
           "title": "Band TOTO Konser di Jakarta April 2027 , Cek Harga dan Jadwal Pembelian Tiketnya",
           "url": "https://ameera.republika.co.id/berita/tozr1v425/band-toto-konser-di-jakarta-april-2027-cek-harga-dan-jadwal-pembelian-tiketnya",
@@ -26890,10 +26705,16 @@
       "daysSeen": [
         "2026-11-21"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-21",
       "lastSeen": "2026-11-21",
       "samples": [
+        {
+          "title": "Kisah Pejuang Kemanusiaan Dompet Dhuafa Menembus Gaza",
+          "url": "https://news.republika.co.id/berita/toukwe328/kisah-pejuang-kemanusiaan-dompet-dhuafa-menembus-gaza",
+          "domain": "news.republika.co.id",
+          "date": "2026-11-21"
+        },
         {
           "title": "Kisah Pejuang Kemanusiaan Dompet Dhuafa Menembus Gaza",
           "url": "https://news.republika.co.id/berita/toukwe328/kisah-pejuang-kemanusiaan-dompet-dhuafa-menembus-gaza",
@@ -26918,10 +26739,16 @@
       "daysSeen": [
         "2026-11-23"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-23",
       "lastSeen": "2026-11-23",
       "samples": [
+        {
+          "title": "Kaltim Dekatkan Sektor Peternakan ke Masyarakat",
+          "url": "https://koran-jakarta.com/2026-11-24/kaltim-dekatkan-sektor-peternakan-ke-masyarakat",
+          "domain": "koran-jakarta.com",
+          "date": "2026-11-23"
+        },
         {
           "title": "Kaltim Dekatkan Sektor Peternakan ke Masyarakat",
           "url": "https://koran-jakarta.com/2026-11-24/kaltim-dekatkan-sektor-peternakan-ke-masyarakat",
@@ -26948,10 +26775,16 @@
       "daysSeen": [
         "2026-11-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-24",
       "lastSeen": "2026-11-24",
       "samples": [
+        {
+          "title": "Sepuluh Tahun Mangkrak , JLNT Pluit Menunggu untuk Dituntaskan",
+          "url": "https://news.republika.co.id/berita/tozuv3487/sepuluh-tahun-mangkrak-jlnt-pluit-menunggu-untuk-dituntaskan",
+          "domain": "news.republika.co.id",
+          "date": "2026-11-24"
+        },
         {
           "title": "Sepuluh Tahun Mangkrak , JLNT Pluit Menunggu untuk Dituntaskan",
           "url": "https://news.republika.co.id/berita/tozuv3487/sepuluh-tahun-mangkrak-jlnt-pluit-menunggu-untuk-dituntaskan",
@@ -26979,10 +26812,16 @@
       "daysSeen": [
         "2026-11-24"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-24",
       "lastSeen": "2026-11-24",
       "samples": [
+        {
+          "title": "Valbury Tutup Roadshow 2026 lewat  INSIDE THE MARKET , Bahas Arah Industri dan Inovasi Trading Menuju 2027 .",
+          "url": "https://koran-jakarta.com/2026-11-24/valbury-tutup-roadshow-2026-lewat-inside-the-market-bahas-arah-industri-dan-inovasi-trading-menuju-2027",
+          "domain": "koran-jakarta.com",
+          "date": "2026-11-24"
+        },
         {
           "title": "Valbury Tutup Roadshow 2026 lewat  INSIDE THE MARKET , Bahas Arah Industri dan Inovasi Trading Menuju 2027 .",
           "url": "https://koran-jakarta.com/2026-11-24/valbury-tutup-roadshow-2026-lewat-inside-the-market-bahas-arah-industri-dan-inovasi-trading-menuju-2027",
@@ -27010,7 +26849,7 @@
       "daysSeen": [
         "2026-11-21"
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "firstSeen": "2026-11-21",
       "lastSeen": "2026-11-21",
       "samples": [
@@ -27019,6 +26858,66 @@
           "url": "https://www.merdeka.com/uang/read/8339582/mengapa-antrean-pelabuhan-ketapang-terus-berulang-sejak-september",
           "domain": "merdeka.com",
           "date": "2026-11-21"
+        },
+        {
+          "title": "Mengapa Antrean Pelabuhan Ketapang Terus Berulang Sejak September ?",
+          "url": "https://www.merdeka.com/uang/read/8339582/mengapa-antrean-pelabuhan-ketapang-terus-berulang-sejak-september",
+          "domain": "merdeka.com",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    "indonesia:ajakan-ambruk-deretan": {
+      "id": "indonesia:ajakan-ambruk-deretan",
+      "country": "Indonesia",
+      "terms": [
+        "ajakan",
+        "ambruk",
+        "deretan",
+        "gedung",
+        "hoaks",
+        "ponpes",
+        "terkait"
+      ],
+      "domains": [
+        "liputan6.com"
+      ],
+      "daysSeen": [
+        "2026-11-26"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "samples": [
+        {
+          "title": "Deretan Hoaks Terkait Ponpes , Gedung Ambruk hingga Ajakan Demo",
+          "url": "https://www.liputan6.com/cek-fakta/read/8342060/deretan-hoaks-terkait-ponpes-gedung-ambruk-hingga-ajakan-demo",
+          "domain": "liputan6.com",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    "indonesia:pada-2": {
+      "id": "indonesia:pada-2",
+      "country": "Indonesia",
+      "terms": [
+        "pada"
+      ],
+      "domains": [
+        "beritasatu.com"
+      ],
+      "daysSeen": [
+        "2026-11-24"
+      ],
+      "articleCount": 1,
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "samples": [
+        {
+          "title": "3 Titik Demo Mahasiswa di Jakarta pada Hari Guru 25 November",
+          "url": "https://www.beritasatu.com/dki-jakarta/3043587/3-titik-demo-mahasiswa-di-jakarta-pada-hari-guru-25-november",
+          "domain": "beritasatu.com",
+          "date": "2026-11-24"
         }
       ]
     }
