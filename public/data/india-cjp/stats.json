@@ -179,17 +179,17 @@
     },
     {
       "start": "2026-10-01",
-      "count": 2694
+      "count": 2695
     },
     {
       "start": "2026-11-01",
-      "count": 488
+      "count": 501
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 399,
+      "count": 401,
       "first": "2026-06-06",
       "last": "2026-11-26"
     },
@@ -201,9 +201,9 @@
     },
     {
       "name": "NDTV",
-      "count": 251,
+      "count": 252,
       "first": "2026-05-12",
-      "last": "2026-11-25"
+      "last": "2026-11-26"
     },
     {
       "name": "Hindustan Times",
@@ -213,13 +213,13 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 211,
+      "count": 212,
       "first": "2026-07-22",
-      "last": "2026-11-25"
+      "last": "2026-11-26"
     },
     {
       "name": "The Indian Express",
-      "count": 183,
+      "count": 184,
       "first": "2026-07-24",
       "last": "2026-11-26"
     },
@@ -236,20 +236,20 @@
       "last": "2026-11-26"
     },
     {
+      "name": "ThePrint",
+      "count": 116,
+      "first": "2026-06-19",
+      "last": "2026-11-26"
+    },
+    {
       "name": "Rediff",
       "count": 115,
       "first": "2026-06-07",
       "last": "2026-11-26"
     },
     {
-      "name": "ThePrint",
-      "count": 113,
-      "first": "2026-06-19",
-      "last": "2026-11-26"
-    },
-    {
       "name": "The Economic Times",
-      "count": 108,
+      "count": 109,
       "first": "2026-06-06",
       "last": "2026-11-25"
     },
@@ -285,7 +285,7 @@
     },
     {
       "name": "Deccan Chronicle",
-      "count": 53,
+      "count": 54,
       "first": "2026-08-16",
       "last": "2026-11-26"
     },
@@ -375,7 +375,7 @@
     },
     {
       "name": "BBC",
-      "count": 28,
+      "count": 29,
       "first": "2026-05-21",
       "last": "2026-11-24"
     },
@@ -387,9 +387,9 @@
     },
     {
       "name": "The Federal",
-      "count": 27,
+      "count": 28,
       "first": "2026-07-05",
-      "last": "2026-11-24"
+      "last": "2026-11-26"
     },
     {
       "name": "Bhaskar English",
@@ -668,6 +668,12 @@
       "last": "2026-11-05"
     },
     {
+      "name": "The Shillong Times",
+      "count": 9,
+      "first": "2026-08-11",
+      "last": "2026-11-26"
+    },
+    {
       "name": "The Siasat Daily",
       "count": 9,
       "first": "2026-09-04",
@@ -726,12 +732,6 @@
       "count": 8,
       "first": "2026-08-14",
       "last": "2026-11-24"
-    },
-    {
-      "name": "The Shillong Times",
-      "count": 8,
-      "first": "2026-08-11",
-      "last": "2026-11-25"
     },
     {
       "name": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1400,6 +1400,12 @@
       "last": "2026-08-06"
     },
     {
+      "name": "INDToday",
+      "count": 2,
+      "first": "2026-10-29",
+      "last": "2026-11-26"
+    },
+    {
       "name": "Inventiva",
       "count": 2,
       "first": "2026-10-10",
@@ -2022,12 +2028,6 @@
       "count": 1,
       "first": "2026-10-23",
       "last": "2026-10-23"
-    },
-    {
-      "name": "INDToday",
-      "count": 1,
-      "first": "2026-10-29",
-      "last": "2026-10-29"
     },
     {
       "name": "International Service for Human Rights",
