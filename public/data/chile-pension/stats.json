@@ -651,15 +651,15 @@
     },
     {
       "start": "2026-11-01",
-      "count": 61
+      "count": 65
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 90,
+      "count": 94,
       "first": "2016-08-10",
-      "last": "2026-11-24"
+      "last": "2026-11-27"
     },
     {
       "name": "The Clinic",
@@ -675,7 +675,7 @@
     },
     {
       "name": "La Izquierda Diario",
-      "count": 37,
+      "count": 31,
       "first": "2015-04-23",
       "last": "2026-06-24"
     },
@@ -684,6 +684,12 @@
       "count": 12,
       "first": "2016-07-26",
       "last": "2025-09-14"
+    },
+    {
+      "name": "La Izquierda Diario Chile",
+      "count": 11,
+      "first": "2015-06-19",
+      "last": "2026-11-02"
     },
     {
       "name": "Al Jazeera",
@@ -768,12 +774,6 @@
       "count": 5,
       "first": "2014-06-30",
       "last": "2026-08-06"
-    },
-    {
-      "name": "La Izquierda Diario Chile",
-      "count": 5,
-      "first": "2018-04-23",
-      "last": "2026-11-02"
     },
     {
       "name": "NODAL - Noticias de América Latina y el Caribe",
