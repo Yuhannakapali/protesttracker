@@ -239,7 +239,7 @@
     },
     {
       "start": "2018-04-01",
-      "count": 6
+      "count": 7
     },
     {
       "start": "2018-05-01",
@@ -651,7 +651,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 60
+      "count": 61
     }
   ],
   "sources": [
@@ -663,9 +663,9 @@
     },
     {
       "name": "The Clinic",
-      "count": 62,
+      "count": 63,
       "first": "2016-07-23",
-      "last": "2026-11-25"
+      "last": "2026-11-27"
     },
     {
       "name": "Radio Universidad de Chile",
@@ -770,6 +770,12 @@
       "last": "2026-08-06"
     },
     {
+      "name": "La Izquierda Diario Chile",
+      "count": 5,
+      "first": "2018-04-23",
+      "last": "2026-11-02"
+    },
+    {
       "name": "NODAL - Noticias de América Latina y el Caribe",
       "count": 5,
       "first": "2016-08-19",
@@ -798,12 +804,6 @@
       "count": 4,
       "first": "2026-04-20",
       "last": "2026-07-15"
-    },
-    {
-      "name": "La Izquierda Diario Chile",
-      "count": 4,
-      "first": "2020-07-08",
-      "last": "2026-11-02"
     },
     {
       "name": "Perfil",
@@ -1881,5 +1881,5 @@
     }
   ],
   "firstDate": "2013-05-01",
-  "lastDate": "2026-11-26"
+  "lastDate": "2026-11-27"
 }

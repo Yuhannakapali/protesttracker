@@ -35,7 +35,7 @@
     },
     {
       "start": "2024-06-01",
-      "count": 72
+      "count": 73
     },
     {
       "start": "2024-07-01",
@@ -87,7 +87,7 @@
     },
     {
       "start": "2025-07-01",
-      "count": 27
+      "count": 28
     },
     {
       "start": "2025-08-01",
@@ -99,7 +99,7 @@
     },
     {
       "start": "2025-10-01",
-      "count": 7
+      "count": 6
     },
     {
       "start": "2025-11-01",
@@ -198,6 +198,12 @@
       "last": "2026-08-27"
     },
     {
+      "name": "DW.com",
+      "count": 11,
+      "first": "2024-06-21",
+      "last": "2026-06-25"
+    },
+    {
       "name": "Facebook",
       "count": 11,
       "first": "2026-04-04",
@@ -214,12 +220,6 @@
       "count": 11,
       "first": "2026-05-25",
       "last": "2026-11-23"
-    },
-    {
-      "name": "DW.com",
-      "count": 10,
-      "first": "2024-06-21",
-      "last": "2026-06-25"
     },
     {
       "name": "World Socialist Web Site",
@@ -330,12 +330,6 @@
       "last": "2026-01-05"
     },
     {
-      "name": "Modern Ghana",
-      "count": 4,
-      "first": "2025-11-20",
-      "last": "2026-06-25"
-    },
-    {
       "name": "Nairobi Leo",
       "count": 4,
       "first": "2026-06-23",
@@ -344,7 +338,7 @@
     {
       "name": "The Kenyan Wallstreet",
       "count": 4,
-      "first": "2024-06-24",
+      "first": "2024-06-18",
       "last": "2026-08-01"
     },
     {
@@ -412,6 +406,12 @@
       "count": 3,
       "first": "2024-07-22",
       "last": "2026-06-20"
+    },
+    {
+      "name": "Modern Ghana",
+      "count": 3,
+      "first": "2025-11-20",
+      "last": "2026-06-25"
     },
     {
       "name": "Reuters",
@@ -570,7 +570,7 @@
       "last": "2024-07-19"
     },
     {
-      "name": "Bloomberg.com",
+      "name": "Bloomberg",
       "count": 1,
       "first": "2026-05-05",
       "last": "2026-05-05"
@@ -652,6 +652,12 @@
       "count": 1,
       "first": "2026-06-26",
       "last": "2026-06-26"
+    },
+    {
+      "name": "EWN",
+      "count": 1,
+      "first": "2026-06-25",
+      "last": "2026-06-25"
     },
     {
       "name": "Forbes Africa",
