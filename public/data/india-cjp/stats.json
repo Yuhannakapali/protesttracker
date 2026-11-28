@@ -183,19 +183,19 @@
     },
     {
       "start": "2026-11-01",
-      "count": 507
+      "count": 520
     }
   ],
   "sources": [
     {
       "name": "The Hindu",
-      "count": 401,
+      "count": 403,
       "first": "2026-06-06",
-      "last": "2026-11-26"
+      "last": "2026-11-27"
     },
     {
       "name": "The Times of India",
-      "count": 270,
+      "count": 272,
       "first": "2026-06-06",
       "last": "2026-11-27"
     },
@@ -231,20 +231,20 @@
     },
     {
       "name": "Telegraph India",
-      "count": 145,
+      "count": 146,
       "first": "2026-07-18",
-      "last": "2026-11-26"
+      "last": "2026-11-27"
+    },
+    {
+      "name": "Rediff",
+      "count": 116,
+      "first": "2026-06-07",
+      "last": "2026-11-27"
     },
     {
       "name": "ThePrint",
       "count": 116,
       "first": "2026-06-19",
-      "last": "2026-11-26"
-    },
-    {
-      "name": "Rediff",
-      "count": 115,
-      "first": "2026-06-07",
       "last": "2026-11-26"
     },
     {
@@ -255,15 +255,15 @@
     },
     {
       "name": "ANI News",
-      "count": 98,
+      "count": 99,
       "first": "2026-07-22",
-      "last": "2026-11-24"
+      "last": "2026-11-25"
     },
     {
       "name": "Deccan Herald",
-      "count": 97,
+      "count": 98,
       "first": "2026-06-05",
-      "last": "2026-11-25"
+      "last": "2026-11-26"
     },
     {
       "name": "News18",
@@ -302,22 +302,22 @@
       "last": "2026-11-05"
     },
     {
+      "name": "The Week",
+      "count": 49,
+      "first": "2026-07-27",
+      "last": "2026-11-27"
+    },
+    {
       "name": "The Statesman",
       "count": 48,
       "first": "2026-08-18",
       "last": "2026-11-22"
     },
     {
-      "name": "The Week",
-      "count": 48,
-      "first": "2026-07-27",
-      "last": "2026-11-26"
-    },
-    {
       "name": "Telangana Today",
-      "count": 46,
+      "count": 47,
       "first": "2026-07-25",
-      "last": "2026-11-26"
+      "last": "2026-11-27"
     },
     {
       "name": "The Tribune",
@@ -398,16 +398,16 @@
       "last": "2026-10-20"
     },
     {
+      "name": "The South First",
+      "count": 26,
+      "first": "2026-09-01",
+      "last": "2026-11-27"
+    },
+    {
       "name": "Scroll.in",
       "count": 25,
       "first": "2026-07-26",
       "last": "2026-11-26"
-    },
-    {
-      "name": "The South First",
-      "count": 25,
-      "first": "2026-09-01",
-      "last": "2026-11-02"
     },
     {
       "name": "Mathrubhumi English",
@@ -476,16 +476,16 @@
       "last": "2026-11-06"
     },
     {
+      "name": "DT Next",
+      "count": 17,
+      "first": "2026-08-21",
+      "last": "2026-11-27"
+    },
+    {
       "name": "Inshorts",
       "count": 17,
       "first": "2026-08-16",
       "last": "2026-11-05"
-    },
-    {
-      "name": "DT Next",
-      "count": 16,
-      "first": "2026-08-21",
-      "last": "2026-10-22"
     },
     {
       "name": "LawChakra",
@@ -620,6 +620,12 @@
       "last": "2026-11-05"
     },
     {
+      "name": "The Shillong Times",
+      "count": 11,
+      "first": "2026-07-22",
+      "last": "2026-11-26"
+    },
+    {
       "name": "Asianet Newsable",
       "count": 10,
       "first": "2026-08-16",
@@ -648,12 +654,6 @@
       "count": 10,
       "first": "2026-07-23",
       "last": "2026-11-07"
-    },
-    {
-      "name": "The Shillong Times",
-      "count": 10,
-      "first": "2026-08-11",
-      "last": "2026-11-26"
     },
     {
       "name": "MorungExpress",
@@ -1040,12 +1040,6 @@
       "last": "2026-10-16"
     },
     {
-      "name": "thehawk.in",
-      "count": 4,
-      "first": "2026-07-22",
-      "last": "2026-09-27"
-    },
-    {
       "name": "theopenpress.in",
       "count": 4,
       "first": "2026-11-03",
@@ -1232,6 +1226,12 @@
       "last": "2026-11-24"
     },
     {
+      "name": "thehawk.in",
+      "count": 3,
+      "first": "2026-08-25",
+      "last": "2026-09-27"
+    },
+    {
       "name": "Türkiye Today",
       "count": 3,
       "first": "2026-10-10",
@@ -1368,6 +1368,12 @@
       "count": 2,
       "first": "2026-10-05",
       "last": "2026-10-08"
+    },
+    {
+      "name": "FlipItMoney",
+      "count": 2,
+      "first": "2026-11-26",
+      "last": "2026-11-27"
     },
     {
       "name": "Genocide Watch",
@@ -1866,12 +1872,6 @@
       "count": 1,
       "first": "2026-10-07",
       "last": "2026-10-07"
-    },
-    {
-      "name": "FlipItMoney",
-      "count": 1,
-      "first": "2026-11-26",
-      "last": "2026-11-26"
     },
     {
       "name": "Foreign Policy",
