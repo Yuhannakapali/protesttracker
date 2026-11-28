@@ -311,7 +311,7 @@
     },
     {
       "start": "2019-10-01",
-      "count": 37
+      "count": 38
     },
     {
       "start": "2019-11-01",
@@ -651,15 +651,15 @@
     },
     {
       "start": "2026-11-01",
-      "count": 67
+      "count": 68
     }
   ],
   "sources": [
     {
       "name": "El Ciudadano",
-      "count": 94,
+      "count": 95,
       "first": "2016-08-10",
-      "last": "2026-11-27"
+      "last": "2026-11-28"
     },
     {
       "name": "The Clinic",
@@ -675,19 +675,19 @@
     },
     {
       "name": "La Izquierda Diario",
-      "count": 30,
+      "count": 29,
       "first": "2015-04-23",
       "last": "2026-06-24"
     },
     {
       "name": "DW.com",
-      "count": 12,
+      "count": 13,
       "first": "2016-07-26",
       "last": "2025-09-14"
     },
     {
       "name": "La Izquierda Diario Chile",
-      "count": 12,
+      "count": 13,
       "first": "2015-06-19",
       "last": "2026-11-02"
     },
@@ -1893,5 +1893,5 @@
     }
   ],
   "firstDate": "2013-05-01",
-  "lastDate": "2026-11-27"
+  "lastDate": "2026-11-28"
 }

@@ -183,7 +183,7 @@
     },
     {
       "start": "2026-11-01",
-      "count": 520
+      "count": 526
     }
   ],
   "sources": [
@@ -213,9 +213,9 @@
     },
     {
       "name": "The New Indian Express",
-      "count": 213,
+      "count": 214,
       "first": "2026-07-22",
-      "last": "2026-11-26"
+      "last": "2026-11-28"
     },
     {
       "name": "The Indian Express",
@@ -285,9 +285,9 @@
     },
     {
       "name": "Deccan Chronicle",
-      "count": 54,
+      "count": 55,
       "first": "2026-08-16",
-      "last": "2026-11-26"
+      "last": "2026-11-28"
     },
     {
       "name": "Outlook India",
@@ -380,15 +380,15 @@
       "last": "2026-11-24"
     },
     {
+      "name": "The Federal",
+      "count": 29,
+      "first": "2026-07-05",
+      "last": "2026-11-28"
+    },
+    {
       "name": "EdexLive",
       "count": 28,
       "first": "2024-06-18",
-      "last": "2026-11-26"
-    },
-    {
-      "name": "The Federal",
-      "count": 28,
-      "first": "2026-07-05",
       "last": "2026-11-26"
     },
     {
@@ -458,6 +458,18 @@
       "last": "2026-11-24"
     },
     {
+      "name": "DT Next",
+      "count": 18,
+      "first": "2026-08-21",
+      "last": "2026-11-28"
+    },
+    {
+      "name": "Inshorts",
+      "count": 18,
+      "first": "2026-08-16",
+      "last": "2026-11-28"
+    },
+    {
       "name": "Maktoob",
       "count": 18,
       "first": "2026-07-31",
@@ -474,18 +486,6 @@
       "count": 17,
       "first": "2026-08-17",
       "last": "2026-11-06"
-    },
-    {
-      "name": "DT Next",
-      "count": 17,
-      "first": "2026-08-21",
-      "last": "2026-11-27"
-    },
-    {
-      "name": "Inshorts",
-      "count": 17,
-      "first": "2026-08-16",
-      "last": "2026-11-05"
     },
     {
       "name": "LawChakra",
@@ -806,6 +806,12 @@
       "last": "2026-07-25"
     },
     {
+      "name": "AP7AM",
+      "count": 5,
+      "first": "2026-10-03",
+      "last": "2026-11-28"
+    },
+    {
       "name": "Cityairnews",
       "count": 5,
       "first": "2026-09-17",
@@ -906,12 +912,6 @@
       "count": 4,
       "first": "2026-07-19",
       "last": "2026-09-11"
-    },
-    {
-      "name": "AP7AM",
-      "count": 4,
-      "first": "2026-10-03",
-      "last": "2026-10-11"
     },
     {
       "name": "Babushahi.com",
@@ -2146,8 +2146,8 @@
     {
       "name": "Lowy Institute",
       "count": 1,
-      "first": "2026-11-17",
-      "last": "2026-11-17"
+      "first": "2026-11-18",
+      "last": "2026-11-18"
     },
     {
       "name": "M9.news",
@@ -2685,5 +2685,5 @@
     }
   ],
   "firstDate": "2023-02-06",
-  "lastDate": "2026-11-27"
+  "lastDate": "2026-11-28"
 }
